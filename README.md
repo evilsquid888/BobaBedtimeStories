@@ -1,6 +1,6 @@
 # BobaBedtimeStories
 
-A collection of 20 bedtime stories for ages 9-12, set in the colorful, delicious world of Taiwanese desserts. Each story stars a sentient dessert ingredient — tapioca pearls, taro, mochi, shaved ice, and more — on adventures across Taiwan's night markets, mountains, temples, and beaches.
+A collection of 25 bedtime stories for ages 9-12, set in the colorful, delicious world of Taiwanese desserts. Each story stars a sentient dessert ingredient — tapioca pearls, taro, mochi, shaved ice, and more — on adventures across Taiwan's night markets, mountains, temples, and beaches.
 
 Stories blend humor, heart, and light Mandarin Chinese vocabulary into cozy nighttime reading. Characters joyfully embrace their delicious destinies, and every tale ends with a warm Goodnight Blessing to send young readers off to sleep.
 
@@ -37,6 +37,11 @@ Stories blend humor, heart, and light Mandarin Chinese vocabulary into cozy nigh
 | 18 | [Sesame Ball and the Golden Roll](stories/18-sesame-ball-and-the-golden-roll.md) | Zhīma (芝麻球) | Sun Moon Lake | Bravery needs heart |
 | 19 | [Starfruit and the Five-Pointed Wish](stories/19-starfruit-and-the-five-pointed-wish.md) | Yángmáo (楊桃) | Yangmingshan at night | Dreams and perseverance |
 | 20 | [The Grand Dessert Reunion](stories/20-the-grand-dessert-reunion.md) | All characters | Grand Hotel Taipei | Community and celebration |
+| 21 | [Boba and the Midnight Demon Parade](stories/21-boba-and-the-midnight-demon-parade.md) | Boba (波霸) | Keelung, Ghost Month | Sharing makes you whole |
+| 22 | [Grass Jelly and the Stinky Tofu Demon](stories/22-grass-jelly-and-the-stinky-tofu-demon.md) | Caǎo (仙草) | Shenkeng Old Street | Don't judge by smell |
+| 23 | [Egg Waffle and the Demon Chicken Festival](stories/23-egg-waffle-and-the-demon-chicken-festival.md) | Dàn (雞蛋糕) | Shilin Night Market | The best shows end with a bang |
+| 24 | [Mochi and the Demon Slumber Party](stories/24-mochi-and-the-demon-slumber-party.md) | Mochi (麻糬) | Wulai Hot Springs | Love stretches to fit everyone |
+| 25 | [Tāng Yuán and the Demon King's Midnight Snack](stories/25-tangyuan-and-the-demon-kings-midnight-snack.md) | Tāng Yuán (湯圓) | Lukang Old Town | Everyone deserves warmth |
 
 ## Mandarin Quick Reference
 
