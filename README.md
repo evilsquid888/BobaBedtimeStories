@@ -16,6 +16,8 @@ Stories blend humor, heart, and light Mandarin Chinese vocabulary into cozy nigh
 ## Illustrated HTML Editions
 
 - [Story 03: Aiyu and the Mountain Spring](illustrated/03-aiyu-and-the-mountain-spring/index.html)
+- [Story 04: Mochi and the Stretchy Escape](illustrated/04-mochi-and-the-stretchy-escape/index.html)
+- [Story 05: Grass Jelly and the Cool Shadow](illustrated/05-grass-jelly-and-the-cool-shadow/index.html)
 
 ## Story Index
 
