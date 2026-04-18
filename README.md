@@ -13,6 +13,10 @@ Stories blend humor, heart, and light Mandarin Chinese vocabulary into cozy nigh
 - 3 AI image prompts per story for illustration
 - Warm, silly, Roald Dahl-meets-night-market tone
 
+## Illustrated HTML Editions
+
+- [Story 03: Aiyu and the Mountain Spring](illustrated/03-aiyu-and-the-mountain-spring/index.html)
+
 ## Story Index
 
 | # | Story | Main Character | Setting | Theme |
