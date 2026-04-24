@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Tangyuan and the Lantern Festival</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --ink: #2f2731;
+        --paper: #fff8f1;
+        --mist: #f2edf9;
+        --accent: #8b4ca8;
+        --accent-2: #d97a2b;
+        --line: rgba(47, 39, 49, 0.16);
+        --shadow: 0 18px 50px rgba(47, 39, 49, 0.14);
+      }
+      * { box-sizing: border-box; } html { scroll-behavior: smooth; }
+      body { margin: 0; font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif; background: linear-gradient(180deg, rgba(242, 237, 249, 0.92), rgba(255, 248, 241, 0.98) 40%), var(--paper); color: var(--ink); }
+      .book-nav { position: sticky; top: 0; z-index: 5; display: flex; gap: 0.45rem; align-items: center; overflow-x: auto; padding: 0.7rem max(1rem, calc((100vw - 1120px) / 2)); background: rgba(255, 248, 241, 0.88); border-bottom: 1px solid var(--line); backdrop-filter: blur(16px); }
+      .book-nav a { flex: 0 0 auto; min-width: 2.25rem; min-height: 2.25rem; display: inline-grid; place-items: center; border: 1px solid var(--line); border-radius: 8px; text-decoration: none; color: inherit; font: 700 0.8rem/1 ui-sans-serif, system-ui, sans-serif; background: rgba(255, 255, 255, 0.62); }
+      .book-nav a:first-child { min-width: 4.8rem; } .book-nav a:hover, .book-nav a:focus-visible { outline: 2px solid rgba(139, 76, 168, 0.28); background: white; }
+      main { width: min(1120px, calc(100% - 2rem)); margin: 0 auto; }
+      .page { min-height: calc(100svh - 3.7rem); display: grid; grid-template-columns: minmax(0, 1.02fr) minmax(19rem, 0.78fr); align-items: center; gap: clamp(1rem, 4vw, 3.25rem); padding: clamp(2rem, 5vw, 4rem) 0; border-bottom: 1px solid var(--line); }
+      .page:last-child { border-bottom: 0; } .intro { grid-template-columns: minmax(0, 0.9fr) minmax(19rem, 1fr); } .intro .art { order: 2; } .intro .page-copy { order: 1; }
+      .art { margin: 0; } .art img { display: block; width: 100%; aspect-ratio: 3 / 2; object-fit: cover; border-radius: 8px; box-shadow: var(--shadow); border: 1px solid rgba(255, 255, 255, 0.75); background: var(--mist); }
+      .page-copy { align-self: stretch; display: flex; flex-direction: column; justify-content: center; gap: 1rem; }
+      .eyebrow { margin: 0; color: var(--accent); font: 800 0.78rem/1.2 ui-sans-serif, system-ui, sans-serif; text-transform: uppercase; }
+      h1, h2 { margin: 0; text-wrap: balance; } h1 { font-size: clamp(2.55rem, 6vw, 5.7rem); line-height: 0.96; } h2 { font-size: clamp(2rem, 3.6vw, 3.6rem); line-height: 1; }
+      p { margin: 0; font-size: clamp(1.06rem, 1.8vw, 1.32rem); line-height: 1.58; } .lead { font-size: clamp(1.18rem, 2vw, 1.55rem); }
+      .spotlight, .blessing { padding: 1rem; border: 1px solid var(--line); border-radius: 8px; background: rgba(255, 255, 255, 0.64); }
+      .spotlight strong, .hanzi { color: var(--accent-2); } .tag-row { display: flex; flex-wrap: wrap; gap: 0.55rem; }
+      .tag { border-radius: 999px; padding: 0.42rem 0.7rem; background: rgba(139, 76, 168, 0.12); color: #71358e; font: 700 0.82rem/1 ui-sans-serif, system-ui, sans-serif; }
+      .number { width: 3rem; height: 3rem; display: grid; place-items: center; border-radius: 8px; background: var(--ink); color: white; font: 800 0.96rem/1 ui-sans-serif, system-ui, sans-serif; }
+      .blessing { border-color: rgba(217, 122, 43, 0.28); background: rgba(255, 250, 244, 0.78); }
+      @media (max-width: 820px) { main { width: min(100% - 1rem, 42rem); } .page, .intro { min-height: auto; grid-template-columns: 1fr; gap: 1.25rem; padding: 1.6rem 0 2.5rem; } .intro .art, .intro .page-copy { order: initial; } h1 { font-size: clamp(2.35rem, 14vw, 4rem); } h2 { font-size: clamp(1.9rem, 10vw, 3rem); } }
+    </style>
+  </head>
+  <body>
+    <nav class="book-nav" aria-label="Story pages">
+      <a href="#intro">Intro</a><a href="#page-1">1</a><a href="#page-2">2</a><a href="#page-3">3</a><a href="#page-4">4</a><a href="#page-5">5</a><a href="#page-6">6</a><a href="#page-7">7</a><a href="#page-8">8</a><a href="#page-9">9</a><a href="#page-10">10</a>
+    </nav>
+    <main>
+      <section class="page intro" id="intro">
+        <figure class="art"><img src="assets/story-10-intro.png" alt="Tangyuan floats happily in warm ginger soup as lanterns glow over Pingxi." /></figure>
+        <div class="page-copy">
+          <p class="eyebrow">Story 10</p>
+          <h1>Tangyuan and the Lantern Festival</h1>
+          <p class="lead">On Lantern Festival night in Pingxi, one cheerful rice ball discovers that the sweetest part of tradition is being together.</p>
+          <div class="spotlight"><p><strong>Mandarin Spotlight:</strong> <span class="hanzi">湯圓</span> (tāngyuán) = tangyuan</p></div>
+          <div class="tag-row"><span class="tag">Bedtime Story</span><span class="tag">Pingxi</span><span class="tag">Family Togetherness</span><span class="tag">Lantern Festival</span></div>
+        </div>
+      </section>
+      <section class="page" id="page-1"><figure class="art"><img src="assets/story-10-page-01.png" alt="Tangyuan bobs happily with his relatives in a pot of warm ginger broth." /></figure><div class="page-copy"><span class="number">1</span><h2>Round and Proud</h2><p>Tāng Yuán was round, and he was proud of it. "We're all in this soup together!" he announced to his many relations bobbing around him.</p><p>Today was the Lantern Festival, the great night of light, wishes, and warm bowls of sweet soup.</p></div></section>
+      <section class="page" id="page-2"><figure class="art"><img src="assets/story-10-page-02.png" alt="The Chen family drives toward Pingxi with the thermos of tangyuan." /></figure><div class="page-copy"><span class="number">2</span><h2>Off to Pingxi</h2><p>The Chén family packed the whole tangyuan clan into a thermos and drove to <span class="hanzi">平溪</span> (Píngxī), the mountain town famous for sky lanterns.</p><p>Inside the car, Grandma Chén complained the tangyuan was too sweet this year. As always.</p></div></section>
+      <section class="page" id="page-3"><figure class="art"><img src="assets/story-10-page-03.png" alt="Pingxi glows with lanterns, stalls, and festival crowds at dusk." /></figure><div class="page-copy"><span class="number">3</span><h2>Lantern Town</h2><p>By dusk, Pingxi shimmered with red lanterns, food stalls, and the excited buzz of families getting ready to launch wishes into the night.</p><p>The Chéns bought one huge sky lantern so every family member could write a wish on it.</p></div></section>
+      <section class="page" id="page-4"><figure class="art"><img src="assets/story-10-page-04.png" alt="Each family member writes on the lantern while Zhi-Ming hesitates." /></figure><div class="page-copy"><span class="number">4</span><h2>One Wish Each</h2><p>Grandmother wrote for health. Mama wrote for peace of mind. Baba wrote for the business. Yú-Xīn hid her wish behind her hand.</p><p>But Zhì-Míng stared at his blank space and could not think what to write.</p></div></section>
+      <section class="page" id="page-5"><figure class="art"><img src="assets/story-10-page-05.png" alt="Zhi-Ming writes his wish to stay together forever as the family watches." /></figure><div class="page-copy"><span class="number">5</span><h2>Together Forever</h2><p>At last Zhì-Míng admitted the wish he wanted sounded silly. He wished they could keep doing this forever, all of them together.</p><p>The whole family fell quiet. Then Grandmother said, very firmly, "Write that. It is the best wish on the lantern."</p></div></section>
+      <section class="page" id="page-6"><figure class="art"><img src="assets/story-10-page-06.png" alt="Tangyuan feels deeply moved inside the thermos while the family holds the lantern." /></figure><div class="page-copy"><span class="number">6</span><h2>What Tangyuan Is For</h2><p>Inside the thermos, Tāng Yuán felt his black sesame heart wobble. Tangyuan was not only a food. He was a reminder that family gathers, shares warmth, and returns to the same bowl.</p><p>His pink cousin nodded. Of course that was what they were for.</p></div></section>
+      <section class="page" id="page-7"><figure class="art"><img src="assets/story-10-page-07.png" alt="The family holds up the glowing lantern as the crowd counts down." /></figure><div class="page-copy"><span class="number">7</span><h2>Three, Two, One</h2><p>All across the launch field, lanterns glowed in waiting hands. The crowd counted down together while the Chéns gripped their lantern edges.</p><p>Then came the shout, "<span class="hanzi">放</span>!" (fàng), "Release!" and the night opened like a dream.</p></div></section>
+      <section class="page" id="page-8"><figure class="art"><img src="assets/story-10-page-08.png" alt="Hundreds of lanterns drift into the dark mountain sky above Pingxi." /></figure><div class="page-copy"><span class="number">8</span><h2>A River of Light</h2><p>Hundreds of lanterns floated upward into the dark mountain sky, each one carrying a precious hope. Somewhere among them rose Zhì-Míng's wish: together forever.</p><p>"<span class="hanzi">太棒了</span>," (tài bàng le), Grandmother whispered. For once, she had no correction to add.</p></div></section>
+      <section class="page" id="page-9"><figure class="art"><img src="assets/story-10-page-09.png" alt="The family gathers around a small table with steaming bowls of tangyuan." /></figure><div class="page-copy"><span class="number">9</span><h2>Eat Together</h2><p>After the launch, the family sat at a little night market table while Mama unscrewed the thermos and ladled out bowls of tangyuan in ginger soup.</p><p>Grandmother stopped everyone with a raised finger. "We eat together. On the count of three."</p></div></section>
+      <section class="page" id="page-10"><figure class="art"><img src="assets/story-10-page-10.png" alt="The family smiles over their bowls while distant lanterns glow in the sky." /></figure><div class="page-copy"><span class="number">10</span><h2>The Taste of Home</h2><p>Five spoons dipped at once. Zhì-Míng bit into Tāng Yuán, and warm black sesame sweetness filled his mouth like a memory being born.</p><p>In that bite, Tāng Yuán understood: togetherness does not last forever in time, but it lasts forever in the heart.</p><div class="blessing"><p>Goodnight, little rice ball. May you float in warm love, carry sweetness into your dreams, and always remember that you are never alone.</p></div></div></section>
+    </main>
+  </body>
+</html>

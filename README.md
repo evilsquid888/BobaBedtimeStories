@@ -19,6 +19,10 @@ Stories blend humor, heart, and light Mandarin Chinese vocabulary into cozy nigh
 - [Story 04: Mochi and the Stretchy Escape](illustrated/04-mochi-and-the-stretchy-escape/index.html)
 - [Story 05: Grass Jelly and the Cool Shadow](illustrated/05-grass-jelly-and-the-cool-shadow/index.html)
 - [Story 06: Pineapple Cake and the Golden Gift](illustrated/06-pineapple-cake-and-the-golden-gift/index.html)
+- [Story 07: Shaved Ice and the Summer Meltdown](illustrated/07-shaved-ice-and-the-summer-meltdown/index.html)
+- [Story 08: Mango and the Sunshine Race](illustrated/08-mango-and-the-sunshine-race/index.html)
+- [Story 09: Red Bean and the Warm Heart](illustrated/09-red-bean-and-the-warm-heart/index.html)
+- [Story 10: Tangyuan and the Lantern Festival](illustrated/10-tangyuan-and-the-lantern-festival/index.html)
 
 ## Story Index
 
