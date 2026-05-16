@@ -53,6 +53,7 @@ Stories blend humor, heart, and light Mandarin Chinese vocabulary into cozy nigh
 | 23 | [Egg Waffle and the Demon Chicken Festival](stories/23-egg-waffle-and-the-demon-chicken-festival.md) | Dàn (雞蛋糕) | Shilin Night Market | The best shows end with a bang |
 | 24 | [Mochi and the Demon Slumber Party](stories/24-mochi-and-the-demon-slumber-party.md) | Mochi (麻糬) | Wulai Hot Springs | Love stretches to fit everyone |
 | 25 | [Tāng Yuán and the Demon King's Midnight Snack](stories/25-tangyuan-and-the-demon-kings-midnight-snack.md) | Tāng Yuán (湯圓) | Lukang Old Town | Everyone deserves warmth |
+| 26 | [Mango and the Dessert Track Meet](stories/26-mango-and-the-dessert-track-meet.md) | Mango (芒果) | National Stadium, Kaohsiung | Find your event, run your race |
 
 ## Mandarin Quick Reference
 
