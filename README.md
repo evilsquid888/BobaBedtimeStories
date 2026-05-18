@@ -1,12 +1,12 @@
 # BobaBedtimeStories
 
-A collection of 25 bedtime stories for ages 9-12, set in the colorful, delicious world of Taiwanese desserts. Each story stars a sentient dessert ingredient — tapioca pearls, taro, mochi, shaved ice, and more — on adventures across Taiwan's night markets, mountains, temples, and beaches.
+A collection of 27 bedtime stories for ages 9-12, set in the colorful, delicious world of Taiwanese desserts. Each story stars a sentient dessert ingredient — tapioca pearls, taro, mochi, shaved ice, and more — on adventures across Taiwan's night markets, mountains, temples, and beaches. Plus a few extra-special guest travelers who came along for the ride.
 
 Stories blend humor, heart, and light Mandarin Chinese vocabulary into cozy nighttime reading. Characters joyfully embrace their delicious destinies, and every tale ends with a warm Goodnight Blessing to send young readers off to sleep.
 
 ## Features
 
-- 20 original stories, each ~1800-2000 words
+- 27 original stories, each ~1800-2000 words
 - Set in real locations across Taiwan
 - Mandarin vocabulary woven naturally into each story
 - Cross-over guests from the Penguinsnowboard and Uncle Piggle Wiggle universes
@@ -54,6 +54,7 @@ Stories blend humor, heart, and light Mandarin Chinese vocabulary into cozy nigh
 | 24 | [Mochi and the Demon Slumber Party](stories/24-mochi-and-the-demon-slumber-party.md) | Mochi (麻糬) | Wulai Hot Springs | Love stretches to fit everyone |
 | 25 | [Tāng Yuán and the Demon King's Midnight Snack](stories/25-tangyuan-and-the-demon-kings-midnight-snack.md) | Tāng Yuán (湯圓) | Lukang Old Town | Everyone deserves warmth |
 | 26 | [Mango and the Dessert Track Meet](stories/26-mango-and-the-dessert-track-meet.md) | Mango (芒果) | National Stadium, Kaohsiung | Find your event, run your race |
+| 27 | [Three Tadpoles and the Glass-Bottom Gondola](stories/27-three-tadpoles-and-the-glass-bottom-gondola.md) | Janie, Jayna & Cat | Maokong Gondola & Taipei Zoo | Big adventures in small bodies |
 
 ## Mandarin Quick Reference
 
