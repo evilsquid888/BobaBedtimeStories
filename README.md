@@ -1,12 +1,12 @@
 # BobaBedtimeStories
 
-A collection of 27 bedtime stories for ages 9-12, set in the colorful, delicious world of Taiwanese desserts. Each story stars a sentient dessert ingredient — tapioca pearls, taro, mochi, shaved ice, and more — on adventures across Taiwan's night markets, mountains, temples, and beaches. Plus a few extra-special guest travelers who came along for the ride.
+A collection of 32 bedtime stories for ages 9-12, set in the colorful, delicious world of Taiwanese desserts. Each story stars a sentient dessert ingredient — tapioca pearls, taro, mochi, shaved ice, and more — on adventures across Taiwan's night markets, mountains, temples, and beaches. Plus a few extra-special guest travelers who came along for the ride.
 
 Stories blend humor, heart, and light Mandarin Chinese vocabulary into cozy nighttime reading. Characters joyfully embrace their delicious destinies, and every tale ends with a warm Goodnight Blessing to send young readers off to sleep.
 
 ## Features
 
-- 27 original stories, each ~1800-2000 words
+- 32 original stories, each ~1800-2000 words
 - Set in real locations across Taiwan
 - Mandarin vocabulary woven naturally into each story
 - Cross-over guests from the Penguinsnowboard and Uncle Piggle Wiggle universes
@@ -55,6 +55,11 @@ Stories blend humor, heart, and light Mandarin Chinese vocabulary into cozy nigh
 | 25 | [Tāng Yuán and the Demon King's Midnight Snack](stories/25-tangyuan-and-the-demon-kings-midnight-snack.md) | Tāng Yuán (湯圓) | Lukang Old Town | Everyone deserves warmth |
 | 26 | [Mango and the Dessert Track Meet](stories/26-mango-and-the-dessert-track-meet.md) | Mango (芒果) | National Stadium, Kaohsiung | Find your event, run your race |
 | 27 | [Three Tadpoles and the Glass-Bottom Gondola](stories/27-three-tadpoles-and-the-glass-bottom-gondola.md) | Janie, Jayna & Cat | Maokong Gondola & Taipei Zoo | Big adventures in small bodies |
+| 28 | [Willa Wobble and the Crazy 8 Tryouts](stories/28-willa-wobble-and-the-crazy-eight-tryouts.md) | Willa Wobble & Papa Byte | Willa's iceberg-cottage home | Rest is part of the work |
+| 29 | [Aiyu and the Firefly Forest](stories/29-aiyu-and-the-firefly-forest.md) | Aiyu (愛玉) | Xitou Forest, Nantou | Your quiet glow lights the way |
+| 30 | [Sesame Ball and the Marble Canyon](stories/30-sesame-ball-and-the-marble-canyon.md) | Zhīma (芝麻球) | Taroko Gorge, Hualien | Keep your momentum |
+| 31 | [Pudding and the Midnight Train](stories/31-pudding-and-the-midnight-train.md) | Bùdīng (布丁) | Late-night Taiwan Railways train | It's okay to wobble — you still arrive |
+| 32 | [Red Bean and the Winter Solstice](stories/32-red-bean-and-the-winter-solstice.md) | Hóng Dòu (紅豆) | Taipei night market, 冬至 | Warmth shared in the cold |
 
 ## Mandarin Quick Reference
 
