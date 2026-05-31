@@ -17,7 +17,11 @@ Cozy, funny, food-themed bedtime stories for a 9-year-old (ages 9–12). Warm Ro
 - **Costa Rica** ("Pura Vida") features gallo pinto, casado, tres leches, granizados, coffee & coconut friends, plus sloths, toucans, sea turtles, rainforests, and volcanoes.
 - **Japan** covers Tokyo Tower & Skytree, onsen & snow monkeys, anime/otaku & gachapon, torii gates & festivals, hanami & hanabi, street eats (sushi, ramen, Pepper Lunch, takoyaki), kimono & Kyoto, the shinkansen across regions, kawaii folklore — **and a cozy "Import Night" car-culture arc** (#88–92: garage tuning, neon car meets, a *touge* sunrise drive, a friendly time-attack, and a sushi food-truck crew).
 
-## Pipeline
+## Pipeline (complete)
 1. ✅ Planning workflow — roadmaps generated & deduped.
-2. ▶️ Writing workflows — one per collection, fanning out to write every story file.
-3. ⏳ QA workflow — final duplicate + bedtime age-appropriateness sweep across all collections.
+2. ✅ Writing workflows — all 268 new stories written.
+3. ✅ QA workflow — 0 age-appropriateness concerns; 0 literal duplicates.
+4. ✅ Differentiation + rewrite passes — 43 stories rewritten to remove thematic repetition (distinct premises/characters/lessons).
+5. ✅ Indexes + character guides generated; final integrity verified (300 stories, no dup numbers/titles, none under length).
+
+Remaining low-priority notes: a few MED-severity thematic echoes (a recurring character's personality showing up in 2 stories) were judged acceptable variety for a children's series rather than rewritten.
