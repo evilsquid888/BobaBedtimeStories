@@ -1,10 +1,10 @@
 # Story 57: Kuma Kuri and the Golden Pavilion
 
 **Main Character:** Kuma the Kuri
-**Guest Characters:** None
+**Guest Characters:** Pepper-kun, Sora the Soft-Cream, Maru Matcha
 **Setting:** Kinkaku-ji, the shimmering Golden Pavilion reflected in its pond
 **Theme:** True shine comes from within
-**Japanese Spotlight:** きん (kin) = gold
+**Japanese Spotlight:** kin (keen) — gold
 
 ---
 
@@ -26,9 +26,9 @@ Kuma said nothing at all. He just tugged his autumn scarf a little tighter, and 
 
 You see, Kuma had never minded being a chestnut before. He liked his round, sturdy shape. He liked his cozy roasted-warm glow, the kind that made friends scoot closer on cold nights. He liked that he smelled faintly of campfires and autumn leaves.
 
-But standing in front of all that **きん** (kin) = gold, his glossy brown shell suddenly felt very... brown. The kind of brown you'd walk right past. The kind nobody writes postcards about.
+But standing in front of all that **kin** (keen) — gold — his glossy brown shell suddenly felt very... brown. The kind of brown you'd walk right past. The kind nobody writes postcards about.
 
-A gentle bell rang somewhere in the temple gardens. Today, the friends had come to Kyoto for something special: a **着物** (kimono) = traditional Japanese robe fitting. A kind old shopkeeper down the lane had offered to dress each of them in a tiny silk kimono for the autumn festival, and everyone was buzzing about which colors they'd pick.
+A gentle bell rang somewhere in the temple gardens. Today, the friends had come to Kyoto for something special: a **kimono** (kee-moh-noh) — traditional Japanese robe — fitting. A kind old shopkeeper down the lane had offered to dress each of them in a tiny silk kimono for the autumn festival, and everyone was buzzing about which colors they'd pick.
 
 "I'm getting one with FIRE on it," declared Pepper-kun.
 
@@ -46,13 +46,13 @@ Kuma looked up at the Golden Pavilion, all dazzle and shine.
 
 Now, the kimono shop was tucked between a tea house and a shop that sold nothing but tiny umbrellas. Inside, it smelled of warm cedar and old silk, and bolts of fabric were stacked from floor to ceiling like a rainbow that had decided to take a nap.
 
-The shopkeeper was an ancient, smiling **湯のみ** (yunomi) = teacup — a wise old pottery friend with a chip on his rim that he called his "lucky dent."
+The shopkeeper was an ancient, smiling **yunomi** (yoo-noh-mee) — a teacup — a wise old pottery friend with a chip on his rim that he called his "lucky dent."
 
 "A gold kimono?" the teacup asked Kuma, raising one painted eyebrow. "For a chestnut?"
 
 "The shiniest gold you have," said Kuma, standing as tall as a round little chestnut can stand. "I want to match the pavilion."
 
-The old teacup hmmed and hawed and shuffled to the very top shelf. Down came a kimono of gleaming gold silk — so bright it practically buzzed. The friends helped wrap Kuma up in it, fold by careful fold, tying the **帯** (obi) = wide sash around his middle in a great floppy bow.
+The old teacup hmmed and hawed and shuffled to the very top shelf. Down came a kimono of gleaming gold silk — so bright it practically buzzed. The friends helped wrap Kuma up in it, fold by careful fold, tying the **obi** (oh-bee) — the wide sash — around his middle in a great floppy bow.
 
 Then they all turned him toward the mirror.
 
@@ -110,7 +110,7 @@ Kuma felt something warm bloom right in his cozy center — warmer than roasting
 
 A maple leaf landed right on the tip of his fuzzy cap, like a tiny crown of autumn. And the funny thing was — he *did* shine. Not blazing-bright like the pavilion. But glowing, soft and golden-brown, the exact color of toasted marshmallows and warm fireplaces and the last sweet light of a fall afternoon.
 
-"You know," said Maru, with the faintest of smiles, "there's more than one kind of **きん** (kin)."
+"You know," said Maru, with the faintest of smiles, "there's more than one kind of kin."
 
 She dipped her little whisk into the pond and pointed up. The setting sun had turned the whole sky a deep roasted gold — the warm kind, the cozy kind — and it poured down over Kuma and the maple leaves and the friends all together.
 

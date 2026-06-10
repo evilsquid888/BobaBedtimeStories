@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A wide-open dairy farm in snowy Hokkaido
 **Theme:** Home is wherever your gentle heart feels full
-**Japanese Spotlight:** ぎゅうにゅう (gyuunyuu) = milk
+**Japanese Spotlight:** **gyuunyuu** (gyoo-nyoo) — milk
 
 ---
 
@@ -30,15 +30,15 @@ Before her stretched the biggest, widest, most enormous-est field she had ever s
 
 Sora spun her swirl around. Standing in the snow, chewing very thoughtfully, was a cow. A big, gentle, black-and-white cow with frosty breath and the kindest, sleepiest eyes Sora had ever seen — eyes almost exactly like her own.
 
-"Hello," said the cow, in no hurry at all — in fact, she finished chewing one whole mouthful of hay before she went on. "I am Mochizuki. You smell like home."
+"Hello," said the cow, in no hurry at all — in fact, she finished chewing one whole mouthful of hay before she went on. "I am Ushiko. You smell like home."
 
 "I smell like home?" Sora blinked. "What does home smell like?"
 
-"Cream," said Mochizuki, with great certainty. "Cream and snow and a little bit of hay." She gave a slow sniff. "Mostly cream, though. You are VERY creamy. It's lovely."
+"Cream," said Ushiko, with great certainty. "Cream and snow and a little bit of hay." She gave a slow sniff. "Mostly cream, though. You are VERY creamy. It's lovely."
 
-"I... I think I AM from home," said Sora. "I'm made of **ぎゅうにゅう** (gyuunyuu) = milk. YOUR milk, maybe! I came all this way to see the place I was born."
+"I... I think I AM from home," said Sora. "I'm made of **gyuunyuu** (gyoo-nyoo) — milk. YOUR milk, maybe! I came all this way to see the place I was born."
 
-Mochizuki blinked one slow, friendly blink. "Then you have come to the right pasture. Welcome to the farm, little swirl. Welcome to where the gyuunyuu begins."
+Ushiko blinked one slow, friendly blink. "Then you have come to the right pasture. Welcome to the farm, little swirl. Welcome to where the gyuunyuu begins."
 
 And she swished her tail, very slowly, as if to say: *follow me, but don't rush — we never rush here.*
 
@@ -50,23 +50,23 @@ The farm did everything s-l-o-w-l-y, and Sora loved it immediately.
 
 The cows ambled. The wind drifted. Even the snow seemed to fall in slow motion, each flake taking its sweet time. Sora, who came from a busy world of bright food stalls and zippy friends, felt her whole swirl relax.
 
-Mochizuki showed her the frosty pasture where the cows munched sweet winter hay. There were quite a lot of cows, and every single one of them said "Moo" to Sora, very slowly, one after another, so that by the time the last cow had finished mooing, the first cow had nearly forgotten and started mooing all over again. It took half the morning to say hello. Sora loved every second of it.
+Ushiko showed her the frosty pasture where the cows munched sweet winter hay. There were quite a lot of cows, and every single one of them said "Moo" to Sora, very slowly, one after another, so that by the time the last cow had finished mooing, the first cow had nearly forgotten and started mooing all over again. It took half the morning to say hello. Sora loved every second of it.
 
-Then Mochizuki showed her the little spring where the water ran clear and cold, and a fat snow-rabbit who lived nearby and did absolutely nothing but blink. ("That's Daikon," said Mochizuki. "He is the laziest rabbit in Hokkaido. We are very proud of him.")
+Then Ushiko showed her the little spring where the water ran clear and cold, and a fat snow-rabbit who lived nearby and did absolutely nothing but blink. ("That's Daikon," said Ushiko. "He is the laziest rabbit in Hokkaido. We are very proud of him.")
 
 And finally she showed her, with great pride, the warm red barn where, every morning, the farmer collected the fresh, frothy, fabulous gyuunyuu.
 
-"This," said Mochizuki, "is the secret. Cold air outside. Warm hearts inside. Slow days, wide skies, happy cows. THAT is what makes the creamiest cream in the world."
+"This," said Ushiko, "is the secret. Cold air outside. Warm hearts inside. Slow days, wide skies, happy cows. THAT is what makes the creamiest cream in the world."
 
 Sora's drip-curl quivered. "So I'm made of... happy?"
 
-"Mostly," said Mochizuki kindly. "And a little hay."
+"Mostly," said Ushiko kindly. "And a little hay."
 
 Sora giggled — a soft, melty little giggle. But then, slowly (everything was slow here), a worry crept up her cone.
 
-"Mochizuki," she said, "if THIS is my real home — the wide skies, the slow days, the happy cows — then maybe..." Her drip-curl drooped the teensiest bit. "Maybe I belong here. Maybe I never should have left at all. My friends are so far away now. And they're all so... so FAST. And bright. And bubbly. And I'm just... slow."
+"Ushiko," she said, "if THIS is my real home — the wide skies, the slow days, the happy cows — then maybe..." Her drip-curl drooped the teensiest bit. "Maybe I belong here. Maybe I never should have left at all. My friends are so far away now. And they're all so... so FAST. And bright. And bubbly. And I'm just... slow."
 
-Mochizuki chewed on this for a good, long while. (Everything here, remember, took a good, long while.)
+Ushiko chewed on this for a good, long while. (Everything here, remember, took a good, long while.)
 
 "Hmm," she said at last. "Let me show you one more thing."
 
@@ -74,29 +74,29 @@ Mochizuki chewed on this for a good, long while. (Everything here, remember, too
 
 She led Sora up a gentle white hill, past a snowman the cows had built. It had a hay nose, two pebble eyes set just slightly too far apart, and it looked rather pleased with itself for a fellow made entirely of snow.
 
-"The cows built him last winter," Mochizuki explained. "His name is Mister Frostbottom. He is an excellent listener and gives terrible advice."
+"The cows built him last winter," Ushiko explained. "His name is Mister Frostbottom. He is an excellent listener and gives terrible advice."
 
 "What advice does he give?" Sora asked.
 
-"He doesn't," said Mochizuki. "He's a snowman. That's the terrible part."
+"He doesn't," said Ushiko. "He's a snowman. That's the terrible part."
 
 Sora giggled the whole rest of the way up to the very tip-top.
 
 And from the top, the whole farm spread out below them — but so did something ELSE. Because beyond the farm, way out past the field's edge, Sora could see the silver thread of the train tracks. The tracks that led south. The tracks that led to bright stalls and bubbly friends and warm bowls of ramen and giggly takoyaki and a soft pink mochi named Momo who gave the very best squishes.
 
-"When you look out there," said Mochizuki, "what does your heart do?"
+"When you look out there," said Ushiko, "what does your heart do?"
 
 Sora looked. And her creamy heart did a funny thing. It got full — full like the wide sky, full like fresh gyuunyuu, full to the very tip of her drip-curl.
 
 "It... feels full," she whispered, surprised. "But it felt full HERE, too. With you. And the cows. And the snow."
 
-Mochizuki nodded slowly. "Then you have learned the creamiest secret of all, little swirl. Home is not one field. Home is not one place. Home is wherever your gentle heart feels full." She swished her tail. "You can be from the wide skies AND belong with your bubbly friends. A swirl can have two homes. That is the lucky part of being made of love and a little hay."
+Ushiko nodded slowly. "Then you have learned the creamiest secret of all, little swirl. Home is not one field. Home is not one place. Home is wherever your gentle heart feels full." She swished her tail. "You can be from the wide skies AND belong with your bubbly friends. A swirl can have two homes. That is the lucky part of being made of love and a little hay."
 
 Sora was quiet for a long, slow moment. A snowflake landed on her tip and did not melt.
 
-"Mochizuki," she said, "that is the nicest thing a cow has ever told me."
+"Ushiko," she said, "that is the nicest thing a cow has ever told me."
 
-"It is," agreed Mochizuki, "the only thing a cow has ever told you."
+"It is," agreed Ushiko, "the only thing a cow has ever told you."
 
 And they both laughed — one a slow, melty giggle, the other a great rumbly "MOO" — until snow shook gently from the pine branches.
 
@@ -108,13 +108,13 @@ The fresh gyuunyuu came out frothy and warm and white as the snow. It swirled in
 
 "Oh," she breathed. "I'm watching myself be born."
 
-"Spookiest thing I've ever seen," said Mochizuki, who did not look spooked at all, only fond.
+"Spookiest thing I've ever seen," said Ushiko, who did not look spooked at all, only fond.
 
 She watched the gyuunyuu thicken. She watched it whip. She watched it climb the cone, round and round, building up into a tall proud curl, and she felt a happy shiver run all the way down to her cone-tip.
 
 "Was I that small once?" she whispered.
 
-"Smaller," said Mochizuki. "You were barely a dollop. Now look at you — a whole magnificent swirl, all the way from here to the southern stalls and back. The gyuunyuu is proud of you. So am I."
+"Smaller," said Ushiko. "You were barely a dollop. Now look at you — a whole magnificent swirl, all the way from here to the southern stalls and back. The gyuunyuu is proud of you. So am I."
 
 Sora's drip-curl wobbled happily. And just then, the machine pulled the lever — *swoosh!* — and out came a brand-new little swirl of soft-serve, pale gold and proud, with its own teeny drip-curl. It blinked up at Sora.
 
@@ -128,7 +128,7 @@ And that — though Sora did not know it yet — was the moment she stopped feel
 
 ---
 
-When it was time to go, Mochizuki walked Sora all the way to the snowy lane (slowly, of course).
+When it was time to go, Ushiko walked Sora all the way to the snowy lane (slowly, of course).
 
 "Will you come back?" asked the cow.
 
@@ -136,9 +136,9 @@ When it was time to go, Mochizuki walked Sora all the way to the snowy lane (slo
 
 "Tell Mister Frostbottom goodbye for me," Sora added. "And give Daikon the rabbit a blink from me, if he ever wakes up."
 
-"He won't," said Mochizuki fondly. "But I'll tell him anyway."
+"He won't," said Ushiko fondly. "But I'll tell him anyway."
 
-Sora gave Mochizuki the gentlest, melty-est hug a soft-serve can give, which is very gentle indeed — just a soft cool press of swirl against warm woolly cow, the kind of hug that says *thank you* better than any words. Then she waddled down the lane, leaving little swirl-prints behind her, her drip-curl waving a happy goodbye.
+Sora gave Ushiko the gentlest, melty-est hug a soft-serve can give, which is very gentle indeed — just a soft cool press of swirl against warm woolly cow, the kind of hug that says *thank you* better than any words. Then she waddled down the lane, leaving little swirl-prints behind her, her drip-curl waving a happy goodbye.
 
 At the snowy platform, the train hummed and waited. Sora climbed aboard and pressed her swirl to the window. The wide white fields drifted past — slow, calm, full of sleepy cows and big quiet sky.
 

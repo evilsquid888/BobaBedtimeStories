@@ -1,10 +1,10 @@
 # Story 31: Anko and the Sharing Bench
 
 **Main Character:** Anko — a round, soft, sweet red-bean bun with a shiny top and a generous heart
-**Guest Characters:** None
+**Guest Characters:** The Dango Three (Pinku, Shiro, Cha), Tai Taiyaki, plus a friendly little mochi, a strawberry daifuku, and a dorayaki
 **Setting:** A sunny park bench by a koi pond
 **Theme:** A snack shared is a snack doubled
-**Japanese Spotlight:** 分ける (wakeru) = to share
+**Japanese Spotlight:** wakeru (wah-keh-roo) — to share
 
 ---
 
@@ -14,13 +14,13 @@ And of all the sitting spots in all the world, the very best was the bench by th
 
 So on this golden spring afternoon, Anko waddled to that bench, plopped his shiny self right in the middle, spread his stubby arms across the whole thing, and announced to nobody: "Mine. All mine. Every glorious inch."
 
-He'd brought a snack, too — a fat slice of his own favorite **おやつ** (oyatsu) = snack: a wobbly square of warm castella cake. He set it beside him, on the part of the bench where a friend might sit.
+He'd brought a snack, too — a fat slice of his own favorite **oyatsu** (oh-YAH-tsoo) — snack: a wobbly square of warm castella cake. He set it beside him, on the part of the bench where a friend might sit.
 
 "Friends," he sniffed, "take up bench."
 
 A koi blooped at the surface of the pond, as if to say, *we'll see about that.*
 
-The cherry trees were blooming overhead, snowing pink petals down onto the water. This was **花見** (hanami) = flower-viewing, the loveliest custom of spring, when everyone gathered under the blossoms to nibble snacks and watch the petals drift. Half the park had come out for it. Families spread blankets. Old men played a board game. Somewhere a flute played a tune so sweet it made the koi swim in slow, dreamy circles.
+The cherry trees were blooming overhead, snowing pink petals down onto the water. This was **hanami** (hah-NAH-mee) — flower-viewing, the loveliest custom of spring, when everyone gathered under the blossoms to nibble snacks and watch the petals drift. Half the park had come out for it. Families spread blankets. Old men played a board game. Somewhere a flute played a tune so sweet it made the koi swim in slow, dreamy circles.
 
 And Anko had the best bench all to himself.
 
@@ -28,7 +28,7 @@ And Anko had the best bench all to himself.
 
 "Excuse me," said a small, breathless voice.
 
-Anko turned. A little mochi, white and squishy and dusted with **きな粉** (kinako) = roasted soybean flour, stood at the end of the bench, hopping from foot to foot. Mochis can't sit on the ground — they stick. Everyone knows that.
+Anko turned. A little mochi, white and squishy and dusted with **kinako** (kee-NAH-koh) — roasted soybean flour, stood at the end of the bench, hopping from foot to foot. Mochis can't sit on the ground — they stick. Everyone knows that.
 
 "Could I sit?" the mochi asked. "Just on the edge. I won't be any trouble. I get terribly tired standing, on account of being mostly squish."
 
@@ -50,7 +50,7 @@ Anko looked at his cake. It was a big slice. Bigger, really, than one bun could 
 
 Now, Anko had a generous heart — he'd just been sitting on it for so long it had gone a little flat, like his bottom. But hearts, like buns, plump right back up when you warm them.
 
-"Want to **分ける** (wakeru) = to share it?" Anko heard himself say. "Half each?"
+"Want to **wakeru** (wah-keh-roo) — to share — it?" Anko heard himself say. "Half each?"
 
 The word felt funny and brave in his mouth, like the first jump into a cold pond.
 
@@ -70,7 +70,7 @@ But the warm Anko — the plumped-up Anko — looked at the bench and discovered
 
 "There's room," he said. "We're sharing castella. There's a crumb or two left."
 
-"And I have **せんべい** (senbei) = rice crackers!" said the daifuku, pulling out a little stack. "We can **分ける** those!"
+"And I have **senbei** (sen-BAY) — rice crackers!" said the daifuku, pulling out a little stack. "We can wakeru those!"
 
 So now the bench had three, and three rows of snacks, and the senbei went *crunch-crunch-crunch* in a way that made the koi pop up in a line to listen. The daifuku knew a song about a sleepy frog. The mochi knew the words. Anko didn't know any of it, but he hummed along badly, and his bad humming turned out to be the funniest part, and the daifuku laughed so hard her strawberry nearly fell out.
 
@@ -84,21 +84,21 @@ Anko felt his shiny top go a little pink. "That bun sounds *dreadful,*" he said.
 
 A dorayaki rolled up next — two little pancakes hugging a pillow of red-bean paste, just like Anko's own insides, so they were practically cousins. He sat down with a satisfied flump and immediately began telling a long, rambling story about the time he'd rolled all the way down a hill and landed in a noodle shop, which had no real ending but made everyone laugh anyway, mostly at the parts where he forgot what came next.
 
-Then came a dango on a stick — three round brothers, pink and white and green, who never went anywhere apart and made room for each other automatically, which Anko thought was very wise of them. They had no snack to share, and looked terribly embarrassed about it.
+Then came the Dango Three on their single stick — Pinku, Shiro, and Cha, three round dumplings, pink and white and green, who never went anywhere apart and made room for each other automatically, which Anko thought was very wise of them. They had no snack to share, and looked terribly embarrassed about it.
 
-"We ate ours on the way," the pink one mumbled.
+"We ate ours on the way," Pinku mumbled.
 
 "That's all right," said Anko, before he'd even decided to say it. "You can share our *space.* Space is a snack too, when nobody's got a bench." And he scooted, and there was room, because there was always room.
 
-The dango brothers cheered up at once and offered to be the entertainment instead. They lined up on the bench-back and did a wobbly little balancing act, all three on one stick, swaying like a tiny green-and-pink tree in the breeze. They fell off twice. It was the best show anyone had ever seen.
+The Dango Three cheered up at once and offered to be the entertainment instead. They lined up on the bench-back and did a wobbly little balancing act, all three on one stick, swaying like a tiny green-and-pink tree in the breeze. They fell off twice. It was the best show anyone had ever seen.
 
 By the time the sun began to slip low and gold, the bench was *packed* — squished, squishy, shiny, dusted, giggling full. Every snack had brought a snack. Every snack had shared it. There was castella and senbei and a half-melted scoop of something cold and a single perfect strawberry that went around the whole bench so everyone got one tiny, magnificent bite.
 
-A passing taiyaki — a little fish-shaped cake, warm and golden — stopped to watch them. "Is this a party?" she asked. "It looks like the best party in the whole park, and I've been to four."
+Tai Taiyaki — a little fish-shaped cake, warm and golden — came swimming through the air and stopped to watch them. "Is this a party?" he asked. "It looks like the best party in the whole park, and I've been to four."
 
-"It's not a party," said the mochi. "It's just a bench. But a bench where everybody **分ける**."
+"It's not a party," said the mochi. "It's just a bench. But a bench where everybody wakeru."
 
-"That," said the taiyaki firmly, "is the definition of a party." And she squeezed on too, tail-first, and added her own sweet fish-shaped self to the pile, and shared a story about the bottom of the pond that may or may not have been entirely true but had a wonderful part with a turtle in it.
+"That," said Tai firmly, "is the definition of a party." And he squeezed on too, tail-first, and added his own sweet fish-shaped self to the pile, and shared a story about the bottom of the pond that may or may not have been entirely true but had a wonderful part with a turtle in it.
 
 And the strangest, best thing of all? Anko had eaten less castella than ever before in his life — and felt *fuller* than he ever had.
 
@@ -106,7 +106,7 @@ And the strangest, best thing of all? Anko had eaten less castella than ever bef
 
 The mochi thought about this with her whole squishy face.
 
-"Because a snack you eat alone is just a snack," she said. "But a snack you **分ける** turns into an afternoon."
+"Because a snack you eat alone is just a snack," she said. "But a snack you wakeru turns into an afternoon."
 
 Anko looked down the long, crowded, cozy bench — at all the round faces glowing gold in the sunset, at the petals on the water, at the grumpy fish who'd finally cracked the tiniest smile. His chest felt warm and plump and full to the very top of his shiny head.
 
@@ -120,15 +120,15 @@ The mochi patted his shiny side. "You'd have figured it out eventually."
 
 "I doubt it," said Anko honestly. "I'm a very stubborn bun. It took a tired mochi and a castella to crack me open." He looked around at all of them, glowing in the gold. "Thank you for not giving up on the edge."
 
-Then the sky did something marvelous. The first stars blinked awake, and with a soft *pop-pop-POP* the spring **花火** (hanabi) = fireworks bloomed overhead — pink and gold and green, raining down sparks like the cherry trees raining petals, only brighter. The whole bench gasped together, and a gasp shared by a whole bench is the very best kind of gasp.
+Then the park did something quiet and marvelous. The first stars blinked awake, and one by one the paper lanterns came on along the paths — soft rounds of gold glowing between the dark branches, while the last petals drifted down through the dusk like sleepy pink snow. The whole bench sighed together, and a sigh shared by a whole bench is the very best kind of sigh.
 
-They watched until the last spark fizzled into the pond. And then, sleepy and snackful and side by side, the snacks of the sharing bench leaned together in a warm, squishy heap — mochi on dorayaki on dango on Anko on daifuku — and watched the koi turn slow circles in the starlight.
+They watched until the lantern light lay still and golden on the pond. And then, sleepy and snackful and side by side, the snacks of the sharing bench leaned together in a warm, squishy heap — mochi on dorayaki on dango on Anko on daifuku — and watched the koi turn slow circles in the starlight.
 
 "Same time tomorrow?" yawned the mochi.
 
 "Same time tomorrow," said Anko. "I'll bring castella."
 
-"We'll **分ける** it," everyone said at once.
+"We'll wakeru it," everyone said at once.
 
 And they did, every single golden afternoon after that. The bench was never empty again, and Anko was never lonely again, and he never once thought to admire his reflection — because he was far too busy looking at his friends.
 
@@ -136,7 +136,7 @@ And they did, every single golden afternoon after that. The bench was never empt
 
 ## Goodnight Blessing
 
-Sleep now, little one, soft and warm as red-bean paste, snug as a bench full of friends. May your days be full of snacks to **分ける**, and your heart plump up like a bun whenever you scoot over to make room. Remember: a treat you keep is sweet, but a treat you share turns into a whole golden afternoon. The petals are settling. The koi are dreaming. The last firework has whispered goodnight. And so, dear heart, do you. Goodnight.
+Sleep now, little one, soft and warm as red-bean paste, snug as a bench full of friends. May your days be full of snacks to wakeru, and your heart plump up like a bun whenever you scoot over to make room. Remember: a treat you keep is sweet, but a treat you share turns into a whole golden afternoon. The petals are settling. The koi are dreaming. The lanterns are glowing soft and low. And so, dear heart, do you. Goodnight.
 
 ## AI Image Prompts
 
@@ -144,4 +144,4 @@ Sleep now, little one, soft and warm as red-bean paste, snug as a bench full of 
 
 2. **Character portrait:** Anko, a plump round red-bean bun with toasted-toffee brown skin, a glossy shiny top reflecting light, two stubby little arms, a soft flat bottom, and a wide generous smile. A single cherry petal rests on his head. Cute friendly expression, warm cozy storybook style, soft pastel background.
 
-3. **Closing scene:** Dusk over the koi pond, spring fireworks blooming pink and gold across a starry sky. On the bench below, a heap of sleepy snuggling dessert characters lean together watching, the pond reflecting both fireworks and floating petals. Peaceful, dreamy, magical bedtime mood.
+3. **Closing scene:** Dusk over the koi pond, warm paper lanterns glowing gold along the park paths beneath a starry sky. On the bench below, a heap of sleepy snuggling dessert characters lean together watching, the pond reflecting both lantern light and floating petals. Peaceful, dreamy, magical bedtime mood.

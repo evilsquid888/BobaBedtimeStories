@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A festival street parade carrying a mikoshi portable shrine
 **Theme:** Everyone carries a little of the load
-**Japanese Spotlight:** おみこし (omikoshi) = portable shrine
+**Japanese Spotlight:** **omikoshi** (oh-mee-koh-shee) — portable shrine
 
 ---
 
@@ -18,7 +18,7 @@ The festival street was lined with paper lanterns the color of warm egg yolks, a
 
 The three dango pivoted in a circle like a tiny carousel — Pinku, Shiro, Cha, Pinku, Shiro, Cha — until they were so dizzy they had to flop sideways against a stack of festival snacks. And that, dear reader, was when they spotted it.
 
-The **おみこし** (omikoshi) = portable shrine.
+The **omikoshi** (oh-mee-koh-shee) — portable shrine.
 
 ---
 
@@ -34,7 +34,7 @@ A round old radish-lantern bobbed over to them, glowing softly. "Little dango," 
 
 Pinku puffed up. "We are not strong friends," she said. "We are a STICK of friends. That's different."
 
-The lantern chuckled and dimmed its flame in a little bow. "Then take your places. The parade begins when the **太鼓** (taiko) = big drum sounds three times. And remember the secret of the omikoshi: it is never carried by lifting. It is carried by chanting."
+The lantern chuckled and dimmed its flame in a little bow. "Then take your places. The parade begins when the **taiko** (tie-koh) — big drum — sounds three times. And remember the secret of the omikoshi: it is never carried by lifting. It is carried by chanting."
 
 "By WHAT?" said all three dango at once.
 
@@ -74,7 +74,7 @@ That was when a small, sticky, joyful sound floated down the street.
 
 Around the corner came a parade of festival treats, each one carrying a corner of a different little shrine — a candy apple, a stick of mochi, a tiny grilled rice ball — and they weren't straining at all. They were bouncing. They were grinning. They were chanting that funny word, over and over, in perfect rhythm.
 
-"**わっしょい** (wasshoi)!" they sang. "Heave-ho, all together-o!"
+"**Wasshoi** (wah-shoy)!" they sang. "Heave-ho, all together-o!"
 
 And here's the strange thing, the wink-at-you thing: those treats were no bigger than the dango. Some were smaller. Yet their shrines floated down the street as light as bubbles, swaying happily side to side.
 
@@ -98,7 +98,7 @@ Pinku looked at Shiro. Shiro looked at Cha. Cha looked at all of them and gave a
 
 "Then let's do it the right way this time," said Cha. "Not by lifting hardest. By lifting *together.*"
 
-They took their places again — Pinku front-left, Shiro front-right, Cha back-left, the warm little lantern back-right. And far down the street, the **太鼓** boomed.
+They took their places again — Pinku front-left, Shiro front-right, Cha back-left, the warm little lantern back-right. And far down the street, the taiko boomed.
 
 *BOOM.*
 

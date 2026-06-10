@@ -4,7 +4,7 @@
 **Guest Characters:** Tang Yuan
 **Setting:** A festival workshop
 **Theme:** Handmade glows
-**Word Spotlight:** 燈籠 (denglong) = lantern
+**Word Spotlight:** **denglong** (dung-long) — lantern
 
 ---
 
@@ -14,17 +14,17 @@ On the very last evening before the Lantern Festival, the workshop behind the ni
 
 It was Tang Yuan — a plump, pearly-white rice ball, soft and bouncy and so squishably round that he wobbled when he got excited, which was always. Tonight he was excited enough to nearly roll off the table.
 
-Deng Deng floated down with a shy little dip. "A little light glows warmest," he said. "Would you like to make your very own 燈籠 (denglong) = lantern? A real one. With your own two... well, with your own paste-y rice-ball hands?"
+Deng Deng floated down with a shy little dip. "A little light glows warmest," he said. "Would you like to make your very own **denglong** (dung-long) — lantern? A real one. With your own two... well, with your own paste-y rice-ball hands?"
 
 Tang Yuan gasped so hard he hiccuped. "MORE than yes!"
 
 ---
 
-"First," said Deng Deng, gliding to a shelf and tugging down a big square of red paper with one tassel, "every lantern begins with **紙** (zhǐ) = paper. Red paper, because red means luck, and luck means glow, and glow means... well, me."
+"First," said Deng Deng, gliding to a shelf and tugging down a big square of red paper with one tassel, "every lantern begins with **zhi** (jer) — paper. Red paper, because red means luck, and luck means glow, and glow means... well, me."
 
 The paper drifted down and landed right on top of Tang Yuan, who vanished completely. "I am a ghost lantern now," came his muffled voice. "WooOOoo."
 
-"You are a dumpling under a blanket," said Deng Deng kindly, lifting the paper off. Tang Yuan popped out, grinning, with one corner of the paper stuck to his sticky cheek. Deng Deng peeled it loose. "Step one. We **fold** the paper in half — the long way, like closing a book. Match the corners. Press the crease nice and flat."
+"You are a rice ball under a blanket," said Deng Deng kindly, lifting the paper off. Tang Yuan popped out, grinning, with one corner of the paper stuck to his sticky cheek. Deng Deng peeled it loose. "Step one. We **fold** the paper in half — the long way, like closing a book. Match the corners. Press the crease nice and flat."
 
 Tang Yuan flopped his whole soft body onto the fold to flatten it, which was not technically the right tool but worked surprisingly well. *Squish.* "Like this?"
 
@@ -44,7 +44,7 @@ Tang Yuan took this duty *very* seriously. He bounced along the folded edge — 
 
 "Why do we stop?" asked Tang Yuan, peering at the gap.
 
-"Because that uncut top," said Deng Deng, "is what holds the whole lantern together. Cut all the way and you don't get a 燈籠 — you get confetti."
+"Because that uncut top," said Deng Deng, "is what holds the whole lantern together. Cut all the way and you don't get a denglong — you get confetti."
 
 "I love confetti," said Tang Yuan.
 
@@ -66,15 +66,15 @@ Tang Yuan tried to roll the paper, but being round and sticky and overexcited, h
 
 "It's cozy in here," said Tang Yuan. "Ten out of ten. Would roll again."
 
-Deng Deng gently unrolled him, dusted him off, and showed him how to curve the paper the *other* way — around the outside — until the two short edges kissed and the middle puffed into a perfect plump barrel. "Now tape the edges where they meet. Top and bottom both. **膠帶** (jiāodài) = tape. A grown-up isn't needed for tape, but a steady friend is."
+Deng Deng gently unrolled him, dusted him off, and showed him how to curve the paper the *other* way — around the outside — until the two short edges kissed and the middle puffed into a perfect plump barrel. "Now tape the edges where they meet. Top and bottom both. **Jiaodai** (jyow-dye) — tape. A grown-up isn't needed for tape, but a steady friend is."
 
-Tang Yuan held the seam closed while Deng Deng wound the tape — *zzzip, zzzip* — and there it was. A round red 燈籠, glowing faintly in the lamplight, its strips bowing out like the ribs of a small happy whale.
+Tang Yuan held the seam closed while Deng Deng wound the tape — *zzzip, zzzip* — and there it was. A round red denglong, glowing faintly in the lamplight, its strips bowing out like the ribs of a small happy whale.
 
 Tang Yuan went very quiet. "We *made* that," he whispered. "Out of one flat boring square."
 
 "Nothing flat is ever boring," said Deng Deng softly, "if you fold it with love. But we're not done. A lantern needs to be *carried*, and a lantern needs to be *dressed*."
 
-So Deng Deng cut a thin strip of leftover paper (Auntie supervised, naturally — "GROWN-UP!" "I never left, dear") and they taped it across the top opening to make a **handle**, an arch you could hook a finger under. Then came the dressing-up. Tang Yuan pressed shiny gold stickers all over the red, plus three glittery stars, plus one sticker of a smiling dumpling that looked suspiciously like himself.
+So Deng Deng cut a thin strip of leftover paper (Auntie supervised, naturally — "GROWN-UP!" "I never left, dear") and they taped it across the top opening to make a **handle**, an arch you could hook a finger under. Then came the dressing-up. Tang Yuan pressed shiny gold stickers all over the red, plus three glittery stars, plus one sticker of a smiling rice ball that looked suspiciously like himself.
 
 "That's me!" he beamed. "Now I'm IN the festival forever."
 
@@ -86,7 +86,7 @@ Tang Yuan clicked the tiny switch. A soft golden light bloomed up through the re
 
 "Better," said Deng Deng, his own glow shining wet and happy at the rim. "It glows like *you made it*. And handmade glows warmest of all."
 
-Out into the night market they went, Deng Deng floating and Tang Yuan rolling, the brand-new 燈籠 swinging from a stick between them, painting little circles of red light on the cobblestones. Bao Bao waved from her bun cart. Hong Hong's candied fruits caught the glow and threw it back in sparkles. And all the festival lanterns above seemed to lean down to welcome the smallest, newest, most-loved one of all.
+Out into the night market they went, Deng Deng floating and Tang Yuan rolling, the brand-new denglong swinging from a stick between them, painting little circles of red light on the cobblestones. Bao Bao waved from her bun cart. Hong Hong's candied fruits caught the glow and threw it back in sparkles. And all the festival lanterns above seemed to lean down to welcome the smallest, newest, most-loved one of all.
 
 They shared it with everyone — which is the very best thing to do with a glow.
 

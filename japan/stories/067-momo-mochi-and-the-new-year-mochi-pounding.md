@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A village square at New Year, where mochi is pounded in a big wooden mortar
 **Theme:** New beginnings are best started together
-**Japanese Spotlight:** おもち (omochi) = pounded rice cake
+**Japanese Spotlight:** omochi (oh-moh-chee) — pounded rice cake
 
 ---
 
@@ -12,9 +12,9 @@ On the very first morning of the New Year, the village square wore a hat of snow
 
 "It's TODAY!" she squealed, stretching one taffy arm all the way across the square to ring the festival bell. "Oh my squishness, it's finally today!"
 
-In the middle of the square sat the biggest wooden bowl Momo had ever seen — a great round **臼** (usu) = mortar, carved from one whole tree trunk, smooth and honey-brown. Beside it leaned a mallet taller than Momo herself.
+In the middle of the square sat the biggest wooden bowl Momo had ever seen — a great round **usu** (oo-soo) — mortar, carved from one whole tree trunk, smooth and honey-brown. Beside it leaned a mallet taller than Momo herself.
 
-Today the whole village would make **おもち** (omochi) = pounded rice cake. Together. From scratch. And Momo had volunteered to be Chief Cheerer.
+Today the whole village would make **omochi** (oh-moh-chee) — pounded rice cake. Together. From scratch. And Momo had volunteered to be Chief Cheerer.
 
 She had even made a sign. It said: *SQUISH TOGETHER, STAY TOGETHER!* The letters were a little wobbly. She'd written them with her arm.
 
@@ -48,7 +48,7 @@ A starch cloud went up. Somewhere in it, Momo's voice said, brightly: "See? Easy
 
 The crowd burst out laughing — the warm kind of laugh, the kind that melts ice off rooftops.
 
-"Okay, okay," Momo giggled, sitting up and dusting herself into an even bigger powder puff. "Maybe not *alone* alone. But that's GOOD news! Because the secret of **おもち** isn't one big strong arm." She paused, peach cheeks glowing. "It's two."
+"Okay, okay," Momo giggled, sitting up and dusting herself into an even bigger powder puff. "Maybe not *alone* alone. But that's GOOD news! Because the secret of omochi isn't one big strong arm." She paused, peach cheeks glowing. "It's two."
 
 She held up two fingers — well, two little arm-tips.
 
@@ -68,15 +68,15 @@ The adzuki bean looked at the great mallet. Then at the steaming rice. Then at M
 
 So it began.
 
-The soybean lifted the mallet — *up, up* — and brought it down. **よいしょ!** (yoisho!) = heave-ho! the crowd chanted, the way you do when something needs a little extra muscle.
+The soybean lifted the mallet — *up, up* — and brought it down. "**Yoisho!** (yoy-shoh) — heave-ho!" the crowd chanted, the way you do when something needs a little extra muscle.
 
 *BAM!*
 
 And quick as a blink, the adzuki bean darted in and folded the rice. *Fold.*
 
-*BAM!* — *fold.* — **よいしょ!**
+*BAM!* — *fold.* — Yoisho!
 
-*BAM!* — *fold.* — **よいしょ!**
+*BAM!* — *fold.* — Yoisho!
 
 The rhythm caught. It rolled through the whole square like a warm wave. The little ones clapped on every BAM. The grown-up grains stomped their feet. Steam billowed up and caught the winter sun and turned gold, and right in the middle of it all stood Momo Mochi, conducting like the world's squishiest orchestra leader, both taffy arms swinging.
 
@@ -96,7 +96,7 @@ And the laughing started all over again.
 
 ---
 
-By the time the sun climbed over the rooftops, the rice in the usu had become **おもち** — a great glossy mound, soft and warm and impossibly stretchy. Momo reached in and pulled, and it stretched, and stretched, and *stretched*, longer than the bell rope, until everyone gasped.
+By the time the sun climbed over the rooftops, the rice in the usu had become omochi — a great glossy mound, soft and warm and impossibly stretchy. Momo reached in and pulled, and it stretched, and stretched, and *stretched*, longer than the bell rope, until everyone gasped.
 
 "That's how you know it's perfect," Momo said proudly, and she let it go *snap* back into a happy blob.
 
@@ -104,7 +104,7 @@ But there was one little problem left.
 
 The adzuki bean — the very one who'd been afraid of making a lumpy New Year — was looking at the beautiful mochi with worried eyes again. "It's so perfect now," the bean said. "What if I shape my piece wrong? Everyone else's will be round and pretty and mine will be all... bean-fingered and weird."
 
-Momo crouched down beside the little bean. Around them, friends were tearing off warm pieces and rolling them into round white cakes, dusting them with starch, stacking two together with a tangerine on top — the special New Year stack called **鏡餅** (kagamimochi) = mirror mochi, set out to welcome good fortune.
+Momo crouched down beside the little bean. Around them, friends were tearing off warm pieces and rolling them into round white cakes, dusting them with starch, stacking two together with a tangerine on top — the special New Year stack called **kagamimochi** (kah-gah-mee-moh-chee) — mirror mochi, set out to welcome good fortune.
 
 "Can I tell you the squishiest secret of all?" Momo whispered.
 
@@ -120,7 +120,7 @@ The adzuki bean looked at the warm mochi in its hands. Slowly, a smile spread ac
 
 ---
 
-That evening, when the lanterns came on and everyone's bellies were full of warm sweet **おもち**, they wrapped Momo in blankets at the center of the square, because she was the softest and best for snuggling against. The stars came out one by one, like starch dusting a dark blue cake.
+That evening, when the lanterns came on and everyone's bellies were full of warm sweet omochi, they wrapped Momo in blankets at the center of the square, because she was the softest and best for snuggling against. The stars came out one by one, like starch dusting a dark blue cake.
 
 "Best New Year ever," Momo murmured, her arms looped lazily around three sleepy friends at once.
 

@@ -4,11 +4,11 @@
 **Guest Characters:** None
 **Setting:** The historic Gion district of Kyoto, with its traditional wooden streets
 **Theme:** Dressing with care honors where you are
-**Japanese Spotlight:** きもの (kimono) = traditional robe
+**Japanese Spotlight:** kimono (kee-moh-noh) — traditional robe
 
 ---
 
-Niko Nigiri had a list. Of course Niko had a list. Niko had a list for almost everything, written in his tidiest handwriting on a tiny notepad he kept tucked behind his crisp little **のり** (nori) = seaweed belt.
+Niko Nigiri had a list. Of course Niko had a list. Niko had a list for almost everything, written in his tidiest handwriting on a tiny notepad he kept tucked behind his crisp little **nori** (noh-ree) — seaweed — belt.
 
 This morning, the list had exactly one thing on it, and Niko had underlined it three times:
 
@@ -22,13 +22,13 @@ A pigeon cooed, as if to say, *Good luck with that.*
 
 Niko did not hear the pigeon's doubt. Niko had a plan.
 
-The narrow lane he stood on was called **祇園** (Gion), the most famous old quarter in all of Kyoto, and it looked exactly like a picture from a storybook somebody had folded up and tucked into their pocket for a hundred years. Wooden houses leaned together like old friends sharing a secret. Paper screens glowed amber. Somewhere, a tiny bell went *tink*, and the smell of roasting tea drifted by like a soft hand on the shoulder.
+The narrow lane he stood on was called **Gion** (ghee-ohn), the most famous old quarter in all of Kyoto, and it looked exactly like a picture from a storybook somebody had folded up and tucked into their pocket for a hundred years. Wooden houses leaned together like old friends sharing a secret. Paper screens glowed amber. Somewhere, a tiny bell went *tink*, and the smell of roasting tea drifted by like a soft hand on the shoulder.
 
 Niko had read about Gion in seventeen different books. He had taken nine pages of notes. He felt extremely prepared.
 
 He was not prepared.
 
-The shop he had chosen was called **着物屋さん** (kimono-ya-san) = the kimono shop, and it had a deep-blue curtain over the door and a sign that smelled faintly of cedar. Niko marched inside, cleared his throat, and said, in his most organized voice, "Good morning! I would like to rent one **きもの** (kimono) = traditional robe, please, and I would like to be ready in approximately four minutes."
+The shop he had chosen was called **kimono-ya-san** (kee-moh-noh-yah-sahn) — the kimono shop — and it had a deep-blue curtain over the door and a sign that smelled faintly of cedar. Niko marched inside, cleared his throat, and said, in his most organized voice, "Good morning! I would like to rent one **kimono** (kee-moh-noh) — traditional robe — please, and I would like to be ready in approximately four minutes."
 
 The shopkeeper was a kind old wooden tea-whisk named Ojii-san, with bristles like a silver mustache and the slow blink of someone who had watched a great many sunrises. He looked at Niko. He looked at the clock. He looked at Niko again.
 
@@ -48,7 +48,7 @@ Niko, who had personally scheduled his entire afternoon down to the half-minute,
 
 Niko froze. "There is a... correct way?"
 
-"There is always a correct way," said Ojii-san, his bristles twinkling. "Left over right, like wrapping a present you love. Right over left is only for very, very long sleeps." He winked, the kind of wink that gentle grown-ups give when they are talking about something a little serious and a little silly at the same time. "We shall do left over right, hm? You are far too lively for the other."
+"There is always a correct way," said Ojii-san, his bristles twinkling. "Left over right, always — that's the way a kimono likes to be worn, like wrapping a present you love." He winked, the kind of wink that gentle grown-ups give when they are sharing a small, important secret. "We shall do left over right, hm? The kimono will thank you."
 
 Niko, who was very fond of doing things correctly, immediately wanted to do *everything* correctly now. He stood up extra straight.
 
@@ -70,7 +70,7 @@ Ojii-san set down his tea and came over, slow as honey. "Ah," he said. "Now you 
 
 And so they began again — properly this time.
 
-Ojii-san showed Niko how to slip his arms through, smooth as a calm river. How to fold the left side over the right, neat as a closing book. How to wrap the wide **帯** (obi) = sash around his middle and tie it into a soft puff of a bow at the back, like a little pillow he could carry his good manners in. With each step, Niko breathed slower. With each step, the silk lay flatter, kinder, truer.
+Ojii-san showed Niko how to slip his arms through, smooth as a calm river. How to fold the left side over the right, neat as a closing book. How to wrap the wide **obi** (oh-bee) — the sash — around his middle and tie it into a soft puff of a bow at the back, like a little pillow he could carry his good manners in. With each step, Niko breathed slower. With each step, the silk lay flatter, kinder, truer.
 
 It took twenty-six minutes, not four.
 
@@ -84,7 +84,7 @@ When he turned to the mirror at last, he gasped. The indigo silk fell from his s
 
 Niko stepped out into Gion, and the whole world had changed — not because the street was different, but because *he* was. He walked slowly now. He had to; the kimono asked him to take little steps, gentle steps, and the strange thing was that walking slowly let him *notice* everything.
 
-He noticed the way the afternoon light pooled gold on the dark stones. He noticed an old plum tree dropping petals one at a time, as if it were thinking carefully about each one. He noticed a tiny shrine no bigger than a birdhouse, with a single fresh flower set before it by some kind unknown someone. He noticed a paper lantern with a smudge of soot on its bottom, and a cat the color of toasted mochi dozing on a doorstep with one ear flicking at dreams. He noticed the soft *clip, clip* of his own little wooden sandals — **下駄** (geta) = wooden clogs — and how the sound seemed to belong here, an old sound on an old street.
+He noticed the way the afternoon light pooled gold on the dark stones. He noticed an old plum tree dropping petals one at a time, as if it were thinking carefully about each one. He noticed a tiny shrine no bigger than a birdhouse, with a single fresh flower set before it by some kind unknown someone. He noticed a paper lantern with a smudge of soot on its bottom, and a cat the color of toasted mochi dozing on a doorstep with one ear flicking at dreams. He noticed the soft *clip, clip* of his own little wooden sandals — **geta** (geh-tah), wooden clogs — and how the sound seemed to belong here, an old sound on an old street.
 
 In his old life — meaning, this very morning — Niko would have walked past every single one of these things without seeing them. He would have been too busy checking his list and counting his minutes. But the kimono made his steps small, and his small steps made his eyes wide, and his wide eyes made the whole ordinary street turn out to be absolutely *crammed* with quiet, beautiful, secret things. It was as if Kyoto had been waiting all this time, patient as a folded robe, to be properly noticed.
 

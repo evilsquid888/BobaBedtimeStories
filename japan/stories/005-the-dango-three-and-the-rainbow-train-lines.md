@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** The colorful Tokyo subway map and station platforms
 **Theme:** Three heads (and three colors) are better than one
-**Japanese Spotlight:** えき (eki) = train station
+**Japanese Spotlight:** **Eki** (eh-kee) — train station
 
 ---
 
@@ -12,7 +12,7 @@ The trouble began, as trouble so often does, on a perfectly lovely Tuesday — a
 
 Now, if you have never met the Dango Three, picture three little dumplings stuck on one wooden skewer, like beads on a string who never quite agree on anything. Pinku was pink and bold and bouncy, always one inch ahead. Shiro was white and shy and worried, always one inch behind. And Cha was green and clever, squished thoughtfully in the middle, holding the whole wobbly trio together.
 
-They had pivoted into the train station — the **えき** (eki) = train station — the way they did everything: all at once, like a tiny carousel, and they stopped so suddenly in front of the giant subway map that they nearly toppled off their own stick.
+They had pivoted into the **eki** (eh-kee) — the train station — the way they did everything: all at once, like a tiny carousel, and they stopped so suddenly in front of the giant subway map that they nearly toppled off their own stick.
 
 "Look!" gasped all three at once. The map glowed with train lines in every color of the rainbow, looping and crossing and curling like ribbons spilled across the wall.
 
@@ -42,7 +42,7 @@ Pinku gasped with delight. Shiro gasped with relief. And for one beautiful momen
 
 "Three on a stick," they cheered together, "stuck together for good!"
 
-So onto the **でんしゃ** (densha) = train they hopped — the pink one first, of course, because a deal is a deal.
+So onto the **densha** (den-shah) — the train — they hopped, the pink one first, of course, because a deal is a deal.
 
 The pink line whooshed them through bright bubblegum tunnels lit up like the inside of a strawberry. Pinku pressed all three of their faces to the window (which was easy, since their faces were all on the same stick) and narrated *everything*.
 
@@ -58,7 +58,7 @@ The pink line whooshed them through bright bubblegum tunnels lit up like the ins
 
 Shiro giggled so hard the whole skewer trembled, which made Pinku giggle, which made Cha pretend not to giggle while absolutely giggling. The pink train rocked them gently — *clackity-clack, clackity-clack* — and Pinku, full of joy and bounce, declared this the single greatest train in the entire universe.
 
-Then the doors slid open at a busy **えき**, and it was time to switch.
+Then the doors slid open at a busy eki, and it was time to switch.
 
 This is where it got tricky.
 
@@ -70,7 +70,7 @@ Switching trains, you see, is hard enough when you have legs. It is *much* harde
 
 And once again the little trio spun — *wheee, oh no, wheee* — pinwheeling across the platform while travelers hopped politely out of the way, smiling at the dizzy little dumplings doing donuts on a stick.
 
-It was Cha, of course, who saved them. "STOP. New rule. We *count*. On three, we ALL lean the same way. One stick, one direction. Ready? **いち** (ichi) = one... **に** (ni) = two... **さん** (san) = three — LEAN!"
+It was Cha, of course, who saved them. "STOP. New rule. We *count*. On three, we ALL lean the same way. One stick, one direction. Ready? **Ichi** (ee-chee) — one... **ni** (nee) — two... **san** (sahn) — three — LEAN!"
 
 And they leaned. All three. The very same way. The skewer slid smooth as butter right across the platform and landed neatly — *neatly!* — on the white line train, exactly on time.
 
@@ -86,7 +86,7 @@ Now it was Shiro's turn to lead, and oh, how shy Shiro had dreaded this part. Bu
 
 Shiro, who almost never led, sat up just a tiny bit straighter, and pointed out the window with great care at each gentle thing they passed — a quiet park, a sleeping cat, a paper lantern swaying like it was dreaming. And the funny thing was, with Shiro leading, even bold Pinku and clever Cha slowed down enough to *notice* it all.
 
-By the time the white train sighed into the next **えき**, all three were warm and giggly and ready for the last leg.
+By the time the white train sighed into the next eki, all three were warm and giggly and ready for the last leg.
 
 "My turn," said Cha. "Green line. The smart one. Watch and learn."
 
@@ -96,7 +96,7 @@ The green train looped up high — *up, up* — onto a track above the rooftops,
 
 Cha grinned the grin of someone who had quietly known all along.
 
-"Which loops right back here," Cha finished. "To our home **えき**. The whole rainbow is *one big circle*. Pink, white, green — they were never three separate things at all. They all hold hands."
+"Which loops right back here," Cha finished. "To our home eki. The whole rainbow is *one big circle*. Pink, white, green — they were never three separate things at all. They all hold hands."
 
 Shiro's eyes went enormous. "Just... like us."
 
@@ -110,7 +110,7 @@ They had spent the *entire morning* fighting over which line was best, when the 
 
 "We're," said Cha, with great dignity, "delicious. And also correct. Mostly correct. We're a correct rainbow."
 
-The green train curved its big bright curve, and the city lights swept past pink and white and green and gold, and the three little dumplings leaned together — all the same way, all at once — as their home **えき** glowed up ahead like a warm lantern saying *welcome back, welcome back, you silly wonderful trio.*
+The green train curved its big bright curve, and the city lights swept past pink and white and green and gold, and the three little dumplings leaned together — all the same way, all at once — as their home eki glowed up ahead like a warm lantern saying *welcome back, welcome back, you silly wonderful trio.*
 
 They pivoted off the train as one tidy little carousel, not spinning, not fighting, just *together* — and they had ridden the whole rainbow and never once let go of each other, because of course they couldn't. They were stuck on the same stick.
 

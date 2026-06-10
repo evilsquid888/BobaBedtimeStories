@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** The cosplay dress-up corner at a bright, busy fan festival
 **Theme:** Being yourself is the best costume of all
-**Japanese Spotlight:** かわいい (kawaii) = cute
+**Japanese Spotlight:** **kawaii** (kah-wah-ee) — cute
 
 ---
 
@@ -14,7 +14,7 @@ If you have ever tried to tell two perfectly round, perfectly golden takoyaki ba
 
 "We are LOOKING!" said Yaki.
 
-And there it was: the **コスプレ** (kosupure) = cosplay dress-up corner, a glittering tent stuffed with capes, wigs, sparkly hats, fox masks, paper swords, and a mirror so shiny you could comb your nori in it. Strings of paper lanterns swayed overhead like sleepy jellyfish. The whole place smelled of warm batter and fresh dreams.
+And there it was: the **kosupure** (koh-soo-poo-reh) — cosplay — dress-up corner, a glittering tent stuffed with capes, wigs, sparkly hats, fox masks, paper swords, and a mirror so shiny you could comb your nori in it. Strings of paper lanterns swayed overhead like sleepy jellyfish. The whole place smelled of warm batter and fresh dreams.
 
 "It's SO kawaii," whispered Tako.
 
@@ -32,7 +32,7 @@ You see, everybody at the festival could tell Tako and Yaki apart by exactly one
 
 It was, they agreed, the most kawaii prank ever invented.
 
-So into the dress-up corner they tumbled. Tako grabbed a swooshy purple wizard cape and a pointy star-hat. Yaki grabbed a shiny silver robot helmet with blinky button-eyes and a cardboard chest-plate that said BEEP. Then — this was the truly tricky part — they traded scarves. Blue went to Yaki. Red went to Tako.
+So into the dress-up corner they tumbled. Tako grabbed a shiny silver robot helmet with blinky button-eyes and a cardboard chest-plate that said BEEP. Yaki grabbed a swooshy purple wizard cape and a pointy star-hat. Then — this was the truly tricky part — they traded scarves. Blue went to Yaki. Red went to Tako.
 
 They looked in the shiny mirror and laughed so hard they wobbled into a basket of fox masks.
 
@@ -44,11 +44,11 @@ They looked in the shiny mirror and laughed so hard they wobbled into a basket o
 
 The first friend they found was Maru Matcha, calm as a still pond, stirring her little bamboo whisk.
 
-"Greetings, Tako," Maru said to the wizard.
+"Greetings, Yaki," Maru said to the wizard.
 
-"Wrong!" the wizard crowed. "I'm Yaki!"
+"Wrong!" the wizard crowed. "I'm Tako!"
 
-Maru's half-moon eyes did not even blink. "Whisk slow," she said. "Feel calm. You are wearing a red scarf. Red is Tako."
+Maru's half-moon eyes did not even blink. "Whisk slow," she said. "Feel calm. You are wearing a red scarf. Red is Yaki."
 
 The twins froze. They looked down. Somewhere in the giggling and the fox-mask tumbling, they had gotten their own swapped scarves swapped *again*. Now the wizard wore red. The robot wore blue. They had completely, totally, sauce-droppingly lost track of who was pretending to be whom.
 
@@ -102,11 +102,11 @@ Momo Mochi noticed right away, because cozy hearts always do.
 
 "And we forgot," said the robot.
 
-"We don't need the scarves," Momo said gently. "Tell me — when Yaki laughs, what does Tako do?"
+"We don't need the scarves," Momo said gently. "Tell me — when something giggly happens, which of you laughs first?"
 
-"I laugh right after," said the robot, automatically. Then it gasped. "I... I always laugh right after Yaki. I'm the *after* laugh. I'm Tako!"
+"I do," said the robot, automatically. Then it gasped. "I... I always laugh first. I'm the one who shouts 'look, look, LOOK!' I'm Tako!"
 
-"YES!" said the wizard, throwing off the pointy hat. "And I start it! I'm the one who shouts 'look, look, LOOK' first! I'm Yaki!"
+"YES!" said the wizard, throwing off the pointy hat. "And I'm the one who LOOKS, and laughs right after! I'm Yaki!"
 
 Maru Matcha gave the smallest, calmest smile. "There you are," she said. "You did not lose yourselves. You just dressed them up for a while."
 
@@ -126,7 +126,7 @@ The whole festival cheered. Pock Ramune popped three marbles in celebration (he 
 
 "That," said Dora, scribbling in his little notebook, "is the best filling of all."
 
-So Tako and Yaki kept the costumes on — because they really were kawaii, and a good cape is a good cape. But they swapped their scarves back. Blue for Tako. Red for Yaki. Not because anyone needed to tell them apart, but because the scarves were *theirs*, the way your favorite blanket is yours.
+So Tako and Yaki kept the costumes on — because they really were kawaii, and a good cape is a good cape. But they straightened their scarves, which, after all that accidental swapping, had landed exactly right. Blue for Tako. Red for Yaki. Not because anyone needed to tell them apart, but because the scarves were *theirs*, the way your favorite blanket is yours.
 
 For the rest of the festival, the twins led a grand parade of dress-up. Momo wore a paper crown. Maru wore a tiny wizard hat over her matcha swirl and looked extremely unbothered. Mero Melonpan wore a fox mask and immediately fell asleep inside it. Everybody dressed as somebody else, and laughed, and underneath every silly costume was the same warm friend you already loved.
 
@@ -148,4 +148,4 @@ Little dreamer, you can be a wizard or a robot, a fox or a star, a brave knight 
 ## AI Image Prompts
 1. Warm whimsical storybook illustration, soft golden lantern light: two round golden takoyaki balls connected by a wobbly bonito-flake wave inside a glittering festival cosplay tent. One wears a swooshy purple wizard cape with a star-hat, the other a silver robot helmet with blinky button-eyes and a cardboard chest-plate reading "BEEP." Their tiny scarves (one blue, one red) are comically tangled. Paper lanterns sway overhead like sleepy jellyfish; racks of capes, fox masks, and sparkly hats fill the background. Cozy, giggly, kawaii palette of gold, ruby sauce-red, lantern-amber and soft purple.
 2. Character portrait: the takoyaki twins Tako and Yaki, two plump round golden batter-balls joined by a wavy bonito-flake crest, drizzled with brown sauce zig-zags, bouncing mid-air in unison and high-fiving. Tako with a tiny blue scarf, Yaki with a tiny red scarf, bright mischievous eyes, twin-energy grins. Clean warm storybook style, soft shadows, adorable and full of motion.
-3. Closing cozy scene: the two takoyaki twins, still wearing their wizard cape and robot helmet but with scarves correctly back in place (blue, red), leaning sleepily together under dimming paper lanterns at the quiet end of the festival, sharing one big yawn. Warm dusky amber lighting, soft and snug, friends like Momo Mochi and Maru Matcha dozing nearby in silly costumes, peaceful bedtime mood.
+3. Closing cozy scene: the two takoyaki twins, still wearing their robot helmet and wizard cape but with scarves correctly back in place (blue on Tako in the robot helmet, red on Yaki in the wizard cape), leaning sleepily together under dimming paper lanterns at the quiet end of the festival, sharing one big yawn. Warm dusky amber lighting, soft and snug, friends like Momo Mochi and Maru Matcha dozing nearby in silly costumes, peaceful bedtime mood.

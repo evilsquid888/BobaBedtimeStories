@@ -4,7 +4,7 @@
 **Guest Characters:** Mango
 **Setting:** A hot night market
 **Theme:** Sharing is bigger
-**Word Spotlight:** 剉冰 (cuobing) = shaved ice
+**Word Spotlight:** **cuobing** (tswo-bing) — shaved ice
 
 ---
 
@@ -24,7 +24,7 @@ Mango was a plump, sunshine-orange fellow, glossy as a polished marble, with a s
 
 "Bing!" Mango cried, peeling himself off the lamppost. "You're cold! You're MARVELOUS! Stand near me before I turn into a smoothie all by myself!"
 
-Bing giggled, and three snowflakes plinked out. "I can do better than stand near you," Bing said. "How would you like to learn how to make **剉冰** (cuobing) = shaved ice? It's the most refreshing treat in the whole night market. And the best part is — you can't make it for ONE. It only works if you share."
+Bing giggled, and three snowflakes plinked out. "I can do better than stand near you," Bing said. "How would you like to learn how to make **cuobing** (tswo-bing) — shaved ice? It's the most refreshing treat in the whole night market. And the best part is — you can't make it for ONE. It only works if you share."
 
 Mango's leaf-hat perked straight up. "Teach me! Teach me! I am an excellent student. I am also delicious, but that's not relevant right now."
 
@@ -78,15 +78,15 @@ Auntie Cuo turned the crank. *Whirr-whirr-whirr* went the blade, and the frozen 
 
 The mountain grew taller. And taller. Until it was a soft white peak nearly as tall as Mango himself, wobbling gently like it might giggle.
 
-"And THAT," said Bing proudly, as Auntie Cuo gave the bowl a pat and stepped away, "is **剉冰** (cuobing) = shaved ice. Well — half of it. Now comes my favorite part. The TOPPINGS."
+"And THAT," said Bing proudly, as Auntie Cuo gave the bowl a pat and stepped away, "is cuobing. Well — half of it. Now comes my favorite part. The TOPPINGS."
 
 Mango's eyes went enormous. "I LOVE toppings. I am ALSO a topping. This is the best day of my life."
 
-"Then up you go!" Bing said. So Mango took a deep, brave breath, and Bing helped him slice into juicy golden cubes — *plip, plip, plip* — which they piled, glistening, all over the snowy peak. (Mango cubes are very giggly, and they kept rolling, so it took several tries.)
+"Then up you go!" Bing said. So Mango took a deep, brave breath, and Auntie Cuo's careful knife turned the mango into juicy golden cubes — *plip, plip, plip* — because slicing, like shaving, is strictly a grown-up's job. Then they piled the cubes, glistening, all over the snowy peak. (Mango cubes are very giggly, and they kept rolling, so it took several tries.)
 
-Next came a scoop of sweet **紅豆** (hongdou) = red bean, soft and shiny, tumbling down the mountainside like little brown boulders in a tiny, delicious avalanche. Mango cheered, "AVALANCHE!" far too loudly, and one red bean rolled clean off the table and had to be rescued.
+Next came a scoop of sweet **hongdou** (hong-doh) — red bean — soft and shiny, tumbling down the mountainside like little brown boulders in a tiny, delicious avalanche. Mango cheered, "AVALANCHE!" far too loudly, and one red bean rolled clean off the table and had to be rescued.
 
-Then came squishy chewy **麻糬** (mashu) = mochi balls, bouncing aboard one by one with happy little *boing*s. One mochi bounced so high it nearly escaped over the edge, but Bing caught it with a cool snowy paw and plopped it gently back on the summit, where it sat looking slightly embarrassed. Bing tucked in some wobbly grass jelly that giggled when poked, a wink of pineapple, and a single shy strawberry on top like a hat.
+Then came squishy chewy **mashu** (mah-shoo) — mochi balls — bouncing aboard one by one with happy little *boing*s. One mochi bounced so high it nearly escaped over the edge, but Bing caught it with a cool snowy paw and plopped it gently back on the summit, where it sat looking slightly embarrassed. Bing tucked in some wobbly grass jelly that giggled when poked, a wink of pineapple, and a single shy strawberry on top like a hat.
 
 "And the finishing touch," said Bing, lifting a tiny pitcher, "a drizzle of sweet condensed milk, swirling all the way down."
 
@@ -94,13 +94,13 @@ Then came squishy chewy **麻糬** (mashu) = mochi balls, bouncing aboard one by
 
 Mango stared. Then his juicy face crumpled. "Bing," he sniffled happily. "It's so beautiful. But — but it's SO BIG. I could never eat all of it myself! What a waste—"
 
-"Aha," said Bing, with a twinkly frosted-blueberry wink. "That's the whole secret, Mango. **剉冰** isn't meant for one. It's meant for sharing. You can't make a tiny one — it'd be silly! The bigger the mountain, the more friends it feeds. *Sharing is bigger.*"
+"Aha," said Bing, with a twinkly frosted-blueberry wink. "That's the whole secret, Mango. Cuobing isn't meant for one. It's meant for sharing. You can't make a tiny one — it'd be silly! The bigger the mountain, the more friends it feeds. *Sharing is bigger.*"
 
-And right then, as if the mountain had rung a bell, the night market gathered round. Bao Bao the bun toddled over in his floury apron. Hong Hong the candied-fruit friend arrived all sparkle and crackle. Mala Malasada bounced in, leaving sugar everywhere, hollering "Roll ME in shaved ice next!" Even a tired noodle vendor and two fanning dumplings squeezed in close.
+And right then, as if the mountain had rung a bell, the night market gathered round. Bao Bao the bun toddled over in her floury apron. Hong Hong the candied-fruit friend arrived all sparkle and crackle. Mala Malasada bounced in, leaving sugar everywhere, hollering "Roll ME in shaved ice next!" Even a tired noodle vendor and two fanning dumplings squeezed in close.
 
-"Quick!" laughed Bing. "There's one more rule. You have to eat **剉冰** FAST — before it melts back into a puddle! Spoons up, everyone!"
+"Quick!" laughed Bing. "There's one more rule. You have to eat cuobing FAST — before it melts back into a puddle! Spoons up, everyone!"
 
-*Clink-clink-clink* went a dozen spoons. The mountain trembled, it tumbled, it disappeared into happy slurping mouths, cold and sweet and chewy and creamy all at once. Bao Bao got a snowflake on his nose and sneezed a tiny floury *poof.* Hong Hong crunched a hidden mango cube and sparkled even brighter. Mala Malasada took such an enormous bite that he got a brain-freeze and hopped in a circle going "ooh-ooh-ooh!" until Bing pressed a cool paw to his forehead and the wobbles melted away. Mango ate a piece of HIMSELF by accident and declared it "honestly, delightful — I had no idea I was this good."
+*Clink-clink-clink* went a dozen spoons. The mountain trembled, it tumbled, it disappeared into happy slurping mouths, cold and sweet and chewy and creamy all at once. Bao Bao got a snowflake on her nose and sneezed a tiny floury *poof.* Hong Hong crunched a hidden mango cube and sparkled even brighter. Mala Malasada took such an enormous bite that he got a brain-freeze and hopped in a circle going "ooh-ooh-ooh!" until Bing pressed a cool paw to his forehead and the wobbles melted away. Mango ate a piece of HIMSELF by accident and declared it "honestly, delightful — I had no idea I was this good."
 
 By the time the last snowy spoonful melted away, the whole night market had stopped sweating and started smiling. Everyone was cool. Everyone was full. Everyone was friends.
 

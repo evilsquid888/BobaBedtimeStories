@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A big communal table set for a grand farewell dinner
 **Theme:** A shared meal holds a whole friendship inside it
-**Japanese Spotlight:** いただきます (itadakimasu) = let's eat (thanks for the food)
+**Japanese Spotlight:** **itadakimasu** (ee-tah-dah-kee-MAHS) — let's eat (thanks for the food)
 
 ---
 
@@ -44,7 +44,7 @@ By the time the stars came out properly, the table was a wonder.
 
 Tama Onigiri had packed little rice balls down the whole length of it. "I packed a little extra," Tama said, setting out the seventeenth tray. "Just in case." There was always a "just in case" with Tama. The "just in case" was usually the size of a small mountain.
 
-Niko Nigiri arranged the dishes into tidy, perfect rows, her glossy salmon cape gleaming. "Let's do this neatly," she said, nudging a chopstick exactly one centimeter to the left, "...or deliciously!" Then a takoyaki rolled across the table and knocked all her tidy rows into a happy mess, and Niko had to take a deep breath and decide, for the hundredth time on this journey, to roll with it.
+Niko Nigiri arranged the dishes into tidy, perfect rows, his glossy salmon cape gleaming. "Let's do this neatly," he said, nudging a chopstick exactly one centimeter to the left, "...or deliciously!" Then a takoyaki rolled across the table and knocked all his tidy rows into a happy mess, and Niko had to take a deep breath and decide, for the hundredth time on this journey, to roll with it.
 
 "Roll us once," giggled Tako.
 
@@ -88,9 +88,9 @@ Rin sniffed. "Okay."
 
 ---
 
-Dora the Dorayaki adjusted her cozy beret and leaned forward, red-bean smile soft. "You know, Rin," she said, in her best storyteller voice, "a good story is the best filling. And the thing about a story is — it doesn't end when you stop telling it. It keeps going inside the person who heard it."
+Dora the Dorayaki adjusted his cozy beret and leaned forward, red-bean smile soft. "You know, Rin," he said, in his best storyteller voice, "a good story is the best filling. And the thing about a story is — it doesn't end when you stop telling it. It keeps going inside the person who heard it."
 
-"That's exactly right," said Niko, standing very straight and proud. "A meal is the same. We won't be carrying *bowls* home tomorrow. We'll be carrying *this.*" She gestured down the whole laughing table. "Every slurp. Every silly noodle. Every soy sauce in Dai's lap."
+"That's exactly right," said Niko, standing very straight and proud. "A meal is the same. We won't be carrying *bowls* home tomorrow. We'll be carrying *this.*" He gestured down the whole laughing table. "Every slurp. Every silly noodle. Every soy sauce in Dai's lap."
 
 "Hey," said Dai, but he was grinning under his big determined eyebrows.
 
@@ -114,7 +114,7 @@ Every friend pressed their hands (and paws and fins and stubby legs) together. E
 
 "One... two... three..."
 
-"**いただきます** (*itadakimasu*) = let's eat — thank you for the food!" the whole table shouted, so loud the stars seemed to lean in closer.
+"**Itadakimasu!** (ee-tah-dah-kee-MAHS) — let's eat, thank you for the food!" the whole table shouted, so loud the stars seemed to lean in closer.
 
 And then — *slurp.*
 
@@ -122,7 +122,7 @@ And then — *slurp.*
 
 What a feast it was.
 
-It was loud and warm and gloriously messy. Tama kept finding "just in case" extras under the table. Niko gave up on neat rows entirely and started a noodle-tower contest with Tako and Yaki, which she lost spectacularly and laughed harder than anyone. Pock Ramune fizzed so much from joy that bubbles drifted up and popped against the stars. Kori dramatically declared each bite "the COOLEST" while sitting as far from the broth as possible. Mero fell asleep mid-noodle and dreamed, he said later, of a bowl big enough to hug.
+It was loud and warm and gloriously messy. Tama kept finding "just in case" extras under the table. Niko gave up on neat rows entirely and started a noodle-tower contest with Tako and Yaki, which he lost spectacularly and laughed harder than anyone. Pock Ramune fizzed so much from joy that bubbles drifted up and popped against the stars. Kori dramatically declared each bite "the COOLEST" while sitting as far from the broth as possible. Mero fell asleep mid-noodle and dreamed, he said later, of a bowl big enough to hug.
 
 And Rin Ramen sat at the very center, steaming gently, watching everybody eat the feast that had taken all day to make.
 

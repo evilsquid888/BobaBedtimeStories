@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A friendly anime fan convention hall full of costumes and booths
 **Theme:** Loving something is more fun when you find your people
-**Japanese Spotlight:** オタク (otaku) = a passionate fan / hobbyist
+**Japanese Spotlight:** **Otaku** (oh-tah-koo) — a passionate fan, hobbyist
 
 ---
 
@@ -24,7 +24,7 @@ Until the morning the flyer fluttered down from the sky and landed — *flump* �
 
 ---
 
-**コミコン** (komikon) = comic convention, said the flyer in big bouncy letters. **A COZY ONE! Costumes! Booths! Friends! THIS WEEKEND!**
+**Komikon** (koh-mee-kohn) — comic convention! — said the flyer in big bouncy letters. **A COZY ONE! Costumes! Booths! Friends! THIS WEEKEND!**
 
 Dora picked it up with a trembling pancake-hand. A whole hall full of people who loved comics and stories? It was terrifying. It was wonderful. It was *exactly* the most frightening wonderful thing he could imagine.
 
@@ -32,15 +32,15 @@ Dora picked it up with a trembling pancake-hand. A whole hall full of people who
 
 The convention hall was the size of a hundred night markets stacked together, and *oh*, it was a marvel. There were booths draped in glittering cloth. There were friends dressed as their favorite heroes — a melon-pan in a cape, three little dango on a stick all wearing matching wizard hats, a soft-serve swirl carrying a foam sword nearly as tall as itself. Everywhere Dora looked, somebody was laughing, hugging, or pointing excitedly at a drawing.
 
-"Welcome, welcome!" beeped a tiny butter-yellow voice. It was Kei the kei-truck, putt-putting along as the convention shuttle, his knitted seat-cover today knitted into the shape of a superhero's chest emblem. "Putt-putt — what are you here to celebrate?"
+"Welcome, welcome!" beeped a tiny butter-yellow voice. It was Kei the kei-truck, putt-putting along as the convention shuttle, her knitted seat-cover today knitted into the shape of a superhero's chest emblem. "Putt-putt — what are you here to celebrate?"
 
 And Dora — brave, bold, here-on-purpose Dora — pulled his beret down over his eyes and squeaked, "Dragons. Probably."
 
-Kei tilted his headlights kindly but didn't push, and putt-putted on.
+Kei tilted her headlights kindly but didn't push, and putt-putted on.
 
 ---
 
-Dora wandered the aisles for a long, careful while. He admired the action comics with their big *KA-POW* lettering. He admired the adventure comics with their maps and monsters. Everyone around those booths was an **オタク** (otaku) = a passionate fan — bursting with love for their favorite thing, talking a mile a minute, fingers flying as they described every plot twist.
+Dora wandered the aisles for a long, careful while. He admired the action comics with their big *KA-POW* lettering. He admired the adventure comics with their maps and monsters. Everyone around those booths was an **otaku** (oh-tah-koo) — a passionate fan — bursting with love for their favorite thing, talking a mile a minute, fingers flying as they described every plot twist.
 
 It was a beautiful thing to watch. It was also, Dora thought sadly, clearly *not for him*. These otaku loved exciting things. Loud things. Things where the cat did more than nap.
 
@@ -92,7 +92,7 @@ Yuki showed Dora a tiny drawing she'd made of the sleepy cat curled inside a tea
 
 "You can *draw* it?" he said. "You can draw a thing you love?"
 
-"That's half of being an **オタク** (otaku)," Yuki said cozily. "Loving the thing. The other half — " she gestured around the dusty quiet corner, which suddenly didn't feel dusty or quiet or sad at all — "the other half is finding the people who love it too. It's not nearly so fun alone, is it?"
+"That's half of being an otaku," Yuki said cozily. "Loving the thing. The other half — " she gestured around the dusty quiet corner, which suddenly didn't feel dusty or quiet or sad at all — "the other half is finding the people who love it too. It's not nearly so fun alone, is it?"
 
 And Dora, who had spent so long keeping his favorite thing tucked away where nobody could laugh at it, realized something so true it made his pancakes go all soft and warm:
 
@@ -112,7 +112,7 @@ Then came a melon-pan, rubbing his sleepy crackly eyes. "Did somebody say sleepy
 
 Then the three little dango in their wizard hats came pivoting around the corner like a tiny carousel, one piece of them gasping, the next piece pointing, and the third piece already clambering onto the cushions. "We have *opinions*," announced the pink one, "about the teapot." "Big opinions," whispered the white one. "And a *theory*," finished the green one, "about the chipped blue cup."
 
-Then Kei the kei-truck, putt-putting up with his headlights bright, beeping, "I knew it! I knew you weren't really a dragons person! Putt-putt!"
+Then Kei the kei-truck, putt-putting up with her headlights bright, beeping, "I knew it! I knew you weren't really a dragons person! Putt-putt!"
 
 Before long, the quiet dusty corner of the convention had become the *loudest, coziest, happiest* corner of all — a great soft pile of friends passing comics back and forth, gasping at the steam edition, arguing affectionately about teacups, and discovering, one by one, that the thing they'd each kept secretly tucked away was a thing they all *shared*.
 

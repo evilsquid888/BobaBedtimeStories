@@ -4,7 +4,7 @@
 **Guest Characters:** Hong Dou
 **Setting:** A rainy kitchen
 **Theme:** Better together
-**Word Spotlight:** どら焼き (dorayaki) = red-bean pancake sandwich
+**Word Spotlight:** **dorayaki** (doh-rah-yah-kee) — red-bean pancake sandwich
 
 ---
 
@@ -12,7 +12,7 @@ Rain was tap-tap-tapping on the kitchen window like a thousand tiny chefs knocki
 
 Dora was a round little sandwich-cake with two golden-brown pancake cheeks, soft and freckly like toasted marshmallows, puffed up so plump that when she giggled her whole middle wobbled. Between her two cheeks lived a secret — but we'll get to that.
 
-"Listen to that rain!" Dora cried. "It's a perfect day for **どら焼き** (dorayaki) = red-bean pancake sandwich making! Cozy outside, toasty inside!"
+"Listen to that rain!" Dora cried. "It's a perfect day for making **dorayaki** (doh-rah-yah-kee) — red-bean pancake sandwiches! Cozy outside, toasty inside!"
 
 "It would be," sighed a small, lumpy voice from a bowl, "if I weren't all alone in here."
 
@@ -24,7 +24,7 @@ Dora peeked in. A single shiny red bean sat at the bottom, looking glum.
 
 ---
 
-Hong Dou was a plump ruby-red **紅豆** (hóng dòu) = red bean, glossy as a polished cherry, with a little dent down her back like a comfy pillow with a single button. She rocked sadly in the giant bowl.
+Hong Dou was a plump ruby-red **hong dou** (hong doh) — red bean — glossy as a polished cherry, with a little dent down her back like a comfy pillow with a single button. She rocked sadly in the giant bowl.
 
 "One bean can't fill two pancakes," she mumbled. "I'm too small. I'm not enough."
 
@@ -32,11 +32,11 @@ Dora gasped so big her cheeks puffed. "Not enough? Hong Dou, that's the whole se
 
 "But I'm only one bean," said Hong Dou.
 
-"Then let's invite your friends," said Dora. "Tai? TAI!"
+"Then let's invite your friends," said Dora. "Dou-Da? DOU-DA!"
 
-A cupboard door swung open and out tumbled a sack of beans — *whoosh!* — hundreds of red beans bouncing across the counter like happy little rubber balls. Tai, the biggest bean, landed right on his bottom with a soft *poot*.
+A cupboard door swung open and out tumbled a sack of beans — *whoosh!* — hundreds of red beans bouncing across the counter like happy little rubber balls. Dou-Da, the biggest bean, landed right on his bottom with a soft *poot*.
 
-"You called?" said Tai. "Sorry. I take a while to soften up. I'm a slow-cooked kind of guy."
+"You called?" said Dou-Da. "Sorry. I take a while to soften up. I'm a slow-cooked kind of guy."
 
 Hong Dou's eyes went wide. "There are SO many of you!"
 
@@ -44,7 +44,7 @@ Hong Dou's eyes went wide. "There are SO many of you!"
 
 ---
 
-Dora rolled over to a clean bowl. "For the pancake moons, we need batter — and batter starts with a good **混ぜる** (mazeru) = to mix. Eggs, sugar, a splash of honey, and flour. But the magic word is WHISK."
+Dora rolled over to a clean bowl. "For the pancake moons, we need batter — and batter starts with a good **mazeru** (mah-zeh-roo) — to mix. Eggs, sugar, a splash of honey, and flour. But the magic word is WHISK."
 
 She grabbed a whisk almost as tall as she was and dove in.
 
@@ -78,15 +78,15 @@ The grown-up cooked puddle after puddle — *tsss, pip-pip, flip* — until a ta
 
 ---
 
-"While they cool," said Dora, "we make the filling. Tai? Your big moment."
+"While they cool," said Dora, "we make the filling. Dou-Da? Your big moment."
 
-Tai cracked his knuckles, which for a bean is mostly just a small squelch. The grown-up had already simmered the beans soft and warm and sweet in a pot — *another* hot job, very kindly done — and now poured them, steaming and gleaming, into a bowl with a sprinkle of sugar.
+Dou-Da cracked his knuckles, which for a bean is mostly just a small squelch. The grown-up had already simmered the beans soft and warm and sweet in a pot — *another* hot job, very kindly done — and now poured them, steaming and gleaming, into a bowl with a sprinkle of sugar.
 
-"Squish us!" said Tai. "Don't be shy!"
+"Squish us!" said Dou-Da. "Don't be shy!"
 
 Dora pressed and mashed with the back of a spoon. The beans gave a chorus of happy little *squimps* and *squelps*, melting together into a glossy, deep-red paste that smelled like a warm hug on a cold night.
 
-"That's **餡** (an) = sweet bean paste," said Dora. "And look — Hong Dou, where are you?"
+"That's **an** (ahn) — sweet bean paste," said Dora. "And look — Hong Dou, where are you?"
 
 A small voice came from deep inside the paste. "I'm... in here. I'm part of the smoosh."
 
@@ -102,13 +102,13 @@ Dora flipped a cooled pancake moon onto its back, freckly side down, soft belly 
 
 "Spread it gently," she said, swirling the paste into a smooth dome, "but not all the way to the edge! Leave a little ring of bare pancake — that's the pillow where the two moons will press together. Spread to the edge and your filling squirts out the sides like a runaway jelly, and then it's chaos, glorious chaos, but messy chaos."
 
-"Roll me in it!" hollered Tai, who had jumped into the paste headfirst. The grown-up gently fished him out.
+"Roll me in it!" hollered Dou-Da, who had jumped into the paste headfirst. The grown-up gently fished him out.
 
 Then — the big moment. Dora picked up a second golden moon and held it high.
 
 "Two moons," she said softly. "One sweet middle. Watch."
 
-She lowered the second pancake on top and pressed, ever so gently, all the way around the edge until the two pillowy cheeks held the bean paste snug between them. The edges kissed shut. And there it was: round, golden, plump, and full of sweetness — a brand-new **どら焼き** (dorayaki), shining like a little drum.
+She lowered the second pancake on top and pressed, ever so gently, all the way around the edge until the two pillowy cheeks held the bean paste snug between them. The edges kissed shut. And there it was: round, golden, plump, and full of sweetness — a brand-new dorayaki, shining like a little drum.
 
 "It's a sandwich-cake," breathed Hong Dou from inside. "I'm IN a dorayaki!"
 
@@ -118,11 +118,11 @@ They made a whole platter of them, two-moons-and-a-middle, again and again, whil
 
 ---
 
-When the last one was pressed and plump, Dora gathered everybody — Tai, the grown-up, and one warm dorayaki cradled in her cheeks — and they all curled up by the window to share.
+When the last one was pressed and plump, Dora gathered everybody — Dou-Da, the grown-up, and one warm dorayaki cradled in her cheeks — and they all curled up by the window to share.
 
 The grown-up took the first happy bite. *Mmmf.* Soft pancake, sweet bean, two fluffy moons hugging one cozy middle. Dora wiggled with joy.
 
-"See?" said Dora, her mouth full of cousin. "Better together. Always."
+"See?" said Dora, who was already sampling the filling. "Better together. Always."
 
 And from somewhere deep inside the sweetness, Hong Dou — no longer one lonely bean, but part of the most wonderful, warmest sandwich-cake in the whole rainy world — gave the tiniest, happiest sigh.
 
@@ -136,8 +136,9 @@ Outside, the rain kept gently drumming, as if the whole sky were full of two lit
 *Ask a grown-up to help with anything hot or sharp!*
 1. Whisk the batter — eggs, sugar, honey, and flour — until it's smooth and shiny with no lumps.
 2. Have a grown-up pour round pancake puddles onto a hot pan, watch for the bubbles to pop, then flip each one until golden.
-3. Let the pancakes cool, then spread sweet red bean paste on the freckly side of one — not all the way to the edge!
-4. Gently press a second pancake on top, edges kissing shut, to make your two-moon sandwich. Share and enjoy!
+3. Ask a grown-up to simmer red beans with sugar until soft and jammy — or use ready-made anko paste.
+4. Let the pancakes cool, then spread sweet red bean paste on the freckly side of one — not all the way to the edge!
+5. Gently press a second pancake on top, edges kissing shut, to make your two-moon sandwich. Share and enjoy!
 
 ## Goodnight Blessing
 May your day be two soft moons, with something sweet held safe between them. May you never feel too small, for you are always part of something warm and whole. Snuggle close, little one — like pancake and bean, like rain and window, like friend and friend. You are exactly enough, and you are never alone. Sleep now, sweet and round and cozy. Goodnight.

@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A snug Tokyo apartment with a warm kotatsu table on a snowy winter night
 **Theme:** The coziest adventures happen close to home
-**Japanese Spotlight:** こたつ (kotatsu) = heated blanket-table
+**Japanese Spotlight:** **Kotatsu** (koh-tah-tsoo) — heated blanket-table
 
 ---
 
@@ -14,7 +14,7 @@ The snow came down so softly over Tokyo that it looked like someone was gently s
 
 And she had just had a VERY good idea.
 
-In the middle of her tiny living room sat a low wooden table draped in a thick quilted blanket, with a soft glow humming underneath. A **こたつ** (kotatsu) = heated blanket-table. The warmest, snuggliest, most magical piece of furniture ever invented.
+In the middle of her tiny living room sat a low wooden table draped in a thick quilted blanket, with a soft glow humming underneath. A **kotatsu** (koh-tah-tsoo) — a heated blanket-table. The warmest, snuggliest, most magical piece of furniture ever invented.
 
 "Tonight," Momo whispered to the snow, "I am starting a club."
 

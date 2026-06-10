@@ -4,11 +4,11 @@
 **Guest Characters:** None
 **Setting:** A lively Dotonbori street-food stall in Osaka
 **Theme:** Flipping fast is easier when someone flips with you
-**Japanese Spotlight:** たこやき (takoyaki) = octopus batter balls
+**Japanese Spotlight:** **takoyaki** (tah-koh-yah-kee) — octopus batter balls
 
 ---
 
-If you ever wander down **道頓堀** (Dōtonbori) = the brightest, blinkiest street in Osaka, just past the giant glowing crab who waves his claws all night, you will find the teeniest, busiest, most cheerful little stall in all of Japan. It is no bigger than a bathtub. It has a striped awning, a hand-painted sign, and two round golden friends bouncing behind the counter like a pair of happy ping-pong balls who escaped a very fun game.
+If you ever wander down **Dotonbori** (doh-tohn-boh-ree) — the brightest, blinkiest street in Osaka, just past the giant glowing crab who waves his claws all night, you will find the teeniest, busiest, most cheerful little stall in all of Japan. It is no bigger than a bathtub. It has a striped awning, a hand-painted sign, and two round golden friends bouncing behind the counter like a pair of happy ping-pong balls who escaped a very fun game.
 
 "WELCOME, WELCOME!" shouted Tako.
 
@@ -18,7 +18,7 @@ That is how Tako and Yaki talk, you see — one starts a sentence and the other 
 
 "Tako," whispered Yaki, "do you think we can really do this?"
 
-"Yaki," whispered Tako, "we are literally takoyaki. Who better to make たこやき (takoyaki) = octopus batter balls than us?"
+"Yaki," whispered Tako, "we are literally takoyaki. Who better to make **takoyaki** (tah-koh-yah-kee) — octopus batter balls — than us?"
 
 And the wave on top of their heads went *wibble-wobble* with pride.
 
@@ -84,7 +84,7 @@ It was the grandmother who saved them, though she didn't know it. She'd been wat
 
 Tako and Yaki blinked at her.
 
-"Stop trying to flip in two directions," she said. "Flip in *one*. Together. Like a dance. **一緒に** (issho ni) = together — that's the secret your stall has been missing."
+"Stop trying to flip in two directions," she said. "Flip in *one*. Together. Like a dance. **Issho ni** (ee-shoh nee) — together — that's the secret your stall has been missing."
 
 Tako looked at Yaki. Yaki looked at Tako. And up above them, the little bonito-wave gave one slow, thoughtful *wibble*.
 
@@ -94,11 +94,11 @@ Tako looked at Yaki. Yaki looked at Tako. And up above them, the little bonito-w
 
 They stood up. They picked up their picks. And this time, instead of each twin grabbing a side and pulling apart, they leaned *the same way*. Tako counted them in, the way Old Mister Octo used to.
 
-"**いち** (ichi) = one," said Tako.
+"**Ichi** (ee-chee) — one!" said Tako.
 
-"**に** (ni) = two," said Yaki.
+"**Ni** (nee) — two!" said Yaki.
 
-"**さん** (san) = three — FLIP!"
+"**San** (sahn) — three — FLIP!"
 
 And they flipped together.
 

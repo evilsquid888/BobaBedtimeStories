@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A mossy forest shrine where a small, cuddly forest spirit lives
 **Theme:** Kindness makes even shy spirits smile
-**Japanese Spotlight:** もり (mori) = forest
+**Japanese Spotlight:** **mori** (moh-ree) — forest
 
 ---
 
@@ -12,7 +12,7 @@ Now, between you and me, Kuma the Kuri was the shyest chestnut in the whole wide
 
 He was a glossy little chestnut, smooth and warm and the color of polished mahogany, with a fuzzy cap perched on his head like a tiny brown beret that had wandered off and refused to come home. Around his neck he wore an autumn-leaf scarf, crinkly and red-gold, and when he got nervous — which was roughly always — he tugged on it and went *very* quiet.
 
-This particular evening, Kuma had wandered deep, deep into the **もり** (mori) = forest, following a trail of fallen acorns because he liked counting them. (He was up to two hundred and eleven.) The trees grew tall and mossy, the light went soft and green, and somewhere ahead, a tiny bell went *ting*.
+This particular evening, Kuma had wandered deep, deep into the **mori** (moh-ree) — the forest, following a trail of fallen acorns because he liked counting them. (He was up to two hundred and eleven.) The trees grew tall and mossy, the light went soft and green, and somewhere ahead, a tiny bell went *ting*.
 
 "Oh dear," whispered Kuma. He had never been this deep before. But the bell went *ting* again — and it sounded, well... lonely.
 
@@ -42,7 +42,7 @@ Finally, the fluffy thing peeped in the tiniest voice you can imagine — about 
 
 Kuma poked his fuzzy cap out from behind the mushroom. "A wish?"
 
-"I'm the shrine spirit," whispered the fluffy thing, twiddling its leaf-hands. "I'm a **こだま** (kodama) = tree spirit. I'm supposed to grant wishes for travelers who ring the bell. Only..." Its big eyes welled up. "Only nobody ever comes. They think the forest is spooky. They run away before they even reach the clearing."
+"I'm the shrine spirit," whispered the fluffy thing, twiddling its leaf-hands. "I'm a **kodama** (koh-dah-mah) — a tree spirit. I'm supposed to grant wishes for travelers who ring the bell. Only..." Its big eyes welled up. "Only nobody ever comes. They think the forest is spooky. They run away before they even reach the clearing."
 
 "Oh," said Kuma softly. "That sounds lonely."
 
@@ -70,7 +70,7 @@ And here is the funny thing about two shy creatures meeting in the woods: each o
 
 This was, frankly, the saddest thing Kuma had heard all week, and he decided right then and there to fix it.
 
-"Hmm," he said. "You're round, and soft, and you live in the trees, and you glow a little when the fireflies come close..." He thought hard. "What about **モリ** (Mori)? Like the forest. Because you're the heart of it."
+"Hmm," he said. "You're round, and soft, and you live in the trees, and you glow a little when the fireflies come close..." He thought hard. "What about **Mori**? Like the forest. Because you're the heart of it."
 
 The kodama — *Mori* — went absolutely pink with joy. Which is a very strange thing for a white fluffy creature to do, but there it is. "Mori," it whispered, trying the name on like a cozy hat. "*I have a name.* Kuma, I have a NAME!"
 
@@ -90,9 +90,9 @@ Now, the two of them might have spent the whole night being shy at each other fr
 
 "There's an *easy* kind?"
 
-"The easiest magic in the **もり** there is," said Kuma. "Being a good friend to whoever comes by. That's a wish-come-true all on its own."
+"The easiest magic in the mori there is," said Kuma. "Being a good friend to whoever comes by. That's a wish-come-true all on its own."
 
-Mori looked doubtful. So Kuma showed it. He gathered a little pile of the acorns he'd been counting and arranged them into a cozy ring, like seats around a campfire. He unwound his autumn-leaf scarf and laid it over the cold stone of the shrine step so Mori would have somewhere soft to perch. Then he gathered a handful of glowing **ほたる** (hotaru) = fireflies in his cupped paws — gently, gently — and let them drift up like tiny lanterns, until the whole clearing twinkled.
+Mori looked doubtful. So Kuma showed it. He gathered a little pile of the acorns he'd been counting and arranged them into a cozy ring, like seats around a campfire. He unwound his autumn-leaf scarf and laid it over the cold stone of the shrine step so Mori would have somewhere soft to perch. Then he gathered a handful of glowing **hotaru** (hoh-tah-roo) — fireflies in his cupped paws — gently, gently — and let them drift up like tiny lanterns, until the whole clearing twinkled.
 
 "Oh," breathed Mori. "*Oh.* It's so cozy."
 
@@ -118,14 +118,14 @@ Kuma considered this. It was, he thought, the wisest thing a sneezing-mushroom s
 
 "Every autumn," promised Kuma. "And I'll tell the others the forest isn't spooky at all. I'll tell them there's the kindest spirit in the world here, and its name is Mori, and it gives the very best wish of all — the wish of *come sit, you're welcome here.*"
 
-Mori hugged its leaf-arms around itself, too happy to speak. So instead it rang the bell one more time — *ting!* — a little bell of pure joy ringing out across the sleeping **もり**, telling every tree and every firefly that, at long last, the shrine spirit had a friend.
+Mori hugged its leaf-arms around itself, too happy to speak. So instead it rang the bell one more time — *ting!* — a little bell of pure joy ringing out across the sleeping mori, telling every tree and every firefly that, at long last, the shrine spirit had a friend.
 
 And two shy creatures, who had each been certain they were too bashful for friendship, discovered the loveliest secret in the woods: that being bashful *together* is not lonely at all. It is simply the cozy, quiet beginning of something sweet.
 
 ---
 
 ## Goodnight Blessing
-Little one, somewhere in a soft green **もり**, a fuzzy chestnut and a fluffy spirit are curled up on warm moss, watching the fireflies blink themselves to sleep. May your heart be brave enough to say one shy hello, and may that hello bloom into a friend who feels like home. You don't have to be loud to be loved — the quiet kindnesses count the very most. Close your eyes now, snug as a chestnut in its cap. The forest is humming you a lullaby. Goodnight.
+Little one, somewhere in a soft green mori, a fuzzy chestnut and a fluffy spirit are curled up on warm moss, watching the fireflies blink themselves to sleep. May your heart be brave enough to say one shy hello, and may that hello bloom into a friend who feels like home. You don't have to be loud to be loved — the quiet kindnesses count the very most. Close your eyes now, snug as a chestnut in its cap. The forest is humming you a lullaby. Goodnight.
 
 ## AI Image Prompts
 1. Warm whimsical storybook illustration: a tiny mossy wooden forest shrine at dusk, glowing fireflies drifting like lanterns, a small glossy mahogany chestnut character (Kuma) with a fuzzy brown cap and red-gold autumn-leaf scarf sitting on soft green moss beside a round fluffy white forest spirit (Mori) with huge gentle dark eyes and little leaf-shaped arms. Palette of deep forest greens, golden firefly light, soft amber glow. Cozy, magical, gentle mood; dreamy soft lighting.

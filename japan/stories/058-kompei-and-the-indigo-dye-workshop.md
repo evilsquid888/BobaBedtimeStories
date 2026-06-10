@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A small indigo-dyeing (aizome) craft studio down a cobbled Kyoto lane
 **Theme:** A happy accident can become the most beautiful part of what you make
-**Japanese Spotlight:** あい (ai) = indigo blue
+**Japanese Spotlight:** ai (eye) — indigo blue
 
 ---
 
@@ -26,7 +26,7 @@ The mirror, being a mirror, did not have the heart to tell him.
 
 The little studio sat at the end of a cobbled Kyoto lane, behind a curtain the deep dreamy blue of a midnight sky. Inside, the whole place smelled green and earthy and good, like a garden after rain. Big wooden tubs lined the walls, and inside them swirled a color so deep and rich it seemed to glow — a blue that was almost purple, almost black, almost the color of the moment right before stars come out.
 
-"**あい** (ai) = indigo blue," said the studio's owner, a round, kindly old eggplant-colored dumpling named Auntie Nasu, dusting her flour-pale hands on a splotchy apron. Her apron, Kompei noticed, was *covered* in blue blotches, none of them matching, none of them neat. "This is the oldest, kindest blue in Japan. We do not paint it on, little star. We dip. The cloth drinks the blue all by itself."
+"**Ai** (eye) — indigo blue," said the studio's owner, a round, kindly old eggplant-colored dumpling named Auntie Nasu, dusting her flour-pale hands on a splotchy apron. Her apron, Kompei noticed, was *covered* in blue blotches, none of them matching, none of them neat. "This is the oldest, kindest blue in Japan. We do not paint it on, little star. We dip. The cloth drinks the blue all by itself."
 
 Kompei climbed onto his stool and folded his spiky little hands. He had brought his own square of white cloth, smooth and crisp and absolutely spotless.
 
@@ -46,7 +46,7 @@ Now, the funny thing about indigo is that it does not come out blue at first. Wh
 
 "Wait," said Auntie Nasu gently. "Watch. Hold it up to the air. Be patient."
 
-So Kompei held his soggy green cloth up in the air, frowning his spikiest frown — and then his pink-and-yellow mouth dropped open. Because right before his eyes, slowly, magically, the green began to *change*. The air kissed the cloth, and the green deepened, and bloomed, and turned — like a sunset running backward — into a beautiful, breathing **あい**.
+So Kompei held his soggy green cloth up in the air, frowning his spikiest frown — and then his pink-and-yellow mouth dropped open. Because right before his eyes, slowly, magically, the green began to *change*. The air kissed the cloth, and the green deepened, and bloomed, and turned — like a sunset running backward — into a beautiful, breathing ai.
 
 "It... it turned blue by itself," Kompei whispered. "I didn't do anything."
 
@@ -104,7 +104,7 @@ Kompei's points glowed pink with pride. He had never once, in all his perfect-lo
 
 ---
 
-By the time the afternoon light slanted gold through the studio curtain, Kompei had a whole row of cloths drying on the line, swaying in the breeze. Not one of them was even. Not one of them matched. One looked like falling snow. One looked like ripples on a pond. One looked like the Konpeito constellation. And the very first one — the bunched-up accident — still looked, to Kompei, the most beautiful of all, with its pale rivers winding through midnight **あい**.
+By the time the afternoon light slanted gold through the studio curtain, Kompei had a whole row of cloths drying on the line, swaying in the breeze. Not one of them was even. Not one of them matched. One looked like falling snow. One looked like ripples on a pond. One looked like the Konpeito constellation. And the very first one — the bunched-up accident — still looked, to Kompei, the most beautiful of all, with its pale rivers winding through midnight ai.
 
 "Auntie Nasu," he said, gazing up at them, "I came here to make one perfect square. And I made six imperfect ones instead. And they're so much better than perfect would have been." He scratched one bumpy point, thinking hard. "Is that... allowed?"
 

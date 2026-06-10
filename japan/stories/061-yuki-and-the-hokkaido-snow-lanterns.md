@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A snowy Otaru canal lined with glowing ice lanterns
 **Theme:** A little light shared chases away the cold
-**Japanese Spotlight:** ランタン (rantan) = lantern
+**Japanese Spotlight:** rantan (rahn-tahn) — lantern
 
 ---
 
@@ -12,7 +12,7 @@ Yuki the Snow Monkey-Manju woke up the way she always did on the very coldest ni
 
 She popped one eye open.
 
-The snowy town of **小樽** (Otaru) = Otaru sat hushed and silver beside its frozen canal, and the snow was falling in big, lazy, marshmallow flakes. It was beautiful. It was also, Yuki noticed with a tiny shiver, *completely dark.* The little lamps along the water had all blinked out, one by one, like candles after a birthday wish.
+The snowy town of Otaru sat hushed and silver beside its frozen canal, and the snow was falling in big, lazy, marshmallow flakes. It was beautiful. It was also, Yuki noticed with a tiny shiver, *completely dark.* The little lamps along the water had all blinked out, one by one, like candles after a birthday wish.
 
 "Uh-oh," said Yuki, sitting up so fast that snow puffed off her head. "That's not cozy. That's just cold."
 
@@ -30,7 +30,7 @@ All along the edge of the canal stood a long, long row of tiny lanterns — not 
 
 But every single one was empty and unlit.
 
-A small, shivery voice came from the nearest one. "Oh, hello," it said. "Are you here to light us? We've been *so* dark. We're **ランタン** (rantan) = lanterns, you know. Lighting up is sort of our whole job."
+A small, shivery voice came from the nearest one. "Oh, hello," it said. "Are you here to light us? We've been *so* dark. We're **rantan** (rahn-tahn) — lanterns, you know. Lighting up is sort of our whole job."
 
 Yuki blinked. The ice lanterns could talk! Of course they could — everything could talk on a night cold enough to need a friend.
 
@@ -62,11 +62,11 @@ She even tried *singing* to them, a warm wobbly little hot-spring song her grand
 
 "Singing warms the *inside,*" Yuki said thoughtfully, tapping her chin with one soft paw. "But the lanterns need something to warm their *outside.* And that means—" Her sleepy eyes went round. "—*real fire.*"
 
-Then she remembered the **温泉** (onsen) = hot spring up on the hill behind the town — the one she loved to soak in until her cheeks turned the color of plum blossoms. The onsen was *warm.* Steamy-warm. Bubble-up-from-the-deep-warm. And where there was a hot spring, there was usually—
+Then she remembered the **onsen** (ohn-sen) — hot spring up on the hill behind the town — the one she loved to soak in until her cheeks turned the color of plum blossoms. The onsen was *warm.* Steamy-warm. Bubble-up-from-the-deep-warm. And where there was a hot spring, there was usually—
 
 "A caretaker," Yuki gasped. "And caretakers have *fire!*"
 
-She bounced up the snowy path, leaving a trail of round little monkey-bun prints, and found the old onsen lodge glowing softly through its frosted windows. Sitting on the porch, beside a kettle and a small steady candle, was the caretaker — a sleepy fellow who turned out to be a very plump, very orange **金柑** (kinkan) = kumquat in a knitted hat, no bigger than Yuki herself.
+She bounced up the snowy path, leaving a trail of round little monkey-bun prints, and found the old onsen lodge glowing softly through its frosted windows. Sitting on the porch, beside a kettle and a small steady candle, was the caretaker — a sleepy fellow who turned out to be a very plump, very orange **kinkan** (keen-kahn) — kumquat in a knitted hat, no bigger than Yuki herself.
 
 "Evening," said the kumquat, blinking. "You're up late for a bun."
 
@@ -82,7 +82,7 @@ But Yuki had soaked in enough hot springs to know a secret about warmth that big
 
 "Can I borrow it?" she asked. "Just the one. I'll bring it right back, I promise on my plum-blossom cheeks."
 
-The kumquat, who was kind and also extremely sleepy, handed it over. "Mind the wind," he yawned. "She's been practicing her *wooooo.*"
+The kumquat, who was kind and also extremely sleepy, handed it over. Then he rummaged in his knitted hat, fished out a stubby second candle — unlit, no longer than a thumb — and tucked it gently into Yuki's paw. "Just in case," he said. "A caretaker never sends anyone out with only one of anything. Mind the wind," he yawned. "She's been practicing her *wooooo.*"
 
 "I noticed. She needs lessons."
 
@@ -104,7 +104,7 @@ The new candle caught at once. And the first lantern? It didn't dim even a littl
 
 Yuki gasped so hard she hiccuped. "That's the secret!" she cried, bouncing on the snow. "Light doesn't run out when you share it — it just makes MORE light! Take THAT, cold!"
 
-She lit the second lantern. Then she lit a candle from *that* one, and lit a third. And a fourth. Lantern to lantern, flame to flame, glow to glow, Yuki danced down the frozen canal leaving a ribbon of golden light blooming behind her. Each little ice **ランタン** caught the warmth from its neighbor and passed it on, the way friends pass a warm bun down a row so everyone gets a bite.
+She lit the second lantern. Then she lit a candle from *that* one, and lit a third. And a fourth. Lantern to lantern, flame to flame, glow to glow, Yuki danced down the frozen canal leaving a ribbon of golden light blooming behind her. Each little ice rantan caught the warmth from its neighbor and passed it on, the way friends pass a warm bun down a row so everyone gets a bite.
 
 The lanterns began to chatter and giggle as they woke up one by one, like a long sleepy family stretching after a nap. "I'm next! I'm next!" squealed a little round one. "Ooh, ooh, do me — I want to be the brightest!" cried another, and the first lantern said, with all the wisdom of a lantern that had been glowing a full two minutes longer, "There's no *brightest,* silly. We're all the same warm. That's the lovely part." Yuki laughed so hard she nearly dropped her candle into a snowbank, and had to do a wobbly little monkey-spin to catch it.
 

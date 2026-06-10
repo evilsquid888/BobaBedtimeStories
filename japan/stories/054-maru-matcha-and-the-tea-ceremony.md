@@ -1,10 +1,10 @@
 # Story 54: Maru Matcha and the Tea Ceremony
 
 **Main Character:** Maru Matcha
-**Guest Characters:** None
+**Guest Characters:** Kori Kakigori, Tako & Yaki, Pock Ramune, Mero Melonpan
 **Setting:** A serene Kyoto tea house with tatami mats and a tiny garden
 **Theme:** Doing one thing slowly and well is a gift
-**Japanese Spotlight:** おちゃ (ocha) = tea
+**Japanese Spotlight:** ocha (oh-chah) — tea
 
 ---
 
@@ -12,7 +12,7 @@ On a quiet hill in Kyoto, tucked behind a wooden gate and a row of polite little
 
 "Today," Maru whispered to the whisk, "I host my very first tea ceremony. For ALL my friends."
 
-She had invited everyone. Bouncy ones, sleepy ones, dramatic ones, the kind who tend to knock over teapots. And Maru had exactly one job: to whisk and serve one perfect bowl of **おちゃ** (ocha) = tea.
+She had invited everyone. Bouncy ones, sleepy ones, dramatic ones, the kind who tend to knock over teapots. And Maru had exactly one job: to whisk and serve one perfect bowl of **ocha** (oh-chah) — tea.
 
 The whisk trembled harder.
 
@@ -36,7 +36,7 @@ Last came Mero Melonpan, the sleepy domed bun, already yawning. "Is this the nap
 
 Maru looked at her friends — bouncing, melting, fizzing, dozing — and felt her whisk go cold with worry. A tea ceremony was supposed to be slow. Calm. One careful thing at a time. Her friends were many fast things all at once.
 
-But she breathed out the foggy breath again. "Welcome," she said, and bowed. "Please, sit on the **たたみ** (tatami) = woven straw mats. We will begin... slowly."
+But she breathed out the foggy breath again. "Welcome," she said, and bowed. "Please, sit on the **tatami** (tah-tah-mee) — the woven straw mats. We will begin... slowly."
 
 ---
 
@@ -48,7 +48,7 @@ The tea house was a single small room with paper walls that glowed like the insi
 
 Kori blinked behind his sunglasses. "...Okay, that was kind of beautiful. Annoying. But beautiful."
 
-Maru knelt at the low table and set out her tools, naming each one like an old friend. The **ちゃわん** (chawan) = tea bowl, wide and warm in her hands. The bamboo whisk. A small scoop. A jar of bright green tea powder, the color of spring grass after rain.
+Maru knelt at the low table and set out her tools, naming each one like an old friend. The **chawan** (chah-wahn) — the tea bowl — wide and warm in her hands. The bamboo whisk. A small scoop. A jar of bright green tea powder, the color of spring grass after rain.
 
 "Now," she said, "watch. I will do only this. Nothing else. Just this."
 
@@ -76,7 +76,7 @@ The friends leaned in. Even Mero Melonpan cracked one sleepy eye.
 
 And here is the funny thing, reader — and Maru noticed it too. As she whisked slowly, the whole room slowed down with her. Kori stopped melting so dramatically. Tako and Yaki stopped bouncing and just... swayed. Pock's bubbles drifted up lazy and round instead of zipping. It was as if Maru's slowness was a warm blanket, and one by one her busy friends crawled underneath it.
 
-"Huh," said Tako quietly. "I feel..." "...calm," finished Yaki. "Weird." "Nice-weird."
+"Huh," said Tako quietly. "I feel..." "...calm," finished Yaki. "Weird," said Tako. "Nice-weird," agreed Yaki.
 
 Maru smiled into the foam.
 
@@ -116,7 +116,7 @@ Now came the best part.
 
 Maru turned the warm bowl carefully, three small turns, so the prettiest side faced her first guest. Tea is shared, she explained, by giving the loveliest view to the person you serve. Then she set the bowl before Mero Melonpan, who was the sleepiest, and therefore — Maru decided — needed the first sip most.
 
-Mero blinked his happy eyes. He lifted the bowl in both crusty paws. He took one slow sip of the warm green **おちゃ**.
+Mero blinked his happy eyes. He lifted the bowl in both crusty paws. He took one slow sip of the warm green ocha.
 
 The room held its breath.
 

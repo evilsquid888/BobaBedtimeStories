@@ -4,7 +4,7 @@
 **Guest Characters:** Brown Sugar
 **Setting:** Boba shop
 **Theme:** Learn the steps
-**Word Spotlight:** 珍珠奶茶 (zhenzhu naicha) = boba milk tea
+**Word Spotlight:** **zhenzhu naicha** (jen-joo nai-chah) — boba milk tea
 
 ---
 
@@ -12,9 +12,9 @@ Boba was the bounciest little pearl in all of Taiwan, and she knew it. She was s
 
 "Are you ready?" Boba bounced. *Boing.* "Are you super ready?" *Boing, boing.* "Are you ready-ready-with-a-cherry-on-top ready?"
 
-Coconut Jelly was a wobbly white cube, soft as a cloud that had decided to take a nap. She jiggled nervously. "I think so? What are we making, exactly?"
+Coconut Jelly was a wobbly white cube, soft as a cloud that had decided to take a nap. He jiggled nervously. "I think so? What are we making, exactly?"
 
-Boba puffed out her round little chest. "We," she announced, "are making **珍珠奶茶** (zhenzhu naicha) = boba milk tea. The chewiest, dreamiest, slurpiest drink ever invented. And by the end, *you'll* know how too!"
+Boba puffed out her round little chest. "We," she announced, "are making **zhenzhu naicha** (jen-joo nai-chah) — boba milk tea. The chewiest, dreamiest, slurpiest drink ever invented. And by the end, *you'll* know how too!"
 
 ---
 
@@ -30,7 +30,7 @@ A Grown-Up appeared, which is a magical thing Grown-Ups do, especially near snac
 
 "We need the pearls cooked, please!" said Boba. "Bubble, bubble, then a nice long rest, until they're squishy in the middle and chewy all over."
 
-The Grown-Up stirred the pot so the pearls swirled like little brown planets. They bubbled and danced and slowly turned soft and shiny. Coconut Jelly watched, fascinated. "They're doing a swimming lesson!" she whispered.
+The Grown-Up stirred the pot so the pearls swirled like little brown planets. They bubbled and danced and slowly turned soft and shiny. Coconut Jelly watched, fascinated. "They're doing a swimming lesson!" he whispered.
 
 "Backstroke," Boba agreed proudly. "It's the family talent."
 
@@ -54,7 +54,7 @@ The pearls glistened, all dark and sticky and gleaming, soaking up the sweetness
 
 "Now," said Boba, hopping to the next station, "the tea!"
 
-While the pearls rested in their sugary blanket, the Grown-Up brewed a big pot of black tea — strong and dark and smelling like a cozy library. **熱 (rè) = hot**, the Grown-Up reminded them, holding the kettle high and away from little wobbly friends. So Boba and Coconut Jelly cheered from a safe and sensible distance, which is exactly where you cheer from when something is steamy.
+While the pearls rested in their sugary blanket, the Grown-Up brewed a big pot of black tea — strong and dark and smelling like a cozy library. "**Re** (reh) — hot!" the Grown-Up reminded them, holding the kettle high and away from little wobbly friends. So Boba and Coconut Jelly cheered from a safe and sensible distance, which is exactly where you cheer from when something is steamy.
 
 "Why does it have to be *strong* tea?" asked Coconut Jelly.
 
@@ -80,7 +80,7 @@ She lined up a tall, clear cup. "Step one of the finish: the pearls go in *first
 
 "We SHAKE it."
 
-The Grown-Up popped a lid on tight and shook the cup — *shaka-shaka-shaka-SHAKA!* — and Boba could not help herself. She hopped up onto the counter and shook her whole round self in time. "Shaka-shaka-BOING! Shaka-shaka-BOING!" Coconut Jelly wobbled along, jiggling so hard she nearly bounced off the stool, and even Brown Sugar swayed slowly side to side like a syrupy disco.
+The Grown-Up popped a lid on tight and shook the cup — *shaka-shaka-shaka-SHAKA!* — and Boba could not help herself. She hopped up onto the counter and shook her whole round self in time. "Shaka-shaka-BOING! Shaka-shaka-BOING!" Coconut Jelly wobbled along, jiggling so hard he nearly bounced off the stool, and even Brown Sugar swayed slowly side to side like a syrupy disco.
 
 "Why do we shake it?" Coconut Jelly panted.
 

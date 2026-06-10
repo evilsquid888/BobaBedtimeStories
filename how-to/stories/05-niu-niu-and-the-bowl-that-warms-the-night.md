@@ -4,7 +4,7 @@
 **Guest Characters:** Cong Cong
 **Setting:** A rainy noodle shop
 **Theme:** Warmth is doubled
-**Word Spotlight:** 牛肉麵 (niurou mian) = beef noodle soup
+**Word Spotlight:** **niurou mian** (nyoh-roh myen) — beef noodle soup
 
 ---
 
@@ -20,9 +20,9 @@ Just then, the door went *ding-a-ling*, and in stumbled the wettest traveler in 
 
 The traveler was a long green onion with a damp, droopy top and the saddest little shiver you ever heard. He was so wet he squeaked when he walked.
 
-"H-h-hello," the onion chattered. "My n-name is **葱葱** (cōng cōng) = scallion. I have walked a VERY long way, and I am c-c-cold all the way down to my roots."
+"H-h-hello," the onion chattered. "My n-name is **Cong Cong** (tsong tsong) — scallion. I have walked a VERY long way, and I am c-c-cold all the way down to my roots."
 
-"Oh, you poor noodle-less noodle!" gasped Niu Niu, steam shooting from both ears at once — *POOF POOF!* "You came to the right bowl. Tonight I am making **牛肉麵** (niúròu miàn) = beef noodle soup, and it is the warmest thing in the whole wide world. Stay! Help me cook! We'll be warm together!"
+"Oh, you poor noodle-less noodle!" gasped Niu Niu, steam shooting from both ears at once — *POOF POOF!* "You came to the right bowl. Tonight I am making **niurou mian** (nyoh-roh myen) — beef noodle soup — and it is the warmest thing in the whole wide world. Stay! Help me cook! We'll be warm together!"
 
 Cong Cong's droopy top perked up just a smidge. "Together?"
 
@@ -96,7 +96,7 @@ The two of them slurped so loudly that Auntie laughed and a noodle flew clear of
 
 ---
 
-Outside, the rain kept falling, soft and silver, drumming its sleepy song on the roof. But inside the little shop on the corner, two friends sat shoulder to shoulder, warm all the way down to their roots, sharing bowl after bowl of 牛肉麵 until the pot was empty and their tummies were full and their cheeks were pink as lanterns.
+Outside, the rain kept falling, soft and silver, drumming its sleepy song on the roof. But inside the little shop on the corner, two friends sat shoulder to shoulder, warm all the way down to their roots, sharing bowl after bowl of niurou mian until the pot was empty and their tummies were full and their cheeks were pink as lanterns.
 
 Auntie sat down too, with her own steaming bowl, and the three of them watched the rain together, slurping happily, in no hurry to go anywhere at all.
 
@@ -110,8 +110,14 @@ And the little shop glowed on the corner, like a hug with windows, until morning
 
 ## How to Make beef noodle soup 🍽️
 *Ask a grown-up to help with anything hot or sharp!*
-1. Ask a grown-up to brown chunks of beef in a pot, then simmer them low and slow with ginger, soy sauce, bean paste, water, and a tomato until the beef is super tender (this takes a while — tell jokes while you wait!).
-2. Drop in some bok choy to cook, boil your noodles in a separate pot until soft, then ladle the hot broth, beef, and greens over the noodles in a bowl — and slurp!
+1. Ask a grown-up to brown chunks of beef in a big pot until every side is deep and toasty.
+2. Add the smelly-good parade: coins of ginger, a splash of soy sauce, a spoonful of bean paste, enough water to cover everything, and one squashy tomato.
+3. Put the lid on, turn the heat down low, and simmer for a long, long while (tell jokes while you wait!).
+4. Poke-test the beef: when a gentle nudge makes it fall apart into soft shreds, the broth is ready.
+5. Drop in some bok choy and let it turn bright and tender in the hot broth.
+6. Boil your noodles in a separate pot until they're soft and slurpable, then scoop them into big bowls.
+7. Ladle the hot broth, beef, and greens over the noodles.
+8. Slurp it up loud — slurping means "thank you" in soup language — and share!
 
 ## Goodnight Blessing
 May your blanket be as cozy as a noodle scarf, and your dreams as warm as broth on a rainy night. May you always have a friend to share your bowl, because warmth is doubled when it's shared. Snuggle down, little one, and let the rain hum you a soft, slurpy lullaby. Goodnight.

@@ -1,10 +1,10 @@
 # Story 40: Pepper-kun and the Sizzling Showdown
 
 **Main Character:** Pepper-kun (Pepper Lunch sizzle)
-**Guest Characters:** None
+**Guest Characters:** Mero Melonpan, Rin Ramen
 **Setting:** A sizzling Pepper Lunch counter in a buzzing food court
 **Theme:** Showing off is fun, but sharing the plate is better
-**Japanese Spotlight:** ステーキ (suteeki) = steak / sizzling beef
+**Japanese Spotlight:** suteeki (soo-TEH-kee) — steak / sizzling beef
 
 ---
 
@@ -24,13 +24,15 @@ Because here is the thing you should know about Pepper-kun: he loved being loud.
 
 The trouble was, he was not.
 
-The trouble had a name, and the name was Rin Ramen.
+The trouble — the friendly, bubbly, impossible-to-be-mad-at kind of trouble — had a name, and the name was Rin Ramen.
 
 Two counters down, Rin Ramen — a steaming ceramic bowl on stubby legs with noodle-curl hair and a soft-boiled egg cheek — let out a slurpy, bubbly laugh that rolled across the whole food court like warm thunder.
 
 "Everything's better warm and bubbly!" Rin sang, and a crowd of hungry friends *whooped* and gathered round.
 
-Pepper-kun's butter-melt swirl went a little flat.
+Rin wasn't showing off, mind you. He never did. He even waved a friendly noodle at Pepper-kun across the food court — which was, honestly, the most annoying part. You can't be properly grumpy at a rival who keeps being *nice* to you.
+
+Pepper-kun's butter-melt swirl went a little flat anyway.
 
 "Bubbly," he muttered. "BUBBLY. Anybody can bubble. But sizzle? Sizzle is *art*." He puffed himself back up. "Tonight, I will out-sizzle, out-dazzle, and out-LOUD every single plate in this place. They'll forget all about soup."
 
@@ -42,7 +44,7 @@ He grabbed his tiny spatula like a sword.
 
 Pepper-kun's big idea was a Sizzling Showdown — a one-plate spectacular so dramatic that the whole food court would have to stop and stare. He spent the whole afternoon practicing.
 
-First, the **ステーキ** (suteeki) = sizzling beef. He arranged his beef strips in a perfect spiral, balanced his butter swirl in the exact center, and rehearsed his sizzle countdown until his iron edges glowed warm and proud.
+First, the **suteeki** (soo-TEH-kee) — sizzling beef. He arranged his beef strips in a perfect spiral, balanced his butter swirl in the exact center, and rehearsed his sizzle countdown until his iron edges glowed warm and proud.
 
 "Five! Four! Three! Two! ONE—" *TSSSSSSSS!*
 
@@ -58,7 +60,7 @@ He drew a poster, too — a big one — with letters so curly and dramatic they 
 
 A soft, sleepy voice drifted over from the napping spot by the lanterns.
 
-"You're making an awful lot of noise for one plate," yawned Mero Melonpan, a puffy domed bun with a crackly golden-green crust and sleepy happy eyes. He cracked one eye open. "Who's all that **ステーキ** for?"
+"You're making an awful lot of noise for one plate," yawned Mero Melonpan, a puffy domed bun with a crackly golden-green crust and sleepy happy eyes. He cracked one eye open. "Who's all that suteeki for?"
 
 "For showing OFF," Pepper-kun said proudly. "I'm going to be the loudest plate in the food court. Louder than the noodles. Louder than the gongs. Louder than the *fireworks*, maybe."
 
@@ -84,7 +86,7 @@ Dumplings rolled over. Buns bounced closer. Even Rin Ramen wobbled across on stu
 
 He cranked up the heat. He flung the beef into the air — it landed in a perfect spiral. He drizzled the butter, scattered the corn, and threw both stubby arms wide.
 
-"Behold... the GREATEST **ステーキ** ever sizzled! FIVE! FOUR! THREE—"
+"Behold... the GREATEST suteeki ever sizzled! FIVE! FOUR! THREE—"
 
 The crowd leaned in. Eyes went wide. Tiny mouths watered.
 
@@ -112,7 +114,7 @@ Pepper-kun froze mid-bow. "What — what's wrong? Wasn't it loud enough? I can b
 
 "It was the loudest *ever*," agreed the bun.
 
-"It's just..." The dumpling shuffled its feet. "We're really, really hungry. And you've been sizzling that beautiful **ステーキ** for ages, and... nobody's getting any."
+"It's just..." The dumpling shuffled its feet. "We're really, really hungry. And you've been sizzling that beautiful suteeki for ages, and... nobody's getting any."
 
 Pepper-kun looked down at his iron plate.
 
@@ -142,7 +144,7 @@ His iron heart flickered back to life, warmer than ever.
 
 He grabbed his spatula. But this time, instead of striking a pose, he started serving.
 
-"You — front row — first bite!" *Plip!* A juicy strip of beef onto a tiny plate. "And you! And YOU! Corn for the corn-lovers! Butter for the butter-fans! Everybody gets a piece of the **ステーキ**!"
+"You — front row — first bite!" *Plip!* A juicy strip of beef onto a tiny plate. "And you! And YOU! Corn for the corn-lovers! Butter for the butter-fans! Everybody gets a piece of the suteeki!"
 
 The food court came back to life — but a *different* kind of life. Not the staring kind. The together kind.
 
@@ -150,7 +152,7 @@ Pepper-kun sizzled and served, sizzled and served. He flipped a beef strip behin
 
 "Stir it!" Pepper-kun called, scooping up a portion. "Sizzle it!" — *TSSSS!* — "and SHARE it!" — and he plopped a steaming bite into Rin Ramen's bowl.
 
-Rin slurped it up and let out the biggest, bubbliest laugh of the night. "Everything's better warm and bubbly — and SHARED!"
+Rin slurped it up and let out the biggest, bubbliest laugh of the night. "Everything's better warm and bubbly — and SHARED!" Then Rin tipped his whole bowl toward Pepper-kun, slow and steamy, the way one champion salutes another. And Pepper-kun tipped his spatula right back, grinning, because the only showdown worth having had just ended in the best possible tie.
 
 He even invited the friends right up onto the counter to help. A pair of dumplings stirred the corn. A bun fanned the steam. Rin Ramen ladled out warm broth on the side so nobody's beef got lonely. The Sizzling Showdown had turned into something much better than a showdown — it had turned into a great big bubbling, sizzling, everybody-helping *party*.
 

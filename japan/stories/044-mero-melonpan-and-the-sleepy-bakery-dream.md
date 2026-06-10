@@ -1,10 +1,10 @@
 # Story 44: Mero Melonpan and the Sleepy Bakery Dream
 
 **Main Character:** Mero Melonpan
-**Guest Characters:** None
+**Guest Characters:** Niko Nigiri, Momo Mochi, Maru Matcha
 **Setting:** A warm-smelling neighborhood bakery at closing time
 **Theme:** Rest helps your imagination rise like dough
-**Japanese Spotlight:** ねむい (nemui) = sleepy
+**Japanese Spotlight:** **nemui** (neh-moo-ee) — sleepy
 
 ---
 
@@ -42,7 +42,7 @@ They went in together — because that is what friends do when one of them leave
 
 On the other side was the most wonderful place any of them had ever seen. The ground was springy and warm, like the top of fresh-baked bread you press with one careful finger. Rolling hills rose up in puffy domes, each one cross-hatched with crackly green-gold crust, exactly like Mero. Little crumb-rivers sparkled between them. And the sky was the soft amber color of an oven window at the exact perfect moment.
 
-"Welcome," said Mero, drifting toward them on his own two crumbs, "to the Kingdom of Nemui." He yawned hugely. "**ねむい** (nemui) means *sleepy*. It's the coziest country there is. Everything here is allowed to be a little bit slow."
+"Welcome," said Mero, drifting toward them on his own two crumbs, "to the Kingdom of Nemui." He yawned hugely. "**Nemui** (neh-moo-ee) means *sleepy*. It's the coziest country there is. Everything here is allowed to be a little bit slow."
 
 "It's beautiful," gasped Momo, hugging the nearest bread-hill. It hugged her back, gently. "Squish! Oh, it squishes!"
 
@@ -137,7 +137,7 @@ And as the last gold light slipped out of the window, the four friends curled to
 ---
 
 ## Goodnight Blessing
-Little one, the day has done its baking, and now it's your turn to rest and rise. You don't have to count anything tonight, or tidy anything, or hurry one single bit. Just breathe in slow and let your dreams puff up soft and golden, the way bread does when it's finally, cozily, beautifully **ねむい** (nemui). Your imagination grows biggest when you let it sleep. Crackle on the outside, sweet dreams on the inside. Goodnight.
+Little one, the day has done its baking, and now it's your turn to rest and rise. You don't have to count anything tonight, or tidy anything, or hurry one single bit. Just breathe in slow and let your dreams puff up soft and golden, the way bread does when it's finally, cozily, beautifully nemui. Your imagination grows biggest when you let it sleep. Crackle on the outside, sweet dreams on the inside. Goodnight.
 
 ## AI Image Prompts
 1. Warm whimsical storybook illustration: a cozy neighborhood bakery at closing time bathed in slow gold late-afternoon light. On a warm wooden shelf by the window sits Mero Melonpan — a puffy domed bun with a crackly green-gold cross-hatched crust and sleepy happy closed eyes, gently snoring. Above him, tiny sparkling golden crumbs lift and spin into a glowing doorway made of crackly sweet bread. Nearby, Momo Mochi (snow-white squishy rice cake with rosy peach cheeks), tidy Niko Nigiri (white rice with glossy coral-orange salmon cape and nori belt), and calm Maru Matcha (jade-green bowl-head with frothy matcha-cream swirl, tiny bamboo whisk) look on in wonder. Palette: amber, honey-gold, cream, soft green. Mood: hushed, magical, deeply cozy.

@@ -1,171 +1,167 @@
 # Story 36: Yuki and the First Snowfall
 
 **Main Character:** Yuki the Snow Monkey-Manju
-**Guest Characters:** None
+**Guest Characters:** Mero Melonpan, Momo Mochi, Maru Matcha, Rin Ramen, Kuma the Kuri
 **Setting:** A quiet village square under the season's first snow
-**Theme:** Wonder is for sharing
-**Japanese Spotlight:** ゆき (yuki) = snow
+**Theme:** Fleeting things are for sharing fast and remembering slow
+**Japanese Spotlight:** **yuki** (yoo-kee) — snow
 
 ---
 
-Yuki the Snow Monkey-Manju woke up before the moon had even finished its yawn. He was a fluffy white steamed bun shaped like a baby snow monkey, with rosy onsen-warmed cheeks and a belly so soft you could press a thumb into it and watch it puff right back up. He had been sleeping curled in a teacup full of warm steam — his favorite bed — when his little black nose gave a twitch.
+Yuki the Snow Monkey-Manju woke before dawn because her nose was smarter than the rest of her. She was a fluffy white steamed bun shaped like a baby snow monkey, with rosy onsen-warmed cheeks and a curly dough-tail, and she had been fast asleep in her favorite bed — a teacup full of warm steam — when her little black nose twitched, sat up all by itself, and dragged the rest of her to the window.
 
-Sniff. Sniff-sniff.
+The village square had turned white.
 
-Something was different. The air tasted like cold cotton and clean sky. Yuki's ears wiggled. His tail (which was really just a curl of dough, but a very expressive curl) went stiff with excitement.
+"**Yuki**!" she squeaked — (yoo-kee) — snow! The first snow of the whole season! Her very own name, falling out of the sky like the weather had finally learned to spell!
 
-He waddled to the round window of the steam-house and pressed both rosy cheeks against the glass.
+She scrambled outside, flopped backward into the white with a *fwump*, and made one glorious snow angel.
 
-And there it was.
+She felt the cobblestones through it.
 
-**ゆき** (yuki) = snow.
+Yuki sat up slowly. The snow was thin. Worryingly thin. A single pawprint went clean through to the stone, like frosting spread by someone who had run out of frosting. And over the eastern rooftops, the sky was already glowing peach at the edges — the color of a sun that was absolutely on its way and had never once in history been talked out of rising.
 
-The first snow of winter, falling soft and slow over the whole sleepy village square, like the sky had quietly emptied a giant bag of powdered sugar and forgotten to tell anybody.
+Yuki did the melt-math on her paws. One hour. Maybe less. Then the first, thinnest, most precious snow of the year would be nothing but a puddle with a wonderful past.
 
----
+And everyone — *everyone* — was still asleep.
 
-"It's snowing," Yuki whispered. Then, because whispering felt much too small for a feeling this enormous, he hollered it. "IT'S SNOWING!"
-
-Now, here is a true and important fact about Yuki: he loved warmth more than almost anything. Hot springs, steamy baths, cozy blankets, the puff of heat from a fresh dumpling basket — these were his treasures. So you might expect a warmth-loving manju to hate the cold.
-
-But Yuki was a snow monkey at heart, and snow monkeys know the best-kept secret in all of winter: cold is only wonderful when you have somewhere warm to come back to. And besides — snow! Falling! For free! In the dark! It was simply too marvelous to keep to himself.
-
-He scrambled out into the square, and the cold air bonked him gently on the cheeks. Yuki giggled. He flopped backward into a fresh white drift with a soft *fwump*, waving his stubby arms and legs.
-
-"A snow angel!" he announced to nobody. He looked down. It was less of an angel and more of a roundish snow-blob with armpit-dents. "A snow... dumpling," he corrected, very pleased.
-
-He flopped there happily for exactly four seconds.
-
-Then a thought floated down with the snowflakes and landed right on his nose.
-
-*Everyone is asleep.*
-
-Everyone was missing it. The whole cast, every cozy friend, snoozing away while the most beautiful morning of the whole year tiptoed across the rooftops. And Yuki knew, deep in his soft steamed center, that this was a problem. Because the best part of wonder — the very best part — is the gasp you make when you turn to your friend and say, *did you see that?*
-
-Wonder all by yourself is nice.
-
-Wonder shared is the warmest thing there is.
-
-"Warm cheeks, warm heart, warm friends," Yuki said, rubbing his mittenless paws together. "Time for a wake-up parade!"
+"Okay," Yuki told the silent square, rolling up sleeves she did not have. "Nobody panic. Especially me."
 
 ---
 
-He started with the bakery cottage, because that's where the sleepiest sleeper lived.
+She started with the bakery, because it was the nearest door. This was her first mistake, and also her funniest.
 
-*Knock-knock-knock.*
+The bakery belonged to Mero Melonpan, the puffy domed bun with the crackly golden-green crust, who was famous across the village for exactly two things: baking like a dream, and sleeping like a sack of deeply contented flour.
 
-A long pause. A crackly yawn. The door creaked open and there stood **Mero Melonpan** (mero meron-pan) = melon bread, a puffy domed bun with a crackly golden-green crust, blinking with his sleepy happy eyes. A crumb glittered on his cheek like a tiny lost star.
+*Knock-knock!* Nothing. *Knock-knock-KNOCK!* From inside came a snore with the slow, satisfied rhythm of rising dough.
 
-"Mmm?" said Mero. "Is it... morning? It doesn't feel like morning. It feels like the inside of a cloud."
+Yuki tried the window. First tapping, then pebbles, then a full drum solo with both paws. Mero rolled over and mumbled, "Five more loaves..."
 
-"It's BETTER than morning," said Yuki. "Come see, come see! But quietly — the whole square is sleeping under it."
+So she climbed in — the window was never locked; the village burglars had retired years ago out of sheer boredom — and shook him by the shoulder. "Mero! SNOW! Your favorite weather! The one you've never once been awake for!"
 
-Mero shuffled out, looked up, and watched a single snowflake drift down and land *poof* right on his crackly crust.
+"Mmm." Mero, eyes shut, patted her head fondly. Then his baker paws took over: he kneaded her shoulders, folded her arms in neatly, and tucked her against the pillow like a croissant he was proofing for morning.
 
-He gasped. The smallest, softest gasp. "Oh," he breathed. "Crackle on the outside... snowflakes on the inside of my dreams." He held out both paws to catch more. "Yuki. Yuki, the sky is making *itself* into bread."
+Yuki wriggled free, climbed onto the headboard, and shouted directly into his ear: "FREE FROSTING! FALLING FROM THE SKY! NO LINE!"
 
-"That's the spirit!" said Yuki, who did not entirely understand but absolutely agreed.
+Mero smiled beautifully in his sleep. "Save me the corner piece," he murmured, and snored on.
 
-Mero plucked a snowflake off his own crust, examined it the way some people examine a very important crumb, and announced sleepily, "I shall save this one forever." It melted instantly. Mero looked at his empty paw. He yawned. "Or I shall save the memory of it forever," he decided, "which is even cozier and takes up less space." Yuki nodded as if this were the wisest thing ever spoken before dawn. Honestly, before dawn, it nearly was.
+Yuki glared at the window. The peach light was taller now. Ten whole minutes — *gone*, spent on a bun who could sleep through his own birthday. Lesson learned, the hard way: when the clock is melting, you wake the wakeable.
 
----
-
-Two doors down lived **Maru Matcha** (maru maccha) = whisked green tea, the small jade-green friend with a frothy matcha-cream swirl on top like soft-serve hair. Yuki found her already awake, sitting in her doorway with her tiny bamboo whisk, watching the snow with her calm half-moon eyes.
-
-"You're up!" said Yuki.
-
-"The quiet woke me," said Maru, in her gentle, deadpan way. "Snow has the loudest hush of anything." She tilted her bowl-head, and a clump of snow slid off her cream swirl and *plopped* onto her own foot. She blinked at it. "Whisk slow," she murmured. "Feel cold."
-
-Yuki snort-giggled so hard his belly jiggled. "Aren't you cold?" he asked.
-
-"A little," Maru admitted, blowing on her whisk. "But cold is just warm's way of reminding you how nice warm is. You can't have a cozy steam-house without a snowy morning to come in from." She rose, dusting powder from her swirl. "Where are you off to next?"
-
-"To wake everyone!" said Yuki, bouncing on his fuzzy heels. "The whole square. Nobody should sleep through the very first snow."
-
-Maru considered this. A second clump of snow slid off her head and *plopped* onto her other foot. "Then I'll come ring the soft bells," she said. "Quietly. The kind that wake you with a smile instead of a jump." And she did — *ting... ting... ting* — three small notes that floated over the rooftops like sleepy little birds.
-
-One by one, windows began to glow.
+"I'll come back for you," she promised, and pulled his blanket up to his crust, because she was on a deadline, not a monster.
 
 ---
 
-By the time Yuki's wake-up parade had wound all through the square, half the cast had tumbled out of their cozy beds in nightcaps and blanket-capes, rubbing their eyes and gasping up at the white sky.
+Momo Mochi was the opposite of Mero: the lightest sleeper in the village, a friend who squished awake at a whisper. Yuki knocked once and the door flew open to reveal a pillowy white mochi already wearing her blanket as a cape.
 
-There was **Momo Mochi** (momo mochi) = peach rice cake, snow-white and pillowy, who immediately tried to catch snowflakes on her tongue and got so excited she squished three friends into a group hug. "Squish together, stay together!" she beamed. "It's even fluffier than ME!"
+"Snow," Yuki panted. "Thin. Melting. Sun coming. **Hayaku** (hah-YAH-koo) — hurry!"
 
-There was **Rin Ramen** (rin rāmen) = ramen bowl, steaming so hard in the cold that he'd grown his very own personal cloud, golden broth swirling. "I'm a tiny weather system!" he declared, delighted, as snowflakes hissed and vanished above his warm soup. "Everything's better warm and bubbly — *especially* in snow!"
+Momo did exactly the right amount of gasping (one gasp) and exactly the right amount of helping (all of it). "Squish together, stay together!" she cried, and bounced off down the lane to bang on shutters like a soft, determined alarm clock.
 
-And there was little **Kuma the Kuri** (kuma no kuri) = chestnut, the glossy mahogany chestnut in his autumn-leaf scarf, who stood very still and very quiet, watching it all with shining eyes.
+Two doors down, Maru Matcha was already sitting in her doorway with her tiny bamboo whisk, watching the flakes drift past her calm half-moon eyes.
 
-"It's so... big," Kuma said softly. "I've never seen the whole square turn white before."
+"The quiet woke me," Maru said. "Snow has the loudest hush of anything." She glanced east, and her verdict came out gentle and surgical: "You have until the sun touches the noodle-shop roof. After that, the square goes back to being a square."
 
-Yuki waddled over and bumped him gently, shoulder to shoulder. "First snow's the best for that. Come on. Let's make snow-friends."
+"Then we run," said Yuki.
 
----
+The noodle-shop door banged open and Rin Ramen charged out, golden broth sloshing, absolutely thrilled — and instantly became a problem. Everywhere Rin stood, a circle of snow vanished with a small, apologetic hiss. He took four excited steps and left four perfect green cobblestone footprints behind him, like winter being un-knitted in real time.
 
-This was Yuki's grand idea, and it spread through the square like warm broth through cold noodles.
+"I'm helping!" Rin announced.
 
-Snow-friends! Tiny ones! Each made just big enough to hold in two paws.
+"You're a walking spring!" Yuki wailed. "You're *erasing* it! Bench! On the bench! You're under snow arrest!"
 
-Momo rolled a snowball that was instantly too squishy and collapsed into a happy lump. "He has no bones!" she cried. "He's perfect!"
+Rin climbed onto the bench and stood there, steaming with shame, and also just steaming.
 
-Rin built a snow-friend, but standing too close, he half-melted it into a slushy little snow-puddle that gurgled. "Oops. He's more of a... snow-soup." Rin patted it fondly. "Stay warm, little guy. Wait — no. Stay cold. You know what I mean."
+"Can I at least cheer?" he asked.
 
-Mero, of course, fell asleep halfway through making his, and his snow-friend ended up looking exactly like Mero having a nap, which made everyone laugh into their mittens so they wouldn't break the hush. "He's dreaming," Mero mumbled proudly, not opening his eyes. "I can tell. He's dreaming about being a melon-pan made of snow, which is the second-best kind of melon-pan." Nobody asked what the first kind was. Everybody already knew it was Mero.
-
-Maru's snow-friend was tidy, calm, and had a tiny whisk made of two twigs. "He whisks slow," she explained. "He feels calm."
-
-And Yuki — Yuki made the littlest snow-monkey-manju you ever saw, with rosy cheeks he poked in with two careful fingertips and a curly dough-tail of fresh snow. He set it down gently in the very center of the square, where everyone could see.
-
-"There," he whispered. "So the square has a snow-friend even after we all go warm up."
+"You may cheer," Yuki allowed, already sprinting for the meadow. "Quietly. Warm cheering melts things too. Probably. I'm not risking it."
 
 ---
 
-But Kuma still stood at the edge of it all, holding a single sad lump of snow that kept crumbling.
+Which left the hardest choice of the morning.
 
-"Mine won't stick together," he said, his roasty glow dimming a little. "Everyone else's worked. I just made... crumbs."
+Kuma the Kuri — the small glossy chestnut in the autumn-leaf scarf, the quietest and shyest of all her friends — lived up the long lane, under the big chestnut tree at the top of the hill. Ten minutes up. Ten minutes back. And in those twenty minutes, the sun would reach the meadow side of the square, where the deepest, fluffiest, most snow-friend-worthy drifts lay glittering on the grass.
 
-Yuki waddled over and crouched down beside him. "Want to know a snow secret?" he asked.
+Yuki stood in the middle of the square, head swiveling. Lane. Meadow. Lane. Meadow. Her tail-curl drooped.
 
-Kuma nodded.
+On the eastern rooftops, the first true sunbeam slid down a chimney, touched a patch of snow on the bakery awning, and the patch quietly resigned. *Drip,* said the awning. *Drip. Drip.* It was the politest possible sound for *you are out of time.*
 
-"Snow doesn't like to be squeezed alone. It sticks best when warm hands hold it *together*." Yuki cupped his soft paws around Kuma's crumbly lump, and Kuma cupped his around Yuki's, and they breathed warm onsen-breath on it, and pressed — gently, slowly — and *there.* A perfect tiny snow-friend, round as a chestnut, with a fuzzy little snow-cap on top.
+She couldn't wake everyone before the melt. She couldn't even wake *one* of everyone — exhibit A was still snoring in the bakery with frosting dreams.
 
-"It looks like me," Kuma whispered, amazed.
+And that was the moment the idea landed on her nose, cold and perfect as a snowflake.
 
-"That's because we made it *together*," said Yuki. "Small and roasty, ready and toasty — and now, twice as sticky."
+*Stop bringing friends to the snow.*
 
-Kuma laughed, a real one, bright as a bell in the white morning.
+*Bring the snow to the friends.*
+
+"MOMO!" Yuki bellowed, in a voice much too large for a steamed bun. "MARU! RIN! New plan! Emergency cozy maneuvers!"
 
 ---
 
-When the sky began to soften from black to dove-gray, the whole sleepy cast stood in a circle around their dozens of tiny snow-friends, breath puffing out in little clouds, cheeks pink, noses cold, hearts impossibly warm.
+The plan had three parts, and Yuki rattled them off like a tiny general in fuzzy slippers.
 
-Momo did a happy wiggle. Rin steamed contentedly. Mero murmured something dreamy. Maru gave the tiniest, calmest smile. And Kuma held his snow-chestnut like a treasure.
+Part one: the bell. The steam-house breakfast bell, hanging on the porch — the one sound that every friend in the village answered from any depth of sleep, because in its entire history it had only ever meant one thing: *hot food, right now.* "Maru — ring it like breakfast depends on it."
 
-"Thank you for waking us, Yuki," said Maru.
+Part two: the snow. The steam-house's north porch sat in deep blue shade, cold stone that the sun wouldn't find all morning. If the snow could get *there*, it could last past sunrise. "Momo — you're the plow." Momo saluted, flopped into the meadow, and rolled. Snow stuck to her sticky mochi everything. By the third roll she was a boulder with a face. "I'M A SNOWBALL WITH OPINIONS!" she hollered joyfully, and steered herself at the porch.
 
-Yuki's cheeks went rosier than ever. He looked up at the last few snowflakes drifting down, and then around at all his cozy, frosty, beaming friends, and he understood the snow secret all over again — the most important one of all.
+Part three: Yuki herself. She flipped two big tea trays upside down, heaped them with meadow snow, and sledded them across the square — sprint, skid, dump, sprint back — leaving a trail of flung powder and increasingly heroic wheezing. A manju is not built for cargo work. A manju does it anyway.
 
-Snow falling on an empty square is just snow.
+"And me?" called Rin, vibrating hopefully on his bench.
 
-Snow falling on *friends* is a memory.
+"You," said Yuki, "stand at the porch corner. Face *away* from the snow. Block the wind. You are now a guard radiator. It is the most important job. Do not turn around even once."
 
-"Okay," Yuki announced, with a great big steamy yawn. "Wonder shared! Mission complete! Now — who wants to come soak in the warm steam-house and have hot dumplings before bed... I mean, before nap... I mean, whatever this funny snowy hour is?"
+"UNDERSTOOD," said Rin, saluting with a chopstick, prouder of this than of anything in his entire soup career.
 
-"ME," said everybody at once, so loudly they startled their own snow-friends.
+Then Maru rang the bell. *GONG. GONG. GONG.*
 
-And the whole rosy-cheeked parade waddled and rolled and steamed their way home through the season's first ゆき, leaving behind a square full of tiny snow-monkeys keeping watch under the gentle, drifting, sugar-soft sky.
+The village levitated. Windows lit one by one, like the square was thinking very fast. Doors banged. Out tumbled the whole sleepy cast in nightcaps and blanket-capes — and down the long lane came a small mahogany blur, scarf streaming, going at a speed nobody knew chestnuts could go.
+
+"IS IT BREAKFAST OR EMERGENCY?" Kuma shouted.
+
+"BOTH!" Yuki shouted back. "Snow first! Dumplings after!"
+
+The gamble had paid off. The bell had beaten her boots up that hill by nine and a half minutes.
+
+---
+
+By the time the sun cleared the noodle-shop roof and the square went back to being a square — wet stone, steaming grass, a meadow remembering — the north porch held a knee-deep, tray-hauled, mochi-rolled mountain of rescued snow, glowing blue in the shade. It was not the whole snowfall. It was not even most of the snowfall.
+
+It was enough.
+
+Everyone made **yukidaruma** (yoo-kee-dah-roo-mah) — snowmen — tiny ones, each just big enough to hold in two paws. Kuma made a round little snow-chestnut with a fuzzy cap, his shy face shining like he'd been handed a holiday. Momo's snowman had no bones and collapsed into a happy lump, which she declared "finished, and also perfect." Maru's stood tidy and calm with a whisk made of two twigs. Rin, still facing the wall, made his entirely by touch, and it looked like a noodle's nightmare, and he loved it.
+
+The sun came anyway, of course. Suns do. By midmorning the shade grew thin, and the little snow-friends began, very slowly, to drip.
+
+Nobody minded the way Yuki had feared they would. The friends sat in a drowsy row on the porch steps, cheeks pink, paws cold, hearts ridiculous, and listened to the melting. *Plip.* *Plip-plip.* *Ploop.* It sounded like a clock that had finally stopped worrying.
+
+"It's going," Kuma said softly.
+
+"It was always going," said Maru. "That's why she ran."
+
+"I have never been so tired," announced Momo, from somewhere inside her own squish, "or so completely full of morning."
+
+And Yuki, half-asleep against Momo's squishy shoulder, understood the snow secret all the way down to her soft steamed center: snow doesn't ask to stay. It asks to be shared quickly — and remembered slowly. Fleeting things are like that. You run *fast* so you can sit *still* together afterward, listening to the drips.
+
+One snow-friend didn't melt: the very littlest one, a thumb-sized snow-monkey with rosy poked-in cheeks. Yuki carried it inside on a saucer and set it in the steam-house icebox with a note: *For Mero. It happened. — Yuki.*
+
+Around lunchtime, Mero finally shuffled into the square, blinking at the wet stones. "Did I miss weather?" The whole cast walked him to the icebox. He lifted the tiny snow-monkey in two careful paws, and his sleepy eyes went wide and bright.
+
+"I shall save it forever," he breathed.
+
+"It's already melting," said Yuki.
+
+"Then I shall *remember* it forever," said Mero. "Which keeps better, and takes up less icebox."
+
+And the drips went *plip... plip... ploop,* all through the warm and sleepy afternoon, like the snow itself was nodding off.
 
 ---
 
 ## Goodnight Blessing
 
-Little one, may your warm bed feel like a teacup full of steam, and may the cold stay politely outside your window where it belongs. If you ever wake to something wonderful — first snow, or a big round moon, or a sky full of stars — remember Yuki, and remember that the best wonders are the ones we turn around to share. Let your cheeks be warm, your heart be warmer, and your friends be warmest of all. Snuggle down now, soft as a snow-friend, quiet as the loudest hush there is. Goodnight.
+Little one, may your bed feel like a teacup full of steam, and may every wonderful thing find you awake enough to see it. If something lovely ever comes to you on a timer — first snow, a rainbow, the last pink minute of a sunset — remember Yuki: share it fast, with whoever you can reach, and then remember it slow, for as long as you like. The sharing takes an hour. The remembering keeps better, and takes up no room at all. Now close your eyes and listen for the soft drip-drip of the day melting into night. Goodnight.
 
 ## AI Image Prompts
 
-1. Key scene — warm whimsical storybook style, soft pastel palette of dove-gray sky, powder-white snow, and rosy-cheeked glows. A cozy village square at the blue-dark hour before dawn, dusted with the season's first snow. A circle of adorable food-friends (a fluffy white snow-monkey steamed bun, a pillowy white mochi, a steaming ramen bowl with its own little cloud, a domed melon-bread, a jade matcha-swirl, a glossy chestnut in a scarf) all crouching to make dozens of tiny snow-friends. Gentle falling snowflakes, warm lantern light spilling from cottage windows, breath puffing in little clouds. Mood: hushed, magical, tender.
+1. Key scene — warm whimsical storybook style, cool blue-and-peach dawn palette. A village square at sunrise, thin snow vanishing where golden light touches the cobblestones. A fluffy white snow-monkey steamed bun girl with rosy cheeks sprints across the square dragging an upside-down tea tray heaped with snow, powder flying, while a giant rolling snowball with a cheerful mochi face plows beside her toward a blue-shaded porch. A steaming ramen bowl stands guard at the porch corner facing dramatically away, and a small jade matcha friend rings a large breakfast bell. Mood: joyful race against the sunrise, kinetic, funny, tender.
 
-2. Character portrait — Yuki the Snow Monkey-Manju, a fluffy white steamed bun shaped like a baby snow monkey with rosy onsen-warmed cheeks, a tiny black nose, expressive curl of a dough-tail, and bright happy eyes. He is flopped on his back in fresh snow making a snow-angel "snow dumpling," arms and legs mid-wave, giggling with snowflakes landing on his soft belly. Whimsical kawaii storybook style, soft warm lighting against cool snow.
+2. Character portrait — Yuki the Snow Monkey-Manju, a fluffy white steamed bun shaped like a baby snow monkey with rosy onsen-warmed cheeks, a tiny black nose, an expressive curl of dough-tail, and determined sparkling eyes. She stands ankle-deep in thin first snow at the blue hour before dawn, sleeves-rolled-up posture, one paw pointing at the peach glow on the horizon as if challenging the sun itself, snowflakes settling on her head. Whimsical kawaii storybook style, soft cool light with warm rosy accents.
 
-3. Closing scene — the cozy ending. A square full of tiny hand-sized snow-monkey snow-friends standing watch under a gentle drifting sky, slowly going pale pink with dawn. In the background, the rosy parade of food-friends waddling and rolling home toward a glowing steam-house with warm light and curls of steam in the windows. Peaceful, sleepy, sugar-soft, deeply cozy storybook mood.
+3. Closing scene — deeply cozy storybook ending. The inside of a warm steam-house: an open icebox glowing softly, and on a little saucer inside sits a thumb-sized snow-monkey snowman with poked-in rosy cheeks and a tiny paper note. A puffy melon-bread bun with a crackly green-gold crust holds the saucer in two careful paws, eyes wide with sleepy wonder, while the rosy-cheeked snow-monkey manju and her drowsy food-friends watch from the doorway, pink-cheeked and smiling. Outside the window, wet sunny cobblestones and one last drip falling. Mood: tender, funny, sleepy, sweet.

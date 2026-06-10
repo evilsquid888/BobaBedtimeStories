@@ -4,7 +4,7 @@
 **Guest Characters:** Niko Nigiri
 **Setting:** A teahouse
 **Theme:** Slow and breathe
-**Word Spotlight:** 抹茶 (matcha) = powdered green tea
+**Word Spotlight:** **matcha** (MAH-chah) — powdered green tea
 
 ---
 
@@ -22,7 +22,7 @@ He bounced so high his fish slice flapped up like a little flag and then flopped
 
 From a shelf of teabowls, a small jade spirit floated down. She had a body made of a hundred slender bamboo prongs — a whisk! — and a soft green cap of foam, like a cloud that had eaten too many vegetables.
 
-"We're making **抹茶** (mǒ chá) = powdered green tea," said Maccha-chan, in a voice as smooth as still water. "And the first ingredient... is slow."
+"We're making **matcha** (MAH-chah) — powdered green tea," said Maccha-chan, in a voice as smooth as still water. "And the first ingredient... is slow."
 
 Niko blinked. "Slow isn't an ingredient."
 
@@ -36,9 +36,9 @@ She drifted closer, and a little curl of foam slid off her cap and bopped Niko s
 
 ---
 
-Maccha-chan glided to the little tea table, where everything waited in a tidy, sleepy row: a tin of bright green powder, a fat-bottomed bowl called a **茶碗** (chá wǎn) = tea bowl, a tiny scoop, and a small mesh sieve no bigger than a button.
+Maccha-chan glided to the little tea table, where everything waited in a tidy, sleepy row: a tin of bright green powder, a fat-bottomed bowl called a **chawan** (chah-WAHN) — tea bowl, a tiny scoop, and a small mesh sieve no bigger than a button.
 
-"First," she said, "we wake up the **抹茶**. But gently. Like waking a friend on a Sunday."
+"First," she said, "we wake up the matcha. But gently. Like waking a friend on a Sunday."
 
 She unscrewed the tin. Inside was powder so green it practically hummed — the color of spring grass, of frog tummies, of the very greenest crayon in the box. Niko leaned in so fast he nearly faceplanted into it.
 
@@ -118,7 +118,7 @@ Niko held his breath. "Is it a secret ninja sip?"
 
 "It's this," she said softly. "You sip it... **slowly**. You don't gulp matcha. You hold the warm bowl in both paws, you breathe in the green-tea smell, and you take one slow, gentle sip. And while you sip — you feel calm spread all the way from your tummy to your toes."
 
-She handed Niko the bowl. He, the wiggliest rice ball in the entire night market, wrapped both little hands around the warm **茶碗**. He breathed in. The steam tickled his nose. And he took one slow, slow sip.
+She handed Niko the bowl. He, the wiggliest rice ball in the entire night market, wrapped both little hands around the warm chawan. He breathed in. The steam tickled his nose. And he took one slow, slow sip.
 
 His eyes went wide.
 

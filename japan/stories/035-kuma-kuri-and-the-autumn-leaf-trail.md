@@ -4,13 +4,13 @@
 **Guest Characters:** None
 **Setting:** A mountain temple path blazing with red and gold autumn leaves
 **Theme:** Change can be the most beautiful thing of all
-**Japanese Spotlight:** もみじ (momiji) = autumn maple leaves
+**Japanese Spotlight:** momiji (moh-MEE-jee) — autumn maple leaves
 
 ---
 
 Kuma the Kuri was hiding inside a teakettle, and he was not coming out.
 
-"Kuma," called a gentle voice through the spout, "the kettle is for tea. You are a chestnut. These are different jobs."
+"Kuma," called a gentle voice through the spout — a calm, tea-soft voice Kuma knew very well. "The kettle is for tea. You are a chestnut. These are different jobs."
 
 "I know," said Kuma, his small mahogany voice echoing all warm and round inside the kettle. "But it's cozy in here. And it's *summer* in here. Out there, summer is leaving, and I am not invited to say goodbye properly, and also my toes are cold."
 
@@ -42,7 +42,7 @@ Because the whole world had turned to fire — the soft, friendly, crackly kind 
 
 The maple trees arched over the path in a glowing tunnel, and every single leaf had become a flame that didn't burn. Some were deep crimson, like the inside of a sweet red-bean bun. Some were burnt-orange, like Kuma's own roasted skin. Some were buttery gold, and some were a startled pink, as if they'd blushed at being looked at. A breeze wandered through, and a thousand leaves let go at once and came spinning down, twirling and tumbling and somersaulting, so that Kuma stood in a slow, sparkling snowfall made entirely of color.
 
-"These," said Maru softly, catching one on the tip of her whisk, "are **もみじ** (momiji) = autumn maple leaves. The mountain wears them only for a little while. That's part of why they're so beautiful." She turned the little crimson leaf so it caught the light. "Beautiful things you can keep forever stop feeling beautiful. You start walking right past them. But momiji — momiji you *notice*. Because you know they're saying goodbye."
+"These," said Maru softly, catching one on the tip of her whisk, "are **momiji** (moh-MEE-jee) — autumn maple leaves. The mountain wears them only for a little while. That's part of why they're so beautiful." She turned the little crimson leaf so it caught the light. "Beautiful things you can keep forever stop feeling beautiful. You start walking right past them. But momiji — momiji you *notice*. Because you know they're saying goodbye."
 
 Kuma stared up at the burning, glowing, spinning tunnel of leaves. His chestnut heart did something strange. It ached a little. And it glowed a little. And, to his enormous surprise, the two feelings turned out to be friends.
 
@@ -54,7 +54,7 @@ Maru's mouth curved into her tiny, deadpan smile. "The whole mountain is showing
 
 They walked deeper along the trail, and the more Kuma looked, the more he found.
 
-He found a **石灯籠** (ishidōrō) = stone lantern standing patient and mossy by the path, with three crimson leaves resting on its little roof like a tiny hat someone had knitted just for it. "It looks dressed up," Kuma said, and the lantern, being a lantern, modestly said nothing, but Kuma was fairly sure it was pleased.
+He found an **ishidoro** (ee-shee-DOH-roh) — a stone lantern — standing patient and mossy by the path, with three crimson leaves resting on its little roof like a tiny hat someone had knitted just for it. "It looks dressed up," Kuma said, and the lantern, being a lantern, modestly said nothing, but Kuma was fairly sure it was pleased.
 
 He found a puddle from last night's rain, and floating on it were a dozen gold leaves arranged in a perfect, accidental swirl — a soup of pure autumn. And then — *crunch.*
 

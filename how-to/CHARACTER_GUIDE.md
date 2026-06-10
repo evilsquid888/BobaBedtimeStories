@@ -41,3 +41,8 @@ New characters introduced in the How-To collection (most stories also star the e
 - **Catchphrase:** "Pack it neat, share it sweet."
 - **Appearance:** Rice block, nori belt, Spam slice.
 - **Voice:** Practical, picnic-cheerful.
+
+## Pronoun Reference (canonical, used in every story)
+- **She/her:** Boba, Bao Bao, Hong Dou
+- **He/him:** Sa Sa, Tama, Niko, Tai, Mango, Coconut Jelly, Tang Yuan, Gan Zhe, Xia Xia, Hong Hong, Dou-Da, Deng Deng, Dan, Feng, Cong Cong, Digua, Zhima, Cao, Xiao Long
+- **Note:** The recurring human grown-up across the collection is **Auntie Mei** (stories 8, 10, 15); hot, sharp, and frying jobs always go to a real grown-up.

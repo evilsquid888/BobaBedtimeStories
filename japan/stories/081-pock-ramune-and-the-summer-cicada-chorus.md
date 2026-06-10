@@ -4,15 +4,15 @@
 **Guest Characters:** None
 **Setting:** A green countryside hillside buzzing with summer cicadas
 **Theme:** Every voice adds to the song
-**Japanese Spotlight:** なつ (natsu) = summer
+**Japanese Spotlight:** natsu (nah-tsoo) — summer
 
 ---
 
-It was the buzziest, fizziest morning of the whole **なつ** (natsu) = summer, and Pock Ramune could not — *would* not — sit still. He zipped up the green countryside hillside leaving a trail of happy little bubbles behind him, *pop! pop! pop!*, like a tiny bottle-shaped firework that had wandered off its rocket.
+It was the buzziest, fizziest morning of the whole **natsu** (nah-tsoo) — summer, and Pock Ramune could not — *would* not — sit still. He zipped up the green countryside hillside leaving a trail of happy little bubbles behind him, *pop! pop! pop!*, like a tiny bottle-shaped firework that had wandered off its rocket.
 
 "Listen, listen, LISTEN!" he fizzed, screeching to a stop so fast that his marble rattled in his neck — *clink-clink-POP!* "Do you hear that?"
 
-The whole hillside was singing. From every tree, from every blade of grass, from somewhere up in the warm green leaves came a sound like a thousand tiny saws made of sunshine: *zzzeeee-zzzeeee-zzzeeee.* It was the song of the **せみ** (semi) = cicadas, and it wrapped around the hill like a buzzy summer blanket.
+The whole hillside was singing. From every tree, from every blade of grass, from somewhere up in the warm green leaves came a sound like a thousand tiny saws made of sunshine: *zzzeeee-zzzeeee-zzzeeee.* It was the song of the **semi** (seh-mee) — cicadas, and it wrapped around the hill like a buzzy summer blanket.
 
 Pock Ramune's fizz-freckles sparkled. "I have decided," he announced to nobody, which is the very best person to announce things to, "that I am going to find the LOUDEST cicada of the entire summer. *Pop!*"
 
@@ -32,13 +32,13 @@ Up the hill Pock Ramune zipped, asking every cicada he met. There was a plump br
 
 "Adorable," said Pock Ramune kindly, "but not loud."
 
-He met a cicada who only sang underwater (he was visiting from a pond and was, frankly, very confused about which season it was). He met two cicadas who sang in perfect harmony and immediately got into an argument about who started it. He even met one extremely old cicada with a tiny cane who buzzed so slowly that by the time he finished one note, the **ゆうがた** (yuugata) = evening was practically falling.
+He met a cicada who only sang underwater (he was visiting from a pond and was, frankly, very confused about which season it was). He met two cicadas who sang in perfect harmony and immediately got into an argument about who started it. He even met one extremely old cicada with a tiny cane who buzzed so slowly that by the time he finished one note, the **yuugata** (yoo-gah-tah) — evening was practically falling.
 
 "Lovely!" Pock Ramune said to each of them, fizzing politely. "But still not the LOUDEST. *Pop!*" And on he bounced, because that's what bouncy bottles do.
 
 By the time the sun was high and golden, Pock Ramune had a marvelous idea — which, if we're being honest, is exactly the moment in a story when you should brace yourself.
 
-"I know how to find the loudest cicada!" he fizzed, doing three excited backflips and a barrel roll. "I'll have a CONTEST. A grand summer SING-OFF! Whoever is the loudest wins, and I shall declare them the Champion Cicada of all なつ! *POP!*"
+"I know how to find the loudest cicada!" he fizzed, doing three excited backflips and a barrel roll. "I'll have a CONTEST. A grand summer SING-OFF! Whoever is the loudest wins, and I shall declare them the Champion Cicada of all natsu! *POP!*"
 
 ---
 
@@ -112,7 +112,7 @@ It wasn't the loudest song. It was the *fullest* one. The shy green *zee* didn't
 
 And Pock Ramune, bubbling with happy tears, added his own *pop! pop! pop!* right into the middle of it — because he understood now that he was part of the song too.
 
-"Squish my marble," he sniffled joyfully, "if that isn't the best sound in all of なつ. *Pop!*"
+"Squish my marble," he sniffled joyfully, "if that isn't the best sound in all of natsu. *Pop!*"
 
 ---
 

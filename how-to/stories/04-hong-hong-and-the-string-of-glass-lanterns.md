@@ -4,13 +4,13 @@
 **Guest Characters:** Boba
 **Setting:** A winter market
 **Theme:** Tough then sweet
-**Word Spotlight:** 冰糖葫蘆 (bing tang hulu) = candied hawthorn on a stick
+**Word Spotlight:** **bing tang hulu** (bing tahng hoo-loo) — candied hawthorn on a stick
 
 ---
 
 On the coldest night of the whole winter, when the market lanterns puffed little clouds of steam and everybody's breath looked like dragon smoke, a tiny ruby-red fruit went rolling down the icy lane shouting, "Make way! Make way! Sparkly fellow coming through!"
 
-That was **Hong Hong** (hong hong) = red red, a row of round hawthorn fruits dressed head to toe in a coat of crackly glass sugar. Each fruit gleamed like a polished marble, and when he wobbled, the whole string of him went *tick-tick-tick* like a wind chime made of candy. He was, he would happily tell you, the shiniest thing in the market.
+That was **Hong Hong** (hong hong) — red red — a row of round hawthorn fruits dressed head to toe in a coat of crackly glass sugar. Each fruit gleamed like a polished marble, and when he wobbled, the whole string of him went *tick-tick-tick* like a wind chime made of candy. He was, he would happily tell you, the shiniest thing in the market.
 
 "Shine outside, sweet inside!" Hong Hong sang, skidding to a stop and bonking — *gloop* — straight into a soft, dark, jiggly someone.
 
@@ -22,7 +22,7 @@ That someone was Boba, a glossy tapioca pearl bundled in a scarf three times too
 
 Boba untangled herself from her enormous scarf. "Greater than warm soy milk?"
 
-"Greater," said Hong Hong, "than even *that*. We are making **冰糖葫蘆** (bing tang hulu) = candied hawthorn on a stick. Strings of fruit dressed in glass sugar, so they shine like little lanterns you can eat."
+"Greater," said Hong Hong, "than even *that*. We are making **bing tang hulu** (bing tahng hoo-loo) — candied hawthorn on a stick. Strings of fruit dressed in glass sugar, so they shine like little lanterns you can eat."
 
 Boba's whole pearly body lit up. "Lanterns I can EAT? Why has no one told me about this sooner? Where do we begin?"
 

@@ -1,137 +1,159 @@
 # Story 17: Maru Matcha and the Snow-Monkey Friends
 
 **Main Character:** Maru Matcha
-**Guest Characters:** None
+**Guest Characters:** Pon the baby snow monkey and his snow-monkey troop
 **Setting:** The Jigokudani snow monkey valley in winter
-**Theme:** Patience opens the door to wild friendships
-**Japanese Spotlight:** さる (saru) = monkey
+**Theme:** Small and calm together can fix what big and strong cannot
+**Japanese Spotlight:** **saru** (sah-roo) — monkey
 
 ---
 
-High in the snowy mountains, where the wind tasted like peppermint and the pine trees wore fluffy white hats, there was a valley so cozy that even the rocks looked sleepy. It was called Jigokudani, and it had a secret: a steaming hot spring tucked between the cliffs that puffed warm clouds up into the cold air all winter long.
+High in the snowy mountains, in the valley called Jigokudani, there lived a troop of fluffy snow monkeys whose favorite thing in the entire world was their steaming hot spring. Every evening, just as the sky turned plum-purple, they would sink into the warm water up to their pink chins, sigh enormous sighs, and become the most relaxed creatures on the planet.
 
-Into this valley, on a morning so quiet you could hear a snowflake land, came a small jade-green friend with a swirl of matcha-cream soft-serve on top of her head.
+Except tonight.
 
-"Whisk slow," said Maru Matcha to nobody in particular, her tiny bamboo whisk tucked under one arm like a wand. "Feel calm."
+Tonight, when Maru Matcha came padding up the snowy trail with her tiny bamboo whisk under one arm — coming back, as she often did, ever since the famous rest day she'd shared here with Yuki and Pock — she stopped at the top of the rise and tilted her jade-green head.
 
-She had walked a long way. Her cream swirl had a little snow-cap on it now, like a tiny white beret she hadn't asked for. She didn't mind. Maru Matcha rarely minded anything. She found a flat warm rock beside the steaming spring, sat down with a contented little *flump*, and breathed out a cloud that mixed happily with the steam.
+The steam over the spring was *thin*. Wispy. Barely a ribbon where there should have been a great silver cloud.
 
-"Perfect," she said. "A perfect place for tea."
+And the monkeys were not soaking. They were huddled on the rocks around the pool in one grumpy, shivering pile, like a heap of damp mittens nobody wanted to wear.
 
----
+"Hmm," said Maru Matcha calmly. "A cold **onsen** (ohn-sen) — the hot spring — is just a very large soup that nobody ordered."
 
-What Maru Matcha did NOT know — yet — was that she was being watched.
+A small gray blur shot out of the grumpy pile and skidded to a stop at her feet. It was Pon, the littlest **saru** (sah-roo) — monkey — of the whole troop, the baby with the tuft of fur that stuck straight up like he was permanently surprised. He knew Maru well. Everyone in the valley did. He grabbed her hand with both small paws and tugged her toward the pool, hooting urgently.
 
-Up in the snowy pines, peeking around a frosty branch with two round dark eyes, was a very small, very shy **さる** (saru) = monkey. He was a baby snow monkey, fluffy as a dropped mitten, with cheeks gone pink from the cold and a tuft of fur on his head that stuck straight up like he'd just been surprised. Which, in fact, he had — by Maru Matcha.
-
-He had never seen a green friend before.
-
-He had certainly never seen a green friend pull a tiny bamboo whisk out from under her arm, set down a little bowl, and begin to make tea on a rock in the middle of winter.
-
-The little saru's name was Pon. And Pon was the shyest monkey in the entire valley.
-
-"Whisk, whisk, whisk," went Maru Matcha, gently swirling warm water and bright green matcha together until a soft froth rose up like a tiny cloud. The smell drifted across the snow — grassy and sweet and warm — and curled right up into the pine tree where Pon was hiding.
-
-Pon's little nose twitched.
-
-His tummy gave a hopeful gurgle.
-
-He leaned out for a better sniff — and a clump of snow slid off the branch and landed *PLOP* right on his head.
-
-"*Eep!*" squeaked Pon, and he scrambled back behind the trunk so fast his tail tied itself in a knot.
-
-Maru Matcha did not jump. She did not gasp. She simply tilted her bowl-shaped head a little, half-moon eyes calm as a frozen pond, and said softly to the trees:
-
-"A snowflake that hurries melts the same as one that waits."
-
-Then she went back to whisking. Whisk, whisk, whisk.
+"Yes, little one," said Maru. "I see it too. Show me."
 
 ---
 
-Now, most friends, when they hear a frightened *eep* from the bushes, will leap up and go LOOKING. They'll shout "Hello? HELLO? Who's there? Come out, come out!" — which is a very kind thing to feel, but it does tend to make shy creatures dive even deeper into hiding.
+Pon led her right to the water's edge. Maru dipped one finger in.
 
-Maru Matcha knew this. Maru Matcha had whisked tea beside scaredy-cats, jumpy crickets, and one extremely nervous **おにぎり** (onigiri) = rice ball who would not come out of his bento box for three whole days. (He came out eventually. There were snacks involved.)
+The spring was not cold yet. But it was not hot, either. It was the temperature of a bath you'd sat in too long — the *get out now or be sad about it* temperature — and it was cooling by the minute. The evening soak, the troop's most sacred and snuggly tradition, was in terrible danger.
 
-So Maru Matcha did the bravest, hardest, most patient thing of all.
+The biggest monkey in the valley, a dignified old grandpa with silver whiskers and the magnificent name of Boss Fuwa, waddled over and explained the disaster in a long series of grumbles, hoots, and dramatic arm waves. Maru did not speak monkey, but she had spent enough quiet evenings here to follow along perfectly well.
 
-She did nothing.
+That afternoon, there had been a small rockslide on the cliff above — *grumble, hoot, arms up like falling rocks.* Pebbles had tumbled into the spring — *plop, plop, plop motions.* And ever since, the water had been getting cooler — *a full-body shiver, performed with great theatrical sorrow.*
 
-Well — almost nothing. She poured her fresh-whisked tea into a second little cup. A cup she just *happened* to have. And she set that cup down on the rock, a polite distance away, where its warm steam rose up in a thin curling ribbon. Then she scooted back to her own spot, sipped her own tea, and looked at the mountains as if she had all the time in the world.
+"I see," said Maru Matcha. "Thank you, Boss Fuwa. That was very informative, and only slightly overacted."
 
-Which, frankly, she did.
+Boss Fuwa looked pleased.
 
-Up in the tree, Pon untied his tail. He peeked one eye around the trunk. The green friend wasn't looking at him. The green friend was looking at a cloud and humming a tune that sounded like a lullaby a kettle might sing.
+Maru folded her hands around her whisk and did the thing she did best in all the world. She got very still, very calm, and she *looked.*
 
-And there — on the rock — sat a little cup of warm steam, all by itself.
+Most folks look at a hot spring and see one big pool of water. Maru looked slowly, the way you'd read a good page twice, and saw the small things. The steam was thinner on the *north* end. The flat rock in that corner — the one that never held snow, because warm water flowed past it — now wore a thin lace of frost. And down between two boulders in the north corner was the narrow rocky channel where the hot water came bubbling up from deep inside the mountain.
 
-Pon's nose twitched again.
+Usually that channel rumbled and burbled like a kettle thinking about singing.
 
-He crept one branch lower.
+Tonight it only trickled.
 
-Maru Matcha sipped. "**おちゃ** (ocha) = tea is better shared," she said quietly, to the cloud. "But it waits patiently for friends."
+"There," said Maru, pointing her whisk like a tiny wand. "The mountain's kettle is plugged. One of those rockslide pebbles has wedged itself into the hot-water channel like a cork in a bottle. The warm water can barely squeeze past. Find the quiet thing that changed, and you've usually found your trouble."
 
----
+The whole troop crowded around to peer at the wedged pebble, gasping and hooting as if Maru had performed a magic trick.
 
-It took a long time.
-
-It took so long that the sun moved a whole hand-width across the sky, and the snow on Maru Matcha's cream-swirl beret melted clean away. She did not rush. She whisked a fresh bowl when the first one cooled. She watched two icicles drip themselves shorter. She breathed slow clouds and let them go.
-
-And bit by bit — one branch, one hop, one nervous little shuffle at a time — Pon came down from the tree.
-
-He landed in the snow with a soft *fmp*. He froze. Maru Matcha did not turn around. He took a step. Maru Matcha sipped her tea. He took another step, and another, his small pink toes leaving a trail of tiny prints, until at last he was standing right beside the lonely little cup of steam on the rock.
-
-Pon leaned over it.
-
-The warm steam rose up and brushed his cold cheeks, and his whole fluffy face went soft with delight. *Ohhh.* It was the coziest thing he had ever felt. It was like a hug made of weather. He held his small cold paws over the cup and wiggled his pink fingers in the warmth and let out the tiniest, happiest sigh in the history of all monkeys.
-
-That was the moment Maru Matcha turned her head — slowly, slowly, like a sunflower — and gave him a calm half-moon smile.
-
-"Hello, little saru," she said. "I made that one for you."
-
-Pon froze again. His tuft of fur stood up.
-
-For one whole second, Maru Matcha thought he might bolt back up the tree.
-
-Then Pon looked at the steam. He looked at the green friend. He looked at the steam again.
-
-And very, very carefully, he scooped up a paw of warm steam and patted it gently onto Maru Matcha's cheek, the way you might share something precious — *here, this is wonderful, you should have some too.*
-
-Maru Matcha laughed. It was a soft sound, like a tea-whisk in a quiet room. "Why, thank you," she said. "That's the warmest gift I've gotten all winter."
+"It wasn't magic," said Maru. "It was sitting still and paying attention. Which, to be fair, most people *do* think is magic."
 
 ---
 
-Well. After that, things rather snowballed. (In a valley made of snow, things usually do.)
+Now that the troop knew the problem, they did what big strong monkeys do.
 
-Because the thing about a shy saru is that once one of them trusts you, the rest come tumbling down out of the trees to see what all the fuss is about. First came Pon's sister, who had a fluffier tuft and absolutely no manners — she sat right down in the hot spring and splashed everyone. Then came three round aunties who passed Pon hand-to-hand like a beloved beanbag. Then came an extremely dignified old grandpa monkey who climbed down very slowly, sat beside Maru Matcha with great ceremony, accepted a cup of tea, sniffed it suspiciously, drank the whole thing in one gulp, and immediately wanted more.
+They attacked it.
 
-Soon the warm rock beside the steaming spring was crowded with rosy-cheeked monkeys, all of them pink-faced and happy, all of them holding their cold paws over little cups of steam, all of them sneaking sips of bright green tea and making faces and asking for seconds.
+Boss Fuwa went first, naturally. He rolled his mighty shoulders, plunged his long silver arm down between the boulders, and reached for the pebble with a look of supreme confidence — which lasted four seconds, because his arm was simply too thick for the crack. He pushed. He twisted. He made a noise like a teapot being stepped on. And then he discovered that his arm, which had not wanted to go *in*, now did not want to come *out.*
 
-Maru Matcha whisked and whisked and whisked. Her little arm got quite a workout. "Whisk slow," she reminded them, when the monkeys got too excited and tried to make tea themselves and ended up wearing most of it. "Feel calm." The monkeys did not feel especially calm. But they felt extremely warm, and extremely full of tea, and extremely fond of the small green friend who had simply sat still long enough for them to find her.
+It took three round aunties pulling on Boss Fuwa, and two cousins pulling on the aunties, before he popped free — *spponk!* — and the whole chain sat down in a snowbank, one after another, like dominoes with fur.
 
-Pon, who had started the whole thing, sat closest of all — right in Maru Matcha's lap, his fluffy head against her cream swirl, watching the steam rise and curl into the cold blue evening.
+Boss Fuwa rearranged his dignity and pretended he had meant to do that.
 
-"You know," Maru Matcha told him, "I came all this way to find a quiet place. And instead I found the loudest, warmest, fluffiest friends in the whole mountain." She booped his pink nose with the tip of her whisk. "That's the thing about waiting, little saru. You never know who's getting brave on the other side of it."
+Next, the strongest auntie fetched a long pine branch, wedged it down into the channel, and heaved on it like a hero in a legend. The branch bent. The branch creaked. The branch went *SNAP* and flung snow over everyone — and worse, far worse, the broken tip had bumped the pebble *deeper* into the crack. The trickle of hot water shrank to a dribble. The steam got thinner still.
 
-Pon yawned an enormous monkey yawn that ended in a happy squeak.
+The troop wailed. Several aunties began grooming each other in a panicked sort of way, which is what monkey aunties do instead of pacing.
+
+"Hmm," said Maru Matcha, who had not moved from her rock. "When pushing makes a thing worse, it is generally a hint to stop pushing."
+
+She looked at the narrow crack, too small for any big monkey arm. She looked at the wedged pebble, too stubborn for any branch.
+
+Then she looked down at Pon — tiny Pon, fluffy as a dropped mitten, with paws so small he could pick a single snowflake off your nose — who was looking back up at her with big hopeful eyes.
+
+"Little saru," said Maru, "I believe this is a job for the two smallest people in this valley."
 
 ---
 
-And so, as the stars came out over Jigokudani — bright and crisp as sugar crystals — a small green friend and a whole troop of snow monkeys sat together by the steaming spring, sharing warm tea and warmer steam, pink-cheeked and sleepy and stuck together for good.
+They knelt together at the north corner, the calm green tea and the tiny gray monkey, while the entire troop crowded behind them and breathed down their necks in a deeply unhelpful way.
 
-Outside, the mountain was cold and quiet.
+"Attempt one," said Maru. "Reach in, take hold, pull it out. Simple as **ocha** (oh-chah) — tea."
 
-Inside the warm cloud of the hot spring, nobody was lonely at all.
+Pon stretched his little arm down into the crack — and it *fit*, easy as anything, right where Boss Fuwa had gotten stuck. The troop oohed. Pon's paw found the pebble and pulled.
 
-"Whisk slow," murmured Maru Matcha, as Pon's eyes drifted shut against her cheek. "Feel calm. And let the friends come when they're ready."
+The pebble was slick as a wet bar of soap. His paw slid straight off — *floop* — and he sat down hard in the snow with a tiny "*eep.*"
 
-They always do.
+"Good," said Maru.
+
+Pon stared at her. *Good?*
+
+"Now we know it's slippery," said Maru. "Every try that fails still tells you something true. Attempt two."
+
+This time Pon was determined. This time Pon was *fierce.* He plunged his arm in, grabbed the pebble with both paws, planted his feet on a boulder, and YANKED with every ounce of his small mighty body — wiggling, grunting, tail whipping like a furious noodle — until his paws shot loose and he somersaulted backward into Boss Fuwa's stomach, which went *pomf* like a large furry cushion.
+
+The pebble had not moved a whisker.
+
+Pon's lip wobbled. His tuft drooped. On the corner rock, the frost crept a little wider.
+
+Maru Matcha scooped Pon up, set him on her knee, and held her little bamboo whisk where he could see it.
+
+"Watch the water, little saru," she said quietly. "Not the pebble. The *water.*"
+
+Pon watched. And because Maru was calm, he got calm enough to see it: the trickle through the crack was not steady. It came in slow pulses — *push... rest... push... rest* — as if, deep below, the mountain itself was breathing.
+
+"Every push of warm water nudges that pebble the tiniest bit loose," said Maru. "You can't beat it with strong. Boss Fuwa already tried strong, and he is approximately four hundred of you." (Boss Fuwa nodded gravely, as if this were a compliment. It mostly was.) "So we won't pull. We'll *whisk.* When the mountain breathes out, you twist — slow and small, like stirring tea. Then you wait. Then you twist again. Slow is how small things win, Pon."
+
+She demonstrated with her whisk in the air: a soft, patient, circling twist. Pon copied her with both paws, twisting nothing whatsoever, tongue poking out in furious concentration. Behind them, the entire troop solemnly copied the motion too — forty monkeys all stirring invisible tea at once, which was, though no one said so out loud, the silliest thing the valley had ever seen.
+
+"Attempt three," said Maru. "Together. I'll watch the water and tell you when. You be the paws."
+
+Pon reached in and held the pebble — gently this time, the way you'd hold something you liked.
+
+Maru watched the channel. "Wait..." she murmured. The water gathered. "Wait..." The pulse came. "*Now — whisk.*"
+
+Pon twisted, slow and small. The pebble shifted a hair.
+
+"Rest," said Maru. Pon rested. "Now."
+
+Twist. A wiggle. A wobble. A grind of stone on stone.
+
+"Rest. ...Now."
+
+And on the fifth slow twist, the mountain breathed out, Pon turned his little paws like he was stirring the world's most important cup of tea, and the pebble came loose — *POP!* — like a cork from a bottle, leaping clean out of the crack and into Pon's arms.
+
+Hot water *whooshed* up the channel with a joyful rumble. A fat column of bubbles rolled across the pool, and a great fresh cloud of silver steam billowed up so suddenly that everyone vanished inside it, and for a moment the whole valley was just warm fog and forty monkeys cheering.
+
+---
+
+Oh, what a soak it was.
+
+The troop poured into the spring like rice into a bowl. Boss Fuwa sank to his silver whiskers and sighed so deeply that small icicles trembled on the far cliff. The aunties floated in a contented ring. One cousin balanced a tidy ball of snow on his own head, on purpose, and would not let anyone touch it, because some monkeys understand luxury.
+
+And in the warmest corner — beside the channel, which now rumbled like a kettle singing its favorite song — sat the two heroes of the evening: a small green tea friend with steam curling her cream-swirl hair, and a tiny saru hugging a defeated pebble like a trophy.
+
+Boss Fuwa waded over with great ceremony. He looked at his own enormous, mighty arm; then at the narrow crack; then at little Pon. And he gently patted Pon's head-tuft with one giant grateful paw — which, from Boss Fuwa, was a medal, a parade, and a national holiday all at once. Pon sat up so straight and so proud that his tuft pointed at the very first star.
+
+"You see, little one," said Maru Matcha, sinking into the warm water beside him. "All the big and all the strong in this valley couldn't budge one stubborn pebble. But one calm friend who *looked*, and one small friend who *reached* — together, that was exactly enough. Big and strong are wonderful things. They are just not the only things." She raised her whisk in a tiny salute. "**Arigatou** (ah-ree-gah-toh) — thank you — for being the paws, Pon."
+
+Pon yawned hugely, dropped his trophy pebble with a *plip*, and snuggled into the crook of her arm.
+
+The steam rose thick and silver. The stars came out, crisp as sugar crystals over the cliffs. One by one the monkeys' eyes drifted shut, until the whole spring was a warm, gently snoring pile of fluff, rocked by water warmed in the deep heart of the mountain.
+
+"Whisk slow," murmured Maru Matcha to the sleepy valley, as Pon's eyes closed against her shoulder. "Feel calm. And never tell a small, calm friend what can't be done."
+
+The mountain breathed out. The steam curled up to meet the stars.
+
+And everything was warm.
 
 ---
 
 ## Goodnight Blessing
-Little one, the very best friends are sometimes the shyest — they only need a quiet, patient heart to feel safe enough to come close. So tonight, breathe slow like Maru Matcha, and let the warm steam of the day rise gently up and away. You don't have to rush, and you don't have to chase; the good things are already on their way to you. Snuggle down where it's cozy and warm, with your cheeks soft and your heart softer still. May your dreams be full of fluffy friends and steaming little cups of tea. Goodnight.
+Little one, you don't have to be the biggest or the strongest to fix what's broken — sometimes the world is waiting for someone small enough to reach and calm enough to see. So tonight, lay down all your pushing and pulling, and let your breath go slow, like a mountain breathing under the snow: in... and out... in... and out. The warm is rising. The stars are out. Your small, clever, gentle self did enough today. Curl up snug like a sleepy monkey in the steam, and let the night hold you warm. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration: a tiny jade-green matcha character (a small bowl-headed friend with a soft matcha-cream soft-serve swirl on top and calm half-moon eyes) sits on a flat warm rock beside a steaming mountain hot spring in a snowy valley, holding a little bamboo whisk; a fluffy pink-cheeked baby snow monkey reaches out a small paw toward a single steaming cup of green tea. Soft snowfall, glowing twilight, palette of jade green, snowy white, warm steam-gold, and dusty pink. Cozy, tender, magical mood.
-2. Character portrait of Maru Matcha: a small calm jade-green friend with a frothy matcha-cream swirl like soft-serve hair (dusted with a tiny snow-cap), gentle half-moon eyes, rosy peace on her face, holding her little bamboo whisk like a wand. Soft falling snow in the background, warm gold rim-light, kawaii cozy storybook style.
-3. Cozy closing scene: a whole troop of rosy-cheeked fluffy snow monkeys gathered around the steaming hot spring at night under crisp sugar-crystal stars, each cradling a tiny cup of warm green tea; a sleepy baby snow monkey curled in the lap of the small green matcha friend, both half-asleep in a soft cloud of warm steam. Deep blue night, twinkling stars, golden steam glow, peaceful and warm.
+1. Key scene — warm whimsical storybook illustration: at the rocky edge of a mountain hot spring in a snowy twilight valley, a tiny fluffy baby snow monkey reaches both small paws into a narrow crack between two boulders, tongue out in concentration, while a small jade-green matcha character (bowl-shaped head, frothy matcha-cream swirl on top, calm half-moon eyes) kneels beside him pointing a tiny bamboo whisk at the water, coaching him; a whole troop of round anxious snow monkeys crowds behind them, several solemnly copying a stirring motion in the air. Thin wisps of steam, deep blue-and-gold palette, cozy suspense, gentle painterly textures.
+2. Character portrait of Maru Matcha: a small calm jade-green friend with a frothy matcha-cream swirl like soft-serve hair, gentle half-moon eyes, a serene knowing smile, holding her little bamboo whisk like a wand, soft curls of onsen steam and falling snow around her, warm gold rim-light against a snowy blue dusk. Kawaii, cozy, storybook style.
+3. Cozy closing scene — the hot spring restored at night: a thick cloud of silver-gold steam rising under crisp starry skies, dozens of rosy-cheeked snow monkeys dozing chin-deep in the warm water in a contented heap, one balancing a snowball on his head; in the warmest corner the small green matcha friend soaks with a sleeping baby snow monkey snuggled in the crook of her arm, a little pebble resting on the rock beside them like a trophy. Deep blue night, golden steam glow, profoundly peaceful bedtime mood.

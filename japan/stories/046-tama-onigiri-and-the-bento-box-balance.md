@@ -1,10 +1,10 @@
 # Story 46: Tama Onigiri and the Bento-Box Balance
 
 **Main Character:** Tama Onigiri
-**Guest Characters:** None
+**Guest Characters:** Kori Kakigori, Coro the Korokke, Maru Matcha, the Dango Three (Pinku, Shiro, Cha)
 **Setting:** A schoolyard picnic with colorful packed bento lunches
 **Theme:** A little of everything makes the happiest lunch
-**Japanese Spotlight:** べんとう (bentou) = packed lunch box
+**Japanese Spotlight:** **bentou** (behn-toh) — packed lunch box
 
 ---
 
@@ -12,7 +12,7 @@ The morning bell hadn't even finished bonging when Tama Onigiri waddled into the
 
 "I packed a little extra, just in case!" she announced, which was the truest thing anyone had ever said, because Tama always packed extra. Extra rice. Extra smiles. Extra napkins shaped like tiny rabbits.
 
-Today was Picnic Day. Every friend in the whole schoolyard was supposed to bring a **べんとう** (bentou) = packed lunch box, and lay it out on the big checkered blanket, and share. Tama had been looking forward to it for a whole week.
+Today was Picnic Day. Every friend in the whole schoolyard was supposed to bring a **bentou** (behn-toh) — a packed lunch box — and lay it out on the big checkered blanket, and share. Tama had been looking forward to it for a whole week.
 
 There was just one teeny problem. Nobody else's lunch box looked quite right yet.
 

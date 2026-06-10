@@ -4,17 +4,17 @@
 **Guest Characters:** Hong Dou
 **Setting:** A dim-sum kitchen
 **Theme:** Slow and steady
-**Word Spotlight:** 芝麻球 (zhima qiu) = sesame ball
+**Word Spotlight:** **zhima qiu** (jrr-mah chyoh) — sesame ball
 
 ---
 
-In the warm hush of a dim-sum kitchen, where bamboo steamers stacked up like little hats and the teapots gossiped in steam, there lived a round little fellow named Zhima. Zhima was a **芝麻球** (zhima qiu) = sesame ball, which meant he was perfectly, gloriously round — crusted head to toe in toasty sesame seeds, with a crackly golden shell and a soft chewy inside that giggled when you poked it.
+In the warm hush of a dim-sum kitchen, where bamboo steamers stacked up like little hats and the teapots gossiped in steam, there lived a round little fellow named Zhima. Zhima was a **zhima qiu** (jrr-mah chyoh) — sesame ball — which meant he was perfectly, gloriously round — crusted head to toe in toasty sesame seeds, with a crackly golden shell and a soft chewy inside that giggled when you poked it.
 
 Zhima had one rule, and he said it so often the dumplings rolled their eyes.
 
 "Slow and steady," Zhima would hum, wobbling along the counter like a happy marble. "Slow and steady makes the big roll."
 
-"You ARE the big roll," squeaked a voice from the pantry. Out tumbled Hong Dou, a plump little **红豆** (hong dou) = red bean, glossy and crimson and full of sweet mashed-up courage. "Zhima! Teach me to be round and crunchy like you! I want to be a 芝麻球 too!"
+"You ARE the big roll," squeaked a voice from the pantry. Out tumbled Hong Dou, a plump little **hongdou** (hohng-doh) — red bean — glossy and crimson and full of sweet mashed-up courage. "Zhima! Teach me to be round and crunchy like you! I want to be a zhima qiu too!"
 
 Zhima's sesame seeds shivered with delight. "Tonight," he beamed, "we make sesame balls. But you must promise me one thing, Hong Dou."
 
@@ -26,19 +26,21 @@ Zhima's sesame seeds shivered with delight. "Tonight," he beamed, "we make sesam
 
 Hong Dou bounced. Hong Dou could not help bouncing. "Okay, okay, slow and steady, I GOT it, what's first, hurry up and tell me slow!"
 
-Zhima laughed so hard a sesame seed popped off his cheek. "First," he said, "we make the dough. Fetch the **糯米** (nuo mi) = glutinous rice flour, the warm water, and a wee pinch of sugar."
+Zhima laughed so hard a sesame seed popped off his cheek. "First," he said, "we make the dough. Fetch the **nuomi** (nwaw-mee) — glutinous rice flour, the warm water, and a wee pinch of sugar."
 
 Hong Dou zoomed and skidded back with a cloud of white flour all over her face, looking like a tiny ghost bean. Zhima poured the flour into a big bowl and trickled in warm water, sloooowly, swirling with a chopstick.
 
 "Not all at once!" he sang. "A splash. Then mix. Another splash. Then mix. We want a dough as soft as a sleepy cheek — not sticky, not crumbly, just squishy-perfect."
 
-They kneaded it together, four little hands pushing and folding, push-fold, push-fold, until the dough turned smooth and shiny and bouncy as a pillow. Hong Dou tried to knead at top speed and accidentally flung a blob onto the ceiling, where it stuck with a soft *splot* and hung there like a tiny moon.
+They kneaded it together, four little hands pushing and folding, push-fold, push-fold, until the dough turned smooth and shiny and bouncy as a pillow.
+
+"It's poofing my fingers!" Hong Dou giggled, pinching the dough.
+
+Then she tried to knead at top speed and accidentally flung a blob onto the ceiling, where it stuck with a soft *splot* and hung there like a tiny moon.
 
 "Slow," Zhima reminded her, gently, not even a little bit cross.
 
 "Slow," Hong Dou agreed, watching her dough-moon wobble overhead. "Sorry, ceiling."
-
-"It's poofing my fingers!" Hong Dou giggled, pinching the dough.
 
 "Good things take their time," said Zhima. "Now — the most important friend in the whole kitchen." He patted the bowl beside them, which was filled with sweet, smooth, mashed red bean paste — the very same family Hong Dou came from.
 
@@ -52,7 +54,7 @@ Now came the fiddly part, and Zhima slowed waaaay down, because rushing here mea
 
 He pinched off a lump of dough and rolled it into a smooth little ball between his palms — round, round, round. Then he pressed his thumb gently into the middle to make a tiny bowl, like a teeny nest.
 
-"See the little cup?" he said. "We tuck a spoonful of sweet **红豆沙** (hong dou sha) = red bean paste right inside."
+"See the little cup?" he said. "We tuck a spoonful of sweet **hongdou sha** (hohng-doh shah) — red bean paste — right inside."
 
 Hong Dou plopped a dollop of Auntie Paste into the dough-nest. "Hello in there!" she called. "Stay cozy!"
 
@@ -68,7 +70,7 @@ So Hong Dou slowed down. She breathed in. She tucked. She pinched, gently, going
 
 "And nobody can see the present," Zhima nodded, "which is the very best kind of present, because it's a surprise even to the ball."
 
-"That," said Zhima, "is the whole point of a 芝麻球."
+"That," said Zhima, "is the whole point of a zhima qiu."
 
 ---
 
@@ -78,7 +80,7 @@ They made a whole tray of them — Zhima rolling his slow and even, Hong Dou rol
 
 Splish! In and out they went, glistening like wet pebbles.
 
-"And THEN—" Zhima's voice went all sparkly, "we roll them in **芝麻** (zhima) = sesame seeds!"
+"And THEN—" Zhima's voice went all sparkly, "we roll them in **zhima** (jrr-mah) — sesame seeds!"
 
 He tipped the balls into a bowl heaped with pale sesame seeds and rolled them around and around. The seeds stuck to the damp dough everywhere, until each ball was furry and freckled and completely covered.
 
@@ -96,7 +98,7 @@ You see, the next part needed bubbling-hot oil, and hot oil is absolutely, posit
 
 "Chef!" said Zhima politely. "Would you please fry our sesame balls? The oil is too hot for little hands."
 
-"With pleasure," rumbled the Chef, "and good for you for asking." He slid the sesame balls into the warm oil — not screaming-hot, but cozy-warm, because sesame balls like to puff up slow.
+"With pleasure," rumbled the Chef, "and good for you for asking." He slid the sesame balls into the oil — bubbling gently, because sesame balls like to puff up slow, but still hot enough to hurt little hands badly. Which is exactly why it was the Chef's job, and nobody else's.
 
 And here is the secret the Chef shared while the balls bobbed and sizzled.
 
@@ -104,7 +106,7 @@ And here is the secret the Chef shared while the balls bobbed and sizzled.
 
 With a long pair of chopsticks and a flat little ladle, the Chef pushed each ball softly down into the oil and let it float up... pushed it down... let it float up. Press and rise. Press and rise.
 
-"Why does pressing make them big?" Hong Dou whispered, eyes huge, nose nearly bonking the side of the pot before Zhima tugged her back by the tail.
+"Why does pressing make them big?" Hong Dou whispered, eyes huge, leaning in for a better look — until the Chef stretched out his long wooden spoon like a little toll gate and *boop*, bounced her gently back a whole arm's length from the pot. "Watching seats are back there, little bean," he rumbled.
 
 "Because," said the Chef, "every time we press and let go, a little puff of warm air sneaks inside and grows. You can't hurry it. Push too hard and *pop* — flat as a coin. Push too soft and it just floats there being lazy. You press it like you mean it but love it. Squeeze, breathe. Squeeze, breathe. Slow and steady..."
 
@@ -142,7 +144,7 @@ And Zhima, full of warmth and red bean and friendship, rolled gently to sleep be
 2. Roll a piece of dough into a ball, press a little dent in the middle, and tuck in a spoonful of sweet red bean paste.
 3. Pinch the dough closed all the way around so there are no gaps, then roll it smooth between your palms.
 4. Dip each ball in plain water, then roll it in sesame seeds, pressing gently so the seeds stick.
-5. Ask a grown-up to fry them in warm oil, gently pressing them so they puff up big and golden.
+5. Ask a grown-up to fry them in hot oil, gently pressing them so they puff up big and golden. (Hot oil can hurt badly — frying is ONLY a grown-up's job, so watch from a safe distance!)
 6. Let a grown-up drain them on a paper towel — then let them cool a little and crunch!
 
 ## Goodnight Blessing

@@ -4,7 +4,7 @@
 **Guest Characters:** Tama Onigiri
 **Setting:** A beach picnic
 **Theme:** Pack and share
-**Word Spotlight:** おむすび (omusubi) = pressed rice snack
+**Word Spotlight:** **omusubi** (oh-moo-soo-bee) — pressed rice snack
 
 ---
 
@@ -16,7 +16,7 @@ Beside him bounced his best beach buddy, Coconut Jelly, a wobbly cube the color 
 
 "Sa Sa!" wobbled Coconut Jelly. "Teach me to make YOU! I mean — not *you* you. The snack you. The squishy pillow you!"
 
-Sa Sa puffed up proudly. "You mean **おむすび** (omusubi) = pressed rice snack? Today, my jiggly friend, you learn the neatest snack on the beach."
+Sa Sa puffed up proudly. "You mean **omusubi** (oh-moo-soo-bee) — pressed rice snack? Today, my jiggly friend, you learn the neatest snack on the beach."
 
 ---
 
@@ -44,7 +44,7 @@ Right on cue, Auntie Mango — the picnic grown-up, tall and bright in a flowery
 
 The whole beach seemed to lean in toward that golden, glazy, sweet-salty smell. A seagull stopped mid-waddle. A second crab climbed out of a tide pool just to investigate. Even the wind seemed to slow down and sniff.
 
-"That's the **醤油** (jiàngyóu) = soy sauce glaze," said Sa Sa. "It makes the Spam sparkle. The grown-up cooks it nice and hot so the edges go crispy, then glazes it shiny. We just watch — and we drool politely. Thank you, Captain Auntie!"
+"That's a glaze of **shoyu** (SHOH-yoo) — soy sauce," said Sa Sa. "It makes the Spam sparkle. The grown-up cooks it nice and hot so the edges go crispy, then glazes it shiny. We just watch — and we drool politely. Thank you, Captain Auntie!"
 
 "Anytime, neat one," said Auntie Mango, and she set the glazed Spam on a plate to rest, safely away from squishy little hands.
 
@@ -58,7 +58,7 @@ Coconut Jelly looked at the little flat presser-lid. He looked at his own wobbly
 
 Coconut Jelly pressed — *too* hard — and rice squirted out the sides like a happy little volcano. "WHOOPS." A grain landed on Tama's nose. Tama did not move. Tama is a professional.
 
-"Softer," laughed Sa Sa, scraping the escapees back in. "Press it FLAT and SNUG, not flat and FLAT. There — feel how it holds its shape? That's a rice **枕頭** (zhěntou) = pillow. A neat little pillow you can eat."
+"Softer," laughed Sa Sa, scraping the escapees back in. "Press it FLAT and SNUG, not flat and FLAT. There — feel how it holds its shape? That's a rice **zhentou** (jen-toh) — pillow. A neat little pillow you can eat."
 
 They pressed a second scoop, and a third. Coconut Jelly got the hang of it on the third try, pressing just gently enough that no rice escaped — and when he lifted the presser-lid and saw a perfect plump rectangle sitting underneath, he gasped like he'd discovered treasure.
 

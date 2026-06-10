@@ -4,11 +4,11 @@
 **Guest Characters:** None
 **Setting:** A traditional outdoor rotenburo bath under falling snow
 **Theme:** Little traditions make ordinary moments magic
-**Japanese Spotlight:** タオル (taoru) = towel
+**Japanese Spotlight:** **taoru** (tah-oh-roo) — towel
 
 ---
 
-The snow came down so softly that night that it tickled. It landed on noses and made everybody sneeze the smallest, politest sneezes you ever heard — *fwip, fwip, fwip* — like a row of teacups hiccupping. And right in the middle of all that fluffy quiet sat the coziest place in the whole mountain: a steaming outdoor **露天風呂** (rotenburo) = open-air hot-spring bath, bubbling away under the stars like a giant bowl of warm soup that nobody was allowed to slurp.
+The snow came down so softly that night that it tickled. It landed on noses and made everybody sneeze the smallest, politest sneezes you ever heard — *fwip, fwip, fwip* — like a row of teacups hiccupping. And right in the middle of all that fluffy quiet sat the coziest place in the whole mountain: a steaming outdoor **rotenburo** (roh-ten-boo-roh) — open-air hot-spring bath — bubbling away under the stars like a giant bowl of warm soup that nobody was allowed to slurp.
 
 Yuki the Snow Monkey-Manju was already in it, of course. She was always already in it. Yuki was a fluffy little white steamed bun shaped like a baby snow monkey, with cheeks gone rosy-pink from the heat, and she floated in the water with only her round face poking out, blowing teeny bubbles of pure contentment.
 
@@ -32,7 +32,7 @@ Maru nodded slowly, breathing out a little cloud. "Whisk slow. Feel calm. But al
 
 Yuki blinked. Then she did the warmest thing a snow monkey can do, which is grin from ear to ear.
 
-"Oh, friends," she said. "There aren't scary rules. There are *cozy* ones. Little traditions. And the very best, most important, most secret one of all —" she leaned in, dripping dramatically, "— is the **タオル** (taoru) = towel trick."
+"Oh, friends," she said. "There aren't scary rules. There are *cozy* ones. Little traditions. And the very best, most important, most secret one of all —" she leaned in, dripping dramatically, "— is the **taoru** (tah-oh-roo) — towel — trick."
 
 ---
 
@@ -58,7 +58,7 @@ So one by one, they climbed in. There was a great deal of dramatic tiptoeing fir
 
 "It's always been like this," said Yuki gently. "You just had to come in."
 
-Then she handed each of them a folded little **タオル**, and one by one, very seriously, they placed them on top of their heads.
+Then she handed each of them a folded little taoru, and one by one, very seriously, they placed them on top of their heads.
 
 And reader, I will tell you the truth: they looked ridiculous.
 
@@ -84,7 +84,7 @@ Yuki's eyes went wide. "Is that... a CHALLENGE?"
 
 "It's a challenge," said Maru, who had not been challenged but wanted to be included.
 
-"It's a **タオル** contest!" cried Tama, sitting up so fast his towel slid down over one eye, which made him look like a tiny pirate of comfort. "Last towel on a head WINS!"
+"It's a taoru contest!" cried Tama, sitting up so fast his towel slid down over one eye, which made him look like a tiny pirate of comfort. "Last towel on a head WINS!"
 
 "Wins WHAT?" asked Momo.
 

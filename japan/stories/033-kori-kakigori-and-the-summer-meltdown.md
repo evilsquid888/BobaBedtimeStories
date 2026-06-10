@@ -1,10 +1,10 @@
 # Story 33: Kori Kakigori and the Summer Meltdown
 
 **Main Character:** Kori Kakigori (kakigori shaved ice with strawberry syrup)
-**Guest Characters:** None
+**Guest Characters:** Momo Mochi, Maru Matcha, Tako & Yaki, Kei the kei-truck
 **Setting:** A blazing-hot summer beach boardwalk
 **Theme:** Friends help you keep your cool
-**Japanese Spotlight:** あつい (atsui) = hot
+**Japanese Spotlight:** atsui (AH-tsoo-ee) — hot
 
 ---
 
@@ -12,35 +12,35 @@ On the hottest morning of the whole entire summer, Kori Kakigori rolled out onto
 
 Not a scared scream. A *dramatic* scream. The kind only a shaved-ice diva can do.
 
-"It's **あつい** (atsui) = HOT!" Kori wailed, flinging a frosty arm across her syrup-ruby forehead. Her sunglasses slid down her snowy slope of a face. "Sweeties, this is it. This is the day I melt into a puddle and become a *strawberry-flavored memory*."
+"It's **atsui** (AH-tsoo-ee) — HOT!" Kori wailed, flinging a frosty arm across his syrup-ruby forehead. His sunglasses slid down his snowy slope of a face. "Sweeties, this is it. This is the day I melt into a puddle and become a *strawberry-flavored memory*."
 
-A seagull landed nearby, looked at her, and squawked unhelpfully.
+A seagull landed nearby, looked at him, and squawked unhelpfully.
 
 "You don't UNDERSTAND," Kori told the seagull, "I am made of ICE. Today is made of FIRE. Do the math, feathers!"
 
 The seagull did not do the math. The seagull stole a fry and left.
 
-Kori sighed a slow, fancy, doomed sigh. A single bead of cold sweat — well, condensed milk, technically — slid down her side. "Goodbye, cruel boardwalk," she whispered. "Remember me as the COOLEST."
+Kori sighed a slow, fancy, doomed sigh. A single bead of cold sweat — well, condensed milk, technically — slid down his side. "Goodbye, cruel boardwalk," he whispered. "Remember me as the COOLEST."
 
 But the boardwalk was not done with Kori yet. Not even close.
 
 ---
 
-You see, Kori Kakigori was a towering mountain of fluffy shaved ice, drizzled all over with ruby strawberry syrup and a generous swirl of condensed milk, with little round sunglasses perched right on top of her peak. She was always *exactly* one degree away from melting, and she loved it. The drama! The danger! The way everyone gasped when she leaned!
+You see, Kori Kakigori was a towering mountain of fluffy shaved ice, drizzled all over with ruby strawberry syrup and a generous swirl of condensed milk, with little round sunglasses perched right on top of his peak. He was always *exactly* one degree away from melting, and he loved it. The drama! The danger! The way everyone gasped when he leaned!
 
-But today the sun was beating down like a giant warm pancake pressing on the world, and even Kori had to admit — between her big theatrical groans — that she felt a little drippy. A little soft around the edges. A little *runny*.
+But today the sun was beating down like a giant warm pancake pressing on the world, and even Kori had to admit — between his big theatrical groans — that he felt a little drippy. A little soft around the edges. A little *runny*.
 
-"Just stay cool," she told herself, wobbling toward a shady spot. "Stay cool, sweetie. But not TOO cool."
+"Just stay cool," he told himself, wobbling toward a shady spot. "Stay cool, sweetie. But not TOO cool."
 
 The trouble was, there were no shady spots. The sun had eaten them all.
 
-Kori found a bench, but the bench was hot. She found a tree, but the tree was a cardboard cutout of a tree (the boardwalk decorator had been very lazy). She found an umbrella, but a crab was using it as a tiny hat, and the crab was not sharing.
+Kori found a bench, but the bench was hot. He found a tree, but the tree was a cardboard cutout of a tree (the boardwalk decorator had been very lazy). He found an umbrella, but a crab was using it as a tiny hat, and the crab was not sharing.
 
 "Excuse me, small angry sir," Kori said. The crab pinched the air. Kori retreated, dripping. "Rude AND he's wearing my umbrella. This day is a TOTAL MELTDOWN."
 
-She slumped against the boardwalk railing, and — *drip, drip, drip* — a thin pink puddle began to spread out beneath her, sparkling in the cruel sunshine.
+He slumped against the boardwalk railing, and — *drip, drip, drip* — a thin pink puddle began to spread out beneath him, sparkling in the cruel sunshine.
 
-That's when her friends found her.
+That's when his friends found him.
 
 Momo Mochi came bouncing first, soft and pillowy and snow-white, dusted in potato starch, her peachy cheeks glowing. Right behind her came Maru Matcha, calm as a green pond, twirling her tiny bamboo whisk like a wand. Tako and Yaki, the giggly takoyaki twins, rolled up bouncing in unison. And putt-putting behind them all came Kei, the teeny butter-yellow kei-truck, headlight-eyes wide, springs squeaking.
 
@@ -52,7 +52,7 @@ Momo Mochi came bouncing first, soft and pillowy and snow-white, dusted in potat
 
 Maru Matcha studied the spreading pink puddle with her calm half-moon eyes. She tapped her whisk thoughtfully against her bowl-head, making a soft little *fwip* sound.
 
-"Whisk slow," Maru said. "Feel calm. Kori is not melting because she is doomed. Kori is melting because she is in the sun." She blinked. "And the answer to *in the sun*... is *not in the sun*."
+"Whisk slow," Maru said. "Feel calm. Kori is not melting because he is doomed. Kori is melting because he is in the sun." She blinked. "And the answer to *in the sun*... is *not in the sun*."
 
 There was a pause.
 
@@ -92,11 +92,11 @@ Then, gently, oh-so-gently, they helped Kori wobble inside.
 
 The change was immediate.
 
-Inside the fort it was dim and cool and blue-shadowed, like being underwater without the wet part. The sun's giant warm pancake-press couldn't reach her. The ice cubes glittered. Maru's fans sent slow loops of cool air curling around Kori's frosty slopes.
+Inside the fort it was dim and cool and blue-shadowed, like being underwater without the wet part. The sun's giant warm pancake-press couldn't reach him. The ice cubes glittered. Maru's fans sent slow loops of cool air curling around Kori's frosty slopes.
 
 "Oh," said Kori. Then, louder: "*Ohhhh.*"
 
-She straightened up. Her drippy puddle stopped spreading and — *was it?* — yes — began very slowly to firm right back up. Her ruby syrup stopped running. Her condensed-milk swirl perked into a proud curl again. Her sunglasses slid back up to their rightful place on her peak.
+He straightened up. His drippy puddle stopped spreading and — *was it?* — yes — began very slowly to firm right back up. His ruby syrup stopped running. His condensed-milk swirl perked into a proud curl again. His sunglasses slid back up to their rightful place on his peak.
 
 "Sweeties," Kori breathed, "I can FEEL my fluff coming back."
 
@@ -110,23 +110,23 @@ She straightened up. Her drippy puddle stopped spreading and — *was it?* — y
 
 Everyone burst out laughing, and the fort filled up with giggles instead of heat.
 
-They spent the whole long afternoon in there. Tako and Yaki invented a game called Don't Melt the Diva, which mostly involved fanning Kori and shouting encouragement. Momo passed around little squishy mochi snacks. Maru taught everyone to whisk slow and breathe slower, until even bouncy Kei sat quiet and humming on her springs. Outside the fort the boardwalk shimmered hot — **あつい**, so very atsui — but inside, it was a pocket of perfect, frosty, friendly cool.
+They spent the whole long afternoon in there. Tako and Yaki invented a game called Don't Melt the Diva, which mostly involved fanning Kori and shouting encouragement. Momo passed around little squishy mochi snacks. Maru taught everyone to whisk slow and breathe slower, until even bouncy Kei sat quiet and humming on her springs. Outside the fort the boardwalk shimmered hot — atsui, so very atsui — but inside, it was a pocket of perfect, frosty, friendly cool.
 
-And here is the thing Kori figured out, somewhere between her third popsicle and her fourth dramatic gasp:
+And here is the thing Kori figured out, somewhere between his third popsicle and his fourth dramatic gasp:
 
-"I thought I was going to melt away all by myself," she said softly, watching her friends. "I really did. But you can't keep your cool *alone*. Not on the hottest day. You need somebody to build you some shade."
+"I thought I was going to melt away all by myself," he said softly, watching his friends. "I really did. But you can't keep your cool *alone*. Not on the hottest day. You need somebody to build you some shade."
 
 "That's what friends are *for*," said Momo, squishing carefully against Kori's cold side — just for a second, with a happy little "brr!"
 
-"Stay cool, sweeties," Kori said, smiling her biggest smile yet, "but not too cool. The just-right kind of cool. The *together* kind."
+"Stay cool, sweeties," Kori said, smiling his biggest smile yet, "but not too cool. The just-right kind of cool. The *together* kind."
 
 As the sun finally began to sink, painting the sea in melty orange and pink — Kori's two favorite flavors — a crowd of beach-goers wandered up, fanning themselves and sweating in the heat.
 
 "Is that... a shaved-ice friend?" one little kid asked, eyes huge. "Can we... have a taste?"
 
-Kori looked at her friends. Her friends looked at Kori. And Kori grinned the proud, sparkly grin of someone who had been waiting her whole frosty life for exactly this.
+Kori looked at his friends. His friends looked at Kori. And Kori grinned the proud, sparkly grin of someone who had been waiting his whole frosty life for exactly this.
 
-"Sweeties," she announced, striking her grandest pose, "the COOLEST treat on the hottest day is about to make everyone's afternoon. Line up! There's plenty of me to go around!"
+"Sweeties," he announced, striking his grandest pose, "the COOLEST treat on the hottest day is about to make everyone's afternoon. Line up! There's plenty of me to go around!"
 
 And one happy, frosty, ruby-pink spoonful at a time, Kori Kakigori cooled down the entire boardwalk — laughing the whole time, because being a treat that makes everyone go *"aaah, so cool!"* turned out to be the most wonderful job in the world.
 
@@ -135,9 +135,9 @@ She didn't melt away that day. She melted *into joy*. Which is a completely diff
 ---
 
 ## Goodnight Blessing
-The sun has gone to sleep behind the sea now, little one, and the day's big heat has softened into a cool blue hush. Whatever felt too **あつい** (atsui) = hot today — too loud, too fast, too much — you do not have to keep your cool all by yourself. Somewhere there are friends who will build you shade and fan you a slow breeze and stay near while you settle. Snuggle down where it's cozy and just-right, and let your worries firm back up like frost in the evening. You are safe, you are sweet, and you are exactly cool enough. Goodnight.
+The sun has gone to sleep behind the sea now, little one, and the day's big heat has softened into a cool blue hush. Whatever felt too atsui today — too hot, too loud, too fast, too much — you do not have to keep your cool all by yourself. Somewhere there are friends who will build you shade and fan you a slow breeze and stay near while you settle. Snuggle down where it's cozy and just-right, and let your worries firm back up like frost in the evening. You are safe, you are sweet, and you are exactly cool enough. Goodnight.
 
 ## AI Image Prompts
 1. Warm whimsical storybook illustration: a blazing summer beach boardwalk at midday in a soft cute palette of sandy gold, sea-blue, and sunset coral. In the center, friends build a cozy fort from four striped beach umbrellas with a stripy blanket roof, glittering ice cubes piled inside. Kori Kakigori — a towering fluffy mountain of snow-white shaved ice drizzled with ruby strawberry syrup and a condensed-milk swirl, tiny round sunglasses on top — wobbles happily into the cool blue shade. Pillowy white Momo Mochi stretches taffy arms; jade-green Maru Matcha whisks a breeze; two golden takoyaki twins climb an umbrella pole; a butter-yellow kei-truck unloads popsicles. Soft dappled light, kawaii, joyful, cozy.
-2. Character portrait: Kori Kakigori in a grand dramatic diva pose, one frosty arm flung across her ruby-syrup forehead, little round sunglasses sliding down her snowy peak, a sparkly condensed-milk swirl on top, a single playful drip on one side. Warm storybook style, soft glowing rim-light, twinkling and over-the-top adorable, against a hot shimmering boardwalk background.
-3. Closing scene: golden sunset over the sea, the boardwalk bathed in melty orange and pink. Kori Kakigori, frosty and proud and restored to her full fluffy height, beams as a little line of delighted beach-goers receives ruby-pink spoonfuls. Her friends gathered cozily around the fort, everyone smiling, warm soft lantern-glow beginning, gentle sleepy contented mood, kawaii storybook illustration.
+2. Character portrait: Kori Kakigori in a grand dramatic diva pose, one frosty arm flung across his ruby-syrup forehead, little round sunglasses sliding down his snowy peak, a sparkly condensed-milk swirl on top, a single playful drip on one side. Warm storybook style, soft glowing rim-light, twinkling and over-the-top adorable, against a hot shimmering boardwalk background.
+3. Closing scene: golden sunset over the sea, the boardwalk bathed in melty orange and pink. Kori Kakigori, frosty and proud and restored to his full fluffy height, beams as a little line of delighted beach-goers receives ruby-pink spoonfuls. Her friends gathered cozily around the fort, everyone smiling, warm soft lantern-glow beginning, gentle sleepy contented mood, kawaii storybook illustration.

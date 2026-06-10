@@ -1,10 +1,10 @@
 # Story 74: Momo Mochi and the Warm Winter-Solstice Bath
 
 **Main Character:** Momo Mochi
-**Guest Characters:** None
+**Guest Characters:** Kori Kakigori, Maru Matcha, Mero Melonpan
 **Setting:** A cozy bathhouse on the winter solstice with floating yuzu fruit
 **Theme:** Small warm rituals carry you through the cold
-**Japanese Spotlight:** ゆず (yuzu) = yuzu citrus
+**Japanese Spotlight:** **yuzu** (yoo-zoo) — yuzu citrus
 
 ---
 
@@ -12,9 +12,9 @@ On the longest, coldest night of the whole entire year, Momo Mochi waddled up th
 
 Lemony, bumpy, golden trouble.
 
-"Squish me sideways," she puffed, "these are HEAVY for such tiny fruits!" She was carrying eleven plump **ゆず** (yuzu) = yuzu citrus, a kind of round, sunshiny lemon-orange that smells like a hug wearing perfume. They kept rolling out of her stretchy taffy arms and bonking down the steps — *thoomp, thoomp, thoomp* — like a parade of grumpy little suns.
+"Squish me sideways," she puffed, "these are HEAVY for such tiny fruits!" She was carrying eleven plump **yuzu** (yoo-zoo) — yuzu citrus, a kind of round, sunshiny lemon-orange that smells like a hug wearing perfume. They kept rolling out of her stretchy taffy arms and bonking down the steps — *thoomp, thoomp, thoomp* — like a parade of grumpy little suns.
 
-A snowflake landed on Momo's rosy peach cheek and melted instantly. Momo was a soft, pillowy, snow-white rice cake, plump and squishable and dusted all over with potato starch, and tonight she was on a Very Important Mission. Because tonight was **冬至** (tōji) = the winter solstice — the night the dark stays longest and the cold pinches hardest.
+A snowflake landed on Momo's rosy peach cheek and melted instantly. Momo was a soft, pillowy, snow-white rice cake, plump and squishable and dusted all over with potato starch, and tonight she was on a Very Important Mission. Because tonight was **toji** (toh-jee) — the winter solstice — the night the dark stays longest and the cold pinches hardest.
 
 And Momo Mochi had a plan to make it cozy.
 
@@ -34,7 +34,7 @@ Momo's heart did a warm little flip. They needed her. Well — they needed her p
 
 "You brought... lemons?" said Kori, peering over the frosty sunglasses.
 
-"They are not lemons, they are *yuzu*," said Momo proudly, lining them up on the wooden floor where they immediately rolled away in every direction. She chased them with her stretchy arms, gathering them like a flustered octopus. "And on **冬至**, my grandmother always said, you fill a hot bath with floating yuzu, and the warm water and the sunshiny smell chase the cold right out of your bones. It is called a **柚子湯** (yuzuyu) = yuzu bath! Tonight we are going to fill that big tub with golden fruit until winter gives up and goes home!"
+"They are not lemons, they are *yuzu*," said Momo proudly, lining them up on the wooden floor where they immediately rolled away in every direction. She chased them with her stretchy arms, gathering them like a flustered octopus. "And on toji, my grandmother always said, you fill a hot bath with floating yuzu, and the warm water and the sunshiny smell chase the cold right out of your bones. It is called a **yuzuyu** (yoo-zoo-yoo) — a yuzu bath! Tonight we are going to fill that big tub with golden fruit until winter gives up and goes home!"
 
 The friends looked at the deep stone tub. They looked at the eleven runaway yuzu. They looked at Momo, who had a yuzu stuck to each cheek now and looked extremely serious about it.
 
@@ -118,7 +118,7 @@ When at last Momo cooled enough to gather herself back into a plump round rice c
 
 "You were right, Momo," said Maru, dabbing her swirl dry. "It wasn't about having enough yuzu. Eleven was plenty. It was about all of us being warm in the same small place."
 
-"That's the secret of **冬至**," Momo agreed, hugging a yuzu to her chest like a tiny golden sun. "The night is long. But a small warm thing — a bath, a smell, a friend, a squish — a small warm thing carries you all the way through to morning."
+"That's the secret of toji," Momo agreed, hugging a yuzu to her chest like a tiny golden sun. "The night is long. But a small warm thing — a bath, a smell, a friend, a squish — a small warm thing carries you all the way through to morning."
 
 Mero, still half-asleep, raised one drowsy hand. "Can we keep one yuzu?" he asked. "To smell. For the dreams."
 

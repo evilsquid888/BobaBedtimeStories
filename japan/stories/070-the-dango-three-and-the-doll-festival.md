@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A cozy home decorated for Hinamatsuri, the Doll Festival, in spring
 **Theme:** Everyone deserves a place on the shelf
-**Japanese Spotlight:** ひなまつり (hina-matsuri) = doll festival
+**Japanese Spotlight:** hina-matsuri (hee-nah-mah-tsoo-ree) — doll festival
 
 ---
 
@@ -16,7 +16,7 @@ It was the kind of spring morning where the windows fogged up just enough to dra
 
 "Dolls don't look," said Cha, the clever green matcha one on the bottom, calmly. "They can't even blink. Although," he added, squinting thoughtfully, "that would actually be a very good blinking record."
 
-And that, dear reader, is how the three little dango discovered it was almost time for **ひなまつり** (hina-matsuri) = the doll festival.
+And that, dear reader, is how the three little dango discovered it was almost time for **hina-matsuri** (hee-nah-mah-tsoo-ree) — the doll festival.
 
 It was the morning before the festival, and a great big empty shelf stood against the wall — seven steps tall, covered in a cloth the color of strawberry milk, waiting to be filled.
 
@@ -34,7 +34,7 @@ The three dango bickered, as the three dango always did — but it was the lovin
 
 So up the stair-step shelf they went, dumpling by dumpling, doing the only dance a skewer of dango can do: a hop, a tip, and a roll.
 
-They placed the tiny lacquered furniture on the bottom step — teeny tables and teeny chests and a teeny ox-cart no bigger than a button. "**Kawaii** (ka-wa-ii) = cute," sighed Shiro, completely forgetting to be scared. "Look, it's a little cart for little errands."
+They placed the tiny lacquered furniture on the bottom step — teeny tables and teeny chests and a teeny ox-cart no bigger than a button. "**Kawaii** (ka-wa-ii) — cute," sighed Shiro, completely forgetting to be scared. "Look, it's a little cart for little errands."
 
 They placed the helpers and the lanterns and the round rice-cake offerings on the middle steps, lining everything up so neatly that Cha actually got a little misty about how nicely the spacing worked out.
 
@@ -102,13 +102,13 @@ They found a small wooden box — a little jewelry box with a lid that opened fl
 
 "The one who says *come in, there's room for everyone here*," said Shiro, and his shy voice didn't wobble even a little.
 
-Just then the grown-ups came in carrying trays of festival treats — diamond-shaped rice cakes in pink and white and green (which made the dango feel *extremely* seen), and sweet white **amazake** (a-ma-za-ke) = sweet rice drink steaming in little cups. They stopped. They looked at the great seven-stepped shelf, glowing and perfect. And then they looked at the tiny welcoming doll out front in her pool of warm light, with her own lantern and her own square of soft cloth.
+Just then the grown-ups came in carrying trays of festival treats — diamond-shaped rice cakes in pink and white and green (which made the dango feel *extremely* seen), and sweet white **amazake** (a-ma-za-ke) — sweet rice drink steaming in little cups. They stopped. They looked at the great seven-stepped shelf, glowing and perfect. And then they looked at the tiny welcoming doll out front in her pool of warm light, with her own lantern and her own square of soft cloth.
 
 "Now *that*," one of them said gently, "is exactly where she belongs. We'd nearly forgotten her. Thank goodness somebody didn't."
 
 The three dango glowed pinker, whiter, and greener than they ever had.
 
-When the festival came, the house filled with music and laughter and the clink of little cups, and every single guest who walked through the door was greeted *first* by one small, soft-colored, dust-free doll, sitting proudly in her place of honor, the very heart of **ひなまつり**.
+When the festival came, the house filled with music and laughter and the clink of little cups, and every single guest who walked through the door was greeted *first* by one small, soft-colored, dust-free doll, sitting proudly in her place of honor, the very heart of hina-matsuri.
 
 And the three dango sat right beside her on their stick — pink, white, and green — three friends who had learned that a shelf, like a family, like a festival, like a heart, always, *always* has room for one more.
 

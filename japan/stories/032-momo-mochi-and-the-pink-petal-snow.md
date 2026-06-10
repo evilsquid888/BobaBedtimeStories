@@ -4,13 +4,13 @@
 **Guest Characters:** None
 **Setting:** A hilltop park during a swirling cherry-blossom snowfall
 **Theme:** Catching a little joy is better than chasing all of it
-**Japanese Spotlight:** はなみ (hanami) = flower-viewing
+**Japanese Spotlight:** hanami (hah-NAH-mee) — flower-viewing
 
 ---
 
 On the very first morning of pink, Momo Mochi rolled out of bed so fast she bounced twice off the floor and once off the ceiling. *Boing-boing-BONK.* "Today's the day!" she squealed, her snow-white cheeks going rosy as ripe peaches.
 
-She squished her nose against the window. The whole hilltop park had turned into a fluffy cloud of cherry blossoms — thousands and thousands of soft pink petals drifting down like the gentlest snow that ever fell. It was **はなみ** (hanami) = flower-viewing day, the cosiest holiday of spring, when everyone packs a picnic and goes to sit under the blossom trees.
+She squished her nose against the window. The whole hilltop park had turned into a fluffy cloud of cherry blossoms — thousands and thousands of soft pink petals drifting down like the gentlest snow that ever fell. It was **hanami** (hah-NAH-mee) — flower-viewing — day, the cosiest holiday of spring, when everyone packs a picnic and goes to sit under the blossom trees.
 
 "Oh, the petals," whispered Momo, and her arms stretched out long as warm taffy, *streeetch*, until her fingertips pressed right against the glass. "Pink snow! I am going to catch every single one!"
 
@@ -76,7 +76,7 @@ She lay very, very still. And the petals, who had spent all morning dodging her 
 
 "Come lie down," Momo said dreamily, not even sitting up. "Just — come lie down and look up. You won't believe it."
 
-They did. One by one, her friends flopped onto the grass beside her, all in a cozy row, blinking up at the slow pink river in the sky. Nobody chased anything. Nobody grabbed. They just lay there, a little patchwork of soft and squishy friends, letting the **はなみ** (hanami) happen *to* them instead of running after it.
+They did. One by one, her friends flopped onto the grass beside her, all in a cozy row, blinking up at the slow pink river in the sky. Nobody chased anything. Nobody grabbed. They just lay there, a little patchwork of soft and squishy friends, letting the hanami happen *to* them instead of running after it.
 
 "I was doing it all wrong," Momo admitted, and a petal chose that exact moment to land on her open mouth, so she said the rest around it: "I fwas twying to catfh *aw* of it." She blew the petal off with a *pfft* and it spiraled up, delighted. "But you can't hold a whole sky in two little hands. You're not *supposed* to. You're supposed to lie back and let some of it land on you."
 

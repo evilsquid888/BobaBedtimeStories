@@ -1,10 +1,10 @@
 # Story 43: Coro Korokke and the Bakery Rush
 
 **Main Character:** Coro the Korokke
-**Guest Characters:** None
+**Guest Characters:** Kori Kakigori
 **Setting:** A busy corner bakery and deli at the morning rush
 **Theme:** Helping quietly is its own kind of heroism
-**Japanese Spotlight:** パン (pan) = bread
+**Japanese Spotlight:** **pan** (pahn) — bread
 
 ---
 
@@ -16,13 +16,13 @@ This is harder than it sounds. Have you ever tried to be humble while also being
 
 "Oh dear," whispered Coro. "Oh dear, oh dear, *pft*."
 
-Outside the foggy bakery window, a line was forming. Not a small, polite, sleepy-Saturday line. A LINE. It curled around the corner like a hungry dragon made entirely of yawning customers, and every single one of them wanted **パン** (pan) = bread, or a snack, or a hot croquette, or all three at once before they'd even finished blinking.
+Outside the foggy bakery window, a line was forming. Not a small, polite, sleepy-Saturday line. A LINE. It curled around the corner like a hungry dragon made entirely of yawning customers, and every single one of them wanted **pan** (pahn) — bread — or a snack, or a hot croquette, or all three at once before they'd even finished blinking.
 
 And the bakery was not ready. Not even close.
 
 ---
 
-The corner bakery was usually the coziest place in the whole neighborhood. Warm light, the smell of butter, shelves stacked with melon buns and sausage rolls and milk loaves so soft they practically purred. There were trays of curry **パン** that smelled like a warm hug, baskets of red-bean buns winking with sugar, and a special corner just for croquettes like Coro, all lined up under a little heat lamp like sunbathers at the beach.
+The corner bakery was usually the coziest place in the whole neighborhood. Warm light, the smell of butter, shelves stacked with melon buns and sausage rolls and milk loaves so soft they practically purred. There were trays of curry pan that smelled like a warm hug, baskets of red-bean buns winking with sugar, and a special corner just for croquettes like Coro, all lined up under a little heat lamp like sunbathers at the beach.
 
 But this morning, everything had gone sideways at once.
 
@@ -30,7 +30,7 @@ The baker had overslept. The alarm clock had given up halfway through ringing. T
 
 Up on the top shelf, Kori Kakigori — who had been delivered by mistake in the freezer order and was, frankly, thrilled to be dramatic about it — flung a syrupy arm across his forehead.
 
-"It's a MELTDOWN, sweeties!" he announced. "A total, fabulous, ice-cold meltdown! The line is enormous, the **パン** is a disaster, and nobody knows where ANYTHING is! This is the COOLEST catastrophe I have ever witnessed!"
+"It's a MELTDOWN, sweeties!" he announced. "A total, fabulous, ice-cold meltdown! The line is enormous, the pan is a disaster, and nobody knows where ANYTHING is! This is the COOLEST catastrophe I have ever witnessed!"
 
 "That's not really helping," said a sausage roll.
 
@@ -42,7 +42,7 @@ He wanted to help. He wanted to so badly that his crispy coat tingled. But Coro 
 
 Then he heard it — a sound that made his potato-fluff heart squeeze.
 
-A tiny **パン**, a single soft milk-bread roll, was wedged sideways at the very bottom of a tipped-over basket, getting more and more squished as bigger loaves tumbled on top.
+A tiny pan, a single soft milk-bread roll, was wedged sideways at the very bottom of a tipped-over basket, getting more and more squished as bigger loaves tumbled on top.
 
 "Help," the little roll whimpered. "I can't — I'm stuck — everyone keeps landing on me!"
 
@@ -52,19 +52,19 @@ And just like that, Coro forgot all about being small.
 
 He wriggled. He scooched. He did the thing korokke are secretly excellent at, which is being round and rolling, and he tumbled right out of the deli case — *thump-bump-roll* — across the counter and down to the chaos below.
 
-"Coming!" he called, in the bravest voice a flustered croquette has ever managed. "Hold on, little **パン**, crispy outside, soft heart inside!"
+"Coming!" he called, in the bravest voice a flustered croquette has ever managed. "Hold on, little pan, crispy outside, soft heart inside!"
 
 He nudged the big loaves off one by one, gentle as anything, until the squished roll popped free with a grateful little *fwoomp*.
 
 "Oh," said the roll, fluffing back into shape. "Oh, thank you. You're a hero."
 
-"Me? No, no," said Coro, going pink under his breadcrumbs. *Pft.* "I just didn't want you flat. Nobody likes a flat **パン**. Now — let's get everyone sorted before the line comes in, shall we?"
+"Me? No, no," said Coro, going pink under his breadcrumbs. *Pft.* "I just didn't want you flat. Nobody likes a flat pan. Now — let's get everyone sorted before the line comes in, shall we?"
 
 And here is the thing about Coro the Korokke. He was not loud. He was not flashy. He did not flip through the air or shout countdowns or sparkle. But Coro had a quiet, cozy talent that nobody had ever noticed, because nobody ever notices the quiet ones until exactly the moment they're needed:
 
 Coro was *wonderfully* good at putting things in their right places.
 
-"Right," he said softly, looking at the mess. "Sweet **パン** with sweet **パン**. Savory snacks with savory snacks. Hot things near the front so they stay warm, soft things in the middle so they don't get squashed." He paused. "Tako and Yaki, where's the bonito flakes — oh, never mind, you two aren't in this story."
+"Right," he said softly, looking at the mess. "Sweet pan with sweet pan. Savory snacks with savory snacks. Hot things near the front so they stay warm, soft things in the middle so they don't get squashed." He paused. "Tako and Yaki, where's the bonito flakes — oh, never mind, you two aren't in this story."
 
 (The narrator wishes to apologize. Coro is so used to his friends helping that he forgot they weren't here. This time, he was on his own. Which makes what happened next even better.)
 
@@ -74,7 +74,7 @@ Coro got to work, and he got to work *calmly*.
 
 That was his secret weapon. The whole bakery was a swirl of panic — Kori narrating doom from the rafters, the sausage rolls bumping into each other, a tray of melon buns rolling in confused circles — but Coro just steamed gently and sorted, one snack at a time.
 
-"You go here," he told a row of curry **パン**, nudging them into a tidy line. "And you go here, big fluffy fellow," he said to a milk loaf the size of a pillow, scooting it onto the soft shelf. "And you, my crispy cousins—" this to a basket of fellow croquettes "—you stay near the warm lamp so you stay toasty."
+"You go here," he told a row of curry pan, nudging them into a tidy line. "And you go here, big fluffy fellow," he said to a milk loaf the size of a pillow, scooting it onto the soft shelf. "And you, my crispy cousins—" this to a basket of fellow croquettes "—you stay near the warm lamp so you stay toasty."
 
 He rolled past a confused little anpan, a red-bean bun who had gotten itself jammed between two baguettes and was trying very hard to look like it had meant to do that. "Up you come," said Coro kindly, freeing it with a soft *pop*. "There's a sweet spot waiting for you, right next to the other sweet ones. Birds of a feather. Buns of a basket."
 
@@ -84,7 +84,7 @@ And the sesame bun in the napkin holder? Coro fished it out, dusted it off, and 
 
 "How do you know where everything goes?" asked the little milk roll, hurrying along behind him.
 
-Coro thought about it. *Pft.* "I suppose," he said, "I've spent a lot of time in the deli case just... watching. When you're small and quiet, people forget you're there, and you see everything. I know which **パン** the morning customers always reach for. I know the grumpy ones want coffee-bread fast, and the sleepy ones want something soft and sweet, and the children always, always want the melon buns." He smiled. "Nobody ever asked me. But I knew."
+Coro thought about it. *Pft.* "I suppose," he said, "I've spent a lot of time in the deli case just... watching. When you're small and quiet, people forget you're there, and you see everything. I know which pan the morning customers always reach for. I know the grumpy ones want coffee-bread fast, and the sleepy ones want something soft and sweet, and the children always, always want the melon buns." He smiled. "Nobody ever asked me. But I knew."
 
 From the rafters, Kori went suspiciously quiet.
 
@@ -92,7 +92,7 @@ From the rafters, Kori went suspiciously quiet.
 
 ---
 
-Faster and faster Coro worked — but never frantic, never rushing, just steady and sure. Soon the sweet shelf was a rainbow of glossy buns. The savory baskets stood in neat rows. The hot croquettes glowed under their warm lamp like a treasure chest of crunchy gold. And the bread — the beautiful, rescued **パン** — sat soft and proud, each loaf exactly where a customer would want to find it.
+Faster and faster Coro worked — but never frantic, never rushing, just steady and sure. Soon the sweet shelf was a rainbow of glossy buns. The savory baskets stood in neat rows. The hot croquettes glowed under their warm lamp like a treasure chest of crunchy gold. And the bread — the beautiful, rescued pan — sat soft and proud, each loaf exactly where a customer would want to find it.
 
 The little milk roll caught on quickly and helped, fluffing pillows of bread into place. Even the sausage rolls lined themselves up, embarrassed they'd been such a mess. The melon buns stopped rolling in circles and politely stacked themselves.
 
@@ -110,7 +110,7 @@ But it didn't.
 
 Because everything was *exactly where it should be*.
 
-The grumpy customers found their coffee-bread in two seconds flat. The sleepy ones spotted soft sweet rolls right at eye level. The children squealed and dove for the melon buns, which were stacked at the perfect kid-grabbing height. Hot croquettes flew off the warm shelf. The **パン** practically leapt into people's baskets, fluffy and golden and ready.
+The grumpy customers found their coffee-bread in two seconds flat. The sleepy ones spotted soft sweet rolls right at eye level. The children squealed and dove for the melon buns, which were stacked at the perfect kid-grabbing height. Hot croquettes flew off the warm shelf. The pan practically leapt into people's baskets, fluffy and golden and ready.
 
 The whole terrible rush — the catastrophe, the meltdown, the dragon at the door — melted into the smoothest, happiest, most delicious morning the corner bakery had ever had.
 
@@ -124,7 +124,7 @@ When the rush finally calmed and the bakery glowed warm and full and happy, the 
 
 "You saved the whole morning," the roll said. "You should tell everyone. You should get a medal. You should be on the sign out front!"
 
-Coro turned the color of a perfectly fried croquette. *Pft.* "Oh, goodness, no," he said gently. "I don't need a sign. I don't need a medal." He looked around at the cozy, busy bakery — at the smiling customers, the children with melon-bun crumbs on their cheeks, the **パン** going home in warm paper bags to warm kitchens. "I just wanted everyone fed and happy. That's all I ever want."
+Coro turned the color of a perfectly fried croquette. *Pft.* "Oh, goodness, no," he said gently. "I don't need a sign. I don't need a medal." He looked around at the cozy, busy bakery — at the smiling customers, the children with melon-bun crumbs on their cheeks, the pan going home in warm paper bags to warm kitchens. "I just wanted everyone fed and happy. That's all I ever want."
 
 From up high, Kori dabbed a dramatic syrup-tear from his sunglasses. "He's PERFECT," he whispered. "I can't stand it. Somebody eat me, I'm too moved."
 
@@ -134,11 +134,11 @@ The little roll grinned. "Coro the Korokke," she said, "you're the quietest hero
 
 Then a kind hand reached into the case and chose Coro himself — the crispiest, most golden korokke on the shelf — and Coro felt himself lifted up, warm and crackly and *proud*, ready to be the best, most delicious bite of someone's wonderful morning.
 
-"Crispy outside," he sighed happily, "soft heart inside. Goodbye, little **パン**! Stay fluffy!"
+"Crispy outside," he sighed happily, "soft heart inside. Goodbye, little pan! Stay fluffy!"
 
 And off he went, glowing like a tiny golden firework, finally getting to do the one thing every snack dreams of — making someone's day just a little bit brighter.
 
-The bakery hummed. The **パン** glowed. The morning was saved.
+The bakery hummed. The pan glowed. The morning was saved.
 
 By the smallest helper of all.
 

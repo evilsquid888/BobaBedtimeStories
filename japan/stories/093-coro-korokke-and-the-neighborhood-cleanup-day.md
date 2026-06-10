@@ -1,10 +1,10 @@
 # Story 93: Coro Korokke and the Neighborhood Clean-Up Day
 
 **Main Character:** Coro the Korokke
-**Guest Characters:** None
+**Guest Characters:** Kori Kakigori, Pock Ramune, Momo Mochi, Rin Ramen, Tama Onigiri, Maru Matcha, Tako & Yaki, Kei the kei-truck
 **Setting:** A neighborhood street on community clean-up morning
 **Theme:** A clean, kind town is everyone's job
-**Japanese Spotlight:** きれいにする (kirei ni suru) = to make clean / tidy
+**Japanese Spotlight:** **kirei ni suru** (kee-RAY nee soo-roo) — to make clean / tidy
 
 ---
 
@@ -18,7 +18,7 @@ Not a scary mess. A *silly* mess. A windy night had tipped over the leaf baskets
 
 Coro pressed his soft potato face to the glass. His tummy did a worried little flip.
 
-"Somebody," he said quietly, "should *kirei ni suru*." That meant **きれいにする** (*kirei ni suru*) = to make clean and tidy. "Somebody should make it sparkle again."
+"Somebody," he said quietly, "should **kirei ni suru**." That meant kirei ni suru (kee-RAY nee soo-roo) — to make clean and tidy. "Somebody should make it sparkle again."
 
 Then he gulped. "But I'm only a small croquette. Crispy outside, soft heart inside. Who would listen to *me*?"
 
@@ -34,11 +34,11 @@ And here is the funny thing about sweeping, dear reader: it is almost impossible
 
 "WHO is being COOL and BUSY at this UNCIVILIZED hour?" boomed a dramatic voice.
 
-It was Kori Kakigori, the towering mountain of strawberry shaved ice, leaning out the window with her sunglasses already on even though the sun wasn't up yet. A bead of melt rolled off her ruby-syrup peak.
+It was Kori Kakigori, the towering mountain of strawberry shaved ice, leaning out the window with his sunglasses already on even though the sun wasn't up yet. A bead of melt rolled off his ruby-syrup peak.
 
-"It's just me," squeaked Coro, steam puffing. "Sorry to wake you. I was, um, making the street clean. *Kirei ni suru.* It got messy in the wind, and—" He held up the soggy paper cup. "—and the lucky cat is wearing a hat."
+"It's just me," squeaked Coro the Korokke, steam puffing. "Sorry to wake you. I was, um, making the street clean. *Kirei ni suru.* It got messy in the wind, and—" He held up the soggy paper cup. "—and the lucky cat is wearing a hat."
 
-Kori gasped so hard her condensed-milk swirl wobbled. "The lucky cat is wearing a HAT? That is a fashion EMERGENCY, sweetie, and *also* a tidiness emergency, and I cannot allow either!" She slid down the drainpipe in one cool *whoosh*. "I'm IN. But I work *fast*, because if I stand still I melt, and a puddle does NOT help clean-up, darling."
+Kori gasped so hard his condensed-milk swirl wobbled. "The lucky cat is wearing a HAT? That is a fashion EMERGENCY, sweetie, and *also* a tidiness emergency, and I cannot allow either!" She slid down the drainpipe in one cool *whoosh*. "I'm IN. But I work *fast*, because if I stand still I melt, and a puddle does NOT help clean-up, darling."
 
 "Two of us!" said Coro, and a happy little steam-puff replaced his nervous one.
 
@@ -82,15 +82,15 @@ And — oh, dear reader, you should have *seen* him. Humble little Coro, who an 
 
 "I shall whisk away all muddles," said Maru, with the tiniest smile.
 
-"And me?" asked a teeny eager voice. It was Kei, the butter-yellow kei-truck, bouncing on his springs at the corner. "Putt-putt, what's MY job? I have a whole flatbed! I can carry away the rubbish so it goes where rubbish goes!"
+"And me?" asked a teeny eager voice. It was Kei, the butter-yellow kei-truck, bouncing on her springs at the corner. "Putt-putt, what's MY job? I have a whole flatbed! I can carry away the rubbish so it goes where rubbish goes!"
 
 "PERFECT," said Coro. "Kei, you're our hauler. Putt-putt to the recycling and back."
 
-"PUTT-PUTT, LET'S GO!" beeped Kei, so excited his headlights flashed.
+"PUTT-PUTT, LET'S GO!" beeped Kei, so excited her headlights flashed.
 
 And the clean-up *whooshed* into a glorious, giggly whirl.
 
-Pock zipped up high — *pop! pop! pop!* — knocking the paper-cup hat clean off the lucky cat, who (if you ask Coro) looked *much* more dignified without it. Kori swept so fast she left a frosty shine on the sidewalk, calling "STAY COOL, sweeties — but not TOO cool!" while a little melt-trail followed her like glitter. Momo squished leaf-piles into neat fluffy hills and could not resist diving into one, which scattered it everywhere, which meant she had to squish it again, which she did not mind one bit.
+Pock zipped up high — *pop! pop! pop!* — knocking the paper-cup hat clean off the lucky cat, who (if you ask Coro) looked *much* more dignified without it. Kori Kakigori swept so fast he left a frosty shine on the sidewalk, calling "STAY COOL, sweeties — but not TOO cool!" while a little melt-trail followed him like glitter. Momo squished leaf-piles into neat fluffy hills and could not resist diving into one, which scattered it everywhere, which meant she had to squish it again, which she did not mind one bit.
 
 There was, of course, one moment of muddle.
 
@@ -104,7 +104,7 @@ And they made a rubbish-ball the size of a beach ball, which then — naturally 
 
 "AAH! My BUBBLY TEA!" cried Rin, steam shooting out of his bowl in alarm.
 
-Everyone froze. Coro's heart leapt into his crispy throat.
+Everyone froze. Coro the Korokke's heart leapt into his crispy throat.
 
 But Maru Matcha simply stepped sideways, lifted her bamboo whisk, and gave the runaway rubbish-ball one calm, perfectly-timed *tap*. It wobbled, slowed, tipped — and rolled gently, *gently*, straight up the ramp into Kei's open flatbed with a soft *flump*.
 
@@ -118,11 +118,11 @@ Because that is the secret of a clean-up, and it is the secret Coro learned that
 
 The sun rose all the way up. And the street — oh, the street *sparkled*. The sidewalk shone. The leaf-piles sat in tidy bags. The lucky cat gleamed, hatless and proud. Even the hedge that had eaten the three napkins looked freshly combed.
 
-Coro stood in the middle of it all, completely amazed, a soft puff of *happy* steam rising off his golden head.
+Coro the Korokke stood in the middle of it all, completely amazed, a soft puff of *happy* steam rising off his golden head.
 
 "We did it," he whispered. "We made it *kirei*. We made it clean."
 
-"*You* did it," said Momo, scooping him into a group squish so big it pulled in Kori and Rin and Tama and Maru and zippy Pock all at once. "You woke up before the sun and started — and starting is the bravest part!"
+"*You* did it," said Momo, scooping him into a group squish so big it pulled in Kori Kakigori and Rin and Tama and Maru and zippy Pock all at once. "You woke up before the sun and started — and starting is the bravest part!"
 
 "Crispy outside," said Coro, his voice wobbly with joy, "soft heart inside."
 

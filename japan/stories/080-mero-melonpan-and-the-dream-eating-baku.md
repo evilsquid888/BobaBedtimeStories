@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A cozy bedroom at night visited by a gentle dream-eating baku
 **Theme:** A good friend can chase away a bad dream
-**Japanese Spotlight:** ゆめ (yume) = dream
+**Japanese Spotlight:** **yume** (yoo-meh) — dream
 
 ---
 
@@ -16,7 +16,7 @@ On this particular night, Mero was curled in the windowsill of a cozy little bed
 
 Then he heard it. A sniffle.
 
-Not his sniffle. A sad, small, worried sniffle coming from the bed across the room, where a little dumpling named Poko had fallen asleep with her eyebrows all scrunched up.
+Not his sniffle. A sad, small, worried sniffle coming from the bed across the room, where a little dumpling named Fuku had fallen asleep with her eyebrows all scrunched up.
 
 Mero blinked one sleepy eye open. A scrunched-up sleeper was a puzzle worth waking *almost* all the way up for.
 
@@ -24,15 +24,15 @@ Mero blinked one sleepy eye open. A scrunched-up sleeper was a puzzle worth waki
 
 Mero rolled off the windowsill with a soft *floomp* and waddled across the rug, leaving a trail of sparkling crumbs behind him like a snail made of pastry.
 
-"Poko?" he whispered. "Friend-dumpling? You're making the worried-eyebrows."
+"Fuku?" he whispered. "Friend-dumpling? You're making the worried-eyebrows."
 
-Poko did not answer, because Poko was deeply, snorily asleep. But her little hands were balled into fists, and she kept whimpering, "No… no, don't take the lantern… the lantern…"
+Fuku did not answer, because Fuku was deeply, snorily asleep. But her little hands were balled into fists, and she kept whimpering, "No… no, don't take the lantern… the lantern…"
 
-Mero tilted his domed head. He understood at once, the way only a very dreamy creature can. Poko wasn't just sleeping. She was stuck inside a bad **ゆめ** (yume) = dream — a worried little dream that had wrapped around her like a scratchy blanket nobody wants.
+Mero tilted his domed head. He understood at once, the way only a very dreamy creature can. Fuku wasn't just sleeping. She was stuck inside a bad **yume** (yoo-meh) — a dream — a worried little dream that had wrapped around her like a scratchy blanket nobody wants.
 
 "Oh dear," Mero said, very softly. "Oh, that won't do at all. Dreams are supposed to be the *comfy* part of the night."
 
-He patted Poko's pillow with one fluffy paw. "There, there. Crackle on the outside…" He yawned an enormous yawn. "…dreams on the inside. We'll fix the inside."
+He patted Fuku's pillow with one fluffy paw. "There, there. Crackle on the outside…" He yawned an enormous yawn. "…dreams on the inside. We'll fix the inside."
 
 But how does one fix a dream? Mero, being mostly made of sweet bread and sleepiness, did not have a single clue. He only knew one thing for certain: when a dream went wrong, you did not leave a friend alone inside it. You called for help.
 
@@ -46,7 +46,7 @@ Mero shuffled to the open window and cupped his crumbly paws around his mouth. T
 
 For a moment, nothing happened. An owl somewhere said *who*, which is a very nosy thing for an owl to say.
 
-Then the curtains breathed inward, and in floated the **獏** (baku) = dream-eater.
+Then the curtains breathed inward, and in floated the **baku** (bah-koo) — the dream-eater.
 
 Now, here is where I must stop and tell you something, because you might be picturing something with too many teeth. Long, long ago, people said the baku was a great beast that wandered the night swallowing nightmares so children could sleep in peace. But *this* baku — well. This baku was about the size of a teapot.
 
@@ -54,9 +54,9 @@ He was round and plush and the soft blue-grey of a cloud at bedtime, with a litt
 
 "Mero!" Buku whispered, wobbling through the air on tiny invisible wings. "You called! Is it snack time? Did somebody have a goodnight wobble?"
 
-"A worried one," Mero whispered back, pointing a paw at Poko's scrunched eyebrows. "She's stuck in a no-good dream. I think there's a lantern in it that someone keeps taking away."
+"A worried one," Mero whispered back, pointing a paw at Fuku's scrunched eyebrows. "She's stuck in a no-good dream. I think there's a lantern in it that someone keeps taking away."
 
-Buku floated over and peered at Poko, his trunk twitching like a curious noodle. "Mm. Mm-hm. Yes. I smell it." He sniffed. "Worry-flavored. A little salty. A little stormy. *Definitely* needs a nibble."
+Buku floated over and peered at Fuku, his trunk twitching like a curious noodle. "Mm. Mm-hm. Yes. I smell it." He sniffed. "Worry-flavored. A little salty. A little stormy. *Definitely* needs a nibble."
 
 "Will it hurt her?" Mero asked, because even a sleepy melon bread checks on his friends first.
 
@@ -68,7 +68,7 @@ Mero's whole crusty face lit up. "Oh, I *love* that. I do that with raisins."
 
 ---
 
-Buku floated close to Poko's pillow, hovering just above her scrunched-up nose. He took a slow breath, and his round tummy got even rounder, like a balloon at a birthday party.
+Buku floated close to Fuku's pillow, hovering just above her scrunched-up nose. He took a slow breath, and his round tummy got even rounder, like a balloon at a birthday party.
 
 But then he paused. "Hmm," he said. "I've found a knot."
 
@@ -82,13 +82,13 @@ Buku's velvet ears drooped. "Kindness, usually. A friendly voice on the *inside*
 
 Mero gulped. The inside of someone else's bad dream? That sounded like the opposite of a windowsill nap. That sounded *exciting* in the way that makes your tummy fold over.
 
-But across the room, Poko whimpered again. "Don't take the lantern…"
+But across the room, Fuku whimpered again. "Don't take the lantern…"
 
 And Mero remembered that a friend in a scary place should never, ever be left alone there.
 
 "Okay," he whispered, puffing up his chest until his crust crackled bravely. "I'll go in. How do I get inside a dream?"
 
-Buku grinned. "Easy. The same way you do everything, Mero." He patted the pillow beside Poko. "You take a nap."
+Buku grinned. "Easy. The same way you do everything, Mero." He patted the pillow beside Fuku. "You take a nap."
 
 ---
 
@@ -96,25 +96,25 @@ So Mero climbed up, snuggled close to his worried friend, closed his sleepy eyes
 
 He fell asleep.
 
-And *whoosh* — down he tumbled, soft as a snowflake, into Poko's dream.
+And *whoosh* — down he tumbled, soft as a snowflake, into Fuku's dream.
 
-It was grey in there. Grey and rainy, with a lonely path winding through wind that tugged and pulled. And there, far ahead, Poko stood holding a little paper lantern, while a gust of wind kept trying to snatch it away from her hands.
+It was grey in there. Grey and rainy, with a lonely path winding through wind that tugged and pulled. And there, far ahead, Fuku stood holding a little paper lantern, while a gust of wind kept trying to snatch it away from her hands.
 
-"My lantern!" dream-Poko cried. "If it goes out I'll be all alone in the dark and I'll never find my way and—"
+"My lantern!" dream-Fuku cried. "If it goes out I'll be all alone in the dark and I'll never find my way and—"
 
 "Hello!" said Mero, plopping down beside her with a friendly *floomp*.
 
-Poko blinked at the sparkly bread that had appeared out of nowhere. "Mero? What are you—the wind! It's taking my light!"
+Fuku blinked at the sparkly bread that had appeared out of nowhere. "Mero? What are you—the wind! It's taking my light!"
 
 Mero looked at the wind. Then he looked at the lantern. Then he did the most Mero thing imaginable: he sat down, leaned his fluffy crackly body against hers, and said, "You know what? Even if the lantern blows out, you wouldn't be alone. Because I'd be right here. And I glow."
 
 He smiled wide, and — would you believe it — his sugary crust began to give off the softest golden light, the warm color of a kitchen at breakfast.
 
-"You… glow?" Poko whispered.
+"You… glow?" Fuku whispered.
 
 "All melon breads glow a little," Mero said cozily. "It's the crackle. Catches the light and keeps it. Squish up close and you'll see."
 
-Poko squished up close. And as she did, the scary wind began to feel less like a storm and more like a breeze. The knot in the dream — the tight, scratchy worried part — went *loose*.
+Fuku squished up close. And as she did, the scary wind began to feel less like a storm and more like a breeze. The knot in the dream — the tight, scratchy worried part — went *loose*.
 
 ---
 
@@ -126,11 +126,11 @@ And ever so gently — *snrrf-snrrf* — he nibbled. He nibbled out the cold gre
 
 His tummy got round and full, and he gave a tiny, polite, milk-scented burp. "Excuse me," he said.
 
-Down in the dream, the grey melted away into a soft pink-and-gold morning. The wind became a gentle hum. And the little paper lantern? It glowed steady and bright, because dream-Mero was holding it up beside dream-Poko, and the two of them were walking down a sunny path lined with marshmallows the size of beanbag chairs.
+Down in the dream, the grey melted away into a soft pink-and-gold morning. The wind became a gentle hum. And the little paper lantern? It glowed steady and bright, because dream-Mero was holding it up beside dream-Fuku, and the two of them were walking down a sunny path lined with marshmallows the size of beanbag chairs.
 
-Poko's scrunched-up eyebrows finally, *finally* smoothed out. The corners of her sleeping mouth turned up. She sighed — a happy, snuggly sigh — and her balled-up fists opened like two little flowers.
+Fuku's scrunched-up eyebrows finally, *finally* smoothed out. The corners of her sleeping mouth turned up. She sighed — a happy, snuggly sigh — and her balled-up fists opened like two little flowers.
 
-The bad dream was gone. Only the sweet **ゆめ** (yume) remained.
+The bad dream was gone. Only the sweet yume remained.
 
 ---
 
@@ -142,11 +142,11 @@ Mero floated back up out of sleep just enough to crack one eye open. Buku was ho
 
 "It always is." Buku drifted toward the window, his ears flapping slow and sleepy. "I'll come back if she ever needs another nibble. But I don't think she will. A friend showed up in her dream and *glowed* for her. That's the kind of thing that keeps the grumpy dreams away all on its own."
 
-He paused at the curtain and looked back. "Goodnight, Mero. Goodnight, little Poko."
+He paused at the curtain and looked back. "Goodnight, Mero. Goodnight, little Fuku."
 
 And with a soft *poof* of milk and clean laundry, the gentlest eater in all the night was gone.
 
-Mero snuggled deeper into the pillow beside his friend. Poko, fast asleep and finally peaceful, reached over and squished him close, the way you hug a stuffed animal without ever waking up.
+Mero snuggled deeper into the pillow beside his friend. Fuku, fast asleep and finally peaceful, reached over and squished him close, the way you hug a stuffed animal without ever waking up.
 
 Mero didn't mind one bit. Being squished was his very favorite thing.
 
@@ -157,9 +157,9 @@ Then the snore came back — *hooo… pah… hooo… pah* — soft as a kitten s
 ---
 
 ## Goodnight Blessing
-May your pillow be soft and your dreams be sweeter still, little one. If a worried thought ever tiptoes in while you sleep, remember that a kind friend can chase it gently away — and that you are never, ever alone in the dark. Let the night hold you like a warm bun held close, and let only the good **ゆめ** (yume) stay. Breathe slow. Squish your blanket tight. Goodnight.
+May your pillow be soft and your dreams be sweeter still, little one. If a worried thought ever tiptoes in while you sleep, remember that a kind friend can chase it gently away — and that you are never, ever alone in the dark. Let the night hold you like a warm bun held close, and let only the good yume stay. Breathe slow. Squish your blanket tight. Goodnight.
 
 ## AI Image Prompts
-1. Key scene — warm whimsical storybook illustration, soft glowing palette of pink, gold, and gentle grey-blue. Inside a child's dream: little round dumpling Poko holding a paper lantern on a misty path, while Mero Melonpan (a puffy domed bun with crackly golden-green cross-hatched crust and sleepy happy eyes) sits beside her, his sugary crust glowing soft kitchen-gold and pushing back the grey wind. Cozy, reassuring, magical mood; dreamy painterly lighting like a nightlight.
+1. Key scene — warm whimsical storybook illustration, soft glowing palette of pink, gold, and gentle grey-blue. Inside a child's dream: little round dumpling Fuku holding a paper lantern on a misty path, while Mero Melonpan (a puffy domed bun with crackly golden-green cross-hatched crust and sleepy happy eyes) sits beside her, his sugary crust glowing soft kitchen-gold and pushing back the grey wind. Cozy, reassuring, magical mood; dreamy painterly lighting like a nightlight.
 2. Character portrait — Mero Melonpan, a fluffy domed sweet bread with a crackly golden-green cross-hatched crust and sparkling crumbs, half-asleep on a moonlit windowsill, one eye gently open, a tiny puff of bread-steam rising as a snore. Soft, sleepy, sweet expression. Warm storybook palette, gentle moonlight, cozy kawaii style.
-3. Closing scene — a cozy moonlit bedroom, Poko the dumpling and Mero Melonpan asleep together on one little bed, Poko hugging Mero close with a peaceful smile, Mero's crust glowing faint gold. By the window, the tiny plush blue-grey baku named Buku floats away with a round happy tummy, curly trunk and velvet pillow-ears, leaving a soft poof. Tender, sleepy, safe mood; warm whimsical storybook lighting.
+3. Closing scene — a cozy moonlit bedroom, Fuku the dumpling and Mero Melonpan asleep together on one little bed, Fuku hugging Mero close with a peaceful smile, Mero's crust glowing faint gold. By the window, the tiny plush blue-grey baku named Buku floats away with a round happy tummy, curly trunk and velvet pillow-ears, leaving a soft poof. Tender, sleepy, safe mood; warm whimsical storybook lighting.

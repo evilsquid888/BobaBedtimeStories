@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** The endless tunnel of vermilion torii gates at Fushimi Inari, Kyoto
 **Theme:** You don't need to see the end to enjoy the path
-**Japanese Spotlight:** あかい (akai) = red
+**Japanese Spotlight:** **akai** (ah-kah-ee) — red
 
 ---
 
@@ -12,7 +12,7 @@ Niko Nigiri arrived at the foot of the mountain exactly on time, which was, in h
 
 "Today," Niko announced to nobody in particular, because nobody in particular was the most reliable audience, "I shall count every single gate. All one thousand of them. Neatly."
 
-Above him stretched the most marvelous sight in all of Kyoto: a tunnel of **torii** (toh-ree) = shrine gates, glowing **あかい** (akai) = red, marching up the mountainside like a great wooden caterpillar made of doorways. Sunlight slipped between them in warm orange ribbons.
+Above him stretched the most marvelous sight in all of Kyoto: a tunnel of **torii** (toh-ree) — shrine gates, glowing **akai** (ah-kah-ee) — red, marching up the mountainside like a great wooden caterpillar made of doorways. Sunlight slipped between them in warm orange ribbons.
 
 "One," said Niko, ticking his clipboard. "Two. Three." He walked faster. "Four-five-six-seveneightnine—"
 
@@ -34,7 +34,7 @@ First he stood on his very tippy-rice-toes and stretched his neck up high. He sa
 
 The cat looked at him, blinked slowly, and went back to washing its paw — which Niko took to mean *that is a you problem, rice friend.*
 
-Next he tried climbing the **やま** (yama) = mountain off to the side, to get a better view. But the mountain was steep and mossy, and Niko was shaped like a small pillow, and pillows are famously bad at climbing. He slid right back down with a *swooooosh* and landed — *floomp* — exactly where he'd started.
+Next he tried climbing the **yama** (yah-mah) — mountain — off to the side, to get a better view. But the mountain was steep and mossy, and Niko was shaped like a small pillow, and pillows are famously bad at climbing. He slid right back down with a *swooooosh* and landed — *floomp* — exactly where he'd started.
 
 "Fourteen gates counted," he reported to the cat. "And one whole mountain *un*-climbed. Marvelously efficient."
 
@@ -54,7 +54,7 @@ Niko sat down properly this time and pulled out a fresh sheet on his clipboard. 
 
 He stopped. He'd been about to say *or deliciously*, which was the other half of his catchphrase, the half he said when plans went sideways and a fellow simply had to roll with surprises. But rolling with surprises was precisely the thing Niko found hardest. Surprises did not fit in neat boxes. Surprises did not announce themselves on time.
 
-A small breeze wandered down through the tunnel just then. It made every red gate hum a low, gentle note — *hmmmmmm* — like the whole mountain was a giant wooden harmonica played by the sky. The warm light shifted, and for one cozy second the tunnel ahead glowed so brightly **あかい** that Niko forgot all about his clipboard.
+A small breeze wandered down through the tunnel just then. It made every red gate hum a low, gentle note — *hmmmmmm* — like the whole mountain was a giant wooden harmonica played by the sky. The warm light shifted, and for one cozy second the tunnel ahead glowed so brightly akai that Niko forgot all about his clipboard.
 
 "Oh," he said softly. "That's rather... nice."
 
@@ -62,7 +62,7 @@ Then he caught himself, sat up straight, and said sternly, "Focus, Niko. We have
 
 ---
 
-He marched on. Gate fifteen. Gate sixteen. Each one was painted that deep, warm, lantern-glow **あかい**, with black characters down the wooden posts. Niko told himself he didn't have time to read them; he only had time to count them. So he counted, faster and faster, until the gates began to blur into one long red smear and his little legs ached and his salmon cape drooped and he hadn't actually *seen* a single gate in ages — he'd only *numbered* them.
+He marched on. Gate fifteen. Gate sixteen. Each one was painted that deep, warm, lantern-glow akai, with black characters down the wooden posts. Niko told himself he didn't have time to read them; he only had time to count them. So he counted, faster and faster, until the gates began to blur into one long red smear and his little legs ached and his salmon cape drooped and he hadn't actually *seen* a single gate in ages — he'd only *numbered* them.
 
 At gate forty-something (he'd lost the exact figure during the slide down the mountain, which still bothered him deeply), Niko reached a quiet bend where the path split in two. Two red tunnels, side by side, both vanishing around their own curves.
 
@@ -74,7 +74,7 @@ It was here, at the splitting of the path, that Niko met the fox.
 
 ---
 
-She was a small stone **きつね** (kitsune) = fox, the kind that guards shrines, sitting tidily on a little pedestal beside the gates. She had a chip on one ear and a face worn smooth and kind by a hundred years of rain. And — this is the marvelous part, the part you'd only believe at bedtime — when Niko looked at her, she gave the tiniest stone wink.
+She was a small stone **kitsune** (kee-tsoo-neh) — fox, the kind that guards shrines, sitting tidily on a little pedestal beside the gates. She had a chip on one ear and a face worn smooth and kind by a hundred years of rain. And — this is the marvelous part, the part you'd only believe at bedtime — when Niko looked at her, she gave the tiniest stone wink.
 
 "You're in an awful hurry," said the fox, in a voice like dry leaves and warm tea, "for someone walking through somewhere so lovely."
 
@@ -120,7 +120,7 @@ He found a tiny stream chattering down beside the path, so cold and clear it mad
 
 He never did count to a thousand. Somewhere up near the top, where the trees opened and all of Kyoto lay below him like a bowl of twinkling lights, Niko realized he'd stopped counting entirely a long, long time ago — and that nothing bad had happened at all. The gates had not run away. The path had not broken. The world had not become un-neat. It had simply become *lovely*, one gate at a time.
 
-He sat at the very top as the sky turned the same deep **あかい** as the gates, until the mountain and the sunset were one single warm red glow, and he could not tell where the doorways ended and the evening began.
+He sat at the very top as the sky turned the same deep akai as the gates, until the mountain and the sunset were one single warm red glow, and he could not tell where the doorways ended and the evening began.
 
 "You know," Niko told the first evening star, very straight and very proud, "I think the path enjoyed me right back."
 

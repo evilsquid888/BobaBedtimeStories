@@ -1,18 +1,18 @@
 # Story 10: Tai and the Batter Fish
 
 **Main Character:** Tai Taiyaki (taiyaki)
-**Guest Characters:** Hong Dou
+**Guest Characters:** Hong Dou, Dora the Dorayaki
 **Setting:** A street stall
 **Theme:** Fill with sweetness
-**Word Spotlight:** たい焼き (taiyaki) = fish-shaped cake
+**Word Spotlight:** **taiyaki** (tie-yah-kee) — fish-shaped cake
 
 ---
 
-On a corner of the night market, where the lanterns swung like sleepy fireflies, there was a little stall that smelled like warm cake and happy mornings. Behind the counter stood **Tai Taiyaki** — a plump golden cake shaped exactly like a fish, with crispy fins, a curl of a tail, and two cheerful eyes baked right into his face. He was, in fact, a **たい焼き** (taiyaki) = fish-shaped cake, which is a very dignified thing to be, even when you are also delicious.
+On a corner of the night market, where the lanterns swung like sleepy fireflies, there was a little stall that smelled like warm cake and happy mornings. Behind the counter stood **Tai Taiyaki** — a plump golden cake shaped exactly like a fish, with crispy fins, a curl of a tail, and two cheerful eyes baked right into his face. He was, in fact, a **taiyaki** (tie-yah-kee) — a fish-shaped cake — which is a very dignified thing to be, even when you are also delicious.
 
 "Today," Tai announced, flapping a fin, "we are going FISHING."
 
-His friend Dora blinked. "There's no water here."
+His friend Dora the Dorayaki blinked. Dora was a round golden pancake-sandwich — two fluffy little pancakes hugging a layer of sweet filling in the middle — with bright curious eyes and crumbs of yesterday's snack still on her cheek. "There's no water here."
 
 "Exactly!" said Tai. "We're going to fish *for* fish... by *making* fish... out of batter." He grinned his baked-in grin. "Best kind of fishing. Nobody gets wet, and at the end, you get to eat the catch."
 
@@ -24,11 +24,11 @@ From a cozy jar near the back, a small ruby bean hopped onto the counter. This w
 
 "Did somebody say taiyaki?" Hong Dou bounced twice. "Because I am the SWEET part. No taiyaki is complete without me. I'm basically the treasure inside the treasure chest."
 
-"He's not wrong," whispered Tai. "He's a little dramatic. But he's not wrong."
+"She's not wrong," whispered Tai. "She's a little dramatic. But she's not wrong."
 
-Hong Dou bowed so low he nearly rolled off the counter, which made Dora giggle.
+Hong Dou bowed so low she nearly rolled off the counter, which made Dora giggle.
 
-"All right, little fishers," said Tai, rolling up his crispy sleeves. "If we want to catch a whole **学校** (xuéxiào)... no wait, that means *school* like a building." He tapped his fin to his chin. "I mean a school of fish! A SCHOOL OF FISH. The swimmy kind." He laughed at himself. "Mandarin is tricky before breakfast."
+"All right, little fishers," said Tai, rolling up his crispy sleeves. "If we want to catch a whole **xuexiao** (shweh-shyaow)... no wait, that means *school* like a building." He tapped his fin to his chin. "I mean a school of fish! A SCHOOL OF FISH. The swimmy kind." He laughed at himself. "Mandarin is tricky before breakfast."
 
 "Step one," he said grandly. "We stir the batter."
 
@@ -42,7 +42,7 @@ Dora stirred slow circles. *Swish, swish, swish.* The batter went from sleepy an
 
 "That's a perfect batter," Tai said proudly. "Smooth as a lullaby. Not too thick, not too thin — it should pour like syrup that's in no particular hurry."
 
-Hong Dou peered into the bowl. "It looks at me," he whispered. "It's going to become my cozy little blanket. I can FEEL it."
+Hong Dou peered into the bowl. "It looks at me," she whispered. "It's going to become my cozy little blanket. I can FEEL it."
 
 "You're a very poetic bean," said Tai.
 
@@ -66,9 +66,9 @@ Dora handed Auntie Mei the bowl, and Auntie Mei poured the batter into the fish-
 
 "Not too much yet!" coached Tai. "We need room for the treasure."
 
-And here Hong Dou drew himself up to his full and very small height.
+And here Hong Dou drew herself up to her full and very small height.
 
-"It is MY time," he announced.
+"It is MY time," she announced.
 
 Auntie Mei scooped a soft spoonful of sweet red bean paste — smooth, jammy, the color of cozy — and laid it gently right down the middle of each batter fish.
 
@@ -104,9 +104,9 @@ They waited. And waiting, it turns out, is the hardest part of fishing.
 
 "This is the fishing part," Tai agreed. "Every fisher knows: the river decides when. We just hold the rod and believe." He winked. "And smell the lovely smells while we wait, which is a perk that real fishing absolutely does not have."
 
-Hong Dou, snug inside his cake, gave a tiny muffled cheer. "It's getting toasty in here! Cozy-toasty! Best nap I've ever had!"
+Hong Dou, snug inside her cake, gave a tiny muffled cheer. "It's getting toasty in here! Cozy-toasty! Best nap I've ever had!"
 
-Dora pressed her nose to the counter. Hong Dou hummed a cozy tune from inside his cake. Auntie Mei peeked carefully under the mold — *just a peek* — and smiled.
+Dora pressed her nose to the counter. Hong Dou hummed a cozy tune from inside her cake. Auntie Mei peeked carefully under the mold — *just a peek* — and smiled.
 
 "Golden," she said.
 
@@ -132,13 +132,13 @@ So Dora bit the tail. *Crunch.* Warm and crispy and cakey. She chewed her way al
 
 "MMMF!" said Dora, exactly as promised.
 
-"THAT'S ME!" said Hong Dou proudly, from the new taiyaki he was peeking out of. "Sweet in the middle, every single time."
+"THAT'S ME!" said Hong Dou proudly, from the new taiyaki she was peeking out of. "Sweet in the middle, every single time."
 
 Tai looked around at his cozy little stall — at the warm pan, the flour on Auntie Mei's nose, the lanterns swinging, his friend with red bean on her chin and the biggest smile in the whole night market.
 
 "You know," he said softly, "the best part of a taiyaki isn't even the eating. It's the *sharing*. A fish you make with friends always tastes the sweetest."
 
-And so they shared the whole school of batter fish — one for Dora, one for Auntie Mei, one for the lantern-seller next door, and three for Hong Dou (because he insisted he needed to "quality check the filling"), until everyone's tummies were warm and round and content.
+And so they shared the whole school of batter fish — one for Dora, one for Auntie Mei, one for the lantern-seller next door, and three for Hong Dou (because she insisted she needed to "quality check the filling"), until everyone's tummies were warm and round and content.
 
 ---
 
@@ -156,6 +156,6 @@ And so they shared the whole school of batter fish — one for Dora, one for Aun
 Sleep now, little fisher, all cozy and round. You stirred something sweet today, and you tucked a treasure in the middle just so. May your dreams be golden as cake from the pan, warm as a tail-first bite, and filled — right in the center — with everything sweet. The lanterns are dimming. The pan is quiet. The little fish are sleeping, belly-full and proud. Goodnight.
 
 ## AI Image Prompts
-1. **Key scene:** A cozy night market stall, warm lantern glow, a cheerful golden taiyaki character (fish-shaped cake with baked-in smile and fins) coaching a little girl-friend and a tiny round red bean character while a kind aunt with flour on her nose pours batter into a fish-shaped iron mold on a stove, steam rising, storybook illustration, soft warm colors.
+1. **Key scene:** A cozy night market stall, warm lantern glow, a cheerful golden taiyaki character (fish-shaped cake with baked-in smile and fins) coaching Dora the dorayaki (a round golden pancake-sandwich character with a cheerful face) and a tiny round red bean character while a kind aunt with flour on her nose pours batter into a fish-shaped iron mold on a stove, steam rising, storybook illustration, soft warm colors.
 2. **Character portrait:** Tai Taiyaki — a plump, golden, fish-shaped cake with crispy fins, a curled tail, two cheerful baked-in eyes and a friendly smile, wearing a tiny apron, standing proudly; alongside Hong Dou, a small glossy ruby-red bean with a happy face; whimsical children's book style, warm lighting, soft background.
-3. **Closing scene:** A little girl with red bean on her chin biting the tail of a freshly made golden taiyaki, sweet red bean paste peeking from the middle, swinging paper lanterns overhead, a row of fish-shaped cakes cooling on the counter, cozy and warm, soft nighttime glow, gentle storybook illustration.
+3. **Closing scene:** Dora the dorayaki — a round golden pancake-sandwich character — with red bean on her chin, biting the tail of a freshly made golden taiyaki, sweet red bean paste peeking from the middle, swinging paper lanterns overhead, a row of fish-shaped cakes cooling on the counter, cozy and warm, soft nighttime glow, gentle storybook illustration.

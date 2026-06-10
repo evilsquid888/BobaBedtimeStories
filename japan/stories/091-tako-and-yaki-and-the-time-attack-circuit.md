@@ -4,11 +4,11 @@
 **Guest Characters:** Kei the kei-truck
 **Setting:** A tidy little go-kart-style circuit under the evening lights
 **Theme:** Finishing together beats finishing first
-**Japanese Spotlight:** 速い (hayai) = fast
+**Japanese Spotlight:** **hayai** (hah-YAH-ee) — fast
 
 ---
 
-The trouble with being two golden batter-balls connected by a wobbly little wave of bonito flakes is that you can never, ever do anything halfway. If Tako wanted to roll left, Yaki rolled left. If Yaki sneezed, Tako bounced. And on this particular cozy evening, when a glowing sign blinked on at the edge of the night market — **タイムアタック！** (taimu atakku!) = TIME ATTACK! — both of them gasped at exactly the same moment, which made one very loud double-gasp.
+The trouble with being two golden batter-balls connected by a wobbly little wave of bonito flakes is that you can never, ever do anything halfway. If Tako wanted to roll left, Yaki rolled left. If Yaki sneezed, Tako bounced. And on this particular cozy evening, when a glowing sign blinked on at the edge of the night market — **Taimu Atakku!** (TIE-moo ah-TAHK-koo) — TIME ATTACK! — both of them gasped at exactly the same moment, which made one very loud double-gasp.
 
 "Did you SEE that?" said Tako.
 
@@ -26,13 +26,13 @@ The circuit was the tidiest, cutest racetrack you ever did see. It curled around
 
 It was, all in all, the kind of place that practically begged two giggly batter-balls to come and have an adventure. Which is exactly what they intended to do.
 
-Parked at the starting gate, humming and bouncing on his springs, was a teeny butter-yellow mini-truck with big round headlight eyes and a knitted seat-cover sweater.
+Parked at the starting gate, humming and bouncing on her springs, was a teeny butter-yellow mini-truck with big round headlight eyes and a knitted seat-cover sweater.
 
 "Putt-putt!" beeped Kei the kei-truck happily. "You two are racing? Oh, this is going to be FUN. Hop on the flatbed, I'll be your race-car for the night!"
 
 Tako and Yaki rolled up the little ramp and plopped onto Kei's stubby flatbed, snug as two eggs in a nest.
 
-"Now here's how the time-attack works," Kei explained, headlights twinkling. "It's not about beating other racers. There aren't even any other racers tonight! It's just you, me, the track, and the clock. We do one smooth lap, and the timer tells us how **速い** (hayai) = fast we went. Fast is fun! But smooth is the secret."
+"Now here's how the time-attack works," Kei explained, headlights twinkling. "It's not about beating other racers. There aren't even any other racers tonight! It's just you, me, the track, and the clock. We do one smooth lap, and the timer tells us how **hayai** (hah-YAH-ee) — fast — we went. Fast is fun! But smooth is the secret."
 
 "Smooth," repeated Tako, in the unconvinced way one says a word they've already decided to ignore.
 
@@ -42,15 +42,15 @@ Tako and Yaki rolled up the little ramp and plopped onto Kei's stubby flatbed, s
 
 "We're going to be the FASTEST," said Yaki.
 
-"That," said Kei gently, his little engine going *putt-putt-putt*, "is exactly what every racer says right before the puddle."
+"That," said Kei gently, her little engine going *putt-putt-putt*, "is exactly what every racer says right before the puddle."
 
 "What puddle?" asked the twins.
 
-Kei just smiled his round headlight smile and didn't answer, which is the most suspicious thing a kei-truck can do.
+Kei just smiled her round headlight smile and didn't answer, which is the most suspicious thing a kei-truck can do.
 
 ---
 
-The starting light blinked green. Kei's engine went *VROOM* — well, more of a polite *vroooom*, because he was a very small truck — and off they zipped down the first straightaway.
+The starting light blinked green. Kei's engine went *VROOM* — well, more of a polite *vroooom*, because she was a very small truck — and off they zipped down the first straightaway.
 
 "WHEEEE!" cried the twins, bonito wave flapping in the wind. The lanterns blurred into ribbons of gold. The little hill rose up ahead.
 
@@ -72,7 +72,7 @@ You can probably guess what happens when one twin leans left and the other leans
 
 "Then why are you so WRONG with them?!"
 
-Kei wiggled his wheels and gently bumped them back into the center of the flatbed before they could spin themselves into butter. "Okay, okay! Little wobble. We're fine! Nobody's hurt, nobody's a smoothie." He chuckled, *putt-putt*, and rolled them carefully the rest of the way around the track and across the finish line. A friendly buzzer went *beep-boop*, and the timer on the big board lit up.
+Kei wiggled her wheels and gently bumped them back into the center of the flatbed before they could spin themselves into butter. "Okay, okay! Little wobble. We're fine! Nobody's hurt, nobody's a smoothie." She chuckled, *putt-putt*, and rolled them carefully the rest of the way around the track and across the finish line. A friendly buzzer went *beep-boop*, and the timer on the big board lit up.
 
 The twins squinted. "That's... a very BIG number."
 
@@ -84,7 +84,7 @@ Tako and Yaki looked at each other, which, since they shared a wobble, meant the
 
 "WAY better," said Yaki. "We just have to go FASTER."
 
-Kei opened his little headlight eyes very wide. "Ohhh," he said. "Here comes the puddle."
+Kei opened her little headlight eyes very wide. "Ohhh," she said. "Here comes the puddle."
 
 ---
 
@@ -96,7 +96,7 @@ So they tried again. And this time, the twins decided that the way to go fast wa
 
 "Hayai-hayai-HAYAI!"
 
-Poor Kei rattled and bounced, his knitted sweater nearly flying off. He hit the little hill at top speed, went *boing* off the top like a tiny yellow grasshopper, and landed — *splash!* — right in the middle of a shallow puddle the lantern-keeper had made when watering the flowerpots.
+Poor Kei rattled and bounced, her knitted sweater nearly flying off. She hit the little hill at top speed, went *boing* off the top like a tiny yellow grasshopper, and landed — *splash!* — right in the middle of a shallow puddle the lantern-keeper had made when watering the flowerpots.
 
 A gentle, polite, very wet puddle.
 
@@ -104,7 +104,7 @@ A gentle, polite, very wet puddle.
 
 Water arced up in a beautiful glittering fan, caught the lantern-light like a thousand tiny diamonds, and came right back down — *splat* — all over two surprised takoyaki.
 
-Kei's wheels spun. His headlights blinked. A single dignified drop of water rolled off his mud-flap and went *plip*. "Told you," he beeped, "about the puddle."
+Kei's wheels spun. Her headlights blinked. A single dignified drop of water rolled off her mud-flap and went *plip*. "Told you," she beeped, "about the puddle."
 
 Tako and Yaki sat in stunned, soggy silence. Their sauce had gone all swirly. Their bonito wave drooped like a wet noodle.
 
@@ -114,13 +114,13 @@ And then — because they were nine-year-old-at-heart takoyaki twins and not gru
 
 "Your face is MY face, we look the SAME!" howled Yaki, and that made them laugh even harder, until they were two damp golden balls hiccupping on a damp yellow truck.
 
-When the giggles finally settled into warm little wheezes, Kei rolled them out of the puddle and shook himself dry like a happy dog. "You know," he said thoughtfully, "you two are the funnest racers I've ever carried. You're just not the smoothest. Yet."
+When the giggles finally settled into warm little wheezes, Kei rolled them out of the puddle and shook herself dry like a happy dog. "You know," she said thoughtfully, "you two are the funnest racers I've ever carried. You're just not the smoothest. Yet."
 
 "How do we get smooth?" asked the twins.
 
-"Well," said Kei, "you've been trying to go fast by pulling against each other. Every time, one of you yanks left and one of you yanks right, and all that yanking has to go *somewhere*. So it turns into spinning. And puddles." He tilted his headlights thoughtfully toward the wobbly bonito wave that joined them. "But here's a kei-truck secret." He lowered his voice to a cozy little hum. "**一緒に** (issho ni) = together. The fastest cars in the whole wide world don't have wheels that fight. Four wheels, one direction — that's all it is. Smoothness isn't slow. Smoothness is just *fast with no fighting*. So stop racing *each other*. Start racing *with* each other."
+"Well," said Kei, "you've been trying to go fast by pulling against each other. Every time, one of you yanks left and one of you yanks right, and all that yanking has to go *somewhere*. So it turns into spinning. And puddles." She tilted her headlights thoughtfully toward the wobbly bonito wave that joined them. "But here's a kei-truck secret." She lowered her voice to a cozy little hum. "**Issho ni** (EE-shoh nee) — together. The fastest cars in the whole wide world don't have wheels that fight. Four wheels, one direction — that's all it is. Smoothness isn't slow. Smoothness is just *fast with no fighting*. So stop racing *each other*. Start racing *with* each other."
 
-He gave a gentle bounce on his springs. "You're already attached, you silly snacks. You came as two before you ever got here. You just forgot to act like it."
+She gave a gentle bounce on her springs. "You're already attached, you silly snacks. You came as two before you ever got here. You just forgot to act like it."
 
 Tako blinked. Yaki blinked. They blinked the same blink.
 
@@ -162,7 +162,7 @@ The big board lit up.
 
 The twins covered their eyes. "Is it bad? It felt slow. We didn't even rush."
 
-Kei looked up at the number. His headlights got very, very wide. "Oh," he whispered. "Oh, my springs."
+Kei looked up at the number. Her headlights got very, very wide. "Oh," she whispered. "Oh, my springs."
 
 It was the fastest lap of the entire night.
 
@@ -170,7 +170,7 @@ It was the fastest lap of the entire night.
 
 "We barely tried!" said Yaki.
 
-"You didn't waste a single second fighting each other," said Kei, beaming all over his butter-yellow face. "No spins. No puddles. No arguing about left and right. Just *issho ni*. Together is the **速い** (hayai) you were chasing the whole time, you wobbly wonderful weirdos."
+"You didn't waste a single second fighting each other," said Kei, beaming all over her butter-yellow face. "No spins. No puddles. No arguing about left and right. Just *issho ni*. Together is the hayai you were chasing the whole time, you wobbly wonderful weirdos."
 
 Tako and Yaki looked at the glowing number, then at each other, then bounced so high that Kei beeped with surprise.
 
@@ -186,7 +186,7 @@ The lantern-keeper, a kindly old shaved-ice fellow, rolled out a paper plate of 
 
 "Together," said Yaki, "or not at all!"
 
-Kei beeped his agreement, the lanterns glowed, and somewhere a tiny timer ticked on, just waiting for the next pair of friends brave enough to go slow enough to be fast.
+Kei beeped her agreement, the lanterns glowed, and somewhere a tiny timer ticked on, just waiting for the next pair of friends brave enough to go slow enough to be fast.
 
 ---
 

@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** The rolling purple lavender fields of Furano, Hokkaido
 **Theme:** Slow days are full of quiet color
-**Japanese Spotlight:** はな (hana) = flower
+**Japanese Spotlight:** hana (hah-nah) — flower
 
 ---
 
@@ -108,7 +108,7 @@ Sora sat at the very back, facing the other way. And while everyone else watched
 
 "Mm," said Sora. "I think *you're* missing it. Come sit by me."
 
-Momo, who could never resist a cozy invitation, squished down beside her. And there, looking backward at the slow part instead of forward at the fast part, Momo saw it: a single perfect **はな** (hana) = flower, deep velvet purple, with a tiny bee curled asleep inside it like a fuzzy little bean in a tiny bed.
+Momo, who could never resist a cozy invitation, squished down beside her. And there, looking backward at the slow part instead of forward at the fast part, Momo saw it: a single perfect **hana** (hah-nah) — flower, deep velvet purple, with a tiny bee curled asleep inside it like a fuzzy little bean in a tiny bed.
 
 Momo gasped. "Oh," she whispered. "*Oh.* It's so... small. And so... *complete.*"
 

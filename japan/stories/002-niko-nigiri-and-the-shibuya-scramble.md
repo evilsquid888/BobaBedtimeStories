@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** The famous Shibuya Crossing in Tokyo at night, neon everywhere
 **Theme:** Even the most organized plan needs room to wiggle
-**Japanese Spotlight:** だいじょうぶ (daijoubu) = it's okay / don't worry
+**Japanese Spotlight:** **Daijoubu** (dye-joh-boo) — it's okay, don't worry
 
 ---
 
@@ -24,7 +24,7 @@ Niko's bright eyes went very wide.
 
 You see, Niko Nigiri loved doing things *the right way*. He labeled his socks (he did not have feet, but he labeled where feet would go). He alphabetized his worries. He once made a twelve-step plan just for brushing his teeth, and steps four through nine were all about rinsing.
 
-So naturally, for the most famous crossing in the world — the **渋谷スクランブル** (Shibuya sukuranburu) = Shibuya Scramble, where five streets meet and everybody crosses every-which-way all at the very same moment — Niko had prepared a Plan. A beautiful Plan. A twelve-step, color-coded, laminated Plan, because rice gets soggy and laminating is just *sensible*.
+So naturally, for the most famous crossing in the world — the **Shibuya Sukuranburu** (shih-boo-yah skoo-rahm-boo-roo) — the Shibuya Scramble, where five streets meet and everybody crosses every-which-way all at the very same moment — Niko had prepared a Plan. A beautiful Plan. A twelve-step, color-coded, laminated Plan, because rice gets soggy and laminating is just *sensible*.
 
 He cleared his throat and read it to nobody in particular.
 
@@ -58,7 +58,7 @@ The laminated pages scattered into the swirl like startled birds. Step nine floa
 
 "Excuse me," said Niko, sloshing toward her in a panic, "that's step four, I need step four, I need ALL my steps, I've lost my Plan and now I'll never cross neatly and the light's going to turn red and I'll be stuck in the middle and scrambled and — "
 
-"だいじょうぶ," said the green friend.
+"**Daijoubu** (dye-joh-boo)," said the green friend.
 
 Niko stopped sloshing.
 
@@ -94,7 +94,7 @@ That was when the fizzy blue bottle popped up beside him. "Then don't cross alon
 
 The three dumplings rolled over. "Three on a stick, stuck together for good!" chirped the pink one. "We'll be your stick! Sort of! Metaphorically!"
 
-The soft-serve drifted close, gentle and dreamy. "Soft swirls, slow smiles," it murmured. "I'll keep the pace easy. We don't rush a scramble. We *flow* it."
+The soft-serve drifted close, gentle and dreamy. "Soft swirls, slow smiles," she murmured. "I'll keep the pace easy. We don't rush a scramble. We *flow* it."
 
 Niko looked at the row of friendly hands — er, fins, bubbles, and dumpling-bits — held out toward him.
 

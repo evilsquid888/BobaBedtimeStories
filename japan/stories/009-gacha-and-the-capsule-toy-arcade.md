@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A wall of gachapon capsule machines in a glowing Tokyo arcade
 **Theme:** The surprise you get is sometimes better than the one you wanted
-**Japanese Spotlight:** ガチャポン (gachapon) = capsule toy
+**Japanese Spotlight:** **Gachapon** (gah-chah-pohn) — capsule toy
 
 ---
 
@@ -16,13 +16,13 @@ Gacha was a glossy two-tone capsule — sunny yellow on top, bright cherry-red o
 
 "Wheeeee!" Gacha cried, rolling down the long polished shelf. "It's GACHA NIGHT!"
 
-You should know that a **ガチャポン** (gachapon) = capsule toy is the most exciting thing in any arcade, because nobody — not one single soul — knows what's inside until it pops open. Gacha loved that. Gacha *was* that. He bounced off a shelf, spun three happy circles, and announced to the whole sparkling wall of machines:
+You should know that a **gachapon** (gah-chah-pohn) — a capsule toy — is the most exciting thing in any arcade, because nobody — not one single soul — knows what's inside until it pops open. Gacha loved that. Gacha *was* that. He bounced off a shelf, spun three happy circles, and announced to the whole sparkling wall of machines:
 
 "Tonight, friends, I am going to win the RAREST prize in the entire arcade!"
 
 ---
 
-The wall of capsule machines stretched up, up, up — a glowing cliff of glass domes packed with hundreds of capsules, all twinkling under the soft arcade lights like a galaxy you could spin with a coin. Each machine had a little paper picture taped to the front showing the treasures inside: tiny mochi figurines, mini food charms, teeny umbrellas, baby robots, and one machine — *one* — with a golden sticker that read **レア** (rea) = rare.
+The wall of capsule machines stretched up, up, up — a glowing cliff of glass domes packed with hundreds of capsules, all twinkling under the soft arcade lights like a galaxy you could spin with a coin. Each machine had a little paper picture taped to the front showing the treasures inside: tiny mochi figurines, mini food charms, teeny umbrellas, baby robots, and one machine — *one* — with a golden sticker that read **rea** (reh-ah) — rare.
 
 That was the one.
 
@@ -34,7 +34,7 @@ A nearby capsule — a chubby pink one named Pippa — rolled over. "Oooh, that 
 
 "Can I come?" asked Pippa.
 
-"Can WE come?" squeaked two skinny green capsules, tumbling over each other. They were twins named Mimi and Momo, and they always arrived as a clattery, giggling pile.
+"Can WE come?" squeaked two skinny green capsules, tumbling over each other. They were twins named Mimi and Pipi, and they always arrived as a clattery, giggling pile.
 
 Gacha hesitated. A hero, he felt, ought to go on his quest *alone*. It was more dramatic that way. But Pippa was already wobbling beside him, and the twins were already arguing about who had asked first.
 
@@ -52,7 +52,7 @@ He got exactly halfway up, wobbled like a confused egg, and rolled *aaaall* the 
 
 "That was a practice roll," Gacha announced.
 
-He tried again. And again. On the fourth try, Mimi and Momo got behind him and *pushed*, giggling the whole way, and the three of them tumbled up the ramp in a clattering pile and tipped over the top together.
+He tried again. And again. On the fourth try, Mimi and Pipi got behind him and *pushed*, giggling the whole way, and the three of them tumbled up the ramp in a clattering pile and tipped over the top together.
 
 *Plonk! Plonk! Plonk!*
 
@@ -64,7 +64,7 @@ Gacha cracked his open, heart thumping. Inside was... a tiny rubber duck wearing
 
 "He's SO cool, though," breathed Mimi.
 
-"The coolest," agreed Momo.
+"The coolest," agreed Pipi.
 
 Gacha looked at the little duck. The little duck looked back, extremely cool. Despite himself, Gacha snorted a laugh. "Okay. He *is* pretty cool." He balanced the duck on top of his head like a tiny captain. "Onward! The Golden Mochi Prince still awaits!"
 
@@ -82,13 +82,13 @@ He climbed in. The drum began to turn. Slow at first. Then faster. Then SO fast 
 
 "Did I get the Prince?" he mumbled, world still spinning.
 
-Pippa peeked at the capsule that had popped out with him. She cracked it open. Inside sat a teeny tiny **だるま** (daruma) = a round good-luck doll, crimson and roly-poly, with one painted eye and big determined eyebrows.
+Pippa peeked at the capsule that had popped out with him. She cracked it open. Inside sat a teeny tiny **daruma** (dah-roo-mah) — a round good-luck doll — crimson and roly-poly, with one painted eye and big determined eyebrows.
 
 "It's a daruma," said Pippa softly. "You make a wish on him and paint his other eye when it comes true. He's lucky!"
 
 Gacha, still upside down, considered the little doll's brave eyebrows. "Hm. He looks like he never gives up."
 
-"Fall down seven, bounce up eight," chirped the tiny daruma in a tiny voice, and wobbled, and righted himself.
+"Fall down seven, bounce up eight," squeaked the tiny toy daruma in a tiny voice, doing its very best Dai Daruma impression, and wobbled, and righted itself.
 
 "...I like him," Gacha admitted, flipping right-side up. "But he is STILL not the Golden Mochi Prince. To the next machine!"
 
@@ -102,7 +102,7 @@ He had won a tiny umbrella that turned inside out. A mini robot that only walked
 
 But no Golden Mochi Prince.
 
-Gacha rolled up to the last machine — the **レア** (rea) = rare one, glowing gold, the Prince's machine — and stared up at it. His little duck-captain wobbled on his head. His daruma rode along beside him, bouncing back up every time he tipped.
+Gacha rolled up to the last machine — the rea one, glowing gold, the Prince's machine — and stared up at it. His little duck-captain wobbled on his head. His daruma rode along beside him, bouncing back up every time he tipped.
 
 "This is it," Gacha said quietly. "The big one. If he's not in here..." He swallowed. "Then this whole night was a flop."
 
@@ -118,7 +118,7 @@ Gacha's grin trembled open.
 
 Inside was... a sticker.
 
-A single, small, slightly crooked sticker. It showed a cartoon mochi with a crown drawn in marker, and underneath, in wobbly letters, someone had written: **また あそぼう** (mata asobou) = let's play again.
+A single, small, slightly crooked sticker. It showed a cartoon mochi with a crown drawn in marker, and underneath, in wobbly letters, someone had written: **Mata asobou** (mah-tah ah-soh-boh) — let's play again.
 
 That was all. No tiny crown. No cape of red-bean clouds. No Legendary Golden Mochi Prince.
 
@@ -148,7 +148,7 @@ He stuck the crooked sticker right on his front, next to his grin, where everyon
 
 Gacha thought about it. "Nope. The surprise I got was better than the one I wanted." He gave a happy spin. "Give it a turn — surprise inside! Turns out the surprise was friends all along."
 
-And as the arcade lights dimmed even softer, the five of them rolled in a sleepy circle — Gacha, Pippa, Mimi, Momo, and one very brave little daruma — telling the story of the night over and over, each time making the sesame seed's hat a little sillier, until one by one they wobbled to a stop and went still and warm on the glowing shelf.
+And as the arcade lights dimmed even softer, the five of them rolled in a sleepy circle — Gacha, Pippa, Mimi, Pipi, and one very brave little daruma — telling the story of the night over and over, each time making the sesame seed's hat a little sillier, until one by one they wobbled to a stop and went still and warm on the glowing shelf.
 
 The duck in sunglasses stood watch.
 

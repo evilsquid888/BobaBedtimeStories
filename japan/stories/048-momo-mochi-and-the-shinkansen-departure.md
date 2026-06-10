@@ -1,10 +1,10 @@
 # Story 48: Momo Mochi and the Shinkansen Departure
 
 **Main Character:** Momo Mochi
-**Guest Characters:** None
+**Guest Characters:** Tama Onigiri, Rin Ramen, the Dango Three (Pinku, Shiro, Cha), Kori Kakigori, Niko Nigiri, Tako & Yaki, Mero Melonpan, Coro the Korokke, Pock Ramune, Pepper-kun, Maru Matcha, Neko-Pan
 **Setting:** A spotless bullet-train platform as the shinkansen arrives
 **Theme:** Saying goodbye to one place means hello to another
-**Japanese Spotlight:** しんかんせん (shinkansen) = bullet train
+**Japanese Spotlight:** **shinkansen** (sheen-kahn-sen) — bullet train
 
 ---
 
@@ -16,7 +16,7 @@ The platform was so clean you could have eaten your breakfast right off the floo
 
 It was the morning of the Great Cross-Country Trip, and the whole gang stood in a wobbly, squishy, sauce-drizzled line along the edge of a shiny white platform. Above them, a sign blinked the most thrilling word any little dessert had ever read:
 
-**しんかんせん** (shinkansen) = bullet train.
+**shinkansen** (sheen-kahn-sen) — bullet train.
 
 Momo Mochi clapped her soft starch-dusted paws together. She was a snow-white pillow of a thing, plump as a cloud that had eaten a second cloud, with rosy peach cheeks and arms that could stretch like warm taffy for the biggest hugs in all of Japan.
 
@@ -28,7 +28,7 @@ It was little Cha, the clever green dumpling of the Dango Three, frozen stiff on
 
 "Cha?" Momo asked gently, bouncing over. "You're as still as a setting pudding."
 
-Cha's tiny voice came out very small. "I've never been on a しんかんせん before. What if it's too fast? What if I fall off the world?"
+Cha's tiny voice came out very small. "I've never been on a shinkansen before. What if it's too fast? What if I fall off the world?"
 
 "You can't fall off the world," said Pinku confidently. "I checked. The world is round and sticky, like us."
 
@@ -42,11 +42,11 @@ Cha sniffed. "A... squish?"
 
 "The squishiest," Momo promised. "Now hold on to your friends. Listen."
 
-Far down the track, a sound was growing. It started as a hum, then a whoosh, then a great glorious *FWOOOOM* — and the **しんかんせん** (shinkansen) — bullet train — came sliding in, long and white and pointy-nosed like the world's politest dolphin wearing a racing stripe.
+Far down the track, a sound was growing. It started as a hum, then a whoosh, then a great glorious *FWOOOOM* — and the shinkansen came sliding in, long and white and pointy-nosed like the world's politest dolphin wearing a racing stripe.
 
 It stopped so smoothly that not one drop of Rin's broth sloshed. Not one.
 
-"Now THAT," said Kori Kakigori, lowering her sunglasses, "is the coolest entrance I have ever seen, and I once entered a party riding a melting popsicle."
+"Now THAT," said Kori Kakigori, lowering his sunglasses, "is the coolest entrance I have ever seen, and I once entered a party riding a melting popsicle."
 
 The doors slid open with a tidy little *psssht*.
 
@@ -82,7 +82,7 @@ And Cha hopped aboard one tiny second before the doors went *psssht* and sealed.
 
 ---
 
-The **しんかんせん** (shinkansen) glided forward so gently that for a moment nobody even felt it. Then the platform began to slide backward through the window — slow, then quick, then *gone* — and Cha gasped.
+The shinkansen glided forward so gently that for a moment nobody even felt it. Then the platform began to slide backward through the window — slow, then quick, then *gone* — and Cha gasped.
 
 "It's moving! WE'RE moving! Goodbye, platform!" He waved frantically with all his nonexistent hands. "Goodbye! Hello, mountain! Goodbye, mountain! Hello, OTHER mountain!"
 
@@ -104,7 +104,7 @@ Pepper-kun, who had brought his little iron hot-plate, gave a dramatic *SIZZLE* 
 
 The conductor, a kindly steamed bun in a smart little hat, did not even mind the sizzling, because it smelled wonderful and Pepper-kun shared a bowl with him.
 
-Then, just when everything was cozy and calm, the **しんかんせん** (shinkansen) — bullet train — dove into a long dark tunnel.
+Then, just when everything was cozy and calm, the shinkansen dove into a long dark tunnel.
 
 *WHOOMP.* The whole world went black.
 
@@ -112,7 +112,7 @@ Cha squealed. "The mountain ate us! Goodbye, everyone! It was nice knowing you!"
 
 "We are not eaten," Momo said, giving the gentlest squish. "Listen — count the dark with me. We always come out the other side. Ichi... ni... san..."
 
-"**いち** (ichi) = one," Cha repeated in a shaky little voice. "**に** (ni) = two. **さん** (san) = three..."
+"**Ichi** (ee-chee) — one," Cha repeated in a shaky little voice. "**Ni** (nee) — two. **San** (sahn) — three..."
 
 And on *yon* — four — the train burst out of the tunnel into a flood of golden afternoon sunlight, and the WHOLE OCEAN spread out below them, glittering and blue and endless.
 
@@ -130,7 +130,7 @@ Tako and Yaki bounced over. "He gets it!" said Tako. "He totally gets it!" said 
 
 For hours the friends watched the country unspool — fishing harbors and lantern towns, terraced hills and a castle with a roof curled like a cat's tail. Neko-Pan waved a lucky paw at every single station they zoomed past. "Wave for luck, share the luck!"
 
-And in his soft little corner of the world, in the warmest window-seat squish ever invented, Cha discovered the very best thing about a **しんかんせん** (shinkansen): it lets you say a hundred hellos in a single afternoon.
+And in his soft little corner of the world, in the warmest window-seat squish ever invented, Cha discovered the very best thing about a shinkansen: it lets you say a hundred hellos in a single afternoon.
 
 By the time the sun went orange and sleepy, even Pinku had stopped pretending she wasn't tired, and Shiro had stopped worrying about whether sleeping on a train was allowed (it is, especially if you're a dumpling).
 

@@ -4,25 +4,25 @@
 **Guest Characters:** Cao
 **Setting:** A cozy kitchen
 **Theme:** Needs sweetness
-**Word Spotlight:** 紅豆湯 (hongdou tang) = sweet red bean soup
+**Word Spotlight:** **hongdou tang** (hong-doh tahng) — sweet red bean soup
 
 ---
 
-Hong Dou was the roundest, reddest little bean in all the kitchen, and she had a teeny problem: she was not sweet yet.
+Hong Dou was the roundest, reddest little bean in all the kitchen, and she had a teeny problem: she felt plain as a pebble and twice as hard.
 
-"I'm a red bean," she announced to the soup pot, hopping up and down on the cutting board so her shiny skin caught the lamplight. "Red beans are SUPPOSED to be sweet! But I taste like a damp pebble. A nice damp pebble! But still a pebble."
+"I'm a red bean," she announced to the soup pot, hopping up and down on the cutting board so her shiny skin caught the lamplight — and landing each time with a tiny *clack*. "Hear that? Red beans are SUPPOSED to be soft and cozy! But I clack like a damp pebble. A nice damp pebble! But still a pebble."
 
 From the cool dark fridge, a wobbly voice giggled. "A pebble can become a poem," said Cao, sliding out onto the counter. Cao was a slab of grass jelly — glossy, jiggly, the deep brown-black of midnight, and so wobbly that just talking made her shiver like jelly on a train. "I'm jiggly and plain too. But tonight, Hong Dou, we are going to be delicious together."
 
 Hong Dou gasped so hard she nearly rolled off the board. "TOGETHER? Doing WHAT?"
 
-Cao wobbled grandly. "We," she said, "are making **紅豆湯** (hóngdòu tāng) = sweet red bean soup. With grass jelly. Me."
+Cao wobbled grandly. "We," she said, "are making **hongdou tang** (hong-doh tahng) — sweet red bean soup. With grass jelly. Me."
 
 ---
 
-Now, you must understand: Hong Dou was not just one bean. She was a whole bright bowlful of red beans, all rolling and bumping and cheering at once, like a tiny stadium of happy marbles. So when Cao said *sweet red bean soup*, the entire bowlful went, "OOOOOH!"
+Now, you must understand: Hong Dou was one little bean among a whole bright bowlful of her cousins, all rolling and bumping and cheering at once, like a tiny stadium of happy marbles. So when Cao said *sweet red bean soup*, the entire bowlful went, "OOOOOH!"
 
-"But I don't FEEL sweet," Hong Dou worried, doing a nervous little spin. "What if I'm a pebble forever?"
+"But I'm hard as a marble," Hong Dou worried, doing a nervous little spin. "What if I never go soft? What if I'm a pebble forever?"
 
 "Sweetness," said Cao wisely, "is something you grow into. Step by step. Starting with a bath."
 
@@ -42,7 +42,7 @@ The beans grumbled, but slowly — *gloop, gloop, gloop* — they began to puff 
 
 "Look at me!" she cried, jiggling almost as much as Cao. "I'm POOFY!"
 
-"You're getting there," Cao beamed. "Good things rise with time. Wait — that's Bao Bao's line. Borrowed it. Don't tell him."
+"You're getting there," Cao beamed. "Good things rise with time. Wait — that's Bao Bao's line. Borrowed it. Don't tell her."
 
 When morning poured in golden through the window, the beans were plump and ready. And now came the part Hong Dou had been warned about.
 
@@ -72,7 +72,7 @@ The grown-up scooped one bean out, let it cool, and gave it a gentle squish. It 
 
 "Then it's time," said Cao, "for the sweet part."
 
-The grown-up spooned in **糖** (táng) = sugar — a generous, glittering snowfall of it — and stirred it round and round until it melted into the soup.
+The grown-up spooned in **tang** (tahng) — sugar — a generous, glittering snowfall of it — and stirred it round and round until it melted into the soup.
 
 And oh — OH — something wonderful happened to Hong Dou.
 
@@ -98,7 +98,7 @@ The grown-up took a knife and — *thunk, thunk, thunk* — cut wobbly Cao into 
 
 Then came the grand finale. The grown-up took a ladle, scooped up the warm sweet red bean soup — beans and all — and poured it *gloosh* over the cool grass jelly cubes, filling each bowl right to the brim.
 
-Steam curled up. Beans bobbed. Jelly wiggled. And there it was at last: 紅豆湯, sweet red bean soup with grass jelly, warm and cool and sweet and jiggly all in one cozy bowl.
+Steam curled up. Beans bobbed. Jelly wiggled. And there it was at last: hongdou tang, sweet red bean soup with grass jelly, warm and cool and sweet and jiggly all in one cozy bowl.
 
 ---
 

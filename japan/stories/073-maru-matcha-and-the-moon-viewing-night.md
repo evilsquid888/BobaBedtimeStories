@@ -1,10 +1,10 @@
 # Story 73: Maru Matcha and the Moon-Viewing Night
 
 **Main Character:** Maru Matcha
-**Guest Characters:** None
+**Guest Characters:** Momo Mochi, Pock Ramune, Kori Kakigori
 **Setting:** A grassy hill on the autumn moon-viewing night (Tsukimi)
 **Theme:** Quiet beauty is worth staying up a little for
-**Japanese Spotlight:** つき (tsuki) = moon
+**Japanese Spotlight:** **tsuki** (tsoo-kee) — moon
 
 ---
 
@@ -20,7 +20,7 @@ And that, dear reader, is how you start a moon-viewing night — slightly silly,
 
 ---
 
-It was **月見** (tsukimi) = moon-viewing night, the gentle autumn evening when everyone climbs somewhere high to look at the **つき** (tsuki) = moon. Not to *do* anything to the moon. Not to fix it or feed it or race it. Just to look. Maru Matcha thought looking was a wonderfully underrated activity.
+It was **tsukimi** (tsoo-kee-mee) — moon-viewing night, the gentle autumn evening when everyone climbs somewhere high to look at the **tsuki** (tsoo-kee) — the moon. Not to *do* anything to the moon. Not to fix it or feed it or race it. Just to look. Maru Matcha thought looking was a wonderfully underrated activity.
 
 She had invited a few friends, and a few friends had invited a few more, the way friends do, until the hilltop filled up with a whole picnic of round little faces.
 
@@ -34,7 +34,7 @@ Then came Pock Ramune, zipping in a trail of bubbles. "I'm here, pop! Is it moon
 
 "I can be patient, pop!" said Pock Ramune. He lasted four seconds. Then he was upside down inspecting a beetle.
 
-Kori Kakigori swept up the hill last, a towering mountain of strawberry-syruped shaved ice, sunglasses perched on top even though it was night. "Sweeties," she announced, dramatically draping herself across a picnic blanket, "I have come to view the moon, but I must warn you — I am ONE degree from melting and the autumn air is simply DIVINE for my complexion."
+Kori Kakigori swept up the hill last, a towering mountain of strawberry-syruped shaved ice, sunglasses perched on top even though it was night. "Sweeties," he announced, dramatically draping himself across a picnic blanket, "I have come to view the moon, but I must warn you — I am ONE degree from melting and the autumn air is simply DIVINE for my complexion."
 
 "You wear sunglasses," Maru observed, "at night."
 
@@ -58,13 +58,13 @@ The friends had come up the hill, full of snacks and excitement, ready for the f
 
 "Maybe it's just running late," sighed Momo Mochi, deflating a little. "Maybe it won't come at all."
 
-Kori Kakigori gasped so hard her sunglasses slid down. "A moon-viewing night with NO MOON? That is the biggest meltdown of my LIFE. We came all this way! We hiked! I do not hike, sweeties, this is the most exercise I've had since the great popsicle summer of—"
+Kori Kakigori gasped so hard his sunglasses slid down. "A moon-viewing night with NO MOON? That is the biggest meltdown of my LIFE. We came all this way! We hiked! I do not hike, sweeties, this is the most exercise I've had since the great popsicle summer of—"
 
 "Shh," said Maru Matcha. Not unkindly. She said it the way you'd hush a kettle that was about to whistle. "Sit. Let me show you something."
 
 The friends grumbled, but they sat. Maru opened the great big basket.
 
-Inside, stacked in a neat pale pyramid, were the **団子** (dango) = round rice dumplings — fifteen of them, soft and white and perfectly round, piled into a little tower the way they are stacked for the moon every autumn.
+Inside, stacked in a neat pale pyramid, were the **dango** (dahn-go) — round rice dumplings — fifteen of them, soft and white and perfectly round, piled into a little tower the way they are stacked for the moon every autumn.
 
 "Ooh," said everyone, including the beetle.
 
@@ -82,7 +82,7 @@ It was, at first, extremely difficult.
 
 Pock Ramune fidgeted. He bobbed. He turned himself upside down to see if waiting was easier from that angle. (It was not.) He tried holding his breath, which for a soda bottle is a very dangerous game, and let it out with such a tremendous *POP* that the beetle fell off a blade of grass.
 
-Kori narrated her own discomfort in three dramatic acts. "Act one," she announced, "the brave ice mountain SITS. Act two: she begins, ever so slightly, to drip. Act three—" She paused for effect. "—she has an itch on her syrup and cannot reach it. This is my villain origin story, sweeties."
+Kori narrated his own discomfort in three dramatic acts. "Act one," he announced, "the brave ice mountain SITS. Act two: he begins, ever so slightly, to drip. Act three—" He paused for effect. "—he has an itch on his syrup and cannot reach it. This is my villain origin story, sweeties."
 
 Momo Mochi kept whispering, "Is it time to squish yet?" every eleven seconds, which is exactly often enough to be adorable and exactly often enough to be a tiny bit much. And the cloud sat across the sky, fat and stubborn, hiding the moon like a hand over a candle.
 
@@ -106,7 +106,7 @@ Slowly, the friends began to notice things.
 
 "Feel that," said Maru last of all, and they all went quiet to feel it: the cool autumn air on their cheeks, the soft picnic blanket beneath them, the warm teacups in their hands. Cool outside, warm inside. That, Maru thought, was the whole feeling of autumn, packed into one small moment on one small hill.
 
-"Ohhh," breathed Kori Kakigori, and for once she said it softly. She took her sunglasses off. Her eyes, underneath, were big and shiny and wondering. "I forgot the world had so many little things in it. I was so busy melting dramatically that I missed them."
+"Ohhh," breathed Kori Kakigori, and for once he said it softly. He took his sunglasses off. His eyes, underneath, were big and shiny and wondering. "I forgot the world had so many little things in it. I was so busy melting dramatically that I missed them."
 
 Pock Ramune had gone completely, miraculously still. "Maru," he whispered. "Maru. I think... I think I'm being patient. Pop." He said the *pop* very, very quietly, like a secret.
 
@@ -120,7 +120,7 @@ The fat gray cloud yawned, stretched, and drifted lazily aside.
 
 And there it was.
 
-The **つき** (tsuki), enormous and round and the softest buttery-gold, rose up over the dark hills like a great glowing dumpling lifted into the sky. It poured silver light across the whole world at once — over the dewy grass, over the glittering town, over five little round friends sitting very still on a hill with their mouths open.
+The tsuki, enormous and round and the softest buttery-gold, rose up over the dark hills like a great glowing dumpling lifted into the sky. It poured silver light across the whole world at once — over the dewy grass, over the glittering town, over five little round friends sitting very still on a hill with their mouths open.
 
 "Whoa," said everyone.
 
@@ -130,7 +130,7 @@ Even the cricket orchestra seemed to hush, just for a heartbeat.
 
 "It's so *calm*," whispered Maru, which was the highest compliment she knew how to give.
 
-"It's so beautiful I could MELT," whispered Kori — and then, catching herself: "but I won't, because I want to keep looking."
+"It's so beautiful I could MELT," whispered Kori — and then, catching himself: "but I won't, because I want to keep looking."
 
 And Pock Ramune, fizzy zippy bubbly Pock Ramune who could never sit still, pointed one trembling bubble-finger at the bright golden circle.
 
@@ -140,7 +140,7 @@ And Pock Ramune, fizzy zippy bubbly Pock Ramune who could never sit still, point
 
 They all leaned in.
 
-And there, in the soft gray markings on the face of the full moon, if you let your eyes go gentle and slow — there really was a rabbit. A little round **うさぎ** (usagi) = rabbit, sitting up on its haunches, ears pricked, paws raised over a tiny round bowl, as if it were patiently, happily, pounding rice into mochi up on the moon.
+And there, in the soft gray markings on the face of the full moon, if you let your eyes go gentle and slow — there really was a rabbit. A little round **usagi** (oo-sah-gee) — a rabbit, sitting up on its haunches, ears pricked, paws raised over a tiny round bowl, as if it were patiently, happily, pounding rice into mochi up on the moon.
 
 "He's making dango!" gasped Momo Mochi. "Up on the moon! Just like us!"
 
@@ -148,9 +148,9 @@ And there, in the soft gray markings on the face of the full moon, if you let yo
 
 "He's been there the whole time," said Maru softly. "Behind the cloud. Just waiting, the same as us. He didn't mind the waiting. That's how he stays so round and content." She raised her teacup toward the sky. "To the moon-rabbit. The most patient picnicker of all."
 
-"To the moon-rabbit!" everyone cheered, raising their cups and their dango toward the glowing **つき**.
+"To the moon-rabbit!" everyone cheered, raising their cups and their dango toward the glowing tsuki.
 
-They sat there a long, long time after that, on the dewy hill in the silver light. They ate the round dumplings, one by one, slowly, the way you eat things when you are in no hurry at all. They told quiet stories. Momo Mochi finally got her group squish, and it was a very soft and sleepy one. Pock Ramune fell asleep mid-*pop*, bubbles still rising gently from his dreams. Kori kept her sunglasses off the whole night.
+They sat there a long, long time after that, on the dewy hill in the silver light. They ate the round dumplings, one by one, slowly, the way you eat things when you are in no hurry at all. They told quiet stories. Momo Mochi finally got her group squish, and it was a very soft and sleepy one. Pock Ramune fell asleep mid-*pop*, bubbles still rising gently from his dreams. Kori kept his sunglasses off the whole night.
 
 And Maru Matcha, the calm one, the steady one, the one who knew that the best things are often the quiet ones — Maru Matcha looked up at the rabbit on the moon and felt her whole jade-green heart go warm and round and full.
 

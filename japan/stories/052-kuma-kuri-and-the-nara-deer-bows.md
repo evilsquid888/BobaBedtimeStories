@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** Nara Park, where polite wild deer bow for treats
 **Theme:** Good manners are a language everyone understands
-**Japanese Spotlight:** しか (shika) = deer
+**Japanese Spotlight:** shika (shee-kah) — deer
 
 ---
 
@@ -30,7 +30,7 @@ The deer did the most astonishing thing. It bent its front legs, dipped its head
 
 Kuma blinked. "Oh," he breathed. "Oh, that's — that's very nice manners."
 
-A passing breeze carried the giggle of a tour guide nearby. "The famous bowing **しか** (shika) = deer of Nara!" she was telling a cluster of visitors. "Bow to them, and they bow right back. It's the politest hello in all of Japan."
+A passing breeze carried the giggle of a tour guide nearby. "The famous bowing **shika** (shee-kah) — the deer — of Nara!" she was telling a cluster of visitors. "Bow to them, and they bow right back. It's the politest hello in all of Japan."
 
 Kuma's roasty heart did a small happy flip. A polite hello! That he could do. Kuma was many things — shy, round, prone to hiding behind lanterns — but he was *excellent* at polite. So he tucked in his scarf, took a breath, and bowed back.
 
@@ -56,7 +56,7 @@ They walked a little way together — well, the deer walked, and Kuma rolled alo
 
 The deer's ears flicked happily. Kuma did not yet have a name for it, so in his roasty little heart he simply called it *Friend*, with a capital F, the way you do for the important ones.
 
-Now, here is a thing about the **しか** (shika): in Nara they have learned that humans carry little crackers called **鹿せんべい** (shika senbei) = deer crackers, flat and crunchy and made just for them. And the deer have learned that if you bow — politely, sweetly, with your big brown eyes turned all the way up — the crackers tend to appear.
+Now, here is a thing about the shika: in Nara they have learned that humans carry little crackers called **shika senbei** (shee-kah sen-bay) — deer crackers, flat and crunchy and made just for them. And the deer have learned that if you bow — politely, sweetly, with your big brown eyes turned all the way up — the crackers tend to appear.
 
 The deer thought Kuma might have crackers.
 
@@ -64,7 +64,7 @@ The deer was wrong. Kuma had no crackers. But what Kuma DID have was a problem, 
 
 ---
 
-A vendor's cart had tipped. A whole tray of **鹿せんべい** (shika senbei) lay scattered across the cobblestones, and the vendor — a flustered, kind-faced woman with flour on her apron — was on her knees trying to gather them while a growing crowd of deer closed in like a polite, fuzzy tide.
+A vendor's cart had tipped. A whole tray of shika senbei lay scattered across the cobblestones, and the vendor — a flustered, kind-faced woman with flour on her apron — was on her knees trying to gather them while a growing crowd of deer closed in like a polite, fuzzy tide.
 
 "Please — please wait your turn —" she was saying, but there were so MANY of them, all bowing at once, all bowing FASTER, a hundred velvet heads dipping and rising, and the more they bowed the more crackers they expected, and the crackers were everywhere, and oh, it was going to be a stampede of good manners.
 

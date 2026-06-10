@@ -4,7 +4,7 @@
 **Guest Characters:** Hong Dou
 **Setting:** A midnight bakery
 **Theme:** Rise with time
-**Word Spotlight:** 麵包 (mianbao) = bread
+**Word Spotlight:** **mianbao** (myen-baow) — bread
 
 ---
 
@@ -14,7 +14,7 @@ Bao Bao was waiting. Bao Bao was always waiting. Waiting was practically Bao Bao
 
 Suddenly — *bonk-a-bonk-a-bonk!* — a small round somebody came tumbling through the flap of the door and rolled straight into a sack of flour with a soft *poof*.
 
-"I'm awake!" announced the round somebody, sneezing out a tiny flour cloud. "I'm Hong Dou, and I want to learn to make 麵包 (mianbao) = bread, and I want to learn it RIGHT NOW, this very second, immediately, please and thank you!"
+"I'm awake!" announced the round somebody, sneezing out a tiny flour cloud. "I'm Hong Dou, and I want to learn to make **mianbao** (myen-baow) — bread! And I want to learn it RIGHT NOW, this very second, immediately, please and thank you!"
 
 Bao Bao smiled the slow smile of someone who has never once done anything *this very second.*
 
@@ -28,7 +28,7 @@ Bao Bao smiled the slow smile of someone who has never once done anything *this 
 
 "I am NOT a sleepy sort of bean," said Hong Dou, vibrating slightly.
 
-"We'll see," said Bao Bao. "First — we wake up the **酵母** (jiàomǔ) = yeast."
+"We'll see," said Bao Bao. "First — we wake up the **jiaomu** (jyow-moo) — the yeast."
 
 Bao Bao set down a little bowl of warm water — *warm,* mind you, never hot, the kind of warm a kitten's tummy is. Into it went a spoonful of sugar and a sprinkle of tiny, sandy, sleepy yeast grains.
 
@@ -48,7 +48,7 @@ They watched. Hong Dou watched so hard the bean went cross-eyed. And slowly — 
 
 "That's how you know it's working," said Bao Bao. "Sleepy yeast says no. Foamy yeast says yes."
 
-Next came the big bowl. Bao Bao tipped in a soft white mountain of flour, a small pinch of **鹽** (yán) = salt, and a little glug of oil so the bread would be tender.
+Next came the big bowl. Bao Bao tipped in a soft white mountain of flour, a small pinch of **yan** (yen) — salt — and a little glug of oil so the bread would be tender.
 
 "Salt?" said Hong Dou. "In bread? But salt is for soup!"
 
@@ -130,7 +130,7 @@ When Grandpa Stove-Tender lifted it out (with his mitts, of course) and *thunk* 
 
 So they waited one last cozy while. And when at last Grandpa Stove-Tender brought the bread knife (a sharp grown-up tool, so *he* did the slicing), the loaf fell open in soft, steamy, fluffy slices — pale and tender and full of tiny airy holes, each one a place where the yeast had burped a happy burp.
 
-Bao Bao spread one warm slice with sweet red bean paste — Hong Dou's very favorite — and they sat by the glowing window and ate their 麵包 (mianbao) = bread together as the sky turned the softest pre-morning blue.
+Bao Bao spread one warm slice with sweet red bean paste — Hong Dou's very favorite — and they sat by the glowing window and ate their mianbao together as the sky turned the softest pre-morning blue.
 
 "It was worth the wait," Hong Dou admitted, mouth full, eyes happy.
 

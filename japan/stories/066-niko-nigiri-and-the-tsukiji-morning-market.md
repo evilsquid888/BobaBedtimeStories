@@ -1,135 +1,161 @@
 # Story 66: Niko Nigiri and the Tsukiji Morning Market
 
 **Main Character:** Niko Nigiri
-**Guest Characters:** None
+**Guest Characters:** The Sushi-ya Express
 **Setting:** The bustling outer fish market at dawn in Tokyo
-**Theme:** Early effort makes the freshest day
-**Japanese Spotlight:** あさ (asa) = morning
+**Theme:** Preparation is a kind of magic
+**Japanese Spotlight:** **junbi** (joon-bee) — preparation
 
 ---
 
-It was so early that the moon hadn't even put on its slippers yet, and Niko Nigiri was already standing on the cold cobblestones of Tokyo's Tsukiji outer market, straight as a chopstick and twice as proud.
+The Sushi-ya Express rang its little bell three times in the dark, which everyone knew meant *emergency*.
 
-"Today," Niko announced to absolutely no one, smoothing his glossy coral-orange salmon cape and tightening his neat little nori belt, "I shall explore the famous morning market — neatly, and on schedule."
+"Friends," said the gleaming food truck, its paper-lantern headlights flickering with worry, "today's special is the most important plate of the whole year — and I am missing the one ingredient it cannot live without. **Hatsu-gatsuo** (haht-soo gah-tswoh) — the season's very first bonito. The first one! The luckiest, brightest, most-wished-for fish of spring. Tsukiji market has exactly a few left, and when the sun comes up — *gone*. Sold out until next year."
 
-He had a checklist. Of course he had a checklist. Niko Nigiri had a checklist for his checklists.
+The other food friends were still tangled in their blankets, mumbling things like "five more minutes" and "is the sun even real."
 
-A sleepy seagull blinked down at him. "Kid," it yawned, "it's basically nighttime."
+But one small figure was already standing at attention by the truck's fold-down counter, fully dressed, nori belt cinched, salmon cape gleaming, holding a satchel so organized it had a pocket labeled *miscellaneous pockets*.
 
-"It is **あさ** (asa) = morning," Niko corrected, holding up a tiny calendar. "The schedule clearly says so. And the schedule has never once lied to me."
+"I volunteer," said Niko Nigiri.
 
-Just then a lantern flickered awake down the alley. Then another. Then a hundred more, like the whole market was rubbing its eyes and deciding, all together, to begin.
+"Niko! You're awake?"
 
-"Aha," Niko whispered, eyes bright. "Right on time."
+"I am always awake at three forty-five on first-bonito day," said Niko, producing a hand-drawn map of the market, a list of vendors, a backup list of vendors, and three sharpened pencils sorted by sharpness. "I did my **junbi** (joon-bee) — preparation. I have studied the market layout. I have memorized which alleys flood with carts at four. I have packed a snack, a backup snack, and a snack for anyone who looks at my snack." He buckled the satchel with a crisp click. "One does not chase the first fish of spring. One *prepares* for it."
 
----
-
-The first stall to glow gold belonged to a round, jolly tuna who wore a rubber boot on each fin and a towel knotted around his head.
-
-"Ohayō!" the tuna boomed, which means *good morning*, and his voice was so big it knocked a little dew off the awning. "You're up early, small rice friend! Most folks your size are still dreaming about pillows."
-
-"I am Niko Nigiri," said Niko, bowing very precisely, "and I am here to explore the **市場** (ichiba) = market, neatly. Item one on my list: observe the freshness."
-
-The tuna laughed so hard his towel slid sideways. "Freshness! Now there's a fellow who knows what matters. Come, come — watch this."
-
-He flipped open a wide wooden crate, and oh — the smell that floated out was the smell of the whole entire sea having a good stretch. Silvery fish lay shining like spilled coins. Glossy seaweed glistened. Everything sparkled with that crisp, cold, just-woke-up brightness.
-
-"You see," said the tuna, tapping the crate, "the best catch comes to the early ones. The boats that leave in the dark bring back the dawn. Sleep in, and you get yesterday. Rise with the **あさ**, and you get *today* — bright and bouncing and brand new."
-
-Niko's bright eyes went brighter. He wrote that down. He underlined it. Then he underlined the underline.
+The Sushi-ya Express beamed so warmly its noren curtain fluttered. "Then ride with me, small friend. We race the sunrise."
 
 ---
 
-Down the row, a pair of fast little hands were flying — a clever knife-fish vendor named Aki, who sliced and stacked and wrapped so quickly she looked like she had eight arms instead of two.
+Tsukiji's outer market at that hour was a maze of lantern-light and rolling carts, a hundred alleys all whispering and clattering awake at once. Niko hopped down, map in hand, and marched straight to the spot where the bonito stall had stood for thirty years.
 
-"You're staring," Aki said without even looking up. "Everyone stares. It's the speed."
+The bonito stall was not there.
 
-"I admire efficiency," Niko admitted, a little starstruck. "How do you move so quickly?"
+In its place sat a pickle vendor, three hundred jars of pickles, and a barrel of ice with a clam in it.
 
-"Because I started early," Aki said, "and early means *unhurried*. Funny, isn't it? The folks who wake up late are the ones who run around panicking. I woke before the moon, so I have all the time in the world." She smiled and flipped a slice of perfect pink salmon into the air, caught it on a leaf, and bowed.
+"Excuse me," said Niko politely, "I am looking for Katsuo-ya, the bonito stall."
 
-A nearby clam, who had clearly *not* woken early, came galloping down the lane shouting, "AM I LATE? AM I LATE? OH NO, I'M LATE!" and tripped directly into a barrel of ice, where he sat with a small dignified *blub* and bubbled apologetically.
+"Moved," said the pickle vendor, fanning her jars.
 
-"That," said Aki, "is what late looks like."
+"Moved *where*?"
 
-Niko nodded so seriously that his nori belt creaked. Then — because even tidy little sushi can't help it — he giggled. Just a small one. The clam waved a cheerful, freezing flipper from inside the ice, as if to say *worth it, honestly.*
+"Somewhere else," said the pickle vendor helpfully.
 
----
+The clam in the ice barrel surfaced one inch. "Everything in this market moves," it said in a flat, gravelly voice. "The stalls move. The carts move. I, personally, have not moved since Tuesday. It's a lifestyle."
 
-By now the whole market had woken fully. Lanterns swung. Bells dinged. Steam curled up from a hundred breakfast pots in ribbons of white. Somewhere an old kettle whistled a tune it had clearly been practicing for years.
+Another rice ball might have panicked. Niko, instead, flipped his map over to the page he had labeled *In Case Things Have Moved, Which They Will*. He crouched and studied the cobblestones, bright eyes narrowed. Fish stalls meant melting ice, and melting ice meant wet wheel-tracks. Sure enough, a shining silvery trail of drips led away down the third alley, fresh as a snail's autograph.
 
-Niko marched along, checking items off his list — *observe freshness, check,* *admire efficiency, check* — when he turned a corner and stopped so suddenly his rice nearly squeaked.
+"Thank you both," said Niko, bowing precisely. "You have been one-half helpful."
 
-The morning fish auction was about to begin.
-
-Rows of enormous tuna lay on the floor like sleeping silver submarines. Vendors crowded close, holding little flags. And at the front stood the Auction Master: a grand, ancient octopus in a tiny cap, ringing a brass bell with one arm while writing numbers with the other seven.
-
-"Place your bids! Bright and early, the finest of the day!" the octopus called.
-
-It was thrilling. It was loud. It was — Niko checked his list nervously — *not on the schedule at all.*
-
-A flicker of worry crossed his face. Niko Nigiri did *not* like things that weren't on the schedule. His plan had said *explore neatly*, and an auction was many wonderful things, but neat was not one of them.
-
-He felt a tiny puff of panic, like he might just tidy himself right back home to bed.
+"That's the most I've ever been," said the clam, sinking back down, deeply satisfied.
 
 ---
 
-But then a soft voice spoke beside him. It was the round tuna again, towel back in place.
+The wet trail led Niko to a bright corner stall where an old, broad, magnificent bonito master named Katsu stood sharpening a knife the size of a surfboard. Behind him, on a bed of glittering ice, lay three — only three — **hatsu-gatsuo**, sleek and silver-bellied and shining like they'd been polished by the sea itself.
 
-"First auction, eh?" he said kindly. "You've got that look. The *this-isn't-on-my-list* look."
+"Master Katsu!" Niko bowed low. "I have come for one first bonito, for the Sushi-ya Express!"
 
-"I planned to explore in order," Niko confessed, very quietly. "Stall one, then stall two, then home. The auction is not in order. It is loud and surprising and — " he swallowed — "*spontaneous.*"
+The old master looked down at the tidy little sushi, and his eyes crinkled. "Good bow. Bad timing. Two of these are promised. The last one goes to whoever brings me fresh **wasabi** (wah-sah-bee) — the green, spicy river root. My wasabi order never arrived, and first bonito without fresh wasabi is like a festival without lanterns."
 
-The tuna chuckled, gentle as a wave. "Ah. But here's a market secret. The schedule got you *here*. Waking early, walking straight, doing your part — that's what made the morning yours. But the *best* part of any **あさ** isn't the part you planned." He nudged Niko forward with a soft fin. "It's the part you let surprise you."
+"Then I shall fetch wasabi," said Niko, already writing *WASABI* in his neatest emergency handwriting.
 
-Niko looked at his list. He looked at the auction. He looked at the list again.
+The wasabi seller, a brisk young trout three alleys over, had a whole crate of beautiful knobbly green roots — and crossed her fins over it.
 
-Then, very carefully, he took out his pencil, and at the very bottom he wrote a brand-new item:
+"Not for sale yet," she said. "Not until someone finds me a bundle of **wara** (wah-rah) — dried rice straw. I promised a chef I'd send straw with his order, for searing bonito the old way, over a crackling straw fire. No straw, no deal, and the straw seller's cart has vanished into this maze like a sock in laundry."
 
-*Let the morning surprise me.*
+"You require straw," said Niko slowly, "so that Master Katsu can have wasabi, so that the Express can have bonito." He pinched the bridge of where a nose would be. "This market is a riddle wearing rubber boots."
 
-And he checked it off.
+Niko's eyes went bright. Because here is the thing about Niko Nigiri: he wrote down *everything*. And forty minutes earlier, while passing the tamago stall, he had jotted in his notebook, under *Possibly Useful Complaints Overheard*: "*Egg vendor grumbling — eggs packed in TOO MUCH rice straw, 'enough straw to thatch a roof,' wants it gone.*"
 
----
-
-What happened next, Niko would tell friends about for the rest of his life.
-
-The Auction Master octopus spotted the tidy little sushi standing so straight and proud at the front, and rang his bell extra bright. "AH! A guest of honor! Small one — would you help me start the **競り** (seri) = auction?"
-
-Niko's salmon cape practically glowed. "Me? But I have no flag, and I have no — "
-
-"You have the straightest posture I have ever seen," said the octopus, "and that's exactly what a starter needs. Up you go!"
-
-Eight gentle arms lifted Niko onto the little wooden platform. The whole market turned to look. For one heartbeat, Niko thought about how very *not-on-the-list* this was.
-
-And then he grinned. A real, wide, salmon-bright grin.
-
-"Friends!" Niko called out in his clearest, politest, most organized voice. "Let's do this neatly... or *deliciously!*"
-
-The market roared with laughter and cheer. The bell rang. Flags flew up. The auction burst to life like fireworks, and Niko Nigiri stood right in the middle of all that bright, bouncy, unplanned joy — and loved every single second.
-
-The frozen clam, still in his ice barrel, waved a flag too. He had no idea what he was bidding on. He was simply having a wonderful time.
+"Madam," said Niko, "please prepare one wasabi root. I shall return in six minutes." He paused. "Possibly seven. I have budgeted for seven."
 
 ---
 
-When the auction ended and the sun finally peeked over the rooftops, painting the whole market in honey-gold light, the round tuna handed Niko a small wrapped gift: the freshest, brightest, pinkest slice of salmon the sea had to offer.
+It would have been six, except for the wrong turn.
 
-"For the earliest riser at Tsukiji," the tuna said. "You earned the best of the **あさ** the honest way — you got up, you showed up, and then you let it dance with you."
+Hurrying back with an armload of straw nearly twice his height, Niko cut through what he believed was a quiet side passage and stepped instead directly into the *inner market tuna auction* — a thundering room where enormous frozen tuna lay in rows like sleeping silver submarines, and a crowd of buyers shouted numbers while an auctioneer octopus rang a brass bell and pointed with five arms at once.
 
-Niko held the little gift close. His checklist fluttered in the dawn breeze, and for once he didn't mind one bit that the day had gone gloriously off-plan.
+"NEW BIDDER!" boomed the octopus, pointing all five arms at Niko.
 
-"I think," Niko said softly, watching the golden light pour over the silver fish and the swinging lanterns and the laughing, yawning, wonderful crowd, "the freshest day really does belong to the ones who wake to meet it."
+"I am not a bidder!" squeaked Niko. "I am a pedestrian!"
 
-The seagull from earlier landed beside him and yawned again. "Told you it was morning," it grumbled.
+"HE BIDS THE STRAW!"
 
-"You did," Niko agreed, and laughed — a tidy, happy, salmon-bright laugh — as the whole bright **あさ** unfolded around him, fresh as the very first day of everything.
+"The straw is *spoken for*!"
+
+"SPOKEN FOR!" the octopus announced to the room. "BOLD STRATEGY! DO I HEAR TWO STRAWS?"
+
+Forty flags went up. Niko went down — under a fishmonger's boots, between two tuna the size of canoes — while above him the auctioneer sold something enormous to somebody loud.
+
+He burst out the far door with his cape sideways, his straw frazzled, and his dignity at roughly sixty percent. Through a gap in the rooftops, he saw the sky.
+
+The sky was turning *pink*.
+
+"Oh no," whispered Niko. "Oh no no no. The sun is ahead of schedule." He checked his watch. "No. *I* am behind it."
+
+He ran. He delivered the straw — "you absolute hero," said the trout — collected the wasabi root, wrapped it neatly, sprinted three alleys, skidded around the pickle stall ("still here," reported the clam, "still thriving"), and arrived at Katsuo-ya with the wasabi held high like a tiny green trophy —
+
+— and stopped.
+
+Hanging on the stall was a wooden sign, freshly flipped. It said: **SOLD OUT**.
+
+The bed of ice was empty. All three silver fish — gone.
+
+---
+
+Niko stood very still. Around him the market roared on cheerfully, but inside his chest something went quiet and cold, like a lantern blown out.
+
+He had risen earliest. He had followed the tracks. He had made the trade. And the morning had simply been faster.
+
+"I failed the Express," he whispered. "On *first-bonito day*."
+
+His satchel slumped. His cape drooped. And — because keeping busy is what tidy hearts do when they're sad — he took out his notebook to write *Mission Failed* in his neatest handwriting.
+
+The notebook fell open to *Possibly Useful Complaints Overheard*. And there, two lines below the egg vendor's straw, was something else he'd written in the dark without thinking, a scrap of chatter between two crab porters he'd passed at the gate:
+
+"*Old Katsu always keeps one back. Cedar box under the counter. Not for the loud ones who grab — for whoever asks properly. Full bow, full name, ask for the fish by its season-name. Old-fashioned, that one.*"
+
+Niko read it twice. Then he straightened his nori belt, smoothed his cape, and stepped up to the stall, where Master Katsu was pretending very hard to be busy with his knife.
+
+Niko placed the wasabi gently on the counter. He bowed — not a quick bow, but the deepest, most patient, most respectful bow in his entire collection.
+
+"**Ohayō gozaimasu** (oh-hah-yoh goh-zah-ee-mahss) — good morning, honored Master Katsu of Katsuo-ya," he said clearly. "I am Niko Nigiri of the Sushi-ya Express. If it pleases you, I respectfully ask for the **hatsu-gatsuo** — the first bonito of spring."
+
+Silence. One seagull, overhead, held its breath.
+
+Then the old master laughed — a deep, rolling, harbor-bell laugh — and reached under the counter, and lifted out a small cedar box, and inside, on a pillow of ice, lay the most beautiful silver fish of all. The one he kept back every single year.
+
+"Forty years I've waited at this counter," said Master Katsu, "for someone small enough to listen and polite enough to ask. The loud ones grab. The hurried ones point. But the prepared ones — ah, the prepared ones *notice*." He slid the box gently across the counter, and tucked the wasabi root in beside it like he was tucking it into bed. "The sign says sold out." He winked. "The sign doesn't know about the box."
+
+Niko hugged the cedar box, which was nearly as big as he was, and bowed one more time over the top of it, which made Master Katsu laugh all over again.
+
+---
+
+The ride home was the best part.
+
+The Sushi-ya Express purred through the waking streets with the cedar box packed in fresh ice, lashed down with Niko's own triple-checked knots. Behind them, the market was folding itself up — awnings rolling, lanterns winking out one by one, vendors calling sleepy goodbyes across the emptying alleys. The first true sunlight slid down the rooftops like warm honey, and the whole **asa** (ah-sah) — morning — smelled of salt and clean ice and beginnings.
+
+"You did it," said the Express softly, ringing its bell once, gently, like a chuckle.
+
+"*We* did it," said Niko, from where he sat nestled between the ice box and a coil of rope. "Also the egg vendor. And a trout. And two crab porters who didn't know I was listening." He yawned an enormous, tidy yawn and patted his notebook. "People think **junbi** is boring. Lists and maps and writing things down. But it isn't boring. It's *magic that you do in advance*. You scatter little notes behind you in the dark, and then, just when the morning looks lost — " another yawn — "one of them lights up."
+
+"And the wrong turn into the auction?" teased the truck.
+
+"That," murmured Niko, eyes already closing, "is going in the notebook under *Routes Never To Take Again*. Subsection one. Item one. Underlined..."
+
+He was asleep before he finished the sentence, swaying gently with the road, one hand still resting on the cedar box — the tidiest, proudest, sleepiest hero in all of Tokyo, riding home with the first fish of spring.
+
+Back at the market, the clam in the ice barrel watched the sun come up over the empty stalls.
+
+"Big day," it said, to no one. "I should rest."
+
+It did not move. It had not been moving all along.
 
 ---
 
 ## Goodnight Blessing
-Little one, the brightest mornings are waiting just on the other side of your dreams, all golden and gentle and brand new. You don't have to plan every step — just wake up kind, show up brave, and let the day surprise you with its sweetness. Like Niko, you can stand tall and still let your heart dance. So rest now, sweet and slow, and let sleep tuck the dark around you like a soft warm cape. The morning will keep the best of itself, just for you. Goodnight.
+Little one, did you know that getting ready is its own quiet kind of magic? Every kind word you practice, every little thing you notice, every small care you take — they're like lanterns you set out along tomorrow's path, and they'll be glowing there waiting when you need them. So you don't have to worry about tomorrow tonight. You've already packed it with good things, just by being you today. Let your lists rest, let your busy thoughts fold up like market awnings, and drift off slow and sweet. The morning is in good hands — yours. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration of a tiny adorable nigiri sushi character (pearly white rice body, glossy coral-orange salmon cape, neat black nori belt) standing proudly on a small wooden platform at a bustling Tokyo fish market at dawn. Golden lantern light, ribbons of steam, friendly cartoon fish vendors and a grand cap-wearing octopus auctioneer all around. Soft honey-gold sunrise glow, cozy and joyful, kawaii style, gentle painterly textures.
-2. Character portrait of Niko Nigiri, a tidy oval pillow of pearly rice wearing a glossy salmon cape and small nori belt, standing very straight with bright attentive eyes, holding a tiny checklist and pencil, a hopeful proud smile. Soft cute storybook style, warm dawn-pink background, sparkles of morning light.
-3. Cozy closing scene: little Niko Nigiri standing in warm honey-gold sunrise light at the Tsukiji market, holding a small wrapped gift of bright pink salmon, his checklist fluttering happily in the breeze, a jolly towel-wrapped tuna vendor beside him, a sleepy seagull on his shoulder. Glowing lanterns, soft steam, peaceful and content, whimsical kawaii storybook illustration.
+1. Warm whimsical storybook illustration of a tiny adorable nigiri sushi character (pearly white rice body, glossy coral-orange salmon cape, neat black nori belt) racing through a lantern-lit Tokyo fish market maze before dawn, carrying a bundle of golden rice straw twice his size, alleys of glowing stalls and rolling carts around him, wet cobblestones reflecting lantern light, a deadpan clam peeking from an ice barrel, cozy kawaii style, soft painterly textures, deep blue pre-dawn sky.
+2. Character portrait of Niko Nigiri, a tidy oval pillow of pearly white rice wearing a glossy coral-orange salmon cape and small nori belt, standing very straight with bright attentive eyes, holding an open notebook and a tiny pencil, a hand-drawn market map tucked under one arm, determined proud smile, soft cute storybook style, warm lantern-gold background with gentle bokeh.
+3. Cozy closing scene: little Niko Nigiri fast asleep in the back of a gleaming white-and-indigo sushi food truck with paper-lantern headlights, one hand resting on a small cedar box packed in sparkling ice, the emptying market behind them with awnings rolling closed and lanterns winking out, honey-gold sunrise light pouring over rooftops, peaceful and content, whimsical kawaii storybook illustration, dreamy bedtime mood.

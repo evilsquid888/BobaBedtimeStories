@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** The thatched-roof snow village of Shirakawa-go in deep winter
 **Theme:** A village keeps each other warm
-**Japanese Spotlight:** いえ (ie) = house / home
+**Japanese Spotlight:** ie (ee-eh) — house / home
 
 ---
 
@@ -12,7 +12,7 @@ Yuki the Snow Monkey-Manju rolled off the bus with a happy little *poff*, landed
 
 "Mmmmf," said Yuki, which is monkey-manju for *hello, snow.*
 
-She wiggled free, rosy onsen-warmed cheeks steaming faintly in the cold, and gasped. All around her stood the village of **白川郷** (Shirakawa-go), where the houses had roofs so steep and tall and pointy they looked like enormous mittens stacked up to their elbows in white. Snow lay thick as whipped cream on every roof. Snow puffed off every branch. Snow even sat in tidy little hats on top of the fence posts, and Yuki was *quite sure* one of those hats winked at her.
+She wiggled free, rosy onsen-warmed cheeks steaming faintly in the cold, and gasped. All around her stood the village of **Shirakawa-go** (shee-rah-kah-wah-goh), where the houses had roofs so steep and tall and pointy they looked like enormous mittens stacked up to their elbows in white. Snow lay thick as whipped cream on every roof. Snow puffed off every branch. Snow even sat in tidy little hats on top of the fence posts, and Yuki was *quite sure* one of those hats winked at her.
 
 "It's a whole village made of cozy," she whispered, hugging her own fluffy arms. "I could nap here for a hundred years."
 
@@ -22,9 +22,9 @@ A small voice answered from a doorway: "You'd be buried by morning!"
 
 The voice belonged to a grandmother — a round, gentle dumpling of a granny with flour on her apron — who waved Yuki inside with a wooden spoon.
 
-"Welcome, little one! This is my **いえ** (ie) — my house, my home. Get in before the cold nibbles your ears."
+"Welcome, little one! This is my **ie** (ee-eh) — my house, my home. Get in before the cold nibbles your ears."
 
-Inside, the **いえ** was warm and golden. A fire crackled in a sunken hearth. The thatched roof curved overhead like the inside of a sleepy turtle. And it smelled — oh, it smelled — of toasty rice and sweet bean and woodsmoke, which is approximately the smell of being hugged.
+Inside, the ie was warm and golden. A fire crackled in a sunken hearth. The thatched roof curved overhead like the inside of a sleepy turtle. And it smelled — oh, it smelled — of toasty rice and sweet bean and woodsmoke, which is approximately the smell of being hugged.
 
 Yuki curled by the fire and sighed the longest, happiest sigh. "Warm cheeks, warm heart, warm friends," she murmured. "I never want to leave."
 
@@ -40,7 +40,7 @@ Yuki gulped. She was very good at napping. She was less sure about snow taller t
 
 That evening the whole village gathered in the lane, bundled and bright-eyed, holding wooden shovels nearly as tall as they were. There was Granny, and a baker with mittens shaped like buns, and a fishmonger, and a dozen tiny round neighbors who all looked a bit like rice balls in scarves.
 
-A village elder clapped twice. "Snow is coming! You all know the old way. We work **結** (yui) = working together as one — every neighbor lends a hand to every neighbor. No house is shoveled alone. No **いえ** is left buried!"
+A village elder clapped twice. "Snow is coming! You all know the old way. We work **yui** (yoo-ee) — working together as one — every neighbor lends a hand to every neighbor. No house is shoveled alone. No ie is left buried!"
 
 "Yui! Yui!" the village cheered, raising their shovels.
 
@@ -54,7 +54,7 @@ The village laughed — but kindly, the warm kind of laugh that scoops you up in
 
 Down came the snow.
 
-It came soft at first, then thick, then in great fat fistfuls, until the whole world was a shaken snow globe and the only light was the warm orange glow leaking from every little **いえ**.
+It came soft at first, then thick, then in great fat fistfuls, until the whole world was a shaken snow globe and the only light was the warm orange glow leaking from every little ie.
 
 And the village worked.
 
@@ -64,11 +64,11 @@ Yuki found she was rather good at the *small* jobs. She was too short to reach t
 
 "Look! Look!" cried a little rice-ball neighbor. "The bun is making a road!"
 
-Yuki beamed, steam puffing from her happy cheeks. "I'm a **餅つき** (mochitsuki) = rice-pounding... but for SNOW!" She didn't entirely know what she was saying, but everyone clapped, so it must have been right.
+Yuki beamed, steam puffing from her happy cheeks. "I'm a **mochitsuki** (moh-chee-tsoo-kee) — rice-pounding... but for SNOW!" She didn't entirely know what she was saying, but everyone clapped, so it must have been right.
 
 ---
 
-They cleared one **いえ**. Then another. Then the baker's, where he thanked them with warm sweet rolls passed paw to paw down the line. Then the fishmonger's, where everyone got a tiny grilled treat that went *crackle* in the cold.
+They cleared one ie. Then another. Then the baker's, where he thanked them with warm sweet rolls passed paw to paw down the line. Then the fishmonger's, where everyone got a tiny grilled treat that went *crackle* in the cold.
 
 This, Yuki realized with a warm jolt, was the SECRET. Nobody worked for just their own door. Everybody worked for everybody's door — and so everybody's arms got tired at exactly the same time, and everybody's bellies got warm at exactly the same time, and nobody ever, ever felt alone in the cold.
 
@@ -76,11 +76,11 @@ This, Yuki realized with a warm jolt, was the SECRET. Nobody worked for just the
 
 But then — at the very end of the lane — they reached the LAST house.
 
-It was the smallest **いえ** of all, and the snow there had piled higher than anywhere else, right up over the little round door. A thin, worried voice called from inside:
+It was the smallest ie of all, and the snow there had piled higher than anywhere else, right up over the little round door. A thin, worried voice called from inside:
 
 "H-hello? Is someone out there? My door won't open!"
 
-It was old Mr. Kuri, a chestnut so elderly his cap had gone gray. He lived alone at the end of the lane, and the wind had dumped ALL its snow against his door like a giant white pillow.
+It was old Mr. Kurumi, a walnut so elderly his shell had gone gray. He lived alone at the end of the lane, and the wind had dumped ALL its snow against his door like a giant white pillow.
 
 "His door is buried," gasped Granny. "And we're all so tired..."
 
@@ -96,7 +96,7 @@ And that — wouldn't you know it — was exactly the moment a small, round, flu
 
 Everyone turned.
 
-"I'm small. And squishy. And I bounce." Yuki pointed at the little chimney poking up from the snow. "If you boost me to the roof, I can wiggle down to Mr. Kuri, and we can dig from the INSIDE while you dig from the OUTSIDE. We'll meet in the middle!" She wobbled, then steadied herself, just like a daruma. "Fall down seven, bounce up eight, right?"
+"I'm small. And squishy. And I bounce." Yuki pointed at the little chimney poking up from the snow. "If you boost me to the roof, I can wiggle down to Mr. Kurumi, and we can dig from the INSIDE while you dig from the OUTSIDE. We'll meet in the middle!" She wobbled, then steadied herself, just like a daruma. "Fall down seven, bounce up eight, right?"
 
 Granny's eyes shone. "That's the spirit of this whole village, little one."
 
@@ -104,27 +104,27 @@ So they boosted her up — paw over mitten over spoon — onto the snowy roof. Y
 
 ---
 
-Inside, Mr. Kuri was sitting by his cold little fire, and his whole wrinkly chestnut face crumpled with relief when a fluffy monkey-bun popped out beside him with a startled "*POFF!*"
+Inside, Mr. Kurumi was sitting by his cold little fire, and his whole wrinkly walnut face crumpled with relief when a fluffy monkey-bun popped out beside him with a startled "*POFF!*"
 
 "You came," he whispered. "I thought... I thought I'd be alone all winter."
 
 "Nobody's alone here," said Yuki firmly, dusting snow off her ears. "That's the whole *point* of a village. Now — DIG!"
 
-And so they did. Mr. Kuri pushed from the inside with his sturdy little chestnut shoulders. Yuki rolled and packed and scooped with her bouncy round body. And from the OTHER side of the drift, Yuki could hear the whole village singing the shoveling song, *scoop-toss-step, scoop-toss-step,* coming closer and closer—
+And so they did. Mr. Kurumi pushed from the inside with his sturdy little walnut shoulders. Yuki rolled and packed and scooped with her bouncy round body. And from the OTHER side of the drift, Yuki could hear the whole village singing the shoveling song, *scoop-toss-step, scoop-toss-step,* coming closer and closer—
 
 —until a wooden spoon poked right through the snow.
 
 "GRANNY!" cheered Yuki.
 
-The drift collapsed in a glittering whoosh, and there stood the whole village in the falling snow, lit gold from every open door, arms thrown wide. They scooped up Yuki AND Mr. Kuri AND each other in one enormous, snowy, steamy group squish.
+The drift collapsed in a glittering whoosh, and there stood the whole village in the falling snow, lit gold from every open door, arms thrown wide. They scooped up Yuki AND Mr. Kurumi AND each other in one enormous, snowy, steamy group squish.
 
 "Squish together, stay together!" Yuki shouted, finally getting the words exactly right.
 
 ---
 
-That night, every **いえ** in Shirakawa-go glowed warm against the dark, and not a single door was buried.
+That night, every ie in Shirakawa-go glowed warm against the dark, and not a single door was buried.
 
-The village crowded into Granny's house — all of them, even Mr. Kuri, wrapped in quilts by the fire while the snow kept falling outside, gentle as goodnight. There was warm sweet soup. There were toasty rice cakes. There was a sleepy chestnut grandfather laughing at last, his cap no longer quite so gray.
+The village crowded into Granny's house — all of them, even Mr. Kurumi, wrapped in quilts by the fire while the snow kept falling outside, gentle as goodnight. There was warm sweet soup. There were toasty rice cakes. There was a sleepy walnut grandfather laughing at last, his shell no longer quite so gray.
 
 Yuki, full and warm and bone-tired in the best way, snuggled into the pile of neighbors and felt the truth of it settle over her like a thick thatched roof:
 
@@ -142,4 +142,4 @@ May your house be warm and your roof hold the snow gently, like a soft white bla
 ## AI Image Prompts
 1. Key scene — warm whimsical storybook illustration: the snow village of Shirakawa-go at night, steep thatched mitten-shaped roofs heavy with snow, every little window glowing gold; a long line of round dumpling-like villagers shoveling snow together in a row while a tiny fluffy white snow-monkey-shaped steamed bun (Yuki) with rosy steaming cheeks rolls along packing down a snowy path; fat snowflakes falling, deep indigo sky, cozy golden lantern light spilling onto blue snow; soft painterly textures, gentle and magical mood.
 2. Character portrait — Yuki the Snow Monkey-Manju: a plump, fluffy white steamed bun shaped like an adorable baby snow monkey, rosy onsen-warmed cheeks faintly steaming, big gentle eyes, holding a wooden snow shovel taller than herself with a determined little smile; soft snowfall background, warm storybook palette of cream-white, blush-pink, and pale blue.
-3. Closing scene — the whole village piled together in cozy quilts around a sunken fire inside a thatched-roof farmhouse (ie), warm orange firelight, steaming bowls of sweet soup, an elderly chestnut grandfather laughing, and Yuki the snow-monkey-bun fast asleep in the middle of the snuggly pile; snow falling softly past a glowing window; deeply warm, sleepy, golden-hour-by-firelight mood, tender and peaceful.
+3. Closing scene — the whole village piled together in cozy quilts around a sunken fire inside a thatched-roof farmhouse (ie), warm orange firelight, steaming bowls of sweet soup, an elderly walnut grandfather laughing, and Yuki the snow-monkey-bun fast asleep in the middle of the snuggly pile; snow falling softly past a glowing window; deeply warm, sleepy, golden-hour-by-firelight mood, tender and peaceful.

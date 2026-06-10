@@ -1,10 +1,10 @@
 # Story 47: Rin Ramen and the Slurpy Udon Race
 
 **Main Character:** Rin Ramen
-**Guest Characters:** None
+**Guest Characters:** Grandmother Koshi, Mero Melonpan, Maru Matcha, Tama Onigiri, Kei the kei-truck
 **Setting:** A countryside udon noodle shop famous for thick chewy noodles
 **Theme:** Slowing down lets you taste the good stuff
-**Japanese Spotlight:** うどん (udon) = thick wheat noodles
+**Japanese Spotlight:** **udon** (oo-dohn) — thick wheat noodles
 
 ---
 
@@ -12,7 +12,7 @@ Rin Ramen came bouncing down the misty mountain road so fast that his golden bro
 
 "FASTER!" Rin hollered, steam puffing out of his ears like a happy kettle. "We're going to the most famous noodle shop in the whole countryside, and I, the great Rin Ramen, am going to SLURP everyone under the table!"
 
-Behind him puttered a teeny butter-yellow truck, its springs going *boing-boing*, its headlight eyes wide with worry.
+Behind him puttered a teeny butter-yellow truck, her springs going *boing-boing*, her headlight eyes wide with worry.
 
 "Putt-putt — Rin, you're spilling your whole self everywhere!" beeped Kei the kei-truck.
 
@@ -22,11 +22,11 @@ And up the green hill they raced, toward a little wooden shop with steam curling
 
 ---
 
-The shop was called **のんびり庵** (Nonbiri-an) = the Take-It-Easy Cottage, and it was the coziest place Rin had ever seen — which, frankly, annoyed him a little. He didn't have *time* for cozy. He had a race to win.
+The shop was called **Nonbiri-an** (nohn-bee-ree-ahn) — the Take-It-Easy Cottage — and it was the coziest place Rin had ever seen — which, frankly, annoyed him a little. He didn't have *time* for cozy. He had a race to win.
 
 Inside, the air was warm and white with steam, smelling of wheat and gentle soy. Long ropes of dough hung drying like sleepy snakes. And at the center of it all sat the friends Rin had invited: Tama Onigiri, snug as a little rice-pillow; Maru Matcha, calm half-moon eyes already half-closed; and Mero Melonpan, who had fallen asleep before they'd even sat down and was snoring soft crumby snores.
 
-"FRIENDS!" Rin announced, climbing onto a cushion and nearly tipping his whole bowl over. "Welcome to the FIRST EVER Great Countryside うどん (udon) = thick wheat noodles Slurping Race! Rules: the one who slurps their bowl fastest WINS. And I plan to win SO fast that the noodles won't even know they've been eaten!"
+"FRIENDS!" Rin announced, climbing onto a cushion and nearly tipping his whole bowl over. "Welcome to the FIRST EVER Great Countryside **udon** (oo-dohn) — thick wheat noodles — Slurping Race! Rules: the one who slurps their bowl fastest WINS. And I plan to win SO fast that the noodles won't even know they've been eaten!"
 
 "I packed a little extra napkins," said Tama gently, "just in case somebody splashes."
 
@@ -42,7 +42,7 @@ From the back of the shop came a sound like slippers shuffling across a warm flo
 
 And out came the oldest, plumpest, most marvelously wrinkled noodle anyone had ever seen.
 
-She was a single, enormous strand of うどん (udon) coiled into the shape of a tiny round grandmother, soft and pale and pillowy, with a dusting of flour on her shoulders like the first gentle snow. Her eyes were two warm sesame seeds. She wore a little apron tied in a bow, and she moved as slowly as honey dripping off a spoon.
+She was a single, enormous strand of udon coiled into the shape of a tiny round grandmother, soft and pale and pillowy, with a dusting of flour on her shoulders like the first gentle snow. Her eyes were two warm sesame seeds. She wore a little apron tied in a bow, and she moved as slowly as honey dripping off a spoon.
 
 "Well, well," she said, her voice as soft as steam. "Welcome, little ones, to my shop. I am Grandmother Koshi — and *koshi*, you know, is the springy, chewy bounce a good noodle has when you take your time with it." She smiled. "I have been making udon here for one hundred and twelve years."
 
@@ -120,13 +120,13 @@ It was *chewy*. It bounced back against him like a little hug. The broth was dee
 
 "I..." Rin's eyes went shiny. A happy bit of steam curled up, slow and soft this time. "I couldn't taste anything when I was racing. I was so busy *winning* I forgot to *enjoy*."
 
-"That," said Grandmother Koshi, patting his bowl, "is the secret of udon. The chewiest, warmest noodle is best when you take your sweet, slow time. **ゆっくり** (yukkuri) = slowly, taking it easy — that is how you taste the good stuff."
+"That," said Grandmother Koshi, patting his bowl, "is the secret of udon. The chewiest, warmest noodle is best when you take your sweet, slow time. **Yukkuri** (yook-koo-ree) — slowly, taking it easy — that is how you taste the good stuff."
 
 ---
 
 So they started again — but this time there was no race at all.
 
-This time they slurped slowly, together, passing the steam around, *yukkuri yukkuri*. Tama shared his extra napkins, which nobody ended up needing, because nobody splashed. Maru whisked the broth in tiny calm circles and announced, between sips, that "a noodle, like a friend, is best when you give it your whole attention." Mero stayed awake for a whole, wondrous bowl, marveling at how each noodle was "crackle on the outside of a *dream*."
+This time they slurped slowly, together, passing the steam around, *yukkuri yukkuri*. Tama shared her extra napkins, which nobody ended up needing, because nobody splashed. Maru whisked the broth in tiny calm circles and announced, between sips, that "a noodle, like a friend, is best when you give it your whole attention." Mero stayed awake for a whole, wondrous bowl, marveling at how each noodle was "crackle on the outside of a *dream*."
 
 And Rin — Rin slurped one noodle at a time, savoring every bouncy bite, his steam puffing soft and content instead of frantic and fast. He found, to his great surprise, that slow slurping had its own little music: a gentle *mmm* on each bite, a happy sigh between, the soft clink of chopsticks. It was, he decided, the very best song he'd ever heard, and it had been hiding inside his hurry the whole time.
 

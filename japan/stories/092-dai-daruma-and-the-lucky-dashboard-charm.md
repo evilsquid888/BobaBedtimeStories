@@ -4,7 +4,7 @@
 **Guest Characters:** The whole car crew — Kei the kei-truck, Pock Ramune, Tako & Yaki, Maru Matcha, Coro the Korokke
 **Setting:** A cozy garage workshop restoring a beloved classic car
 **Theme:** The luck you feel is the love you put in
-**Japanese Spotlight:** お守り (omamori) = lucky charm
+**Japanese Spotlight:** **omamori** (oh-mah-MOH-ree) — lucky charm
 
 ---
 
@@ -22,7 +22,7 @@ He wobbled. He always wobbled. But here is the wonderful thing about Dai Daruma:
 
 That was when the big doors rumbled open, and the whole crew rolled in.
 
-The first one through was **Kei** the kei-truck — a teeny, round, butter-yellow mini-truck with big headlight eyes and a knitted seat-cover worn like a cozy sweater. "Putt-putt, let's GO!" Kei beeped, bouncing happily on his springs.
+The first one through was **Kei** the kei-truck — a teeny, round, butter-yellow mini-truck with big headlight eyes and a knitted seat-cover worn like a cozy sweater. "Putt-putt, let's GO!" Kei beeped, bouncing happily on her springs.
 
 Behind Kei came Pock Ramune, a frosty pale-blue soda bottle who zipped in leaving a trail of happy bubbles — *pop, pop, pop!* Then Tako & Yaki, the giggly golden takoyaki twins, bounced in finishing each other's sentences ("We heard—" "—there's a SURPRISE in here!"). Maru Matcha glided in last, calm and jade-green, her little bamboo whisk tucked behind her ear like a pencil, with Coro the Korokke trotting beside her, golden and crispy and already a little flustered.
 
@@ -50,7 +50,7 @@ Nobody heard him. He was very small and very far back on the shelf.
 
 So the work began, and oh, what work it was.
 
-Kei the kei-truck became the hauler. All day he putt-putted in and out of the garage, his little flatbed loaded with new tires, cans of paint, and shiny silver bolts. "Putt-PUTT!" he beeped each time, springs bouncing, very pleased to be useful. Once he hauled in a part so big it stuck out both sides, and he wobbled down the road like a turtle wearing a surfboard, and everyone laughed, and Kei laughed too — *beep beep beep* — which only made him wobble more.
+Kei the kei-truck became the hauler. All day she putt-putted in and out of the garage, her little flatbed loaded with new tires, cans of paint, and shiny silver bolts. "Putt-PUTT!" she beeped each time, springs bouncing, very pleased to be useful. Once she hauled in a part so big it stuck out both sides, and she wobbled down the road like a turtle wearing a surfboard, and everyone laughed, and Kei laughed too — *beep beep beep* — which only made her wobble more.
 
 Pock Ramune was the polisher. He zipped across the old red paint at top speed, fizzing and buffing, *pop-pop-pop*, leaving the metal gleaming behind him. "Watch THIS!" he cried, and zoomed across the hood so fast his bubbles spelled out a tiny *WOW* in the air before they popped.
 
@@ -104,33 +104,39 @@ He bounced off the shelf — *boing!* — off a toolbox — *boing!* — off Kei
 
 "You've been here the whole time?" said Coro.
 
-"The WHOLE time," said Dai Daruma. "And I have been thinking. You have given this car new tires, new paint, new bolts. You have given her your hands and your days and your whole hearts. But you have not given her one thing." He puffed up his crimson chest. "An **お守り** (omamori) = a lucky charm. Every beloved car needs one swinging from her mirror — a little guardian, full of all the wishes and love that went into her. And I," he declared, "volunteer."
+"The WHOLE time," said Dai Daruma. "And I have been thinking. You have given this car new tires, new paint, new bolts. You have given her your hands and your days and your whole hearts. But you have not given her one thing." He puffed up his crimson chest. "An **omamori** (oh-mah-MOH-ree) — a lucky charm. Every beloved car needs one swinging from her mirror — a little guardian, full of all the wishes and love that went into her."
 
-The crew looked at each other. Then Maru Matcha smiled her slow, calm smile.
+"Then it should be YOU!" cried Tako & Yaki together.
 
-"A daruma is for wishes," she said. "And there's an old way to wake a wish. When you start, you paint in one eye. And when the wish comes true..."
+Dai's eyebrows wiggled, very flattered. "Tempting! Extremely tempting. But no." He tapped the smooth blank spot where his second eye waited. "A daruma's eyes belong to his own wish — and mine waits for the biggest wish of all. This car needs a little daruma of her very own. And as it happens..." He leaned in, lowering his coach-voice to a coach-whisper. "A daruma who sits on a shelf for years sees *everything*. Bottom drawer of the big toolbox. Behind the spare spark plugs."
+
+Coro hurried over, tugged the drawer open with a squeak, and let out a tiny gasp of steam. There, wrapped in a soft cloth, lay a teeny daruma charm no bigger than a cherry — round and crimson on a faded red cord, both eyes blank and patiently waiting. Grandfather must have bought it at a shrine long ago, meaning to hang it the very day the car was finished. He had simply never gotten the chance.
+
+"Then we'll finish it for him," said Maru Matcha, smiling her slow, calm smile. "A daruma is for wishes. And there's an old way to wake a wish. When the work begins, you paint in one eye. And when the wish comes true..."
 
 "...you paint in the other," whispered Coro, glowing.
 
-So they did. Maru Matcha lifted Dai Daruma up to the rearview mirror and hung him there on a soft red cord, where he swung gently, beaming over the whole front seat. Then Coro, with the steadiest paw he could manage, dipped a tiny brush and painted Dai Daruma's first eye fresh and bright, and they all made a wish together — *please, dear car, wake up* — and held their breath.
+So they did. Maru Matcha hung the tiny charm from the rearview mirror on its soft red cord, where it swung gently over the whole front seat — and she set Dai Daruma on the dashboard right beneath it, because every brand-new charm deserves a coach. "Sit tall, little one," Dai instructed tenderly. "Eyebrows determined. Wobble proud. You hold the wishes — we'll do the work." Then Coro, with the steadiest crumb-steady grip he could manage, dipped a tiny brush and painted the little charm's first eye fresh and bright — the wish begun at last — and they all wished together — *please, dear car, wake up* — and held their breath.
+
+But first, Maru Matcha did one more quiet thing. She slipped beneath the hood and gave the last stubborn bolt on the fuel line — the very one Kei had been beeping about all afternoon — a careful final quarter-turn. "Luck works best," she murmured, "when the bolts are snug."
 
 Kei put a hopeful little tire on the pedal.
 
 The engine coughed. It sputtered. It went *vrm... vrm...*
 
-And then — as Dai Daruma swung from the mirror, glowing with every ounce of stubborn never-give-up courage in his round red body — the engine roared to life. *VROOM!* The headlights blazed. The whole car shivered awake and gave a happy little honk, *BEEP*, as if she'd only been waiting for someone to believe in her enough.
+And then — as the tiny charm swung from the mirror, and Dai Daruma beamed up at it with every ounce of stubborn never-give-up courage in his round red body — the engine roared to life. *VROOM!* The headlights blazed. The whole car shivered awake and gave a happy little honk, *BEEP*, as if she'd only been waiting for someone to believe in her enough — and, as Maru pointed out gently, for that very last snug bolt. The charm was the blessing. The work was the waking. A beloved car needs both.
 
-The garage exploded with cheers. Pock fizzed bubbles everywhere. Tako & Yaki rolled in joyful circles. Coro cried happy golden tears (and a little steam). And there, in the middle of it all, Maru Matcha lifted the brush one more time and painted in Dai Daruma's *second* eye — because the wish had come true.
+The garage exploded with cheers. Pock fizzed bubbles everywhere. Tako & Yaki rolled in joyful circles. Coro cried happy golden tears (and a little steam). And there, in the middle of it all, Maru Matcha lifted the brush one more time and painted in the little charm's *second* eye — because the wish had come true.
 
-Two bright eyes now. A wish fulfilled. A car alive.
+Two bright eyes on the tiny guardian. A wish fulfilled. A car alive. And Dai Daruma's own second eye? Still blank, still patient, still waiting — exactly the way he wanted it.
 
 That night, they took her for her first drive — down the quiet mountain road under a sky full of stars, Kei putt-putting proudly behind, everyone laughing, the engine humming a happy song.
 
-And Dai Daruma swung from the mirror with both eyes shining, watching over the friends who had loved this old car back to life. He understood something now, deep in his sweet-bean heart.
+And Dai Daruma rode proudly on the dashboard, his one painted eye shining, the little two-eyed charm swinging above him — both of them watching over the friends who had loved this old car back to life. He understood something now, deep in his sweet-bean heart.
 
-The luck wasn't *in* him. The luck was all of them — every careful bolt, every silly cheer, every patient day. He was just the little charm that got to hold all that love in one round red place.
+The luck wasn't *in* the charm. The luck was all of them — every careful bolt, every silly cheer, every patient day. The charm was just the little round red place that got to hold all that love.
 
-"The luck you feel," he said softly to the mirror, "is the love you put in."
+"The luck you feel," he said softly to his tiny new student, "is the love you put in."
 
 And the car beeped, very gently, as if to say: *exactly.*
 
@@ -141,5 +147,5 @@ May you be like a beloved old car, woken up gently by friends who care. May the 
 
 ## AI Image Prompts
 1. Warm whimsical storybook illustration: a cozy garage workshop at dusk, golden lamplight glowing. A lovingly restored classic car with round friendly fenders gleams in deep sunset-red paint. Around it cheer an adorable crew — a butter-yellow kei-truck with headlight eyes, a frosty blue soda bottle trailing bubbles, two giggly golden takoyaki twins mid-bounce, a calm jade-green matcha friend with a tiny whisk, and a flustered golden croquette with a happy steam puff. Soft warm palette of amber, crimson, and gentle green. Mood: triumphant, snuggly, magical.
-2. Character portrait: Dai Daruma, a round roly-poly crimson daruma doll with the biggest determined eyebrows like two brave caterpillars, swinging cheerfully from a car's rearview mirror on a soft red cord, both eyes freshly painted and shining bright. Glossy crimson dome body, tiny proud smile, a faint cozy glow around him. Soft storybook lighting, warm reds and golds, kawaii and cozy.
-3. Closing scene: night drive down a quiet mountain road beneath a sky thick with stars. The restored red classic car hums along with headlights glowing warm, the little butter-yellow kei-truck putt-putting happily behind. From the rearview mirror swings Dai Daruma with two bright eyes, watching over his friends. Dreamy navy-and-gold palette, twinkling stars, soft tail-light glow, peaceful and full of love.
+2. Character portrait: Dai Daruma, a round roly-poly crimson daruma doll with the biggest determined eyebrows like two brave caterpillars, sitting proudly on a classic car's dashboard with one painted eye shining and the other eye blank and waiting, gazing up like a fond coach at a tiny cherry-sized daruma charm swinging from the rearview mirror on a soft red cord — the little charm's two eyes freshly painted and bright. Glossy crimson dome bodies, tiny proud smiles, a faint cozy glow around them. Soft storybook lighting, warm reds and golds, kawaii and cozy.
+3. Closing scene: night drive down a quiet mountain road beneath a sky thick with stars. The restored red classic car hums along with headlights glowing warm, the little butter-yellow kei-truck putt-putting happily behind. From the rearview mirror swings a tiny two-eyed daruma charm on a red cord, while Dai Daruma — one painted eye shining, the other blank and waiting — rides proudly on the dashboard below, watching over his friends. Dreamy navy-and-gold palette, twinkling stars, soft tail-light glow, peaceful and full of love.

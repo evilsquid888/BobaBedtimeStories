@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A train-station souvenir shop full of regional treats
 **Theme:** The most thoughtful gift fits the friend, not the list
-**Japanese Spotlight:** おみやげ (omiyage) = souvenir gift
+**Japanese Spotlight:** **omiyage** (oh-mee-YAH-geh) — souvenir gift
 
 ---
 
@@ -12,7 +12,7 @@ Niko Nigiri stood very straight in the middle of the train station, salmon cape 
 
 "One souvenir for every friend," he announced, to nobody and to the entire station at once. "Purchased in order. Wrapped to match. Carried home without a single crumb out of place."
 
-A loudspeaker chimed somewhere far away. Travelers shuffled past with bulging bags. And right in front of Niko's bright, attentive eyes glowed the most wonderful place in the whole world: the station souvenir shop, packed wall to wall with **おみやげ** (omiyage) = souvenir gift, those special little treats you bring home to say *I went somewhere lovely, and I thought of you.*
+A loudspeaker chimed somewhere far away. Travelers shuffled past with bulging bags. And right in front of Niko's bright, attentive eyes glowed the most wonderful place in the whole world: the station souvenir shop, packed wall to wall with **omiyage** (oh-mee-YAH-geh) — souvenir gifts, those special little treats you bring home to say *I went somewhere lovely, and I thought of you.*
 
 "Let's do this neatly," Niko said, straightening his nori belt. "...or deliciously."
 
@@ -40,7 +40,7 @@ It would be like giving a fish a glass of water. Technically correct. Slightly s
 
 "No," he decided, putting the box back with great care. "Momo doesn't need more mochi. Momo needs..." He drummed his fingers. "...a hug she can keep."
 
-He wandered the aisles, peering at this and that, until — there. A tiny knitted **てぬぐい** (tenugui) = thin cotton hand-towel, soft as a cloud and printed with little peaches, *momo* peaches, the very fruit Momo was named for. He held it up. It was squishy. It was warm-colored. It practically begged to be hugged.
+He wandered the aisles, peering at this and that, until — there. A tiny **tenugui** (teh-NOO-goo-ee) — a thin cotton hand-towel — soft as a cloud and printed with little peaches, *momo* peaches, the very fruit Momo was named for. He held it up. It was squishy. It was warm-colored. It practically begged to be hugged.
 
 "For squishing," Niko whispered, "when I'm not there to be squished." He tucked it gently into the basket. His System had just gained a new rule, though he didn't know it yet: *the gift should fit the friend, not the list.*
 
@@ -58,7 +58,7 @@ He thought of calm, half-moon-eyed Maru, who carried a tiny bamboo whisk like a 
 
 The answer floated up gentle and sure: *quiet.* Maru loved a slow, quiet moment.
 
-So Niko skipped the green corner entirely and found, on a low shelf, a small bag of **furin** wind chimes — tiny glass bells that sang the softest *ting* when the breeze touched them. He gave one a careful flick. *Ting.* It was the sound of a calm afternoon. It was the sound of *whisk slow, feel calm.*
+So Niko skipped the green corner entirely and found, on a low shelf, a small bag of **furin** (FOO-reen) — wind chimes, tiny glass bells that sang the softest *ting* when the breeze touched them. He gave one a careful flick. *Ting.* It was the sound of a calm afternoon. It was the sound of *whisk slow, feel calm.*
 
 "Oh, yes," Niko breathed. Into the basket it went.
 
@@ -66,7 +66,7 @@ So Niko skipped the green corner entirely and found, on a low shelf, a small bag
 
 By now Niko had quite forgotten about going in order. His list flapped, half-ignored, as he zigzagged happily through the shop, *thinking* about each friend instead of simply *reading* about them.
 
-For Rin Ramen — hearty, slurpy, big-feelings Rin, who declared *"Everything's better warm and bubbly!"* — Niko found a fat little packet of golden corn snacks shaped like the corn freckle Rin wore on her own cheek. He laughed out loud picturing her face.
+For Rin Ramen — hearty, slurpy, big-feelings Rin, who declared *"Everything's better warm and bubbly!"* — Niko found a fat little packet of golden corn snacks shaped like the corn freckle Rin wore on his own cheek. He laughed out loud picturing his face.
 
 For Mero Melonpan, the sleepy dreamer who napped anywhere, Niko found the softest tiny pillow shaped like a melon-pan bun, so Mero could nap *on* a melon-pan while *being* a melon-pan. ("Crackle on the outside, dreams on the inside," Niko murmured fondly.)
 
@@ -80,7 +80,7 @@ Each gift was a little harder to find than just grabbing the obvious box. Each o
 
 But the shop was big, and the basket was getting heavy, and somewhere around friend number eleven, Niko hit a wall.
 
-He sat down on a tiny stool by the **レジ** (reji) = checkout counter and stared at the one name left on his list. The hardest name. The name he'd quietly saved for last because he had absolutely no idea what to do with it.
+He sat down on a tiny stool by the checkout counter and stared at the one name left on his list. The hardest name. The name he'd quietly saved for last because he had absolutely no idea what to do with it.
 
 *Niko Nigiri.*
 

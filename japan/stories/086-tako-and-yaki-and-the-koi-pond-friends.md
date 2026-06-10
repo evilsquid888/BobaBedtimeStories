@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A peaceful garden koi pond with shimmering carp
 **Theme:** Calm friends can balance your bouncy energy
-**Japanese Spotlight:** こい (koi) = carp
+**Japanese Spotlight:** koi (koy) — carp
 
 ---
 
@@ -26,7 +26,7 @@ They cannonballed.
 
 When the ripples settled, two enormous, beautiful fish were staring at them. The fish were orange and white and shimmery, with long whiskers and tails like floating silk scarves. They blinked very, very slowly.
 
-"Oh," said the bigger fish, in a voice as smooth and unhurried as honey sliding off a spoon. "Hello, little bouncy things. I am Aki. We are **こい** (koi) = carp." She drifted in a lazy half-circle. "And you have made our pond go *splash*."
+"Oh," said the bigger fish, in a voice as smooth and unhurried as honey sliding off a spoon. "Hello, little bouncy things. I am Aki. We are **koi** (koy) — carp." She drifted in a lazy half-circle. "And you have made our pond go *splash*."
 
 "Sorrysorrysorry!" said Tako.
 
@@ -48,7 +48,7 @@ It was, the twins decided, the most boring thing they had ever seen in their ent
 
 They bounced around the garden the way they bounced everywhere — fast and loud and gloriously. They raced the stepping stones. They booped a wind chime forty times. They startled a frog so badly he hiccupped. They challenged a stone lantern to a staring contest and lost, twice, because the lantern was a statue and they kept blinking from laughing.
 
-They found a little arched bridge and bounced across it so many times the boards went *thump-thump-thump-thump* like a tiny drum solo. They found a patch of soft green **苔** (koke) = moss and used it as a trampoline until a very surprised beetle asked them, quite politely, to please stop. They found an echo behind the garden wall and shouted "TAKOYAKI!" into it eleven times just to hear it shout back. They invented a brand-new game called Bounce-Tag-No-Tag-Backs-Octopus-Edition, which had no rules and somehow they both won.
+They found a little arched bridge and bounced across it so many times the boards went *thump-thump-thump-thump* like a tiny drum solo. They found a patch of soft green **koke** (koh-keh) — moss and used it as a trampoline until a very surprised beetle asked them, quite politely, to please stop. They found an echo behind the garden wall and shouted "TAKOYAKI!" into it eleven times just to hear it shout back. They invented a brand-new game called Bounce-Tag-No-Tag-Backs-Octopus-Edition, which had no rules and somehow they both won.
 
 It was, for a while, the most fun a garden had ever contained.
 
@@ -80,7 +80,7 @@ The pond held them up like a cool, gentle hand. They bobbed. They didn't have to
 
 "Ohhh," whispered Yaki.
 
-"This is the part," said Mizu, gliding past, "that we call... oh, what is the word." He thought about it for a slow, slow moment. "Not the excited word. The *other* one. This is **のんびり** (nonbiri) = relaxed and easygoing." He smiled with his whole whiskery face. "Nonbiri is the best speed of all. It is the speed of clouds."
+"This is the part," said Mizu, gliding past, "that we call... oh, what is the word." He thought about it for a slow, slow moment. "Not the excited word. The *other* one. This is **nonbiri** (nohn-bee-ree) — relaxed and easygoing." He smiled with his whole whiskery face. "Nonbiri is the best speed of all. It is the speed of clouds."
 
 The twins floated. Above them the sky was a soft swirl of afternoon gold. A koi nosed gently at Yaki's bonito flake to see if it was a snack, decided it wasn't, and drifted off, unbothered. Somewhere a bamboo fountain went *tok... tok... tok*, slow as a sleepy heartbeat.
 

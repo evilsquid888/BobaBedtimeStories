@@ -4,7 +4,7 @@
 **Guest Characters:** Kei the kei-truck
 **Setting:** A neon-lit parking-lot car meet at night
 **Theme:** Show your own style and you'll find your crew
-**Japanese Spotlight:** 仲間 (nakama) = crew / companions
+**Japanese Spotlight:** nakama (nah-kah-mah) — crew / companions
 
 ---
 
@@ -22,7 +22,7 @@ He had no idea.
 
 "PUTT-PUTT, here I AM!"
 
-A teeny butter-yellow truck came bouncing across the lot on squeaky springs, headlight-eyes huge, knitted seat-cover flapping like a scarf in the wind. It was Kei the kei-truck, and he was so excited he beeped three times in a row and nearly bounced his own mud-flaps off.
+A teeny butter-yellow truck came rolling in smooth as butter, springs singing their new quiet song, headlight-eyes huge, knitted seat-cover flapping like a scarf in the wind. It was Kei the kei-truck, and she was so excited she beeped three times in a row and nearly bounced her own mud-flaps off.
 
 "Niko! You came! You came to the car meet!" Kei skidded to a wobbly stop, sproinging up and down. "Isn't it the COOLEST? Look at everybody!"
 
@@ -54,7 +54,7 @@ First he borrowed some leftover under-glow tubes from the grape-soda car. He cli
 
 "Hmm," said Niko. "Bold. Maybe... too bold."
 
-Next he wrapped a giant glittery sticker over the noren curtain. It said, in enormous chrome letters, **速い** (hayai) = fast.
+Next he wrapped a giant glittery sticker over the noren curtain. It said, in enormous chrome letters, **hayai** (hah-yah-ee) — fast.
 
 "But we don't go fast," Kei pointed out. "You park very carefully and ring a bell."
 
@@ -100,7 +100,7 @@ Maru sat down on her skateboard and patted the spot beside her. Niko slid down o
 
 Niko had to admit it would be very boring indeed.
 
-"They came to find their 仲間 (nakama) — their crew," Maru went on. "And you don't find your crew by hiding what you are. You find them by showing it. The truer your light, the easier you are to find."
+"They came to find their **nakama** (nah-kah-mah) — their crew," Maru went on. "And you don't find your crew by hiding what you are. You find them by showing it. The truer your light, the easier you are to find."
 
 Niko was quiet for a long moment. Around them, the neon hummed its bright happy hum.
 
@@ -138,7 +138,7 @@ Then the cat van. Then the sticker car. Then the jazz bus, humming along to itse
 
 "That's *why* we like you," said the speedster.
 
-Kei the kei-truck bounced up and down so hard he beeped. "See, Niko? SEE? You didn't have to fit in. They came to YOU!"
+Kei the kei-truck bounced up and down so hard she beeped. "See, Niko? SEE? You didn't have to fit in. They came to YOU!"
 
 Niko looked around at all the different cars, all glowing in their own different ways, all gathered together — a hundred styles, one crew. His heart felt warm as fresh rice.
 

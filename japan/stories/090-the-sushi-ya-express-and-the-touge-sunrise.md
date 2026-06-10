@@ -4,7 +4,7 @@
 **Guest Characters:** Niko Nigiri, Rin Ramen
 **Setting:** A winding mountain pass (touge) at dawn
 **Theme:** The joy is the journey you share
-**Japanese Spotlight:** 峠 (tōge) = mountain pass
+**Japanese Spotlight:** toge (toh-geh) — mountain pass
 
 ---
 
@@ -20,7 +20,7 @@ From inside her warm cabin came two enormous yawns and one extremely dramatic gr
 
 "Everything's better warm and bubbly," sighed Rin Ramen, steam curling sleepily off his broth, "but is anything better at *four in the morning?*"
 
-"The view is!" beamed the Sushi-ya Express. "Climb aboard. We're driving up the 峠 (tōge) = mountain pass — to deliver the freshest sunrise breakfast in all of Japan!"
+"The view is!" beamed the Sushi-ya Express. "Climb aboard. We're driving up the **toge** (toh-geh) — mountain pass — to deliver the freshest sunrise breakfast in all of Japan!"
 
 That woke them up.
 
@@ -28,7 +28,7 @@ That woke them up.
 
 You see, high above the valley sat a tiny tea house, perched on the misty shoulder of the mountain like a cat on a fence. Every spring, the tea-house grandmother served sunrise breakfast to the early-bird hikers. And every spring she wished — just *once* — that someone could bring her guests fresh sushi, made that very morning, to eat as the sun came up over the peaks.
 
-"Nobody's ever done it," the Sushi-ya Express explained as her engine warmed. "The road up the 峠 is too windy. Too misty. Too *wiggly.* But I think we can do it — if we go slow, and go together."
+"Nobody's ever done it," the Sushi-ya Express explained as her engine warmed. "The road up the toge is too windy. Too misty. Too *wiggly.* But I think we can do it — if we go slow, and go together."
 
 Niko Nigiri loved a good plan. He pulled out a tiny checklist. "Right. Rice, prepared. Salmon, sliced. Nori, crisp. Wasabi, *politely* spicy. Let's do this neatly... or deliciously!"
 
@@ -36,7 +36,7 @@ Rin Ramen wobbled into his cozy corner and buckled in, his soft-boiled-egg cheek
 
 "Putt-putt — let's GO!" honked a teeny butter-yellow voice from outside.
 
-It was Kei the kei-truck, bouncing on his little springs, headlight-eyes shining. "I'll lead the way! I know every wiggle of this road!"
+It was Kei the kei-truck, bouncing on her little springs, headlight-eyes shining. "I'll lead the way! I know every wiggle of this road!"
 
 And so, with a gentle *vroom* and a happy bubble of steam, the little caravan rolled into the dark — Kei in front, the Sushi-ya Express close behind, and two breakfast friends inside watching the trees go by.
 
@@ -54,11 +54,11 @@ And then it did something the road back home never did: it began to *wiggle.* Le
 
 "Never better!" she sang, though her headlights wobbled just a little. "Whisk slow, take the curve, breathe out. Just like Maru taught me."
 
-Up ahead, a thick blanket of **霧** (kiri) = fog rolled across the road like spilled matcha-cream. Suddenly Kei's taillights faded into milky white, and the whole world turned soft and gray and quiet.
+Up ahead, a thick blanket of **kiri** (kee-ree) — fog rolled across the road like spilled matcha-cream. Suddenly Kei's taillights faded into milky white, and the whole world turned soft and gray and quiet.
 
 "Kei?" called the Sushi-ya Express. "Kei, I can't see you, sweetie!"
 
-"I'm here! Putt-putt! Just follow my beeps!" came his muffled little voice. *Beep! Beep!*
+"I'm here! Putt-putt! Just follow my beeps!" came her muffled little voice. *Beep! Beep!*
 
 So she did. She slowed to a crawl and followed the cheerful beeping through the fog, one careful wiggle at a time, her lantern-lights glowing like two friendly fireflies.
 
@@ -80,11 +80,11 @@ The fog wasn't scary at all. It was *beautiful.* Little droplets clung to the tr
 
 But just then — *clunk-a-clunk-CLUNK!*
 
-Up ahead, Kei's cheerful putt-putt turned into a sad little *putt... putt... pffft.* His springs sagged. His headlight-eyes drooped.
+Up ahead, Kei's cheerful putt-putt turned into a sad little *putt... putt... pffft.* Her springs sagged. Her headlight-eyes drooped. But even with a flat tire, Kei knew every wiggle of this pass — and she limped carefully off the foggy toge onto the widest, prettiest bend she knew before rolling to a stop.
 
-"Oh no," he sniffled, rolling to a stop in the middle of the foggy 峠. "I've gone and got a flat tire. A rock bonked me. I'm sorry, everyone — I was supposed to lead the way, and now I've broken down and we'll never make the sunrise and it's all my—"
+"Oh no," she sniffled. "I've gone and got a flat tire. A rock bonked me. I'm sorry, everyone — I was supposed to lead the way, and now I've broken down and we'll never make the sunrise and it's all my—"
 
-"Fall down seven, bounce up eight!" boomed a voice — but no, wait, that was just Niko *quoting* Dai Daruma to cheer everyone up, which honestly worked surprisingly well.
+Niko cleared his throat and did his best Dai Daruma impression: "Fall down seven, bounce up eight!" he boomed — and honestly, it worked surprisingly well at cheering everyone up.
 
 The Sushi-ya Express pulled up beside her little friend and lowered her warm fold-down counter so its light spilled over him like a cozy blanket. "Now, now," she said. "Nobody's missing anything. A bump in the road is just part of the road, sweetie."
 
@@ -102,7 +102,7 @@ It took some grunting. It took some giggling. (Rin got a tire smudge on his nori
 
 *Sproing!* Kei bounced back up on four good tires.
 
-"Putt-putt!" he cheered, headlights blazing. "Good as new! Better than new!"
+"Putt-putt!" she cheered, headlights blazing. "Good as new! Better than new!"
 
 ---
 
@@ -112,17 +112,19 @@ The fog was... *thinning.* And turning pink.
 
 "Oh!" gasped the Sushi-ya Express. "Look! Look at the sky!"
 
-They were higher up than they'd ever realized — right near the very top of the 峠, on a wide bend where the trees fell away and the whole valley spread out below them like a giant green bowl. And there, far across the misty peaks, the sky was blushing the softest rose-gold, getting ready to pour the sun over the mountains.
+They were higher up than they'd ever realized — right near the very top of the toge, on a wide bend where the trees fell away and the whole valley spread out below them like a giant green bowl. And there, far across the misty peaks, the sky was blushing the softest rose-gold, getting ready to pour the sun over the mountains.
 
 They hadn't missed it at all.
 
-They'd stopped in *exactly* the right place.
+And it was no accident, either — Kei, who knew every wiggle of this pass, had picked *exactly* the right place to stop.
+
+"Putt-putt," she beeped, suddenly bashful. "I told you I knew this road."
 
 "Quick!" laughed Niko. "Counter down! Lanterns up! We may not have made it to the tea house — but breakfast is *served!*"
 
 The Sushi-ya Express flung open her noren curtain. Niko's little hands flew, pressing pearly rice and draping coral salmon, neat as anything. Rin ladled warm broth into tiny cups. And just as the very first golden sliver of sun peeked over the highest peak —
 
-*"Itadakimasu!"* they all cheered together — that's **いただきます** (itadakimasu) = let's eat / thank you for this food — and the whole mountainside lit up gold.
+*"Itadakimasu!"* they all cheered together — that's **itadakimasu** (ee-tah-dah-kee-mahs) — let's eat / thank you for this food — and the whole mountainside lit up gold.
 
 ---
 
@@ -134,7 +136,7 @@ Because the road had wiggled so high, the little tea house was *just* up around 
 
 "Fresh sushi, anywhere the road goes!" said the Sushi-ya Express proudly, ringing her bell. *Ting-ting-ting!*
 
-So everyone gathered there on the misty bend — the grandmother, the hikers, two breakfast friends, one fixed-up little truck, and one very happy food truck — and they watched the sun rise over the 峠 together, warm rice in their hands and warm broth on their tongues.
+So everyone gathered there on the misty bend — the grandmother, the hikers, two breakfast friends, one fixed-up little truck, and one very happy food truck — and they watched the sun rise over the toge together, warm rice in their hands and warm broth on their tongues.
 
 And do you know what Niko Nigiri said, the sushi who used to love nothing more than a perfect plan?
 

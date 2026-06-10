@@ -4,17 +4,17 @@
 **Guest Characters:** Bao Bao
 **Setting:** A griddle cart
 **Theme:** Share the fun
-**Word Spotlight:** 蔥油餅 (congyoubing) = scallion pancake
+**Word Spotlight:** **congyoubing** (tsong-yoh-bing) — scallion pancake
 
 ---
 
-On a breezy night at the edge of the night market, where the lanterns swung like sleepy fireflies, Cong Cong did a triple twirl and unrolled herself across the whole griddle cart by accident. *Floomp.* She was a warm, golden-brown **蔥油餅** (congyoubing) = scallion pancake, round and flaky, with crispy ruffled edges and little green bits of scallion freckled all across her cheeks. Being a scallion pancake meant Cong Cong was made of about a thousand flaky layers, which meant when she got excited she could unspool like a roll of party streamers and then giggle herself back together.
+On a breezy night at the edge of the night market, where the lanterns swung like sleepy fireflies, Cong Cong did a triple twirl and unrolled herself across the whole griddle cart by accident. *Floomp.* She was a warm, golden-brown **congyoubing** (tsong-yoh-bing) — scallion pancake — round and flaky, with crispy ruffled edges and little green bits of scallion freckled all across her cheeks. Being a scallion pancake meant Cong Cong was made of about a thousand flaky layers, which meant when she got excited she could unspool like a roll of party streamers and then giggle herself back together.
 
 "Did you SEE that?" she crowed, rolling back into a neat round disc.
 
-A little ball of dough named Digua peeked over the edge of the cart, soft and pale and brand new. "I saw you turn into a rug," said Digua. "How do you get so many layers? I'm just one boring blob."
+A little roasted sweet potato named Digua peeked over the edge of the cart — lumpy and warm, with toasty brown skin and a golden glow inside, still smelling of the charcoal cart next door. "I saw you turn into a rug," said Digua. "How do you get so many layers? I'm just one boring lump."
 
-Cong Cong gasped with delight. "Oh, sweet potato! Layers are the best secret in the whole market. Want me to teach you the flaky spiral trick?"
+Cong Cong gasped with delight. "Oh, sweet potato," she said — because that's exactly what he was — "layers are the best secret in the whole market. You don't have to *be* the dough to make a pancake. Want me to teach you the flaky spiral trick?"
 
 ---
 
@@ -24,13 +24,13 @@ Digua bounced so hard he nearly fell off the cart. "Teach me teach me teach me!"
 
 A pillowy, pale-gold bun came waddling over in a floury apron, leaving little powdery footprints. This was Bao Bao, the calmest baker in the market, who smelled like warm mornings. "Someone said rolling pin?" he said cozily. "Good things rise with time. Now — what are we making?"
 
-"蔥油餅!" sang Cong Cong. "And Digua's going to do every single step himself."
+"Congyoubing!" sang Cong Cong. "And Digua's going to do every single step himself."
 
 "All of them?" squeaked Digua.
 
 "All the safe ones," said Bao Bao with a wink. "The HOT bits, the sizzly griddle bits — those are mine. Hot is a grown-up's job. But the squishy fun bits? Those are *yours.*"
 
-Digua puffed up with pride and immediately fell over. Being new dough, he was very wobbly.
+Digua puffed up with pride and immediately fell over. Being a roundish potato, he was very rolly.
 
 "**Step one,**" announced Cong Cong, plopping a soft ball of dough onto the floured board. "We **ROLL IT THIN.** As thin as a paper lantern. Bao Bao, may we borrow the magic stick?"
 
@@ -48,7 +48,7 @@ Bao Bao handed over the rolling pin, which was nearly as long as Digua was tall.
 
 "Slidey is exactly right," said Bao Bao warmly, dusting flour off his belly. "Patience and a little grease. Same as bread, only louder."
 
-"**Step three,**" Cong Cong went on, practically vibrating with excitement, "is my FAVORITE — we **ADD THE SCALLIONS!**" She scattered a handful of fresh green **蔥** (cōng) = scallion all across the oily dough, little confetti bits of green from edge to edge. "These are where I get my freckles. And my flavor. And my whole personality, honestly." She sprinkled a pinch of salt too, like fairy dust. "A little salt to wake the scallions up. Not too much — we want a wink, not a shout."
+"**Step three,**" Cong Cong went on, practically vibrating with excitement, "is my FAVORITE — we **ADD THE SCALLIONS!**" She scattered a handful of fresh green **cong** (tsong) — scallion — all across the oily dough, little confetti bits of green from edge to edge. "These are where I get my freckles. And my flavor. And my whole personality, honestly." She sprinkled a pinch of salt too, like fairy dust. "A little salt to wake the scallions up. Not too much — we want a wink, not a shout."
 
 Digua scattered his handful, then sneezed, and the scallions went everywhere — on the cart, on the lantern, on Bao Bao's nose (again).
 
@@ -88,11 +88,11 @@ Under the swinging lanterns, Cong Cong, Digua, and Bao Bao set the steaming gold
 
 Digua picked up a triangle — his very own wonky-snail pancake, now crisp and flaky and perfect — and took a bite. *Crunch.* Then soft. Then a hundred warm flaky layers, exactly the way it was supposed to be.
 
-"I MADE LAYERS," he gasped, mouth full. "I'm not a boring blob! I'm a SPIRAL!"
+"I MADE LAYERS," he gasped, mouth full. "I'm not a boring lump! I'm a SPIRAL-MAKER!"
 
-"You were never boring," said Cong Cong, hugging him with one flaky wing. "You just hadn't been rolled out yet." She passed a triangle to Bao Bao, who'd done all the brave hot bits, and one to a passing lantern friend, and one to a whisker-twitching prawn at the next cart, until the whole plate was shared all the way around.
+"You were never boring," said Cong Cong, hugging him with one flaky wing. "You're golden all the way through, sweet potato. You just hadn't met your layers yet." She passed a triangle to Bao Bao, who'd done all the brave hot bits, and one to a passing lantern friend, and one to a whisker-twitching prawn at the next cart, until the whole plate was shared all the way around.
 
-Because the best part of any **蔥油餅** — better than the crunch, better even than the layers — is the moment you hand a warm triangle to a friend.
+Because the best part of any congyoubing — better than the crunch, better even than the layers — is the moment you hand a warm triangle to a friend.
 
 "Share the fun," said Cong Cong happily, "and the pancake stretches twice as far."
 
@@ -112,6 +112,6 @@ Because the best part of any **蔥油餅** — better than the crunch, better ev
 May your night fold soft and warm, layer upon cozy layer, like a pancake tucked beneath the lanterns. May the good things in your heart puff up light and flaky, and may every bit of fun you find tonight be a bit of fun you get to share. Rest easy, little spiral. You are crisp on the outside, sweet within, and made of more layers than anyone can count. Goodnight.
 
 ## AI Image Prompts
-1. A cozy night-market griddle cart under swinging red lanterns; a flaky golden scallion-pancake character cheerfully coiling a green-speckled dough rope into a spiral while a small soft new dough friend watches, a pillowy pale-gold bao baker in a floury apron standing by — warm storybook illustration, glowing lantern light.
+1. A cozy night-market griddle cart under swinging red lanterns; a flaky golden scallion-pancake character cheerfully coiling a green-speckled dough rope into a spiral while a small warm roasted sweet potato friend with toasty brown skin watches, a pillowy pale-gold bao baker in a floury apron standing by — warm storybook illustration, glowing lantern light.
 2. Character portrait of Cong Cong: a round, golden-brown scallion pancake with crispy ruffled edges, freckled all over with little green scallion bits, rosy cheeks and a joyful bouncy grin — soft children's book style, warm and huggable.
-3. Closing scene: a plate of steaming golden scallion-pancake triangles on a wooden board, layers visibly flaky, the pancake character hugging a happy little dough friend mid-bite while the floury bao baker smiles — sleepy, tender, golden lantern-lit night palette.
+3. Closing scene: a plate of steaming golden scallion-pancake triangles on a wooden board, layers visibly flaky, the pancake character hugging a happy little roasted sweet potato friend mid-bite while the floury bao baker smiles — sleepy, tender, golden lantern-lit night palette.

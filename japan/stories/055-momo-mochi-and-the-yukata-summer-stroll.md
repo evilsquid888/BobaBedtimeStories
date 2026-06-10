@@ -4,13 +4,13 @@
 **Guest Characters:** None
 **Setting:** A summer evening river festival in Kyoto
 **Theme:** Comfort and beauty can go hand in hand
-**Japanese Spotlight:** ゆかた (yukata) = summer cotton kimono
+**Japanese Spotlight:** yukata (yoo-kah-tah) — summer cotton kimono
 
 ---
 
 Momo Mochi had a small, squishy problem, and the problem was this: she could not stop wiggling.
 
-"Hold STILL, little peach," laughed Auntie Kinako, the kindly bean-powder shopkeeper, who was trying very hard to wrap Momo in a brand-new **ゆかた** (yukata) = summer cotton kimono. The fabric was the soft blue of evening sky, sprinkled all over with tiny painted goldfish. "If you keep bouncing, the goldfish will swim right off!"
+"Hold STILL, little peach," laughed Auntie Kinako, the kindly bean-powder shopkeeper, who was trying very hard to wrap Momo in a brand-new **yukata** (yoo-kah-tah) — a summer cotton kimono. The fabric was the soft blue of evening sky, sprinkled all over with tiny painted goldfish. "If you keep bouncing, the goldfish will swim right off!"
 
 Momo went still — well, as still as a pillowy white rice cake ever goes, which is to say she only jiggled a little. The cotton settled over her plump, starch-dusted shoulders like the coziest blanket in all of Kyoto.
 
@@ -20,7 +20,7 @@ Auntie Kinako only winked, and tied the last bow, and pushed her gently out the 
 
 ---
 
-Outside, Kyoto's river festival had unrolled itself like a ribbon of light. Paper **提灯** (chōchin) = lanterns swung in the warm dusk, glowing apricot and rose, doubling themselves in the slow dark river. Stalls steamed and sizzled. Somewhere a flute played a tune that made Momo's tummy feel like it had been tucked in for bed.
+Outside, Kyoto's river festival had unrolled itself like a ribbon of light. Paper **chōchin** (choh-cheen) — lanterns — swung in the warm dusk, glowing apricot and rose, doubling themselves in the slow dark river. Stalls steamed and sizzled. Somewhere a flute played a tune that made Momo's tummy feel like it had been tucked in for bed.
 
 The smells alone could have made a dessert weep with joy. Grilled sweet corn brushed with soy. Sugary clouds of cotton candy spun pink as a sunset. A whole stall of goldfish-scooping, where children dipped paper paddles into a glittering pool and squealed. Momo wanted to try EVERYTHING, all at once, and possibly twice.
 
@@ -48,7 +48,7 @@ That was when she heard the sniffling.
 
 It was a very small, very sad sound, tucked behind a stall of spinning paper windmills. Momo, who could no more ignore a sniffle than she could ignore a hug, peeked around the corner.
 
-There sat little Mame, a round green pea-cake no bigger than a thumb, in a yukata the color of new leaves. And the yukata was a disaster. The sash — the wide cloth belt called an **帯** (obi) = kimono sash — had come completely undone. It drooped off one shoulder, dragged in the dust, and had somehow tied itself into a knot shaped like a confused snail.
+There sat little Mame, a round green pea-cake no bigger than a thumb, in a yukata the color of new leaves. And the yukata was a disaster. The sash — the wide cloth belt called an **obi** (oh-bee) — had come completely undone. It drooped off one shoulder, dragged in the dust, and had somehow tied itself into a knot shaped like a confused snail.
 
 "I c-can't fix it," Mame hiccuped. "Everyone looks so pretty, and I look like a laundry pile that fell down the stairs. I'm just going to go home and hide under a leaf."
 
@@ -124,7 +124,7 @@ The dignified apricot studied his reflection for a long moment. Then he turned t
 
 Momo's cheeks went the pinkest peach you ever saw.
 
-When the **花火** (hanabi) = fireworks finally bloomed over the river — soft golds and dreamy pinks, opening like flowers in slow motion — every friend on the riverbank watched them in a yukata that was both beautiful AND comfy enough to sit, sprawl, and yawn in.
+When the **hanabi** (hah-nah-bee) — the fireworks — finally bloomed over the river — soft golds and dreamy pinks, opening like flowers in slow motion — every friend on the riverbank watched them in a yukata that was both beautiful AND comfy enough to sit, sprawl, and yawn in.
 
 And Momo? Momo did not stand up tall and elegant. She flopped right down onto the cool grass, snug in her goldfish yukata, and let her plump self go gloriously soft. A breeze fluttered the cotton. The lanterns glowed. Mame leaned sleepily against her squishy side like a pillow, and the cloud-bow on Mame's back rose and fell, rose and fell, with each slow, happy breath.
 

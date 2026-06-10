@@ -4,7 +4,7 @@
 **Guest Characters:** Bao Bao
 **Setting:** A New Year table
 **Theme:** Many hands
-**Word Spotlight:** 餃子 (jiaozi) = dumplings
+**Word Spotlight:** **jiaozi** (jyow-dzuh) — dumplings
 
 ---
 
@@ -12,7 +12,7 @@ On the very last night of the old year, the biggest table in the whole night mar
 
 "Welcome, welcome, *welcome*!" cried Xiao Long, hopping in place so hard his soup sloshed. Xiao Long was a soup dumpling — a tiny pleated pouch of dough with a warm broth tucked inside him, which meant he wobbled when he was excited and *steamed gently* when he was *very* excited. Right now he was steaming like a tea kettle that had won the lottery.
 
-"Tonight," he announced, "we are making **餃子** (jiǎozi) = dumplings! A whole feast of them! Hundreds! Thousands! Possibly *eleven*!"
+"Tonight," he announced, "we are making **jiaozi** (jyow-dzuh) — dumplings! A whole feast of them! Hundreds! Thousands! Possibly *eleven*!"
 
 "Eleven sounds lovely," said a soft, pillowy voice.
 
@@ -26,7 +26,7 @@ Xiao Long froze mid-steam.
 
 "...I have *watched* dumplings being made," Xiao Long admitted, "which is basically the same as making them, only with more snacks."
 
-Bao Bao chuckled, a warm rumbly sound like a loaf settling in the oven. "Good things rise with time, little friend. And good *餃子* rise with *helpers*. We can't fill this New Year table alone. Many hands, many dumplings."
+Bao Bao chuckled, a warm rumbly sound like a loaf settling in the oven. "Good things rise with time, little friend. And good jiaozi rise with *helpers*. We can't fill this New Year table alone. Many hands, many dumplings."
 
 So Xiao Long did what any proud little dumpling does when he realizes he needs help: he rang the big brass gong on the lazy-Susan and shouted, "PLEAT-PARTY! EVERYONE TO THE TABLE!"
 
@@ -38,7 +38,7 @@ By the time the gong stopped humming, the red table was crowded with friends, sl
 
 "Friends," he said grandly, "Bao Bao will guide the dough, and *I* will guide the *spirit*. Step one!"
 
-**Step One: The Filling.**
+First came the filling.
 
 Bao Bao set down a big cool bowl. Into it went finely-chopped pork, a splash of soy sauce, a whisper of ginger, a snip of green onion, and a little swirl of sesame oil that made the whole table go *mmmmm* at once.
 
@@ -58,7 +58,7 @@ Gan Zhe the sugarcane friend leaned his tall green-gold self over the table and 
 
 When the filling at last turned glossy and smooth and clung to the spoon like it never wanted to let go, Bao Bao nodded. "There. That's a filling worth folding."
 
-**Step Two: Fill the Wrapper.**
+Next came the wrappers.
 
 Bao Bao passed out round dumpling wrappers — pale circles of dough, soft as little moons. He showed everyone how to lay one flat on an open palm.
 
@@ -70,15 +70,13 @@ Plop, plop, plop went the spoonfuls. Around the table, every friend had a wrappe
 
 Maccha-chan, the jade matcha-whisk spirit, balanced her wrapper as calm and steady as a teacup on a still pond. "Whisk slow, froth grows," she said serenely, settling exactly the right amount of filling in exactly the right spot, not one crumb too greedy. Beside her, Xiao Long heaped his wrapper into a wobbly volcano of pork until it groaned. "More is *more*," he insisted. Bao Bao gently scooped half of it back out. "More is *burst*," he said, "and a burst dumpling tells all its secrets in the pot." Xiao Long, a creature made entirely of one secret, shuddered at the thought and behaved himself after that.
 
-**Step Three: Wet the Rim.**
+Then it was time to wet the rims.
 
 "This is the magic glue," said Bao Bao, setting out small dishes of water. "Dip one finger — *just* one — and trace it gently all around the edge of the wrapper. The water makes the dough sticky so it will close and *stay* closed."
 
-"Like a kiss goodnight that holds the whole night together," said Deng Deng, who had drifted in late and glowed shyly from the corner. Everyone went *awww*, and Xiao Long pretended he had something in his eye. He did not. It was just soup. He was made of feelings and broth, in roughly equal parts.
+Deng Deng glowed shyly from her corner, warm as a kiss goodnight that holds the whole night together. Everyone went *awww*, and Xiao Long pretended he had something in his eye. He did not. It was just soup. He was made of feelings and broth, in roughly equal parts.
 
-**Step Four: Fold and Pinch the Pleats.**
-
-This was the part Xiao Long had been waiting for his entire life.
+And then, at last, came the folding and the pinching — the pleats. This was the part Xiao Long had been waiting for his entire life.
 
 "Fold the wrapper in half over the filling," said Bao Bao, "so it makes a little half-moon. Pinch the very middle shut first — *pop!* — and then..." His floury fingers danced. "...make tiny folds along one side, pinching each pleat against the back of the dumpling. Pleat, press. Pleat, press. Like ruffles on a fancy collar."
 
@@ -86,13 +84,13 @@ The whole table tried at once.
 
 It did not go smoothly.
 
-Mala Malasada's dumpling came out perfectly round instead of pleated, because Mala rolled everything in sugar on instinct and had to be reminded, twice, that dumplings are not doughnuts. "Roll me in sugar," she sighed wistfully, dusting flour off her poofy self.
+Mala Malasada's dumpling came out perfectly round instead of pleated, because Mala rolled everything in sugar on instinct and had to be reminded, twice, that dumplings are not doughnuts. She dusted the flour off her poofy self and tried again.
 
 Hong Hong made the *sparkliest* pleats anyone had ever seen, crackly-neat and shining, and announced, "Shine outside, sweet inside — just like a dumpling!"
 
 Bao Bao's pleats were slow, patient, and perfect. "No rushing," he hummed. "A pleat hurried is a pleat worried. Pinch the middle first so the two halves know they're partners. Then fold a little flap, press it down. Fold, press. Fold, press. Count them if you like — one, two, three little ruffles marching toward the corner."
 
-Sa Sa counted out loud, crisp as a drill sergeant. "One! Press! Two! Press!" Gan Zhe lost count at "two" and started over four times, perfectly content. Maccha-chan made seven flawless pleats without counting at all, because stillness, she said, knows the way better than numbers do.
+Sa Sa counted everyone's pleats like a crisp little drill sergeant. Gan Zhe lost count at two and started over four times, perfectly content. Maccha-chan made seven flawless pleats without counting at all.
 
 And Xiao Long? Xiao Long pinched his very first pleat — *and his whole tiny body trembled with pride* — and then got so excited he steamed straight up off the table, spun in a happy loop, and landed *bottom-first* in the flour, leaving a perfect powdery print of himself.
 
@@ -102,17 +100,17 @@ And Xiao Long? Xiao Long pinched his very first pleat — *and his whole tiny bo
 
 Xiao Long looked.
 
-The whole table had filled while he was busy being proud. Rows and rows of plump little *餃子* sat shoulder to shoulder, each one pleated by a different friend — some neat, some lumpy, some sparkly, some sugary-by-accident — and *every single one* made with love. Many hands. A mountain of dumplings that no one could ever have built alone.
+The whole table had filled while he was busy being proud. Rows and rows of plump little jiaozi sat shoulder to shoulder, each one pleated by a different friend — some neat, some lumpy, some sparkly, some sugary-by-accident — and *every single one* made with love. Many hands. A mountain of dumplings that no one could ever have built alone.
 
 Xiao Long's eyes went misty. (Soup again. Definitely soup.)
 
-"I thought I had to make all the *餃子* myself," he said quietly. "To be the best dumpling-maker in the market. But I only made *one* pleat." He looked at the mountain of dumplings, then at all the floury, sugary, sparkly, sleepy faces around the table. "And look what *one pleat each* turned into."
+"I thought I had to make all the jiaozi myself," he said quietly. "To be the best dumpling-maker in the market. But I only made *one* pleat." He looked at the mountain of dumplings, then at all the floury, sugary, sparkly, sleepy faces around the table. "And look what *one pleat each* turned into."
 
 "That," said Bao Bao, resting a warm pillowy hand on his head, "is the whole secret of New Year. Not one pair of clever hands. *Many* hands. The table fills because everyone reaches in."
 
 "Many hands," whispered Deng Deng, glowing a little brighter. "A little light glows warmest — and a lot of little lights glow like a *feast*."
 
-**Step Five: The Hot Part — Ask a Grown-Up!**
+Then came the hot part.
 
 "Now comes the part with the bubbling and the sizzling," said Bao Bao, "which means it is time to..."
 
@@ -124,7 +122,7 @@ A kindly grown-up bustled over with a big pot of boiling water on one side and a
 
 "We watch," Bao Bao reminded gently. "Grown-ups handle the heat. We handle the *cheering*." And cheer they did.
 
-**Step Six: Dip and Share.**
+And last of all came the dipping — and the sharing.
 
 Out came the dumplings, steaming and glistening, onto a great red platter. Bao Bao mixed up little saucers of soy sauce and black vinegar, with the tiniest thread of ginger floating on top.
 

@@ -3,11 +3,12 @@
 **Main Character:** Tako and Yaki (takoyaki)
 **Guest Characters:** Tai Taiyaki
 **Setting:** A festival stall
-**Word Spotlight:** たこ焼き (takoyaki) = octopus balls
+**Theme:** Patience makes it round
+**Word Spotlight:** **takoyaki** (tah-koh-yah-kee) — octopus balls
 
 ---
 
-At the busy end of the festival, where the lanterns bobbed like sleepy fireflies, there lived two round little friends who shared one job and one name. They were Tako and Yaki, and together they were **たこ焼き** (takoyaki) = octopus balls — two golden-brown spheres, freckled with crispy bits, steaming and dribbly and warm as a hug. Tako had a tiny curl of octopus winking out of his middle. Yaki had a single brave fleck of scallion stuck to his cheek like a beauty mark.
+At the busy end of the festival, where the lanterns bobbed like sleepy fireflies, there lived two round little friends who shared one job and one name. They were Tako and Yaki, and together they were **takoyaki** (tah-koh-yah-kee) — octopus balls — two golden-brown spheres, freckled with crispy bits, steaming and dribbly and warm as a hug. Tako had a tiny curl of octopus winking out of his middle. Yaki had a single brave fleck of scallion stuck to his cheek like a beauty mark.
 
 "We," announced Yaki, wobbling proudly on his little wooden boat-tray, "are the roundest snacks at the whole festival."
 
@@ -19,7 +20,7 @@ A bell jingled. A new friend was rolling up to their stall — and Tako and Yaki
 
 The newcomer was a fish. Sort of. He was shaped like a fish but flat as a postcard, golden-crusted, and warm-smelling, with a swirl of sweet red-bean peeking from his tail.
 
-"I'm Tai Taiyaki!" he said, doing a little fishy bow. "I'm a sweet fish-shaped cake. And I have a *terrible* problem. Everyone at this festival can make their own snack — except me. I tried to make たこ焼き (takoyaki) once and ended up with octopus *soup*."
+"I'm Tai Taiyaki!" he said, doing a little fishy bow. "I'm a sweet fish-shaped cake. And I have a *terrible* problem. Everyone at this festival can make their own snack — except me. I tried to make takoyaki once and ended up with octopus *soup*."
 
 Tako gasped. "Soup? Round things are not supposed to be soup!"
 
@@ -35,7 +36,7 @@ Right on cue, the stall's grown-up cook ambled over, wiping her hands on her apr
 
 ---
 
-"Step one," said Yaki, pointing his little scallion-fleck like a teacher's pointer, "is the **混ぜる** (mazeru) = mix. We make the batter. Tai, grab that big bowl."
+"Step one," said Yaki, pointing his little scallion-fleck like a teacher's pointer, "is the **mazeru** (mah-zeh-roo) — the mix. We make the batter. Tai, grab that big bowl."
 
 Tai hugged the bowl with both fins. Inside went flour, a splash of egg, and a pour of dashi broth that smelled like the sea on a sunny day.
 
@@ -59,7 +60,7 @@ Tai wiggled his batter-hat proudly. "Round one of the flip game: complete."
 
 ---
 
-"Now for the **たこ焼き器** (takoyakiki) = takoyaki pan," said the grown-up cook, setting down a black metal pan covered in little round dimples, like a tray full of tiny golden moons-to-be. "This part is mine, because it's about to get *very* hot. Watch with your eyes, not your fins."
+"Now for the **takoyakiki** (tah-koh-yah-kee-kee) — the takoyaki pan," said the grown-up cook, setting down a black metal pan covered in little round dimples, like a tray full of tiny golden moons-to-be. "This part is mine, because it's about to get *very* hot. Watch with your eyes, not your fins."
 
 She brushed each little dimple with oil until they all shone. Then — *tssssss!* — she poured the runny batter in, filling every dimple right to the brim, so it sloshed over the edges into one big bubbly sheet.
 
@@ -115,7 +116,7 @@ Round and round the three of them went, turning and tucking, turning and tucking
 
 "Last step," said the grown-up, lifting them carefully onto a little boat-tray. "And this one's safe for fins. Top them, then eat them *hot* — that's the whole point of takoyaki."
 
-Tai drizzled brown, glossy takoyaki sauce over the top in happy little zigzags. Yaki added a swish of creamy mayo. Tako sprinkled feathery dancing flakes that wiggled in the steam like they were alive.
+Tai drizzled brown, glossy takoyaki sauce over the top in happy little zigzags. Yaki added a swish of creamy mayo. Tako sprinkled feathery dancing flakes called **katsuobushi** (kah-tsoo-oh-BOO-shee) — bonito flakes — that wiggled in the steam like they were alive.
 
 "They're WAVING at me," gasped Tai.
 
@@ -143,7 +144,7 @@ And outside, the festival twinkled on, full of round and happy things.
 2. Have a grown-up brush oil into the dimpled takoyaki pan and pour the batter in to fill every dimple.
 3. Drop a piece of cooked octopus into each dimple, then sprinkle scallion (and crunchy bits) over the top.
 4. Using a skewer, turn each ball a little at a time, round and round, until they cook into perfect golden spheres.
-5. Top with takoyaki sauce, and eat them hot!
+5. Top with takoyaki sauce, a swish of mayo, and dancing katsuobushi (bonito flakes) — then blow on each one and let it cool a moment, because the inside stays extra hot!
 
 ## Goodnight Blessing
 May your dreams be round and golden, little one, warm in the middle and crisp at the edges. May every tricky game become a happy one if you turn it gently, a little at a time. The lanterns are low now, and the festival is humming you to sleep. Snuggle in, breathe slow, and let the soft steam of good things carry you off. Goodnight.

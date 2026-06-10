@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A glittering coral reef aquarium in Okinawa
 **Theme:** There's a whole bright world for the brave to explore
-**Japanese Spotlight:** さかな (sakana) = fish
+**Japanese Spotlight:** sakana (sah-kah-nah) — fish
 
 ---
 
@@ -16,7 +16,7 @@ You see, Tai was a golden fish-shaped waffle-cake with a crispy fin-tail and a w
 
 And then he saw the sign. A big blue glittering sign with bubbles painted all over it.
 
-**OKINAWA CORAL REEF AQUARIUM — Meet 10,000 さかな (sakana) = FISH!**
+**OKINAWA CORAL REEF AQUARIUM — Meet 10,000 sakana (sah-kah-nah) — FISH!**
 
 Tai stopped mid-loop. He stopped so suddenly his crispy tail squeaked.
 
@@ -30,13 +30,13 @@ And then he reached the Great Tank.
 
 Tai's jaw dropped so far you could see his entire red-bean heart.
 
-It was enormous. It was a wall of glass taller than three buildings, and behind it swam a whole shimmering world. **海** (umi) = sea, but folded up small and brought indoors. Silver fish flashed like tossed coins. Striped fish puttered along like tiny taxis. A lazy ray flapped past like a flying pancake (Tai felt a little kinship there). And the coral — oh, the coral! It bloomed in pinks and oranges and electric purples, swaying like a meadow underwater.
+It was enormous. It was a wall of glass taller than three buildings, and behind it swam a whole shimmering world. The **umi** (oo-mee) — the sea, but folded up small and brought indoors. Silver fish flashed like tossed coins. Striped fish puttered along like tiny taxis. A lazy ray flapped past like a flying pancake (Tai felt a little kinship there). And the coral — oh, the coral! It bloomed in pinks and oranges and electric purples, swaying like a meadow underwater.
 
 "Hello!" Tai shouted, pressing his crispy cheek against the glass. "Hello, fish friends! I'm a fish too!"
 
 The fish did not answer. They just swam.
 
-A sleek silver fish glided right up to the glass, looked Tai up and down with one round eye, and — Tai was sure of it — sort of *frowned*.
+A sleek silver fish glided right up to the glass, looked Tai up and down with one round eye, and made a look that Tai *read* as a frown — though it is famously hard to tell, with fish.
 
 Then it swished its tail and zipped away.
 
@@ -50,7 +50,7 @@ The three fish blinked. Then they swam off in a hurry, bubbles trailing behind t
 
 Tai's warm glow dimmed a watt or two.
 
-He drifted along the great glass wall, trying again and again. He smiled at a pufferfish, who puffed up and floated away looking offended. He did a little loop-the-loop for a school of blue tangs, who scattered like spilled marbles. He even tried his very best fish impression — gulping his mouth open and shut, going *blub blub* — but a passing crab only clicked its claws and looked the other way.
+He drifted along the great glass wall, trying again and again. He smiled at a pufferfish, who puffed up like a startled balloon and went bobbing off in a tremendous puffy hurry. He did a little loop-the-loop for a school of blue tangs, who scattered like spilled marbles. He even tried his very best fish impression — gulping his mouth open and shut, going *blub blub* — but a passing crab only clicked its claws and looked the other way.
 
 By the time Tai reached the far corner of the tank, his crispy tail was sagging clean to the floor.
 
@@ -66,7 +66,7 @@ There, in the very top corner of the tank, behind a curl of glowing orange coral
 
 "Are you talking to me?" Tai asked.
 
-"Sure am!" The lumpy fish wriggled out from the coral. "Name's Bumpu. I'm a stonefish. Well — I'm SUPPOSED to be a stonefish. Mostly I just look like a rock that learned to smile. The other fish think I'm the funniest-looking さかな in the whole reef."
+"Sure am!" The lumpy fish wriggled out from the coral. "Name's Bumpu. I'm a stonefish. Well — I'm SUPPOSED to be a stonefish. Mostly I just look like a rock that learned to smile. The other fish think I'm the funniest-looking sakana in the whole reef."
 
 "Oh no," said Tai softly. "That's awful. I'm so sorry they're mean to —"
 
@@ -90,7 +90,7 @@ And there, gathered at the bottom of the great tank, was every single fish he'd 
 
 They were *waiting*.
 
-"They've never seen a fish like you," Bumpu explained gently. "Golden. Warm. With a sweet little heart you can see right through. They didn't swim away because they didn't like you. They swam off to tell EVERYONE. 'Come quick! There's the most amazing さかな at the glass! He glows! He's the color of sunshine! Come SEE!'"
+"They've never seen a fish like you," Bumpu explained gently. "Golden. Warm. With a sweet little heart you can see right through. They didn't swim away because they didn't like you. They swam off to tell EVERYONE. 'Come quick! There's the most amazing sakana at the glass! He glows! He's the color of sunshine! Come SEE!'"
 
 Tai's red-bean heart went *whoomp* — so warm it nearly steamed.
 
@@ -102,9 +102,9 @@ So Tai Taiyaki took a deep crispy breath, pressed both fins against the cool gla
 
 And the whole tank *lit up*.
 
-The silver fish twirled. The three stripey fish spun in a happy circle, their earlier giggle now turning out to have been pure excitement. The pufferfish puffed up — not in a huff this time, but like a little round cheer. The blue tangs swooped into a swirl. Even the click-clack crab waved both claws over its head like a tiny crowd doing the wave.
+The silver fish twirled. The three stripey fish spun in a happy circle, their earlier giggle now turning out to have been pure excitement. The pufferfish puffed up — not in a hurry this time, but like a little round cheer. The blue tangs swooped into a swirl. Even the click-clack crab waved both claws over its head like a tiny crowd doing the wave.
 
-"SWIM TOWARD THE SWEET STUFF!" Tai shouted, and he did his most spectacular loop-the-loop ever, right up the front of the glass, his golden tail sparkling and his red-bean heart glowing like a little lantern. The fish followed him on the inside, a whole rainbow river of さかな chasing his light from one end of the tank to the other.
+"SWIM TOWARD THE SWEET STUFF!" Tai shouted, and he did his most spectacular loop-the-loop ever, right up the front of the glass, his golden tail sparkling and his red-bean heart glowing like a little lantern. The fish followed him on the inside, a whole rainbow river of sakana chasing his light from one end of the tank to the other.
 
 "See?" Bumpu hollered from his coral perch, laughing. "There's a whole bright world out here. And the bright world's got PLENTY of room — especially for the brave ones who are a little bit different!"
 
@@ -112,7 +112,7 @@ They played until the aquarium lights began to dim to a soft, sleepy nighttime b
 
 "Come back tomorrow, crunchy friend," he murmured. "The reef'll be looking for you."
 
-Tai waddle-flapped slowly toward the doors, his glow soft and full. He paused at the big bubble-painted sign and read it once more — *Meet 10,000 さかな* — and this time, he smiled the whole way through.
+Tai waddle-flapped slowly toward the doors, his glow soft and full. He paused at the big bubble-painted sign and read it once more — *Meet 10,000 sakana* — and this time, he smiled the whole way through.
 
 "Ten thousand fish," he whispered to himself, "and not a single one exactly like me."
 

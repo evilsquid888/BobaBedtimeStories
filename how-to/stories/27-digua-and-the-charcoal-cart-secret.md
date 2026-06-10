@@ -4,7 +4,7 @@
 **Guest Characters:** Hong Dou
 **Setting:** A cart corner
 **Theme:** Humble gold
-**Word Spotlight:** 烤地瓜 (kao digua) = roasted sweet potato
+**Word Spotlight:** **kao digua** (kow dee-gwah) — roasted sweet potato
 
 ---
 
@@ -20,11 +20,11 @@ Digua grinned a knobbly grin. "Plain on the outside," she whispered. "But inside
 
 Hong Dou tilted her shiny red head. "Gold? You? You're brown and bumpy and you have a face like a thumb."
 
-"Exactly!" said Digua, delighted. "That's the whole trick. The humblest-looking snacks keep the best surprises. Come on, Hong Dou — I'll show you how to make 烤地瓜 (**kao digua**) = roasted sweet potato. By the time we're done, you'll never call me plain again. Probably. Maybe. Let's find out!"
+"Exactly!" said Digua, delighted. "That's the whole trick. The humblest-looking snacks keep the best surprises. Come on, Hong Dou — I'll show you how to make **kao digua** (kow dee-gwah) — roasted sweet potato. By the time we're done, you'll never call me plain again. Probably. Maybe. Let's find out!"
 
 Just then a warm, floury figure ducked under the lanterns, apron dusted with flour, smelling of patient mornings. It was Bao Bao the bao baker, pale-gold and pillowy and soft as a nap.
 
-"Did somebody say roasting?" Bao Bao yawned cozily. "Roasting is just baking's sleepy cousin. **Good things rise with time** — and good things *roast* with time too. Count me in. You'll need a grown-up for the hot parts, and I am, technically, an enormous warm grown-up bun."
+"Did somebody say roasting?" Bao Bao yawned cozily. "Roasting is just baking's sleepy cousin. **Good things rise with time** — and good things *roast* with time too. Count me in. You'll need a real grown-up for the hot parts — luckily, the Uncle who runs this charcoal cart has the warmest oven mitts at the market. I shall supervise. Magnificently. From way over there."
 
 "PERFECT," cheered Digua. "Step one. To the sink!"
 
@@ -48,7 +48,7 @@ Hong Dou gasped. "Holes? In YOU?"
 
 "That's the sharp part," Bao Bao reminded them gently, "so a grown-up holds the fork. Always. Forks are pokey little troublemakers."
 
-A kind grown-up was found — there is always a kind grown-up at the night market, usually holding tea — and *poke, poke, poke,* tiny fork holes appeared all over Digua's bumpy skin.
+The Uncle who ran the charcoal cart came over, setting down his tea — there is always a kind grown-up at the night market, usually holding tea — and *poke, poke, poke,* tiny fork holes appeared all over Digua's bumpy skin.
 
 "Does it hurt?" whispered Hong Dou.
 
@@ -56,9 +56,9 @@ A kind grown-up was found — there is always a kind grown-up at the night marke
 
 "How many holes?" Hong Dou asked, counting on her tiny bean fingers.
 
-"Oh, just a few all around — enough to let the steam whisper out," said Bao Bao, handing the fork carefully back to the grown-up, pointy-side down. "Not so many that she leaks. We want a polite amount of holes. A modest sprinkle of holes. The Goldilocks of holes."
+"Oh, just a few all around — enough to let the steam whisper out," said Bao Bao, nodding approvingly from her safe distance as the Uncle set the fork away, pointy-side down. "Not so many that she leaks. We want a polite amount of holes. A modest sprinkle of holes. The Goldilocks of holes."
 
-"The Goldilocks of holes," Digua repeated solemnly. "Put that on my tombstone." Then she burst out laughing, because sweet potatoes do not have tombstones, they have *dinner plates*, and that is a much happier place to end up.
+"The Goldilocks of holes," Digua repeated solemnly. "Write that on my recipe card." Then she burst out laughing, because sweet potatoes do not really carry recipe cards, they end up on *dinner plates*, and that is a much happier place to be.
 
 "Step three," Digua continued, "we get cozy. We wrap up in foil."
 
@@ -74,9 +74,9 @@ Hong Dou tucked the last shiny corner of foil into place and gave Digua a little
 
 "Comfy," came Digua's muffled, happy voice. "It's dark and snug in here. Wake me when I'm gold."
 
-Now came the hot part — the part with the real fire — so all three friends turned to Bao Bao, because Bao Bao was the warm grown-up bun, and the rule of the night market is simple: *the hot oven belongs to the grown-up.*
+Now came the hot part — the part with the real fire — so all three friends turned to the Uncle, because the rule of the night market is simple: *the hot oven belongs to the grown-up.* Bao Bao, who was warm but still very much a bun, supervised grandly from three big steps away.
 
-"Into the hot oven you go, little gold," Bao Bao said, sliding foil-wrapped Digua carefully onto a tray. The cart's belly glowed orange with charcoal, hot as a summer afternoon. "A really hot oven — the kind that makes the air shimmer. And then..."
+"Into the hot oven you go, little gold," the Uncle said, sliding foil-wrapped Digua carefully onto a tray. The cart's belly glowed orange with charcoal, hot as a summer afternoon. "A really hot oven — the kind that makes the air shimmer. And then..."
 
 "And then?" asked Hong Dou, bouncing.
 
@@ -96,7 +96,7 @@ Slowly, slowly, a smell crept out of the cart. A warm, caramel, sugary, sleepy s
 
 "That," said Bao Bao, "is the smell of *almost ready.*"
 
-When at last the hour was up, Bao Bao reached two soft pillowy hands into the warm cart and drew out the foil bundle, steaming and crackling. "Careful — still hot," she warned, setting it down to cool just enough.
+When at last the hour was up, the Uncle reached two big oven-mitted hands into the warm cart and drew out the foil bundle, steaming and crackling. "Careful — still hot," he warned, setting it down to cool just enough, while Bao Bao supervised the cooling with tremendous importance from her safe spot.
 
 "Final step," said Digua's muffled, joyful voice from inside the foil. "Unwrap me and SPLIT me open. Right down the middle. That's where the magic lives."
 
@@ -118,7 +118,7 @@ Hong Dou nibbled the soft toasty jacket. "CHEWY," she announced, butter glisteni
 
 Bao Bao took her own bite, slow and savoring, the way patient bakers do everything. "Mmm," she rumbled, eyes closing. "Worth every minute of the hour. The best gold is the gold you have to wait for."
 
-"That's 烤地瓜," said Digua proudly, as the three friends huddled in the warm cart corner, passing the gold between them, butter on their chins, the lanterns glowing low. "The humblest treasure at the market. Never judge a snack by her bumpy skin."
+"That's kao digua," said Digua proudly, as the three friends huddled in the warm cart corner, passing the gold between them, butter on their chins, the lanterns glowing low. "The humblest treasure at the market. Never judge a snack by her bumpy skin."
 
 Hong Dou looked around the cozy cart corner — at the soft lanterns, the glowing charcoal, the steam curling up into the dark like sleepy ribbons — and she felt suddenly very warm, all the way down to her round red middle. "I'm sorry I called you plain," she said quietly.
 

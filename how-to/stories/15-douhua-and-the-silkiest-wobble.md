@@ -4,11 +4,11 @@
 **Guest Characters:** Dou Jiang
 **Setting:** A douhua shop
 **Theme:** Soft and still
-**Word Spotlight:** 豆花 (douhua) = soft tofu pudding
+**Word Spotlight:** **douhua** (doh-hwah) — soft tofu pudding
 
 ---
 
-Douhua was the wobbliest creature in the whole night market, and she was extremely proud of it. She was a soft, pale cloud of **豆花** (dòuhuā) = soft tofu pudding, smooth as moonlight on a pond, and when she giggled, ripples ran all the way down to her tiny slippered toes. *Wobble, wobble, wobble.* "Oops," she said, steadying herself against the counter of her little shop. "Sorry. I do that when I'm happy. And I'm happy almost always."
+Douhua was the wobbliest creature in the whole night market, and she was extremely proud of it. She was a soft, pale cloud of **douhua** (doh-hwah) — soft tofu pudding — smooth as moonlight on a pond, and when she giggled, ripples ran all the way down to her tiny slippered toes. *Wobble, wobble, wobble.* "Oops," she said, steadying herself against the counter of her little shop. "Sorry. I do that when I'm happy. And I'm happy almost always."
 
 Tonight she was extra happy, because her dearest friend was bouncing through the door — Dou Jiang, a tall warm pitcher of soy milk with a steamy little hat of fog and a voice like a cozy hug. "Douhuaaaa!" he sang, sloshing gently. "Teach me your secret! I want to make pudding too! I've been a drink my whole life. I would simply *love* to wobble."
 
@@ -20,7 +20,7 @@ Tonight she was extra happy, because her dearest friend was bouncing through the
 
 "I love science when it wears a hat," said Dou Jiang.
 
-"First," said Douhua, "we need our setting powder. The proper name is gypsum, but I just call it the Wobble Dust." She held up a little jar. "We stir a small spoon of it into a bit of water, right in the bottom of our big bowl. Like so." She tipped a pinch of pale powder into cool water and swished it round and round until it looked cloudy as a foggy morning. "That's our gelatin-water. It's the bed where the pudding will go to sleep."
+"First," said Douhua, "we need our special douhua setting powder. Grown-ups can find it at the Asian market, where it's called gypsum powder or douhua powder — but I just call it the Wobble Dust." She held up a little jar. "We stir a small spoon of it into a bit of water, right in the bottom of our big bowl. Like so." She tipped a pinch of pale powder into cool water and swished it round and round until it looked cloudy as a foggy morning. "That's our gypsum-water. It's the bed where the pudding will go to sleep."
 
 "It's so quiet," whispered Dou Jiang.
 
@@ -36,7 +36,7 @@ Next came the part that made Douhua's whole body shiver with delight — and the
 
 "The hot bit is *my* job," said Auntie Mei, wagging a cheerful finger, "because hot soy milk is for grown-up hands, not wobbly ones."
 
-"That's me!" said Dou Jiang proudly. "I'm the hot bit!" He had been simmering on the stove until he was steamy and toasty all over, warm as a bath but far too hot for little hands. **小心** (xiǎoxīn) = be careful, Auntie Mei reminded them, and everyone nodded very seriously, and then immediately got excited again.
+"That's me!" said Dou Jiang proudly. "I'm the hot bit!" He had been simmering on the stove until he was steamy and toasty all over, warm as a bath but far too hot for little hands. **Xiaoxin** (shyow-shin) — be careful — Auntie Mei reminded them, and everyone nodded very seriously, and then immediately got excited again.
 
 "Now," said Douhua, "here's the trick that makes the whole night market gasp. We don't *pour* the warm soy milk in gently. Oh no. We pour it from *up high*." She stretched her arms toward the ceiling. "WHOOSH. All in one brave splash."
 
@@ -44,7 +44,7 @@ Next came the part that made Douhua's whole body shiver with delight — and the
 
 "Because the falling makes it mix itself!" said Douhua. "The whoosh swirls the Wobble Dust through every corner without us touching it once. Up high is the *whole secret*. Pour low and slow, and you get sad lumpy soup. Pour high and bold, and you get a wobble fit for a queen."
 
-So Auntie Mei lifted the steaming pot of Dou Jiang up, up, up — "Wheeeee!" sang Dou Jiang from inside — and in one smooth, confident stream she poured the hot soy milk from way up high straight down into the bowl of gelatin-water. *Whooooosh.* It splashed and swirled and folded into itself like a little soy-milk waterfall.
+So Auntie Mei lifted the steaming pot of Dou Jiang up, up, up — "Wheeeee!" sang Dou Jiang from inside — and in one smooth, confident stream she poured the hot soy milk from way up high straight down into the bowl of gypsum-water. *Whooooosh.* It splashed and swirled and folded into itself like a little soy-milk waterfall.
 
 "Now the second secret," Douhua whispered, pressing one slippery finger to her lips. "DON'T STIR."
 
@@ -56,11 +56,17 @@ So Auntie Mei lifted the steaming pot of Dou Jiang up, up, up — "Wheeeee!" san
 
 "Nothing at all. We let it be soft. We let it be still." She set a lid gently on top. "We wait fifteen whole minutes and we do not poke it, prod it, jiggle it, or even breathe on it too loudly."
 
-What followed was, frankly, the most dramatic fifteen minutes the douhua shop had ever seen. Dou Jiang — now resting quietly in the bowl, slowly turning from a runny drink into a silky pudding — kept whispering, "Am I wobbling yet? Am I a pudding *now*?" And Douhua kept whispering back, "Shhh. Be still. Stillness is the recipe." She tiptoed in circles. She hummed the slowest, sleepiest little tune. Once, Auntie Mei caught her tip-toeing toward the bowl with a curious spoon, and Douhua froze like a statue, spoon in the air, grinning guiltily. "I wasn't going to poke it," she said. "I was just saying hello with the spoon."
+What followed was, frankly, the most dramatic fifteen minutes the douhua shop had ever seen.
+
+Dou Jiang — now resting quietly in the bowl, slowly turning from a runny drink into a silky pudding — kept whispering, "Am I wobbling yet? Am I a pudding *now*?" And Douhua kept whispering back, "Shhh. Be still. Stillness is the recipe."
+
+She tiptoed in circles. She hummed the slowest, sleepiest little tune. Once, Auntie Mei caught her tip-toeing toward the bowl with a curious spoon, and Douhua froze like a statue, spoon in the air, grinning guiltily. "I wasn't going to poke it," she said. "I was just saying hello with the spoon."
 
 "No spoon hellos," said Auntie Mei. "Sit on your wobbly hands."
 
-So Douhua sat on her wobbly hands, which is harder than it sounds when your hands are made of pudding. They kept squishing out the sides, and twice she had to scoop them back into place, which set her giggling, which set her wobbling, which is exactly the thing she was trying not to do. "Stillness," she reminded herself sternly, "is the recipe. Stillness is the recipe." But a small happy hum kept leaking out of her anyway, soft as a kettle just before it sings.
+So Douhua sat on her wobbly hands, which is harder than it sounds when your hands are made of pudding. They kept squishing out the sides, and twice she had to scoop them back into place, which set her giggling, which set her wobbling, which is exactly the thing she was trying not to do.
+
+"Stillness," she reminded herself sternly, "is the recipe. Stillness is the recipe." But a small happy hum kept leaking out of her anyway, soft as a kettle just before it sings.
 
 "How do you DO it?" Dou Jiang whispered from the bowl. "How do you wait so well?"
 
@@ -68,9 +74,9 @@ So Douhua sat on her wobbly hands, which is harder than it sounds when your hand
 
 "A nap instead of a chore," Dou Jiang repeated dreamily, and grew, if it was possible, even silkier.
 
-While they waited, Douhua made the topping — and *this* was a part she could do herself, with only a tiny bit of grown-up help. "Every great douhua needs a sweet **糖水** (tángshuǐ) = syrup," she said, "and the best one in winter is warm ginger syrup. It tastes like a hug that says hello to your toes from the inside."
+While they waited, Douhua made the topping — and *this* was a part she could do herself, with only a tiny bit of grown-up help. "Every great douhua needs a sweet **tangshui** (tahng-shway) — syrup," she said, "and the best one in winter is warm ginger syrup. It tastes like a hug that says hello to your toes from the inside."
 
-"Ginger looks like a funny knobbly little dragon," Douhua said, holding up the bumpy golden root, "and it tastes like one too — all warm and zingy and a tiny bit fierce, in the nicest way." Auntie Mei did the knife part, because slicing fresh ginger is sharp work, and slid the thin golden coins into a little pot. Douhua got to do the splashy parts: she tumbled in a scoop of brown sugar — "*plip plip plip*" — and a small river of water, and Auntie Mei set it to simmer until the whole shop smelled spicy-sweet and warm and made everybody's noses very, very happy. The syrup bubbled into a glossy amber color, and Douhua had to be reminded *twice* not to taste it while it was still scalding. "**小心**," she said, beating Auntie Mei to it this time. "See? I remembered!"
+"Ginger looks like a funny knobbly little dragon," Douhua said, holding up the bumpy golden root, "and it tastes like one too — all warm and zingy and a tiny bit fierce, in the nicest way." Auntie Mei did the knife part, because slicing fresh ginger is sharp work, and slid the thin golden coins into a little pot. Douhua got to do the splashy parts: she tumbled in a scoop of brown sugar — "*plip plip plip*" — and a small river of water, and Auntie Mei set it to simmer until the whole shop smelled spicy-sweet and warm and made everybody's noses very, very happy. The syrup bubbled into a glossy amber color, and Douhua had to be reminded *twice* not to taste it while it was still scalding. "Xiaoxin," she said, beating Auntie Mei to it this time. "See? I remembered!"
 
 And then — *ding!* — fifteen minutes were up.
 
@@ -100,8 +106,8 @@ And the whole little shop went soft, and warm, and quiet.
 
 ## How to Make douhua 🍽️
 *Ask a grown-up to help with anything hot or sharp!*
-1. Stir a little setting powder (gelatin/gypsum) into some water in the bottom of a big bowl to make your gelatin-water.
-2. Have a GROWN-UP pour the warm soy milk in one bold stream from up high straight onto the gelatin-water — and do NOT stir!
+1. Stir a little special douhua setting powder into some water in the bottom of a big bowl to make your gypsum-water. (Grown-ups can find it at the Asian market, where it's called gypsum powder or douhua powder.)
+2. Have a GROWN-UP pour the warm soy milk in one bold stream from up high straight onto the gypsum-water — and do NOT stir!
 3. Cover it and let it sit, still and quiet, for 15 minutes until it sets into silky pudding.
 4. Make ginger syrup: have a grown-up slice ginger and simmer it with brown sugar and water until warm and golden.
 5. Scoop the pudding in thin sheets into bowls, ladle the warm syrup over the top, and enjoy the wobble!

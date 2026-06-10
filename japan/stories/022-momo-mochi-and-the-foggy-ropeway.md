@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A mountain cable-car ropeway gliding above a sea of clouds
 **Theme:** Holding hands turns fear into wonder
-**Japanese Spotlight:** くも (kumo) = cloud
+**Japanese Spotlight:** **kumo** (koo-moh) — cloud
 
 ---
 
@@ -24,7 +24,7 @@ She had packed a tiny bag for the trip, the way you do for a Very Important Outi
 
 And then the mountain ate it.
 
-Not really, of course — mountains don't eat things (that's Momo's job, and she's *very* good at it). But a great soft wall of white came rolling down the slope, swallowing the trees, the river, the rooftops, all of it. One moment the world was wide and bright. The next, the window showed only **くも** (kumo) = cloud, thick as whipped cream pressed against the glass.
+Not really, of course — mountains don't eat things (that's Momo's job, and she's *very* good at it). But a great soft wall of white came rolling down the slope, swallowing the trees, the river, the rooftops, all of it. One moment the world was wide and bright. The next, the window showed only **kumo** (koo-moh) — cloud, thick as whipped cream pressed against the glass.
 
 The cable car stopped with a gentle *clunk*.
 
@@ -74,7 +74,7 @@ Pinku's lip stopped wobbling. "...Oh," she said. Then, after a moment, she reach
 
 And so they did.
 
-It was the silliest, sweetest, most tangled chain of hand-holding you ever saw. Tai the taiyaki held a fin out to Sora the soft-serve, who held her cool creamy hand out to the kei-truck's little side-mirror, who beeped softly and stretched its windshield-wiper like a friendly arm. The Dango Three held the stick they shared and the hands beside them. And Momo Mochi stretched her warm arms all the way around so that the chain looped back to her on both sides, and she held on, and she squeezed, and she said the magic words:
+It was the silliest, sweetest, most tangled chain of hand-holding you ever saw. Tai the taiyaki held a fin out to Sora the soft-serve, who held her cool creamy hand out to the kei-truck's little side-mirror, who beeped softly and stretched her windshield-wiper like a friendly arm. The Dango Three held the stick they shared and the hands beside them. And Momo Mochi stretched her warm arms all the way around so that the chain looped back to her on both sides, and she held on, and she squeezed, and she said the magic words:
 
 "Squish together, stay together!"
 

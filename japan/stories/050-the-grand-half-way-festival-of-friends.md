@@ -1,10 +1,10 @@
 # Story 50: The Grand Half-Way Festival of Friends
 
 **Main Character:** Momo Mochi (mochi rice cake / daifuku)
-**Guest Characters:** None
+**Guest Characters:** The whole cast — Niko Nigiri, Tama Onigiri, Rin Ramen, Tako & Yaki, Tai Taiyaki, Maru Matcha, Dai Daruma, Mero Melonpan, the Dango Three (Pinku, Shiro, Cha), Kori Kakigori, Pock Ramune, Dora the Dorayaki, Neko-Pan, Yuki the Snow Monkey-Manju, Coro the Korokke, Pepper-kun, Gacha the Gachapon, Sora the Soft-Cream, Kei the kei-truck, the Sushi-ya Express
 **Setting:** A giant summer matsuri where the whole cast reunites halfway through their journey across Japan
 **Theme:** Friendship is the best kind of homecoming
-**Japanese Spotlight:** ともだち (tomodachi) = friend
+**Japanese Spotlight:** **tomodachi** (toh-moh-dah-chee) — friend
 
 ---
 
@@ -12,7 +12,7 @@ Momo Mochi could not stop bouncing. She bounced off the train seat, off the wind
 
 "Momo," sighed Niko Nigiri, straightening his nori belt for the eleventh time, "we are doing this neatly. We arrive, we set up the banner, *then* we celebrate."
 
-But Momo was already pressed against the glass, her snow-white cheeks fogging it up. Below the hill, in a wide green field strung between two rivers, glowed the biggest **祭り** (matsuri) = festival anyone had ever seen. A thousand paper lanterns swayed like sleepy fireflies. Food stalls puffed sweet steam into the dusk.
+But Momo was already pressed against the glass, her snow-white cheeks fogging it up. Below the hill, in a wide green field strung between two rivers, glowed the biggest **matsuri** (mah-tsoo-ree) — festival — anyone had ever seen. A thousand paper lanterns swayed like sleepy fireflies. Food stalls puffed sweet steam into the dusk.
 
 "Fifty stories," Momo whispered, her rosy peach cheeks glowing. "We're halfway across Japan, everybody. Halfway! And tonight — *everyone's coming.*"
 
@@ -22,9 +22,9 @@ She turned around, arms already stretching wide.
 
 ---
 
-The Sushi-ya Express rumbled into the festival field with a cheerful *ding-ding* of its little bell, noren curtain flapping. Behind it, putt-putting proudly, came Kei the kei-truck, bouncing on his springs like an excited puppy, his knitted sweater-cover slightly askew.
+The Sushi-ya Express rumbled into the festival field with a cheerful *ding-ding* of its little bell, noren curtain flapping. Behind it, putt-putting proudly, came Kei the kei-truck, bouncing on her springs like an excited puppy, her knitted sweater-cover slightly askew.
 
-"Putt-putt, we MADE it!" Kei beeped, and his headlight-eyes went wide as dinner plates. "Look at all the *lanterns!*"
+"Putt-putt, we MADE it!" Kei beeped, and her headlight-eyes went wide as dinner plates. "Look at all the *lanterns!*"
 
 There were, in fact, exactly one thousand lanterns. Dai Daruma had counted them. Twice. Out loud. With great determination.
 
@@ -44,7 +44,7 @@ That was when she noticed the problem.
 
 ---
 
-In the very center of the field stood the **櫓** (yagura) = festival tower — a tall wooden stage where, at the stroke of nightfall, the great Half-Way Bell was supposed to ring. When it rang, the fireworks would light, and all thousand lanterns would float up into the sky at once.
+In the very center of the field stood the **yagura** (yah-goo-rah) — the festival tower — a tall wooden stage where, at the stroke of nightfall, the great Half-Way Bell was supposed to ring. When it rang, the fireworks would light, and all thousand lanterns would float up into the sky at once.
 
 But the Half-Way Bell was *gone.*
 
@@ -54,9 +54,9 @@ The little hook on top of the tower was empty. Just a sad, swinging bit of rope,
 
 Momo's bounce went flat as a pancake. (Dora the Dorayaki took mild offense.)
 
-"Okay," said Momo, taking a deep, squishy breath. "Okay okay okay. We do *not* panic at a party. We find the bell. **ともだち** (tomodachi) = friends fix things together, right?"
+"Okay," said Momo, taking a deep, squishy breath. "Okay okay okay. We do *not* panic at a party. We find the bell. **Tomodachi** (toh-moh-dah-chee) — friends — fix things together, right?"
 
-"Right!" beamed Neko-Pan, raising her lucky paw. "Wave for luck, share the luck! Somebody's bound to find it!"
+"Right!" beamed Neko-Pan, raising his lucky paw. "Wave for luck, share the luck! Somebody's bound to find it!"
 
 Maru Matcha closed her calm half-moon eyes and gave her bamboo whisk a gentle twirl. "Whisk slow," she murmured. "Feel calm. A lost thing is only a found thing that's running late."
 
@@ -150,7 +150,7 @@ What happened next was the most beautiful thing any of them had ever seen.
 
 The fireworks bloomed — gold and pink and matcha-green, the exact colors of the Dango Three, who shrieked with delight. A thousand lanterns lifted off the ground all at once, drifting up like a river flowing the wrong way, into the stars.
 
-And in the glow, all fifty friends stood squished together, looking up.
+And in the glow, the whole squishy crowd of friends stood squished together, looking up.
 
 "Fifty stories," said Dora softly, beret tilted back. "A good story is the best filling. But *this* — this is the best story of all."
 
@@ -158,11 +158,11 @@ And in the glow, all fifty friends stood squished together, looking up.
 
 She stretched her arms wide enough to hug the whole crowd at once.
 
-"But home isn't the end of the road, silly me. Home is *who you're standing with.* Home is **ともだち**. And I'm standing with all of mine."
+"But home isn't the end of the road, silly me. Home is *who you're standing with.* Home is tomodachi. And I'm standing with all of mine."
 
 Kori Kakigori burst into happy, melty tears. "I'm not crying, I'm just THAWING beautifully!"
 
-Pock Ramune popped a fountain of celebration bubbles. Rin Ramen steamed so proudly he fogged his own nori name-tag. Neko-Pan waved her lucky paw at every single friend, one at a time, so nobody felt unwaved-at. And Gacha — brave, embarrassed, forgiven Gacha — popped open one last time and showered the whole crowd with tiny mochi prizes that pattered down like the sweetest, softest rain.
+Pock Ramune popped a fountain of celebration bubbles. Rin Ramen steamed so proudly he fogged his own nori name-tag. Neko-Pan waved his lucky paw at every single friend, one at a time, so nobody felt unwaved-at. And Gacha — brave, embarrassed, forgiven Gacha — popped open one last time and showered the whole crowd with tiny mochi prizes that pattered down like the sweetest, softest rain.
 
 "Surprise inside," he whispered, happy at last. "The surprise was *us.*"
 

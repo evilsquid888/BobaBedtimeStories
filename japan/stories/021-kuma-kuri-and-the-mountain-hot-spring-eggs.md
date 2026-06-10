@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A misty volcanic valley where eggs cook gently in the steamy hot-spring water
 **Theme:** Quiet helpers make the warmest difference
-**Japanese Spotlight:** たまご (tamago) = egg
+**Japanese Spotlight:** **tamago** (tah-mah-goh) — egg
 
 ---
 
@@ -20,9 +20,9 @@ Then his foot bumped something round and smooth and white in the rocks.
 
 It was not a pebble. It was an egg.
 
-It was, in fact, a whole little nest of them, tucked between two warm stones beside the steamiest, bubbliest pool in the whole valley — a pool so toasty that the water hummed like a kettle that had forgotten to stop.
+It was, in fact, a whole big basketful of them, set between two warm stones beside the steamiest, bubbliest pool in the whole valley — a pool so toasty that the water hummed like a kettle that had forgotten to stop. The old onsen keeper from the inn down the slope carried a fresh basket of eggs up the mountain every single morning, for any traveler who wanted to cook one — though the travelers were always in too much of a hurry, and the eggs mostly sat there going cold.
 
-"A たまご (tamago) = egg," Kuma breathed, because he had read the word once in a cozy book and had been saving it for a special occasion. "A nest of tamago, all cold and lonely. That won't do. That won't do at all."
+"A **tamago** (tah-mah-goh) — egg," Kuma breathed, because he had read the word once in a cozy book and had been saving it for a special occasion. "A basket of tamago, all cold and lonely. That won't do. That won't do at all."
 
 Now, Kuma was shy, but Kuma was the sort of brave that nobody notices — the quiet kind, the kind that just *does the thing*. He gathered the little eggs into his autumn-leaf scarf, careful as carrying clouds, and waddled to the edge of the kettle-warm pool.
 
@@ -42,7 +42,7 @@ He had discovered something wonderful. The only trouble was that Kuma was much t
 
 He sat down on a warm rock and thought about it, scarf pulled up over his nose.
 
-What does a shy chestnut do with a kettle-warm pool and a nest of perfect eggs? He could keep them all to himself, he supposed. But that didn't feel toasty at all — that felt cold and pebble-lonely, the same way the eggs had felt before he warmed them. No, no. Kuma had spent his whole quiet life watching other friends from far away — the bold ones, the loud ones, the ones who waved and laughed and got noticed. He'd always wished he could give the way they gave. The trouble was, every time he opened his mouth to be helpful, the words got shy and hid behind his scarf.
+What does a shy chestnut do with a kettle-warm pool and a basket of perfect eggs? He could keep them all to himself, he supposed. But that didn't feel toasty at all — that felt cold and pebble-lonely, the same way the eggs had felt before he warmed them. No, no. Kuma had spent his whole quiet life watching other friends from far away — the bold ones, the loud ones, the ones who waved and laughed and got noticed. He'd always wished he could give the way they gave. The trouble was, every time he opened his mouth to be helpful, the words got shy and hid behind his scarf.
 
 "But a tamago," Kuma whispered to himself, an idea glowing up warm inside him like a little ember, "a tamago doesn't need me to *talk*. A tamago just needs me to *care*."
 
@@ -80,9 +80,9 @@ Late in the afternoon, the steam thickened into a proper mountain fog — thick 
 
 "Hello? Hellooo? Is anybody — *oof* — is anybody there?"
 
-Kuma peeked out. A tiny butter-yellow kei-truck named Kei had taken a wrong turn in the fog. His big headlight-eyes were wide and wobbly, his springs were shivering, and his little knitted seat-cover sweater had gone all damp and droopy. He was very lost, and very cold, and very near to crying small oily tears.
+Kuma peeked out. A tiny butter-yellow kei-truck named Kei had taken a wrong turn in the fog. Her big headlight-eyes were wide and wobbly, her springs were shivering, and her little knitted seat-cover sweater had gone all damp and droopy. She was very lost, and very cold, and very near to crying small oily tears.
 
-"Putt... putt..." he hiccupped. "I can't see the road. I can't see *anything*."
+"Putt... putt..." she hiccupped. "I can't see the road. I can't see *anything*."
 
 And every shy bone in Kuma's roasty little body said: *hide. Stay in the steam. Somebody braver will help.*
 
@@ -96,13 +96,13 @@ And he glowed — warm and toasty-brown, like a little roasted lantern — and h
 
 "Fall down seven, bounce up eight," Kuma whispered to himself (he had borrowed that chant from a daruma he'd once admired from very far away). His feet were nervous. His cheeks were hot. But he did not stop.
 
-He led Kei right down to the warm bubbling pool, sat him beside the steam to dry his sweater, and — of course — made him an egg.
+He led Kei right down to the warm bubbling pool, sat her beside the steam to dry her sweater, and — of course — made her an egg.
 
 "For me?" sniffled Kei, headlight-eyes brimming.
 
 "For you," said Kuma. And this time, he did not duck behind a cloud. This time, he stayed.
 
-Kei ate his warm tamago, and his shivers stopped, and his springs went *boing* with happiness, and he looked at the little glowing chestnut and gasped:
+Kei ate her warm tamago, and her shivers stopped, and her springs went *boing* with happiness, and she looked at the little glowing chestnut and gasped:
 
 "It was YOU! The eggs all over the mountain — the *for you* eggs — that was all *you*?? Everybody's been talking about the Mystery Mountain Helper! There are songs! Little songs! And it was a chestnut the whole time!"
 

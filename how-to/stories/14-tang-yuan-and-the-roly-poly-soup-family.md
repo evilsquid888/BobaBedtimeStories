@@ -4,13 +4,13 @@
 **Guest Characters:** Hong Dou
 **Setting:** A solstice kitchen
 **Theme:** All together
-**Word Spotlight:** 湯圓 (tangyuan) = sweet rice balls in soup
+**Word Spotlight:** **tangyuan** (tahng-ywen) — sweet rice balls in soup
 
 ---
 
 On the longest night of the whole year, when the dark came early and stayed late like a guest who forgot to go home, there lived a small round fellow named Tang Yuan. He was a soft white rice ball, smooth as the moon and just as squishy, with a dimple where somebody had once poked him in a fit of love. He bounced when he walked. He giggled when he bounced. And he could not — try as he might — sit still in a chair.
 
-"Tonight," Tang Yuan announced to the warm and steamy kitchen, "is the **冬至** (dōngzhì) = winter solstice! And on the solstice, my family always makes 湯圓 (tangyuan) = sweet rice balls in soup. The trouble is..."
+"Tonight," Tang Yuan announced to the warm and steamy kitchen, "is **dongzhi** (dohng-jrr) — the winter solstice! And on the solstice, my family always makes **tangyuan** (tahng-ywen) — sweet rice balls in soup. The trouble is..."
 
 He looked around the empty kitchen.
 
@@ -20,23 +20,23 @@ A single tear of warm water wobbled on his cheek. Then he wiped it, sniffed once
 
 ---
 
-He hopped to the counter, where a small red bean sat polishing himself with a corner of cloth. This was Hong Dou, a glossy crimson adzuki bean, plump and dignified, with a little white scar of a smile right across his middle.
+He hopped to the counter, where a small red bean sat polishing herself with a corner of cloth. This was Hong Dou, a glossy crimson adzuki bean, plump and dignified, with a little white scar of a smile right across her middle.
 
-"Hong Dou!" cried Tang Yuan. "Will you help me make 湯圓 tonight? It's no fun making them alone. The whole point is *all together*."
+"Hong Dou!" cried Tang Yuan. "Will you help me make tangyuan tonight? It's no fun making them alone. The whole point is *all together*."
 
-Hong Dou straightened his tiny vest. "I have never made a single tangyuan in my entire bean life," he admitted. "I usually just float in the soup at the end and look handsome."
+Hong Dou straightened her tiny vest. "I have never made a single tangyuan in my entire bean life," she admitted. "I usually just float in the soup at the end and look handsome."
 
-"Then I'll teach you!" said Tang Yuan, bouncing so high his dimple nearly fell off. "Step one. We need **糯米粉** (nuòmǐfěn) = glutinous rice flour. Fetch the bag, my crimson friend!"
+"Then I'll teach you!" said Tang Yuan, bouncing so high his dimple nearly fell off. "Step one. We need **nuomifen** (nwaw-mee-fun) — glutinous rice flour. Fetch the bag, my crimson friend!"
 
-Hong Dou rolled across the counter and bonked into a paper sack twice his height. A puff of white flour burst over him like a tiny blizzard, and when it settled he had gone from ruby-red to powdery-pink.
+Hong Dou rolled across the counter and bonked into a paper sack twice her height. A puff of white flour burst over her like a tiny blizzard, and when it settled she had gone from ruby-red to powdery-pink.
 
-"I look like a snow bean," he said, blinking.
+"I look like a snow bean," she said, blinking.
 
 "You look like the FIRST member of our soup family," said Tang Yuan, laughing so hard he wobbled. "Now. Pour the flour into the big bowl — *that* much, yes — and we add warm water. Not too hot, not too cold. Warm like a nap."
 
 Hong Dou tested the kettle and flinched. "This kettle water is HOT hot. Bubbling-volcano hot."
 
-"Ah!" said Tang Yuan, and he wagged a little finger. "Then we do the most important kitchen step of all. We call **奶奶** (nǎinai) = grandma."
+"Ah!" said Tang Yuan, and he wagged a little finger. "Then we do the most important kitchen step of all. We call **nainai** (nigh-nigh) — grandma."
 
 And right on cue, in shuffled Grandma — soft, round, slippered, smelling of ginger and good ideas. She poured the steaming water and stirred in just enough cool, until the bowl gave off a friendly little curl of warmth.
 
@@ -62,7 +62,7 @@ He flopped headfirst into the bowl.
 
 Hong Dou pressed. The dough sprang back and — Hong Dou would swear this forever — gave a tiny, doughy wave.
 
-"It waved!" he gasped.
+"It waved!" she gasped.
 
 "Everybody in this kitchen is friendly tonight," said Tang Yuan happily.
 
@@ -72,13 +72,13 @@ Hong Dou pressed. The dough sprang back and — Hong Dou would swear this foreve
 
 He rolled one between his palms. *Round, round, round.* Out popped a flawless white pearl.
 
-Hong Dou tried. His first ball came out shaped like a tiny potato. His second looked like a startled egg. His third — round, smooth, perfect — made him puff up so proudly his pink flour dusted off in a happy little cloud.
+Hong Dou tried. Her first ball came out shaped like a tiny potato. Her second looked like a startled egg. Her third — round, smooth, perfect — made her puff up so proudly her pink flour dusted off in a happy little cloud.
 
-"You're a natural!" cheered Tang Yuan. "Now, if you want, you can hide a treasure inside. Flatten a piece of dough into a little cup, spoon in a dab of sweet black **芝麻** (zhīma) = sesame paste, then pinch the top shut and roll it smooth again. A secret center! Like a present nobody can see until they bite."
+"You're a natural!" cheered Tang Yuan. "Now, if you want, you can hide a treasure inside. Flatten a piece of dough into a little cup, spoon in a dab of sweet black **zhima** (jrr-mah) — sesame paste — then pinch the top shut and roll it smooth again. A secret center! Like a present nobody can see until they bite."
 
 "A surprise!" Hong Dou wiggled. "Make some plain and some with a secret, so each bite is an adventure!"
 
-So they rolled. And rolled. And rolled. Plain ones. Sesame ones. A wonky one Hong Dou shaped like a heart on purpose and refused to apologize for. Tang Yuan tried to roll three at once, juggling them in slow sleepy circles, and dropped all three into the flour bowl with a soft *poof*, and laughed until his dimple ached. Hong Dou lined his finished balls up in a neat little parade and gave each one a name. There was Roly. There was Poly. There was a particularly proud one he named General Squish.
+So they rolled. And rolled. And rolled. Plain ones. Sesame ones. A wonky one Hong Dou shaped like a heart on purpose and refused to apologize for. Tang Yuan tried to roll three at once, juggling them in slow sleepy circles, and dropped all three into the flour bowl with a soft *poof*, and laughed until his dimple ached. Hong Dou lined her finished balls up in a neat little parade and gave each one a name. There was Roly. There was Poly. There was a particularly proud one she named General Squish.
 
 "You can't name all of them," said Tang Yuan. "We're going to *eat* them."
 
@@ -100,19 +100,19 @@ Grandma came shuffling back with a pot of water already dancing at a rolling boi
 
 "Now watch the magic," whispered Tang Yuan. "When they're cooked all the way through, they float. Sink at the start, swim at the end. That's how you know."
 
-For a moment the little balls bobbed under like shy swimmers. Tang Yuan held his breath. Hong Dou crossed all of his... well, he didn't have fingers, so he just crossed his hopes.
+For a moment the little balls bobbed under like shy swimmers. Tang Yuan held his breath. Hong Dou crossed all of her... well, she didn't have fingers, so she just crossed her hopes.
 
 Then — *up!* One bobbed to the surface. Then two. Then the whole roly-poly crowd rose up bobbing and grinning, floating proudly like they'd won a medal in solstice swimming.
 
-"THEY FLOAT!" Hong Dou shouted, leaping so high he nearly joined them.
+"THEY FLOAT!" Hong Dou shouted, leaping so high she nearly joined them.
 
-Grandma scooped each floating tangyuan into warm bowls and ladled the sweet ginger syrup over the top, where it shimmered amber and smelled like a hug. Hong Dou hopped in last, bobbing among the rice balls, finally getting his moment to float and look handsome.
+Grandma scooped each floating tangyuan into warm bowls and ladled the sweet ginger syrup over the top, where it shimmered amber and smelled like a hug. Hong Dou hopped in last, bobbing among the rice balls, finally getting her moment to float and look handsome.
 
 ---
 
 They carried the bowls to the table, where — because solstice has a way of gathering everyone in — Grandma's whole kitchen had filled up: cousins and neighbors and one very confused dumpling who'd shown up early for a different holiday.
 
-Tang Yuan looked around at the steam, the lanterns, the crowd, the bowls of warm round 湯圓 with their secret sesame middles, and his dimple glowed.
+Tang Yuan looked around at the steam, the lanterns, the crowd, the bowls of warm round tangyuan with their secret sesame middles, and his dimple glowed.
 
 "I said I'd have to MAKE a family tonight," he whispered to Hong Dou.
 

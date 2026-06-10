@@ -1,10 +1,10 @@
 # Story 56: Sen Senbei and the Summer Wind-Chimes
 
-**Main Character:** Sen the Senbei (a flat golden rice cracker wrapped in seaweed) — a fresh, under-used character replacing the over-used Dora Dorayaki
+**Main Character:** Sen the Senbei (a flat golden rice cracker wrapped in seaweed)
 **Guest Characters:** None
 **Setting:** A summer wind-chime (fūrin) festival in the leafy courtyard of a Kyoto temple, hundreds of glass bells hanging from the trees
 **Theme:** The small things you make and give away can comfort a stranger you will never meet
-**Japanese Spotlight:** ふうりん (fūrin) = glass wind-chime
+**Japanese Spotlight:** fūrin (foo-reen) — glass wind-chime
 
 ---
 
@@ -20,7 +20,7 @@ He squeezed under the great wooden gate, stood on his crispy tiptoes, and gasped
 
 The whole leafy courtyard was *singing*.
 
-Hung from every branch of every tree were hundreds — no, thousands — of little glass bells, each one trembling in the breeze. They were **ふうりん** (fūrin) = glass wind-chimes, and each had a slip of paper tied beneath it, a little paper tail that caught the wind and made the glass bell go *tin... tin... tinnnn*. The sound was everywhere and nowhere, soft as falling stars, cool as a sip of cold barley tea on a hot day.
+Hung from every branch of every tree were hundreds — no, thousands — of little glass bells, each one trembling in the breeze. They were **fūrin** (foo-reen) — glass wind-chimes — and each had a slip of paper tied beneath it, a little paper tail that caught the wind and made the glass bell go *tin... tin... tinnnn*. The sound was everywhere and nowhere, soft as falling stars, cool as a sip of cold barley tea on a hot day.
 
 "Ohhhh," breathed Sen, and for one whole minute he forgot he was small.
 
@@ -52,7 +52,7 @@ So Sen, holding his breath until his edges nearly toasted, painted one tiny blue
 
 "Oh," said Sen, very quietly.
 
-"Now the tail," said Garan, handing him a slip of crisp white paper, the **短冊** (tanzaku) = a little paper strip for writing on, the kind you hang beneath the bell. "Write something on it. A wish, a hello, a kindness. The breeze will read it all summer long."
+"Now the tail," said Garan, handing him a slip of crisp white paper, the **tanzaku** (tahn-zah-koo) — a little paper strip for writing on, the kind you hang beneath the bell. "Write something on it. A wish, a hello, a kindness. The breeze will read it all summer long."
 
 Sen chewed the end of his brush. "Who's it *for*, though? Who gets this one?"
 

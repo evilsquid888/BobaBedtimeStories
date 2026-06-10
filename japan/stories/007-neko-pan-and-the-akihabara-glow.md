@@ -4,13 +4,13 @@
 **Guest Characters:** None
 **Setting:** The bright electric streets of Akihabara, Tokyo
 **Theme:** Sharing your luck multiplies it
-**Japanese Spotlight:** まねきねこ (maneki-neko) = beckoning lucky cat
+**Japanese Spotlight:** **Maneki-neko** (mah-neh-kee neh-koh) — beckoning lucky cat
 
 ---
 
-Now, if you have never seen a cream-filled bun shaped like a beckoning cat go *wheee* down a Tokyo sidewalk at dusk, then you have not yet lived your most delicious life. But tonight you will, because tonight Neko-Pan was bouncing through **秋葉原** (Akihabara) = the electric town, with one little paw raised and a gold-foil collar bell going *ting-a-ling* on every hop.
+Now, if you have never seen a cream-filled bun shaped like a beckoning cat go *wheee* down a Tokyo sidewalk at dusk, then you have not yet lived your most delicious life. But tonight you will, because tonight Neko-Pan was bouncing through **Akihabara** (ah-kee-hah-bah-rah) — the electric town — with one little paw raised and a gold-foil collar bell going *ting-a-ling* on every hop.
 
-Neko-Pan was a soft custard-hearted bun shaped like a **まねきねこ** (maneki-neko) = beckoning lucky cat — you know, those little statues in shop windows with one paw waving hello. Except Neko-Pan was warm, and crackly-domed, and absolutely, positively *alive*.
+Neko-Pan was a soft custard-hearted bun shaped like a **maneki-neko** (mah-neh-kee neh-koh) — a beckoning lucky cat — you know, those little statues in shop windows with one paw waving hello. Except Neko-Pan was warm, and crackly-domed, and absolutely, positively *alive*.
 
 "Wave for luck, share the luck!" Neko-Pan sang, waving that raised paw at a lamppost.
 
@@ -26,7 +26,7 @@ Neko-Pan stood in the middle of it all, custard heart going *thump*, and gasped 
 
 So Neko-Pan started everywhere at once, which is the very best way to start.
 
-The first stop was a tiny noodle stand squeezed between two skyscrapers, where an old radish-shaped fellow named Mister Daikon was stirring a pot and looking glummer than a Monday morning. His **ちょうちん** (chōchin) = paper lantern had gone dark, its little candle flickering out, and nobody was stopping to eat.
+The first stop was a tiny noodle stand squeezed between two skyscrapers, where an old radish-shaped fellow named Mister Daikon was stirring a pot and looking glummer than a Monday morning. His **chochin** (choh-cheen) — paper lantern — had gone dark, its little candle flickering out, and nobody was stopping to eat.
 
 "My lantern's broken," Mister Daikon sighed, "and a noodle stand with no glow is a noodle stand with no friends."
 
@@ -76,7 +76,7 @@ But the claw did NOT let go.
 
 *THUNK.* The prize tumbled down the chute.
 
-The gyoza-girl squealed so loudly that two birds fell off a sign. She hugged the mochi-toy. Then she hugged Neko-Pan. Then she did something Neko-Pan absolutely loved: she turned to the next kid in line — a worried little **おにぎり** (onigiri) = rice ball — and said, "Here. *You* try next. I'll wave for you!" And she copied Neko-Pan's wave exactly, paw and all.
+The gyoza-girl squealed so loudly that two birds fell off a sign. She hugged the mochi-toy. Then she hugged Neko-Pan. Then she did something Neko-Pan absolutely loved: she turned to the next kid in line — a worried little **onigiri** (oh-nee-ghee-ree), a rice ball — and said, "Here. *You* try next. I'll wave for you!" And she copied Neko-Pan's wave exactly, paw and all.
 
 Neko-Pan's custard heart went so warm it nearly melted right out the bottom.
 
@@ -90,7 +90,7 @@ Neko-Pan's custard heart went so warm it nearly melted right out the bottom.
 
 But here is where our story takes a wobble, because not every street stays bright forever.
 
-Neko-Pan bounced around one last corner — and stopped. Beep. Everything was dark.
+Neko-Pan bounced around one last corner — and stopped. Everything was dark.
 
 A whole stretch of Akihabara had gone quiet and gray. The giant cat sign had stopped meowing — which felt deeply, unfairly wrong, like a clock forgetting how to tick. The signs were black. The buildings loomed like sleepy giants who'd forgotten to brush their teeth. Even the air felt dim, the way a room feels when someone you love has left it.
 

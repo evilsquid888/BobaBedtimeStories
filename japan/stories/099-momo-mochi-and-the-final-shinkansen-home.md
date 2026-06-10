@@ -4,13 +4,13 @@
 **Guest Characters:** None
 **Setting:** The bullet train gliding home past Mount Fuji at golden hour
 **Theme:** Home is the people you carry in your heart
-**Japanese Spotlight:** かえる (kaeru) = to go home / return
+**Japanese Spotlight:** **kaeru** (kah-EH-roo) — to go home / return
 
 ---
 
 Momo Mochi had never, in all her squishy little life, sat so still.
 
-She was perched on a velvet train seat the color of plum jam, her plump snow-white body dusted with potato starch, her peach-pink cheeks pressed to the cool window glass. Outside, the whole world was zipping by so fast it looked like someone had smeared the scenery with butter. Trees became green ribbons. Rice paddies became silver mirrors. A startled cow became a brown blur that went *mooo-ooo-oooo* in a long, stretched-out way, the way everything sounds when you are aboard the **新幹線** (shinkansen) = bullet train.
+She was perched on a velvet train seat the color of plum jam, her plump snow-white body dusted with potato starch, her peach-pink cheeks pressed to the cool window glass. Outside, the whole world was zipping by so fast it looked like someone had smeared the scenery with butter. Trees became green ribbons. Rice paddies became silver mirrors. A startled cow became a brown blur that went *mooo-ooo-oooo* in a long, stretched-out way, the way everything sounds when you are aboard the **shinkansen** (sheen-KAHN-sen) — the bullet train.
 
 "Oh my squish," Momo whispered, bouncing on the cushion. "I am going SO fast that even my dimple is wobbling."
 
@@ -20,9 +20,9 @@ This was the last ride. The ride home.
 
 ---
 
-It had been the longest, sweetest journey of Momo's whole life. She had traveled the entire island, hugging every friend she could reach, and now — at golden hour, with the sky turning the color of warm honey — she was finally going **かえる** (kaeru) = to go home.
+It had been the longest, sweetest journey of Momo's whole life. She had traveled the entire island, hugging every friend she could reach, and now — at golden hour, with the sky turning the color of warm honey — she was finally going **kaeru** (kah-EH-roo) — going home.
 
-"かえる," she practiced out loud, stretching her taffy-soft arms over her head. "I am going to *kaeru*! Home, home, squishy little home!"
+"Kaeru," she practiced out loud, stretching her taffy-soft arms over her head. "I am going to *kaeru*! Home, home, squishy little home!"
 
 But the funny thing about a heart — and Momo had a very large, very squishy one — is that it does strange arithmetic. The closer the train carried her toward home, the *more* homes she seemed to have, not fewer. Because every window-flash of scenery reminded her of someone.
 
@@ -54,7 +54,7 @@ Momo considered this very seriously, the way you consider a question that turns 
 
 The conductor tilted his rice-cap, puzzled but kind. "Well. Wherever you're headed, I hope it's somewhere lovely."
 
-"I'm going かえる (kaeru)," Momo said again, just for the joy of the word. "Home. Although—" she scrunched up her starchy little face, "—I'm starting to think *home* is a much bigger place than I packed for."
+"I'm going kaeru," Momo said again, just for the joy of the word. "Home. Although—" she scrunched up her starchy little face, "—I'm starting to think *home* is a much bigger place than I packed for."
 
 The conductor blinked, decided this was the sort of thing mochi sometimes said, and moved along down the swaying car with a tidy little bow.
 
@@ -70,7 +70,7 @@ And that's when she saw it.
 
 ---
 
-**富士山** (Fuji-san) = Mount Fuji.
+**Fuji-san** (FOO-jee-sahn) — Mount Fuji.
 
 It rose up out of the golden haze like a scoop of strawberry-and-cream kakigori turned upside down — broad and blue at the bottom, capped with bright snow at the top, glowing pink-gold in the sinking sun. It was the most beautiful thing Momo had ever seen, and she had seen a LOT of beautiful things, including the time Kori Kakigori wore three pairs of sunglasses at once and called himself "extremely cool, possibly too cool."
 
@@ -80,9 +80,9 @@ And then — because she was Momo Mochi, and Momo Mochi could not contain a big 
 
 "Mwah! I love you, mountain!"
 
-A nearby passenger, a sleepy Mero Melonpan with his crackly golden crust and his eyes half-closed in a dream, murmured, "Crackle on the outside... dreams on the inside..." and smiled without quite waking up. A few crumbs sparkled off him and drifted down like tiny stars.
+Two seats over, a familiar golden crust stirred: Mero Melonpan — of course it was Mero, who had boarded at the very first stop and fallen asleep before the train even moved. He murmured, "Crackle on the outside... dreams on the inside..." and smiled without quite waking up. A few crumbs sparkled off him and drifted down like tiny stars.
 
-Momo grinned. Even strangers, it turned out, felt a little bit like home.
+Momo grinned. Even on a train full of strangers, a little piece of home was dozing two seats over.
 
 ---
 
@@ -94,7 +94,7 @@ She thought of Dai Daruma wobbling over and bouncing right back up — *Fall dow
 
 She thought of the Dango Three bickering lovingly on their single stick, and Tako & Yaki high-fiving so hard they bounced, and Tai Taiyaki "swimming" through the air, and Pock Ramune zipping by going *pop! pop! pop!*
 
-She thought of Tama Onigiri, who had pressed an extra rice ball into her arms at the station, wrapped in a little cloth, saying *I packed a little extra, just in case!* — and who had then sniffled and packed her a SECOND one just in case of the first one.
+She thought of Tama Onigiri, whose second rice ball still sat tucked in its little cloth beside her — homesickness insurance, saved for exactly the right moment.
 
 She thought of Mero Melonpan, still dozing two seats over, murmuring soft dreamy things at the ceiling. She thought of Sora the Soft-Cream and her wide Hokkaido skies, and Dora the Dorayaki who always said *A good story is the best filling* — and Momo realized, with a little gasp, that *she* was inside a good story right now, the very best one, a story about going home.
 
@@ -126,21 +126,21 @@ The train began to slow. Outside, the lights of Momo's home town came twinkling 
 
 The doors went *shhhh*.
 
-And there, on the platform, blinking under the lanterns, was the dearest sight of all: a teeny butter-yellow kei-truck with big headlight eyes and a knitted seat-cover sweater, bouncing on his springs with excitement.
+And there, on the platform, blinking under the lanterns, was the dearest sight of all: a teeny butter-yellow kei-truck with big headlight eyes and a knitted seat-cover sweater, bouncing on her springs with excitement.
 
-"PUTT-PUTT!" beeped Kei the moment he saw her. "You're HOME! Putt-putt, you're really HOME!"
+"PUTT-PUTT!" beeped Kei the moment she spotted Momo. "You're HOME! Putt-putt, you're really HOME!"
 
 Momo Mochi tumbled off the train in a happy avalanche of starch and squish, stretched both arms ALL the way out — long, long, longer than she'd ever stretched them — and wrapped Kei up in the biggest, softest, most enormous mochi-hug the platform had ever seen.
 
-"I went all the way around the island," she said into his warm little hood, "and do you know what I found out?"
+"I went all the way around the island," she said into Kei's warm little hood, "and do you know what I found out?"
 
 "What?" beeped Kei, springs wobbling.
 
-Momo squished him tighter, and the lanterns glowed, and far behind them Mount Fuji was a soft purple dream against the first shy stars.
+Momo squished the little truck tighter, and the lanterns glowed, and far behind them Mount Fuji was a soft purple dream against the first shy stars.
 
 "I found out," she whispered, "that the best part of going anywhere... is getting to *kaeru*. Squish together, stay together."
 
-And Kei beeped so happily that his headlights blinked like two little hearts, and the two of them putt-putted off down the lantern-lit road toward home — which was a place, yes, but mostly, Momo now knew, was a feeling she would carry forever, a hundred times over, tucked sweet and safe inside her squish.
+And Kei beeped so happily that her headlights blinked like two little hearts, and the two of them putt-putted off down the lantern-lit road toward home — which was a place, yes, but mostly, Momo now knew, was a feeling she would carry forever, a hundred times over, tucked sweet and safe inside her squish.
 
 ---
 

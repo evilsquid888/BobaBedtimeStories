@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A quiet seaside cliff at dawn near the journey's end
 **Theme:** Endings are just sunrises in disguise
-**Japanese Spotlight:** ひので (hinode) = sunrise
+**Japanese Spotlight:** **hinode** (hee-NO-deh) — sunrise
 
 ---
 
@@ -16,7 +16,7 @@ A grumble rolled out from under a blanket. "Tai," yawned Maru Matcha, "the moon 
 
 "Exactly!" Tai whispered, his crispy fin-tail wiggling with joy, his little red-bean heart glowing warm and sweet through his golden waffle smile. "We have to hurry, or we'll miss it. Swim toward the sweet stuff, everyone! Tonight the sweet stuff is the SKY."
 
-And that, dear reader, is how nine very confused snacks ended up climbing a cliff in the dark.
+And that, dear reader, is how six very sleepy snacks (and one extremely awake fish-cake) ended up climbing a cliff in the dark.
 
 ---
 
@@ -24,7 +24,7 @@ It had been a very long journey. Across markets and mountains, through bubbling 
 
 This was the end of the road. The journey home started after this. Everyone knew it, even if nobody had said it out loud.
 
-Tai led the way up the grassy path, his little waddle bouncing him along like a wind-up toy. Behind him came Momo Mochi, soft and snow-white, stretching her taffy arms to help the others up the steep bits. Then Maru Matcha with her tiny bamboo whisk, Rin Ramen sloshing gently and faintly steaming, Dai Daruma rolling and righting himself, rolling and righting himself, and Mero Melonpan, who was technically still asleep and being carried.
+Tai led the way up the grassy path, his little waddle bouncing him along like a wind-up toy. Behind him came Momo Mochi, soft and snow-white, stretching her taffy arms to help the others up the steep bits. Then Maru Matcha with her tiny bamboo whisk, Rin Ramen sloshing gently and faintly steaming, Dai Daruma rolling and righting himself, rolling and righting himself, and Mero Melonpan, who was technically still asleep and being carried. Last of all came Kuma the Kuri, the small brave chestnut, sturdy and quiet in his autumn-leaf scarf, making sure nobody was left behind.
 
 "Are we there?" mumbled Mero, his crackly crust catching the starlight. "Crackle on the outside... dreams on the inside..."
 
@@ -32,15 +32,17 @@ Tai led the way up the grassy path, his little waddle bouncing him along like a 
 
 They settled in a row on the cool grass at the cliff's brink. Below them, far down, the sea whispered against the rocks. Above them, the stars were beginning, very slowly, to dim.
 
-And that was when Rin Ramen started to cry.
+And that was when Kuma the Kuri started to cry.
 
-Now, Rin always had big feelings, the way a bowl of broth always has a lot of broth. But these were quiet tears, soft and steamy, dripping into his golden soup.
+Now, Kuma was the quietest of the friends, the shy hero who only spoke up when it really mattered. So these were quiet tears too — tiny and round, slipping down his glossy mahogany cheeks and disappearing into his autumn-leaf scarf.
 
-"Rin?" said Momo gently, scooting close. "What's wrong?"
+"Kuma?" said Momo gently, scooting close. "What's wrong?"
 
-"It's just—" Rin sniffled. "This is the LAST one. The last sunrise of the whole adventure. After this we all go home, to our own kitchens and our own corners, and... and maybe we won't all be together again, bubbling and warm." His corn freckle wobbled. "Endings are the WORST. Everything's better warm and bubbly, and endings are cold."
+"It's just—" Kuma sniffled. "This is the LAST one. The last sunrise of the whole adventure. After this we all go home, to our own kitchens and our own corners, and... and maybe we won't all be together again." His fuzzy little cap trembled. "I'm not very good at change. I never have been. Endings feel like a campfire going out, and I'm small and roasty, and I don't want to be cold."
 
 A hush fell over the row of friends. Dai Daruma's brave eyebrows drooped. Mero woke up just enough to look sad. Even Maru's calm half-moon eyes went a little misty.
+
+Rin Ramen scooted over and wrapped one warm, stubby arm around the little chestnut, his steam settling over Kuma soft as a blanket. "Hey," Rin said gently. "Everything's better warm and bubbly — and any time you feel cold, little kuri, there's a seat for you right next to my broth. That's a promise."
 
 Tai Taiyaki looked at his friends, and his red-bean heart squeezed.
 
@@ -54,9 +56,9 @@ Everyone sniffled and nodded.
 
 "When I was very small," Tai said, "I thought the sun fell INTO the ocean every night. Plop! Gone. And I thought — how sad, that the day has to drown." He smiled his wide warm smile, and his red-bean heart glowed brighter. "But my grandmother — a very old, very crispy taiyaki — told me something. She said the sun does not drown. It swims. It swims all night, under the whole world, just to come up somewhere new the next morning."
 
-"That's not how the sun works," whispered Cha-ish logic from somewhere, but nobody was sure who said it, so we'll let it go.
+"That's not strictly how the sun works," murmured Maru Matcha, because somebody had to say it, "...but go on."
 
-"It's how FEELINGS work," said Tai. "Watch. Watch the **ひので** (hinode) = sunrise. And tell me if it looks like an ending."
+"It's how FEELINGS work," said Tai. "Watch. Watch the **hinode** (hee-NO-deh) — the sunrise. And tell me if it looks like an ending."
 
 ---
 
@@ -66,7 +68,7 @@ The gray edge of the sea turned the softest, sleepiest shade of lavender. Then p
 
 "It's the color of ME," she breathed.
 
-"It's warm," whispered Rin, and his tears had stopped, because the sky was suddenly, impossibly warm, warmer than any broth. The clouds caught fire in the gentlest way — golden, then amber, then a bright laughing yellow that spilled all the way across the water in a shimmering road of light, a glittering path that looked, Tai thought, almost like you could swim along it.
+"It's warm," whispered Kuma the Kuri, and his tears had stopped, because the sky was suddenly, impossibly warm, warmer than any campfire. The clouds caught fire in the gentlest way — golden, then amber, then a bright laughing yellow that spilled all the way across the water in a shimmering road of light, a glittering path that looked, Tai thought, almost like you could swim along it.
 
 And then — there. The very top edge of the sun lifted itself out of the sea.
 
@@ -82,9 +84,9 @@ Mero Melonpan, fully awake now, sparkled all his sugar crumbs at once. "It's the
 
 ---
 
-The sun climbed higher, fat and golden and friendly, painting all nine friends in warm light. And one by one, they understood.
+The sun climbed higher, fat and golden and friendly, painting all seven friends in warm light. And one by one, they understood.
 
-"So when we go home," said Rin slowly, his steam curling up happy now, "it isn't the sun going OUT."
+"So when we go home," said Kuma the Kuri slowly, his cozy roasted glow coming back, "it isn't the sun going OUT."
 
 "It's the sun going AROUND," said Momo, stretching one taffy arm all the way down the row to gather everyone in close. "To shine somewhere new. And then it comes back. It always comes back. Squish together, stay together!"
 
@@ -92,11 +94,11 @@ They squished. They could not help it. Even Dai got squished, and he was very ro
 
 "Besides," said Tai Taiyaki, his fin-tail wiggling with mischief now, "who said the adventure is over? The road home is a brand-new adventure! We've never seen the way back. There's a whole RETURN trip full of sweet stuff we haven't even tasted yet!"
 
-"Putt-putt," said a small, fond voice — for somewhere down the hill, faithful little Kei the kei-truck had bumped his way up to wait for them, headlight eyes shining like two more tiny suns. "Let's GO!"
+"Putt-putt," said a small, fond voice — for somewhere down the hill, faithful little Kei the kei-truck had bumped her way up to wait for them, headlight eyes shining like two more tiny suns. "Let's GO!"
 
 Everyone laughed, big and bubbly and warm, the kind of laugh that fills a whole sky.
 
-And as the **ひので** finished climbing into the morning, brave Tai Taiyaki stood at the very edge of the world with his red-bean heart glowing, looking not back at the ending, but forward at the bright, beginning road.
+And as the hinode finished climbing into the morning, brave Tai Taiyaki stood at the very edge of the world with his red-bean heart glowing, looking not back at the ending, but forward at the bright, beginning road.
 
 "Swim toward the sweet stuff," he whispered to the sun, to the sea, to his friends, to you.
 
@@ -110,7 +112,7 @@ Little one, when the day folds up and the dark tucks you in, remember the secret
 
 ## AI Image Prompts
 
-1. Key scene — warm whimsical storybook illustration: nine adorable kawaii Japanese-dessert characters sitting in a cozy row on a grassy seaside cliff edge at dawn, watching an enormous glowing sunrise lift out of a calm shimmering ocean. The sky blooms lavender to peach to rose to brilliant gold, with a glittering golden path of light stretching across the water. Front and center, a cheerful golden fish-shaped taiyaki cake (Tai) stands proudly on his crispy fin-tail, his visible red-bean heart glowing warm. Soft dewy grass, gentle morning mist, painterly storybook texture, tender hopeful mood, dawn light spilling over everyone's faces.
+1. Key scene — warm whimsical storybook illustration: seven adorable kawaii Japanese-dessert characters sitting in a cozy row on a grassy seaside cliff edge at dawn, watching an enormous glowing sunrise lift out of a calm shimmering ocean. The sky blooms lavender to peach to rose to brilliant gold, with a glittering golden path of light stretching across the water. Front and center, a cheerful golden fish-shaped taiyaki cake (Tai) stands proudly on his crispy fin-tail, his visible red-bean heart glowing warm. Soft dewy grass, gentle morning mist, painterly storybook texture, tender hopeful mood, dawn light spilling over everyone's faces.
 
 2. Character portrait — Tai Taiyaki, a cheerful golden fish-shaped waffle-cake with a crispy fin-tail and a warm visible red-bean heart, captured mid-"swim" through the air with a little waddle, fins spread wide and joyful, big bright optimistic eyes, his red-bean heart glowing through his wide smile. Soft golden-hour backlighting, sparkles of warm steam, whimsical kawaii storybook style, against a softly blurred dawn-sky background.
 

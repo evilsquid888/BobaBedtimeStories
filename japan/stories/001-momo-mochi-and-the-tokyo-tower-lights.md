@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** Tokyo, beneath the glowing orange Tokyo Tower at dusk
 **Theme:** A new friend can light up a whole city for you
-**Japanese Spotlight:** こんにちは (konnichiwa) = hello
+**Japanese Spotlight:** **Konnichiwa** (koh-nee-chee-wah) — hello
 
 ---
 
@@ -42,11 +42,11 @@ She had not bounced three blocks when she rolled — *boing* — straight into s
 
 "WATCH the *swirl*, sweetie!" gasped a towering mountain of fluffy shaved ice, drizzled in ruby-red strawberry syrup with a curl of condensed milk on top and tiny sunglasses perched at a jaunty angle. "Do you KNOW how long it takes to look this cool? One degree warmer and I'm a *puddle*."
 
-"I'm so sorry!" Momo squished apologetically. Then, remembering the very first thing she'd learned about big cities — that you should always be brave enough to say hello — she stretched up tall and beamed. "**こんにちは** (konnichiwa) = hello! I'm Momo Mochi. I'm new, and a little bit lost, and I'm trying to reach that warm orange light."
+"I'm so sorry!" Momo squished apologetically. Then, remembering the very first thing she'd learned about big cities — that you should always be brave enough to say hello — she stretched up tall and beamed. "**Konnichiwa** (koh-nee-chee-wah) — hello! I'm Momo Mochi. I'm new, and a little bit lost, and I'm trying to reach that warm orange light."
 
-The shaved-ice mountain lowered her sunglasses. Under all the drama, her heart was as big as her swirl.
+The shaved-ice mountain lowered his sunglasses. Under all the drama, his heart was as big as his swirl.
 
-"*Konnichiwa* back at you, snowball. I'm Kori Kakigori. Lost on your first night? That's a meltdown waiting to happen." She tilted her syrupy peak toward the glow. "That, darling, is **東京タワー** (Tokyo Tawaa) = Tokyo Tower. Half the city steers by it. Stay cool, sweeties — I'll point you partway, but I do NOT do warm streets. Follow the lanterns to the bridge, then ask the bun. He naps there."
+"*Konnichiwa* back at you, snowball. I'm Kori Kakigori. Lost on your first night? That's a meltdown waiting to happen." He tilted his syrupy peak toward the glow. "That, darling, is **Tokyo Tawaa** (toh-kyoh tah-wah) — Tokyo Tower. Half the city steers by it. Stay cool, sweeties — I'll point you partway, but I do NOT do warm streets. Follow the lanterns to the bridge, then ask the bun. He naps there."
 
 "The bun?"
 

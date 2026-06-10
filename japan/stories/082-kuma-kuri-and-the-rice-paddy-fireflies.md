@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** Terraced rice paddies glowing with summer fireflies at dusk
 **Theme:** The smallest lights make the most magical night
-**Japanese Spotlight:** ほたる (hotaru) = firefly
+**Japanese Spotlight:** hotaru (hoh-tah-roo) — firefly
 
 ---
 
@@ -18,7 +18,7 @@ Kuma sighed his small roasty sigh. "I know," he admitted. "I'm not very good at 
 
 ---
 
-It was the warm blue hour at the edge of a mountain village, the time when the day folds itself up like a quilt and the evening tucks the valley in. All down the hillside ran the **棚田** (tanada) = terraced rice paddies, step after silver step of water-mirror, each one holding a little wobbling reflection of the sky. The young rice stood in tidy green rows, swishing softly, smelling of clean water and warm mud and something faintly sweet that might have been the night itself getting ready.
+It was the warm blue hour at the edge of a mountain village, the time when the day folds itself up like a quilt and the evening tucks the valley in. All down the hillside ran the **tanada** (tah-nah-dah) — terraced rice paddies, step after silver step of water-mirror, each one holding a little wobbling reflection of the sky. The young rice stood in tidy green rows, swishing softly, smelling of clean water and warm mud and something faintly sweet that might have been the night itself getting ready.
 
 Kuma had wandered up here on his own. He liked being on his own, mostly. The festival down in the village was bright and loud and full of friends shouting his name in the cheerful way that made his roasted heart glow and also, somehow, made him want to climb inside his own cap and stay there.
 
@@ -36,7 +36,7 @@ It floated up out of the rice, slow and dreamy as a yawn — a tiny, tiny green-
 
 "Oh," he breathed. "Oh, hello."
 
-"That," said a tired, gravelly little voice, "is a **ほたる** (hotaru) = firefly. And he's showing off."
+"That," said a tired, gravelly little voice, "is a **hotaru** (hoh-tah-roo) — firefly. And he's showing off."
 
 Kuma turned. On the stone beside him sat a fat, ancient toad with droopy eyes and a voice like a creaky gate, wearing — Kuma was fairly sure — a single dried leaf as a hat.
 
@@ -56,13 +56,13 @@ The single firefly drifted lower, hovering just above the dark water, and Kuma w
 
 "He thinks he's too small to matter," Kuma whispered. "He thinks one little light can't do anything in all this big dark valley."
 
-"Does he now," said Mister Croak, and yawned a yawn so wide Kuma could have parked Kei the kei-truck in it.
+"Does he now," said Mister Croak, and yawned a yawn so wide Kuma could have parked a little farm truck in it.
 
 Kuma looked at the firefly. The firefly, in its blinky firefly way, looked at Kuma. And Kuma felt something warm and roasty and unexpectedly brave wake up inside his chest, the way it always did — quietly, at the last possible moment, exactly when somebody needed it.
 
 He leaned down close to the water and cupped his little chestnut hands around the tiny glowing thing, not to catch it, just to make a cozy room of warmth around it.
 
-"Hey," he said softly. "Hey, little **ほたる**. You don't have to be the brightest. You just have to be the bravest. And the bravest thing isn't being big." He swallowed. "It's letting yourself be *seen.* Even when you're scared. Even when you're small. *Especially* then."
+"Hey," he said softly. "Hey, little hotaru. You don't have to be the brightest. You just have to be the bravest. And the bravest thing isn't being big." He swallowed. "It's letting yourself be *seen.* Even when you're scared. Even when you're small. *Especially* then."
 
 He felt extremely silly saying this to a bug.
 
@@ -78,13 +78,13 @@ And the valley answered.
 
 It was as if the first firefly had whispered a secret down through all the rice, and the secret was: *it's all right. You can come out now.*
 
-From the bottom paddy a light winked on. Then two. Then ten. Then the whole green hillside seemed to *breathe* — out of every silver step of water rose the **ほたる**, hundreds of them, thousands, drifting up in slow lazy spirals, blinking and glowing and swirling, until the entire valley was filled floor to sky with floating soft-gold stars.
+From the bottom paddy a light winked on. Then two. Then ten. Then the whole green hillside seemed to *breathe* — out of every silver step of water rose the hotaru, hundreds of them, thousands, drifting up in slow lazy spirals, blinking and glowing and swirling, until the entire valley was filled floor to sky with floating soft-gold stars.
 
 The dark paddy water held them all twice — once in the air and once in the mirror — so that Kuma sat in the middle of a whole *universe* of gentle, bashful, beautiful little lights, above and below, glowing all around him like the inside of a warm dream.
 
 "Mister Croak," he whispered, and his voice wobbled with wonder. "Mister Croak, *look.*"
 
-But the toad was already nodding off, and only mumbled, "Tol' you. Small ones. Best show in the **田舎** (inaka) = countryside, every single summer. All it takes is one to go first."
+But the toad was already nodding off, and only mumbled, "Tol' you. Small ones. Best show in the **inaka** (ee-nah-kah) — countryside, every single summer. All it takes is one to go first."
 
 Kuma laughed — a soft, delighted, roasty laugh that bubbled right up out of him before he could think to hide it. He stood up on the wall. He spread his stubby arms wide. And for the first time in his whole quiet life, surrounded by ten thousand tiny lights that were each exactly as small and as scared and as brave as he was, Kuma the Kuri did not try to be invisible at all.
 
@@ -107,7 +107,7 @@ Then he tucked his scarf up snug, and walked down the glowing terraces toward ho
 ---
 
 ## Goodnight Blessing
-Little one, you do not have to be the brightest light in the whole wide valley. You only have to be brave enough to let your own soft glow be seen. Somewhere out in the warm summer dark, the **ほたる** are rising over the quiet rice, blinking their tiny hearts on and off, on and off, just for you. Close your eyes and let them carry you gently down into sleep, where everything is cozy and nothing is too small to matter. You are warm. You are loved. You are exactly the right size. Goodnight.
+Little one, you do not have to be the brightest light in the whole wide valley. You only have to be brave enough to let your own soft glow be seen. Somewhere out in the warm summer dark, the hotaru are rising over the quiet rice, blinking their tiny hearts on and off, on and off, just for you. Close your eyes and let them carry you gently down into sleep, where everything is cozy and nothing is too small to matter. You are warm. You are loved. You are exactly the right size. Goodnight.
 
 ## AI Image Prompts
 1. Key scene — warm whimsical storybook illustration: a small glossy mahogany-brown chestnut character (Kuma) with a fuzzy cap and autumn-leaf scarf standing on a low stone wall atop terraced rice paddies at dusk, arms spread wide, dozens of soft green-gold fireflies landing all over him and swirling through the air; the dark mirror-water of the paddies reflects thousands of floating fireflies above and below, creating a universe of gentle lights; palette of deep violet-blue, silver water, and warm firefly gold; magical, hushed, wondrous mood with soft glowing rim-light.

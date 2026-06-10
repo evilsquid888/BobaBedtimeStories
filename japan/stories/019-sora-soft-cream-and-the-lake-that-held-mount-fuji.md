@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** The calm shore of Lake Kawaguchi with Mount Fuji reflected in the water
 **Theme:** Sometimes the best view is the one reflected back
-**Japanese Spotlight:** 鏡 (kagami) = mirror / reflection
+**Japanese Spotlight:** **kagami** (kah-gah-mee) — mirror / reflection
 
 ---
 
@@ -12,7 +12,7 @@ Sora the Soft-Cream was a tall, pale-vanilla swirl in a crisp little cone, twirl
 
 "There it IS," she breathed, wobbling so hard her swirl nearly tipped clean over. "The biggest mountain in all of Japan!"
 
-Across the calm water of Lake Kawaguchi rose **富士山** (Fuji-san) = Mount Fuji, tall and proud and capped with snow, glowing pink in the early light. It was so enormous that Sora had to lean back, and back, and back — until she leaned a little too far and sat down with a soft *floomp* in the cool morning grass.
+Across the calm water of Lake Kawaguchi rose **Fuji-san** (foo-jee-sahn) — Mount Fuji — tall and proud and capped with snow, glowing pink in the early light. It was so enormous that Sora had to lean back, and back, and back — until she leaned a little too far and sat down with a soft *floomp* in the cool morning grass.
 
 "Oof," said Sora. "It's taller than my whole imagination."
 
@@ -68,7 +68,7 @@ There it was, the whole grand mountain, flipped head-over-heels and floating in 
 
 A small, calm voice answered — though it was only the voice of the lake itself, the way calm water seems to murmur when everything is very, very still.
 
-*"This is **鏡** (kagami) = mirror,"* the lake seemed to ripple. *"When I hold my breath and grow perfectly still, I become a mirror. And a mirror gives the whole sky back to anyone who looks."*
+*"This is **kagami** (kah-gah-mee) — mirror,"* the lake seemed to ripple. *"When I hold my breath and grow perfectly still, I become a mirror. And a mirror gives the whole sky back to anyone who looks."*
 
 Sora blinked her sleepy eyes. Then she blinked them again.
 
@@ -84,9 +84,9 @@ Sora pressed her soft little mitts together and leaned over the water, and the m
 
 "That's ME," she giggled. "Hello, lake-Sora! Look at us — we're BOTH tall enough now!"
 
-In the **鏡** of the lake, Sora's little reflection stood right beside the upside-down mountain — and from this angle, sitting at the very edge with her eyes near the water, she looked *just* as tall as Fuji-san. Her swirl reached the very same height as the snowy peak. Two tall pointy tops, side by side, one of cream and one of snow.
+In the kagami of the lake, Sora's little reflection stood right beside the upside-down mountain — and from this angle, sitting at the very edge with her eyes near the water, she looked *just* as tall as Fuji-san. Her swirl reached the very same height as the snowy peak. Two tall pointy tops, side by side, one of cream and one of snow.
 
-"I'm mountain-sized!" Sora marveled, wobbling with delight. "In the **鏡**, I'm enormous!"
+"I'm mountain-sized!" Sora marveled, wobbling with delight. "In the kagami, I'm enormous!"
 
 She tried a few experiments, the way you do when you discover something wonderful and simply *have* to poke it. She lifted one soft mitt — and lake-Sora lifted one mitt right back. She tipped her swirl to the left, and lake-Sora tipped to the right, which was confusing in the most delightful way. She puffed out her cheeks; lake-Sora puffed too. She did a tiny celebratory hop, and the whole reflected world rippled and shimmered, the upside-down mountain breaking into a thousand soft pink sparkles before settling, slowly, gently, back into its perfect glassy self.
 
@@ -120,7 +120,7 @@ Because there in the lake lay the whole mountain — the full, perfect, snow-tip
 
 "We were too high to see it," said the churro-cousin softly. "And little Sora — you were just the right amount of low."
 
-*"There is more than one beautiful way to see a grand thing,"* the lake murmured, holding its glassy breath. *"Some climb up. Some look down. And some,"* — a tiny ripple, like a wink — *"simply find a good **鏡**, and let the view come to them."*
+*"There is more than one beautiful way to see a grand thing,"* the lake murmured, holding its glassy breath. *"Some climb up. Some look down. And some,"* — a tiny ripple, like a wink — *"simply find a good kagami, and let the view come to them."*
 
 ---
 
@@ -128,7 +128,7 @@ So they all sat down together at the quiet shore, big kids and one small swirl, 
 
 When the breeze came back to ruffle the water, they learned a new trick, too: if you sat very, very still and breathed very, very slow, the lake grew still right along with you — and the mountain came back, sharp and perfect, gleaming up from below. It was as if the whole lake were a sleepy creature that only opened its great silver eye when everyone around it grew calm.
 
-"Slow and soft," whispered Sora. "That's the secret. The **鏡** only works when you stop wobbling."
+"Slow and soft," whispered Sora. "That's the secret. The kagami only works when you stop wobbling."
 
 "Then how do YOU ever see it?" teased the parfait, because Sora was the wobbliest treat on the whole shore.
 
@@ -143,7 +143,7 @@ The lake held perfectly still, and held the whole sky, and held one small soft-c
 ---
 
 ## Goodnight Blessing
-Little one, you don't always have to climb high or stand tall to see something wonderful. Sometimes the most beautiful view is the one that comes gently down to meet you — soft and still and waiting at your toes, like a mountain folded into a quiet lake. Tonight, let your pillow be the calm shore. Let your dreams be the perfect **鏡** (kagami), holding back every lovely thing you saw today. You are exactly the right size, exactly where you are. And the whole sky is yours to keep, just by closing your eyes and looking. Goodnight.
+Little one, you don't always have to climb high or stand tall to see something wonderful. Sometimes the most beautiful view is the one that comes gently down to meet you — soft and still and waiting at your toes, like a mountain folded into a quiet lake. Tonight, let your pillow be the calm shore. Let your dreams be the perfect kagami, holding back every lovely thing you saw today. You are exactly the right size, exactly where you are. And the whole sky is yours to keep, just by closing your eyes and looking. Goodnight.
 
 ## AI Image Prompts
 1. Warm whimsical storybook illustration: a tall pale-vanilla soft-serve swirl in a crisp cone, with gentle sleepy eyes, rosy cheeks, and a little wobbly curl, sitting at the very edge of a perfectly glass-calm lake at dawn. In the still water below her, the entire snow-capped Mount Fuji is reflected upside-down, glowing soft pink, so the mountain stands in the sky and hangs in the lake at once. A tiny frog sits beside her admiring its own reflection. Misty morning light, soft pastel palette, kawaii and cozy mood.

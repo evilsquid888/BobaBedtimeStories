@@ -4,7 +4,7 @@
 **Guest Characters:** Boba
 **Setting:** A doughnut shack
 **Theme:** Mess is fun
-**Word Spotlight:** 甜甜圈 (tiantian quan) = doughnut
+**Word Spotlight:** **tiantian quan** (tyen-tyen chwen) — doughnut, the malasada's round cousin
 
 ---
 
@@ -14,13 +14,13 @@ Mala was a round, golden, hole-less doughnut with poofy cheeks and a coat of sug
 
 "ROLL ME IN SUGAR!" she sang, doing three happy hops across the floury floor.
 
-Just then the door rattled, and in rolled Boba — a shiny dark tapioca pearl, smooth and bouncy and very, very tidy. Boba liked things neat. Boba had never been sticky in his life. He intended to keep it that way.
+Just then the door rattled, and in rolled Boba — a shiny dark tapioca pearl, smooth and bouncy and very, very tidy. Boba liked things neat. Boba had never been sticky in her life. She intended to keep it that way.
 
 "Mala," Boba said politely, "you have flour on your nose."
 
-"I have flour EVERYWHERE," Mala beamed. "That's how you know it's working. Boba, today I'm teaching you to make **甜甜圈** (tiantian quan) = doughnuts. The squishy, sugary, gloriously messy kind. Aprons on!"
+"I have flour EVERYWHERE," Mala beamed. "That's how you know it's working. Boba, today I'm teaching you to make **tiantian quan** (tyen-tyen chwen) — doughnuts! Malasadas, to be exact: the doughnut's round, hole-less cousin. The squishy, sugary, gloriously messy kind. Aprons on!"
 
-Boba put on a tiny, spotless apron. He had a feeling it would not stay that way.
+Boba put on a tiny, spotless apron. She had a feeling it would not stay that way.
 
 ---
 
@@ -30,21 +30,21 @@ She poured warm milk — not hot, just cozy, like bathwater for a baby cloud —
 
 "Now we wait," Mala whispered, "until it gets all bubbly and foamy on top, like the fizz on a soda."
 
-Boba peered into the bowl. Nothing happened. He peered harder.
+Boba peered into the bowl. Nothing happened. She peered harder.
 
 "Staring doesn't make it faster," Mala laughed. "Yeast is shy! Look away."
 
 They looked away. They counted to a hundred. And when they peeked again — *blorp blorp blorp* — the milk had grown a foamy, freckly hat.
 
-"It's ALIVE!" cried Boba, leaping backward and rolling into a sack of flour. *POOF.* He came out the color of a ghost. A very surprised ghost.
+"It's ALIVE!" cried Boba, leaping backward and rolling into a sack of flour. *POOF.* She came out the color of a ghost. A very surprised ghost.
 
 Mala fell over laughing. "See? Mess is the FUN part."
 
-Boba brushed himself off, mostly. A little flour clung to him. He decided not to mention it.
+Boba brushed herself off, mostly. A little flour clung to her. She decided not to mention it.
 
 ---
 
-"Next," Mala said, "we mix the **麵團** (miantuan) = dough."
+"Next," Mala said, "we mix the **miantuan** (myen-twan) — dough."
 
 Into the foamy milk she added flour, a couple of eggs, a pinch of salt, a spoonful of melted butter, and a little more sugar. Then she grabbed a wooden spoon and stirred, and stirred, and STIRRED, until it all came together into a soft, shaggy lump.
 
@@ -56,15 +56,15 @@ She flopped the dough onto the floury counter and went to town: *push, fold, squ
 
 Boba approached the dough the way you approach a sleeping cat. Carefully. Politely. With both hands.
 
-The dough stuck to him IMMEDIATELY.
+The dough stuck to her IMMEDIATELY.
 
-"It won't let GO," he squeaked, pulling one hand free with a *thwock* only to find the other hand glued down. "Mala! It's got me!"
+"It won't let GO," she squeaked, pulling one hand free with a *thwock* only to find the other hand glued down. "Mala! It's got me!"
 
 "That's because tidy hands and dough are sworn enemies," Mala giggled. "Flour your hands! More! MORE!"
 
-Boba floured his hands until he looked like a snowball. And — wonder of wonders — the dough stopped clinging and started smoothing. *Push, fold, squish.* A tiny smile crept across Boba's face.
+Boba floured her hands until she looked like a snowball. And — wonder of wonders — the dough stopped clinging and started smoothing. *Push, fold, squish.* A tiny smile crept across Boba's face.
 
-"...This is kind of nice," he admitted.
+"...This is kind of nice," she admitted.
 
 "Mess," said Mala wisely, "is just fun wearing flour."
 
@@ -92,11 +92,11 @@ She rolled the dough out with a floury pin, then pressed a round cutter through 
 
 "And here's the SECRET of a true malasada," she whispered, leaning close. "Real malasadas don't have a hole. They're round and puffy all the way through, with a soft, fluffy middle. That's what makes them squish so wonderfully when you bite them."
 
-Boba cut a round. Then another. Then he got the giggles and cut one shaped like a heart, and one shaped like, well, a blob, and Mala said the blob was the best one.
+Boba cut a round. Then another. Then she got the giggles and cut one shaped like a heart, and one shaped like, well, a blob, and Mala said the blob was the best one.
 
 They laid all the little rounds on a floury tray. "One more rest," Mala said. "We let them puff up again, just a bit, until they look pillowy. Patience makes them fluffy."
 
-So they waited — and this time Boba didn't mind at all. He'd learned that good things come to doughnuts who wait. The rounds plumped up soft and proud.
+So they waited — and this time Boba didn't mind at all. She'd learned that good things come to doughnuts who wait. The rounds plumped up soft and proud.
 
 ---
 
@@ -112,7 +112,7 @@ In came the shack's grown-up — a big, warm, friendly auntie ladle named Pó P�
 
 So Mala and Boba stood back and watched as Pó Pó gently slipped the puffy rounds into the hot oil. *Sssssss!* They sizzled and bobbed and turned over like little swimmers, going from pale to honey to a beautiful deep gold.
 
-"GO MALASADAS!" cheered Boba, who had never cheered for anything before and discovered he quite liked it.
+"GO MALASADAS!" cheered Boba, who had never cheered for anything before and discovered she quite liked it.
 
 Pó Pó scooped them out, golden and steaming, and set them on a rack to cool just enough to touch.
 
@@ -124,13 +124,13 @@ She tipped a mountain of sugar into a big bowl. Then she dropped in a warm malas
 
 "Your turn, Boba. Don't be shy."
 
-Boba rolled a malasada. Sugar flew. He rolled another. MORE sugar flew. Somewhere along the way he stopped being careful entirely, and tossed a malasada up, and caught it, and a whole cloud of sugar burst into the air and rained down over both of them.
+Boba rolled a malasada. Sugar flew. She rolled another. MORE sugar flew. Somewhere along the way she stopped being careful entirely, and tossed a malasada up, and caught it, and a whole cloud of sugar burst into the air and rained down over both of them.
 
-For one shining moment, the whole shack filled with a glittering, drifting **糖** (táng) = sugar cloud, sparkling in the lantern light.
+For one shining moment, the whole shack filled with a glittering, drifting cloud of **tang** (tahng) — sugar — sparkling in the lantern light.
 
-Boba — tidy, spotless, never-sticky Boba — was now dusted head to toe in sugar and flour, sticky and sweet and laughing so hard he could barely bounce.
+Boba — tidy, spotless, never-sticky Boba — was now dusted head to toe in sugar and flour, sticky and sweet and laughing so hard she could barely bounce.
 
-"I'm a MESS," he gasped.
+"I'm a MESS," she gasped.
 
 "You're PERFECT," said Mala.
 
@@ -138,9 +138,9 @@ Boba — tidy, spotless, never-sticky Boba — was now dusted head to toe in sug
 
 They carried a heaping plate of warm malasadas out into the market and shared them with everyone — the lantern friends, the prawn friends, the whole sleepy crowd. Each malasada was crisp and golden outside, cloud-soft inside, and sweet as a giggle.
 
-Boba bit into one and the fluffy middle squished, and the sugar tickled his nose, and he sighed the happiest sigh of his whole tidy little life.
+Boba bit into one and the fluffy middle squished, and the sugar tickled her nose, and she sighed the happiest sigh of her whole tidy little life.
 
-"Mess," he said softly, "really is fun."
+"Mess," she said softly, "really is fun."
 
 And outside, the last of the sugar cloud drifted down over the night market, soft as snow, sweet as a dream.
 

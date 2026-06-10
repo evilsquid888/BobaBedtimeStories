@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A turquoise tropical beach in sunny Okinawa
 **Theme:** Adventure is sweeter shared with your other half
-**Japanese Spotlight:** うみ (umi) = sea
+**Japanese Spotlight:** umi (oo-mee) — sea
 
 ---
 
@@ -16,7 +16,7 @@ The very first thing Tako and Yaki did when they reached the Okinawa beach was b
 
 In front of them stretched the bluest blue they had ever seen — water so clear and turquoise it looked like someone had spilled a giant bottle of melted sky-flavored soda across the sand.
 
-"It's the **うみ** (umi) = sea," whispered Yaki, awed.
+"It's the **umi** (oo-mee) — the sea," whispered Yaki, awed.
 
 "The umi," repeated Tako. "It's the size of a million takoyaki trays!"
 
@@ -70,7 +70,7 @@ Up rose an enormous, beautiful shape. A shell patterned like a mosaic of green a
 
 "We're STUCK that way!" the twins shouted together, which made the turtle's eyes crinkle.
 
-"I'm **かめ** (kame) = turtle," said the turtle, drifting closer. "And out here we call this little spin the merry-go-current. It carries things in big lazy loops. Most who fall into it panic and paddle every-which-way and only spin faster." A slow, knowing smile. "Tell me. Are you two, perhaps, paddling in different directions?"
+"I'm **kame** (kah-meh) — turtle," said the turtle, drifting closer. "And out here we call this little spin the merry-go-current. It carries things in big lazy loops. Most who fall into it panic and paddle every-which-way and only spin faster." A slow, knowing smile. "Tell me. Are you two, perhaps, paddling in different directions?"
 
 Tako and Yaki looked at each other. Their sauce zig-zags went pink.
 
@@ -108,7 +108,7 @@ Oh, they would. They WOULD.
 
 Kame the turtle dipped low and let the twins ride the warm wash just behind her flippers, and she gave them the grandest tour Okinawa had ever offered. She showed them a cave of coral that glowed soft orange, where shy little clownfish peeked out and dared each other to say hello. She showed them a meadow of swaying sea-grass where baby sea slugs as small as sprinkles inched along, polka-dotted and proud. She showed them a sunken old rice bowl, lost from a fishing boat ages ago, now home to a hermit crab who wore it like a hat and was extremely pleased with himself.
 
-"Everyone down here shares," Kame explained, as a parade of blue tang fish swirled around the twins in a living ribbon. "The reef is one big playground, and the umi is one big *うみ* full of friends. No one plays alone for long."
+"Everyone down here shares," Kame explained, as a parade of blue tang fish swirled around the twins in a living ribbon. "The reef is one big playground, and the umi is one big blue neighborhood full of friends. No one plays alone for long."
 
 "That's just like us!" said Tako.
 

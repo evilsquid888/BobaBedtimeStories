@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A cozy stationery and gadget shop full of curious gizmos
 **Theme:** Kindness travels farther than any gadget
-**Japanese Spotlight:** てがみ (tegami) = letter
+**Japanese Spotlight:** **tegami** (teh-gah-mee) — letter
 
 ---
 
@@ -24,7 +24,7 @@ Dora waddled toward the voice. There, between a jar of glitter and a sleeping ca
 
 "A *tegami*?" Dora repeated.
 
-"A **てがみ** (tegami) = letter," the robot-cat said proudly, its whiskers twitching. "I collect them. I keep them warm in my tummy. Then I deliver them to friends who are feeling a teeny bit lonely. Beep!" It blinked two heart-shaped eyes. "My name is Postcat. Most of my springs are rusty and one of my wheels squeaks, but my mail-tummy works *perfectly*."
+"A **tegami** (teh-gah-mee) — letter," the robot-cat said proudly, its whiskers twitching. "I collect them. I keep them warm in my tummy. Then I deliver them to friends who are feeling a teeny bit lonely. Beep!" It blinked two heart-shaped eyes. "My name is Postcat. Most of my springs are rusty and one of my wheels squeaks, but my mail-tummy works *perfectly*."
 
 Dora clapped his pancake-hands. "That is the loveliest job I have ever heard of! And I LOVE jobs that involve snacks and stories and being kind. That's basically my three favorite things stacked into one."
 
@@ -113,6 +113,8 @@ He hurried back to Gizmo & Quill, where Postcat waited on its dusty shelf.
 Postcat's heart-eyes glowed soft and pink. "Then my tummy did its job. Beep."
 
 "Tomorrow," said Dora, settling his beret over them both like a tiny blanket, "we fix your wheel. And the next night, and the night after, we deliver every lonely letter in town. Squeaky wheel and all." He grinned his red-bean grin. "A good story is the best filling. But a good *letter*? That might be the best ending."
+
+But before sleep could catch him, Dora did one last thing. He borrowed a strawberry-scented pen and a sheet of nice paper — the very thing he'd come to buy — and wrote his first-ever letter to Postcat, folding it into a slightly lopsided paper pancake and tucking it gently into the robot's mail-tummy to be found in the morning. "Pen pals," he yawned happily. "From now on, a tegami every week — even after your wheel is fixed. *Especially* after."
 
 And on the dustiest, snuggliest shelf in the coziest shop on Crumb Corner, a pancake and a robot-cat fell asleep together — one mail-tummy full, three hearts warmed, and one whole neighborhood a little less alone.
 

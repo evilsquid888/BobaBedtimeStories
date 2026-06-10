@@ -4,13 +4,13 @@
 **Guest Characters:** None
 **Setting:** A snowy mountain hot spring where real snow monkeys bathe
 **Theme:** Rest is not lazy — it makes your heart stronger
-**Japanese Spotlight:** おんせん (onsen) = hot spring
+**Japanese Spotlight:** **onsen** (ohn-sen) — hot spring
 
 ---
 
 It is a known and slightly embarrassing fact that Yuki the Snow Monkey-Manju could fall asleep absolutely anywhere. In a teacup. On a windowsill. Once, memorably, standing straight up in the middle of a sentence about cabbage.
 
-So on the snowiest morning of the whole winter, when Yuki — a fluffy white steamed bun shaped like a baby snow monkey, with two rosy onsen-warmed cheeks and the sleepiest smile on the mountain — announced that today they would all hike to the famous **おんせん** (onsen) = hot spring, her friends fully expected her to doze off before they reached the door.
+So on the snowiest morning of the whole winter, when Yuki — a fluffy white steamed bun shaped like a baby snow monkey, with two rosy onsen-warmed cheeks and the sleepiest smile on the mountain — announced that today they would all hike to the famous **onsen** (ohn-sen) — hot spring — her friends fully expected her to doze off before they reached the door.
 
 "A rest day!" cheered Maru Matcha, twirling her tiny bamboo whisk. "Whisk slow. Feel calm."
 
@@ -42,7 +42,7 @@ And that was the exact moment a very small, very round snow monkey poked its hea
 
 ---
 
-Now, here is the thing about real snow monkeys. They are the coziest creatures on the entire mountain. They have round pink faces and thick silver coats and they spend their whole winter doing the wisest thing anyone can do in the cold: they soak in the **おんせん**, blinking slowly, letting the steam curl their fur, thinking about absolutely nothing at all.
+Now, here is the thing about real snow monkeys. They are the coziest creatures on the entire mountain. They have round pink faces and thick silver coats and they spend their whole winter doing the wisest thing anyone can do in the cold: they soak in the onsen, blinking slowly, letting the steam curl their fur, thinking about absolutely nothing at all.
 
 This little one — the friends would come to call him Pon — was a baby. He had snow on his nose. He looked at the dessert friends, then waddled right up to Yuki and patted her fluffy cheek as if to say, *you are also a snow monkey, but a bun.*
 

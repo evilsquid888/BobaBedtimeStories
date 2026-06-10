@@ -3,121 +3,141 @@
 **Main Character:** Tama Onigiri
 **Guest Characters:** None
 **Setting:** Golden autumn rice fields at harvest time
-**Theme:** Good things come from working side by side
-**Japanese Spotlight:** おこめ (okome) = rice
+**Theme:** A bowl of rice is never made by one — it is made by everyone
+**Japanese Spotlight:** **okome** (oh-koh-meh) — rice
 
 ---
 
-Tama Onigiri woke up one crisp autumn morning to find herself sitting smack in the middle of the most golden thing she had ever seen.
+Tama Onigiri had come to the golden valley for one simple reason: to say thank you to a field.
 
-It was a rice field. A whole valley of it, glowing buttery-yellow all the way to the hills, swishing in the breeze like a giant's blanket made of sunshine. And there, standing on her little triangle toes with her crisp black nori sash fluttering, Tama gasped so hard her pickled-plum cheek went pink.
+She knew how it sounded. Fields are famously bad at conversation. But Tama Onigiri is a plump triangle of warm white rice, and every grain of her had once swayed in a paddy exactly like this one, drinking summer water and soaking up sun. A polite rice ball thanks her field. That was Tama's whole plan: walk in, say **arigatou** (ah-ree-gah-toh) — thank you, perhaps cry a little in a dignified way, walk out.
 
-"Oh my goodness," she whispered. "I'm made of THIS?"
+The valley had other plans.
 
-Because Tama Onigiri, you see, is a plump triangle of warm white rice — and every grain of her had once stood swaying in a field exactly like this one. She had simply never met her family before breakfast.
+Because when Tama crested the hill, sash fluttering, speech prepared, she saw two things at once. Down below: the last terrace of ripe **okome** (oh-koh-meh) — rice, a whole shining shelf of it, still standing, still uncut, heavy-headed and golden. And behind the western mountains: clouds. Not fluffy clouds. Not polite clouds. Clouds the color of a wet chalkboard, stacked up like somebody's angry laundry, rolling slowly toward the valley with their sleeves pushed up.
 
-"I packed a little extra, just in case," she said to nobody, patting the snack bundle she always carried. "But I think today... I want to give a little extra instead."
+A heron landed beside her with the soft *whump* of a folding umbrella.
 
-The breeze said *swish*. Tama set off into the gold.
+"You'll want to skip the speech," he said.
 
-The first helper Tama met was a Heron, standing one-legged in a shallow channel of water at the field's edge. He was tall and gray and so very patient that a dragonfly had fallen asleep on his beak.
+"I beg your pardon?"
 
-"Excuse me," said Tama politely, "what are you helping with?"
+"Rain by moonrise," said the Heron, who was tall and gray and had the unhurried voice of someone who has watched a great deal of weather and been impressed by none of it. "If that last terrace gets cut and racked before the storm, it dries sweet and the harvest is saved. If it's still standing when the rain soaks it — and it sits wet all night —" He clicked his beak. "Ruined. Moldy. The whole terrace, gone."
 
-"Water," said the Heron, without moving, in case he woke the dragonfly. "The **おこめ** (okome) = rice drank from this stream all summer. I watch the water. Quiet work. Important work."
+Tama looked at the golden shelf of rice. Rice exactly like the rice she was made of. Rice that was, in a way she felt down to her last grain, *family*.
 
-Tama looked at the little channel, bubbling along so cheerfully. She hadn't known that the rice she was made of had once been thirsty — that someone, all summer long, had made sure it had enough to drink.
+She put away her speech.
 
-"Thank you, Mr. Heron," she said, and she meant it down to her last grain.
+"Then we'll say thank you the useful way," she said, rolling up sleeves she did not technically have. "We'll save it."
 
-The Heron tipped his head a centimeter. The dragonfly did not wake. "You're the first snack to ever thank me," he said. "Usually they just nibble the frogs." He paused. "I'd rather you didn't nibble the frogs."
+---
 
-"I would never," promised Tama, who did not even like frogs as a topic, let alone a meal.
+The Heron, it turned out, was the valley's entire weather department, a position he had awarded himself and took extremely seriously.
 
-She waddled onward, round-shouldered and cozy, like a little backpack of comfort bouncing through the wheat-gold light.
+"I have one job," he said, unfolding wings as wide as a garden gate. "Two, if you count judging the frogs, which I do."
 
-Next she came to a long curving terrace where the field stepped down the hillside in shining ribbons. Here she found a whole family of Field Mice, no bigger than acorns, all tugging on a single tipped-over stalk of rice as if it were a fallen tree.
+"How long do we have?" asked Tama.
 
-"Heave!" squeaked the biggest mouse.
+"I'll know from up there." He nodded at the sky. "Wind, cloud speed, that prickly smell rain makes. I'll circle high and call down the time we have left. When I shout, believe me."
 
-"Ho!" squeaked the rest.
+"Eyes aloft," said Tama. "That's first. Because—" and here her cozy, snack-packing brain did something it had never done before: it lined everything up in *order*. You couldn't rack rice that wasn't bundled. You couldn't bundle rice that wasn't cut. You couldn't cut calmly without knowing how long you had. The whole chain of the harvest, which usually had all autumn to happen, had to happen *tonight*, each step ready to catch the one before it, like friends passing a warm bowl down a long table.
 
-The stalk did not budge. It was heavy with so many fat grains that it had flopped right over into the mud.
+"Because the order matters," she finished, mostly to herself, a little amazed.
 
-"Oh dear," said Tama. "May I?"
+"Look at you," said the Heron dryly, lifting off. "A general shaped like a lunch." And he rose into the bruising sky to watch the storm the way he watched frogs: closely, and without blinking.
 
-Now, Tama Onigiri is not large. But compared to a field mouse, she is approximately a mountain. She set her plump little hands against the stalk, dug in her triangle toes, and gave a gentle, motherly-cozy shove.
+---
 
-*Whump.* The stalk popped upright. Grains rained down like tiny golden bells, and the mice cheered so loudly that three of them fell over backward into a puddle and had to be fished out.
+Tama found the Field Mice on the terrace path, all forty of them, holding what appeared to be a meeting.
 
-"You saved the harvest!" squeaked the biggest mouse, wringing out his tail.
+"...and FURTHERMORE," the biggest mouse was squeaking from atop an overturned bucket, "the Amalgamated Brotherhood of Paws, Local Forty-Seven, demands snack breaks, dry tails, and a clear statement of who is in charge, because SOMEBODY has to tie the sheaves and it is ALWAYS us."
 
-"We all did," said Tama, helping a dizzy mouse find which way was up. "You held on, I pushed. That's the whole trick, isn't it? Nobody lifts the heavy stalk alone."
+"It is always you," Tama agreed, stepping into the meeting, "because you are the only ones with forty paws — well — one hundred and sixty paws — and nobody in this valley ties a knot like a mouse."
 
-The mice thought about this. Then they thought about it some more. Then the smallest one said, "Do you have any snacks?" — because that is simply how the smallest one's mind works.
+The mice, who had been prepared for an argument and not a compliment, wobbled.
 
-"I packed a little extra, just in case!" said Tama, beaming, and she shared out crumbs of toasted nori until every mouse had a square of its very own. They munched. The sun climbed higher. The whole hillside smelled like warm bread and clean water and that particular sweet dustiness that only ripe **おこめ** has.
+"The storm is coming for the last terrace," Tama went on. "The cutting comes first, then the tying, then the carrying. You are the *tying* and the *carrying*. The middle of everything. Nothing works without the middle."
 
-Tama had not even reached the middle of the field, and already she had two new friends. (Well — one Heron and several mice, which by Tama's careful counting was rather more than two.)
+The biggest mouse narrowed his eyes. "Snack breaks?"
 
-In the heart of the field, where the stalks grew thickest, Tama found the busiest helper yet.
+"I packed a little extra, just in case," said Tama, patting her bundle, and forty mice signed on at once, because a contract negotiated in toasted nori is binding everywhere.
 
-It was a Combine — an enormous, gentle, putt-putting harvest machine, deep red, with a big round front like a friendly whale's mouth. It rolled slowly along the rows, humming a wobbly tune, gathering the ripe rice and separating the grain from the straw with a sound like a thousand soft maracas.
+"Local Forty-Seven!" bellowed the big mouse. "Paws UP!"
 
-"Hello there, small triangle!" boomed the Combine, in a voice like a warm tractor with a head cold. "Mind your toes! I'm taking the **稲** (ine) = rice plant and turning it into **おこめ** — grain that's ready to travel!"
+One hundred and sixty paws went up. Somewhere overhead, the Heron's voice floated down, dry as straw: "Wind's turned. You have until the moon clears the east hill. *Isoide* (ee-soh-ee-deh) — hurry."
 
-Tama stood on a stone to watch, utterly amazed. Behind the Combine, the field that had been a swaying golden sea became neat, tidy rows of stubble, and the loose grain poured out in a glittering river into a waiting cart.
+---
 
-"You do the work of a hundred mice!" said Tama.
+Which left the cutting. Which meant the Combine.
 
-"Ho ho, I do the work of a hundred PEOPLE," said the Combine proudly. "In the old days, every grain you're made of was cut by hand, one stalk at a time, by farmers bent double in the heat from dawn to dark. They sang songs to keep going. They worked shoulder to shoulder so nobody got too tired." The Combine's engine softened, almost shy. "I just hum their songs now. So they aren't forgotten."
+He sat in the machine shed at the field's edge — an enormous old harvest machine, deep red gone soft at the corners, with a big round front like a whale who had seen things. He had not been started in two years. The farmer used the new machine now, the shiny one, which was — the Combine wished to be very clear about this — *fine*. Perfectly fine. He brought it up roughly every nine minutes, which is how everyone knew it was fine.
 
-Tama pressed her little rice hands to her cheeks. She had never once thought, while sitting in a lunchbox, about the songs.
+"Sir," said Tama, standing in the shed doorway, "the last terrace needs cutting before the rain, and the new machine is two valleys away."
 
-"What happens to the grain after you?" she asked.
+"Hmph," said the Combine, in a voice like a warm tractor with strong opinions. "And so you come crawling to the *antique*."
 
-"Ask the Drying Racks," said the Combine, and trundled gently on, humming the old harvest tune. *Putt-putt. Putt-putt.*
+"I came walking to the *expert*."
 
-So Tama followed the glittering cart down a lane lined with persimmon trees (the persimmons waved; persimmons are show-offs) until she came to tall wooden racks where freshly harvested rice hung in golden bundles, drying in the autumn wind.
+A long silence. Somewhere inside the Combine, something went *ka-chunk* in a pleased sort of way.
 
-The Drying Racks creaked like polite grandfathers. "We give the おこめ time," they explained. "You can't rush good rice. Sun by day, cool by night. Patience makes it sweet."
+"I'll have you know this is not rust," he announced, rolling out into the wind with creaky dignity. "It is *patina*. There is a difference, and the difference is *respect*." He faced the golden terrace, and his old engine gathered itself like a grandfather standing up from a deep chair: in stages, with sound effects. "One last terrace. *Putt-putt.* Mind your toes, small triangle. The order matters now — I cut, the mice tie, the paws carry. Tell the racks we're COMING."
 
-"Patience makes it sweet," Tama repeated softly. She thought that was a very good thing to remember about rice — and possibly about waiting for bedtime, and about little brothers, and about quite a lot of things.
+And oh, he was glorious. Up the terrace he went in the heavy yellow storm-light, mowing the gold into tidy rows, grain hissing into his hopper like soft maracas, mice swarming behind him tying sheaves with knots their grandmothers would weep over, the Heron circling above calling marks — "Half the terrace! Clouds at the west paddy! You're winning, barely, which is my favorite kind of winning!"
 
-Beyond the racks stood a small wooden mill where a Miller — a round, dusty, flour-cheeked fellow with kind eyes — ran the grains between two great smooth stones to polish away their tough brown jackets.
+Then, two-thirds of the way up the last and steepest row, the Combine coughed.
 
-"This is the last stop before the kitchen," said the Miller, dusting off Tama as if she were a guest of honor. "Field, water, mouse, machine, sun, mill — and only THEN does the rice get washed and steamed soft and warm, and patted into a comfy little shape, and given a crisp band of nori, and a tiny blush of pickled plum on one cheek..." He smiled at her. "...and becomes someone like you."
+*Putt. Putt-putt. Putt... pfffff.*
 
-Tama looked down at herself — at her warm white rice, her plum-blush cheek, her crisp nori sash — and her whole little body wobbled with a feeling almost too big to hold.
+He stopped. The wind did not. It came combing down the valley smelling of rain, and a whole tied sheaf leapt off the carry-pile and burst apart across the mud — a hundred precious stalks, scattered like dropped chopsticks.
 
-"All these helpers," she whispered. "The Heron, the mice, the Combine, the racks, the sun, the Miller... every single one of them is *inside* me. I'm not just a rice ball." Her eyes shone. "I'm a whole field's worth of friends, working side by side."
+For one terrible second, nobody moved.
 
-"Now you understand," said the Miller gently, "what the old farmers always said." He pointed to faded words painted above the mill door:
+"Straw jam in my intake," croaked the Combine, mortified down to his patina. "It's the dignity that goes first, you know."
 
-*A bowl of rice is never made by one. It is made by everyone.*
+"Local Forty-Seven!" Tama was already moving, voice steady as a packed lunch. "Half of you on the spilled sheaf — every stalk, tie it again! Half with me!" She scrambled up the Combine's side, and into the jammed intake went the only thing in the valley both small enough and brave enough: one plump rice ball, arm-deep in a whale's mouth, hauling out wadded straw while mice braced her by the sash like the world's tiniest rescue crew.
 
-The sun was sinking now, turning the whole valley honey-pink. The harvest was done. And the helpers — all of them — gathered at the field's edge for the thing that always comes after good work done together: a meal.
+The wad came free with a *FOOMP*. Tama sat down hard in the mud. The Combine's engine caught — *putt-putt-PUTT* — and he surged up the last row roaring his old harvest song, the one the farmers used to sing shoulder to shoulder, so nobody got too tired and nothing got forgotten.
 
-The Miller steamed a great pot of fresh new-season rice. Oh, the smell! Sweet and milky and warm, the smell of summer water and patient sun and a hundred forgotten songs. The mice came. The Heron came (and politely promised, again, not to eat the frogs). Even the big red Combine putt-putted over to idle nearby, humming.
+"PATINA!" he bellowed, which was not part of the original song, but the valley let it pass.
 
-And Tama Onigiri — who had spent her whole day thanking everyone else — was given the warmest seat of all, right by the steaming pot, the place of honor for the smallest helper who had given the most heart.
+---
 
-"To the helpers!" cried the Miller, raising a fluffy spoonful.
+"MOON ON THE HILL!" the Heron shrieked from above, all dryness abandoned. "DROPS IN THE AIR — GO, GO, GO!"
 
-"To the helpers!" everyone answered. The mice raised their nori crumbs. The Heron raised one leg, which is the only thing herons have to raise.
+Down at the drying racks, the Rack-Keeper was ready — a small bent grandmother quick as a sparrow, who had spent the whole frantic evening doing the invisible last step of the chain: clearing the long wooden racks under the barn eaves, making room, because a sheaf with nowhere to hang is just wet straw waiting to happen.
 
-Tama looked around the circle of glowing, happy faces — friends she hadn't even known she had that morning — and felt as full and warm as a fresh bowl of new rice. She didn't feel like a snack about to be finished. She felt like the proudest grain in the whole golden valley, glad all the way through that she got to be made of so much love and so much work and so many helping hands.
+"Hand to hand!" she called. "Don't run with the rice — *pass* it!"
 
-"Thank you," she said, to all of them, to every helper from stream to stone. "Thank you for making me."
+And so the last harvest of the valley came home down a living chain: Combine to mice, mice to Tama, Tama to the Keeper's flying hands, sheaf after sheaf swung up onto the racks under the roof, golden heads down, drying-sweet and safe. The first raindrop landed on Tama's nori sash — *plip*. The second hit the Combine — *plip* — who said "Patina-PROOF," with enormous satisfaction. The hundredth, and the thousandth, fell on rice that was already hanging high and dry, swaying gently, smelling of summer.
 
-And the wind in the empty field said *swish, swish* — which, if you listen closely, is the sound a field makes when it is saying *you're welcome.*
+The Rack-Keeper hung the final sheaf, looked at the rain coming down in silver sheets, and dusted her hands.
+
+"Supper," she said. "Everyone in the barn. Yes, even the tractor."
+
+"*Combine*," said the Combine, with creaky dignity, and parked his front half in the doorway, which is as far in as a combine can be invited.
+
+---
+
+Oh, the barn that night.
+
+Rain drummed on the roof — the good kind of rain now, the *too-late-to-hurt-anything* kind, which is the coziest sound in the world. The Rack-Keeper steamed a great pot of new-season rice, and the smell went up into the rafters: sweet and milky and warm, the smell of summer water and patient sun and one old machine's last great push. The mice of Local Forty-Seven received their contractual nori and immediately voted Tama an honorary member, with full snack privileges. The Heron stood in the doorway, one-legged, watching the storm he had beaten with the deep contentment of a weatherman proved right.
+
+"You came to say thank you to a field," he reminded Tama.
+
+"I did say it," said Tama, in the warm seat of honor by the pot. And she had — not in a speech, but in the useful way: in eyes aloft and tied knots and a cleared rack and one creaky glorious engine, in every step done in order because the order mattered, in every helper catching the work of the helper before. She looked around the lamplit circle, at all of it hanging safe above their heads, and felt as full and warm as a fresh bowl of rice.
+
+A bowl of rice is never made by one. Nobody said it out loud. Tonight, nobody had to.
+
+"To the helpers," said the Rack-Keeper, raising a fluffy spoonful.
+
+"To the helpers!" Mice raised crumbs. The Heron raised one leg, which is the only thing herons have to raise. The Combine flashed his headlights, *putt-putt*, like a slow happy heartbeat, while the rain went on drumming its long soft song on the roof, all night long, over rice that was perfectly, completely safe.
 
 ---
 
 ## Goodnight Blessing
-Little one, every warm bowl you've ever held was made by more hands than you can count — by water and sun, by patient waiting and kind, tired helpers who worked side by side so you could be full and cozy. Tonight, as you snuggle down, remember that you are made of love that many people gave, gathered up like grains into one soft, sleepy heart. Be thankful, be gentle, and tomorrow help carry someone else's heavy stalk. The field is quiet now, the racks are still, and the moon is steaming up a great soft pot of dreams just for you. Squish down warm. You did good work today, even if the work was only growing. Goodnight.
+Little one, the storm is on the other side of the roof now, and that is exactly where it belongs. Tonight you can rest the way the valley rests — everything gathered in, everything hanging safe, every helper warm in the barn of this little bed. Remember: every warm bowl you've ever held was passed hand to hand by more helpers than you can count, each one catching the work of the one before, and you are part of that chain too — tomorrow, somebody's heavy sheaf will need your paws. But that is tomorrow's work. For now the rain is drumming its soft slow song, the rice is dry, the mice are snoring in a pile, and even the old Combine has switched off his lights. Squish down warm. The harvest is in. Goodnight.
 
 ## AI Image Prompts
-1. Key scene — warm whimsical storybook illustration, golden hour: a tiny adorable onigiri (triangle of white rice with a crisp black nori sash and a single pink pickled-plum blush on one cheek) standing on her toes in a vast glowing autumn rice field, pushing upright a heavy fallen rice stalk while a family of acorn-sized field mice cheer; honey-gold light, swaying golden grain, soft painterly textures, cozy kawaii style, gentle and joyful mood.
-2. Character portrait — Tama Onigiri, a plump round-shouldered triangle of warm white rice with a crisp black nori band like a sash, a tiny pickled-plum blush on one cheek, gentle motherly smile, holding out a square of toasted nori to share; soft buttery-warm lighting, simple pale background, kawaii storybook style, full of cozy comfort.
-3. Closing scene — twilight over a harvested rice field turned honey-pink, a circle of happy helpers (a tall gray heron on one leg, tiny field mice, a friendly big red combine machine idling nearby, a flour-cheeked round miller) gathered around a steaming pot of fresh rice, with Tama Onigiri in the warmest seat of honor beside it, glowing with gratitude; soft lantern-warm light, rising steam, deeply cozy and peaceful storybook mood.
+1. Key scene — dramatic-but-cozy storybook illustration in heavy golden storm-light: a tiny adorable onigiri (plump triangle of white rice with a crisp black nori sash and a pink pickled-plum blush on one cheek) climbing the side of a huge, lovably weathered deep-red combine harvester on a terraced rice field, pulling a wad of straw from its intake while a crew of acorn-sized field mice brace her by the sash; dark dramatic clouds stacked behind the mountains, last golden terrace of standing rice glowing against the gray, wind-blown grain, painterly kawaii style, exciting but warm and safe in mood.
+2. Character portrait — Tama Onigiri, a plump round-shouldered triangle of warm white rice with a crisp black nori band like a sash and a tiny pickled-plum blush on one cheek, standing determined in a gusty golden rice field with the first raindrop landing beside her, one little hand pointing to direct her helpers, gentle brave smile; stormy gold-and-slate light, simple background, kawaii storybook style, cozy heroic mood.
+3. Closing scene — nighttime inside a warm lamplit wooden barn while silver rain streams down outside the open door: golden rice sheaves hanging safely from drying racks overhead, a circle of happy helpers around a steaming pot of fresh rice — a small quick grandmother rack-keeper, a pile of sleepy field mice, a tall gray heron on one leg in the doorway, and the front of a big old red combine harvester peeking in with glowing headlights — with Tama Onigiri in the seat of honor by the pot; rising steam, deep amber lantern light, rain-on-the-roof coziness, peaceful triumphant storybook mood.

@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A bustling shrine on New Year's morning for the first visit (hatsumode)
 **Theme:** A fresh year is a fresh chance to try
-**Japanese Spotlight:** あけましておめでとう (akemashite omedetou) = Happy New Year
+**Japanese Spotlight:** akemashite omedetou (ah-keh-mah-shee-teh oh-meh-deh-toh) — Happy New Year
 
 ---
 
@@ -12,7 +12,7 @@ The very first sunrise of the new year peeked over the shrine gate, and Dai Daru
 
 "Wobble-wobble — WHEE!" he cried, tipping left, tipping right, and bouncing perfectly upright every single time. That was Dai Daruma's whole magic: he was a round, roly-poly bun the color of a ripe pomegranate, with big determined eyebrows and one painted eye. The other eye was blank and waiting — saving its spot for a brand-new wish.
 
-"Friends! FRIENDS!" he hollered, rolling down the snowy path toward the **神社** (jinja) = shrine. "It's the first morning of the whole year! Do you know what that means?"
+"Friends! FRIENDS!" he hollered, rolling down the snowy path toward the **jinja** (jeen-jah) — shrine. "It's the first morning of the whole year! Do you know what that means?"
 
 Momo Mochi sleepily peeked out of a paper lantern. "It means... a group squish?"
 
@@ -20,11 +20,11 @@ Momo Mochi sleepily peeked out of a paper lantern. "It means... a group squish?"
 
 ---
 
-The shrine was already buzzing. This was **初詣** (hatsumode) = the year's first shrine visit, and every dessert-friend in town had come to make a wish for the months ahead.
+The shrine was already buzzing. This was **hatsumode** (hah-tsoo-moh-deh) — the year's first shrine visit, and every dessert-friend in town had come to make a wish for the months ahead.
 
 Paper lanterns glowed like little moons. A giant bronze bell hung over the wooden offering box, waiting to be rung. And everywhere, friends were calling out the most important words of the morning.
 
-"**あけましておめでとう** (akemashite omedetou) = Happy New Year!" sang Niko Nigiri, bowing so neatly that his little nori belt stayed perfectly flat.
+"**Akemashite omedetou** (ah-keh-mah-shee-teh oh-meh-deh-toh) — Happy New Year!" sang Niko Nigiri, bowing so neatly that his little nori belt stayed perfectly flat.
 
 "Akemashite omedetou!" bubbled Pock Ramune, zipping past in a trail of fizz. "Pop! Pop! New year, new bubbles!"
 
@@ -60,7 +60,7 @@ Coro thought. The steam settled. His voice came out small but clear. "I wish I c
 
 ---
 
-Word spread fast that Dai Daruma was helping with wishes, and soon a whole wobbly line had formed in front of the **絵馬** (ema) = little wooden wish-plaques that you hang up at the shrine.
+Word spread fast that Dai Daruma was helping with wishes, and soon a whole wobbly line had formed in front of the **ema** (eh-mah) — little wooden wish-plaques that you hang up at the shrine.
 
 Tako and Yaki bounced to the front together, naturally, because they did everything together.
 

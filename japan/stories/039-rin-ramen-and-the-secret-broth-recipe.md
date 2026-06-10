@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A steamy back-street ramen counter run by a kindly old bowl
 **Theme:** The secret ingredient is always care
-**Japanese Spotlight:** ラーメン (raamen) = ramen
+**Japanese Spotlight:** raamen (RAH-men) — ramen
 
 ---
 
@@ -16,7 +16,7 @@ He wobbled down the narrow back-street on his stubby little legs, golden broth s
 
 Because Rin had heard a rumor. A delicious, drippy, can't-stop-thinking-about-it rumor.
 
-At the very end of this twisty alley, tucked behind a curtain that smelled of garlic and ginger and old wood, lived **おじいさん** (ojiisan) = grandfather Rin called Old Bowl — the most famous **ラーメン** (raamen) = ramen master who had ever simmered a pot.
+At the very end of this twisty alley, tucked behind a curtain that smelled of garlic and ginger and old wood, lived an **ojiisan** (oh-JEE-sahn) — a grandfather — whom Rin called Old Bowl: the most famous **raamen** (RAH-men) — ramen — master who had ever simmered a pot.
 
 And Old Bowl, the rumor said, had a Secret Broth Recipe.
 
@@ -80,7 +80,7 @@ Rin filed this away as Possibly The Secret and watched even harder.
 
 Rin's legs stopped swinging. "But — but how long is THAT?"
 
-Old Bowl smiled his chipped-tooth smile. "**ゆっくり** (yukkuri) = slowly, little one. Good broth cannot be rushed. If you hurry it, it knows. It comes out thin and cross. But if you give it time — *real* time, the kind you give a friend who is sad — it turns golden and deep and kind."
+Old Bowl smiled his chipped-tooth smile. "**Yukkuri** (yook-KOO-ree) — slowly, little one. Good broth cannot be rushed. If you hurry it, it knows. It comes out thin and cross. But if you give it time — *real* time, the kind you give a friend who is sad — it turns golden and deep and kind."
 
 Rin tried very hard to sit still. He lasted about nine seconds.
 
@@ -120,7 +120,7 @@ Old Bowl's crackled glaze seemed to glow a little warmer.
 
 Rin's broth gave a confused little ripple. "Wait. That's IT? *Caring* is the secret recipe? But — but that's not a recipe at ALL! There's no measuring spoon for caring!"
 
-"No," agreed Old Bowl. "And isn't that wonderful? Anyone can buy bones. Anyone can buy salt. But the love you simmer in slowly — drop by drop, hour by hour — *that* is the part no one can copy and no one can steal. That is why my **ラーメン** tastes like my ramen and nobody else's." He leaned close, steam mingling with steam. "The secret ingredient, little Rin, is always care. People taste it without ever knowing why."
+"No," agreed Old Bowl. "And isn't that wonderful? Anyone can buy bones. Anyone can buy salt. But the love you simmer in slowly — drop by drop, hour by hour — *that* is the part no one can copy and no one can steal. That is why my raamen tastes like my ramen and nobody else's." He leaned close, steam mingling with steam. "The secret ingredient, little Rin, is always care. People taste it without ever knowing why."
 
 ---
 
@@ -150,7 +150,7 @@ When Rin finally wobbled back out through the indigo curtain, the night had gone
 
 He didn't go home and try to be famous.
 
-Instead, the very next evening, Rin set out a tiny pot of his own on a tiny stool at the start of the alley. And when a small, lost, shivering **おにぎり** (onigiri) = rice ball came trudging by, cold and far from home, Rin didn't rush.
+Instead, the very next evening, Rin set out a tiny pot of his own on a tiny stool at the start of the alley. And when a small, lost, shivering **onigiri** (oh-nee-GHEE-ree) — a rice ball — came trudging by, cold and far from home, Rin didn't rush.
 
 He pulled up a stool. He listened to the bubbles. He added a whisper of salt — *not to shout at the tongue, but to hug it.* And *yukkuri,* slowly, slowly, with his whole big heart, he made that little rice ball the warmest bowl of ramen anyone had ever made for anyone.
 

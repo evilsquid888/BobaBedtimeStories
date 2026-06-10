@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A glowing row of Tokyo street vending machines after dark
 **Theme:** Curiosity is wonderful when you share what you find
-**Japanese Spotlight:** すごい (sugoi) = amazing / wow
+**Japanese Spotlight:** **Sugoi** (soo-goy) — amazing, wow
 
 ---
 
@@ -36,7 +36,7 @@ He pressed his cool glass nose to the machine's window. Inside, the rows were fu
 
 Pock fizzed so hard with wonder that he floated three inches off the ground.
 
-"**すごい** (sugoi) = amazing," he breathed, because some things are so wonderful that the only word that fits is a Japanese one. "*Sugoi!*"
+"**Sugoi** (soo-goy) — amazing," he breathed, because some things are so wonderful that the only word that fits is a Japanese one. "*Sugoi!*"
 
 He had to know. He *had* to. Who filled this machine? Where did the warm cans come from? Why a star? His curiosity bubbled up so big and bright that for one teeny tiny second, Pock thought about keeping it all to himself — a secret machine, just for him, the most marvelous discovery in all of Tokyo.
 
@@ -88,7 +88,7 @@ And then, soft as snowfall, something tiny came around the corner.
 
 It wasn't a ghost. It wasn't a giant. It was the smallest, roundest, most cinnamon-colored little creature any of them had ever seen — a sleepy mound of fur about the size of an orange, with two round ears and a tail like a fluffy comma. It carried, balanced on its head, a single warm silver can with a gold star painted on the lid.
 
-It was a **狸** (tanuki) = raccoon-dog. A baby one. And it was on its tippy-toes.
+It was a **tanuki** (tah-noo-kee) — a raccoon-dog. A baby one. And it was on its tippy-toes.
 
 The friends held their breath.
 

@@ -4,11 +4,11 @@
 **Guest Characters:** None
 **Setting:** A canal-side taiyaki stall where the little fish cakes are made
 **Theme:** Be brave enough to swim toward your dream
-**Japanese Spotlight:** たいやき (taiyaki) = fish-shaped cake
+**Japanese Spotlight:** **taiyaki** (tie-yah-kee) — fish-shaped cake
 
 ---
 
-The very best place in the whole evening was the little **たいやき** (taiyaki) = fish-shaped cake stall that leaned right over the edge of the canal, close enough that the water giggled below it. And the very best fish at that stall — though he would never brag, he would only WIGGLE — was Tai Taiyaki.
+The very best place in the whole evening was the little **taiyaki** (tie-yah-kee) — fish-shaped cake — stall that leaned right over the edge of the canal, close enough that the water giggled below it. And the very best fish at that stall — though he would never brag, he would only WIGGLE — was Tai Taiyaki.
 
 Tai was a cheerful golden fish-shaped cake, crisp at the fins and warm in the middle, with a red-bean heart so cozy you could see it glow when he smiled wide. And oh, did he smile wide. He smiled while flipping. He smiled while cooling. He even smiled in his sleep, which made his fin-tail twitch.
 
@@ -90,23 +90,23 @@ He leaned back.
 
 "Hello, swimmer," said a soft voice.
 
-Tai squeaked and nearly toppled the wrong way. Beside him sat the oldest taiyaki on the stall — a great-grandfish named Anko, golden gone slightly toasty-brown with age, fin a little chipped, eyes warm as two drops of honey. Anko had been baked so long ago that nobody could remember it, and somehow had never been eaten, which made Anko the wisest fish Tai knew, and also possibly the only one with a story to finish.
+Tai squeaked and nearly toppled the wrong way. Beside him sat the oldest taiyaki on the stall — a great-grandfish named Taisho, golden gone slightly toasty-brown with age, fin a little chipped, eyes warm as two drops of honey. Taisho had been baked so long ago that nobody could remember it, and somehow had never been eaten, which made Taisho the wisest fish Tai knew, and also possibly the only one with a story to finish.
 
-"You want the water," said Anko. It wasn't a question.
+"You want the water," said Taisho. It wasn't a question.
 
 "More than anything," said Tai. "But every time I look down, my heart goes... flippy. Not the good flippy. The other flippy." He drooped. "Maybe I'm not really an adventure fish. Maybe I'm just an adventure-SHAPED fish."
 
-Anko chuckled, a sound like a kettle settling. "Let me tell you a thing about brave, little one. Brave isn't the fish who feels no fear. That fish has simply never looked down. Brave is the fish who looks down, feels the flip, and dips a fin anyway."
+Taisho chuckled, a sound like a kettle settling. "Let me tell you a thing about brave, little one. Brave isn't the fish who feels no fear. That fish has simply never looked down. Brave is the fish who looks down, feels the flip, and dips a fin anyway."
 
 "Dips a fin," repeated Tai.
 
-"Not the whole self. Not at first." Anko's honey eyes crinkled. "Dreams are like hot tea, Tai. You don't pour the whole pot down your throat. You take a careful sip. Then another. The river will still be a river tomorrow. But tonight you can dip a fin."
+"Not the whole self. Not at first." Taisho's honey eyes crinkled. "Dreams are like hot tea, Tai. You don't pour the whole pot down your throat. You take a careful sip. Then another. The river will still be a river tomorrow. But tonight you can dip a fin."
 
 Tai looked at the dark, beautiful, terrifying, wonderful water.
 
 "Would you... come with me?" he asked. "Just to the edge?"
 
-"I've been at the edge for sixty years, dear heart," said Anko warmly. "I'd be honored to share it."
+"I've been at the edge for sixty years, dear heart," said Taisho warmly. "I'd be honored to share it."
 
 ---
 
@@ -118,9 +118,9 @@ First, the whole rack of taiyaki woke up, because that is what friends do when o
 
 And they had! The little taiyaki had nudged a long wooden serving paddle out over the edge of the stall, sloping down, down, down to where a flat mossy stone sat just at the waterline — a perfect little fish-sized dock.
 
-"And we tied a noodle to you," added Pip, "so if you get too scared, we pull you back. **だいじょうぶ** (daijoubu) = it's okay. We've got you."
+"And we tied a noodle to you," added Pip, "so if you get too scared, we pull you back. **Daijoubu** (dye-joh-boo) — it's okay. We've got you."
 
-Tai felt something warm rise in his chest that had nothing to do with red beans. He looked at the ramp. He looked at the water. He looked at all his friends holding the other end of the noodle, and at old Anko nodding by the rail.
+Tai felt something warm rise in his chest that had nothing to do with red beans. He looked at the ramp. He looked at the water. He looked at all his friends holding the other end of the noodle, and at old Taisho nodding by the rail.
 
 His heart did the flip.
 
@@ -142,7 +142,7 @@ So Tai wiggled back, with everything he had, fins and tail and glowing heart, an
 
 "It's WATER!" Tai shrieked, delighted. "Real, actual, wet, splashy, river-y WATER and it's tickling my TAIL!" He gave the smallest, most careful little kick, and a tiny ripple ran out across the canal, and the floating paper lantern bobbed as if to say hello, and a real moon and a paper moon and a fish-shaped cake all wobbled together on the dark glassy water.
 
-"**およぐ** (oyogu) = to swim!" cried Anko from the rail, and the whole stall cheered.
+"**Oyogu** (oh-yoh-goo) — to swim!" cried Taisho from the rail, and the whole stall cheered.
 
 Tai paddled in a small proud circle, no bigger than a teacup, his red-bean heart glowing so warm it sent up the tiniest curl of steam where it met the cool air. He did not swim far. He did not swim long. The noodle stayed snug. But for one shimmering minute, beneath the lanterns, a taiyaki swam in a real river, fins flashing gold, exactly as he was always shaped to do.
 
@@ -158,7 +158,7 @@ He steamed happily, dripping and grinning, the proudest fish on the whole canal.
 
 "No," agreed Tai, glowing. "I dipped a fin. And tomorrow, maybe I'll dip two. That's how you swim toward a dream, Pip. One brave little splash at a time."
 
-Old Anko smiled in the lantern-light and said nothing, because the best teachers know when a story has finished telling itself.
+Old Taisho smiled in the lantern-light and said nothing, because the best teachers know when a story has finished telling itself.
 
 And do you know — the very next morning, a little girl with two crooked braids bought Tai for her breakfast, and bit into him with a gasp of pure delight, and discovered his warm red-bean heart, and declared him "the BRAVEST tasting taiyaki I've ever had." Which he was. You could taste it. Brave is sweet, it turns out, and just a little bit like the river.
 

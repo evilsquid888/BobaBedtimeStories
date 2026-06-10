@@ -1,10 +1,10 @@
 # Story 72: Mero Melonpan and the Tanabata Wishes
 
 **Main Character:** Mero Melonpan
-**Guest Characters:** None
+**Guest Characters:** Pock Ramune; Manny the steamed bun
 **Setting:** A summer street strung with bamboo and colorful Tanabata wish-papers
 **Theme:** A written wish is a dream you dare to share
-**Japanese Spotlight:** たなばた (tanabata) = star festival
+**Japanese Spotlight:** **tanabata** (tah-nah-bah-tah) — star festival
 
 ---
 
@@ -12,7 +12,7 @@ Mero Melonpan was asleep on a bamboo branch.
 
 Not on the ground beneath the bamboo branch — *on* it, draped across the swaying green pole like a warm, crackly-crusted blanket, snoring tiny puffs of melon-scented air. His golden cross-hatched crust caught the late afternoon light, and crumbs sparkled off him in slow, glittery drifts, like sleepy fireflies who had decided to retire early.
 
-"Mero," whispered the breeze. "Meeero. It's たなばた (tanabata) = star festival. Everyone's coming."
+"Mero," whispered the breeze. "Meeero. It's **Tanabata** (tah-nah-bah-tah) — the star festival. Everyone's coming."
 
 "Five more minutes," Mero murmured. "I'm in the middle of the best dream. There's a marshmallow staircase, and it leads to a cloud made of custard, and the cloud is *also* a hammock—"
 
@@ -24,7 +24,7 @@ Then he looked around — and his sleepy eyes went perfectly round.
 
 The whole street was getting dressed up for the festival.
 
-Tall stalks of bamboo lined both sides of the road, swaying gently, and from their leaves dangled hundreds of **短冊** (tanzaku) = wish-papers — little rectangles in strawberry pink, melon green, soda blue, and sunshine yellow, each one waiting for a wish. Paper streamers spun lazily. Somewhere a lantern hummed awake. And above it all, where the sky was just beginning to deepen into evening blue, you could almost — *almost* — see the faintest dusting of stars getting ready to become the **天の川** (ama-no-gawa) = Milky Way.
+Tall stalks of bamboo lined both sides of the road, swaying gently, and from their leaves dangled hundreds of **tanzaku** (tahn-zah-koo) — wish-papers — little rectangles in strawberry pink, melon green, soda blue, and sunshine yellow, each one waiting for a wish. Paper streamers spun lazily. Somewhere a lantern hummed awake. And above it all, where the sky was just beginning to deepen into evening blue, you could almost — *almost* — see the faintest dusting of stars getting ready to become the **ama-no-gawa** (ah-mah-no-gah-wah) — the Milky Way.
 
 "Oh," Mero breathed. "Oh, that's the best kind of awake."
 
@@ -68,7 +68,7 @@ A row of plump red-bean buns shuffled up, all of them holding blank papers and l
 
 "We don't know what to wish," they said together.
 
-A tall fizzy bottle of soda zipped over, bubbles popping anxiously. "I have a wish but it's enormous and I'm worried the paper's too small — *pop!*"
+Pock Ramune, a tall fizzy bottle of soda, zipped over, bubbles popping anxiously. "I have a wish but it's enormous and I'm worried the paper's too small — *pop!*"
 
 A tiny dumpling tugged Mero's crust. "I can't reach the high branches and my wish wants to go *high*."
 
@@ -88,7 +88,7 @@ Mero set himself up beneath the tallest bamboo, dusting everyone lightly with sp
 
 To the red-bean buns who didn't know what to wish, Mero said, "Don't *think* of a wish. Think of a feeling. What do you want *more* of?" The buns thought hard. "Friends," said one. "Naps," said another. "Sunday mornings that last all day," said a third, and everyone agreed that was an exceptionally good one. They wrote them down, every single one, and not a single wish was silly.
 
-To the soda bottle worried his wish was too big, Mero said, "Big wishes are the best kind — they're just dreams that grew up strong. Write the whole thing. We'll find a bigger paper." And they did, taping three blue papers together into one long ribbon, so the soda bottle's wish to *travel to the bottom of the sea and meet a whale* could fit, every fizzy word of it.
+To Pock Ramune, who worried his wish was too big, Mero said, "Big wishes are the best kind — they're just dreams that grew up strong. Write the whole thing. We'll find a bigger paper." And they did, taping three blue papers together into one long ribbon, so Pock's wish to *travel to the bottom of the sea and meet a whale* could fit, every fizzy word of it.
 
 And to the tiny dumpling who couldn't reach the high branches, Mero did something marvelous.
 
@@ -108,7 +108,7 @@ The whole street gasped a soft, happy gasp.
 
 By the time the sky was fully dark, the bamboo was *glowing*.
 
-Every branch fluttered with wish-papers — pink and green and blue and gold — and they rustled together in the warm summer breeze like the bamboo itself was whispering everyone's dreams up, up, up toward the great silver river of the **天の川** (ama-no-gawa) = Milky Way, which now poured across the sky in a hush of stars.
+Every branch fluttered with wish-papers — pink and green and blue and gold — and they rustled together in the warm summer breeze like the bamboo itself was whispering everyone's dreams up, up, up toward the great silver river of the ama-no-gawa, which now poured across the sky in a hush of stars.
 
 The friends gathered close at the foot of the bamboo, sleepy and proud, gazing up at their hopes hanging in the dark.
 

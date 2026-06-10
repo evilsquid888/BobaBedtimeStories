@@ -4,7 +4,7 @@
 **Guest Characters:** Boba
 **Setting:** A shrimp parlor
 **Theme:** Patience
-**Word Spotlight:** 釣蝦 (diao xia) = shrimp fishing
+**Word Spotlight:** **diaoxia** (dyow-shyah) — shrimp fishing
 
 ---
 
@@ -14,7 +14,7 @@ On the steamiest, bounciest night of the whole night-market year, Boba came bowl
 
 A long, blue-grey prawn looked up from the edge of the water. He had two curling whiskers, a fishing vest with about nine pockets, and the calmest smile in all of Taiwan.
 
-"Welcome, little bubble," said Xia Xia, twirling one whisker. "Tonight I will teach you **釣蝦** (diào xiā) = shrimp fishing. But first — can you sit still?"
+"Welcome, little bubble," said Xia Xia, twirling one whisker. "Tonight I will teach you **diaoxia** (dyow-shyah) — shrimp fishing. But first — can you sit still?"
 
 "Of COURSE I can sit still," said Boba, vibrating like a sneeze.
 
@@ -28,7 +28,7 @@ Boba pressed his whole round self against the glass. "Look at THAT one. He's eno
 
 "That," said Xia Xia, "is Grandpa Twelve-Legs. He has been retiring from being caught for six years. He is the wisest shrimp in the pond, and the laziest, and tonight he is our teacher whether he likes it or not."
 
-Xia Xia handed Boba a slim bamboo fishing rod with a thread of line, a tiny red-and-white **浮標** (fú biāo) = float bobbing at the end, and a teeny hook smaller than an eyelash.
+Xia Xia handed Boba a slim bamboo fishing rod with a thread of line, a tiny red-and-white **fubiao** (foo-byow) — a little float — bobbing at the end, and a teeny hook smaller than an eyelash.
 
 "Now," said Xia Xia, "**Step One. The bait goes on the hook.** But the hook is very sharp and very tiny, so we do *not* poke it ourselves. We ask a grown-up to help."
 
@@ -68,7 +68,7 @@ Boba gasped. "They tell jokes about me?"
 
 Boba thought about this very hard. "But what do I *do* while I wait? My bounces have to go *somewhere.*"
 
-"Ahh." Xia Xia tapped his rod. "That is the secret nobody tells you. You don't squash the bounces. You pour them down the line. Every wiggle in you, you send into the water and into the watching. Then the bouncing becomes *paying attention* — and paying attention is the best part of 釣蝦 there is."
+"Ahh." Xia Xia tapped his rod. "That is the secret nobody tells you. You don't squash the bounces. You pour them down the line. Every wiggle in you, you send into the water and into the watching. Then the bouncing becomes *paying attention* — and paying attention is the best part of diaoxia there is."
 
 So Boba tried again.
 
@@ -82,7 +82,7 @@ The waiting wasn't empty after all. It was full — full of soft ripples and the
 
 "Xia Xia," he whispered, "I think... I think I could do this all night."
 
-"NOW you're fishing," murmured Xia Xia, eyes still half-closed. "釣蝦 isn't about the catching. It's about the *waiting that's worth it.*"
+"NOW you're fishing," murmured Xia Xia, eyes still half-closed. "Diaoxia isn't about the catching. It's about the *waiting that's worth it.*"
 
 Down below, Grandpa Twelve-Legs eyed Xia Xia's bait. He flicked an eyebrow. He scuttled closer. Then — *too wise, too lazy* — he turned around and went back to his rock for a nap.
 
@@ -118,7 +118,7 @@ Boba lifted his bamboo rod with all the calm he had been saving up, slow and ste
 
 Auntie Ami came pleating back over, cupped the wiggly shrimp in her two soft hands, and *tip — tap —* slipped it free of the tiny hook without a single poke.
 
-"There you are, sweet thing," she said. "A whopper. You'll make a fine snack."
+"There you are, sweet thing," she said. "A fine young whopper."
 
 Boba leaned toward his shrimp. The shrimp leaned toward Boba. They regarded each other warmly.
 
@@ -126,17 +126,19 @@ Boba leaned toward his shrimp. The shrimp leaned toward Boba. They regarded each
 
 "None at all," said the shrimp, who was, frankly, delighted to be famous.
 
+"And the small ones go back," said Xia Xia, nodding at the water. "Pond rules. They swim home, grow up wiser, and tell everyone the story." So Auntie Ami lowered her soft hands to the pond, and the shrimp gave Boba a crisp two-whisker salute — "See you next season, round one!" — and swam off, very pleased with himself, to tell his rock all about it.
+
 ---
 
-Then came the very best part of 釣蝦, the part Xia Xia had been saving like a secret.
+Then came the very best part of diaoxia, the part Xia Xia had been saving like a secret.
 
-"**Last step. We grill it — and we share.**"
+"**Last step. We feast — and we share.**"
 
-Auntie Ami brought the shrimp to the little parlor grill — *that part's hot,* so the grown-up handled every sizzle — and laid it over the glowing coals with a fizz and a hiss and a smell so good it made Boba's whole round body sigh. The shrimp turned from bubblegum-pink to a deep, sunset, candied red, crackling and curling and *perfect.*
+Out from the parlor kitchen came Auntie Ami with a great platter of grilled shrimp she had been preparing all evening — the grill is *hot,* so the grown-up had handled every sizzle — each one already turned from bubblegum-pink to a deep, sunset, candied red, crackling and curling and *perfect,* with a smell so good it made Boba's whole round body sigh.
 
-The whole parlor gathered round. Auntie Ami snipped the shrimp into little pieces with a happy snip-snip. And every single creature in that warm orange room — Xia Xia, and Boba, and the soup-dumpling aunties, and even Grandpa Twelve-Legs, who came out of retirement just for a nibble — shared the catch together.
+The whole parlor gathered round. Auntie Ami snipped the shrimp into little pieces with a happy snip-snip. And every single creature in that warm orange room — Xia Xia, and Boba, and the soup-dumpling aunties, and even Grandpa Twelve-Legs, who poked his eyebrows up out of the water to enjoy the party — shared the feast together.
 
-It was the sweetest, smokiest, most patient shrimp anyone had ever tasted.
+It was the sweetest, smokiest, most patiently earned supper anyone had ever tasted.
 
 "It's even better," said Boba, with his mouth happily full, "because we *waited* for it."
 
@@ -146,14 +148,14 @@ And Boba, the bounciest pearl in all of Taiwan, sat perfectly, peacefully still 
 
 ---
 
-## How to Make Taiwan-style indoor shrimp fishing 🍽️
+## How to Go Shrimp Fishing, Taiwan-Style 🍽️
 *Ask a grown-up to help with anything hot or sharp!*
 1. Have a grown-up thread the bait onto the tiny hook (it's sharp — that's a grown-up job).
 2. Lower your line into the pond, hold very still, and watch the little float.
 3. Keep waiting — be quiet and patient so the shrimp aren't scared away.
 4. When the float dips, lift the rod up smoothly (no big yanks!).
 5. Have a grown-up unhook the wiggly shrimp for you.
-6. Have a grown-up grill the shrimp over the coals until it turns sunset-red — then share it with everyone!
+6. Small shrimp go gently back into the pond — pond rules! Then share a plate of grilled shrimp from the parlor kitchen with everyone (the hot grill is a grown-up's job).
 
 ## Goodnight Blessing
 Sleep slow, little one, like a float resting on still water. Let the day's bounces settle soft and quiet, and trust that the good things are coming — you don't have to chase them. They'll find you while you rest. Breathe in, breathe out, and let the lanterns dim. The sweetest catch is the one you waited for, and the warmest one is sleep. Goodnight.
@@ -161,4 +163,4 @@ Sleep slow, little one, like a float resting on still water. Let the day's bounc
 ## AI Image Prompts
 1. A cozy warm-orange Taiwanese shrimp parlor at night, a calm blue-grey cartoon prawn in a fishing vest and a tiny round glossy black tapioca-pearl character sitting on wooden stools, bamboo rods with red-and-white floats dipped into a glowing shallow pond, soft paper lanterns overhead, gentle storybook illustration.
 2. Character portrait of Xia Xia, a friendly blue-grey prawn with two curling whiskers and a many-pocketed fishing vest, calm patient smile, holding a slim bamboo fishing rod, soft warm lighting, cozy children's-book style.
-3. Closing scene: a little grill glowing with coals, one plump shrimp turned sunset-red and crackling, a happy crowd of food characters — prawn, tapioca pearl, soup-dumpling aunties, and a tiny grandpa shrimp — gathered round to share the catch, warm lanterns, sleepy nighttime glow.
+3. Closing scene: a warm parlor kitchen platter piled with sunset-red grilled shrimp, a happy crowd of food characters — prawn, tapioca pearl, soup-dumpling aunties, and a tiny grandpa shrimp peeking from the pond — gathered round to share the feast, warm lanterns, sleepy nighttime glow.

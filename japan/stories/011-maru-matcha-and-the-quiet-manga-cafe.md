@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A hushed, cozy manga café with shelves to the ceiling
 **Theme:** Quiet places hold loud-bright imaginations
-**Japanese Spotlight:** まんが (manga) = comic book
+**Japanese Spotlight:** **manga** (mahn-gah) — comic book
 
 ---
 
@@ -12,7 +12,7 @@ The bell above the door went *ting* — and then, very politely, hushed itself, 
 
 "Ahhh," she whispered to nobody, in the way calm friends do. "This place is the *coziest*."
 
-It was the Quiet Manga Café — shelves and shelves of **まんが** (manga) = comic books stacked all the way up to a ceiling so high you'd need a ladder, a balloon, and a deep breath to reach the top. There were beanbags shaped like dumplings. There were lamps that glowed butter-gold. And there, in the corner, half-hidden behind a tower of books that wobbled like a very nervous tower, was a brand-new friend with the biggest worried eyes Maru had ever seen.
+It was the Quiet Manga Café — shelves and shelves of **manga** (mahn-gah) — comic books — stacked all the way up to a ceiling so high you'd need a ladder, a balloon, and a deep breath to reach the top. There were beanbags shaped like dumplings. There were lamps that glowed butter-gold. And there, in the corner, half-hidden behind a tower of books that wobbled like a very nervous tower, was a brand-new friend with the biggest worried eyes Maru had ever seen.
 
 "Hello," Maru said softly. "You look like you're trying very hard to disappear."
 
@@ -30,7 +30,7 @@ Maru blinked her calm half-moon eyes. Then she sat down beside Yomi on a beanbag
 
 Maru gave a small, secret smile — the kind that crinkles at the corners. "Oh, Yomi. Calm doesn't mean I know everything. Calm just means I'm not in a hurry to be wrong." She tapped her whisk thoughtfully against her bowl-head, which made a soft *bonk*. "Now. Let's go on a tiny, quiet adventure. The kind where the only loud thing is your imagination."
 
-And so the two of them set off down the first aisle, walking on tip-toe because the café asked for **静か** (shizuka) = quiet, and they both rather liked obeying.
+And so the two of them set off down the first aisle, walking on tip-toe because the café asked for **shizuka** (shee-zoo-kah) — quiet — and they both rather liked obeying.
 
 ---
 
@@ -90,7 +90,7 @@ Maru thought about this seriously, the way she thought about everything — slow
 
 Yomi sat. The cushion went *foomf*.
 
-"Everybody," Maru began, "has a different shelf inside them. Rin Ramen — you'll meet her someday — her shelf is full of big steamy feelings and dramatic flavor. Kori the shaved ice? His shelf is all sparkle and sunglasses and *meltdowns*." She chuckled. "Mero Melonpan's shelf is mostly naps with a little dream tucked in. And mine—" she touched her cream swirl, "—mine is calm proverbs and warm tea and quiet rainy afternoons."
+"Everybody," Maru began, "has a different shelf inside them. Rin Ramen — you'll meet him someday — his shelf is full of big steamy feelings and dramatic flavor. Kori the shaved ice? His shelf is all sparkle and sunglasses and *meltdowns*." She chuckled. "Mero Melonpan's shelf is mostly naps with a little dream tucked in. And mine—" she touched her cream swirl, "—mine is calm proverbs and warm tea and quiet rainy afternoons."
 
 "What about a *right* shelf?" Yomi asked. "The one everybody's supposed to have?"
 
@@ -100,7 +100,7 @@ Yomi was quiet for a moment. Then, in a voice so small Maru had to lean her whol
 
 "Then," said Maru, with the deep satisfaction of a whisk that has whisked exactly the right amount, "we have found your shelf."
 
-She rose and led him to a low table where the café kept a pot of warm **抹茶** (matcha) = whisked green tea, just for readers. With a few easy flicks of her bamboo whisk — *shik, shik, shik* — she frothed two tiny cups until they wore little hats of foam. "A story is best with something warm to hold," she said. "That's the last rule of the Quiet Manga Café, and it's my favorite one." She handed him a cup. "Whisk slow. Read slower. There's no rush at all."
+She rose and led him to a low table where the café kept a pot of warm **matcha** (mah-chah) — whisked green tea — just for readers. With a few easy flicks of her bamboo whisk — *shik, shik, shik* — she frothed two tiny cups until they wore little hats of foam. "A story is best with something warm to hold," she said. "That's the last rule of the Quiet Manga Café, and it's my favorite one." She handed him a cup. "Whisk slow. Read slower. There's no rush at all."
 
 Yomi held the warm cup in both paws and felt, for the very first time all afternoon, completely and entirely *unhurried*. The worry that had been buzzing in his chest like a trapped firefly went quiet, settled, and finally tucked its little wings away.
 

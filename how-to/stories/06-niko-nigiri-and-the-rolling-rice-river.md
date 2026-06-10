@@ -4,15 +4,15 @@
 **Guest Characters:** Tama Onigiri
 **Setting:** A sushi counter
 **Theme:** Gentle hands
-**Word Spotlight:** 寿司 (sushi) = sushi
+**Word Spotlight:** **sushi** (soo-shee) — sushi
 
 ---
 
-Niko Nigiri was a tiny pillow of rice with a glossy blanket of fish folded neatly over the top, and she was, without question, the calmest little snack on the whole counter. While other foods rushed and tumbled and bonked into the salt shaker, Niko sat very still, very shiny, and very pleased with herself. She had soft white rice the color of moonlight, a smooth slice of fish that gleamed like a polished pebble, and the gentlest hands in all of Taiwan.
+Niko Nigiri was a tiny pillow of rice with a glossy blanket of fish folded neatly over the top, and he was, without question, the calmest little snack on the whole counter. While other foods rushed and tumbled and bonked into the salt shaker, Niko sat very still, very shiny, and very pleased with himself. He had soft white rice the color of moonlight, a smooth slice of fish that gleamed like a polished pebble, and the gentlest hands in all of Taiwan.
 
-"Gentle hands," Niko liked to say, wiggling her little rice fingers, "make the very best **寿司** (sushi) = sushi."
+"Gentle hands," Niko liked to say, wiggling his little rice fingers, "make the very best **sushi** (soo-shee)."
 
-Today she was extra wiggly, because today she had a student.
+Today he was extra wiggly, because today he had a student.
 
 *BONK.* A round white rice ball came rolling down the counter like a runaway snowball, knocked over a chopstick, spun in a circle, and landed upside down in a puddle of soy sauce.
 
@@ -24,9 +24,9 @@ This was Tama Onigiri, and Tama was a triangle of rice the size of a small fist,
 
 "I LOVE sushi!" Tama announced, squeezing his own seaweed belt so tight a single grain of rice popped out and went *ping* across the room. "Oops. Teach me everything, Niko! I want to make it PERFECT!"
 
-Niko smiled her calm little smile. "We can make perfect 寿司," she said. "But first you must learn the secret. Lean in close."
+Niko smiled his calm little smile. "We can make perfect sushi," he said. "But first you must learn the secret. Lean in close."
 
-Tama leaned in so fast he nearly head-butted her.
+Tama leaned in so fast he nearly head-butted him.
 
 "The secret," whispered Niko, "is gentle hands. Sushi is not made by *squishing*. It is made by *cradling*. Like you're holding a sleepy baby butterfly who has had a very long day."
 
@@ -68,7 +68,7 @@ Tama tried. He lifted the rice up and over with his little seaweed arms, and at 
 
 "What if I had folded it too hard?" asked Tama, a little nervous.
 
-"Then it would be a rice *brick*," said Niko, "and we would have to use it to build a tiny rice house, and that would be a whole different lesson." She patted the bowl. "But you didn't. You used gentle hands. Good job, butterfly."
+"Then it would be a rice *brick*," said Niko, "and we would have to use it to build a tiny rice house, and that would be a whole different lesson." He patted the bowl. "But you didn't. You used gentle hands. Good job, butterfly."
 
 Tama glowed pinker than a salmon at sunrise.
 
@@ -76,7 +76,7 @@ Tama glowed pinker than a salmon at sunrise.
 
 "Now," said Niko, "we make two kinds of sushi. First, the nigiri — that's *me*. Little pillows of rice with a topping."
 
-She scooped a small spoonful of rice — "About one happy bite," she said — and showed Tama how to cradle it in his palm. "Cup your hand. Now *gently* press, just enough to make a soft little pillow. Squeeze like you're saying goodnight to it. Not squeeze like you're mad at it."
+He scooped a small spoonful of rice — "About one happy bite," he said — and showed Tama how to cradle it in his palm. "Cup your hand. Now *gently* press, just enough to make a soft little pillow. Squeeze like you're saying goodnight to it. Not squeeze like you're mad at it."
 
 Tama cupped the rice. He took a slow breath. He thought about the sleepy baby butterfly. And — for the very first time — he pressed *just right*.
 
@@ -84,7 +84,7 @@ A perfect little rice pillow sat in his palm, soft and rounded and not the least
 
 "I DID IT!" Tama shouted, and the rice pillow leapt out of his hands in surprise and bounced off Niko's head. "...I did it a little too loud."
 
-Niko laughed, brushing rice off her fish blanket. "Top it with a cool slice of cucumber," she said, "since we're keeping the sharp knife away from our little fingers." She laid a green ribbon of cucumber over each pillow. "There. Nigiri!"
+Niko laughed, brushing rice off his fish blanket. "Top it with a cool slice of cucumber," he said, "since we're keeping the sharp knife away from our little fingers." He laid a green ribbon of cucumber over each pillow. "There. Nigiri!"
 
 The two of them made a whole row of soft rice pillows, each one crowned with cucumber, lined up like sleepy green-capped clouds. Tama made one extra-tiny one for a passing grain of salt who looked hungry, which was, Niko agreed, the most polite thing a rice ball had ever done.
 
@@ -92,7 +92,7 @@ The two of them made a whole row of soft rice pillows, each one crowned with cuc
 
 "Now the second kind," said Niko, eyes sparkling. "The roll. This is where the rice goes for a little river ride."
 
-She laid down a square sheet of **海苔** (hǎitái) = seaweed, dark and crackly as midnight. "Spread the rice on top — *gently*, all the way to the edges, but leave a little bare strip at the far end so the roll can say hello to itself and stick shut."
+He laid down a square sheet of **nori** (noh-ree) — roasted seaweed — dark and crackly as midnight. "Spread the rice on top — *gently*, all the way to the edges, but leave a little bare strip at the far end so the roll can say hello to itself and stick shut."
 
 Tama spread the rice with the tips of his fingers, soft as snowfall. He laid a line of cucumber and creamy avocado across the middle like the most delicious little log raft.
 
@@ -100,7 +100,7 @@ Tama spread the rice with the tips of his fingers, soft as snowfall. He laid a l
 
 Together they rolled. Tama's hands wanted to squeeze, oh, how they wanted to squeeze — but he hummed Niko's *fold-and-flip* song, and his hands stayed soft, and the seaweed wrapped itself around the rice in a smooth, snug spiral that stuck shut at the bare edge with a happy little *press.*
 
-"A **寿司** roll!" Tama gasped, holding up a perfect green-black log. "We made a whole RIVER of rice and rolled it into a log and it didn't even explode!"
+"A sushi roll!" Tama gasped, holding up a perfect green-black log. "We made a whole RIVER of rice and rolled it into a log and it didn't even explode!"
 
 "Gentle hands," said Niko, very pleased. "Every time."
 
@@ -118,7 +118,7 @@ Niko showed Tama how to dip — *just a corner!* — into a tiny dish of soy sau
 
 Tama dipped one perfect roll. He took a slow, gentle breath. And together, the way you're always supposed to before a wonderful meal, they said the magic word:
 
-"**いただきます** (itadakimasu) = let's eat!"
+"**Itadakimasu** (ee-tah-dah-kee-mahss) — let's eat!"
 
 *Crunch. Munch. Mmmmmmm.*
 
@@ -128,9 +128,9 @@ The rice was soft. The seaweed was crisp. The cucumber went *snap* and the avoca
 
 They shared every last piece — the cucumber nigiri, the swirly little coins — passing them around the counter to every food who wandered by, until the whole sushi counter was full of soft *mmm*s and happy crunching and not a single squished grain of rice anywhere.
 
-Niko wiggled her gentle little rice fingers one last time and smiled.
+Niko wiggled his gentle little rice fingers one last time and smiled.
 
-"Good 寿司," she whispered, "is just love, folded softly."
+"Good sushi," he whispered, "is just love, folded softly."
 
 And Tama, full and cozy and proud, didn't bonk into a single thing the whole way home.
 
@@ -145,7 +145,7 @@ And Tama, full and cozy and proud, didn't bonk into a single thing the whole way
 5. Dip just a corner in soy sauce, say "itadakimasu," and share your sushi!
 
 ## Goodnight Blessing
-May your hands be soft and your dreams be sticky-sweet, little one. May every worry fold gently away like rice into vinegar, and every kindness roll back round to you. Hold the day softly, the way Niko holds her rice, and let sleep wrap around you snug and warm. Goodnight.
+May your hands be soft and your dreams be sticky-sweet, little one. May every worry fold gently away like rice into vinegar, and every kindness roll back round to you. Hold the day softly, the way Niko holds his rice, and let sleep wrap around you snug and warm. Goodnight.
 
 ## AI Image Prompts
 1. A cozy night-market sushi counter glowing warm and golden; Niko Nigiri (a tiny pillow of moonlight-white rice topped with a glossy fish blanket) gently teaching Tama Onigiri (a round rice triangle with a black seaweed belt) to roll a sushi roll on a bamboo mat, soft steam curling up, picture-book illustration, warm and whimsical.

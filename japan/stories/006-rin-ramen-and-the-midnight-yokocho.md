@@ -4,17 +4,17 @@
 **Guest Characters:** None
 **Setting:** A cozy lantern-lit Tokyo alleyway (yokocho) of tiny food stalls
 **Theme:** A warm bowl shared makes any night feel like home
-**Japanese Spotlight:** おいしい (oishii) = delicious
+**Japanese Spotlight:** **Oishii** (oh-ee-shee) — delicious
 
 ---
 
-Rin Ramen woke up steaming. Not angry-steaming — happy-steaming, the way a kettle hums when it's excited about something. Tonight was THE night. Tonight, Rin was going to find the single most **おいしい** (oishii) = delicious stall in all of Tokyo.
+Rin Ramen woke up steaming. Not angry-steaming — happy-steaming, the way a kettle hums when it's excited about something. Tonight was THE night. Tonight, Rin was going to find the single most **oishii** (oh-ee-shee) — delicious — stall in all of Tokyo.
 
 You see, Rin was a whole bowl of tonkotsu ramen on two stubby little legs, with golden broth that swirled when he wiggled, a soft-boiled egg for a cheek, one bright corn freckle, and noodle-curls for hair that bounced when he hurried. And tonight, his curls were bouncing like crazy.
 
 "Everything's better warm and bubbly!" Rin announced to no one, because no one was up yet. He puffed a tiny cloud of steam, tightened his nori name-tag, and waddle-slurped out the door — straight toward the glowing little alleyway the whole city whispered about.
 
-The **横丁** (yokocho) = alleyway of food stalls.
+The **yokocho** (yoh-koh-choh) — an alleyway of food stalls.
 
 It was already, officially, the best night of his life. He just didn't know why yet.
 
@@ -30,7 +30,7 @@ He marched in with a Very Serious Plan. He had even written it on a noodle (it s
 
 "Tonight," Rin declared dramatically, sloshing a little, "I find the BEST."
 
-The first stall was tiny — just a counter, a paper lantern, and a grandmotherly stall-keeper who was a wrinkled little **梅干し** (umeboshi) = pickled plum, all squinty and pruney and kind. She stirred a pot bigger than herself.
+The first stall was tiny — just a counter, a paper lantern, and a grandmotherly stall-keeper who was a wrinkled little **umeboshi** (oo-meh-boh-shee) — a pickled plum — all squinty and pruney and kind. She stirred a pot bigger than herself.
 
 "Welcome, welcome," she crackled. "You look hungry, dearie. Or — wait. Are you the dinner, or are you having dinner?"
 
@@ -84,7 +84,7 @@ But his legs were tired, and his broth was lonely, and the empty stool at the en
 
 "One bowl, please," he said, mostly out of habit.
 
-The cook — a quiet, smiling little **狸** (tanuki) = raccoon-dog with a round belly and a ladle bigger than his arm — said nothing. He simply set a steaming bowl in front of Rin. It looked like every other bowl Rin had eaten that night. Nothing fancy. Just broth and noodles and a wobble of green onion.
+The cook — a quiet, smiling little **tanuki** (tah-noo-kee), a raccoon-dog, with a round belly and a ladle bigger than his arm — said nothing. He simply set a steaming bowl in front of Rin. It looked like every other bowl Rin had eaten that night. Nothing fancy. Just broth and noodles and a wobble of green onion.
 
 Rin sighed, picked up his chopsticks, and slurped.
 

@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A misty mountain trail with a little shrine at the top
 **Theme:** Falling down is just practice for getting up
-**Japanese Spotlight:** がんばって (ganbatte) = do your best / keep going
+**Japanese Spotlight:** **ganbatte** (gahn-baht-teh) — do your best / keep going
 
 ---
 
@@ -62,7 +62,7 @@ Dai went first, because that is what brave round buns do. The trouble was that b
 
 He rolled. Oh, how he rolled.
 
-He toppled over a tree root — *bonk* — and bounced back up. "**頑張って** (ganbatte) = do your best!" he shouted to the others, which is what you say in Mochimaki when you want someone to keep going with all their heart.
+He toppled over a tree root — *bonk* — and bounced back up. "**Ganbatte** (gahn-baht-teh) — do your best!" he shouted to the others, which is what you say in Mochimaki when you want someone to keep going with all their heart.
 
 He slid backward on a slick patch of mist — *whooosh, BONK* — and bounced back up. "Ganbatte, Coro! You're stronger than a slippery rock!"
 
@@ -78,7 +78,7 @@ Coro thought about this. Then he climbed a little taller.
 
 ---
 
-Up they went, into the thick white **霧** (kiri) = mist, where the trail grew narrow and the trees dripped like sleepy faucets. The world turned soft and gray and quiet, the kind of quiet that makes small friends feel very small.
+Up they went, into the thick white **kiri** (kee-ree) — mist — where the trail grew narrow and the trees dripped like sleepy faucets. The world turned soft and gray and quiet, the kind of quiet that makes small friends feel very small.
 
 Kori was the first to wobble for real. The shaved-ice mountain had been melting drip by drip all morning, and now his magnificent peak drooped sadly to one side.
 
@@ -156,13 +156,15 @@ Dai Daruma stood at the very front, covered head to bottom in moss, twigs, and o
 
 "That," said Kori, draping a cold, happy arm around him, "was the whole entire point, you marvelous meatball."
 
-And as the friends huddled close at the top of the world, a warm breeze swept up from the valley — and on Dai Daruma's smooth blank circle, soft as a brushstroke, the mountain painted in his second eye.
+And as the friends huddled close at the top of the world, the shrine's tiny door slid open, and out shuffled the shrine keeper — a small, ancient sparrow in a priest's sash, carrying a brush dipped in gold. She looked Dai up and down, moss and twigs and geranium petal and all, and nodded at his smooth blank circle. "A grand climb deserves a grand wish, little daruma. Shall I paint your second eye?"
 
-Now he could see everything. And everything he saw was friends.
+The friends held their breath. Dai looked at the golden brush. He looked out at the glowing valley. And then he smiled the calmest smile of his whole bouncy life.
 
-He had not even needed to make a wish.
+"Not yet," he said, patting the blank circle fondly. "This eye is saving itself for my truly BIG wish — the biggest one of my whole life — and oh, I can hardly WAIT to find out what it's going to be. Besides," he added, beaming around at his moss-covered, syrup-drizzled, wide-awake friends, "today's wish already came true on the way up. It was climbing right beside me the whole time."
 
-It had already come true on the way up.
+So instead, the sparrow dipped her brush and painted a tiny golden maple leaf right on Dai's round red back — the shrine's secret mark for climbers who fall down seven and bounce up eight. Dai couldn't see it back there, but he could feel it, warm as a little sunbeam that had decided to stay.
+
+And with one eye painted and one eye full of tomorrow, Dai could see everything that mattered. And everything he saw was friends.
 
 ---
 
@@ -176,4 +178,4 @@ Little one, the climb may be steep, and you may tumble more than once — but tu
 
 2. Character portrait — Dai Daruma, a round crimson dome-shaped sweet-bean bun, plump and bouncy, with two enormous determined eyebrows, one big painted eye and one smooth blank waiting eye, a single geranium petal stuck jauntily on top and a tiny twig behind it. Mid-bounce, stubby painted arms thrown wide, mouth open in a triumphant cheer. Soft storybook shading, cozy and kawaii.
 
-3. Closing scene — the summit of a misty mountain at golden hour, a tiny red Japanese shrine with a swaying bell, the mist parted to reveal a soft glowing valley far below. Four little dessert friends huddled close and warm at the top, the crimson daruma at the front now with BOTH eyes painted, a gentle magical glow on his newly finished eye. Peaceful, triumphant, sleepy-warm lighting; storybook watercolor style.
+3. Closing scene — the summit of a misty mountain at golden hour, a tiny red Japanese shrine with a swaying bell, the mist parted to reveal a soft glowing valley far below. Four little dessert friends huddled close and warm at the top, the crimson daruma at the front still with one painted eye and one smooth blank waiting eye, a tiny freshly brushed golden maple leaf glowing gently on his round red back, a small sparrow shrine keeper with a gold-tipped brush perched nearby. Peaceful, triumphant, sleepy-warm lighting; storybook watercolor style.

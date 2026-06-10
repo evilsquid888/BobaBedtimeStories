@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** Misty terraced green-tea hills at sunrise in Shizuoka
 **Theme:** The earliest, quietest hour holds a gentle gift
-**Japanese Spotlight:** みどり (midori) = green
+**Japanese Spotlight:** midori (mee-doh-ree) — green
 
 ---
 
@@ -12,7 +12,7 @@ Long before the sun cracked its first sleepy yawn, Maru Matcha was already awake
 
 "Whisk slow," she whispered to nobody. "Feel calm."
 
-The frothy matcha-cream swirl on top of her head wobbled gently, the way soft-serve does when you walk too fast, so Maru did not walk too fast. Maru never did. She padded between the long curving rows of tea bushes, each one heavy with dew, each leaf glowing a deep dreamy **みどり** (midori) = green. The air smelled like wet grass and cool stone and the very first idea of morning.
+The frothy matcha-cream swirl on top of her head wobbled gently, the way soft-serve does when you walk too fast, so Maru did not walk too fast. Maru never did. She padded between the long curving rows of tea bushes, each one heavy with dew, each leaf glowing a deep dreamy **midori** (mee-doh-ree) — green. The air smelled like wet grass and cool stone and the very first idea of morning.
 
 And then — *plip* — a single drop of dew rolled off a leaf and landed *splat* right on her nose.
 
@@ -24,9 +24,9 @@ Now, here is a thing about Maru Matcha that her friends never quite understood: 
 
 "Why would anyone wake up *before* the sun?" Kori Kakigori had once gasped, sunglasses sliding down in pure horror. "The sun is the COOLEST thing in the sky, and even *it* sleeps in!"
 
-But Maru only smiled her small calm smile, because she had a secret. The earliest hour held a gift. A quiet, dewy, hush-soft gift that you could not buy at any night market, could not unwrap from any **包装** (bāozhuāng) = wrapping. You could only *be there* for it. And this morning, Maru had decided, was finally the morning to share it.
+But Maru only smiled her small calm smile, because she had a secret. The earliest hour held a gift. A quiet, dewy, hush-soft gift that you could not buy at any night market, could not unwrap from any **hoso** (hoh-soh) — wrapping. You could only *be there* for it. And this morning, Maru had decided, was finally the morning to share it.
 
-She climbed to the very top terrace, where the rows of tea bushes stacked down the hillside like green steps for a giant who liked her tea. There she set out four little cups in the dew-wet grass, lined up neat as buttons. One for Mero Melonpan. One for Yuki the Snow Monkey-Manju. One for Sora the Soft-Cream. And one for Pock Ramune, who she suspected would arrive whether invited or not, fizzing the whole way.
+She climbed to the very top terrace, where the rows of tea bushes stacked down the hillside like green steps for a giant who liked her tea. There she set out five little cups in the dew-wet grass, lined up neat as buttons. One for Mero Melonpan. One for Yuki the Snow Monkey-Manju. One for Sora the Soft-Cream. One for Pock Ramune, who she suspected would arrive whether invited or not, fizzing the whole way. And one extra, because Maru always whisked one extra — "for whoever the morning brings," she liked to say.
 
 She had asked them all to come at dawn. She had walked all the way down the hill the evening before, knocking on doors with her tiny whisk, saying the same gentle thing to each yawning friend: "Come to the top terrace tomorrow, before the sun. I want to show you something. Bring nothing but yourself." Mero had nodded and immediately fallen back asleep mid-nod. Yuki had asked, very seriously, whether there would be snacks. Sora had drifted off into a soft cloud of "...mmm, maybe..." And Pock had popped three times and zoomed in a circle, which Maru took to mean *yes.*
 
@@ -60,7 +60,7 @@ Because just then, the very first thread of sunlight slid over the far hills.
 
 ---
 
-It came so quietly. That was the thing none of them expected. The light didn't *arrive* so much as it *seeped*, soft and golden, into the fog. The mist between the tea rows began to glow from the inside, like someone had switched on a lamp made entirely of breath. Every dewdrop on every leaf caught a tiny spark of sun, until the whole hillside was strung with a million tiny lights, and the green — oh, the **みどり** — went from sleepy-dark to bright wet jewel-green, all at once, all over, like the hill itself had quietly woken up and decided to be beautiful before anyone could ask it to.
+It came so quietly. That was the thing none of them expected. The light didn't *arrive* so much as it *seeped*, soft and golden, into the fog. The mist between the tea rows began to glow from the inside, like someone had switched on a lamp made entirely of breath. Every dewdrop on every leaf caught a tiny spark of sun, until the whole hillside was strung with a million tiny lights, and the green — oh, the midori — went from sleepy-dark to bright wet jewel-green, all at once, all over, like the hill itself had quietly woken up and decided to be beautiful before anyone could ask it to.
 
 Nobody said anything.
 
@@ -80,7 +80,7 @@ Yuki's eyes were a little wet. "I'm not crying," she said quickly. "It's the dew
 
 ---
 
-Then Maru did the thing she'd been planning all along. She knelt by her four little cups, and from a tiny pouch she scooped fresh-whisked matcha — green as the hills, smooth as the morning — and she whisked. *Swish, swish, swish,* went the bamboo whisk, slow and round, and a frothy **みどり** foam rose up in each cup like a little green cloud.
+Then Maru did the thing she'd been planning all along. She knelt by her five little cups, and from a tiny pouch she scooped fresh-whisked matcha — green as the hills, smooth as the morning — and she whisked. *Swish, swish, swish,* went the bamboo whisk, slow and round, and a frothy midori foam rose up in each cup like a little green cloud.
 
 "Whisk slow," she murmured. "Feel calm."
 
@@ -102,7 +102,7 @@ They drank their matcha in the glowing fog, on the top of the misty hill, while 
 
 ---
 
-The sun rose all the way. The fog lifted, gentle as a blanket pulled off a sleeping baby, and the tea hills of Shizuoka stretched out below them, green upon green upon green, rolling toward the morning. The day had begun. The night market would open later. There would be noise and lights and laughter, and that would be lovely too.
+The sun rose all the way. The fog lifted, gentle as a blanket pulled off a sleeping baby, and the tea hills of Shizuoka stretched out below them, green upon green upon green, rolling toward the morning. The day had begun. Down in the valley the village was waking, and the little teahouse would open later. There would be noise and lights and laughter, and that would be lovely too.
 
 But this — *this* small, secret, dewy, green-gold hour — this was Maru Matcha's favorite. And now it was a little bit theirs, too.
 
@@ -122,6 +122,6 @@ But that, sweet dreamer, is another morning's story.
 May your sleep be soft and green and dewy, like a tea hill curled up under the fog. May the quietest hour find you tucked warm and dreaming, and may it leave a tiny gift on your pillow, just for being there. Whisk your worries slow, little one, until they froth away into nothing. The sun will climb when it climbs, and not one moment sooner — so there is no need to hurry, not now, not tonight. Breathe in the green. Breathe out the day. Goodnight.
 
 ## AI Image Prompts
-1. A warm whimsical storybook illustration of misty terraced green-tea hills at sunrise in Shizuoka, Japan. Soft golden sunlight seeps through low fog, lighting up a million dewdrops on the curving rows of deep green tea bushes. On the top terrace sits Maru Matcha — a small jade-green bowl-headed friend with a frothy matcha-cream swirl on her head and calm half-moon eyes — holding up a tiny bamboo whisk toward the glowing hills like a wand. Around her, four little cups of frothy green matcha rest in dewy grass beside her cozy huddled friends. Palette of jade green, soft gold, misty white, and pale dawn-pink. Mood: hushed, magical, peaceful, the very first breath of morning. Gentle painterly children's-book style.
+1. A warm whimsical storybook illustration of misty terraced green-tea hills at sunrise in Shizuoka, Japan. Soft golden sunlight seeps through low fog, lighting up a million dewdrops on the curving rows of deep green tea bushes. On the top terrace sits Maru Matcha — a small jade-green bowl-headed friend with a frothy matcha-cream swirl on her head and calm half-moon eyes — holding up a tiny bamboo whisk toward the glowing hills like a wand. Around her, five little cups of frothy green matcha rest in dewy grass beside her cozy huddled friends. Palette of jade green, soft gold, misty white, and pale dawn-pink. Mood: hushed, magical, peaceful, the very first breath of morning. Gentle painterly children's-book style.
 2. Character portrait of Maru Matcha: a small round jade-green bowl-headed character with a soft-serve swirl of matcha cream on top like fluffy hair, gentle calm half-moon eyes, rosy little cheeks, holding a tiny bamboo tea whisk (chasen) up beside her face. A single dewdrop sits on the tip of her nose. Soft morning light, warm whimsical storybook style, cozy and kawaii, simple misty green background.
 3. A cozy closing scene: a huddle of adorable food friends — Maru Matcha, sleepy Mero Melonpan, rosy-cheeked Yuki the snow-monkey bun, dreamy Sora the soft-serve, fizzy blue Pock Ramune, and dramatic Kori Kakigori with a tiny blanket — all scooted together on the top of a sunlit green tea hill, sipping little cups of frothy green matcha as the fog lifts to reveal rolling emerald hills below. Warm golden morning light, soft whimsical storybook style, deeply peaceful and snuggly, palette of green, gold, and warm cream.

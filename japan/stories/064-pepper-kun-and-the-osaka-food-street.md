@@ -1,135 +1,161 @@
 # Story 64: Pepper-kun and the Osaka Food Street
 
 **Main Character:** Pepper-kun (Pepper Lunch sizzle)
-**Guest Characters:** None
+**Guest Characters:** Pika the Kushikatsu (a dazzling new fried-skewer star)
 **Setting:** Osaka's neon Dotonbori food street, the "nation's kitchen"
-**Theme:** The best chefs feed everyone, not just the loudest
-**Japanese Spotlight:** おこのみやき (okonomiyaki) = savory grilled pancake
+**Theme:** Someone else's shine doesn't dim yours
+**Japanese Spotlight:** **kushikatsu** (koo-shee-kah-tsoo) — crispy golden fried skewers on sticks
 
 ---
 
-Pepper-kun rolled into Osaka the way a firework arrives at a party — early, sparkly, and absolutely sure everyone had been waiting for him. His little black iron hot-plate body glowed warm and toasty, piled high with sizzling beef strips, golden corn, and a butter-melt swirl that smelled like a hug from a frying pan. He wore his chef's bandana tied tight, and the moment his stubby wheels touched **Dōtonbori** (Doh-toh-n-boh-ree) = Osaka's famous food street, he did what Pepper-kun always did.
+Pepper-kun had a favorite moment of the whole day, and it happened every evening at exactly lantern-time.
 
-He counted down.
+The sky over **Dotonbori** (doh-tohn-boh-ree) — Osaka's famous canal-side food street, the kitchen of the whole nation — would turn a deep plum purple. The neon signs would flicker awake, pink and orange and electric blue. The giant mechanical crab above the street would wave one creaky leg like it was conducting an orchestra. And Pepper-kun — a little round black iron hot-plate friend piled with sizzling beef, golden corn, and one perfect butter swirl — would hop onto his counter, tighten his chef's bandana, and count down.
 
-"Five! Four! Three! Two! ONE — SIZZLE!" he announced, throwing tiny sparks of steam into the neon air. *Tsssssss-POP!*
+"Five! Four! Three! Two! ONE — SIZZLE!"
 
-A pigeon fainted gently into a lantern. A noodle slipped off a stranger's chopsticks in surprise. And the giant glowing crab sign on the wall waggled one mechanical leg as if to say, *welcome, loud one.*
+*Tssssss-POP!*
 
-Pepper-kun beamed. Osaka was nicknamed **天下の台所** (tenka no daidokoro) = the nation's kitchen, and a kitchen, Pepper-kun figured, was exactly where a sizzling fellow like him belonged.
+Cheers. Steam. Happy tummies. Pepper-kun didn't just feed the loud friends at the front, either — everyone on Dotonbori knew that. He fed the shy ones half-hidden behind lantern posts. He fed the sleepy ones who forgot to ask. He could read a hungry crowd the way other folks read a menu, and the street loved him for it, and the street told him so nearly every night.
 
-The street was a river of light. Lanterns bobbed like fat orange moons, signs blinked in pink and electric blue, and the whole canal shimmered with reflected color, as if someone had spilled a rainbow and nobody minded one bit. Steam curled from a hundred grills. Bells jingled. Somewhere a takoyaki vendor sang to his batter.
+Which is why what happened on Tuesday came as such a shock.
 
-And everywhere — *everywhere* — there were hungry friends, wandering nose-first toward the best-smelling stall they could find.
+On Tuesday, halfway through his countdown — right between "three" and "two," the very best part — a sound rolled down the street that Pepper-kun had never heard before.
 
-"This," Pepper-kun declared, doing a proud little wheelie, "is MY kind of town. Stir it, sizzle it, share it! Stand back, Osaka — the showman has arrived!"
+*FWOOOOOOMP.*
 
-He sizzled extra loud to gather a crowd.
+It was bigger than a sizzle. It was a sizzle's giant golden cousin. Every head on Dotonbori turned at once, and Pepper-kun finished his countdown for nobody but a pigeon, and the pigeon was asleep.
 
-*Tssssss-SIZZLE-POP-CRACKLE-BANG!*
+Three stalls down, beneath a brand-new sign that spelled out a name in six colors at the same time, stood the newest star in Osaka.
 
-It was a magnificent sizzle. A truly five-star, fireworks-grade, hair-raising sizzle. A few friends turned to look. They smiled politely. And then —
+She was tall and glittering — a proud fan of golden fried skewers arranged like a peacock's tail, crispy panko crumbs sparkling all over her like frost on a window. Beside her, a bubbling fryer roared *FWOOMP* like a friendly dragon clearing its throat, and every time it roared, little lights chased each other around her sign.
 
-— they kept walking. Right past him. Toward a small, quiet stall with no flashing lights at all.
+"**Konbanwa** (kohn-bahn-wah) — good evening, Osaka!" she sang. "I'm Pika the **kushikatsu**! One stick! One dip! And NO double-dipping, sweethearts — that's the rule!"
 
-Pepper-kun blinked his headlight eyes. "Hello? Hot plate over here? Premium sizzle? Buttery beef spectacular?"
+The crowd roared with laughter and surged toward her. Within minutes her line stretched past the crab sign, over the bridge, around a souvenir shop, and straight through the middle of a tour group that had only stopped to take a photo and was now, somehow, ordering skewers.
 
-But the river of friends flowed on by, like a stream going around a stubborn rock.
+Pepper-kun stood on his counter with a full plate of beautiful sizzling beef, and for the first time in his whole toasty life, nobody was looking at him.
 
----
+He waved his spatula. "Premium sizzle? Buttery beef spectacular? Anyone?"
 
-The quiet stall belonged to a round, flat, cheerful fellow named Ojii the **Okonomiyaki** (oh-koh-noh-mee-yah-kee) = savory grilled pancake. Ojii was wide and golden-brown and a little wrinkly at the edges, with a fluffy cabbage middle, a glossy drizzle of brown sauce in zig-zags, a feathery topping of bonito flakes that waved in the warm air like tiny hello-hands, and a single wobbly fried egg for a face. He flipped himself on his own grill with a soft, contented *whump*, the way some people hum while they work.
-
-He was not loud. He did not count down. He just... fed everyone who came near.
-
-A tired delivery-bun, an old gentleman dumpling, three giggling little dango on a stick, a yawning melonpan rubbing its sleepy eyes — Ojii served them all, warm and steady, never rushing, never showing off.
-
-"Itadakimasu!" each one said, which is what you say before you eat. And every single friend wandered off rounder, glowier, and grinning.
-
-Pepper-kun rolled over, sparking with frustration. "Okay. Okay. I have to ask. I am EXTREMELY sizzly. I do an award-quality countdown. And nobody's coming to me! What's your secret, pancake?"
-
-Ojii flipped himself with a gentle *whump* and smiled with his egg. "Secret? No secret, little stove. I just listen for the quiet tummies."
-
-"The *quiet* tummies?" Pepper-kun's steam puffed sideways in confusion.
-
-"Mm." Ojii nodded at the bustling street. "The loud ones — they always find food. They holler, they push, they get fed. But the shy ones? The sleepy ones? The little ones in the back who don't know how to ask?" He drizzled a slow zig-zag of sauce. "Those are the tummies that go home empty. So those are the ones I watch for."
-
-Pepper-kun looked at the glowing crowd with new eyes.
-
-And — oh.
-
-*Oh.*
-
-There, half-hidden behind a lantern post, was a teeny mochi too shy to step into the crowd. There, on a bench, a wobbly little chestnut who'd been jostled out of every line. There, by the canal, a small soft-serve drooping with hunger but too polite to wave anyone down.
-
-All this time, Pepper-kun had been sizzling so loud he'd only been feeding his own ego.
-
-"Oh, custard," he whispered, his beef strips wilting a tiny bit. "I've been the loudest stall on the street. Not the kindest one."
+A small voice answered. It was the pigeon. It had woken up, and it wanted corn.
 
 ---
 
-Ojii flipped a fresh pancake onto Pepper-kun's hot plate — *whump* — right beside the sizzling beef. The two smells swirled together: buttery sizzle and savory grill, beef-and-corn and cabbage-and-sauce, a brand-new flavor that hadn't existed five seconds ago.
+Pepper-kun told himself he was not jealous.
 
-"Then let's not be loud," said Ojii warmly. "Let's be *useful.* Stir it, sizzle it — and share it where it's needed. You've got the heat, friend. I've got the recipe. Together we can reach every quiet tummy on Dōtonbori before the lanterns dim."
+He told himself this while polishing his iron plate hard enough to make it squeak. He told himself again while glaring at Pika's sign as it spelled her name in six colors, then — and this part felt like showing off — in *cursive*.
 
-Pepper-kun's headlight eyes went bright. "A team-up! Oh, I am EXCELLENT at team-ups. What's the plan, Ojii?"
+"Fine," he muttered. "FINE. She has a fwoomp. I have a sizzle. The people of Osaka will simply have to choose." But deep in his middle, under the corn, he felt something cold and hissy, like rain falling on a griddle. He was definitely not going to call it by its name.
 
-"Simple," said Ojii, climbing aboard Pepper-kun's warm flatbed and settling in like a co-pilot. "You cook. I top. We *go to them.*"
+Instead, the next night, he put on the biggest show of his entire career.
 
-And so the strangest, sweetest little food machine in all of Osaka set off down the glowing street.
+He counted down from TEN, which took so long that the crowd wandered off somewhere around "six." He juggled three beef strips, caught two, and wore the third as a small meaty hat. He unveiled his brand-new corn-confetti cannon, which worked perfectly, except backwards — it fired a glorious golden fountain of corn directly into his own bandana, where it stayed, jingling gently whenever he moved. For his grand finale he produced a steam cloud so enormous that he completely vanished inside it.
 
-Pepper-kun would sizzle a fresh-hot base — *tssss* — and Ojii would flip a fluffy okonomiyaki right on top — *whump* — then ribbon it with sauce and crown it with waving bonito flakes that danced from the heat like they were giggling. A new snack, sizzly-savory and pancake-soft, was born with every step.
+"TA-DAAA!" he cried, from somewhere within the fog.
 
-They rolled gently — *gently,* for once — toward the lantern post.
+When the steam finally cleared, his entire audience was the pigeon, applauding with one wing, mostly out of politeness.
 
-"Psst. Hey there, little one," said Pepper-kun, in the quietest voice he had ever used, which was still slightly louder than a marching band but he was *trying.* "We made you something warm. No need to push. No need to holler. Just... here."
+Down the street, the fryer went *FWOOMP*. Pika's crowd went *oooooh*. Somebody shouted "**Sugoi!** (soo-goy) — amazing!" and somebody else shouted it louder.
 
-The shy little mochi peeked out. Took the warm bite. And lit up like a paper lantern from the inside.
+Pepper-kun's butter swirl went completely flat. He climbed down, scooted behind a lantern post on his stubby little legs — a hot plate cannot stomp, but he did his very best — and sulked so hard the lantern flickered.
 
-"For ME?" the mochi squeaked.
+"Her shine," he grumbled to his knees, "is using up all the shine. There's only so much shine on one street, and she's hogging it."
 
-"For *you,*" said Ojii. "Always for you."
+He sat. He sulked. He jingled faintly. And because he was sitting still — truly still, for the first time in two whole nights — he began, completely by accident, to do the thing he was best at in all the world.
 
-Next came the wobbly chestnut on the bench, who'd been knocked out of so many lines he'd nearly given up on dinner altogether. Pepper-kun did a soft, *teeny* sizzle — just a whisper of *tss* — so as not to startle him, and slid a warm portion right into his little chestnut hands.
-
-"Small and roasty," the chestnut murmured, amazed, "but somebody saw me."
-
-"Somebody always should," said Pepper-kun, and he meant it down to his iron.
-
-They found the polite soft-serve by the canal and brought dinner before it could melt one more drop. They found a tucked-away taiyaki who'd been too busy helping others to feed himself. They found a sleepy melonpan curled in a doorway and tucked a warm bite beside its dreaming head.
-
-Word began to ripple down Dōtonbori — not in shouts, but in soft, glowing whispers. *There's a hot plate and a pancake feeding the quiet ones. There's a little stove who finally learned to listen.*
-
-And the most wonderful thing happened.
-
-The crowd didn't push toward Pepper-kun. It made *room* for him. Friends stepped aside so the rolling kitchen could reach the back, the corners, the shy and the small. The neon canal sparkled. Lanterns swayed. And the whole nation's kitchen seemed to lean in close, warm and proud.
+He watched the crowd.
 
 ---
 
-By the time the moon hung high over the glowing canal and the crab sign blinked sleepily, every tummy on Dōtonbori was full. The loud ones, yes — but also the shy ones, the sleepy ones, the little ones who never knew how to ask. Not one friend went home empty.
+And the crowd, he noticed, had a problem.
 
-Pepper-kun rolled to a stop beside Ojii, his beef still faintly sizzling, his bandana a little crooked, his iron heart fuller than it had ever been.
+Pika's line was a magnificent line, the longest Dotonbori had ever grown. But it was a *loud* line. The big friends and the bold friends whooped and waved and got their skewers — while at the very back, the same old quiet story was happening, the one Pepper-kun knew by heart.
 
-"That," he said softly, "felt better than any sizzle I've ever done."
+A teeny mochi got bumped out of line three times and finally drifted over to the canal railing, pretending to admire the water. A wobbly old dumpling couldn't hear his order being called. A sleepy little bun slid to the back of the line, then to the back of the back, then quietly gave up and sat down on a step, hungry and far too polite to say so.
 
-Ojii flipped himself one last lazy time — *whump* — and waved his bonito flakes. "That's because the best chefs don't cook for the loudest table, little stove. They cook so *everyone* gets fed. Especially the ones nobody else hears."
+And Pika — dazzling, six-color Pika — couldn't see any of it. She was frying as fast as her fryer could fwoomp, panko flying, sauce splashing, calling "NEXT! Who's next, sweethearts?" — but "next" was always whoever hollered loudest, and her own glittering sign was so bright she couldn't see past the front row. Her peacock fan of skewers had started to droop. There was sauce on her sign. There was panko in places panko should never, ever be.
 
-Pepper-kun looked out at the warm, sleepy, well-fed street. Somewhere, the shy mochi was already dozing, round and content. The wobbly chestnut had nodded off mid-smile. The soft-serve hadn't melted at all.
+She was flailing. The brightest star on Dotonbori was flailing.
 
-"I think," said Pepper-kun, with the quietest, coziest sizzle of his whole loud little life, "I finally know what my countdown is *for.*"
+And here is the truth, because bedtime is for truth: for one small, prickly second, a sneaky little spark inside Pepper-kun whispered, *good.*
 
-And under the lanterns of Osaka, he counted one last time — gentle as a lullaby.
+But then the teeny mochi by the canal let out the smallest sigh in all of Osaka — a sigh only a true crowd-reader could have heard — and the sneaky spark never stood a chance. Pepper-kun was off the curb and scooting before he had even decided to go. His legs decided for him. His legs, frankly, had been raised better than the rest of him.
 
-"Three... two... one... goodnight, Dōtonbori."
+He made no announcement. He did no countdown. He warmed a strip of beef, a spoonful of corn, and one curl of butter, and carried it to the mochi at the railing, quiet as a secret.
+
+"Saw you waiting," he said. "So dinner came to you instead."
+
+The mochi lit up like a paper lantern. "**Itadakimasu!** (ee-tah-dah-kee-mahs) — thanks for this food!" it whispered, which is what you say before you eat. And it ate, and it glowed.
+
+Then the wobbly dumpling. Then the sleepy bun on the step. Then Pepper-kun worked his way along the whole wriggling length of Pika's line, reading it like a storybook — *that one's been waiting ages... that one's too small to see the menu... that one is about to cry and claiming it's the onions, and there are no onions* —
+
+And then he did the strangest thing of all. He scooted right up beside his rival.
+
+"Third lantern post," he said briskly. "Small chestnut, too shy to wave. Two sticks, extra sauce. Behind the bridge rail, a melon-bread kid, half asleep — one stick, no sauce, he'll spill it. I deliver. You fry."
+
+Pika blinked down at him through a dusting of panko. "You're... Pepper-kun. The famous one. Why are you helping me?"
+
+Pepper-kun opened his mouth to say something grand. Nothing grand came out. What came out instead was the truth.
+
+"Because I can see the back of your line," he said. "And you can't."
+
+---
+
+What happened next, Dotonbori still talks about.
+
+The fryer fwoomped. The hot plate sizzled. Pika fried golden skewers, and Pepper-kun ferried them into the quiet corners of the street, balanced on his own warm iron plate so they arrived hot and crackling — sometimes with a strip of buttery beef tucked alongside, because some inventions simply invent themselves. A crispy skewer on a sizzling plate. The crowd had no name for it, so they called it the obvious thing: dinner, twice.
+
+"**Oishii!** (oh-ee-shee) — delicious!" squeaked the shy chestnut at the third lantern post, with both cheeks full.
+
+"One dip ONLY!" Pika hollered happily across the street, and the whole line hollered it back like a festival chant — even the wobbly old dumpling, who had no idea what it meant but loved a good chant.
+
+The strangest part was the line itself. It stopped shoving. It simply stopped, all on its own — because nobody shoves once they know they'll be seen. The loud ones got fed, the quiet ones got found, and even the pigeon received an extremely polite pile of corn, which it accepted as long overdue.
+
+Somewhere past midnight, in a gap between customers, Pika leaned down low.
+
+"Can I tell you something embarrassing?" she said. "When I picked this street, I almost didn't come. Everyone said, *that's Pepper-kun's street — he's amazing — how will anyone ever notice you?* So I turned everything up. The sign. The colors. The fwoomp. I was so busy trying to out-shine you that I forgot to look at anybody at all."
+
+Pepper-kun nearly dropped his spatula. "Out-shine *me*? I spent two days building a corn cannon because of *you*. I wore a beef hat."
+
+They looked at each other — the tall fan of golden skewers and the little black hot plate — and they laughed so hard that the crab sign waved both legs at once, which it had never done before in its life.
+
+And right in the middle of laughing, Pepper-kun noticed a funny, quiet thing: the cold, hissy, rain-on-a-griddle feeling was gone. Nobody had argued it away. Nobody had made a speech at it. It had simply melted, somewhere between the third lantern post and the bridge rail — the way butter melts when a plate is finally doing its proper work.
+
+---
+
+The lanterns burned low. The last skewer found the last tummy. The tour group finished ordering at last, and wandered off to find their tour.
+
+One by one, the neon signs of Dotonbori blinked out — pink, then blue, then six colors at once — until the street was nothing but warm darkness, the soft slap of canal water, and two grills cooling side by side beneath the sleepy crab.
+
+"Same time tomorrow?" murmured Pika, her lights dimmed to a single gentle gold, her skewer-fan folded like wings.
+
+"Same time tomorrow," said Pepper-kun. "You bring the fwoomp. I'll bring the back of the line."
+
+He looked at her soft glow, and then down at his own faint toasty one, and he understood something he wanted to keep forever — so he said it out loud to the empty street, the way you do with the important things.
+
+"Her shine never took mine," he said. "Light doesn't work like that. Another lamp doesn't make your lamp darker. It just makes the street brighter."
+
+Up on the crab sign, the pigeon cooed in its sleep, which Pepper-kun chose to take as agreement.
+
+He pulled his bandana down over his eyes like a cozy little blanket, let his iron edges tick softly as they cooled, and counted down one last time, gentle as a lullaby.
+
+"Three... two... one..."
 
 *Tsss.*
+
+"Goodnight, Dotonbori."
 
 ---
 
 ## Goodnight Blessing
-May your sizzle be warm and your heart be warmer, little one. May you always remember to listen for the quiet tummies — the shy friend, the sleepy friend, the small one at the very back — and may someone, somewhere, always remember to listen for you. You are never too quiet to be seen, and never too small to be fed with love. Snuggle down now, soft and full, while the lanterns dim and the canal glows low. Goodnight.
+
+Little one, may you shine your own warm shine — and may you never be afraid of anybody else's. If a bright new light comes glowing down your street someday, remember Pepper-kun: another lamp never dims your lamp. Light doesn't run out; it only adds. So be the friend who sees the back of the line, and trust that the world has room enough for every glow, including yours — especially yours. Snuggle down now, warm as a plate cooling slow, soft as the last lantern on the canal. The street is quiet, the crab is dreaming, and so should you be. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook style, glowing neon palette of pink, orange, and electric blue reflected in a dark canal. Pepper-kun — a round little black iron hot-plate with big headlight eyes, a chef's bandana, piled with sizzling beef, golden corn, and a butter swirl — rolls down Osaka's Dotonbori food street with Ojii the okonomiyaki (a wide golden-brown grilled pancake with fluffy cabbage, brown-sauce zig-zags, waving bonito flakes, and a fried-egg smile) riding on his flatbed. They lean toward a tiny shy snow-white mochi peeking from behind a lantern post, offering a warm bite. Lanterns like fat orange moons, a giant friendly mechanical crab sign overhead, cozy steam curling everywhere. Mood: tender, magical, bustling-but-gentle nighttime warmth.
-2. Character portrait of Pepper-kun: a cheerful round black cast-iron hot-plate friend on stubby little wheels, big bright headlight eyes, a tied chef's bandana, piled with glossy sizzling beef strips, golden corn kernels, and a melting butter swirl, ringed by white rice, tiny theatrical sparks of steam rising as he does a proud mid-countdown pose with one little spark-flick. Soft storybook lighting, warm golden glow, kawaii and cozy.
-3. Closing scene, warm whimsical storybook style: late night on Dotonbori, the neon dimmed to a soft sleepy glow, the canal mirroring the last lanterns. Pepper-kun parked quietly beside Ojii the okonomiyaki, both content and steaming faintly, surrounded by little well-fed food friends dozing happily — a round mochi asleep, a wobbly chestnut smiling in its sleep, an un-melted soft-serve nodding off. The big crab sign blinks one sleepy eye. Palette of deep indigo, gentle amber, and rose. Mood: full-bellied, peaceful, deeply cozy goodnight.
+
+1. Key scene — warm whimsical storybook illustration, neon palette of pink, orange, and electric blue reflected in a dark canal: Pepper-kun, a small round black cast-iron hot-plate friend with stubby little legs, cheerful bright eyes, a tied chef's bandana, and a plate piled with sizzling beef strips, golden corn, a butter-melt swirl and a ring of rice, gently delivering a golden panko-crusted fried skewer balanced on his warm plate to a teeny shy snow-white mochi by the canal railing. Behind them, Pika the Kushikatsu — a tall, glamorous fan of golden fried skewers arranged like a peacock's tail, sparkling with panko, beside a friendly bubbling fryer and a glowing six-color sign — fries for a long happy line of cute food friends. Giant mechanical crab sign overhead, paper lanterns like fat orange moons. Mood: bustling-but-tender nighttime warmth.
+
+2. Character portrait — Pepper-kun: a teeny round black sizzling iron hot-plate friend standing on stubby little legs, piled with glossy beef strips, golden corn kernels, a swirl of melting butter, and a neat ring of white rice, wearing a little white chef's bandana, big bright happy eyes, tiny theatrical sparks of steam rising as he poses mid-countdown with a tiny spatula raised high — a few stray corn kernels comically jingling inside his bandana. Warm kawaii storybook style, glowing griddle-orange backdrop.
+
+3. Closing scene — late night on Dotonbori, all the neon signs switched off, the canal mirroring one last amber lantern: two grills cooling side by side — Pepper-kun with his bandana pulled down over his eyes like a tiny blanket, faint wisps of steam curling up, and Pika the Kushikatsu beside him, her lights dimmed to a single soft gold, her fan of skewers folded like resting wings. Above them the giant crab sign sleeps, a pigeon dozing on one claw. Palette of deep indigo, gentle amber, and rose. Mood: full-bellied, peaceful, deeply cozy goodnight.

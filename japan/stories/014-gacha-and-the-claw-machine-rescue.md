@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A jingling Tokyo crane-game (UFO catcher) arcade
 **Theme:** Teamwork lifts what one alone cannot
-**Japanese Spotlight:** いっしょに (issho ni) = together
+**Japanese Spotlight:** **issho ni** (ee-shoh nee) — together
 
 ---
 
@@ -36,7 +36,7 @@ Then rolled back down.
 
 Mochi-Usagi's floppy ear drooped. "Oh no. You're stuck too?"
 
-"Not stuck," said Gacha, rolling upright with a proud little spin. "Just *thinking.* And here is what I think: one little capsule can't do this alone." Gacha's painted grin spread wide. "But you know what a capsule is FULL of? Surprises. And the best surprise of all is friends. **いっしょに** (issho ni) = together — that's the secret prize inside every hard thing. Wait right there, Mochi-Usagi!"
+"Not stuck," said Gacha, rolling upright with a proud little spin. "Just *thinking.* And here is what I think: one little capsule can't do this alone." Gacha's painted grin spread wide. "But you know what a capsule is FULL of? Surprises. And the best surprise of all is friends. **Issho ni** (ee-shoh nee) — together — that's the secret prize inside every hard thing. Wait right there, Mochi-Usagi!"
 
 "I literally cannot go anywhere else," the bunny pointed out.
 
@@ -44,7 +44,7 @@ Gacha rolled off at top capsule-speed — which is a wobbly, giggly, bumpity sor
 
 They were just down the street, sharing a paper cone of warm chestnuts.
 
-"FRIENDS!" Gacha cried, skidding to a stop and spinning like a top. "Emergency! Adorable emergency! A teeny plush bunny is trapped at the bottom of a claw machine and the claw has the grip of overcooked udon and we must rescue them いっしょに — TOGETHER!"
+"FRIENDS!" Gacha cried, skidding to a stop and spinning like a top. "Emergency! Adorable emergency! A teeny plush bunny is trapped at the bottom of a claw machine and the claw has the grip of overcooked udon and we must rescue them issho ni — TOGETHER!"
 
 Everyone leapt up at once.
 
@@ -134,9 +134,9 @@ The claw closed around Mochi-Usagi... and lifted...
 
 So they did. Rin steamed and slurped a cheer. Dai wobbled and roared, "BOUNCE UP EIGHT!" Niko held the button with both hands and the dignity of a thousand sushi chefs. Momo squished against the glass so hard her cheeks went rosy as plums. And Gacha spun in delighted circles, popping open and shut, open and shut.
 
-"Together!" they all shouted. "**いっしょに!**"
+"Together!" they all shouted. "Issho ni!"
 
-And maybe it was the cheering. Maybe it was the perfect timing. Maybe the claw simply heard the word *together* and decided, just this once, to hold on tight.
+And it was the plan that did it — Niko's button-press, not a heartbeat early, not a heartbeat late, and every friend doing their one neat part. (Though between you and me, I like to imagine the claw heard the word *together* and decided it didn't want to be left out.)
 
 The claw swung over the chute and — *plip!* — dropped Mochi-Usagi safely into the prize door.
 
@@ -144,7 +144,7 @@ The little plush bunny tumbled out into Momo's waiting taffy arms, both ears flo
 
 "YOU DID IT!" Mochi-Usagi squealed. "I'm FREE! And I wasn't even scary-stuck at the end, because you were all out there being so silly!"
 
-"WE did it," Gacha corrected, beaming. "All of us. That's the surprise inside every capsule, every claw machine, every hard thing in the whole wide world." Gacha gave a happy little spin. "Alone, I couldn't even climb the glass. But いっしょに? We can lift just about anything."
+"WE did it," Gacha corrected, beaming. "All of us. That's the surprise inside every capsule, every claw machine, every hard thing in the whole wide world." Gacha gave a happy little spin. "Alone, I couldn't even climb the glass. But issho ni? We can lift just about anything."
 
 Momo squished the whole gang — and the bunny, and the still-confused mailbox — into one enormous group hug.
 
@@ -152,10 +152,12 @@ Momo squished the whole gang — and the bunny, and the still-confused mailbox �
 
 And from somewhere deep in the warm, giggly middle of the pile, a tiny floppy-eared voice said, "Best. Claw machine. EVER."
 
+By and by, the arcade lights dimmed one row at a time, and the machines blinked their last sleepy *bloop-bloops* like fireflies settling down for the night. Mochi-Usagi rode home tucked snug under Momo's taffy arm, both floppy ears already drooping with sleep. The friends wandered out into the quiet, lantern-lit street, yawning in a happy little chain — Rin first, then Dai, then everyone — their footsteps and rolls and wobbles growing slower and softer all the way home.
+
 ---
 
 ## Goodnight Blessing
-Little dreamer, the biggest things in the world are never lifted by one pair of hands alone — they're lifted together, slow and steady and side by side. When something feels too heavy for you tonight, remember the noodle-claw, and the friends who cheered, and the word that made it hold on: いっしょに, together. You are never truly stuck, not while there are kind hearts nearby. So snuggle down, let the day go soft, and know that someone, somewhere, is glad to lift the world with you tomorrow. Goodnight.
+Little dreamer, the biggest things in the world are never lifted by one pair of hands alone — they're lifted together, slow and steady and side by side. When something feels too heavy for you tonight, remember the noodle-claw, and the friends who cheered, and the word that made it hold on: issho ni, together. You are never truly stuck, not while there are kind hearts nearby. So snuggle down, let the day go soft, and know that someone, somewhere, is glad to lift the world with you tomorrow. Goodnight.
 
 ## AI Image Prompts
 1. Key scene — warm whimsical storybook style, soft glowing arcade lighting in pink and gold: a glossy two-tone gachapon capsule with a cheerful grin spins beside a tall claw machine, while a round crimson daruma leans on the joystick, a proud salmon-caped nigiri presses a big red button, a steaming ramen bowl spots through the glass, and a pillowy peach-cheeked mochi cheers; the metal claw lifts a tiny floppy-eared gray plush bunny up through a glittering pile of plushies; cozy, triumphant, sparkly mood.

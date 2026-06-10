@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** Rolling golden potato fields under a wide Hokkaido sky
 **Theme:** Knowing where you come from helps you grow
-**Japanese Spotlight:** じゃがいも (jagaimo) = potato
+**Japanese Spotlight:** jagaimo (jah-gah-ee-moh) — potato
 
 ---
 
@@ -38,7 +38,7 @@ Fields. *Endless* fields, rolling up and over the hills in long golden-green str
 
 Coro nearly jumped out of his breadcrumbs. He looked down. There, poking up between two leafy green plants, was a round, lumpy, earthy little face with two dark eyes and a smudge of soil on its cheek.
 
-"I'm a **じゃがいも** (jagaimo) = potato," said the little face cheerfully. "Most folks call me Spud. And you, my crispy friend, look an *awful* lot like family."
+"I'm a **jagaimo** (jah-gah-ee-moh) — potato," said the little face cheerfully. "Most folks call me Spud. And you, my crispy friend, look an *awful* lot like family."
 
 "Family?" said Coro.
 
@@ -50,7 +50,7 @@ Coro's crispy outside felt suddenly warm all over. *Home.* Nobody had ever said 
 
 ---
 
-Spud led Coro down a path between the rows, and oh, the *jagaimo* were everywhere — peeking out of the earth, snoozing in the cool dark soil, stretching their little leafy arms up toward the sun. They waved as Coro passed.
+Spud led Coro down a path between the rows, and oh, the *jagaimo* were everywhere — peeking out of the earth, snoozing in the cool dark soil, stretching their little leafy arms up toward the sun. They waved as Coro passed. Far off over the hills, a gray smudge of cloud sat low against the bright blue sky, and Spud eyed it warily for a moment, the way farmers do, before walking on.
 
 "Welcome home, cousin!" they called. "We've been waiting!"
 
@@ -78,7 +78,7 @@ Coro thought about Lord Crackleworth, who would surely melt into a puddle the mo
 
 Spud roared with laughter, which for a potato sounds a bit like a happy little hiccup. "*Hic-HA!* No, no, the fancy ones never do. But you know who does? *You.* You're made of us. Crispy on the outside, sure — but soft, warm, and steady all the way through."
 
-They walked on, and Spud showed Coro the whole secret world of the fields. He showed him the **大地** (daichi) = great earth, the deep cool soil where every jagaimo gets its start, dark and quiet and full of good things. He showed him the morning **霧** (kiri) = mist that rolled in soft and silver and tucked the whole valley under a blanket. And he showed him the **収穫** (shūkaku) = harvest baskets, woven and round, waiting at the edge of the field for the day the potatoes were ready.
+They walked on, and Spud showed Coro the whole secret world of the fields. He showed him the **daichi** (dah-ee-chee) — great earth, the deep cool soil where every jagaimo gets its start, dark and quiet and full of good things. He showed him the morning **kiri** (kee-ree) — mist that rolled in soft and silver and tucked the whole valley under a blanket. And he showed him the **shukaku** (shoo-kah-koo) — harvest baskets, woven and round, waiting at the edge of the field for the day the potatoes were ready.
 
 Coro liked the harvest baskets best of all. They were warm and round and smelled like good clean earth, and the morning sun made them glow like little nests woven out of gold.
 

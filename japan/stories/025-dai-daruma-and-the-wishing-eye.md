@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A shrine stall selling lucky daruma dolls
 **Theme:** A wish is a promise you make to yourself
-**Japanese Spotlight:** ねがい (negai) = wish
+**Japanese Spotlight:** **negai** (neh-gah-ee) — wish
 
 ---
 
@@ -14,7 +14,7 @@ On the very tippy-top step of the old stone shrine, where the lanterns glowed li
 
 A passing pigeon applauded. Well, it flapped. Same thing.
 
-Dai Daruma worked at the shrine's lucky-doll stall, which was a wonderful job for a daruma, because Dai *was* a lucky doll — a roly-poly bun the color of a sunset, with one big painted eye open and one cheek left blank and patient, still waiting for a wish. The shelves around him were lined with dozens of round red cousins, all blank-eyed, all bursting with possible **ねがい** (negai) = wishes.
+Dai Daruma worked at the shrine's lucky-doll stall, which was a wonderful job for a daruma, because Dai *was* a lucky doll — a roly-poly bun the color of a sunset, with one big painted eye open and one cheek left blank and patient, still waiting for a wish. The shelves around him were lined with dozens of round red cousins, all blank-eyed, all bursting with possible **negai** (neh-gah-ee) — wishes.
 
 That was when he heard the smallest, sniffliest sound in the whole world.
 
@@ -26,7 +26,7 @@ It was a wisp of a friend, soft and pale, a steamed bun with rosy cheeks and a f
 
 "Well now," said Dai, in his peppiest coach-voice. "What's a fluffy little dumpling doing hiding behind the brushes? The brushes are for *painting*, not for *hiding*! Though I suppose you could hide behind them while painting, if you were very quick about it."
 
-The little bun sniffled. "I came to buy a daruma," she whispered. "For a **ねがい**. But — but I'm too scared to pick one."
+The little bun sniffled. "I came to buy a daruma," she whispered. "For a negai. But — but I'm too scared to pick one."
 
 "Scared!" boomed Dai, so loudly he tipped over and had to bounce back up. "Of a *wish*? Why, a wish is the bravest, fluffiest, most exciting thing there is!"
 
@@ -86,7 +86,7 @@ There, leaning a tiny bit crooked, sat a small daruma. He was not the shiniest. 
 
 The painting table sat beneath the biggest lantern of all, warm and golden, with a little dish of black ink and the softest brush. Dai explained how it worked, hopping with excitement at every word.
 
-"Here is the secret of the daruma," he said. "When you get him, both his eyes are blank. You make your **ねがい** — your wish — and you paint *one* eye. Just one! That open eye watches over your wish every single day. And the other eye stays blank..."
+"Here is the secret of the daruma," he said. "When you get him, both his eyes are blank. You make your negai — your wish — and you paint *one* eye. Just one! That open eye watches over your wish every single day. And the other eye stays blank..."
 
 "Until?" asked the bun, brush trembling in her hands.
 
@@ -98,7 +98,7 @@ The painting table sat beneath the biggest lantern of all, warm and golden, with
 
 The bun's face fell. "He doesn't?"
 
-"Nope!" said Dai cheerfully. "A daruma is a *promise-keeper*, not a wish-granter. When you paint that first eye, you're not asking for magic. You're making a promise to yourself — a promise that you'll *try*, even on the wobbly days. The daruma just sits on your shelf, one-eyed and patient, reminding you: *you said you'd try.* And every time you wobble, you look at him, and you bounce back up. That's the real **ねがい**." He puffed up proudly. "A wish is a promise you make to yourself."
+"Nope!" said Dai cheerfully. "A daruma is a *promise-keeper*, not a wish-granter. When you paint that first eye, you're not asking for magic. You're making a promise to yourself — a promise that you'll *try*, even on the wobbly days. The daruma just sits on your shelf, one-eyed and patient, reminding you: *you said you'd try.* And every time you wobble, you look at him, and you bounce back up. That's the real negai." He puffed up proudly. "A wish is a promise you make to yourself."
 
 ---
 

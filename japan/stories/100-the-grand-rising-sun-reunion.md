@@ -1,10 +1,10 @@
 # Story 100: The Grand Rising-Sun Reunion
 
 **Main Character:** Momo Mochi
-**Guest Characters:** None
+**Guest Characters:** The entire cast — every friend from the whole journey, including Kei the kei-truck and the Sushi-ya Express
 **Setting:** A spectacular finale festival beneath Tokyo Tower and Skytree, with fireworks over all of Japan
 **Theme:** Every good story circles back to friends and home
-**Japanese Spotlight:** おやすみ (oyasumi) = goodnight
+**Japanese Spotlight:** **oyasumi** (oh-YAH-soo-mee) — goodnight
 
 ---
 
@@ -22,11 +22,11 @@ Tonight was the night. The Grand Rising-Sun Reunion.
 
 It had taken weeks of planning, and a truly enormous amount of glitter. Every friend the whole gang had ever made — from snowy mountaintops to bubbling hot springs to a hundred glowing night markets — had been invited to one tremendous festival, held right in the heart of Tokyo, where the great lit towers stood like two friendly giants keeping watch over the city.
 
-To the west glittered **東京タワー** (Tōkyō Tawā) = Tokyo Tower, orange and tall and warm as a campfire. To the east rose Skytree, silver-blue and so high it seemed to tickle the clouds. And strung between them, across rooftops and rivers and rows of paper lanterns, were the friends.
+To the west glittered Tokyo Tower, orange and tall and warm as a campfire. To the east rose Skytree, silver-blue and so high it seemed to tickle the clouds. And strung between them, across rooftops and rivers and rows of paper lanterns, were the friends.
 
 Momo had organized the whole thing with Niko Nigiri, who stood very straight and proud beside a clipboard nearly as big as he was.
 
-"The schedule is perfect," Niko announced, adjusting his glossy salmon cape. "First, the lantern lighting. Then the hot-spring soak. Then the feast. Then — at precisely the right moment — the **花火** (hanabi) = fireworks. Let's do this neatly... or deliciously!"
+"The schedule is perfect," Niko announced, adjusting his glossy salmon cape. "First, the lantern lighting. Then the hot-spring soak. Then the feast. Then — at precisely the right moment — the **hanabi** (hah-NAH-bee) — the fireworks. Let's do this neatly... or deliciously!"
 
 "Or both!" Momo cheered, and stretched an arm clear across the plaza to squish him. "Definitely both."
 
@@ -38,15 +38,15 @@ The trouble — though it was a soft, silly, marshmallowy sort of trouble — be
 
 The plan was simple. Every friend would light one paper lantern and let it rise into the sky, until all of Tokyo glowed like a jar of fireflies. Tama Onigiri had brought extra lanterns, of course. "I packed a little extra, just in case!" she said, handing them out from a basket nearly bursting.
 
-Pock Ramune lit his lantern first — *POP!* — and it shot up beautifully, trailing happy bubbles. Tai Taiyaki swam his lantern in a loop-de-loop. Sora the Soft-Cream released hers with a dreamy sigh. "Soft swirls, slow smiles," he murmured, watching it drift.
+Pock Ramune lit his lantern first — *POP!* — and it shot up beautifully, trailing happy bubbles. Tai Taiyaki swam his lantern in a loop-de-loop. Sora the Soft-Cream released hers with a dreamy sigh. "Soft swirls, slow smiles," she murmured, watching it drift.
 
 Then Kori Kakigori arrived.
 
-Now, you must understand that Kori was made entirely of shaved ice, sunglasses perched on top, and the plaza beneath the towers was very, *very* warm with all those glowing lights. The moment Kori swept in, arms thrown wide, crying, "Sweeties! Your COOLEST friend has ARRIVED!" — she felt herself begin to do the one thing a mountain of ice must never do at a party.
+Now, you must understand that Kori was made entirely of shaved ice, sunglasses perched on top, and the plaza beneath the towers was very, *very* warm with all those glowing lights. The moment Kori swept in, arms thrown wide, crying, "Sweeties! Your COOLEST friend has ARRIVED!" — he felt himself begin to do the one thing a mountain of ice must never do at a party.
 
-She began to melt.
+He began to melt.
 
-"Oh no. Oh NO. This is a meltdown! A LITERAL meltdown!" Kori gasped, ruby syrup sliding dramatically down her side. "I'm dripping! Darlings, I'm a puddle of my former fabulous self!"
+"Oh no. Oh NO. This is a meltdown! A LITERAL meltdown!" Kori gasped, ruby syrup sliding dramatically down his side. "I'm dripping! Darlings, I'm a puddle of my former fabulous self!"
 
 The friends gathered round in a flutter. Dai Daruma wobbled forward, eyebrows fierce with encouragement. "Fall down seven, bounce up eight! We don't melt on my watch!"
 
@@ -56,9 +56,9 @@ And here is where the night threatened to tip from joyful into just-a-little-sad
 
 "Everyone!" she called. "We need somewhere cool and steamy and snug all at once. We need — "
 
-"The **温泉** (onsen) = hot spring!" finished the Dango Three all together, pivoting like a tiny carousel. Pinku, Shiro, and Cha had set up a pop-up onsen on the festival's edge, fed by gentle, drifting steam.
+"The **onsen** (OHN-sen) — the hot spring!" finished the Dango Three all together, pivoting like a tiny carousel. Pinku, Shiro, and Cha had set up a pop-up onsen on the festival's edge, fed by gentle, drifting steam.
 
-"But the onsen is *hot*," fretted Shiro. "Won't that melt her faster?"
+"But the onsen is *hot*," fretted Shiro. "Won't that melt him faster?"
 
 Cha, the clever green one, tapped his little round chin. "Not the soaking pool. The *steam*. Steam is warm but it doesn't pour. We wrap Kori in a cloud of it — cozy, but not drippy."
 
@@ -68,11 +68,11 @@ Cha, the clever green one, tapped his little round chin. "Not the soaking pool. 
 
 So the whole reunion became a rescue, and the rescue became the best part of the party.
 
-Yuki the Snow Monkey-Manju, who adored a good soak more than anyone alive, took charge of the steam. "Warm cheeks, warm heart, warm friends," he said, herding gentle wisps of onsen mist into a swirling, snug little cloud. The steam curled around Kori like a soft blanket — warm enough to be cozy, cool enough that she stopped dripping.
+Yuki the Snow Monkey-Manju, who adored a good soak more than anyone alive, took charge of the steam. "Warm cheeks, warm heart, warm friends," she said, herding gentle wisps of onsen mist into a swirling, snug little cloud. The steam curled around Kori like a soft blanket — warm enough to be cozy, cool enough that he stopped dripping.
 
-"Ahhh," Kori sighed, her sunglasses fogging up adorably. "Sweeties... I am still fabulous. Slightly smaller. But STILL fabulous."
+"Ahhh," Kori sighed, his sunglasses fogging up adorably. "Sweeties... I am still fabulous. Slightly smaller. But STILL fabulous."
 
-"Smaller and still the coolest," agreed Momo, squishing her gently. "That's just more snuggle per scoop."
+"Smaller and still the coolest," agreed Momo, squishing him gently. "That's just more snuggle per scoop."
 
 Meanwhile, Pepper-kun fired up his sizzling hot-plate at a *safe* distance, counting down like a showman. "Stir it, sizzle it, share it! Hot food this way — but keep our ice-friend in the SHADE!" Rin Ramen ladled warm broth into bowls. Coro the Korokke handed out crispy golden croquettes, a shy puff of steam rising whenever someone thanked him. "Crispy outside, soft heart inside," he mumbled, turning pink with pleasure.
 
@@ -130,7 +130,7 @@ Momo looked around at every single face: the planners and the dreamers, the boun
 
 And then Maru Matcha, calm as a still green pond, raised her tiny whisk like a tiny wand toward all the sleeping cities below.
 
-"**おやすみ** (oyasumi) = goodnight," she said, to her friends, to Tokyo, to the towers, to the fireworks-smoke and the floating lanterns and the whole gentle island curled up beneath the stars.
+"**Oyasumi** (oh-YAH-soo-mee) — goodnight," she said, to her friends, to Tokyo, to the towers, to the fireworks-smoke and the floating lanterns and the whole gentle island curled up beneath the stars.
 
 "Oyasumi," they all murmured back, one by one, until the word itself seemed to glow.
 

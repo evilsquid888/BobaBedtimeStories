@@ -4,7 +4,7 @@
 **Guest Characters:** Piper Paddlefoot
 **Setting:** A boba workshop
 **Theme:** Teamwork
-**Word Spotlight:** 波霸 (boba) = big tapioca pearls
+**Word Spotlight:** **boba** (BOH-bah) — big tapioca pearls
 
 ---
 
@@ -16,7 +16,7 @@ A tubby little penguin tumbled through the door and skidded across the floor on 
 
 "I am Piper," she huffed, scrambling upright, "Piper Paddlefoot. I flew all the way from the cold place. Well — I *fell* most of the way. Penguins don't really fly." She blinked. "Are we making the chewy bubble drink? I heard there were bubbles."
 
-"Not just any bubbles," said Boba, beaming. "**波霸** (boba) = big tapioca pearls. The biggest, chewiest, slurpiest pearls in the world — and *I'm* one of them! Today, Piper, you and me are making a fruit boba slushie. Together. As a TEAM."
+"Not just any bubbles," said Boba, beaming. "**Boba** (BOH-bah) — big tapioca pearls. The biggest, chewiest, slurpiest pearls in the world — and *I'm* one of them! Today, Piper, you and me are making a fruit boba slushie. Together. As a TEAM."
 
 Piper saluted with one flipper and immediately fell over.
 
@@ -30,7 +30,7 @@ Piper saluted with one flipper and immediately fell over.
 
 "I am *excellent* at falling over," said Piper, beaming. "Finally, a job I was born for."
 
-First things first: the pearls. Boba waved cheerfully at a big pot bubbling away on the stove with a happy *gloop, gloop, gloop*. "I've got cousins in that pot," she said proudly. A few **波霸** (boba) bobbed up and waved back. "Hi, Auntie Glug! Hi, Cousin Plop!"
+First things first: the pearls. Boba waved cheerfully at a big pot bubbling away on the stove with a happy *gloop, gloop, gloop*. "I've got cousins in that pot," she said proudly. A few boba bobbed up and waved back. "Hi, Auntie Glug! Hi, Cousin Plop!"
 
 But the pot was hot — *very* hot, the kind of hot that makes your whiskers wilt and your flippers say *no thank you*. And the stove was no place for one small pearl and one wobbly penguin.
 
@@ -74,7 +74,7 @@ Boba laughed so hard she boinged off the counter and landed in a fruit basket. "
 
 The grand assembly — Boba's very favorite part. She lined up a tall, clear cup like a stage waiting for a show.
 
-"Step one," she said, "the pearls go in FIRST. Right at the bottom, like treasure in a chest." The Grown-Up spooned the glossy **波霸** (boba) into the cup, and they slid down and painted gorgeous dark stripes up the sides.
+"Step one," she said, "the pearls go in FIRST. Right at the bottom, like treasure in a chest." The Grown-Up spooned the glossy boba into the cup, and they slid down and painted gorgeous dark stripes up the sides.
 
 "Treasure," Piper breathed, pressing her beak to the cup. "I would guard this with my life."
 
@@ -88,9 +88,9 @@ Now, here is the thing about teamwork: sometimes it gets a little *bouncy*. Boba
 
 *Shaka-shaka-shaka-SHAKA!*
 
-They shook with their whole bodies. Boba boinged. Piper flapped. The cup wiggled and the slush sloshed and the pearls did happy somersaults inside — and then Piper, who shook a *touch* too enthusiastically, let go at exactly the wrong moment. The capped cup flew up, up, UP into the air, spinning like a frosty comet.
+They shook with their whole bodies. Boba boinged. Piper flapped. The cup wiggled and the slush sloshed and the pearls did happy somersaults inside — and then Piper, who shook a *touch* too enthusiastically, let go at exactly the wrong moment. The capped cup floated up, up into the air, turning slow circles like a frosty comet.
 
-"THE PEARLS ARE FLYING!" shrieked Piper, delighted.
+"The pearls are flying," gasped Piper, delighted.
 
 Boba launched herself off the counter — *BOING!* — flippers and pearl both stretching high — and *together*, exactly together, they caught it. *Plop!* Safe in four little hands and one round pearl belly. The cup was still sealed. Not a single drop spilled.
 
@@ -100,13 +100,13 @@ They stared at each other. Then they burst out laughing so hard the Grown-Up had
 
 "Told you," said Boba. "Unstoppable."
 
-When they popped the lid at last, the fruit boba slushie was *perfect:* frosty pink-orange slush, dreamy milk ribbons, and the big dark **波霸** (boba) waiting at the bottom like a chewy treasure hunt. The Grown-Up slid in two fat straws — one for a pearl, one for a penguin.
+When they popped the lid at last, the fruit boba slushie was *perfect:* frosty pink-orange slush, dreamy milk ribbons, and the big dark boba waiting at the bottom like a chewy treasure hunt. The Grown-Up slid in two fat straws — one for a pearl, one for a penguin.
 
 "Teammates," said Boba softly, holding up the cup, "share the very first sip."
 
 So they did. *Bloop!* went a fat pearl up Piper's straw, and her sleepy eyes flew wide as moons — cold and sweet and fruity and chewy all at once. "It's a BLIZZARD," she sighed happily, "with PRIZES inside."
 
-And the two of them sat together as the workshop glowed warm and golden, passing the cup back and forth, slurping and giggling, a penguin and a pearl who had learned that the best treats — and the best days — are the ones you make with a friend.
+And the two of them sat together as the workshop glowed warm and golden, passing the cup back and forth, slurping and giggling, a penguin and a pearl who had learned that the best treats — and the best days — are the ones you make with a friend. Slowly the giggles softened into yawns, and the blender hummed itself quiet, and the last slurp went down slow and sweet. Outside, the night settled over the lane like a cozy lid on a cup, and inside, two sleepy teammates leaned together, warm and full and still.
 
 ---
 
@@ -122,6 +122,6 @@ And the two of them sat together as the workshop glowed warm and golden, passing
 Sleep now, little one, all cozy and round, like a pearl tucked snug at the bottom of the cup. May your dreams be frosty-sweet and your heart be warm, and may tomorrow bring you a friend to catch the cup whenever it goes flying. The blender is quiet, the lanterns are low, and the whole soft night is yours. Rest your sleepy head, sweet friend. Goodnight.
 
 ## AI Image Prompts
-1. *(Key scene)* A small round glossy chestnut-brown tapioca pearl character mid-bounce and a tubby little penguin with big webbed feet both reaching up to catch a flying capped cup of pink-orange fruit boba slushie spinning in the air, joyful surprise on their faces, cozy boba workshop with fruit baskets and a blender in the background, warm golden light, soft storybook illustration.
-2. *(Character portrait)* Boba, a small round glossy chestnut-brown tapioca pearl with big sparkly eyes and a wide grin wearing a tiny blueberry hat, beside Piper Paddlefoot, a tubby sleepy-eyed penguin with big webbed feet and a determined wobble, both laughing together, warm and whimsical children's-book style.
-3. *(Closing scene)* A finished tall glass of fruit boba slushie with frosty pink-orange slush, dreamy milk ribbons, and big dark pearls at the bottom, two fat straws, sitting on a counter between a happy tapioca pearl and a content little penguin sharing the drink, glowing golden workshop light and a soft starry sky, calm and dreamy bedtime illustration.
+1. **Key scene:** A small round glossy chestnut-brown tapioca pearl character mid-bounce and a tubby little penguin with big webbed feet both reaching up to catch a flying capped cup of pink-orange fruit boba slushie spinning in the air, joyful surprise on their faces, cozy boba workshop with fruit baskets and a blender in the background, warm golden light, soft storybook illustration.
+2. **Character portrait:** Boba, a small round glossy chestnut-brown tapioca pearl with big sparkly eyes and a wide grin wearing a tiny blueberry hat, beside Piper Paddlefoot, a tubby sleepy-eyed penguin with big webbed feet and a determined wobble, both laughing together, warm and whimsical children's-book style.
+3. **Closing scene:** A finished tall glass of fruit boba slushie with frosty pink-orange slush, dreamy milk ribbons, and big dark pearls at the bottom, two fat straws, sitting on a counter between a happy tapioca pearl and a content little penguin sharing the drink, glowing golden workshop light and a soft starry sky, calm and dreamy bedtime illustration.

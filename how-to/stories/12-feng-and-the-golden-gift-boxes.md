@@ -4,11 +4,11 @@
 **Guest Characters:** Bao Bao
 **Setting:** A pastry kitchen
 **Theme:** Sharing is a gift
-**Word Spotlight:** 鳳梨酥 (fenglisu) = pineapple cake
+**Word Spotlight:** **fenglisu** (fung-lee-soo) — pineapple cake
 
 ---
 
-On a snug golden evening in the cosiest pastry kitchen in all of Taiwan, a small square fellow named Feng was wearing a paper gift box on his head like a hat and pretending to be a very fancy chimney. Feng was a **鳳梨酥** (fenglisu) = pineapple cake — a plump buttery little brick with a crumbly golden crust and a sweet sticky pineapple heart hiding right in the middle, the kind of treat people in Taiwan tuck into ribboned boxes to give to someone they love. He smelled like sunshine and butter and a tiny bit of holiday.
+On a snug golden evening in the cosiest pastry kitchen in all of Taiwan, a small square fellow named Feng was wearing a paper gift box on his head like a hat and pretending to be a very fancy chimney. Feng was a **fenglisu** (fung-lee-soo) — pineapple cake — a plump buttery little brick with a crumbly golden crust and a sweet sticky pineapple heart hiding right in the middle, the kind of treat people in Taiwan tuck into ribboned boxes to give to someone they love. He smelled like sunshine and butter and a tiny bit of holiday.
 
 "Ahoy!" Feng called, and the box slid off his head and *bonk*ed onto the flour bin. "Bao Bao! I have made a decision! Tonight we make a whole tray of pineapple cakes, and we GIVE THEM ALL AWAY."
 
@@ -22,7 +22,7 @@ Bao Bao, who was a pale-gold pillowy bun with the patient, doughy smile of someo
 
 Feng clapped his crumbly little hands so hard a flake fell off his corner. He picked it up and ate it. Nobody saw. (Everybody saw.)
 
-"The first part of a **鳳梨酥** (fenglisu) = pineapple cake is the part everyone forgets about," said Bao Bao, leading him to the stove. "The *jam*. The golden heart. We make that from real pineapple, all chopped up and cooked down slow with a little sugar until it turns thick and sticky and amber, like a tiny sunset you can hold in a spoon."
+"The first part of a fenglisu is the part everyone forgets about," said Bao Bao, leading him to the stove. "The *jam*. The golden heart. We make that from real pineapple, all chopped up and cooked down slow with a little sugar until it turns thick and sticky and amber, like a tiny sunset you can hold in a spoon."
 
 On the stove sat a big heavy pot, and in it bubbled a pile of bright pineapple, hissing and steaming and smelling like a beach holiday.
 
@@ -34,7 +34,7 @@ On the stove sat a big heavy pot, and in it bubbled a pile of bright pineapple, 
 
 So Grandma Lo stirred, and stirred, and stirred, while Feng cheered from two steps back and Bao Bao explained that you couldn't rush it, no matter how much it smelled like a vacation. The pineapple slowly went from wet and splashy to thick and glossy and golden, until the spoon left a little trail when it dragged across the bottom.
 
-"That trail," said Bao Bao, "is how you know it's done. Wet and runny means *not yet*. Thick and trail-leaving means *yes, please*." Grandma Lo scooped the amber jam into a dish to cool, and the whole kitchen sighed a warm pineappley sigh.
+"That trail," said Bao Bao, "is how you know it's done. If the spoon's path fills right back in with juice, the jam wants more time. When the path stays open behind it, slow and golden, the jam is ready to be a heart." Grandma Lo scooped the amber jam into a dish to cool, and the whole kitchen sighed a warm pineappley sigh.
 
 "While that cools to warm-not-hot," said Bao Bao, "we roll the jam into little balls — but only once it's cool enough for our paws, which is *also* a thing we let a grown-up decide. No burnt fingers in my kitchen. We give gifts; we do not give ourselves owies."
 
@@ -42,11 +42,11 @@ When the jam was cool and snug, the two friends rolled it between their palms in
 
 "Now," said Bao Bao, rubbing her doughy paws together, "the **OUTSIDE**. The buttery golden crust. That's the cozy blanket the jam gets wrapped in." She pulled out a big bowl and began to gather things into it like a treasure hunt.
 
-"First, **奶油** (nǎiyóu) = butter," she said, scooping in a soft pale lump, "nice and squishy and room-warm — so it likes being mixed. And a little spoon of sugar, for sweetness." She creamed them together until they went fluffy and pale, like a little cloud that had eaten breakfast.
+"First, **naiyou** (nigh-yoh) — butter," she said, scooping in a soft pale lump, "nice and squishy and room-warm — so it likes being mixed. And a little spoon of sugar, for sweetness." She creamed them together until they went fluffy and pale, like a little cloud that had eaten breakfast.
 
-"Then, **雞蛋** (jīdàn) = egg," she went on, cracking one in — *tap-tap, plop* — and giving it a beat. Feng tried to crack one too and got most of it in the bowl and a fascinating amount on his own head. "A confetti hat!" he declared. Bao Bao laughed so hard she had to hold the bowl.
+"Then, **jidan** (jee-dahn) — egg," she went on, cracking one in — *tap-tap, plop* — and giving it a beat. Feng tried to crack one too and got most of it in the bowl and a fascinating amount on his own head. "A confetti hat!" he declared. Bao Bao laughed so hard she had to hold the bowl.
 
-"And last," she said, "the **麵粉** (miànfěn) = flour. This is the part that turns our cloud into dough." She sifted it in, soft and snowy, and folded it all together — gently, gently, no rushing — until it came together into a smooth, pale-gold, pillowy dough that smelled like the inside of the best hug in the world.
+"And last," she said, "the **mianfen** (myen-fun) — flour. This is the part that turns our cloud into dough." She sifted it in, soft and snowy, and folded it all together — gently, gently, no rushing — until it came together into a smooth, pale-gold, pillowy dough that smelled like the inside of the best hug in the world.
 
 "Good things rise with time," she said, patting it. "We let the dough rest a moment, soft and sleepy, while we get our molds ready."
 
@@ -60,7 +60,7 @@ The molds were little square frames, each stamped with a pretty pattern — flow
 
 Feng tried his own. He flattened the dough. He plopped in the jam. He folded the edges up — and one corner of jam peeked cheekily out the top like it was waving hello. "Mine leaked," he said, his crust drooping.
 
-"Mine leaked my first hundred times," said Bao Bao. "That's not a mistake, Feng — that's just a cake that's excited to share itself early. Here." She gently pinched the gap closed for him and smoothed it round. "Soft dough always gives you a second chance. Patch it up, and nobody will ever know."
+"Oh, when I was learning, my jam escaped so often that Grandma Lo called it the runaway sunshine," said Bao Bao. "That's not a mistake, Feng — that's just a cake that's excited to share itself early. Here." She gently pinched the gap closed for him and smoothed it round. "Soft dough always gives you a second chance. Patch it up, and nobody will ever know."
 
 Then came the *stamp*. Bao Bao tucked each wrapped pillow snug into a square mold and pressed it down — *squidge* — so it filled the frame and took the pretty pattern. Out popped a perfect little square cake, all neat corners and stamped swirls. Feng pressed his. Out came a slightly lopsided square with a wonderfully crisp pattern that read, faintly, *good fortune*.
 

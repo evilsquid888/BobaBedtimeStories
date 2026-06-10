@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A countryside teahouse tucked among misty hills and rustling bamboo
 **Theme:** Sharing turns a sneaky guest into a true friend
-**Japanese Spotlight:** たぬき (tanuki) = raccoon dog
+**Japanese Spotlight:** **tanuki** (tah-noo-kee) — raccoon dog
 
 ---
 
@@ -38,7 +38,7 @@ She tiptoed around the teahouse. She peeked behind the kettle. She peeked under 
 
 — and the big round shadow *giggled.*
 
-Out tumbled a **たぬき** (tanuki) = raccoon dog: a roly-poly fellow with a pot belly so round and full it bounced when he laughed, a stripey raccoon-mask face, a bushy tail like a feather duster, and the guiltiest, twinkliest grin in all the misty hills. A tiny dribble of matcha foam clung to his whiskers.
+Out tumbled a **tanuki** (tah-noo-kee) — a raccoon dog: a roly-poly fellow with a pot belly so round and full it bounced when he laughed, a stripey raccoon-mask face, a bushy tail like a feather duster, and the guiltiest, twinkliest grin in all the misty hills. A tiny dribble of matcha foam clung to his whiskers.
 
 "Hello!" said the tanuki, foam and all. "Lovely weather for tea, isn't it? Not that I would know. I haven't had any. Definitely not three cups."
 
@@ -76,7 +76,7 @@ So she did not scold. She did not chase. She did the most surprising thing of al
 
 She fetched a second cushion.
 
-"Sit, Pon," she said, patting it. "If you love my tea so much, then let us drink it the right way — together. **Dōzo** (doh-zo) = please, go ahead."
+"Sit, Pon," she said, patting it. "If you love my tea so much, then let us drink it the right way — together. **Dōzo** (doh-zo) — please, go ahead."
 
 Pon's whiskers trembled. His twinkly eyes went wide and round as mochi. "You... you're not chasing me out with a broom?"
 
@@ -100,7 +100,7 @@ His ears wiggled. His tail fluffed. His twinkly eyes filled up shiny and bright.
 
 "That," said Maru, with the smallest smile, "is the flavor of being welcome. Stolen tea always tastes a little of worry. Shared tea tastes of friends."
 
-Pon drank it down — slowly this time, savoring — and when he set the cup down he gave a tremendous, satisfied *bom-bom-bom* on his belly that rattled the teacups on the shelf. "**Oishii!** (oh-ee-shee) = delicious! Oh, Maru, that was the best cup I've ever had, and I've had — well. Several of yours. From inside a cupboard."
+Pon drank it down — slowly this time, savoring — and when he set the cup down he gave a tremendous, satisfied *bom-bom-bom* on his belly that rattled the teacups on the shelf. "**Oishii!** (oh-ee-shee) — delicious! Oh, Maru, that was the best cup I've ever had, and I've had — well. Several of yours. From inside a cupboard."
 
 "I noticed," said Maru.
 

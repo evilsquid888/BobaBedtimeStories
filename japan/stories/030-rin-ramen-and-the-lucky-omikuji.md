@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A hilltop shrine where you draw paper fortunes
 **Theme:** You make your own good fortune by being kind
-**Japanese Spotlight:** おみくじ (omikuji) = paper fortune
+**Japanese Spotlight:** **omikuji** (oh-mee-koo-jee) — paper fortune
 
 ---
 
@@ -20,13 +20,13 @@ His soft-boiled-egg cheek jiggled. His single corn freckle gleamed. A drop of br
 
 ---
 
-The shrine sat at the very top, tucked under a roof of curling tiles and a forest of swishy pine trees. A red **鳥居** (torii) = shrine gate stood at the entrance, tall and proud, and the wind through the pines sounded exactly like someone whispering, *welcome, welcome, welcome.*
+The shrine sat at the very top, tucked under a roof of curling tiles and a forest of swishy pine trees. A red **torii** (toh-ree) — shrine gate — stood at the entrance, tall and proud, and the wind through the pines sounded exactly like someone whispering, *welcome, welcome, welcome.*
 
-Rin's whole bowl of friends had come along. Momo Mochi bounced through the gate first, arms already stretching out for hugs. Tama Onigiri waddled in behind, his nori sash neat, his round shoulders carrying a little cloth bundle. The Dango Three pivoted up the steps like a tiny three-piece carousel — Pinku in front, Shiro fretting, Cha thinking.
+Rin's whole bowl of friends had come along. Momo Mochi bounced through the gate first, arms already stretching out for hugs. Tama Onigiri waddled in behind, her nori sash neat, her round shoulders carrying a little cloth bundle. The Dango Three pivoted up the steps like a tiny three-piece carousel — Pinku in front, Shiro fretting, Cha thinking.
 
 "Okay, listen up, listen up," said Pinku, the bold pink dumpling. "How does this fortune thing even work?"
 
-"You shake a box," said Cha, the clever green one, "until a numbered stick falls out. Then you find the drawer with your number, and inside is your **おみくじ** (omikuji) = paper fortune."
+"You shake a box," said Cha, the clever green one, "until a numbered stick falls out. Then you find the drawer with your number, and inside is your **omikuji** (oh-mee-koo-jee) — paper fortune."
 
 "And what if it's a BAD one?" worried Shiro, the shy white dumpling, wobbling so hard he nearly tipped his whole skewer.
 
@@ -58,11 +58,11 @@ A numbered stick tumbled out: forty-two. Granny Ume pointed a wrinkly finger tow
 
 His broth-eyes went wide. His friends crowded close, holding their breath.
 
-"What's it say, what's it say?" bounced Tako and Yaki, who had rolled in late and were, as always, talking on top of each other.
+"What's it say, what's it say?" bounced Tako and Yaki, who were, as always, talking on top of each other.
 
 Rin read aloud, slow and careful.
 
-"It says... **小吉** (shōkichi) = small blessing."
+"It says... **shōkichi** (shoh-kee-chee) — small blessing."
 
 There was a pause.
 
@@ -94,7 +94,7 @@ Rin looked down at his small, so-so, low-flame fortune. And for the first time a
 
 Now, you and I both know that a paper fortune doesn't actually *decide* your day — it just makes a polite little guess, the way the sky makes a guess about rain. Sometimes it's right. Often it isn't. And it has absolutely no idea what's about to happen, because it is, after all, only a piece of paper. But try telling that to a sad bowl of soup.
 
-Rin trudged over to the **絵馬** (ema) = wishing-plaque rack, where visitors hung little wooden tablets with their hopes painted on them. There were wishes for sunny weather and good grades and one, in very wobbly handwriting, that just said *more snacks please.* Rin read every single one and somehow felt even gloopier. He plopped down beneath the rack with a heavy *gloop,* his broth gone still and quiet.
+Rin trudged over to the rack of **ema** (eh-mah) — wishing plaques — where visitors hung little wooden tablets with their hopes painted on them. There were wishes for sunny weather and good grades and one, in very wobbly handwriting, that just said *more snacks please.* Rin read every single one and somehow felt even gloopier. He plopped down beneath the rack with a heavy *gloop,* his broth gone still and quiet.
 
 "What's the point of even *making* a wish," he sighed, "if the paper already says your day is going to be so-so?"
 
@@ -104,7 +104,7 @@ His friends gathered close, and that's when Maru Matcha said the wisest thing of
 
 Rin blinked. "I... don't follow."
 
-"Then let's *show* him," said Tama Onigiri, and he opened his little cloth bundle. Inside were small bowls — empty ones, the kind you bring on a picnic. "I packed a little extra, just in case. I always do."
+"Then let's *show* him," said Tama Onigiri, and she opened her little cloth bundle. Inside were small bowls — empty ones, the kind you bring on a picnic. "I packed a little extra, just in case. I always do."
 
 "Extra what?" sniffed Rin.
 

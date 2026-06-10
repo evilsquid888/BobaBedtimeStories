@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A summer Obon evening with floating paper lanterns on a gentle river
 **Theme:** Remembering someone keeps their warmth glowing
-**Japanese Spotlight:** ちょうちん (chouchin) = paper lantern
+**Japanese Spotlight:** **chochin** (choh-cheen) — paper lantern
 
 ---
 
@@ -18,13 +18,13 @@ The frogs blinked. One burped, which Dora chose to interpret as applause.
 
 That was the thing about Dora. He was two fluffy honey-brown pancakes hugging a smile of sweet red-bean paste, soft and round as a sleepy moon, and he simply could not keep a story to himself. Stories were his favorite filling — even better than red bean, and he loved red bean *enormously*.
 
-Tonight was **お盆** (Obon) = the summer evening when warm memories come to visit. The whole town smelled of grilled corn and river-water and something gentle Dora couldn't name. And down by the reeds, very small and very worried, three tiny lights were bobbing in circles like fireflies who'd forgotten the way home.
+Tonight was **Obon** (oh-bohn) — the summer evening when warm memories come to visit. The whole town smelled of grilled corn and river-water and something gentle Dora couldn't name. And down by the reeds, very small and very worried, three tiny lights were bobbing in circles like fireflies who'd forgotten the way home.
 
 Dora set down his book. "Now what," he murmured, "could those be?"
 
 He waddled closer, beret bouncing, and gasped a soft red-bean gasp. The lights weren't fireflies at all. They were spirits — but the friendliest, roundest, most *adorable* little spirits you ever saw. Each one was no bigger than a rice grain, glowing a soft warm gold, with tiny cheeks and tiny noses and great big hopeful eyes. They wobbled and shimmered like steam over a warm bath.
 
-"Oh, hello!" said the first, in a voice like a wind chime. "We are the lantern-lighting spirits! Tonight we float down the river. But—" The little spirit drooped. "We've lost our ちょうちん (chouchin) = paper lanterns. Without them, we can't find our way home along the water."
+"Oh, hello!" said the first, in a voice like a wind chime. "We are the lantern-lighting spirits! Tonight we float down the river. But—" The little spirit drooped. "We've lost our **chochin** (choh-cheen) — our paper lanterns. Without them, we can't find our way home along the water."
 
 Dora's whole round body went warm with worry, which for a dorayaki means going *slightly toastier*. "You've lost your lanterns? On the most important night? That," he declared, "is a problem with a *story-sized* solution. And I happen to keep a great many stories. Come — a good story is the best filling, and the best filling starts with a plan."
 
@@ -36,7 +36,7 @@ Down the bank they went, Dora leading, three golden glows trailing behind him li
 
 The first thing they found was an old paper lantern snagged in the reeds, soggy and sad and folded shut like a closed fan.
 
-"Aha!" cried Dora. "A ちょうちん in distress!"
+"Aha!" cried Dora. "A chochin in distress!"
 
 He tugged. He pulled. He braced his little pancake feet and *heaved* — and the lantern came loose all at once, sending Dora rolling backward down the bank like a runaway rice ball. He landed in the soft grass with a gentle *fwump*.
 
@@ -58,7 +58,7 @@ The three spirits looked at each other. Then they looked at *Dora* — at his ro
 
 Dora blushed all the way through to his red bean.
 
-Now, here is a thing about lantern-lighting spirits that Dora was about to learn, so lean in close, because it is the cozy heart of this whole story. A ちょうちん doesn't truly light up from a candle. It lights up from a *memory* — a warm, kind one, held gently and shared. The candle is just the candle. The memory is the *glow*.
+Now, here is a thing about lantern-lighting spirits that Dora was about to learn, so lean in close, because it is the cozy heart of this whole story. A chochin doesn't truly light up from a candle. It lights up from a *memory* — a warm, kind one, held gently and shared. The candle is just the candle. The memory is the *glow*.
 
 But the little spirits had floated so long and so far that they had forgotten their warm memories entirely. That was why their lanterns had gone out, drifted off, and lost themselves in the reeds. The spirits were lost because they couldn't remember what kept them warm.
 
@@ -76,7 +76,7 @@ The glow burst out like a tiny sunrise.
 
 Dora clapped his flaps together. "There it is! *That's* the light! Quick — into the lantern!"
 
-He found a second lantern wedged under a stone, dry and crinkly-new, and held it open. The first spirit zipped inside, glowing with grandmother-and-dumplings warmth, and — *foom!* — the whole ちょうちん lit up a gorgeous golden gold, swaying softly on the night air like a little floating moon.
+He found a second lantern wedged under a stone, dry and crinkly-new, and held it open. The first spirit zipped inside, glowing with grandmother-and-dumplings warmth, and — *foom!* — the whole chochin lit up a gorgeous golden gold, swaying softly on the night air like a little floating moon.
 
 "WONDERFUL!" Dora cheered, and did a wobbly happy spin that nearly tipped him into the river. "Next!"
 
@@ -84,7 +84,7 @@ The second spirit went next, and it was so excited it nearly fizzled itself out.
 
 "A cat named *Mochi*," Dora repeated, pressing a flap to his cheek in delight. "Now THAT is a cat with excellent taste in names."
 
-As the spirit remembered — the purring, the weight of the warm cat, the way Mochi blinked slow and trusting, the one whisker that always tickled its nose — it began to shine a soft rosy pink, brighter and brighter, until it lit its lantern bright as a sunset peach. The little ちょうちん bobbed up so cheerfully it bonked Dora gently on the beret.
+As the spirit remembered — the purring, the weight of the warm cat, the way Mochi blinked slow and trusting, the one whisker that always tickled its nose — it began to shine a soft rosy pink, brighter and brighter, until it lit its lantern bright as a sunset peach. The little chochin bobbed up so cheerfully it bonked Dora gently on the beret.
 
 "Oof — and a *boop* from the lantern," he laughed. "I'll allow that too."
 
@@ -112,7 +112,7 @@ Dora's eyes went misty. "Why," he said, voice wobbling, "that sounds *just* like
 
 Dora had to dab his eye with the corner of his beret. "Well," he said. "I'll allow it."
 
-Into the last lantern the third spirit flew, and the ちょうちん blazed up so warm and bright it made the reeds glow gold and the frogs sigh contentedly.
+Into the last lantern the third spirit flew, and the chochin blazed up so warm and bright it made the reeds glow gold and the frogs sigh contentedly.
 
 Three lanterns. Three warm spirits. One very proud, slightly teary dorayaki.
 
@@ -140,6 +140,6 @@ The frogs, this time, said nothing at all. They were already half asleep — and
 May your warm memories float gently beside you like little golden lanterns on a quiet summer river. May everyone you love stay glowing softly in your heart, lighting the kindest path through your dreams. Remember the people who read you stories, who saved you the biggest dumpling, who hummed while they cooked — and feel how warm that makes you, even now. You are someone's warm memory too, and that is a glow that never goes out. Snuggle down, breathe slow, and let the lanterns carry you off. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration, soft golden-and-indigo palette: Dora the Dorayaki — two fluffy honey-brown pancakes hugging a sweet red-bean smile, wearing a cozy beret — kneels at the edge of a gentle dark river on a summer Obon night, gently setting a glowing paper lantern (chouchin) onto the water. Three tiny round friendly spirits glow gold and rosy-pink around his head, big hopeful eyes and tiny cheeks. Reeds, sleepy frogs, fireflies, and a sky full of soft stars. Lighting is warm and dreamy, lanterns reflecting in the water like little moons.
+1. Warm whimsical storybook illustration, soft golden-and-indigo palette: Dora the Dorayaki — two fluffy honey-brown pancakes hugging a sweet red-bean smile, wearing a cozy beret — kneels at the edge of a gentle dark river on a summer Obon night, gently setting a glowing paper lantern (chochin) onto the water. Three tiny round friendly spirits glow gold and rosy-pink around his head, big hopeful eyes and tiny cheeks. Reeds, sleepy frogs, fireflies, and a sky full of soft stars. Lighting is warm and dreamy, lanterns reflecting in the water like little moons.
 2. Character portrait, kawaii cozy storybook style: Dora the Dorayaki standing proudly with an open storybook, beret tipped just so, one soft pancake-flap raised like a kindly teacher, red-bean smile warm and inviting, faint toasty golden glow around his round body. Simple soft background of summer-evening blues and gold.
 3. Closing scene, tender and peaceful: three glowing paper lanterns drifting away down a calm starlit river, soft golden trails on the water, while Dora the Dorayaki watches from the grassy bank with a misty contented smile, beret in hand, sleepy frogs dozing nearby. Mood is gentle, hopeful, and cozy — warmth glowing into the distance, not goodbye but going home.

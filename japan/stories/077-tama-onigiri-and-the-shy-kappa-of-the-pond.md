@@ -4,35 +4,35 @@
 **Guest Characters:** None
 **Setting:** A lily-padded village pond home to a gentle little kappa
 **Theme:** A small gift can melt the biggest shyness
-**Japanese Spotlight:** かっぱ (kappa) = friendly water-sprite
+**Japanese Spotlight:** **kappa** (kah-pah) — friendly water-sprite
 
 ---
 
 Tama Onigiri had packed entirely too many snacks.
 
-This was not unusual. Tama, a plump triangle of warm white rice with a crisp black **海苔** (nori) = seaweed sash and a tiny pickled-plum blush on one cheek, always packed too many snacks. He believed, deep in his cozy little rice heart, that being prepared was the second-best feeling in the world. (The first-best feeling was watching someone else enjoy what you'd packed.)
+This was not unusual. Tama, a plump triangle of warm white rice with a crisp black **nori** (noh-ree) — seaweed sash and a tiny pickled-plum blush on one cheek, always packed too many snacks. She believed, deep in her cozy little rice heart, that being prepared was the second-best feeling in the world. (The first-best feeling was watching someone else enjoy what you'd packed.)
 
-So when he wobbled down the mossy path toward the village pond that evening, his round shoulders were stacked with rice balls. Big ones. Little ones. One shaped suspiciously like a duck, because he'd gotten bored.
+So when she wobbled down the mossy path toward the village pond that evening, her round shoulders were stacked with rice balls. Big ones. Little ones. One shaped suspiciously like a duck, because she'd gotten bored.
 
-"I packed a little extra, just in case!" he announced to nobody.
+"I packed a little extra, just in case!" she announced to nobody.
 
 A frog blinked at him from a lily pad.
 
 "Oh good, an audience," said Tama, and promptly tripped over a root, sending three rice balls bouncing into the reeds — *bop, bop, bop* — like tiny startled clouds.
 
-That was when he heard the splash. A very small, very *shy* splash.
+That was when she heard the splash. A very small, very *shy* splash.
 
 ---
 
-Now, the pond was the prettiest spot in the whole village. Lily pads floated like green dinner plates, fireflies drifted up like sleepy sparks, and the water glowed a soft silver under the early moon. Tama had visited a hundred times. But he had never, not once, heard a splash quite like *that* one — a splash that seemed almost embarrassed to be a splash at all.
+Now, the pond was the prettiest spot in the whole village. Lily pads floated like green dinner plates, fireflies drifted up like sleepy sparks, and the water glowed a soft silver under the early moon. Tama had visited a hundred times. But she had never, not once, heard a splash quite like *that* one — a splash that seemed almost embarrassed to be a splash at all.
 
-He crept to the water's edge and peered in.
+She crept to the water's edge and peered in.
 
 Two enormous round eyes peered back.
 
 They belonged to a small green creature about the size of a teapot, with smooth froggy skin, a turtle-ish little shell on its back, and — strangest of all — a shallow dish-shaped dent right on the top of its head, brimming with pond water like a tiny soup bowl. The moment their eyes met, the creature gasped and ducked under, leaving only a ring of ripples and one extremely guilty bubble.
 
-"A **かっぱ** (kappa) = friendly water-sprite!" Tama whispered, delighted. He'd heard the old dumpling-grandmothers tell tales of them — gentle pond-spirits, polite to a fault, who loved cucumbers more than anything and got dreadfully flustered if you spilled the water off their heads.
+"A **kappa** (kah-pah) — a friendly water-sprite!" Tama whispered, delighted. She'd heard the old dumpling-grandmothers tell tales of them — gentle pond-spirits, polite to a fault, who loved cucumbers more than anything and got dreadfully flustered if you spilled the water off their heads.
 
 Tama waited. The kappa did not come back up.
 
@@ -44,9 +44,9 @@ A single eye rose above the surface, then vanished.
 
 Nothing.
 
-So Tama did the only thing a Tama Onigiri knows how to do when a friend is feeling shy. He sat down. He picked the very smallest, roundest rice ball off his shoulder — a perfect little snack the size of a plum — and he set it gently on a flat stone at the edge of the pond. Then he scooted back a polite distance, folded his nubby arms, and looked very interested in a particular cloud.
+So Tama did the only thing a Tama Onigiri knows how to do when a friend is feeling shy. She sat down. She picked the very smallest, roundest rice ball off her shoulder — a perfect little snack the size of a plum — and she set it gently on a flat stone at the edge of the pond. Then she scooted back a polite distance, folded her nubby arms, and looked very interested in a particular cloud.
 
-"That one's for you," he said to the cloud. "No rush."
+"That one's for you," she said to the cloud. "No rush."
 
 ---
 
@@ -60,7 +60,7 @@ A pause.
 
 A tiny, muffled, *delighted* sound came from beneath the surface. The kind of sound you make when something is more delicious than you expected and you didn't want anyone to hear you enjoy it.
 
-Tama beamed so hard his pickled-plum cheek glowed. "Good, isn't it? That one had a teeny bit of salty plum in the middle. My specialty." He did not look directly at the kappa. He had a feeling that looking directly was exactly the wrong thing to do, the way you mustn't look directly at a cat that has decided to like you.
+Tama beamed so hard her pickled-plum cheek glowed. "Good, isn't it? That one had a teeny bit of salty plum in the middle. My specialty." She did not look directly at the kappa. She had a feeling that looking directly was exactly the wrong thing to do, the way you mustn't look directly at a cat that has decided to like you.
 
 The kappa surfaced fully now, up to its shell, the little dish of water on its head wobbling but not spilling.
 
@@ -72,7 +72,7 @@ Kappy made a noise that might have been a giggle, or might have been a hiccup. W
 
 ---
 
-Over the next few evenings, Tama came back. Every time, he left one small rice ball on the flat stone, scooted away a polite distance, and admired a cloud. And every time, Kappy crept a little closer before taking it.
+Over the next few evenings, Tama came back. Every time, she left one small rice ball on the flat stone, scooted away a polite distance, and admired a cloud. And every time, Kappy crept a little closer before taking it.
 
 The first evening, Kappy took the rice ball and dove away.
 
@@ -80,15 +80,15 @@ The second evening, Kappy took the rice ball and *stayed* — sitting on the sto
 
 The third evening, Kappy was already waiting.
 
-"I saved you something," Kappy said shyly, and held out, in both damp hands, a single dewy **きゅうり** (kyuuri) = cucumber, crisp and green and clearly the most precious thing he owned. "It's — it's the best one. From my garden. I grow them under the third lily pad."
+"I saved you something," Kappy said shyly, and held out, in both damp hands, a single dewy **kyuuri** (kyoo-ree) — a cucumber, crisp and green and clearly the most precious thing he owned. "It's — it's the best one. From my garden. I grow them under the third lily pad."
 
 Tama gasped. He knew, the way everyone knows, that a kappa loves a cucumber the way fireflies love the dark — completely, helplessly, with their whole heart. To give one away was an enormous thing.
 
-"Kappy," Tama said, his voice gone all soft and wobbly, "this is the kindest snack anyone has ever handed me. And I once received a snack from a very generous octopus."
+"Kappy," Tama said, her voice gone all soft and wobbly, "this is the kindest snack anyone has ever handed me. And I once received a snack from a very generous octopus."
 
-They split the cucumber right there on the stone — half for Tama, half for Kappy — crunching together in the firefly light. It was, Tama decided, the single best bite of his entire snack-filled life. Not because the cucumber was so very fine (though it was). But because it had come from a friend who'd been too shy to even surface a week before.
+They split the cucumber right there on the stone — half for Tama, half for Kappy — crunching together in the firefly light. It was, Tama decided, the single best bite of her entire snack-filled life. Not because the cucumber was so very fine (though it was). But because it had come from a friend who'd been too shy to even surface a week before.
 
-"Squish — er, *crunch* together, stay together," Tama said, and Kappy laughed his reed-flute laugh, no hiccup this time.
+"Squish — er, *crunch* together, stay together," Tama said, borrowing Momo Mochi's favorite saying and giving it a crunch, and Kappy laughed his reed-flute laugh, no hiccup this time.
 
 ---
 
@@ -98,9 +98,9 @@ On the fourth evening, Tama arrived to find Kappy *upside down* in the reeds, pa
 
 "Hold on!" cried Tama. "I packed extra — I *always* pack extra!"
 
-And he had. Because that morning, on a whim, Tama had filled a little folded leaf with fresh pond water "just in case," the way he packed everything just in case. He'd felt silly doing it. He did not feel silly now.
+And she had. Because that morning, on a whim, Tama had filled a little folded leaf with fresh pond water "just in case," the way she packed everything just in case. She'd felt silly doing it. She did not feel silly now.
 
-He waddled down the bank as fast as round shoulders allow, knelt by his friend, and *very* carefully — the most careful he had ever been about anything — poured the cool water back into the dish on Kappy's head.
+She waddled down the bank as fast as round shoulders allow, knelt by her friend, and *very* carefully — the most careful she had ever been about anything — poured the cool water back into the dish on Kappy's head.
 
 The change was instant. Kappy popped right-side up like a cork, cheeks bright, eyes sparkling, strength fizzing back into his little green arms.
 
@@ -122,7 +122,7 @@ It turns out the biggest shyness in the world can be melted by the very smallest
 
 Tama Onigiri had known this all along, of course.
 
-It's why he always packs a little extra.
+It's why she always packs a little extra.
 
 ---
 

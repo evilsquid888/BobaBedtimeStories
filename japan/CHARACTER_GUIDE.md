@@ -111,3 +111,23 @@ New & notable characters in the Japan bedtime-story collection.
 - **Catchphrase:** "Fresh sushi, anywhere the road goes!"
 - **Appearance:** A gleaming white-and-indigo food truck with a noren curtain, a tiny rooftop fish-flag, glowing paper-lantern headlights, and a fold-down counter that beams warm light. Smells of vinegared rice and sea breeze.
 - **Voice:** Warm, welcoming, proud host on wheels. Rings a little bell to call friends over.
+
+### Anko — anpan bun (sweet red-bean bread), story 31
+- **Catchphrase:** "Mine. All mine. Every... oh, fine. Ours."
+- **Appearance:** A round glossy-brown anpan bun with a sesame-dot scowl that keeps melting into a smile, usually found defending a park bench he has claimed as his kingdom.
+- **Voice:** Gruff-but-soft bench grump who learns to share; secretly delighted by company.
+
+### Sen the Senbei — flat golden rice cracker, story 56
+- **Catchphrase:** "Small, flat, and full of surprises."
+- **Appearance:** A flat golden rice cracker wrapped in a neat seaweed band, with a shy crinkle of a smile and paint-flecked edges from the wind-chime workshop.
+- **Voice:** Quiet, self-doubting at first, with a craftsman's patience; finds his pride in small kindnesses for strangers.
+
+### Kompei the Konpeito — tiny star-shaped sugar candy, story 58
+- **Catchphrase:** "Perfect is just one of the patterns."
+- **Appearance:** A tiny spiky star of pale rainbow sugar, precise and glittery, often dusted with indigo dye from ear to pointy ear.
+- **Voice:** A reformed perfectionist — fussy, exacting, then gleefully experimental once he discovers happy accidents.
+
+## Pronoun Reference (canonical, used in every story)
+- **He/him:** Niko Nigiri, Rin Ramen, Kori Kakigori, Dora the Dorayaki, Neko-Pan, Mero Melonpan, Dai Daruma, Tai Taiyaki, Kuma the Kuri, Coro the Korokke, Pepper-kun, Pock Ramune, Anko, Sen, Kompei
+- **She/her:** Momo Mochi, Maru Matcha, Sora the Soft-Cream, Yuki the Snow Monkey-Manju, Tama Onigiri, Kei the kei-truck
+- **Note:** Dai Daruma's second eye stays UNPAINTED until story 98, "The Second Painted Eye." Stories 20, 59, and 92 honor each other on this: in 92 the painted charm is a separate tiny dashboard daruma, not Dai.

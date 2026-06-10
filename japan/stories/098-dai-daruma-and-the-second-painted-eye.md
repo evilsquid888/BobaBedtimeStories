@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A little shrine at journey's end, where wishes are completed
 **Theme:** You finish a wish by finishing the work
-**Japanese Spotlight:** やくそく (yakusoku) = promise
+**Japanese Spotlight:** **yakusoku** (yah-koo-SOH-koo) — promise
 
 ---
 
@@ -32,7 +32,7 @@ But nobody minded, because that is exactly how heroes arrive — upside down, ou
 
 A breeze tinkled the shrine bell. *Ting.* Dai wriggled free, brushed the soil off his dome, and looked up at the little shrine with its faded red gate.
 
-Long, long ago, when his journey first began, Dai had made a **やくそく** (yakusoku) = promise. A daruma always does. You whisper your bravest wish, you paint in ONE eye to show the wish has begun — and you leave the OTHER eye blank. White. Empty. A patient little reminder that the work is not done yet.
+Long, long ago, when his journey first began, Dai had made a **yakusoku** (yah-koo-SOH-koo) — a promise. A daruma always does. You whisper your bravest wish, you paint in ONE eye to show the wish has begun — and you leave the OTHER eye blank. White. Empty. A patient little reminder that the work is not done yet.
 
 "One eye open to see the road," Dai liked to say, in his coach-voice. "One eye saved for the finish line."
 

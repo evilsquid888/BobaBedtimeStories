@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** The grand grounds of Osaka Castle with its golden details
 **Theme:** Curiosity is twice as fun with a partner
-**Japanese Spotlight:** しろ (shiro) = castle
+**Japanese Spotlight:** shiro (shee-roh) — castle
 
 ---
 
@@ -18,7 +18,7 @@ The shinkansen doors went *whoosh*, and out bounced two round golden batter-ball
 
 "—a REAL—"
 
-"**しろ** (shiro) = castle!" they shouted together, bouncing in perfect unison, their wobbly little bonito-flake wave fluttering on top like a flag in a parade.
+"**Shiro** (shee-roh) — the castle!" they shouted together, bouncing in perfect unison, their wobbly little bonito-flake wave fluttering on top like a flag in a parade.
 
 And what a shiro it was. Osaka Castle rose above the trees like a stack of green-roofed pancakes, each layer smaller than the last, all of it crowned with shimmers of gold that caught the morning sun and threw it right back. The twins had to shield their eyes — which is hard when your eyes are made of takoyaki batter and your hands keep high-fiving.
 
@@ -38,7 +38,7 @@ That last part sounded, to two giggly takoyaki, exactly like a dare.
 
 ---
 
-The teacup led the group up the wide stone path. "Long ago," she began, "a great lord built this castle. Notice the **石垣** (ishigaki) = stone wall. Each rock was carried by hand. Some weigh as much as an elephant!"
+The teacup led the group up the wide stone path. "Long ago," she began, "a great lord built this castle. Notice the **ishigaki** (ee-shee-gah-kee) — the stone wall. Each rock was carried by hand. Some weigh as much as an elephant!"
 
 "An elephant made of ROCK," whispered Tako.
 
@@ -64,7 +64,7 @@ They didn't even finish. They just turned to each other, eyes enormous, and said
 
 ---
 
-Now, the twins did not run off. They were giggly, not naughty. They simply *drifted* — the way a curious smell drifts toward a warm kitchen — to the edge of the group, and then a little past the edge, and then around a corner where a sign said **天守閣** (tenshukaku) = main castle tower.
+Now, the twins did not run off. They were giggly, not naughty. They simply *drifted* — the way a curious smell drifts toward a warm kitchen — to the edge of the group, and then a little past the edge, and then around a corner where a sign said **tenshukaku** (ten-shoo-kah-koo) — the main castle tower.
 
 "Tenshukaku," read Yaki carefully.
 
@@ -108,7 +108,7 @@ Tako read the first clue carved on a stone lantern: *"Count the layers of the to
 
 "It makes PERFECT sense," said Yaki, "you just have to read it wobbly," and he tilted sideways until his whole little body leaned. Tako leaned the same way. Suddenly the words seemed friendlier. "Count the layers!" they shouted, and bounced backward to look at the tower.
 
-"One — two — three—" Their counting got tangled because they kept counting each other's counts, and ended up at "eleventy" and "a bunch" before they finally agreed on **五** (go) = five.
+"One — two — three—" Their counting got tangled because they kept counting each other's counts, and ended up at "eleventy" and "a bunch" before they finally agreed on go — five.
 
 "Five layers!" Tako wrote it in the dirt with a wiggle of his tail.
 

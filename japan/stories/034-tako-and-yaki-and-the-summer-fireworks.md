@@ -1,10 +1,10 @@
 # Story 34: Tako and Yaki and the Summer Fireworks
 
 **Main Character:** Tako & Yaki (takoyaki twins)
-**Guest Characters:** None
+**Guest Characters:** Neko-Pan, Kei the kei-truck
 **Setting:** A riverside hanabi fireworks festival on a warm summer night
 **Theme:** The best moments are even better doubled with someone you love
-**Japanese Spotlight:** はなび (hanabi) = fireworks
+**Japanese Spotlight:** hanabi (hah-NAH-bee) — fireworks
 
 ---
 
@@ -16,7 +16,7 @@ On the warmest, sparkliest night of the whole entire summer, two round golden ba
 
 They bounced up, they bounced down, and the wobbly little wave of bonito flakes on top of them flapped like a tiny flag in a windstorm. Tako and Yaki were takoyaki twins — two crispy octopus-batter balls connected by that jiggly bonito wave, drizzled with sauce zig-zags that wiggled when they giggled. And right now they were giggling so hard their sauce nearly slid off.
 
-Because tonight was **はなび** (hanabi) = fireworks. The great riverside summer show. Booms of color! Showers of sparkle! Whole skies turning into gardens of light!
+Because tonight was **hanabi** (hah-NAH-bee) — fireworks. The great riverside summer show. Booms of color! Showers of sparkle! Whole skies turning into gardens of light!
 
 "Roll us once," they shouted together, "we come as two!"
 
@@ -30,7 +30,7 @@ It had started at supper. (Most arguments do.)
 
 Tako had been munching a pickled plum and announced, very grandly, "I have found the PERFECT firework spot. The little wooden bridge. You can see the whole sky from there, and the river copies every boom upside-down in the water. Two fireworks for the price of one!"
 
-Yaki had crunched a corn kernel and announced, just as grandly, "I have found the PERFECTER spot. The grassy hill behind the **やたい** (yatai) = food stalls. You're up so high the fireworks practically pat you on the head. Plus the hill smells like grilled corn. Best smell in the universe."
+Yaki had crunched a corn kernel and announced, just as grandly, "I have found the PERFECTER spot. The grassy hill behind the **yatai** (yah-TIE) — food stalls. You're up so high the fireworks practically pat you on the head. Plus the hill smells like grilled corn. Best smell in the universe."
 
 "Bridge," said Tako.
 
@@ -62,7 +62,7 @@ Which is, of course, completely impossible when you are joined at the top by a w
 
 The new plan was a rope. (Twins are clever, just not always wise.)
 
-They borrowed a long strand of noodle from a very confused **おでん** (oden) = simmered-snacks stall, tied one end to Tako and one end to Yaki, and stretched the noodle as far as it would go — one twin straining toward the bridge, one twin straining toward the hill.
+They borrowed a long strand of noodle from a very confused **oden** (oh-DEN) — simmered-snacks — stall, tied one end to Tako and one end to Yaki, and stretched the noodle as far as it would go — one twin straining toward the bridge, one twin straining toward the hill.
 
 It stretched. And stretched. And stretched.
 

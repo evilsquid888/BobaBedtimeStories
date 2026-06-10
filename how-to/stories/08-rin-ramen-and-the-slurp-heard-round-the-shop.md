@@ -4,7 +4,7 @@
 **Guest Characters:** Tama Onigiri
 **Setting:** A cold ramen shop
 **Theme:** Layer by layer
-**Word Spotlight:** ラーメン (ramen) = ramen
+**Word Spotlight:** **ramen** (rah-men) — ramen
 
 ---
 
@@ -14,7 +14,7 @@ She was shivering.
 
 Rin was a swirl of wavy golden noodles, springy and bouncy, coiled up in a deep blue bowl like a sleeping curly cat. Normally she steamed. Normally she *sang*. But tonight the broth pot had gone quiet, the stove had gone sleepy, and poor Rin's noodles had stiffened into chilly squiggles.
 
-"I am a c-c-cold ラーメン (ramen) = ramen," she chattered, "and a cold ramen is just sad spaghetti wearing a hat."
+"I am a c-c-cold **ramen** (rah-men)," she chattered, "and a cold ramen is just sad spaghetti wearing a hat."
 
 She tried to warm herself up by thinking warm thoughts. She thought about summer. She thought about ovens. She thought about a very large, very cuddly bowl of soup, which only made things worse, because thinking about soup when you have no soup is one of the saddest hobbies a noodle can have.
 
@@ -30,25 +30,25 @@ Tama gasped so hard a grain of rice popped loose. "Then tonight, my noodly frien
 
 "The happy slurp?"
 
-"The slurp so good it can be heard round the whole shop. The slurp that turns a cold night warm. The slurp that makes a sad noodle sing." Tama's eyes went sparkly just thinking about it. "But you can't rush to the slurp, oh no. A slurp is the *roof* of the tower, and a roof needs walls, and walls need a floor. So we start at the bottom. Now — first things first. Every great ramen has a soup with a secret heart. We need **tare** (tah-reh) = a salty flavor base. Miso or soy. And since the pot is HOT and we are small and squishy..."
+"The slurp so good it can be heard round the whole shop. The slurp that turns a cold night warm. The slurp that makes a sad noodle sing." Tama's eyes went sparkly just thinking about it. "But you can't rush to the slurp, oh no. A slurp is the *roof* of the tower, and a roof needs walls, and walls need a floor. So we start at the bottom. Now — first things first. Every great ramen has a soup with a secret heart. We need **tare** (tah-reh) — a salty flavor base. Miso or soy. And since the pot is HOT and we are small and squishy..."
 
 Together they hollered the magic words: **"Ask a grown-up to help!"**
 
-A sleepy grandmother dessert — Auntie Bao, all soft and floury — shuffled out from the back with a cozy yawn. "Hot work?" she said. "That's auntie work. You two be the bosses. I'll be the muscles."
+A sleepy grandmother dessert — Auntie Mei, all soft and floury — shuffled out from the back with a cozy yawn. "Hot work?" she said. "That's auntie work. You two be the bosses. I'll be the muscles."
 
 "You don't *look* like muscles," said Tama, eyeing her squishy, pillowy arms. "You look like a marshmallow that's very good at hugs."
 
-"That," said Auntie Bao, flexing a fluffy bicep that immediately deflated, "is exactly the kind of muscle a hot stove respects." And Rin laughed so hard a noodle came uncurled, which was the first time she'd warmed up even a little all night.
+"That," said Auntie Mei, flexing a fluffy bicep that immediately deflated, "is exactly the kind of muscle a hot stove respects." And Rin laughed so hard a noodle came uncurled, which was the first time she'd warmed up even a little all night.
 
 ---
 
 **Layer one: the broth.**
 
-"Warm the broth," Tama directed, hopping like a tiny excited dumpling. Auntie Bao set the big pot on the stove and stirred the stock until it shivered and steamed. Then Rin pointed a noodly tip at a little jar.
+"Warm the broth," Tama directed, hopping like a tiny excited dumpling. Auntie Mei set the big pot on the stove and stirred the stock until it shivered and steamed. Then Rin pointed a noodly tip at a little jar.
 
-"That's the **miso** (mee-soh) = fermented soybean paste," she said, suddenly remembering things her old cook used to do. "Spoon some in! Or the soy tare, if we're feeling soy-ish."
+"That's the **miso** (mee-soh) — fermented soybean paste," she said, suddenly remembering things her old cook used to do. "Spoon some in! Or the soy tare, if we're feeling soy-ish."
 
-Auntie Bao swirled a spoonful of miso into the broth. The whole pot went from plain to *POW* — salty, deep, cozy-brown, smelling like a warm hug from the inside of a teapot. The steam rose up and tickled everyone's noses, and even the frost on the windows seemed to lean in for a sniff.
+Auntie Mei swirled a spoonful of miso into the broth. The whole pot went from plain to *POW* — salty, deep, cozy-brown, smelling like a warm hug from the inside of a teapot. The steam rose up and tickled everyone's noses, and even the frost on the windows seemed to lean in for a sniff.
 
 "That smell," Rin sighed dreamily, "is the smell of *almost-soup*. The most hopeful smell in the world."
 
@@ -60,7 +60,7 @@ Auntie Bao swirled a spoonful of miso into the broth. The whole pot went from pl
 
 "How soft is soft?" asked Rin.
 
-"Six minutes and a wink," said Auntie Bao wisely. She lowered the egg into bubbling water — *another* hot job, so the little ones cheered "Auntie!" again — and they all watched the bubbles dance. Tama counted out loud and lost his place twice because counting is hard when you're this excited.
+"Six minutes and a wink," said Auntie Mei wisely. She lowered the egg into bubbling water — *another* hot job, so the little ones cheered "Auntie!" again — and they all watched the bubbles dance. Tama counted out loud and lost his place twice because counting is hard when you're this excited.
 
 When the timer dinged, Auntie cooled the egg under cold water, and *Rin* got the honor of peeling it, because peeling is a gentle, no-grown-up-needed job. The shell came off in cheerful little flakes.
 
@@ -74,7 +74,7 @@ She sliced it (a butter knife, very dull, very safe) and *oh* — the middle ooz
 
 **Layer three: the noodles.**
 
-"Now," said Auntie Bao, "your turn, Rin."
+"Now," said Auntie Mei, "your turn, Rin."
 
 Rin gulped. "Me? Go in the *water*?"
 
@@ -84,9 +84,9 @@ So brave Rin took a noodly breath and — *floomp* — Auntie lowered her gently
 
 "I'm WARM!" she sang. "I'm WAVY! I'm WONDERFUL!"
 
-"You're *ラーメン*," said Tama proudly. "You always were. You just needed the steps."
+"You're *ramen*," said Tama proudly. "You always were. You just needed the steps."
 
-"Not too long, now," Auntie Bao reminded her, lifting Rin out before she could get mushy. "A noodle that swims too long forgets how to bounce. Quick and springy — that's the secret." And Rin gave a happy bounce just to prove she still could, splashing a little broth that Tama caught on his tongue, which he declared "an unexpected and excellent snack."
+"Not too long, now," Auntie Mei reminded her, lifting Rin out before she could get mushy. "A noodle that swims too long forgets how to bounce. Quick and springy — that's the secret." And Rin gave a happy bounce just to prove she still could, splashing a little broth that Tama caught on his tongue, which he declared "an unexpected and excellent snack."
 
 ---
 
@@ -98,7 +98,7 @@ Now came the part Tama loved most — stacking the tower.
 
 Auntie ladled the hot miso broth over Rin's warm noodles, and the bowl filled up like a little golden lake. Steam rose in happy curls and finally — *finally* — fogged up the cold window with cozy warmth.
 
-"Layer by layer," chanted Tama, placing each topping like a treasure. "Egg... ON. The pretty yolk faced up so everyone could admire it. Then **negi** (neh-gee) = chopped green onion, sprinkled like little green confetti. Then a crisp sheet of **nori** (noh-ree) = dried seaweed, tucked at the edge like a tiny black sail."
+"Layer by layer," chanted Tama, placing each topping like a treasure. "Egg... ON!" The pretty yolk faced up so everyone could admire it. "Then **negi** (neh-gee) — chopped green onion!" He sprinkled it like little green confetti. "And last, **nori** (noh-ree) — dried seaweed!" He tucked a crisp sheet at the edge like a tiny black sail.
 
 Tama paused, sniffled happily, and laid his very own spare strip of nori on top as a gift. "From one seaweed-wearer to another," he said. "Looking sharp, Rin."
 
@@ -112,7 +112,7 @@ The bowl steamed. The shop glowed. And the cold, sad ramen shop was suddenly the
 
 "What's that?" asked Rin.
 
-Tama took a deep breath. Auntie Bao leaned in. The whole shop held still.
+Tama took a deep breath. Auntie Mei leaned in. The whole shop held still.
 
 "**THE SLURP.**"
 
@@ -120,7 +120,7 @@ Tama took a deep breath. Auntie Bao leaned in. The whole shop held still.
 
 And slurp they did.
 
-Tama slurped a noodle so long it whipped the air like a happy ribbon and *boinged* him right off the rim of the bowl. He landed in a snowdrift outside, popped back in through the door, and slurped again, because some things are too delicious to be stopped by a little flying. Auntie Bao slurped with a *hummmm* of pure grandmotherly delight, the kind of hum that means *this is exactly right*. And Rin — well, Rin got to taste herself, which is a very strange and wonderful thing for a ramen to do, and she declared it the best soup in the history of soup, then declared it again to be sure, then a third time just for fun.
+Tama slurped a noodle so long it whipped the air like a happy ribbon and *boinged* him right off the rim of the bowl. He landed in a snowdrift outside, popped back in through the door, and slurped again, because some things are too delicious to be stopped by a little flying. Auntie Mei slurped with a *hummmm* of pure grandmotherly delight, the kind of hum that means *this is exactly right*. And Rin — well, Rin got to taste herself, which is a very strange and wonderful thing for a ramen to do, and she declared it the best soup in the history of soup, then declared it again to be sure, then a third time just for fun.
 
 The slurp was so loud, so joyful, so *round*, that sleepy dessert friends all down the market lifted their heads and smiled. "Somebody made ramen," they whispered, snuggling deeper into their blankets. "Somebody made it just right."
 
