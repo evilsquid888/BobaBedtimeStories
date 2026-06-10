@@ -1,129 +1,145 @@
 # Story 38: The Oxcart Festival of Colors
 
-**Main Character:** Don Café
-**Guest Characters:** Gallo, Pinto, Tamalita
+**Main Character:** Carmela the Carreta
+**Guest Characters:** Don Café, Gallo, Pinto, Tamalita
 **Setting:** A village plaza during the colorful oxcart festival
-**Theme:** Everyone's true colors make the parade beautiful.
-**Spanish Spotlight:** fiesta (fee-ES-tah) = party / festival
+**Theme:** Brave doesn't mean fearless — sometimes one kind act carries you all the way through.
+**Spanish Spotlight:** valiente (bah-lee-EN-teh) — brave
 
 ---
 
-The village plaza had gone absolutely bonkers with color, and it was barely past breakfast.
+On the night before the great Oxcart Festival of Colors, the whole village plaza glowed with lantern light, and right in the middle of it stood the most beautiful **carreta** (kah-REH-tah) — a painted oxcart — that anyone had ever seen.
 
-Don Café shuffled through the cobblestones on his tiny wooden walking stick, his little straw hat tipped against the morning sun, and everywhere he looked there were **carretas** (kah-REH-tahs) = oxcarts painted so brightly they practically hummed. Wheels swirled with yellow suns. Sides bloomed with red flowers and blue stars and green leaves curling like happy snakes. The whole plaza was getting ready for the famous **fiesta** (fee-ES-tah) = party — the Oxcart Festival of Colors, where the most beautiful painted cart in all the land would lead the grand parade.
+Her name was Carmela. Her wheels swirled with golden suns. Her sides bloomed with red hibiscus flowers and curling green vines and tiny blue stars. Her paint was so fresh it still smelled faintly of rainbows, if rainbows had a smell, which in Costa Rica they very nearly do.
 
-"Good things brew slowly," Don Café murmured, sniffing the warm air, which smelled of paint and roasted corn and just a little bit of him.
+And Carmela was absolutely, positively, wheel-wobblingly terrified.
 
-Then he heard it. A small, sad, wooden sort of sigh.
+"Tomorrow," she whispered to herself in a creaky wooden voice, "every single eye in the village will be looking at me. The mayor. The abuelas. The babies. Possibly several judgmental chickens. All of them. Looking. At. ME."
 
-It came from the very back corner of the plaza, behind a stack of paint buckets, where one lonely little oxcart stood completely, totally, painfully **plain**.
+Don Café, the wise old roasted coffee bean, came shuffling across the cobblestones on his tiny walking stick, his straw hat tipped back so he could admire her properly. "Ahh, Carmela," he said in his slow, grandfatherly rumble. "You look like a sunrise that learned to roll."
 
----
+"That's the problem," Carmela groaned. "Sunrises don't get stage fright. I used to be beige, Don Café. Do you know how peaceful beige is? Beige is what a color wears when it's tired. Nobody stares at beige. Beige gets to *nap*."
 
-Not a single dot of color. Not one swirl. Just bare brown wood, gray with dust, its wheels droopy and its handle slumped like a sad eyebrow.
+Don Café chuckled, a low warm sound like coffee beginning to brew. "Good things brew slowly, little carreta. Sleep now. Tomorrow will take care of tomorrow."
 
-"Oh dear," said the cart in a creaky little voice. "Look at me. Plain as a plank. I'll never lead any parade. I'll just sit here being beige." It sniffled a tiny splintery sniffle. "Beige isn't even a color. It's what a color wears when it's tired."
+"Mm-hm," said Carmela. "Sleep. Yes. Absolutely."
 
-A passing cart with three painted suns and a rainbow of tulips creaked smugly by. The plain cart slumped even lower. "See? Everyone's a masterpiece but me. I asked a paint bucket if it had any drips to spare and even *it* rolled away."
+She did not sleep.
 
-Don Café's old heart squeezed like a warm hand around a coffee cup.
-
-"Now, now, little **carreta**," he said gently, tapping his walking stick. "No one in this plaza is too plain for a fiesta. Why, the most beautiful things often start the most ordinary. A coffee bean is brown and lumpy too — and look what we become when somebody believes in us." He smelled, just then, wonderfully. The cart sniffed and felt a tiny bit better.
-
-"But I have no paint," the cart wept. "And the parade is at sundown!"
-
-"Ah," said Don Café, and his eyes twinkled like sunrise through fog. "Then we shall need friends. Stay right here, little one. I have an idea brewing — and you know I never rush those."
+She waited until the lanterns went out, until the plaza was quiet, until even the chickens had stopped judging. Then, very slowly, very squeakily — *creak... creak... creak...* — Carmela rolled herself out of the plaza and into the dark, whispering "shh, shh, SHH" at her own wheels, which is not how wheels work, but fear makes you try strange things.
 
 ---
 
-He found Gallo and Pinto by the corn stand, of course, because Gallo could never resist a festival.
+Hiding, it turns out, is harder when you are a large wooden cart painted every color of the rainbow.
 
-"Rise and pinto!" cheered Gallo, the plump glossy grain of fried rice, his palm hat bouncing as he hopped from foot to foot. He was speckled with golden toasty bits and tiny flecks of red pepper and green cilantro, and right now he was so excited he was practically frying himself. "Don Café! Have you SEEN the carts? Have you SEEN the colors? Mmm-mmm!" He finished with a happy little hum.
+First Carmela tried hiding behind the church. But the moon came out, and her golden suns and blue stars glowed like a tiny festival all by themselves. A passing owl hooted, "Lovely parade tonight," and flew off before she could explain.
 
-Beside him, calm as a quiet morning, sat Pinto — a small, deep-glossy black bean with a pale little stripe that looked exactly like a smile. He carried his tiny wooden spoon and gave it a thoughtful tap. "Easy, mae," he said softly. "Don Café has his thinking face on. The wise one only walks over for a reason."
+Next she tried the banana grove at the edge of town. She backed herself in among the big green leaves and held very still. Unfortunately, banana leaves are excellent at covering the *top* of a cart and absolutely terrible at covering the rest of one. She looked less like a hidden cart and more like a cart wearing a very small green hat to a very large party.
 
-"I do indeed," said Don Café. "There is a little cart with no colors at all, and a heart far bigger than its paint job. I want to help it shine. Will you lend your colors to a friend?"
+Finally, just before dawn, she found an old gray tarp behind Señora Rosa's garden and pulled it over herself with her cart-tongue.
 
-Gallo gasped so hard a flake of pepper popped right off him. "Our colors? You mean — paint the cart with US?"
+"There," she sighed. "Now I am not a carreta at all. I am a pile of nothing. Piles of nothing do not lead parades. Piles of nothing get to relax."
 
-"With the colors of everything you love most," said Don Café, nodding slowly.
+The tarp covered her sides, her flowers, her stars — everything except, unfortunately, all four of her brightly painted wheels, which stuck out at the bottom like four colorful pies peeking from under a blanket.
 
-"Better together, mae," said Pinto, and that settled it.
-
----
-
-By the time they reached the lonely cart, word had already gotten around — because Tamalita had heard, and Tamalita could not keep happy news inside.
-
-"Wrapped with love!" she sang, bustling up in her glossy green banana-leaf wrapping, tied at the top with a perfect little string bow. A puff of warm steam escaped her with every giggle, and she smelled like the holidays — like masa and cozy kitchens and family all crowded around one table. "I heard there was a cart in need of cheering, and a cart in need of cheering is my FAVORITE kind of cart!" She giggled, and a small cloud of steam drifted up like a tiny weather report.
-
-The plain cart blinked its sad wooden eyes at all of them. "You'd really help... me? But I'm so ordinary."
-
-"Pfft," said Gallo. "So is a Tuesday, and Tuesdays are tuanis."
-
-"That's not even your catchphrase," whispered Pinto.
-
-"I'm borrowing Coco's," Gallo whispered back. "It's a festival. We share."
-
-Don Café chuckled, a low warm rumble like coffee starting to boil. "Now. Each of us shall paint the cart with our truest color — the color of the thing we love most in the whole world. That way the cart won't just be painted. It will be painted with **us**."
-
-The little cart's handle lifted, just slightly, like an eyebrow daring to hope.
+Carmela did not know this. Carmela felt invisible. Carmela, at last, dozed off.
 
 ---
 
-They got to work, and oh, what a glorious, messy, giggling mess it was.
+Morning arrived in the plaza with marimba music, the smell of roasted corn — and a yelp.
 
-Gallo went first. He dipped right into a bucket of warm golden-yellow and painted a great big sunshine across the cart's side — a sunrise, of course, because Gallo loved mornings more than anything. "This is the color of waking up!" he announced, hopping back to admire it. "The color of skillets sizzling and the whole world saying *good morning*!" He got so excited he tried to paint and hop at the same time, which is exactly as wise as it sounds. He skidded in a puddle of yellow, spun in a full circle, and left tiny rice-shaped footprints in a perfect ring all around the cart. "Tah-dah!" he said. "Decorative footprints! Totally on purpose!" Nobody believed him, but nobody minded either — they were the cheeriest footprints anyone had ever seen.
+"THE CARRETA IS GONE!" hollered Gallo, the plump grain of fried rice, spinning in a circle so fast his palm hat went sideways. "Gone! Vanished! Poofed! On festival day! Pinto, this is a catastrophe with extra catastrophe on top!"
 
-Pinto rolled forward next, dipping his little spoon. He worked slowly, the way he did everything — one careful stroke, then a pause, then another — and he painted a deep, calm, glossy stripe of midnight blue along the bottom, dotted with tiny pale stars. "This is the color of the quiet," he said softly. "The hush after dinner. The peace of being beside the ones you love when the day winds down." Gallo, who had never once in his life been quiet, watched in pure amazement. "How do you make blue look so... so *calm*?" he whispered. "Patience, mae," said Pinto, not even looking up. "Same way you make a good pot of beans. You don't rush it." Then — because Pinto was sweet under all that calm — he added one tiny white stripe shaped exactly like a smile, right where the cart could see it whenever it looked down.
+Pinto, the small calm black bean, looked at the empty spot, then at the ground. "Easy, mae," he said softly, tapping his tiny wooden spoon. "Carts don't poof. Carts roll. And rolling things leave tracks." Sure enough, two wavy wheel-lines wandered out of the plaza like handwriting from someone who was very nervous.
 
-The cart wiggled. It was starting to feel something it hadn't felt in a long time. Something warm.
+"Wrapped with love — and ready to SEARCH!" sang Tamalita, the little banana-leaf tamale, bustling up with an excited puff of steam. "I'll check the church! Nervous friends love churches. They're quiet and nobody's allowed to yell."
 
-Tamalita went next, steaming with joy. She painted swirling ribbons of festive red and green, looping them around and around like garlands, like ribbons on a present, like the strings that tie a family together. "This is the color of *together*," she giggled, puffing steam. "The color of holidays and hugs and everybody home at once!" She giggled so hard at her own loop-de-loops that a big happy cloud of steam puffed out and fogged up the whole corner. For one cozy second nobody could see anything at all. "Whoops!" she squeaked from inside the fog. "Festive weather! Comes free with every tamale!" When the steam cleared, her ribbons had turned out even shinier — polished, she insisted, by pure holiday spirit.
+Don Café came last, unhurried as ever. He studied the wobbly tracks and nodded slowly. "Those," he said, "are the tracks of a cart whose courage rolled away first."
+
+The friends followed the trail. Gallo interviewed a chicken, who told him nothing, because chickens never reveal their sources. He also interviewed a goat, who ate his question, and a sleeping dog, who answered every single thing with "woof," which Gallo wrote down very seriously and Pinto very gently crossed out. Tamalita checked the banana grove and found one suspicious cart-shaped gap in the leaves. And then Pinto stopped in front of Señora Rosa's garden, where a lumpy gray tarp sat very still — with four rainbow-painted wheels sticking out of the bottom.
+
+"Hmm," said Pinto, in his gentlest voice. "Good morning, pile of nothing."
+
+"Good morning," said the pile of nothing.
+
+"Quick question, pile of nothing," said Gallo. "Do most piles of nothing have *wheels*?"
+
+A long pause came from under the tarp.
+
+"...These are decorative rocks," said the pile of nothing.
+
+"They're very beautiful rocks," said Tamalita kindly, steaming with the effort of not giggling.
+
+The tarp sagged. "Okay. It's me," came Carmela's small creaky voice. "I'm sorry. I just — everyone will be *looking* at me. What if I squeak? What if my paint isn't perfect? What if I wobble in front of the entire village and the entire village remembers it forever and they rename me Wobbly the Disappointment Cart?"
+
+Now, here is the thing about good friends. They did not give a big speech. Don Café simply lowered himself down beside her front wheel, tipped his straw hat over his eyes, and said, "It is a fine morning to sit by a friend." So they all sat. Gallo hummed. Tamalita steamed peacefully. Pinto said nothing at all, which was somehow the most comforting thing anyone said.
+
+And while they sat, two people came walking down the lane toward the plaza — Señora Rosa and her granddaughter, a small girl named Mariela, who was skipping so hard her pigtails applauded.
+
+"Abuela, hurry, HURRY!" Mariela was saying. "I don't want to miss the painted carreta! Papá says she's the most **valiente** (bah-lee-EN-teh) — the most brave — cart in all Costa Rica, because she's going to roll right down the middle of everything with her colors out where everyone can see them! I could NEVER do that. I practiced waving to her. Want to see my wave? I've been practicing since Tuesday."
+
+And Mariela demonstrated her wave, which involved her whole arm and most of her left leg, all the way down the lane and out of sight.
+
+Under the tarp, something went very quiet. Then the quiet turned into a thought, and the thought was this: *That little girl thinks I'm brave. She practiced a wave. Since Tuesday. For me.*
+
+"Don Café," said Carmela slowly, "I would like to take off this tarp now."
+
+"Mm," said Don Café, not moving an inch. "Whatever you say, decorative rocks."
 
 ---
 
-Last came Don Café.
+The parade gathered at noon, and oh, the plaza was a sea of faces — more faces than Carmela had feared in her wildest midnight maths. Her two oxen, Luna and Sol, were hitched up front, and Carmela noticed something surprising: their big soft ears were flicking nervously too.
 
-He looked at the cart — already glowing with sunrise and starlight and holiday ribbons — and he smiled the slow smile of someone who has been waiting all his long, wonderful life for exactly this moment.
+"Psst," she whispered to them. "Scared?"
 
-He dipped his walking stick in a bucket of deep, rich, roasty brown. The brown of coffee. The brown of mountain earth. The brown of plain little carts and plain little beans and all the ordinary things that turn out, in the end, to be the most important.
+"Terribly," admitted Luna.
 
-And with that brown, he painted a single curling vine that tied **all** the other colors together — winding through Gallo's sun, around Pinto's stars, over Tamalita's ribbons — so that no color stood alone. Each one held hands with the next.
+"Oh, thank goodness," said Carmela. "Let's be terrified together. It's much cozier."
 
-"There," he said gently. "Good things brew slowly. And look — you were never plain, little one. You were just waiting for your friends to arrive."
+The music began. The carts rolled forward. And for one whole block, Carmela was doing it — colors blazing, wheels turning, the crowd cheering — when the fear came rushing back like a wave. Her axles trembled. Her squeak got squeakier. Every eye, every single eye, was on her, and her wheels began to wobble, and the old thought hissed: *roll away, roll away, hide—*
 
-The cart looked down at itself.
+And that was the exact moment a mother duck stepped into the road.
 
-It gasped.
+Behind her, in a proud fuzzy line, waddled six tiny **patitos** (pah-TEE-tohs) — little ducklings — crossing the parade route at the slowest, most dignified duckling speed in recorded history.
 
-It was *beautiful*. Not because it had the most colors, or the brightest, or the fanciest swirls. But because every single color on it was a color somebody loved — a sunrise, a quiet evening, a family holiday, a friendship that ties everything together. The cart's true colors weren't paint at all.
+Carmela had perhaps two seconds to decide. The parade was watching. The judges were watching. A wobble now would be a wobble forever.
 
-They were everyone who'd shown up.
+She planted all four wheels and stopped.
+
+"Take your time, señora," Carmela said to the mother duck, loud enough that her voice only shook a little. "Parades can wait. Patitos can't."
+
+The whole plaza went silent. Then somebody's abuela said "awwwww," and then everybody's abuela said "awwwww," and then the entire village melted like ice cream at the beach. The ducklings waddled past, one of them pausing to admire its reflection in Carmela's shiny painted wheel ("He gets that from his father," sighed the mother duck), and the crowd laughed and clapped and cheered louder than they had cheered for anything all day.
+
+And Carmela discovered the most wonderful secret: being *kind* in front of everyone is a hundred times easier than being *perfect* in front of everyone. The eyes she had feared weren't waiting for her to wobble. They were just hoping to love her. Her wheels steadied. Her squeak turned into something almost like singing. She rolled the whole rest of the parade with her colors blazing — and when she passed a small girl doing an enormous full-arm, half-leg wave, Carmela dipped her flag and waved back with it, and Mariela nearly fainted from joy.
+
+Did Carmela win the grand prize? Well — the judge pinned a ribbon to her side that said *Kindest Wheels in Costa Rica*, and Carmela honestly could not have told you what the grand prize even was. She'd stopped wondering somewhere around the ducklings.
 
 ---
 
-That evening, as the sky turned the soft purple of bedtime and the plaza filled with lanterns, the festival judge walked slowly past every cart. Past the carts with golden suns. Past the carts with a hundred flowers. Past the fanciest, swirliest, show-offiest carts of all.
+That night, the festival lights dimmed one by one, like the village tucking itself in. Carmela parked at the edge of the quiet plaza under a sky absolutely spilling over with stars.
 
-And she stopped at the little cart in the corner — the one painted with love, the one whose colors all held hands.
+Gallo leaned against her front wheel, too sleepy to hum more than half a hum. Pinto leaned beside him, his little spoon resting on his tummy. Tamalita let out one last drowsy puff of steam, and Don Café settled against the back wheel with his hat over his eyes.
 
-"This one," she said warmly. "This one leads the parade."
+"Carmela," murmured Gallo, "were you scared today?"
 
-Gallo cheered so loud he nearly launched his hat into orbit. Tamalita squealed and steamed like a happy kettle. Pinto simply smiled his pale-striped smile. And Don Café tipped his straw hat and whispered, "I knew it would brew up nicely."
+"The whole time," said Carmela happily. "Right up until I wasn't."
 
-The little cart rolled to the front of the grand parade, its wheels — once droopy and sad — now turning proud and tall. Gallo hopped aboard first, then Pinto, then Tamalita, then Don Café climbing carefully with his little walking stick, and the cart carried them all without a single creak of complaint. In fact, it began to *hum* as it rolled, a happy wooden hum, as though every color on its sides were singing a different note and all of them together made one warm song.
+"That's the bravest kind of valiente there is," said Pinto softly.
 
-It led the whole fiesta through the plaza while everyone clapped and danced and the night smelled of corn and caramel and coffee. Children pointed and gasped. "Look at THAT one!" they cried. "Look at the colors that hold hands!" And the little cart, who had spent so long believing it was too plain to matter, rolled along thinking the most wonderful thought of all: *I was beautiful the whole time. I just needed someone to help me see it.*
+Don Café smiled beneath his hat. "Good things brew slowly," he said. "Even courage. *Especially* courage."
 
-"Pura vida!" called the whole village. "Pura vida!"
+And Carmela the carreta stood warm and still under the stars, her painted suns resting, her friends breathing slow against her wheels, and thought that beige had been very nice — but this was better.
 
-And the once-plain cart, leading the way, glowed brightest of all — not from the paint, but from the friends inside every color.
+"Pura vida," she creaked softly, to no one and everyone.
+
+And the stars, who had been watching her all day like everyone else, twinkled back.
 
 ---
 
 ## Goodnight Blessing
-May you remember, little one, that you were never plain — not for a single moment. May the people who love you paint your days in sunrise gold and quiet starry blue and the warm red and green of being all together. And when you feel ordinary, may you know that the most beautiful things in this world are simply the ones somebody showed up for. Rest now, with your own true colors glowing soft and warm. Pura vida, sweet dreamer. Goodnight.
+Little one, if tomorrow ever feels like too many eyes and too much noise, remember Carmela under her tarp — and remember that brave doesn't mean your wheels never wobble. It means you roll out anyway, one kind turn at a time. Most of the eyes watching you are only hoping to love you. So rest now, paint and all, parked safe beneath the stars with your people leaning close. Pura vida, my valiente little dreamer. Goodnight.
 
 ## AI Image Prompts
-1. Key scene — warm whimsical storybook illustration: a small wooden oxcart in a Costa Rican village plaza at golden hour, being lovingly painted by tiny food friends — a glossy fried-rice grain in a palm hat dabbing a yellow sun, a smiling black bean with a wooden spoon adding starry midnight blue, a banana-leaf tamale puffing steam while painting red-and-green ribbons, and a wise roasted coffee bean in a straw hat tying it all together with a brown vine. Soft sunset palette of gold, plum, and warm browns; paint splatters everywhere; cozy, joyful mood; gentle lantern light beginning to glow.
-2. Character portrait — Don Café, a dark glossy roasted coffee bean with a deep center crease, wearing a tiny straw farmer's hat and holding a miniature wooden walking stick (its tip dipped in brown paint). Gentle grandfatherly smile, twinkling kind eyes, faint steam of warmth around him, standing proudly before the freshly painted cart. Warm storybook style, soft focus, golden light.
-3. Closing scene — the once-plain oxcart, now glowing with a painted sunrise, starry blue, and holiday ribbons all linked by a curling brown vine, leading a lantern-lit parade through a purple twilight plaza. The little food friends ride happily aboard; villagers clap and dance; warm lanterns, soft bokeh, sleepy cozy bedtime palette of lavender, amber, and deep blue.
+1. Key scene — warm whimsical storybook illustration: a brightly painted Costa Rican oxcart with golden suns on her wheels and red hibiscus flowers on her sides, stopped mid-parade in a festive village plaza, gently waiting as a mother duck and six fuzzy ducklings waddle across the cobblestone road in front of her. Two soft-eyed oxen stand patiently; a delighted crowd of villagers and tiny food friends melt with joy; bunting and lanterns overhead; warm palette of marigold, coral, turquoise, and cream; cozy joyful mood.
+2. Character portrait — Carmela the carreta, a beautiful traditional painted Costa Rican oxcart with swirling golden sun-mandala wheels, red flowers, curling green vines, and tiny blue stars, with a shy, kind wooden face and a small ribbon reading a prize pinned to her side. Beside her front wheel stands Don Café, a dark glossy roasted coffee bean with a deep center crease, tiny straw farmer's hat, and miniature wooden walking stick, smiling up at her like a proud grandfather. Soft golden-hour light, warm storybook style.
+3. Closing scene — a quiet village plaza at night after the festival, lanterns dimming, a sky full of stars. The painted oxcart parked peacefully at the plaza's edge, her colors soft in the starlight, with sleepy little friends leaning against her wheels — a fried-rice grain in a palm hat, a small black bean with a wooden spoon, a banana-leaf tamale with a faint curl of steam, and a coffee bean with his hat over his eyes. Dreamy bedtime palette of deep blue, lavender, and warm amber; tender, sleepy, safe mood.

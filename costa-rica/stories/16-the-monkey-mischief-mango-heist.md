@@ -4,7 +4,7 @@
 **Guest Characters:** Slowy the Sloth
 **Setting:** A jungle treetop fruit market
 **Theme:** Playful friends can make mischief right with a clever, kind plan.
-**Spanish Spotlight:** **mono** (MOH-noh) = monkey
+**Spanish Spotlight:** **mono** (MOH-noh) — monkey
 
 ---
 
@@ -52,7 +52,7 @@ And there, peeking through the leaves, were three pairs of bright, twinkling, ve
 
 ---
 
-They were monkeys. Capuchin **monos** (MOH-noh = monkeys) — little fellows with cream-colored faces, big curious eyes, and tails that curled like question marks. And every single one of them was clutching a mango. One of them had a mango balanced on his head. One was hugging two mangoes like beloved pillows. And the third had somehow stuffed a mango into each cheek and was grinning like a furry, lumpy balloon.
+They were monkeys. Capuchin **monos** (MOH-noh) — monkeys — little fellows with cream-colored faces, big curious eyes, and tails that curled like question marks. And every single one of them was clutching a mango. One of them had a mango balanced on his head. One was hugging two mangoes like beloved pillows. And the third had somehow stuffed a mango into each cheek and was grinning like a furry, lumpy balloon.
 
 "AHA!" Tico shouted, flapping up to them in a swirl of rainbow feathers. "MANGO THIEVES! Caught beak-handed! This is BREAKING NEWS!"
 

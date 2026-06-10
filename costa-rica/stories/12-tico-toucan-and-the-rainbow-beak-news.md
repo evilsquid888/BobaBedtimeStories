@@ -4,11 +4,11 @@
 **Guest Characters:** Slowy the Sloth
 **Setting:** The treetops of a noisy, colorful jungle
 **Theme:** Sharing good news spreads joy faster than gossip.
-**Spanish Spotlight:** **pájaro** (PAH-hah-roh) = bird
+**Spanish Spotlight:** **pájaro** (PAH-hah-roh) — bird
 
 ---
 
-High in the dripping-green treetops, before the sun had even finished yawning, a glossy black **pájaro** (PAH-hah-roh) = bird burst out of a fig tree like a sneeze with feathers.
+High in the dripping-green treetops, before the sun had even finished yawning, a glossy black **pájaro** (PAH-hah-roh) — a bird — burst out of a fig tree like a sneeze with feathers.
 
 "BEAK THE NEWS!" Tico hollered, flapping so hard a beetle fell off his branch in surprise. "GOOOOD MORNING, JUNGLE! It is I, your one and only town-crier, here to tell you EVERYTHING!"
 
@@ -26,7 +26,7 @@ It was Slowy the Sloth, hanging upside-down from a mossy limb, blinking his half
 
 Slowy smiled the way sloths do — like a sunrise that's in no hurry. "Puuura... viiida..." he murmured, which is the Costa Rican way of saying *pure life* — relax, all is well, breathe. "But Tico... before the words fly... let them... ripen. Like a good mango. Like a slow... coffee."
 
-"Ripen? Slowy, by the time YOU finish a sentence, the news is YESTERDAY'S news!" Tico laughed, doing a little loop-the-loop. "No no no. News must be FRESH! News must be FAST! News must be —" he paused, struck by his own brilliance — "**chismes** (CHEES-mehs) = gossip, but the GOOD kind! The kind everyone whispers about!"
+"Ripen? Slowy, by the time YOU finish a sentence, the news is YESTERDAY'S news!" Tico laughed, doing a little loop-the-loop. "No no no. News must be FRESH! News must be FAST! News must be —" he paused, struck by his own brilliance — "**chismes** (CHEES-mehs) — gossip, but the GOOD kind! The kind everyone whispers about!"
 
 Slowy's eyebrows rose roughly one whisker per second. "There is no... good kind... of chismes, mi amigo. Only... truth that helps... or talk that... tangles."
 

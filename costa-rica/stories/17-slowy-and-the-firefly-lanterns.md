@@ -4,7 +4,7 @@
 **Guest Characters:** Tico the Toucan
 **Setting:** A pitch-cozy rainforest night glowing with fireflies
 **Theme:** Even the smallest light helps a friend find the way.
-**Spanish Spotlight:** luz (loose) = light
+**Spanish Spotlight:** **luz** (loose) — light
 
 ---
 
@@ -58,7 +58,7 @@ A tiny, trembly squeak answered from somewhere far across the tangled dark. *Squ
 
 "We hear you, *pequeña!*" Tico called. "Hold tight! But, um..." He leaned close to Slowy and whispered, "How do we get to her? I can't see my own beak. And my beak is *enormous.*"
 
-Slowy gazed up. The clouds weren't moving. The moon wasn't coming back any time soon. And there was no light — no **luz** (loose) = light — anywhere to guide a frightened baby home.
+Slowy gazed up. The clouds weren't moving. The moon wasn't coming back any time soon. And there was no light — no **luz** (loose) — anywhere to guide a frightened baby home.
 
 No big light, anyway.
 

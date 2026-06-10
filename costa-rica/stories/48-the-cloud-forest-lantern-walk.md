@@ -4,7 +4,7 @@
 **Guest Characters:** Slowy the Sloth, Tico the Toucan, Cajeta the Coconut Fudge
 **Setting:** A nighttime lantern walk through the misty cloud forest
 **Theme:** A little light shared makes the whole forest glow.
-**Spanish Spotlight:** **farol** (fah-ROHL) = lantern
+**Spanish Spotlight:** **farol** (fah-ROHL) — lantern
 
 ---
 
@@ -12,15 +12,15 @@ Now here is something you do not see every evening: a roasted coffee bean climbi
 
 Don Café paused on the misty trail, leaned on his miniature walking stick, and breathed in the cool night air. He was a dark, glossy bean with a deep crease down his middle, and he wore his little straw farmer's hat tipped just so. Around him the cloud forest sighed and dripped, and a soft gray mist curled between the trees like sleepy cotton.
 
-"Good things brew slowly," he murmured to himself, swinging his **farol** (fah-ROHL) = lantern. Its warm orange flame wobbled, lighting up exactly one mossy step ahead.
+"Slow steps, steady light," he murmured to himself, swinging his **farol** (fah-ROHL) — his lantern. Its warm orange flame wobbled, lighting up exactly one mossy step ahead.
 
-"AND HERE COMES THE COFFEE!" shrieked a voice from above. A glossy black bird with an enormous rainbow beak dropped onto a branch, scattering dewdrops. "Beak the news, everybody! The Lantern Walk has officially begun! This reporter is THRILLED!"
+"AND HERE COMES THE COFFEE!" shrieked a voice from above. A glossy black bird with an enormous rainbow beak dropped onto a branch, scattering dewdrops. "Hot off the branch, everybody! The Lantern Walk has officially begun! This reporter is THRILLED!"
 
 "Hello, Tico," said Don Café warmly. "You are loud for a mountain at midnight, hum."
 
 ---
 
-It was the night of the great **caminata** (kah-mee-NAH-tah) = walk up the **montaña** (mohn-TAH-nyah) = mountain. Every year, the friends climbed the foggy slope together, each carrying a farol, all the way to a secret clearing at the very top. Don Café had walked it more times than anyone could count, which is why the others had asked him to lead.
+It was the night of the great **caminata** (kah-mee-NAH-tah) — the big walk — up the **montaña** (mohn-TAH-nyah) — the mountain. Every year, the friends climbed the foggy slope together, each carrying a farol, all the way to a secret clearing at the very top. Don Café had walked it more times than anyone could count, which is why the others had asked him to lead.
 
 There was just one teeny problem.
 
@@ -36,7 +36,7 @@ A small round ball of golden coconut fudge came bouncing up the trail, fuzzy wit
 
 From somewhere far behind them, a long, dreamy voice floated through the fog.
 
-"Puuura... viiida... friends... I am... commming..."
+"Goood... eeevening... friends... I am... commming..."
 
 It was Slowy the Sloth, hanging from a low branch, reaching one fuzzy mossy arm toward the next branch at the speed of growing grass. His farol dangled from his toes, glowing gently. "Don't... waaait... for me... I'll catch... uuup... eventually..."
 
@@ -48,7 +48,7 @@ Slowy considered this for a very, very long time. A leaf drifted down. A snail p
 
 "Faster..." Slowy said at last, "...soundssss... stressful. I will... savorrr... the journey."
 
-"Savor the journey," Tico repeated, scribbling on an invisible notepad with his wing. "Ooh, that's good. Beak the news: local sloth invents the slowest hiking advice in history!"
+"Savor the journey," Tico repeated, scribbling on an invisible notepad with his wing. "Ooh, that's good. Headline: local sloth invents the slowest hiking advice in history!"
 
 ---
 
@@ -62,7 +62,7 @@ Tico flapped up to scout ahead and immediately flew beak-first into a tree.
 
 "BONK," said the tree.
 
-"I MEANT to do that," Tico declared from the ground. "Beak the news: trees are very rude at night."
+"I MEANT to do that," Tico declared from the ground. "For the record: trees are very rude at night."
 
 He tried again, flew with great confidence in completely the wrong direction, and bonked a *second* tree.
 
@@ -88,7 +88,7 @@ Don Café did not answer right away. He was an old bean, and old beans know that
 
 He sat down on a velvety stone, took off his straw hat, and listened to the forest. *Drip.* A leaf. *Drip.* Another. And then, faint and far away, he heard it: a soft chorus of little snores.
 
-The sleepy animals of the cloud forest. Hidden all around them in the mist. A nest of dozing hummingbirds. A bundle of yawning frogs. A tree-ful of tucked-in bats hanging like cozy umbrellas. Even a shy little **danta** (DAHN-tah) = tapir, snoozing in the ferns with its funny rubbery nose twitching.
+The sleepy animals of the cloud forest. Hidden all around them in the mist. A nest of dozing hummingbirds. A bundle of yawning frogs. A tree-ful of tucked-in bats hanging like cozy umbrellas. Even a shy little **danta** (DAHN-tah) — a tapir — snoozing in the ferns with its funny rubbery nose twitching.
 
 They were everywhere — and all of them, Don Café realized, were a little bit lost in the fog too. Waiting. Sleepy. Hoping for somewhere warm and bright to gather.
 
@@ -130,7 +130,7 @@ So they began to walk — slowly, of course, at Slowy's pace, which gave everyon
 
 As their joined glow drifted up the trail, it brushed the sleeping animals one by one. And here is the loveliest part: not one of them was frightened. The light was too warm for that. The hummingbirds blinked awake and floated up like tiny living sparks. The frogs hopped out singing a bubbly bedtime tune. The bats unfolded into the air like little waving handkerchiefs. The shy danta lifted her rubbery nose, snuffled happily, and padded along behind.
 
-"BEAK THE NEWS!" Tico crowed, bursting with joy. "The whole forest is following us! This is the biggest story of my LIFE! Possibly the biggest beak of my life too, but that's a different headline!"
+"STOP THE PRESSES!" Tico crowed, bursting with joy. "The whole forest is following us! This is the biggest story of my LIFE! Possibly the biggest beak of my life too, but that's a different headline!"
 
 Cajeta bounced in delighted loops, her farol swinging. "We made a parade! A sleepy, glowy, snuggly PARADE!"
 

@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A bustling town square on the hottest afternoon of the year
 **Theme:** Keeping cool is easier when you share the chill with friends.
-**Spanish Spotlight:** **hola** (OH-lah) = hello
+**Spanish Spotlight:** **hola** (OH-lah) — hello
 
 ---
 
@@ -14,7 +14,7 @@ Everybody in town was *wilting*.
 
 That is — everybody except a tall, fluffy mountain of rainbow shaved ice riding into the square on a squeaky wooden cart, dusted with powdered milk like fresh snow and wearing tiny round sunglasses.
 
-"HOLA, everybody!" he hollered, flinging up two icy arms. **Hola** (OH-lah) = hello. "It's Coco the Granizado, and woooo, it is *spicy* out here today! Stay frosty, stay sweet!"
+"HOLA, everybody!" he hollered, flinging up two icy arms. **Hola** (OH-lah) — that's hello. "It's Coco the Granizado, and woooo, it is *spicy* out here today! Stay frosty, stay sweet!"
 
 Nobody answered. They were too busy melting.
 

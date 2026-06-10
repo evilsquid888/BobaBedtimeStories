@@ -4,11 +4,11 @@
 **Guest Characters:** Coco the Granizado, Tato the Patacon, Lala the Tres Leches
 **Setting:** A pop-up beach soda made of driftwood and shells
 **Theme:** You can build a little bit of home anywhere with friends.
-**Spanish Spotlight:** arena (ah-REH-nah) = sand
+**Spanish Spotlight:** **arena** (ah-REH-nah) — sand
 
 ---
 
-The very best mornings, Gallo always said, smelled like the sea — and also, just a little, like a skillet. So when the sun came peeking over the **playa** (PLAH-yah) = beach, painting the waves gold, Gallo bounced up so fast his little woven palm hat nearly flew off.
+The very best mornings, Gallo always said, smelled like the sea — and also, just a little, like a skillet. So when the sun came peeking over the **playa** (PLAH-yah) — the beach — painting the waves gold, Gallo bounced up so fast his little woven palm hat nearly flew off.
 
 "Rise and pinto!" he hummed, shaking salt off his speckled white body. "Pinto, wake up, mae — today we open the soda!"
 
@@ -22,9 +22,9 @@ Pinto looked at the wide, empty, windy stretch of shore. He looked at the gulls.
 
 ---
 
-Now, a **soda** (SOH-dah) = small Costa Rican eatery is usually a tidy little kitchen with a few stools and the smell of something delicious. Gallo and Pinto didn't have a building. They had a beach. So they did what clever friends do — they used what the sea gave them.
+Now, a **soda** (SOH-dah) — a small Costa Rican eatery — is usually a tidy little kitchen with a few stools and the smell of something delicious. Gallo and Pinto didn't have a building. They had a beach. So they did what clever friends do — they used what the sea gave them.
 
-They gathered driftwood, smooth and silver, and leaned it together into a snug little stand. They found shells for bowls — big curly ones for soup, small flat ones for spoons. Pinto hung a banana-leaf roof so the sun wouldn't burn anybody's breakfast. Gallo painted a sign on a flat piece of bark: **SODA LA ARENA** — *Sand Soda* — because the whole place sat right in the soft golden **arena** (ah-REH-nah) = sand.
+They gathered driftwood, smooth and silver, and leaned it together into a snug little stand. They found shells for bowls — big curly ones for soup, small flat ones for spoons. Pinto hung a banana-leaf roof so the sun wouldn't burn anybody's breakfast. Gallo painted a sign on a flat piece of bark: **SODA LA ARENA** — *Sand Soda* — because the whole place sat right in the soft golden **arena** (ah-REH-nah) — the sand.
 
 "It's beautiful," Pinto breathed.
 

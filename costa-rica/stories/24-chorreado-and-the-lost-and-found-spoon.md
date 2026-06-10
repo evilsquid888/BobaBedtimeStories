@@ -4,13 +4,13 @@
 **Guest Characters:** None
 **Setting:** A misty Monteverde cloud-forest kitchen at first light, where the morning natilla and breakfast things live on a wooden shelf
 **Theme:** Asking for help is a brave thing, not a weak one.
-**Spanish Spotlight:** ayuda (ah-YOO-dah) = help
+**Spanish Spotlight:** **ayuda** (ah-YOO-dah) — help
 
 ---
 
 High in the Monteverde cloud forest, where the fog comes to bed down between the trees like a sleepy white cat, there lived a corn pancake named Chorreado who believed — with his whole golden, slightly lumpy heart — that he could do absolutely everything by himself.
 
-And he was, you should know, a very fine-looking pancake. Round as the moon and twice as cheerful, he was the warm yellow of freshly ground **maíz** (mah-EES) = corn, freckled all over with little toasty-brown spots where the griddle had kissed him. His edges were lacy and crisp. His middle was soft as a pillow. When he sat steaming on the wooden shelf at first light, he smelled like a sunrise that had decided to become breakfast.
+And he was, you should know, a very fine-looking pancake. Round as the moon and twice as cheerful, he was the warm yellow of freshly ground **maíz** (mah-EES) — corn — freckled all over with little toasty-brown spots where the griddle had kissed him. His edges were lacy and crisp. His middle was soft as a pillow. When he sat steaming on the wooden shelf at first light, he smelled like a sunrise that had decided to become breakfast.
 
 "Good morning, shelf!" he announced, puffing himself up. "No need to fuss over me. I am the most independent breakfast in this entire kitchen."
 
@@ -42,7 +42,7 @@ He landed *splat*, flat on his face, exactly the same side up as before.
 
 "Ah," said Chorreado, into the wood, in a slightly squashed voice. "A practice attempt. A warm-up roll. The real flip — the *masterful* flip — comes next."
 
-From her warm clay home beside him, the pot of **natilla** (nah-TEE-yah) = sour cream wobbled gently. "Chorreado, dear, you have a little shelf-dust on your nose."
+From her warm clay home beside him, the pot of **natilla** (nah-TEE-yah) — sour cream — wobbled gently. "Chorreado, dear, you have a little shelf-dust on your nose."
 
 "I meant to do that," said Chorreado, who had not meant to do that.
 
@@ -100,11 +100,11 @@ His doughy top wobbled. His crispy edges drooped. He thought about all the morni
 
 The cloud-forest mouse crept closer on its tiny pink feet. "I ask for help all the time," it said. "That's how I know where the good crumbs are."
 
-From the back of the shelf came a deep, warm, rumbly voice — the voice of Don Café, the old enamel coffee pot, who had been quietly perking and listening this whole while. Steam curled from his spout like a wise eyebrow.
+From the back of the shelf came a deep, warm, rumbly voice — the voice of Don Café, the wise old roasted coffee bean in his tiny straw hat, who had been quietly sipping from a tiny cup of coffee and listening this whole while. Steam curled up from his little cup like a wise eyebrow.
 
-"Pequeño," rumbled Don Café — that means *little one* — "in all my years on this shelf, I have learned one thing about the bravest cooks. They are not the ones who never need a hand." He gave a warm, gurgling chuckle. "They are the ones who are brave enough to *ask* for one."
+"Pequeño," rumbled Don Café — that means *little one* — "in all my years on this shelf, I have learned one thing about the bravest cooks. They are not the ones who never need a hand." He gave a warm, rumbling chuckle. "They are the ones who are brave enough to *ask* for one."
 
-Chorreado looked at the natilla pot. He looked at the wide-eyed mouse. He looked at old steaming Don Café.
+Chorreado looked at the natilla pot. He looked at the wide-eyed mouse. He looked at old Don Café and his little steaming cup.
 
 He took the biggest breath a small corn pancake has ever taken.
 
@@ -112,7 +112,7 @@ And in a tiny, wobbling, golden little voice, he said the bravest word he had ev
 
 "...*ayuda*?"
 
-*Ayuda* (ah-YOO-dah) = help.
+*Ayuda* (ah-YOO-dah) — help.
 
 Well.
 
@@ -130,7 +130,7 @@ It sniffed. It dug. It vanished entirely under a sack, with only its skinny tail
 
 And out it dragged — by both paws, walking backward, very pleased — the lost wooden spoon, worn smooth as a river stone, dusty but absolutely whole.
 
-"Now then," boomed Don Café. He gave a great gurgle and a *whoosh* of steam, and the steam nudged the spoon up, up, up onto the shelf. The natilla pot caught it with a wobble. The mouse hopped underneath to give it a lift. And together — *together*, all of them, the pot and the mouse and the steam-breathing coffee pot — they slid the trusty spoon beneath Chorreado's golden edge.
+"Now then," boomed Don Café. He took a deep breath over his tiny cup and blew a great *whoosh* of steam, and the steam nudged the spoon up, up, up onto the shelf. The natilla pot caught it with a wobble. The mouse hopped underneath to give it a lift. And together — *together*, all of them, the pot and the mouse and the steam-blowing old coffee bean — they slid the trusty spoon beneath Chorreado's golden edge.
 
 "Ready?" said the natilla pot.
 
@@ -150,7 +150,7 @@ He felt warm clear to his middle. And it wasn't only the griddle. It was somethi
 
 "Gracias," he said, looking round at them all — the natilla pot, the mouse with its dusty whiskers, kind old Don Café. *Thank you.* "I thought asking would make me smaller. But I feel..." He searched for it. "I feel *bigger*. Like I belong to the whole shelf now, not just to myself."
 
-"That," said Don Café, with a satisfied gurgle, "is exactly how it works, pequeño. Needing each other isn't the opposite of being special." He sent up one last curl of steam. "It's how a shelf becomes a *family*."
+"That," said Don Café, with a satisfied chuckle, "is exactly how it works, pequeño. Needing each other isn't the opposite of being special." He raised his tiny cup, sending up one last curl of steam. "It's how a shelf becomes a *family*."
 
 The cloud forest brightened. The fog drifted off to nap among the ferns. And on the wooden shelf, a golden little pancake — flipped, finished, and never again too proud to squeak *ayuda* — glowed like a small warm sun, ready at last for the most joyful ending a breakfast can hope for: being gobbled up, every freckled crumb, by someone very, very hungry and very, very glad.
 
@@ -164,8 +164,8 @@ Goodnight.
 
 ## AI Image Prompts
 
-1. **Key scene:** A cozy misty cloud-forest kitchen at first light, soft golden light and drifting fog. A small round corn pancake with lacy crisp edges and toasty freckles being gently flipped mid-air above a griddle, lifted together by a smiling clay pot of sour cream, a tiny big-eared grey mouse, and a steaming enamel coffee pot whose curl of steam nudges a worn wooden spoon. Warm, joyful, storybook illustration style.
+1. **Key scene:** A cozy misty cloud-forest kitchen at first light, soft golden light and drifting fog. A small round corn pancake with lacy crisp edges and toasty freckles being gently flipped mid-air above a griddle, lifted together by a smiling clay pot of sour cream, a tiny big-eared grey mouse, and a wise old roasted coffee bean in a tiny straw hat whose curl of steam, blown from his tiny coffee cup, nudges a worn wooden spoon. Warm, joyful, storybook illustration style.
 
 2. **Character portrait:** Chorreado the Corn Pancake — a plump, round, moon-shaped corn pancake the warm yellow of fresh ground maize, with crispy lacy golden edges, a soft pillowy middle, and toasty-brown freckle spots from the griddle. Big cheerful expressive eyes, a proud little grin softening into a shy smile. Soft cloud-forest mist behind him. Gentle, cute children's-book art.
 
-3. **Closing scene:** The same wooden shelf, now bathed in bright morning light. A perfectly golden, freckled corn pancake glowing like a tiny sun, surrounded by his new friends — the sour cream pot, the contented mouse with dusty whiskers, and old Don Café the steaming coffee pot. Fog drifting away among ferns and a tiny green hummingbird outside the window. Warm, sleepy, belonging-filled storybook illustration.
+3. **Closing scene:** The same wooden shelf, now bathed in bright morning light. A perfectly golden, freckled corn pancake glowing like a tiny sun, surrounded by his new friends — the sour cream pot, the contented mouse with dusty whiskers, and old Don Café the roasted coffee bean in his tiny straw hat, holding a tiny steaming cup of coffee. Fog drifting away among ferns and a tiny green hummingbird outside the window. Warm, sleepy, belonging-filled storybook illustration.

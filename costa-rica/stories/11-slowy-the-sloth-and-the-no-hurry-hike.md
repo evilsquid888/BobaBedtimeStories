@@ -4,7 +4,7 @@
 **Guest Characters:** Cajeta the Coconut Fudge
 **Setting:** A lush green rainforest canopy dripping with vines
 **Theme:** Slowing down lets you notice the most beautiful things.
-**Spanish Spotlight:** **selva** (SEL-vah) = jungle
+**Spanish Spotlight:** **selva** (SEL-vah) — jungle
 
 ---
 
@@ -24,7 +24,7 @@ And that is exactly when a small golden ball came rocketing through the trees li
 
 Cajeta was a tiny ball of coconut fudge, chewy and golden, rolled in toasted coconut shreds so she looked deliciously fuzzy. She bounced when she was excited, and Cajeta was *always* excited. She bounced when she was happy. She bounced when she was nervous. She bounced when she was thinking, which made her thoughts come out in little hops: *what's-that — and-that — and-OOH-that!* Once she bounced so hard during a hiccup that she landed in a toucan's breakfast. The toucan had been *very* surprised. Cajeta had simply waved and bounced right back out, leaving a trail of coconut crumbs and a confused, hungry bird.
 
-"Are you the famous Slowy?" Cajeta zipped in a circle around his head. "Everyone says you know the **selva** (SEL-vah) = jungle better than anybody! I want to see EVERYTHING. The waterfall! The flowers! The secret heartbeat of the jungle! Let's GO! Right now! This second! Hurry-hurry-hurry!"
+"Are you the famous Slowy?" Cajeta zipped in a circle around his head. "Everyone says you know the **selva** (SEL-vah) — the jungle — better than anybody! I want to see EVERYTHING. The waterfall! The flowers! The secret heartbeat of the jungle! Let's GO! Right now! This second! Hurry-hurry-hurry!"
 
 Slowy turned his head to look at her. This took a while.
 

@@ -4,7 +4,7 @@
 **Guest Characters:** Coco the Granizado
 **Setting:** A breezy Caribbean-side beach town with calypso music
 **Theme:** Be proud of where you come from and dance your own way.
-**Spanish Spotlight:** baile (BY-leh) = dance
+**Spanish Spotlight:** **baile** (BY-leh) — dance
 
 ---
 
@@ -12,7 +12,7 @@ Cajeta the coconut-fudge ball bounced off the bus and landed face-first in a pil
 
 "PWAH!" she sputtered, popping up like a tiny round cannonball. Sand stuck all over her fuzzy toasted-coconut shreds, so now she looked less like a fudge ball and more like a confused little hedgehog. "Sweet and round, watch me bound!"
 
-She had bounced clear across the country, from the cool green mountains all the way to the **playa** (PLAH-yah) = beach on the Caribbean side, where the air smelled of salt and ginger and something deliciously sweet. Palm trees leaned over like they were trying to hear a secret. And somewhere, drifting on the breeze, was the bounciest, jiggliest, happiest music she had ever heard.
+She had bounced clear across the country, from the cool green mountains all the way to the **playa** (PLAH-yah) — the beach — on the Caribbean side, where the air smelled of salt and ginger and something deliciously sweet. Palm trees leaned over like they were trying to hear a secret. And somewhere, drifting on the breeze, was the bounciest, jiggliest, happiest music she had ever heard.
 
 *Plinkity-plink, boom-boom, plinkity-plink!*
 
@@ -26,7 +26,7 @@ A tall, frosty cone of rainbow shaved ice came skating down the boardwalk on a w
 
 "Coco!" Cajeta bounced three times, very fast, because that is what she did when she was excited, and she was almost always excited. "Where ARE we? What's that MUSIC? Why does it make my insides feel like jelly? Are we late? Are we early? Is there food? I'm food, but is there OTHER food?"
 
-"Whoa, whoa, slow your sprinkles." Coco laughed, lowering his sunglasses. "This is the Caribbean coast, the sweetest stretch of sand in all of Costa Rica. And THAT—" he pointed his frosty arm toward the music "—is **calipso** (cah-LEEP-soh) = calypso, the song of this whole town. Tonight's the big beach **baile** (BY-leh) = dance. Everybody's coming. Stay frosty, stay sweet!"
+"Whoa, whoa, slow your sprinkles." Coco laughed, lowering his sunglasses. "This is the Caribbean coast, the sweetest stretch of sand in all of Costa Rica. And THAT—" he pointed his frosty arm toward the music "—is **calipso** (cah-LEEP-soh) — calypso, the song of this whole town. Tonight's the big beach **baile** (BY-leh) — the big dance. Everybody's coming. Stay frosty, stay sweet!"
 
 "A baile!" Cajeta's eyes went enormous. "I LOVE bailes! I dance ALL the time! Watch—"
 

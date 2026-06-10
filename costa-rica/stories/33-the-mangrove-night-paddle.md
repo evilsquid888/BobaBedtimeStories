@@ -4,7 +4,7 @@
 **Guest Characters:** Tato the Patacon, Estrella the Sea Turtle
 **Setting:** A glowing bioluminescent mangrove channel at night
 **Theme:** Even in the dark, magic is all around if you look gently.
-**Spanish Spotlight:** **agua** (AH-gwah) = water
+**Spanish Spotlight:** **agua** (AH-gwah) — water
 
 ---
 
@@ -28,7 +28,7 @@ The boat tipped, righted itself, and there sat **Tato the Patacon**, flat and ro
 
 A slow ripple moved across the channel, and up rose the largest, gentlest shape of all: **Estrella the Sea Turtle**, her mossy-green star-patterned shell glistening like a hill that had decided to go swimming. Her ancient eyes were kind and crinkly at the corners.
 
-"Hola, little frost cone," Estrella said, her voice rolling in like a soft tide. "The mangroves only show their best secret at night. Trust me. Climb in, both of you, and let us drift into the **agua** (AH-gwah) = water."
+"Hola, little frost cone," Estrella said, her voice rolling in like a soft tide. "The mangroves only show their best secret at night. Trust me. Climb in, both of you, and let us drift into the **agua** (AH-gwah) — the water."
 
 "The water?" squeaked Coco. "At *night*? In the *dark*? Estrella, with the greatest respect, the water is where the dark KEEPS its extra dark."
 

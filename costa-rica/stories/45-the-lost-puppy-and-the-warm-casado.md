@@ -4,7 +4,7 @@
 **Guest Characters:** Gallo, Tato the Patacon, Lala the Tres Leches
 **Setting:** A rainy town street where a stray puppy shivers
 **Theme:** Sharing a warm plate is how we make a stranger family.
-**Spanish Spotlight:** **perro** (PEH-rroh) = dog
+**Spanish Spotlight:** **perro** (PEH-rroh) — dog
 
 ---
 
@@ -38,7 +38,7 @@ Pinto looked at the trembling puppy. He looked at the warm golden glow of the *s
 
 ---
 
-Now, you should know that a *soda* in Costa Rica is not a fizzy drink. It is a tiny, cozy little restaurant — the kind with three tables, a humming fan, and a cook who knows your grandmother. And the very best thing a *soda* can make is a **casado** (kah-SAH-doh) = "a married plate," because all the foods sit together so happily it's like a little wedding on your dish.
+Now, you should know that a *soda* in Costa Rica is not a fizzy drink. It is a tiny, cozy little restaurant — the kind with three tables, a humming fan, and a cook who knows your grandmother. And the very best thing a *soda* can make is a **casado** (kah-SAH-doh) — "a married plate" — because all the foods sit together so happily it's like a little wedding on your dish.
 
 Rice. Beans. Plantain. Salad. Sometimes an egg, looking very pleased with itself.
 

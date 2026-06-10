@@ -4,7 +4,7 @@
 **Guest Characters:** Lala the Tres Leches
 **Setting:** A family birthday party on a breezy patio
 **Theme:** Even the wobbliest among us can stand tall when friends cheer.
-**Spanish Spotlight:** **mae** (MY-eh) = buddy / dude
+**Spanish Spotlight:** **mae** (MY-eh) — buddy, or dude
 
 ---
 

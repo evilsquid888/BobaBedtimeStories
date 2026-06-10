@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A festive town-square fiesta with a marimba band, food carts, and string lights
 **Theme:** The quiet helpers behind the fun deserve a thank-you too.
-**Spanish Spotlight:** gracias (GRAH-see-ahs) = thank you
+**Spanish Spotlight:** **gracias** (GRAH-see-ahs) — thank you
 
 ---
 
@@ -14,7 +14,7 @@ Well — not *dancing*, exactly.
 
 Agua Dulce was steaming gently in her tall cup at the edge of the square, the color of melted caramel, with little ribbons of heat curling up like sleepy cinnamon. She smelled of boiled sugarcane and a wink of lime, and she was so warm that just standing near her made your toes feel hugged.
 
-"Oh, what a wonderful **fiesta** (fee-ESS-tah) = party!" she sighed happily. "I'm going to help make it the coziest one ever."
+"Oh, what a wonderful **fiesta** (fee-ESS-tah) — what a party!" she sighed happily. "I'm going to help make it the coziest one ever."
 
 And nobody — not one single dancer — noticed her say it.
 
@@ -24,9 +24,9 @@ That was perfectly fine with Agua Dulce. She was a quiet helper, and quiet helpe
 
 So she got to work.
 
-A little girl named Mariposa the Moth came fluttering up, her wings drooping, her tiny feet sore from dancing the *cumbia* eleven times in a row. "My feet," she moaned, flopping onto a bench. "They feel like two angry tamales."
+A little moth named Mariposa came fluttering up, her wings drooping, her tiny feet sore from dancing the *cumbia* eleven times in a row. "My feet," she moaned, flopping onto a bench. "They feel like two angry tamales."
 
-"Here, **mi amor** (mee ah-MOR) = my dear," said Agua Dulce, and she nudged her warm cup close so a curl of sweet steam drifted right over Mariposa's poor tired toes. The warmth soaked in like a tiny hot blanket. In one minute, Mariposa wiggled. In two minutes, she giggled. In three minutes she leaped up and zoomed back into the dance, shouting, "MY FEET ARE BORN AGAIN!"
+"Here, **mi amor** (mee ah-MOR) — my dear," said Agua Dulce, and she nudged her warm cup close so a curl of sweet steam drifted right over Mariposa's poor tired toes. The warmth soaked in like a tiny hot blanket. In one minute, Mariposa wiggled. In two minutes, she giggled. In three minutes she leaped up and zoomed back into the dance, shouting, "MY FEET ARE BORN AGAIN!"
 
 She did not say thank you. She didn't even look back.
 
@@ -82,7 +82,7 @@ Out of the shadows shuffled an old, wise, dark-roasted coffee bean named Don Caf
 
 He tapped his walking stick on the cobblestones. *Tok. Tok. Tok.* The whole droopy square looked up.
 
-"**Amigos** (ah-MEE-gohs) = friends," said Don Café, in a voice as warm and slow as a sunrise. "You are tired. You are cold. You are thirsty. And do you know *why* you danced so long, and played so bright, and laughed so loud all night?"
+"**Amigos** (ah-MEE-gohs) — friends," said Don Café, in a voice as warm and slow as a sunrise. "You are tired. You are cold. You are thirsty. And do you know *why* you danced so long, and played so bright, and laughed so loud all night?"
 
 Nobody knew. They just blinked.
 
@@ -104,7 +104,7 @@ Then Mariposa the Moth gasped, her wings fluttering with shame. "My *feet*," she
 
 And then the most wonderful thing happened. The whole square — every dancer, every cart, the entire marimba band — turned toward the little corner, took the biggest breath in the history of breaths, and shouted together, so loud the mango tree shook:
 
-"**¡GRACIAS** (GRAH-see-ahs) = thank you, AGUA DULCE!"
+"**¡GRACIAS** (GRAH-see-ahs) — thank you, AGUA DULCE!"
 
 *Gracias* for the warm toes. *Gracias* for the sweet jug. *Gracias* for every cozy, quiet, unnoticed thing.
 

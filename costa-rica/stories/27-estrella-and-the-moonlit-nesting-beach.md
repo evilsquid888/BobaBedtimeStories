@@ -4,7 +4,7 @@
 **Guest Characters:** Coco the Granizado
 **Setting:** Tortuguero's dark, gentle nesting beach under a full moon
 **Theme:** We all find our way home by following a little light.
-**Spanish Spotlight:** tortuga (tor-TOO-gah) = turtle
+**Spanish Spotlight:** **tortuga** (tor-TOO-gah) — turtle
 
 ---
 
@@ -16,7 +16,7 @@ On the soft black sand of Tortuguero, where the waves whispered like somebody te
 
 "*Pura vida*, little ones," rumbled a deep, gentle, ancient voice. "Take your time. The sea has waited a thousand years for you. It can wait one more minute."
 
-This was Estrella, a great green **tortuga** (tor-TOO-gah) = turtle, with a mossy shell patterned like a sky full of stars.
+This was Estrella, a great green **tortuga** (tor-TOO-gah) — a turtle — with a mossy shell patterned like a sky full of stars.
 
 ---
 

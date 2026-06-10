@@ -4,13 +4,13 @@
 **Guest Characters:** None
 **Setting:** A schoolyard at recreo where the kids are choosing teams for a quick futbol game
 **Theme:** Courage means being the first to try, even when your knees shake.
-**Spanish Spotlight:** valiente (bah-lee-EN-teh) = brave
+**Spanish Spotlight:** **valiente** (bah-lee-EN-teh) — brave
 
 ---
 
 Pejibaye was a round little peach-palm fruit about the size of a plum, with skin the orange-red of a sunrise that couldn't make up its mind. Up top he wore a stubby tuft of stem like a tiny green hat that flopped whenever he ran, which — and let's be honest here, dear reader — was not very often. Inside he was creamy and golden and warm, the kind of warm that smelled faintly of roasted chestnuts and butter. He was, by every measure, a delicious sort of fellow.
 
-And every single day at **recreo** (reh-CREH-oh) = recess, Pejibaye sat on the low stone wall at the edge of the schoolyard and watched the other kids play futbol. The ball thwacked. The dust puffed. Somebody always yelled "GOOOOL!" so loudly that three pigeons fell off the gutter in surprise. Pejibaye's little stem-hat trembled with longing.
+And every single day at **recreo** (reh-CREH-oh) — recess — Pejibaye sat on the low stone wall at the edge of the schoolyard and watched the other kids play futbol. The ball thwacked. The dust puffed. Somebody always yelled "GOOOOL!" so loudly that three pigeons fell off the gutter in surprise. Pejibaye's little stem-hat trembled with longing.
 
 He wanted to play. Oh, how he wanted to play.
 
@@ -56,7 +56,7 @@ And something in Pejibaye — some small, stubborn, sunrise-colored something �
 
 His stem-hat shook. His round body shook. His shadow on the dust shook, which is genuinely impressive, because shadows usually keep it together. His heart went *thumpa-thumpa-thumpa* like a tiny drummer who had had far too much café.
 
-He remembered something his **abuela** (ah-BWEH-lah) = grandmother had told him, back home in the pot, steam curling around them both. She'd said, "Mi amor, you are not brave because you are not afraid. You are **valiente** (bah-lee-EN-teh) = brave because you are afraid and you roll forward anyway."
+He remembered something his **abuela** (ah-BWEH-lah) — his grandmother — had told him, back home in the pot, steam curling around them both. She'd said, "Mi amor, you are not brave because you are not afraid. You are **valiente** (bah-lee-EN-teh) — brave — because you are afraid and you roll forward anyway."
 
 Pejibaye rolled forward anyway.
 

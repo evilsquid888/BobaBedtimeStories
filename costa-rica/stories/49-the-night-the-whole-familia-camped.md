@@ -4,13 +4,13 @@
 **Guest Characters:** Lala the Tres Leches, Tato the Patacon, Coco the Granizado, Don Café, Flan the Coconut Flan
 **Setting:** A starry hillside campout overlooking the lights of the valley
 **Theme:** The best adventures end snuggled close to the ones you love.
-**Spanish Spotlight:** cielo (see-EH-loh) = sky
+**Spanish Spotlight:** **cielo** (see-EH-loh) — sky
 
 ---
 
 Gallo bounced up the grassy hillside, his little woven palm hat flopping with every step, hauling a marshmallow bigger than himself.
 
-"Rise and pinto!" he sang, even though the sun had gone to bed an hour ago. "We're CAMPING! All of us! The whole familia, under the whole entire *cielo* — that's the **cielo** (see-EH-loh) = sky, and tonight it's OURS, hmm-hmm!"
+"Rise and pinto!" he sang, even though the sun had gone to bed an hour ago. "We're CAMPING! All of us! The whole familia, under the whole entire *cielo* — that's the **cielo** (see-EH-loh), the sky — and tonight it's OURS, hmm-hmm!"
 
 "Gallo, mae," said Pinto gently, rolling up beside him with the picnic basket balanced on his tiny wooden spoon, "the marshmallow is rolling away."
 
@@ -18,7 +18,7 @@ It was. The marshmallow had decided it preferred the bottom of the hill and was 
 
 "I MEANT to do that," he announced from inside the clover.
 
-"Of course you did," said Pinto, smiling his little pale-stripe smile. "Better together, mae. I'll get the marshmallow. You get yourself out of the salad."
+"Of course you did," said Pinto, smiling his little pale-stripe smile. "Come on, mae. I'll get the marshmallow. You get yourself out of the salad."
 
 ---
 
@@ -28,7 +28,7 @@ Tato the Patacon had stamped down a perfect flat circle of grass for the fire. "
 
 "You checked it eleven times," said Flan the Coconut Flan, wobbling over with a stack of banana-leaf plates. "I counted. I count when I'm nervous. Are we *sure* the fire won't get too close to the trees? Steady, steady... ooh, wobbly!" He jiggled so hard a plate slid off the top and frisbee'd into a bush.
 
-"The fire's tuanis, Flan," said Coco the Granizado, lounging against a rock in his tiny round sunglasses even though it was nighttime. A little of him melted, then refroze with a sparkle. "Everything's tuanis up here. Look at that view, my dudes. The whole valley's down there glowing like somebody dropped a jar of fireflies."
+"The fire's tuanis, Flan," said Coco the Granizado, lounging against a rock in his tiny round sunglasses even though it was nighttime. A little of him melted, then refroze with a sparkle. "Everything's mellow up here. Look at that view, my dudes. The whole valley's down there glowing like somebody dropped a jar of fireflies."
 
 And it was true. Below the hill, the lights of the valley twinkled gold and warm, like the *cielo* had a twin made of windows and lanterns. Above them, the real *cielo* was stuffed so full of stars there hardly seemed room for any more.
 
@@ -70,7 +70,7 @@ Lala went next, dreamy as ever. "My favorite was the festival. When the lights c
 
 "The trumpet went *bwooomp*," remembered Gallo, giggling so hard his golden flecks shook. "And then it played the *sweetest* note anybody ever heard, hmm-hmm!"
 
-"It was the milk," said Lala proudly. "I improved that trumpet forever. Soak it all in!"
+"It was the milk," said Lala proudly. "I improved that trumpet forever. You are all very welcome!"
 
 Coco told about the time he half-melted in the summer heat and the whole familia carried him cone-and-all to the shade and re-froze him with a fan made of banana leaves. "You guys saved my whole entire frosty life," he said, and for once the cool skater bean's voice went soft. "Stay frosty, stay sweet — but mostly, stay *with your people.*"
 
@@ -106,7 +106,7 @@ Tato yawned a big crispy yawn. Flan's wobble slowed to a gentle sway. Cajeta cur
 
 "Goodnight, familia," whispered Gallo, his little hum trailing off soft as smoke.
 
-"Better together," whispered Pinto. "Tonight, and every night, mae."
+"Tonight, and every night, mae," whispered Pinto.
 
 And the stars kept falling, gentle and golden, over the dearest, drowsiest, most-loved little camp on the whole quiet hill.
 

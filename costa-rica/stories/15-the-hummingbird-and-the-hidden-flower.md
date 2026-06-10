@@ -4,7 +4,7 @@
 **Guest Characters:** Tico the Toucan
 **Setting:** A sun-dappled rainforest garden bursting with blossoms
 **Theme:** Kindness given freely always comes buzzing back.
-**Spanish Spotlight:** flor (flohr) = flower
+**Spanish Spotlight:** **flor** (flohr) — flower
 
 ---
 
@@ -32,7 +32,7 @@ It was a hummingbird. The teeniest, most jewel-colored hummingbird you ever saw,
 
 "Oh no, oh no, oh *no,*" Cajeta said, all in a rush, because Cajeta said most things in a rush. "Are you okay? You don't look okay. You look like a tired feather pillow!"
 
-"I'm hungry," the hummingbird whispered. Her name, she said, was **Colibrí** — which is just the lovely Spanish word for hummingbird, *colibrí* (koh-lee-BREE). "I've flown the whole garden. Every **flor** (flohr) = flower has already been sipped dry. There's no nectar left anywhere, and I'm so, so tired I can barely buzz."
+"I'm hungry," the hummingbird whispered. Her name, she said, was **Colibrí** — which is just the lovely Spanish word for hummingbird, *colibrí* (koh-lee-BREE). "I've flown the whole garden. Every **flor** (flohr) — every flower — has already been sipped dry. There's no nectar left anywhere, and I'm so, so tired I can barely buzz."
 
 To prove it, she tried to lift off — *bzzt* — and flopped right back into the grass like a dropped sock.
 

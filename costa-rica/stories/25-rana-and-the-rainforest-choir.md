@@ -4,7 +4,7 @@
 **Guest Characters:** Don Café
 **Setting:** The Monteverde rainforest at nightfall, full of dripping leaves
 **Theme:** Every small voice helps complete the song
-**Spanish Spotlight:** canción (kahn-SYOHN) = song
+**Spanish Spotlight:** **canción** (kahn-SYOHN) — song
 
 ---
 
@@ -46,7 +46,7 @@ Don Café set down his tray and squinted his shiny coffee eyes at the little lea
 
 Rana peeked between her toes. "Because," she mumbled, "I don't have anything to add. Everyone else is loud and important. My croak is too small. It's *silly*."
 
-Don Café gasped so dramatically that he nearly tipped off the root. "*Silly?* My dear, *silly* is the secret spice of the universe! Do you know what they call music here?" He swept off his little hat. "**Canción** (kahn-SYOHN) = song. And a true *canción* is never built from big voices alone."
+Don Café gasped so dramatically that he nearly tipped off the root. "*Silly?* My dear, *silly* is the secret spice of the universe! Do you know what they call music here?" He swept off his little hat. "**Canción** (kahn-SYOHN) — that means *song*. And a true *canción* is never built from big voices alone."
 
 ---
 

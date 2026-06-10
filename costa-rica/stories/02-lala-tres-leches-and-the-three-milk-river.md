@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A cozy bakery kitchen with three milk jugs on the windowsill
 **Theme:** It's okay to take your time soaking up good things.
-**Spanish Spotlight:** **gracias** (GRAH-syahs) = thank you
+**Spanish Spotlight:** **gracias** (GRAH-syahs) — thank you
 
 ---
 

@@ -4,7 +4,7 @@
 **Guest Characters:** Flan the Coconut Flan, Coco the Granizado
 **Setting:** The grassy base of warm, glowing Arenal volcano with hot springs
 **Theme:** A warm heart can soothe even the grumpiest of giants.
-**Spanish Spotlight:** volcán (vohl-KAHN) = volcano
+**Spanish Spotlight:** **volcán** (vohl-KAHN) — volcano
 
 ---
 
@@ -24,7 +24,7 @@ The path wound up through misty grass that tickled their bottoms. Coco the Grani
 
 Beside him wobbled Flan the Coconut Flan, jiggling at every single bump in the path. Flan, you see, was a worrier of the highest order, a polished golden dome of nerves under a shiny caramel drizzle.
 
-"A — a *volcán?*" Flan wibbled. "We're walking *toward* the **volcán** (vohl-KAHN) = volcano? On PURPOSE? Steady, steady... ooh, *wobbly!*" He wobbled so hard a fleck of toasted coconut popped right off his top.
+"A — a *volcán?*" Flan wibbled. "We're walking *toward* the **volcán** (vohl-KAHN) — the volcano? On PURPOSE? Steady, steady... ooh, *wobbly!*" He wobbled so hard a fleck of toasted coconut popped right off his top.
 
 "Don't worry, Flan-Flan," Lala cooed, scooping his coconut fleck back on with a gentle dab. "I have a feeling about this one. A *warm* feeling. Right here in my spongey middle."
 

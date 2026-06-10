@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A village sweet shop window full of candy jars
 **Theme:** Being small and sweet is a superpower.
-**Spanish Spotlight:** dulce (DOOL-seh) = sweet / candy
+**Spanish Spotlight:** **dulce** (DOOL-seh) — a sweet, or candy
 
 ---
 
@@ -44,7 +44,7 @@ And then gravity remembered her. Down she came — *boing, boing, plop* — land
 
 "It's just bouncing," sighed Cajeta. "Anyone can bounce. The big candies do *important* things. Don Bombón gives speeches. You hold the whole middle shelf together. The marbles are admired by the whole town. And me? I just... go *boing.*" She tucked her chin into her coconut fluff. "Boing doesn't save anybody."
 
-She wanted to *matter.* She wanted to be the kind of **dulce** (DOOL-seh) = sweet that people remembered. And how could anyone remember the smallest treat in the window? Big things were what people noticed. Big cakes, big jars, big speeches. Not a thumbprint-sized ball of fudge who only knew one trick.
+She wanted to *matter.* She wanted to be the kind of **dulce** (DOOL-seh) — the kind of sweet — that people remembered. And how could anyone remember the smallest treat in the window? Big things were what people noticed. Big cakes, big jars, big speeches. Not a thumbprint-sized ball of fudge who only knew one trick.
 
 So she did what small sad things often do: she rolled off to a quiet corner behind a peppermint stick, curled up round and tight, and watched the big candies have their big important morning. The sun climbed higher. The town outside began to wake — bicycle bells, a barking dog, the warm smell of someone's breakfast. And Cajeta, the smallest **dulce** in the window, felt about as small as a treat could possibly feel.
 
@@ -118,7 +118,7 @@ Then it erupted.
 
 "Our hero! Our tiny, fuzzy, magnificent hero!" sang Señora Galleta, raining sprinkles like confetti.
 
-The marbles themselves — all hundreds of them — rolled together and spelled out, in wobbly swirly candy letters: *G-R-A-C-I-A-S.* Thank you.
+The marbles themselves — all hundreds of them — rolled together into wobbly, swirly candy letters. Señora Galleta leaned in, gasped, and read the word out loud for the whole window to hear: "Look — they spell **gracias** (GRAH-syahs) — thank you!"
 
 Cajeta sat in the middle of it all, a little dizzy, a lot proud, and grinning so wide her toasted coconut shreds quivered.
 

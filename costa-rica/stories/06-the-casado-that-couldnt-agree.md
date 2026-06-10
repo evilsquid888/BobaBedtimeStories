@@ -4,11 +4,11 @@
 **Guest Characters:** Tato the Patacon
 **Setting:** A big lunch plate at the soda — the casado ('married' plate)
 **Theme:** Different friends taste better together than alone.
-**Spanish Spotlight:** casado (kah-SAH-doh) = the 'married' plate of rice, beans, plantain, salad and more
+**Spanish Spotlight:** **casado** (kah-SAH-doh) — the 'married' plate of rice, beans, plantain, salad and more
 
 ---
 
-In the cozy corner of a little **soda** (SOH-dah) = small family lunch restaurant called Doña Ana's, a fresh white plate clinked onto the counter, and everyone on it landed with a soft *fwump*. Sunlight slid through the window, the ceiling fan went *whirr-whirr-whirr*, and somewhere a radio played a song about the sea.
+In the cozy corner of a little **soda** (SOH-dah) — a small family lunch restaurant — called Doña Ana's, a fresh white plate clinked onto the counter, and everyone on it landed with a soft *fwump*. Sunlight slid through the window, the ceiling fan went *whirr-whirr-whirr*, and somewhere a radio played a song about the sea.
 
 "Rise and pinto!" hummed Gallo, a plump glossy grain of fried rice in a tiny woven palm hat, brushing a fleck of cilantro off his shoulder. "What a beautiful spot we landed in. Hmm-hmm!"
 
@@ -112,7 +112,7 @@ Gallo rolled forward, his golden flecks catching the sun. "You see, friends," he
 
 "A lunch plate?" guessed Tato.
 
-"We're a **casado** (kah-SAH-doh) = the married plate," said Gallo. "Rice, beans, plantain, salad, egg, cheese — all of us, together. Casado means *married*. Do you know why they call it that?"
+"We're a **casado** (kah-SAH-doh) — the married plate," said Gallo. "Rice, beans, plantain, salad, egg, cheese — all of us, together. Casado means *married*. Do you know why they call it that?"
 
 The plate shook their heads — well, the parts that had heads.
 
@@ -162,7 +162,7 @@ A little while later, a girl with two braids sat down at the counter, swinging h
 
 "My favorite!" she said. "I love how everything tastes together."
 
-Did the casado feel scared? Oh, not even a little. They felt *proud* — proud as a firework that finally gets to light up the sky. Because being eaten, for a casado, is the happiest ending there is. It means you did your job. It means you made somebody glad.
+Did the casado feel scared? Oh, not even a little. They felt *proud* — proud as the very first star of the evening, switching on right when somebody wished for it. Because being eaten, for a casado, is the happiest ending there is. It means you did your job. It means you made somebody glad.
 
 "Ready, mae?" hummed Gallo, hugging Pinto close.
 

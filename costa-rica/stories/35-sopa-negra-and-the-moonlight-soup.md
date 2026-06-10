@@ -3,131 +3,149 @@
 **Main Character:** Pinto
 **Guest Characters:** Gallo
 **Setting:** A seaside kitchen pot under the moon
-**Theme:** Comfort can come from the simplest, darkest little bowl.
-**Spanish Spotlight:** luna (LOO-nah) = moon
+**Theme:** Home isn't a recipe — it's made of the small, loved things around the bowl.
+**Spanish Spotlight:** luna (LOO-nah) — the moon; abuela (ah-BWEH-lah) — grandmother; primos (PREE-mohs) — cousins
 
 ---
 
-On the night this story begins, the sea was singing a slow lullaby to the shore, and a little black bean named Pinto was doing something most beans never get to do: he was standing on the rim of a soup pot, holding his tiny wooden spoon, looking up at the **luna** (LOO-nah) = moon.
+On the night this story begins, the sea was singing a slow lullaby to the shore, and a little black bean named Pinto stood on the rim of a soup pot, holding his tiny wooden spoon and gazing up at the **luna** (LOO-nah) — the moon — which hung over the water like a polished silver coin somebody had flipped and forgotten to catch.
 
-"Better together, mae," Pinto whispered to the moon, because that is what Pinto always whispered when he felt something big and gentle.
+"Better together, mae," Pinto whispered, because that is what Pinto whispered whenever he felt something big and gentle coming.
 
-The pot sat in a tiny seaside kitchen, the kind with salt on the windowsills and a screen door that flapped like a sleepy bird. And just then, that screen door creaked open, and in slumped a very tired, very homesick traveler — a young man with sand in his shoes and a faraway look in his eyes.
+Something big and gentle was coming. It came through the screen door with sand in its shoes.
 
-"Oh, mae," Pinto murmured softly. "That fellow needs a bowl of cozy."
+It was a traveler — a young man with a heavy backpack, tired eyes, and the longest sigh Pinto had ever heard a human sigh. The sigh ruffled the cilantro on the counter. It nearly blew out the candle. Somewhere down the beach, a dog probably woke up and sighed back.
 
-And Pinto, being the steady half of the steadiest duo in all of Costa Rica, decided that tonight, he would become exactly that.
+"That," said a sunny voice, "is a homesick sigh, mmm." Out popped Gallo, a plump grain of fried rice in a tiny woven palm hat. "I'd know it anywhere. That's the sigh of somebody a loooong way from his **abuela's** (ah-BWEH-lah) — his grandmother's — kitchen."
 
-The traveler set down a heavy backpack with a sad little *floomp*. He stared out the window at the dark waves and sighed the loudest sigh Pinto had ever heard a human sigh — a sigh so big it ruffled the cilantro on the counter.
+Pinto nodded once, the way captains do. "Then tonight we make him sopa negra. Black bean soup. The warmest bowl on the whole Pacific coast." He raised his spoon toward the bean jar. "**Primos** (PREE-mohs) — cousins — report for duty!"
 
-"He's homesick," said a sunny voice. Out popped Gallo, a plump grain of fried rice in a little woven palm hat, speckled gold and freckled with red pepper. He hummed as he spoke, the way he always did. "I'd know that sigh anywhere, mmm. That's the sigh of somebody who's a loooong way from his abuela's kitchen."
+Out tumbled his cousins, glossy and round: the twins Negrín and Negrón, who finished each other's sentences; wise old Abuelita Bean, who smelled like a hundred good mornings; and last of all little Frijolito, the smallest bean in the jar, who was nervous about everything, including ladders, ladles, and being looked at.
 
-"Rise and pinto!" Gallo added, even though it was clearly nighttime and nobody was rising at all. Gallo just liked saying it.
+They cooked like champions. Beans into the pot — politely, in single file, except for the twins, who raced. Onion, slip-sliding in like it was dancing. Garlic, which made every bean murmur *ooh, fancy.* A whisper of cilantro, floating on top like little green boats, and one perfect squeeze of lime to wake it all up. The broth turned deep and glossy, the exact color of the sea under the **luna**, and the whole kitchen began to smell the way a hug feels. Gallo tasted it and removed his hat out of respect.
 
-"We have to help him," said Pinto.
+"Mmm. Perfect," he announced. "Not *almost* perfect. Perfect perfect. Frame-it-and-hang-it-on-the-wall perfect."
 
-"With what?" Gallo asked. "There's nothing fancy here, mmm. No cake. No flan. No fireworks. Just an old pot, a pinch of salt, some onion, and..." Gallo peered into a dark clay jar and gasped. "...beans. So many beans!"
+The traveler shuffled over, drawn by the smell. He ladled a bowl. He sat by the window. Four hundred and some beans held their breath.
 
-Pinto smiled his tiny pale-stripe smile. "Exactly, mae. Exactly."
+He took one spoonful. He closed his eyes.
 
-You see, Pinto knew a secret that fancy desserts sometimes forget. The most comforting thing in the whole wide world is not the shiniest thing, or the sweetest thing, or the wobbliest jiggliest thing on the table. The most comforting thing is a warm, dark, simple little bowl that hugs you from the inside.
+And he sighed again — sadder than before.
 
-The most comforting thing is **sopa negra** — black bean soup.
+"It's delicious," he murmured to the empty kitchen. "It's just not... home."
 
-"Gather round, primos!" Pinto called into the jar. *Primos* means cousins, and Pinto had about four hundred of them.
+---
 
-Out they tumbled — bean after bean after bean, glossy and round and dusty with bean-broth shine, each one with its own tiny pale smile-stripe. There was wobbly cousin Frijolito, who was nervous about everything. There were the twins, Negrín and Negrón, who finished each other's sentences. And there was tiny Abuelita Bean, the oldest, roundest, wrinkliest bean of them all, who smelled like a hundred good mornings.
+You could have heard a bean blink.
 
-"Tonight," Pinto announced, climbing onto the spoon like a captain on a ship, "we are going to make the warmest soup the **luna** has ever shined upon. Are you with me?"
+"Not *home*?" Gallo sputtered, hat back on, hat off again, hat on sideways. "Mmm, impossible! I measured everything! I have made this soup since before this kitchen had a roof! I don't just know the recipe — I *am* the recipe!"
 
-"WE'RE WITH YOU!" cheered four hundred beans.
+"Hush, mae," said Pinto gently. He was watching the traveler the way the moon watches the sea — quiet and careful. "Delicious and home are two different things. We made one. He's missing the other. That means..." Pinto turned slowly to his cousins, eyes gleaming. "...we have a mystery."
 
-"Beans, into the pot!" Pinto cried.
+"A mystery!" said Negrín.
 
-Now, you might think four hundred beans hopping into a soup pot would be a quiet, dignified affair. It was not. It was the silliest splash-fest you ever did see. Negrín cannonballed in shouting "BEAN BOMB!" Negrón followed with "BEAN BOMB, PART TWO!" Frijolito tried to dip just one toe in, decided the water was too warm, then fell in anyway with a startled *bloop*. And Abuelita Bean slid in last, smooth as a queen settling into a hot bath, sighing, "Ahhh, now *that's* the good stuff."
+"We love mysteries!" said Negrón.
 
-Gallo perched on the pot's edge, hat tipped back, humming and stirring with a long wooden spoon. "Onion! Garlic! A whisper of cilantro! And a squeeze of lime to wake it all up, mmm!"
+"What's a mystery?" said Negrín.
 
-In went the onion, slip-sliding like it was dancing. In went the garlic, which made every bean go *"ooh, fancy."* And in went the cilantro, floating on top like little green boats.
+The investigation began at once. The beans crept along the counter in a wobbly line behind Pinto, collecting clues, while the traveler picked at his bowl and finally did what homesick travelers everywhere do: he called his abuela on the phone.
 
-The pot grew warm. Then warmer. Then warm in that special soup-pot way that makes a kitchen smell like *home*, even if home is very, very far away.
+"Sí, abuela... yes, I'm eating," he said, smiling a tired half-smile at the sound of her voice. "Black bean soup, even. It's good. It's just not yours. Remember how you'd hum that little song while you stirred? Three low notes, one high one. And the rain would start drumming the tin roof right at soup time, every single evening, like it had a dinner reservation." He laughed softly. Then his voice went small. "I miss it, abuela. I miss all of it."
 
-But just as everything was bubbling beautifully — *gloop, gloop, gloop* — Frijolito popped up to the surface, trembling.
+On the windowsill, Pinto whispered, "Primos. Take notes."
 
-"P-Pinto," he stammered, "I don't think I can do this. I'm just a little bean. I'm not sweet like cake. I'm not jiggly like flan. I'm not even *colorful*. I'm just... dark and plain and small. How can a plain little bean comfort anybody?"
+Nobody had a pencil, so Frijolito just repeated everything under his breath very fast, which is the bean version of taking notes.
 
-And all four hundred beans went quiet. Even Negrín and Negrón stopped mid-bean-bomb.
+"Aha!" said Negrín, snapping into action. "I have cracked the case. If the soup isn't *home* enough, it isn't *flavorful* enough. And what is flavor?"
 
-Pinto paddled over to his trembling cousin. He put a steady little bean-arm around him.
+"Lime," said Negrón solemnly.
 
-"Frijolito," Pinto said softly, "look up."
+"If one squeeze of lime is happiness," said Negrín, rolling a whole lime across the counter like a boulder, "then ten squeezes is paradise."
 
-Frijolito looked up. There, through the kitchen window, hung the **luna** — round and glowing and shining its silver light all across the dark, dark sea.
+"That's mathematics," agreed Negrón.
 
-"The luna is just one quiet light," Pinto said. "She isn't loud. She isn't flashy like the sun. She's soft, and gentle, and a little bit dark around the edges. And do you know what she does, mae?"
+That was not mathematics. The twins squeezed and squeezed until the soup could have powered a flashlight. When the traveler tried the "improved" batch, his whole face folded up like a drawstring bag pulled tight.
 
-"...What?" whispered Frijolito.
+"Delicious," he croaked, eyes watering, "but now also... an attack."
 
-"She guides every tired traveler home," said Pinto. "She comforts every sleepy creature on the whole big spinning earth. Just by being warm. Just by being there. *That's* what dark and quiet things do best. We don't dazzle, primo. We *comfort*. And tonight, four hundred of us are going to comfort one very homesick young man. Together."
+"Attempt two," sighed Pinto, "has failed."
 
-Frijolito's little smile-stripe wobbled. Then it steadied. Then it grew.
+---
 
-"Better together, mae?" Frijolito asked.
+For attempt three, the beans went back to their clues.
 
-"Better together," said Pinto. "Always."
+"The humming!" said Frijolito suddenly, then immediately apologized for being loud. "S-sorry. But he said his abuela hummed while she stirred. Three low notes, one high one. Maybe the soup needs... music?"
 
-And the whole pot of beans cheered so loud that the bubbles bubbled higher, the steam curled prettier, and the soup turned a deep, glossy, midnight black — the exact color of the sea under the **luna**.
+"Frijolito, that's brilliant," said Pinto, and Frijolito turned so proud he nearly rolled off the counter.
 
-Gallo gave a great stir and a great hum. "It's nearly ready, mmm! But every good sopa negra needs one last touch."
+So while a fresh, properly limed pot bubbled, all four hundred beans hummed together.
 
-"What's that?" asked the beans.
+Now — one bean humming is a sweet, tiny sound. Four hundred beans humming, it turns out, sounds exactly like a refrigerator with hiccups. The traveler looked up from his phone, frowned at the walls, and said, "I should tell somebody the plumbing in this place is haunted."
 
-"A little something extra to ride on top," said Gallo, hopping right into the soup with a cheerful *plop*. "Some folks add an egg. Tonight, mmm, you get *me* — a sprinkle of gallo pinto for crunch and joy! Rise and pinto, primos!"
+The beans stopped humming.
 
-The beans cheered. Gallo laughed and bobbed on the surface like a tiny golden lifeboat.
+"Attempt three," said Pinto, "has also failed. But we're closer, primos. I can feel it. He doesn't need a *better* soup. The first soup was perfect — even Gallo's hat agrees. He needs something else. Something that isn't an ingredient at all."
 
-Now came the moment.
+"Not an ingredient?" Gallo whispered, scandalized. "Mmm, careful, mae. That's how rumors start."
 
-The homesick traveler, drawn by the smell — for there is no smell on earth quite as homey as black bean soup — shuffled to the stove. He lifted the lid. Warm steam rose up and kissed his tired face. He breathed it in, deep and slow.
+The traveler, meanwhile, had given up on dinner. He dragged his backpack toward the big chair by the window, ready to sleep sad — which every bean knows is the worst way to sleep.
 
-And something wonderful happened.
+Frijolito, who had been assigned lookout duty because he was too small to lift anything, was perched on the salt jar watching the backpack go by. And that's when he saw it.
 
-His sad faraway look melted, just a little. His shoulders, which had been up by his ears all day, came down. He found a chipped bowl and a worn wooden spoon, and he ladled himself a steaming serving of the **sopa negra** — beans and broth and a sprinkle of gallo pinto floating on top like treasure.
+Hanging from a strap, swinging gently, was a tin mug. An old one. Dented on one side, with a painted red hibiscus flower so faded it was mostly a memory, and a hundred tiny scratches inside — the kind a spoon leaves after years and years and years of stirring.
 
-He sat by the window where he could see the **luna** on the water. And he took his first warm spoonful.
+"Pinto," Frijolito breathed. "PINTO. Look. Look-look-look. He carried his abuela's *mug* across the whole entire world. He didn't pack it because it's fancy. It's the least fancy mug I've ever seen. He packed it because..." Frijolito's little smile-stripe wobbled. "...because home fits inside it."
 
-Inside the bowl, four hundred beans held their breath.
+Pinto looked at the dented mug. Then at the perfect soup. Then at the **luna**, glowing patiently over the sea like she'd known the answer all along and was too polite to spoil the mystery.
 
-The traveler's eyes went soft and shiny. "This," he whispered to the empty kitchen, "tastes like my abuela's house." A smile spread slowly across his face. "It tastes like *home*."
+"Frijolito," said Pinto, "you just solved the case. Primos — one last attempt. Tonight we don't serve him soup in a bowl. We serve him *home* in a mug."
 
-And — would you believe it? — a single happy tear rolled down his cheek and went *plip* into the soup, and the beans didn't mind one bit, because it was the good kind of tear, the *finally-I-feel-safe* kind.
+---
 
-Now here is the part where I should tell you that being eaten is the *proudest* thing a bean of sopa negra can ever do — like a sleepy star getting to twinkle, or a lighthouse getting to glow. As the traveler took spoonful after happy spoonful, the beans didn't squeal or fret. They *celebrated*.
+It took eleven beans, one rice grain, and a tactical avalanche of teamwork to unhook that mug. It swung. It wobbled. At one point Negrín was hanging from the strap shouting instructions at Negrón, who was also hanging from the strap, also shouting instructions, neither of them listening, which is how twins get things done. At last the mug came free, rolled in a wide dignified circle across the floor, and was steered to the stove, where the beans filled it with hot, glossy, midnight-dark sopa negra — the perfect first recipe, not one extra squeeze of lime, thank you, Negrín. Gallo hopped on top as a golden sprinkle of fried rice, "for crunch and joy, mmm."
 
-"We did it!" cheered Negrín and Negrón together.
+Then Abuelita Bean climbed slowly onto the pot handle, cleared her throat, and hummed. Just her. Three low notes, one high one — soft and creaky and warm, like a rocking chair remembering a song.
 
-"We're comforting somebody!" giggled Frijolito, who wasn't scared at all anymore, not even a teeny bit.
+And right then — because this was Costa Rica, where the rain always knows when it's wanted — the evening shower arrived. It drummed its fingers on the tin roof. *Tap-tappa-tap. Tap-tappa-tap.* Right on time for its dinner reservation.
 
-"This is the best night of my whole round little life," sighed Abuelita Bean.
+The traveler lifted his head. He smelled the soup. He saw his abuela's mug sitting on the counter, steaming, as if it had filled itself out of pure stubborn love.
 
-And Pinto, riding one last warm spoonful toward the smiling, no-longer-homesick traveler, looked up through the steam at the silver **luna** one final time.
+He picked it up with both hands, the way you hold something precious. The dent fit his thumb exactly. The rain drummed. Somewhere — he figured it was just the pot bubbling — three low notes and one high one floated through the kitchen.
 
-"Goodnight, luna," he whispered. "Thanks for the light. We took it from here."
+He took a sip.
 
-The traveler finished every drop. He set down his spoon. He looked out at the moonlit sea, full and warm and home at last, and he did the smallest, coziest yawn.
+His shoulders came down from beside his ears. His faraway eyes came all the way back. And he smiled — a slow, whole, lit-from-the-inside smile.
 
-Outside, the waves kept singing. The **luna** kept glowing. And inside one little seaside kitchen, a humble, dark, simple bowl of soup had done what no fancy dessert ever could:
+"There it is," he whispered. "There's home."
 
-It had brought a tired traveler all the way home — without him taking a single step.
+Inside the mug, the beans went wild with quiet joy. And here is the part you should know: being sipped from a beloved abuela-mug is the *proudest* thing a bean of sopa negra can ever do. As the traveler drank down spoonful after happy spoonful, Negrín and Negrón high-fived, Abuelita Bean kept humming, and Frijolito — detective Frijolito, solver of the great moonlight mystery — laughed his squeaky little laugh all the way down.
+
+"Best case I ever cracked," he said.
+
+"It's the *only* case you ever cracked," said Negrín.
+
+"Then I'm undefeated," said Frijolito.
+
+---
+
+The traveler finished every drop. He rinsed the mug, dried it carefully, and set it on the windowsill where it could see the sea. Then he curled into the big chair, pulled a blanket to his chin, and fell asleep before the rain even finished its song — not the sad kind of sleep, but the *finally-I-feel-safe* kind, with the smallest smile still on his face.
+
+The kitchen wound down around him. The pot ticked as it cooled. The candle bowed out. The rain softened to a whisper, then a hush, and the clouds slid apart so the **luna** could look in the window and check on everyone — one sleeping traveler, one dented mug, one very proud little bean standing on the rim of a quiet pot.
+
+"Goodnight, luna," Pinto whispered, raising his tiny wooden spoon. "Thanks for the light. We took it from here."
+
+The waves kept singing. The moon kept glowing. And in one little seaside kitchen, a humble dark soup, a faded tin mug, an old hummed song, and the rain on a tin roof had done together what no perfect recipe could do alone:
+
+They had brought a tired traveler all the way home — without him taking a single step.
 
 Pura vida, little bean. Pura vida.
 
 ---
 
 ## Goodnight Blessing
-May your night be as warm as a bowl of soup held in two hands, and as soft as the silver **luna** sliding across a quiet sea. May you remember that you do not have to be the brightest or the sweetest or the flashiest thing to bring great comfort to someone you love — sometimes the simplest, coziest you is exactly enough. Like Pinto, may you know that we are always better together, mae. Now let the waves hum, let the moon glow, and let your eyes go gently closed. Goodnight.
+May your night be as warm as a mug of soup held in two hands, and as soft as the silver **luna** sliding across a quiet sea. May you remember that home is not just a place or a recipe — it lives in small, loved things: a dented mug, a hummed song, rain drumming a tin roof, the people who stir your soup slowly. And when you miss someone far away, may you find a little piece of them close by, exactly where your thumb fits. Like Pinto says, we are always better together, mae. Now let the waves hum, let the moon glow, and let your eyes go gently closed. Goodnight.
 
 ## AI Image Prompts
-1. A warm whimsical storybook illustration of a tiny, smiling black bean named Pinto standing on the rim of a clay soup pot, holding a miniature wooden spoon, gazing up at a huge glowing silver moon through a seaside kitchen window. Deep midnight-blue and warm-amber palette, soft candlelight glow on the pot, gentle steam curling upward, the dark ocean sparkling with moonlight beyond the window. Cozy, magical, peaceful mood with a touch of cinnamon-warm lighting.
-2. A character portrait of Pinto: a small, deep-glossy black bean, smooth and round, with a tiny pale stripe like a gentle smile, a faint dusty bean-broth shine on his skin, carrying a tiny wooden spoon held proudly across his front like a steady captain. Warm, calm, kindhearted expression. Soft storybook style, gentle golden rim-lighting, simple cream background.
-3. A cozy closing scene: a young homesick traveler sitting by a moonlit window, smiling softly with shiny happy eyes, holding a chipped bowl of glossy black bean soup with a sprinkle of golden gallo pinto floating on top. Warm steam rises into the cool blue moonlight, the silver luna reflecting on a calm sea outside. Sleepy, safe, deeply comforting mood; warm amber light meeting soft moon-silver tones.
+1. A warm whimsical storybook illustration of tiny glossy black beans on a moonlit kitchen counter, gathered like little detectives around a dented old tin mug with a faded painted red hibiscus, the smallest bean pointing at it excitedly while a calm bean captain with a tiny wooden spoon looks on. Silver moonlight through the window, deep midnight-blue and warm-amber palette, gentle steam from a soup pot in the background. Cozy, magical mystery mood.
+2. A character portrait of Pinto: a small, deep-glossy black bean, smooth and round, with a tiny pale stripe like a gentle smile, a faint dusty bean-broth shine on his skin, carrying a tiny wooden spoon held proudly across his front like a steady captain — with the tiniest, shyest bean cousin Frijolito peeking out from behind him. Warm, calm, kindhearted expressions. Soft storybook style, gentle golden rim-lighting, simple cream background.
+3. A cozy closing scene: a young traveler asleep in a big chair under a blanket with a peaceful smile, while on the moonlit windowsill sits a dented tin mug with a faded hibiscus flower, a curl of steam fading above it. Rain easing off a tin roof, the silver luna breaking through clouds over a calm sea outside the window. Sleepy, safe, deeply comforting mood; warm amber light meeting soft moon-silver tones.

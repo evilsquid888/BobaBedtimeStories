@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A sunny tin-roofed kitchen in a small Costa Rican town at dawn
 **Theme:** The best mornings begin with friendship and a warm welcome.
-**Spanish Spotlight:** Pura Vida (POO-rah VEE-dah) = pure life (Costa Rica's all-purpose happy greeting)
+**Spanish Spotlight:** **Pura Vida** (POO-rah VEE-dah) — pure life (Costa Rica's all-purpose happy greeting)
 
 ---
 
@@ -136,7 +136,7 @@ Then the skillet began to warm.
 
 Not in a scary way — oh no, never that. It was the coziest, most welcoming warmth, like sliding into a bath that's *just right*, like a sunbeam giving you a squeeze. The pan sang a soft *ssssss*, and a little oil shimmered, and suddenly everyone wanted to dance.
 
-"Pura Vida!" cried Gallo, spinning Pinto by the hand. (**Pura Vida** (POO-rah VEE-dah) = *pure life* — it's what Costa Ricans say for hello, goodbye, thank you, no worries, isn't-life-wonderful, and about a hundred other happy things, all in two little words.)
+"Pura Vida!" cried Gallo, spinning Pinto by the hand. (**Pura Vida** (POO-rah VEE-dah) — *pure life* — it's what Costa Ricans say for hello, goodbye, thank you, no worries, isn't-life-wonderful, and about a hundred other happy things, all in two little words.)
 
 "*Pura Vida!*" the rice grains shouted, tumbling off their side.
 

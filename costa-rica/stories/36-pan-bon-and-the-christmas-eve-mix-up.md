@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A cozy Caribbean-coast home on Christmas Eve, with the oven warm and gifts waiting
 **Theme:** Owning up to a mistake mends things faster than hiding it.
-**Spanish Spotlight:** perdon (pehr-DOHN) = sorry / pardon
+**Spanish Spotlight:** **perdon** (pehr-DOHN) — sorry, or pardon
 
 ---
 
@@ -18,7 +18,7 @@ This is where, dear reader, things go marvelously sideways.
 
 ---
 
-You see, the whole **familia** (fah-MEE-lyah) = family was coming for **Nochebuena** (noh-cheh-BWEH-nah) = Christmas Eve, and Abuela had spent all afternoon wrapping presents. There was a bundle for Tío Beto. One for the twins, Lola and Lalo. One for little Cousin Mango, who was three and bit things. Each tag was written in Abuela's loopy handwriting, and each bundle was placed *just so* on the tray.
+You see, the whole **familia** (fah-MEE-lyah) — the family — was coming for **Nochebuena** (noh-cheh-BWEH-nah) — Christmas Eve — and Abuela had spent all afternoon wrapping presents. There was a bundle for Tío Beto. One for the twins, Lola and Lalo. One for little Cousin Mango, who was three and bit things. Each tag was written in Abuela's loopy handwriting, and each bundle was placed *just so* on the tray.
 
 "Don't touch the tray, Pan Bon," Abuela had said, wagging a flour-dusted finger before going to stir the rice. "Those are sorted perfect."
 
@@ -46,7 +46,7 @@ But the more he sorted, the worse it got. The string had knotted itself into a c
 
 "PERDON!" he squeaked to nobody, then clapped a raisin-studded hand over his mouth.
 
-By now Pan Bon was sweating glaze. He had retied bundles so wrong that one was shaped like a duck. He had matched tags so badly that Cousin Mango — who was three — now appeared to be receiving a present labeled in a way that suggested it weighed more than Cousin Mango. The tray was a disaster, the bundles were a mystery, and the **regalos** (reh-GAH-lohs) = gifts were nobody's and everybody's all at once.
+By now Pan Bon was sweating glaze. He had retied bundles so wrong that one was shaped like a duck. He had matched tags so badly that Cousin Mango — who was three — now appeared to be receiving a present labeled in a way that suggested it weighed more than Cousin Mango. The tray was a disaster, the bundles were a mystery, and the **regalos** (reh-GAH-lohs) — the gifts — were nobody's and everybody's all at once.
 
 Then he heard it. Footsteps. Laughter. The squeak of the screen door.
 

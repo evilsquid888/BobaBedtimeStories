@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A misty hillside coffee farm at first light
 **Theme:** Good things take time, and slow can be its own kind of magic.
-**Spanish Spotlight:** **familia** (fah-MEE-lyah) = family
+**Spanish Spotlight:** **familia** (fah-MEE-lyah) — family
 
 ---
 
@@ -66,7 +66,7 @@ Beanito felt something warm spread through him that was not entirely the sunrise
 
 They walked to the very edge of the hillside, where the farm looked down over the little town of tin roofs and red doors just beginning to glow in the morning light. And one by one, Don Café showed Beanito the long, slow, wonderful journey of a morning.
 
-"See that house with the blue shutters? In a moment, an *abuela* — a grandmother — will shuffle to her kitchen. She will not rush. She will scoop the ground coffee into a cloth sock called a **chorreador** (cho-rray-ah-DOR) = a coffee sock-dripper, and she will pour the hot water slowly, slowly, so the coffee drips down golden-brown."
+"See that house with the blue shutters? In a moment, an *abuela* — a grandmother — will shuffle to her kitchen. She will not rush. She will scoop the ground coffee into a cloth sock called a **chorreador** (cho-rray-ah-DOR) — a coffee sock-dripper — and she will pour the hot water slowly, slowly, so the coffee drips down golden-brown."
 
 Beanito watched. Sure enough, a little curl of steam rose from the blue-shuttered house.
 

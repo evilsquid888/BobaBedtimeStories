@@ -4,11 +4,11 @@
 **Guest Characters:** Lala the Tres Leches, Tato the Patacon, Coco the Granizado, Flan the Coconut Flan
 **Setting:** The corner soda — the beloved family diner that is everyone's home base in Pura Vida Town
 **Theme:** Home is wherever your familia gathers to share a meal.
-**Spanish Spotlight:** **soda** (SOH-dah) = a small Costa Rican family-run diner
+**Spanish Spotlight:** **soda** (SOH-dah) — a small Costa Rican family-run diner
 
 ---
 
-Now, you should know that the busiest, brightest, butter-warmest place in all of Pura Vida Town was a tiny little **soda** (SOH-dah) = a small family-run diner on the corner of Mango Street and Everybody-Knows-Your-Name Lane. It had six wobbly tables, one ceiling fan that spun like it was telling a long story, and a window so steamed-up you could draw smiley faces on it. Every single morning, Gallo the fried-rice grain skipped through the door and shouted his favorite words to the whole world.
+Now, you should know that the busiest, brightest, butter-warmest place in all of Pura Vida Town was a tiny little **soda** (SOH-dah) — a small family-run diner — on the corner of Mango Street and Everybody-Knows-Your-Name Lane. It had six wobbly tables, one ceiling fan that spun like it was telling a long story, and a window so steamed-up you could draw smiley faces on it. Every single morning, Gallo the fried-rice grain skipped through the door and shouted his favorite words to the whole world.
 
 "Rise and pinto!" he sang, his golden-toasty edges glinting, his little woven palm hat tipped just so.
 

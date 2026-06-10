@@ -4,7 +4,7 @@
 **Guest Characters:** Don Café
 **Setting:** The cool, misty rim of Poás volcano crater under a starry sky
 **Theme:** Cool heads and warm hearts make the perfect pair.
-**Spanish Spotlight:** estrella (es-TREH-yah) = star
+**Spanish Spotlight:** **estrella** (es-TREH-yah) — star
 
 ---
 
@@ -32,7 +32,7 @@ Just then a warm, wonderful smell drifted up the trail. The smell of morning, ev
 
 "Don Café! What are you doing way up here?"
 
-"The best coffee grows on the slopes of the volcanoes," said the old bean, tapping the dark soil with his stick. "I come up to visit the mountain that feeds my whole family. And to watch the **estrella** (es-TREH-yah) = stars. There is no better stargazing in all of Costa Rica than right here." He smiled his deep, slow smile. "Good things brew slowly. And good skies are worth the climb."
+"The best coffee grows on the slopes of the volcanoes," said the old bean, tapping the dark soil with his stick. "I come up to visit the mountain that feeds my whole family. And to watch the **estrella** (es-TREH-yah) — the stars. There is no better stargazing in all of Costa Rica than right here." He smiled his deep, slow smile. "Good things brew slowly. And good skies are worth the climb."
 
 "It's the most beautiful thing I've ever seen," Coco whispered. "I never felt at home anywhere before. Too cold for the beach, too melty for the valley. But up here, in the chill, with all these estrellas..." He sniffled, which for a granizado is mostly just a tiny refreezing sound. "I'm *home.*"
 

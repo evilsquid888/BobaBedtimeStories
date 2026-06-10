@@ -4,7 +4,7 @@
 **Guest Characters:** Gallo, Pinto, Tamalita
 **Setting:** A colorful painted oxcart winding up a highland road
 **Theme:** Carrying each other's load makes the steepest hill feel light.
-**Spanish Spotlight:** carreta (kah-RREH-tah) = oxcart (a colorful Costa Rican tradition)
+**Spanish Spotlight:** **carreta** (kah-RREH-tah) — oxcart (a colorful Costa Rican tradition)
 
 ---
 
@@ -12,7 +12,7 @@ On the morning of the Highland Market, a very small coffee bean stood on a very 
 
 "No, no, no," said Don Café, tapping his tiny wooden walking stick. "The mangos go beside the milk, not on top of it. And whoever stacked the pumpkins like that — bless your heart — has clearly never met a bumpy road."
 
-The cart he stood upon was a **carreta** (kah-RREH-tah) = oxcart, and it was not just any cart. It was painted in dazzling swirls of orange and turquoise and sunflower yellow, with little starbursts around every spoke, the way the people of the highlands had painted them for a hundred years. It was so beautiful that butterflies kept landing on it by mistake, thinking it was a flower. One butterfly had been sitting on the same yellow swirl since breakfast, refusing to believe it was not a daisy. (Butterflies are not famous for their thinking.)
+The cart he stood upon was a **carreta** (kah-RREH-tah) — an oxcart — and it was not just any cart. It was painted in dazzling swirls of orange and turquoise and sunflower yellow, with little starbursts around every spoke, the way the people of the highlands had painted them for a hundred years. It was so beautiful that butterflies kept landing on it by mistake, thinking it was a flower. One butterfly had been sitting on the same yellow swirl since breakfast, refusing to believe it was not a daisy. (Butterflies are not famous for their thinking.)
 
 "Good things brew slowly," Don Café sighed, smelling of warm morning. "And good carts pack slowly too. A well-packed carreta is a poem, niños. A badly packed one is a disaster waiting to happen on a corner."
 

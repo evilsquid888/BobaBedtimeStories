@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A cozy village kitchen during a family gathering
 **Theme:** The sweetest recipes are kept in our hearts, not on paper
-**Spanish Spotlight:** abuela (ah-BWEH-lah) = grandmother
+**Spanish Spotlight:** **abuela** (ah-BWEH-lah) — grandmother
 
 ---
 
@@ -20,7 +20,7 @@ It was the recipe.
 
 ---
 
-Today was the biggest day of the whole year in the little village kitchen: the family gathering, when every cousin, aunt, neighbor, and slightly confused great-uncle squeezed through the door to eat until their buttons begged for mercy. And the star of the party — the dish everyone whispered about for weeks — was **Abuela**'s (ah-BWEH-lah = grandmother) famous coconut fudge.
+Today was the biggest day of the whole year in the little village kitchen: the family gathering, when every cousin, aunt, neighbor, and slightly confused great-uncle squeezed through the door to eat until their buttons begged for mercy. And the star of the party — the dish everyone whispered about for weeks — was **Abuela**'s (ah-BWEH-lah) — the grandmother's — famous coconut fudge.
 
 Abuela was the oldest, wisest, softest fudge of them all, the color of warm honey, with a dusting of coconut so fine it looked like she was sprinkled with sugar snow. She had made this fudge ten thousand times. And the secret to it lived on one single, precious, butter-stained index card, tucked into a wooden recipe box on the highest shelf.
 
@@ -54,7 +54,7 @@ She sat down in the middle of the floury floor and let one sticky tear roll down
 
 That was when Abuela rolled into the kitchen, warm and unhurried, smelling of cinnamon and Sundays.
 
-"**Mija**" (MEE-hah = *dear one*, the way a grandmother says *sweetheart* with her whole heart), "what is all this fuss?"
+"**Mija**" (MEE-hah) — *dear one*, the way a grandmother says *sweetheart* with her whole heart — "what is all this fuss?"
 
 "Abuela, it's GONE!" Cajeta wailed. "The recipe card! The one with all the secrets! I looked everywhere — under the table, in the teapot, *inside the salt* — and it has vanished, and now we can't make your fudge, and the party is doomed, and it is completely and entirely my—"
 
@@ -80,7 +80,7 @@ So Abuela showed her instead.
 
 Cajeta sniffed. The big pot was warming on the stove. "Coconut milk," she said slowly. "And... butter? Going golden?"
 
-"**¡Sí!**" (SEE = *yes!*) "And when does it stop?"
+"**¡Sí!**" (SEE) — *yes!* — "And when does it stop?"
 
 Cajeta closed her eyes. And the strangest thing happened. She remembered — not from a card, but from *somewhere deeper* — a thousand afternoons of standing on this very tile, watching Abuela stir. "It stops," Cajeta said dreamily, "when the smell goes from *coconut* to *toasty coconut*. When it smells like the very best part of the morning."
 

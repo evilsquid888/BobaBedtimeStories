@@ -4,7 +4,7 @@
 **Guest Characters:** Tico the Toucan, Slowy the Sloth
 **Setting:** A rainforest clearing during a warm afternoon shower
 **Theme:** A good wrapping keeps your warmth and love safe inside.
-**Spanish Spotlight:** **lluvia** (YOO-vyah) = rain
+**Spanish Spotlight:** **lluvia** (YOO-vyah) — rain
 
 ---
 
@@ -22,7 +22,7 @@ Tamalita looked up, and *poof*, out came another giggle-puff.
 
 A glossy black toucan came swooping down like a feathery comet, his enormous rainbow beak flashing every color a crayon box ever dreamed of. He landed on a low branch with a dramatic flap and pointed his banana-shaped beak straight at her.
 
-"Big news, very big, enormous news!" Tico announced, hopping from foot to foot. "The clouds upstairs are getting fat and gray and grumbly, which means — and I have this on excellent authority, which is to say I looked up — that we are about to get rained on! **Lluvia** (YOO-vyah) = rain! Buckets of it! Possibly bathtubs!"
+"Big news, very big, enormous news!" Tico announced, hopping from foot to foot. "The clouds upstairs are getting fat and gray and grumbly, which means — and I have this on excellent authority, which is to say I looked up — that we are about to get rained on! **Lluvia** (YOO-vyah) — rain! Buckets of it! Possibly bathtubs!"
 
 "Ooh," said Tamalita, peering at the sky. Sure enough, the buttery sun had tucked itself behind a big gray pillow of cloud. "Are you sure?"
 

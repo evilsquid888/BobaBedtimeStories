@@ -18,7 +18,7 @@
 | 7 | Flan Coconut and the Wobbly Stage | Flan the Coconut Flan | A family birthday party on a breezy patio | Even the wobbliest among us can stand tall when friends cheer. |
 | 8 | Cajeta de Coco and the Bouncing Marbles | Cajeta the Coconut Fudge | A village sweet shop window full of candy jars | Being small and sweet is a superpower. |
 | 9 | The Little Soda on the Corner | Gallo and Pinto | The whole cast's home base: a beloved corner soda (family diner) | Home is wherever your familia gathers to share a meal. |
-| 10 | Tato the Patacón and the Brave First Dip | Tato the Patacón — a twice-fried green plantain round, crispy-golden and chunky, cautious and proud of staying crunchy | A sunny Pacific-coast soda (little eatery) by the beach | Trying something new can be the best crunch of all |
+| 10 | Tato the Patacón and the Long Way Home | Tato the Patacón — a twice-fried green plantain round, crispy-golden and chunky, cautious and proud of staying crunchy | The quiet evening streets of Pura Vida Town, from the harbor back to the corner soda | Step by small step, even the littlest traveler can find the way home. |
 | 11 | Slowy the Sloth and the No-Hurry Hike | Slowy the Sloth | A lush green rainforest canopy dripping with vines | Slowing down lets you notice the most beautiful things. |
 | 12 | Tico Toucan and the Rainbow-Beak News | Tico the Toucan | The treetops of a noisy, colorful jungle | Sharing good news spreads joy faster than gossip. |
 | 13 | Tamalita and the Banana-Leaf Blanket | Tamalita | A rainforest clearing during a warm afternoon shower | A good wrapping keeps your warmth and love safe inside. |

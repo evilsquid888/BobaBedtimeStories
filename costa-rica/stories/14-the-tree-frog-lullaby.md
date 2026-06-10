@@ -4,13 +4,13 @@
 **Guest Characters:** None
 **Setting:** The rainforest at dusk, full of red-eyed tree frogs
 **Theme:** Everyone has a song worth adding to the night's music.
-**Spanish Spotlight:** rana (RAH-nah) = frog
+**Spanish Spotlight:** **rana** (RAH-nah) — frog
 
 ---
 
 Slowy the Sloth was hanging upside down from his favorite branch, doing what he did best — absolutely nothing, very slowly, and feeling marvelous about it.
 
-The sun was sliding behind the mountains like a warm egg yolk slipping off a spoon, and the whole **selva** (SEL-vah) = jungle was beginning to glow gold and pink. Slowy yawned. The yawn took about four minutes. Halfway through, he forgot he was yawning and started again.
+The sun was sliding behind the mountains like a warm egg yolk slipping off a spoon, and the whole **selva** (SEL-vah) — the jungle — was beginning to glow gold and pink. Slowy yawned. The yawn took about four minutes. Halfway through, he forgot he was yawning and started again.
 
 "Puuura... viiida...," he sighed, which was Slowy's way of saying *life is good and there is no need to rush, ever, about anything, including this sentence.*
 
@@ -24,7 +24,7 @@ A small green something landed right on Slowy's belly. It had two enormous tomat
 
 The little creature gulped. "I'm s-sorry! I didn't mean to land on you! I jumped to get away and — and — oh no, oh no, oh no."
 
-"A **rana** (RAH-nah) = frog," Slowy said warmly, recognizing the tomato eyes at last. "A red-eyed tree frog. How... lovely."
+"A **rana** (RAH-nah) — a frog," Slowy said warmly, recognizing the tomato eyes at last. "A red-eyed tree frog. How... lovely."
 
 "My name is Renato," the little frog squeaked. "And I have a terrible, *terrible* problem."
 

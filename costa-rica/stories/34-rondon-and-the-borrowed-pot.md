@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A breezy Caribbean-coast beach kitchen at dusk where the big cooking pot is shared
 **Theme:** Letting go of a grudge makes room for friendship again.
-**Spanish Spotlight:** amistad (ah-mees-TAHD) = friendship
+**Spanish Spotlight:** **amistad** (ah-mees-TAHD) — friendship
 
 ---
 
@@ -14,7 +14,7 @@ But this particular dusk, Rondon was NOT singing.
 
 He was sulking. Bubble. Sulk. Bubble. Sulk.
 
-And the reason for all this glum bubbling was sitting right beside him, gleaming in the last orange light: the big shared cooking pot, with one large, embarrassing **abolladura** (ah-boh-yah-DOO-rah) = dent right in its round silver belly.
+And the reason for all this glum bubbling was sitting right beside him, gleaming in the last orange light: the big shared cooking pot, with one large, embarrassing **abolladura** (ah-boh-yah-DOO-rah) — a dent — right in its round silver belly.
 
 "Hmph," went Rondon, and a single grumpy bubble popped at the top of him. *Plip.*
 
@@ -84,7 +84,7 @@ The whole beach cheered.
 
 And oh, what a supper they made! The Pelican tipped Rondon gently into the big dented pot, and the fresh fish went in, and the crabs added their peppers, and the iguanas squeezed their limes, and the hermit hatchlings sprinkled in a brave pinch of salt. Rondon bubbled and rolled and welcomed every single ingredient like an old friend, growing thicker and richer and more golden than he'd ever been simmering alone. The dent, it turned out, made the pot sit at the perfect tilt for stirring. Funny how that works.
 
-The rain drummed on the roof. The lamplight glowed. And in the wide warm middle of that borrowed, dented, shared pot, Rondon understood something he'd been too cross to see all afternoon: that letting go of an old grudge doesn't make you smaller — it makes *room*. Room for fish, room for friends, room for **amistad** (ah-mees-TAHD) = friendship to bubble back up warm.
+The rain drummed on the roof. The lamplight glowed. And in the wide warm middle of that borrowed, dented, shared pot, Rondon understood something he'd been too cross to see all afternoon: that letting go of an old grudge doesn't make you smaller — it makes *room*. Room for fish, room for friends, room for **amistad** (ah-mees-TAHD) — friendship — to bubble back up warm.
 
 "To the dent!" cried the old crab, raising a lime.
 

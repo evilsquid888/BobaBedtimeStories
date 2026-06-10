@@ -4,7 +4,7 @@
 **Guest Characters:** Coco the Granizado
 **Setting:** A wooden fishing pier on the warm Pacific
 **Theme:** Trying your best matters more than winning.
-**Spanish Spotlight:** **pez** (pess) = fish
+**Spanish Spotlight:** **pez** (pess) — fish
 
 ---
 
@@ -149,6 +149,8 @@ He scooped up half his catch in his great big beak, glided over, and gently laid
 "Better together!" said Coco, who had heard Pinto say that once and thought it was just about the nicest thing ever.
 
 The whole pier burst into cheers — and this time, they were cheering for *everybody*.
+
+When the contest judge counted the catches at last, Pelican Pancho was declared the Great Pier Fishing Champion, four times running. But instead of his usual bow-for-himself, Pancho just tipped his beak toward Tato and said quietly, "Couldn't have won a better morning without you, amigo."
 
 ---
 

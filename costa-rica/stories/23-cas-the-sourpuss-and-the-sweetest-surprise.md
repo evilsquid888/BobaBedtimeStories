@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A sunny fruit-stand corner of Pura Vida Town where fresco drinks are blended
 **Theme:** Being a little different (even a little sour) is exactly what makes you special.
-**Spanish Spotlight:** fresco (FRES-koh) = a fresh blended fruit drink
+**Spanish Spotlight:** **fresco** (FRES-koh) — a fresh blended fruit drink
 
 ---
 
@@ -16,7 +16,7 @@ You see, Cas was sour. Not a little tart. Not gently zingy. *Sour.* So puckery t
 
 And with that, he tugged a leaf over his head like a tiny grumpy blanket and waited to be ignored.
 
-The fruit stand belonged to a fizzy, cheerful corner of town where every afternoon the big glass blender pitcher whirred and gurgled, turning fruit into the most beloved drink for miles around — a **fresco** (FRES-koh) = a fresh blended fruit drink. Children pressed their noses to the counter. Coins clinked. Straws appeared from nowhere. And one by one, the sweet fruits were lifted, cheered, and tumbled happily into the pitcher.
+The fruit stand belonged to a fizzy, cheerful corner of town where every afternoon the big glass blender pitcher whirred and gurgled, turning fruit into the most beloved drink for miles around — a **fresco** (FRES-koh), a fresh blended fruit drink. Children pressed their noses to the counter. Coins clinked. Straws appeared from nowhere. And one by one, the sweet fruits were lifted, cheered, and tumbled happily into the pitcher.
 
 "Mango! Mango first!" sang Mango, who was so ripe she practically glowed, doing a little wiggle as she was scooped up. "Try not to miss me too much, Cas!"
 
@@ -42,7 +42,7 @@ After that, he'd stopped trying. Hiding was safer. Hiding didn't make anybody's 
 
 Now, that particular afternoon was a sticky one. Not warm — *sticky.* The kind of hot where the air feels like warm honey and your own shadow seems too tired to follow you. The sun sat fat and yellow over Pura Vida Town and refused to budge, and everything, everywhere, grew sweeter and sweeter and *sweeter.*
 
-The mangoes turned syrupy. The bananas went gooey. The pineapple got so sugary it nearly fell asleep mid-sentence. And when the blender pitcher whirred them all together that afternoon — *vrrrrrrrm!* — out came a **batido** (bah-TEE-doh) = a thick blended drink so sweet and so heavy that the first child who tried it scrunched up her nose.
+The mangoes turned syrupy. The bananas went gooey. The pineapple got so sugary it nearly fell asleep mid-sentence. And when the blender pitcher whirred them all together that afternoon — *vrrrrrrrm!* — out came a **batido** (bah-TEE-doh) — a thick blended drink — so sweet and so heavy that the first child who tried it scrunched up her nose.
 
 "Bleh," she said politely, and set it down.
 
@@ -94,7 +94,7 @@ Her eyes flew open.
 
 "*Whoa,*" she breathed.
 
-And then she drank the entire thing in one long, glorious, can't-stop-sipping gulp, the way you do with something so refreshing it practically high-fives your taste buds. "It's not too sweet anymore!" she cried. "It's — it's like a little burst of sunshine! It wakes your whole *mouth* up! ¡**Qué rico**! (keh REE-koh) = how delicious!"
+And then she drank the entire thing in one long, glorious, can't-stop-sipping gulp, the way you do with something so refreshing it practically high-fives your taste buds. "It's not too sweet anymore!" she cried. "It's — it's like a little burst of sunshine! It wakes your whole *mouth* up! ¡**Qué rico**! (keh REE-koh) — how delicious!"
 
 "OTRO!" shouted the boy behind her, which means *another,* and suddenly the whole street was shouting it. *¡Otro! ¡Otro!* The line came roaring back. Coins clinked like rain. Straws appeared by the fistful. The pitcher whirred so happily it nearly danced off the counter.
 

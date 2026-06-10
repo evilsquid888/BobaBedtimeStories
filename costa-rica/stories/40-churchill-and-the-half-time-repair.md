@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A packed seaside Puntarenas living room during the big national futbol final
 **Theme:** When friends squabble, a peacemaker can mend things before the game even matters.
-**Spanish Spotlight:** calma (KAHL-mah) = calm / take it easy
+**Spanish Spotlight:** **calma** (KAHL-mah) — calm, or take it easy
 
 ---
 
@@ -40,7 +40,7 @@ Now, you have never seen anything in your life quite like a Churchill. He was a 
 
 For Churchill was not just any sundae. Down at the seaside walk, where the salty air made everyone thirsty and hot tempers melted in the noon sun, folks said a Churchill could cool down anything — a sunburned afternoon, a long wait, even, some swore, a grumpy abuelo. He was Puntarenas's most famous treat, and he had spent his whole sweet life learning the difference between the kind of cold that pushes people apart and the kind of cool that brings them gently back together.
 
-"**¡Buenas!**" he called warmly. "I felt the temperature drop all the way from the corner. And it is not the air conditioning." He looked at Tito facing the lamp. He looked at Frijolita facing the wall. He let out a long, frosty sigh. "Amigos. **Calma** (KAHL-mah) = take it easy."
+"**¡Buenas!**" he called warmly. "I felt the temperature drop all the way from the corner. And it is not the air conditioning." He looked at Tito facing the lamp. He looked at Frijolita facing the wall. He let out a long, frosty sigh. "Amigos. **Calma** (KAHL-mah) — take it easy."
 
 "He started it," said Frijolita to the wall.
 
@@ -50,7 +50,7 @@ For Churchill was not just any sundae. Down at the seaside walk, where the salty
 
 Churchill did not pick a side. This was, the other snacks would later agree, the most remarkable thing about him. A lesser sundae would have melted with the drama, pointed a syrupy finger, declared a winner, and made everything twice as hot. The cassava crisps had rather hoped he would — secretly, everyone loves to know who is *right*. But Churchill only slid himself gently right between the two friends, settling onto the coffee table with a soft, frosty *creak*, so cool and so calm that the angry heat coming off both of them began, ever so slightly, to settle, like steam fading off a cup left out overnight.
 
-"I am not here to decide who jinxed the team," Churchill said. "I am only a sundae. I cannot even reach the remote." A few snacks giggled. "But I have learned a thing, friends, on all my cold nights at the market. When two people shout, nobody hears anything — not the game, not each other. So." He tipped his powdered-milk hat. "Let us try **despacio** (dehs-PAH-see-oh) = slowly. Tito, you first. And Frijolita — you only listen. You do not bubble back."
+"I am not here to decide who jinxed the team," Churchill said. "I am only a sundae. I cannot even reach the remote." A few snacks giggled. "But I have learned a thing, friends, on all my cold nights at the market. When two people shout, nobody hears anything — not the game, not each other. So." He tipped his powdered-milk hat. "Let us try **despacio** (dehs-PAH-see-oh) — slowly. Tito, you first. And Frijolita — you only listen. You do not bubble back."
 
 Tito turned around, just a little. "I am scared," he admitted, and his crispy voice cracked the tiniest bit. "I am scared we will lose, and it will be my fault for crunching wrong, and you will not be my friend anymore."
 
@@ -84,7 +84,7 @@ But here is the part Tito and Frijolita remembered most, years and years later, 
 
 Because a game lasts ninety minutes. A friendship, if you are gentle with it, lasts a great deal longer.
 
-Churchill, by then, had melted just a little from all the cheering — a soft, contented puddle of pink and white spreading lazily across the table. He did not mind one bit. "Best way to go," he sighed happily, "warm room, good friends, a winning goal. **Pura vida** (POO-rah VEE-dah) = pure life." And the snacks scooped him up by the spoonful, sweet and cold and just exactly right, and that famous Puntarenas sundae became the most delicious goodnight any watch-party ever shared — proud and glad and grinning to the very last melty drop.
+Churchill, by then, had melted just a little from all the cheering — a soft, contented puddle of pink and white spreading lazily across the table. He did not mind one bit. "Best way to go," he sighed happily, "warm room, good friends, a winning goal. **Pura vida** (POO-rah VEE-dah) — pure life." And the snacks scooped him up by the spoonful, sweet and cold and just exactly right, and that famous Puntarenas sundae became the most delicious goodnight any watch-party ever shared — proud and glad and grinning to the very last melty drop.
 
 Outside, the sea breathed in. The sea breathed out. And one by one, full and happy and friends again, the snacks began, at last, to grow sleepy.
 

@@ -4,7 +4,7 @@
 **Guest Characters:** Gallo, Pinto, Coco the Granizado, Don Café, Estrella the Sea Turtle
 **Setting:** A grand relay race from the Caribbean coast to the Pacific
 **Theme:** We go farther when we pass the joy along.
-**Spanish Spotlight:** camino (kah-MEE-noh) = road / path
+**Spanish Spotlight:** **camino** (kah-MEE-noh) — road or path
 
 ---
 
@@ -14,7 +14,7 @@ On the morning of the Great Coast-to-Coast Relay, Tato the Patacon was so excite
 
 "Smash now, worry never!" he said proudly, even though he had not smashed anything except his own dignity.
 
-A great crowd of treats had gathered where the Caribbean Sea met the shore, all the way to where, three days away, the Pacific waited on the other side of the whole country. A long ribbon of road — a **camino** (kah-MEE-noh) = road / path — stretched from one sea to the other, winding through rainforest and past a sleepy volcano. And today, the friends would carry one small thing all the way across it.
+A great crowd of treats had gathered where the Caribbean Sea met the shore, all the way to where, three days away, the Pacific waited on the other side of the whole country. A long ribbon of road — a **camino** (kah-MEE-noh), a road or path — stretched from one sea to the other, winding through rainforest and past a sleepy volcano. And today, the friends would carry one small thing all the way across it.
 
 A single, glowing seashell. The Joy Shell.
 
@@ -42,7 +42,7 @@ And here is the secret Tato learned at the bottom of that muddy bank: he did not
 
 "I am... in EVERY... race," Slowy said dreamily. "I just... finish... laaater."
 
-Tato laughed so hard a flake of golden crust fell off him. He picked it up, brushed it clean, and stuck it right back on. "Smash now, worry never," he reminded himself, and that was true, but he was learning something even better as he climbed back onto the camino: a flat little patacon could go a very long way, as long as he didn't have to go all of it by himself. Behind him, Slowy lifted one slow toe in farewell, a goodbye that would take most of the afternoon to finish.
+Tato laughed so hard a flake of golden crust fell off him. He picked it up, brushed it clean, and stuck it right back on. "Nothing keeps a patacon down," he reminded himself, and that was true, but he was learning something even better as he climbed back onto the camino: a flat little patacon could go a very long way, as long as he didn't have to go all of it by himself. Behind him, Slowy lifted one slow toe in farewell, a goodbye that would take most of the afternoon to finish.
 
 ---
 
@@ -58,7 +58,7 @@ Tato passed her the Joy Shell, and the very second he let go, something funny ha
 
 Estrella swam the river leg, the Joy Shell balanced on her star-shell, glowing across the water. Fish leapt alongside her just to see it. At the far bank, she lifted it gently onto the shore — and into the cool, frosty hands of Coco the Granizado.
 
-"WHOA, tuanis!" Coco shouted, rainbow shaved-ice mound sparkling, tiny sunglasses on. "Watch THIS, everybody! Stay frosty, stay sweet!"
+"WHOA, now we're talking!" Coco shouted, rainbow shaved-ice mound sparkling, tiny sunglasses on. "Watch THIS, everybody! Stay frosty, stay sweet!"
 
 ---
 
@@ -66,7 +66,7 @@ Coco took off like a frosty cannonball, shaved-ice mound bouncing, syrup-stripes
 
 But Coco's leg ran uphill toward the volcano, and this was a problem, because Coco was made of ice, and the air was getting warm, and warm air is an ice friend's worst enemy.
 
-"I'm — *pant* — melting a little — *pant* — but it's TUANIS!" Coco cried, leaving a glittering trail of melty syrup-drips behind. Drip, drip, sparkle. Every drop steamed faintly on the warm stones.
+"I'm — *pant* — melting a little — *pant* — but it's WORTH IT!" Coco cried, leaving a glittering trail of melty syrup-drips behind. Drip, drip, sparkle. Every drop steamed faintly on the warm stones.
 
 By the time Coco reached the misty middle of the country, he had melted into a much smaller, much soggier mound. He held up the Joy Shell with one slushy hand.
 
@@ -86,7 +86,7 @@ The other friends, watching from below, were amazed to see that his steady littl
 
 "You see," he called down to them all, with a wink, "the camino is long. So we share it. One bean cannot drink the whole pot." Steam from a faraway kitchen seemed to nod in agreement.
 
-And just then, who should come puffing up the volcano path behind him but Coco — refrozen, refreshed, and grinning, having sat himself in a cold mountain stream until he was a proper tall sparkling mound again. "The mist froze me back together!" he crowed. "I'm tuanis! Don't you DARE finish this parade without me!"
+And just then, who should come puffing up the volcano path behind him but Coco — refrozen, refreshed, and grinning, having sat himself in a cold mountain stream until he was a proper tall sparkling mound again. "The mist froze me back together!" he crowed. "Good as new! Don't you DARE finish this parade without me!"
 
 At the bottom of the volcano's far side, two small friends waited together, as they always were. Gallo the fried-rice grain in his little woven palm hat, and Pinto the black bean with his tiny spoon. The last leg. The leg to the Pacific.
 
@@ -100,7 +100,7 @@ Gallo and Pinto looked at each other and grinned the same grin.
 
 "Who said only one?" said Pinto. "We never go anywhere alone."
 
-So they ran the final leg side by side, the little rice grain and the little black bean, each holding one edge of the Joy Shell between them. Down through the dry golden forest of the Pacific side they ran, past howler monkeys and bright **flores** (FLOH-rehs) = flowers, with Cajeta the coconut-fudge ball bouncing alongside cheering "Sweet and round, watch me bound!" and Tato pat-pat-patting up behind, mud and all, having caught up at last.
+So they ran the final leg side by side, the little rice grain and the little black bean, each holding one edge of the Joy Shell between them. Down through the dry golden forest of the Pacific side they ran, past howler monkeys and bright **flores** (FLOH-rehs) — flowers — with Cajeta the coconut-fudge ball bouncing alongside cheering "Sweet and round, watch me bound!" and Tato pat-pat-patting up behind, mud and all, having caught up at last.
 
 And here came the funniest, warmest part. Because as they ran the last stretch of camino, every single friend who had carried the shell that day fell in behind them — Tato, Estrella waddling on her flippers, soggy little Coco, slow Don Café, even Slowy arriving precisely now (he'd been on his way the whole time). They became one happy, ridiculous, golden parade, thundering and waddling and dripping and bouncing toward the Pacific Sea.
 
@@ -108,7 +108,7 @@ And here came the funniest, warmest part. Because as they ran the last stretch o
 
 "It was always a parade," said Estrella gently. "We just hadn't noticed."
 
-Cajeta bounced so high with excitement that she landed neatly on top of Coco's frosty mound and rode the rest of the way like a tiny fuzzy passenger. Tico the Toucan flew loops overhead announcing every single thing that happened — "THEY ROUND THE BEND! THE BEAN IS SMILING! THE SLOTH HAS NEARLY ARRIVED! BEAK THE NEWS!" — and behind them all, the whole green country seemed to lean forward to watch, rainforest and volcano and golden dry-forest alike, the way you lean forward at the very best part of a story.
+Cajeta bounced so high with excitement that she landed neatly on top of Coco's frosty mound and rode the rest of the way like a tiny fuzzy passenger. Tico the Toucan flew loops overhead announcing every single thing that happened — "THEY ROUND THE BEND! THE BEAN IS SMILING! THE SLOTH HAS NEARLY ARRIVED! WHAT A FINISH!" — and behind them all, the whole green country seemed to lean forward to watch, rainforest and volcano and golden dry-forest alike, the way you lean forward at the very best part of a story.
 
 Gallo and Pinto reached the edge of the Pacific together. The sea was on fire with sunset, pink and gold and orange, and there stood the Sunset Bell, waiting.
 

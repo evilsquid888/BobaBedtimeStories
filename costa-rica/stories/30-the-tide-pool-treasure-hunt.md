@@ -4,7 +4,7 @@
 **Guest Characters:** Coco the Granizado, Tato the Patacon
 **Setting:** Glistening rocky tide pools at low tide
 **Theme:** The real treasure is the friends you explore with.
-**Spanish Spotlight:** **mar** (mar) = sea
+**Spanish Spotlight:** **mar** (mar) — sea
 
 ---
 
@@ -18,7 +18,7 @@ When the tide pulled back from the rocks one golden evening, it left behind a hu
 
 ---
 
-Estrella chuckled, a sound like a wave folding gently over sand. "Long, long ago," she said, "before I was even a hatchling, the elders of the **mar** (mar) = sea told a story. They said that hidden somewhere in these tide pools is the Lost Gem of the Tide — a jewel so bright it holds a piece of the moon inside it."
+Estrella chuckled, a sound like a wave folding gently over sand. "Long, long ago," she said, "before I was even a hatchling, the elders of the **mar** (mar) — the sea — told a story. They said that hidden somewhere in these tide pools is the Lost Gem of the Tide — a jewel so bright it holds a piece of the moon inside it."
 
 Coco gasped. A little piece of him melted off and refroze with excitement. "A piece of the *moon?* Tato, we are going to be RICH. We are going to be famous. We are going to have our own parade!"
 

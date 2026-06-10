@@ -4,7 +4,7 @@
 **Guest Characters:** Coco the Granizado
 **Setting:** The open turquoise Pacific just offshore
 **Theme:** Joy is meant to be shared in a leaping, splashing pod.
-**Spanish Spotlight:** delfín (del-FEEN) = dolphin
+**Spanish Spotlight:** **delfín** (del-FEEN) — dolphin
 
 ---
 
@@ -16,7 +16,7 @@ Then — *SPLOOSH!* — a wave smacked her right in the face.
 
 "Oh my," Estrella blinked, wiping salt water from her ancient, kind eyes. "That was a very rude cloud."
 
-But it wasn't a cloud. It was a young **delfín** (del-FEEN) = dolphin, gray and gleaming and grinning a mile wide, who had bellyflopped beside her with all the grace of a flying flip-flop.
+But it wasn't a cloud. It was a young **delfín** (del-FEEN) — a dolphin — gray and gleaming and grinning a mile wide, who had bellyflopped beside her with all the grace of a flying flip-flop.
 
 "Sorry! Sorry-sorry-sorry!" the little dolphin squeaked. "I was trying to leap *beautifully* and I leaped... mostly sideways."
 
@@ -26,7 +26,7 @@ Estrella smiled her slow, motherly smile. "Well. You leaped with *enthusiasm*."
 
 The dolphin's name, it turned out, was Delfino, and he was the bounciest, splashiest, loneliest little creature Estrella had ever met.
 
-"I leap and I twirl and I do my very best squeak-squeak whistle," Delfino said, doing all three at once and accidentally splashing Estrella again. "But there's nobody to leap *with*. Dolphins are supposed to swim in a **manada** (mah-NAH-dah) = pod. A whole big family that plays together! But I lost mine in a storm last winter, and now the ocean is so... quiet."
+"I leap and I twirl and I do my very best squeak-squeak whistle," Delfino said, doing all three at once and accidentally splashing Estrella again. "But there's nobody to leap *with*. Dolphins are supposed to swim in a **manada** (mah-NAH-dah) — a pod. A whole big family that plays together! But I lost mine in a storm last winter, and now the ocean is so... quiet."
 
 He looked down at his own reflection, which wiggled sadly in the water.
 

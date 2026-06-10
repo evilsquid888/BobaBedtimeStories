@@ -4,7 +4,7 @@
 **Guest Characters:** Flan the Coconut Flan, Tamalita
 **Setting:** A cozy living room during the green-season afternoon rains
 **Theme:** A rainy day indoors with family is its own kind of treasure.
-**Spanish Spotlight:** jugar (hoo-GAR) = to play
+**Spanish Spotlight:** **jugar** (hoo-GAR) — to play
 
 ---
 
@@ -46,7 +46,7 @@ Flan stopped wobbling. "You do?"
 
 Tamalita's eyes twinkled like tinsel.
 
-"We **jugar** (hoo-GAR) = to play," she said. "*Board game night!*"
+"We **jugar** (hoo-GAR) — we play," she said. "*Board game night!*"
 
 ---
 

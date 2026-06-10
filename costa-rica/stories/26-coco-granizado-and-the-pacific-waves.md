@@ -4,13 +4,13 @@
 **Guest Characters:** Tato the Patacon
 **Setting:** A golden Pacific surf beach in Guanacaste
 **Theme:** Riding the wave is more fun than fighting it.
-**Spanish Spotlight:** **playa** (PLAH-yah) = beach
+**Spanish Spotlight:** **playa** (PLAH-yah) — beach
 
 ---
 
 Now, between you and me, there has never been a single dessert in all of Costa Rica as confident as Coco the Granizado on the morning he decided to learn how to surf.
 
-Coco was a tall, fluffy mound of rainbow-syruped shaved ice, tucked into a paper cone, dusted with powdered milk like fresh snow, and wearing his tiny round sunglasses even though the sun had barely yawned awake. He stood at the edge of the **playa** (PLAH-yah) = beach, where the golden sand of Guanacaste met the big blue Pacific, and he struck what he believed was an extremely cool pose.
+Coco was a tall, fluffy mound of rainbow-syruped shaved ice, tucked into a paper cone, dusted with powdered milk like fresh snow, and wearing his tiny round sunglasses even though the sun had barely yawned awake. He stood at the edge of the **playa** (PLAH-yah) — the beach — where the golden sand of Guanacaste met the big blue Pacific, and he struck what he believed was an extremely cool pose.
 
 "Behold," Coco announced to a passing crab, "the future greatest surfer this coast has ever seen. Stay frosty, stay sweet!"
 
@@ -28,7 +28,7 @@ He waded into the warm shallows, hopped onto the board with a *fwump*, paddled o
 
 When he popped back up, half his rainbow syrup had run pink and his powdered-milk snow had gone soggy.
 
-"That," he sputtered, "was a practice fall. Professionals do practice falls."
+"That," he sputtered, "was entirely the wave's fault. It moved at the last second. A professional cannot be expected to surf a wave that *moves*."
 
 He climbed back on. He fell off again. *SPLOOSH.* He climbed back on. He fell off the *other* way. *SPLOOSH.* He climbed back on so fast and fell off so quickly that, honestly, it looked less like surfing and more like a cone playing peekaboo with the ocean.
 
@@ -80,9 +80,9 @@ Coco landed in the foam upside down with his cone stuck in the sand and his two 
 
 Tato came hurrying. "Are you—"
 
-"Practice fall," came Coco's muffled voice from inside the sand.
+"I am inspecting the sand," came Coco's muffled voice from inside the sand. "Up close. For quality. It passes."
 
-"That is *definitely* not a practice fall."
+"You are *definitely* not inspecting the sand."
 
 Tato gently un-stuck him. Coco's sunglasses were now on sideways, and a small crab had taken up residence on top of his head, enjoying the view.
 

@@ -2,184 +2,178 @@
 
 **Main Character:** Gallo
 **Guest Characters:** Lala the Tres Leches
-**Setting:** An abuela's kitchen with a worn recipe card
-**Theme:** The sweetest recipes are the ones passed down with love.
-**Spanish Spotlight:** abuela (ah-BWEH-lah) = grandmother
+**Setting:** An abuela's kitchen with two dueling pots on one stove
+**Theme:** Love has more than one right recipe — quarrels mend when we truly taste each other's way.
+**Spanish Spotlight:** **arroz con leche** (ah-ROHS kohn LEH-cheh) — rice pudding; **abuela** (ah-BWEH-lah) — grandmother; **tía** (TEE-ah) — aunt
 
 ---
 
-Gallo woke up doing a cannonball.
+Gallo woke up flying.
 
-One moment he was snoozing in the rice jar, dreaming of skillets and sunshine; the next moment — *floomp!* — a big wooden spoon scooped him up, twirled him through the air, and dropped him into a warm pot of bubbling milk.
+One moment he was snoozing in the rice jar, dreaming of skillets and sunshine; the next moment — *floomp!* — a wooden spoon scooped him up, twirled him through the air, and dropped him into a warm pot of bubbling milk.
 
-"Rise and pinto!" he sang, bobbing to the surface and spitting out a tiny milk bubble. "Whoa, hum-hum, this is the *coziest* swimming pool I have ever been in!"
+"Rise and pinto!" he sang, bobbing to the surface and spitting out a tiny milk bubble. "Hum-hum, what a *cozy* morning! Hello, milk! Hello, kitchen! Hello — wait." He paddled in a slow circle. "Why are there *two* pots on this stove?"
 
-The milk was warm as a hug and white as a cloud. All around him, hundreds of other rice grains were paddling, giggling, and turning slowly fat and happy in the heat. One did a tiny backflip. Another floated on its back, blowing milk bubbles at the ceiling. It was, Gallo decided, the friendliest crowd he had ever swum with.
+Because there were. Two big pots, side by side, both bubbling, both full of milk and paddling rice grains. And standing over them, back to back like two cowboys at high noon, were two tiny silver-haired ladies in flowered aprons — each gripping her own wooden spoon, each refusing to look at the other.
 
-"Excuse me, pardon me, lovely milk, coming through!" he hummed, doggy-paddling in a happy loop.
+A soft square of cake leaned down from the counter, dripping sweet milk and trembling with excitement.
 
-A round little square of cake leaned over the edge of the pot, dripping sweet milk and gasping with delight.
+"Ohhh, Gallo, you picked the wrong morning to be rice," whispered Lala the Tres Leches, her whipped-cream cloud wobbling. "That's the **abuela** (ah-BWEH-lah) — the grandmother — Abuela Rosa. And *that* is her sister, who arrived last night on the bus from San José. The **tía** (TEE-ah) — the aunt — Tía Carmen. They're both making **arroz con leche** (ah-ROHS kohn LEH-cheh) — rice pudding — for Sunday dinner. And Gallo..." Lala lowered her voice to a thrilled, creamy hush. "*They do not agree on the recipe.*"
 
-"Ohhh, *soak it all in!*" cried Lala the Tres Leches, her whipped-cream cloud wobbling. "You're going to be **arroz con leche** (ah-RROHS kohn LEH-cheh) = rice pudding! It's only the most beloved dessert in the whole house!"
+"Hum-hum, how different can two rice puddings be?" asked Gallo.
 
-Gallo blinked his little golden specks. "Arroz con leche? Hum-hum, I don't even know how to *be* a dessert. Who decides?"
+Both ladies spoke at exactly the same moment.
 
-Lala pointed one creamy corner toward the counter.
+"Cinnamon," said Abuela Rosa.
 
-"She does," Lala whispered. "The **abuela** (ah-BWEH-lah) = grandmother."
+"Lime peel," said Tía Carmen.
 
----
-
-At the counter stood a tiny, silver-haired grandmother in a flowered apron, humming a song older than the kitchen tiles. She stirred the pot with the patience of a sunset.
-
-And in her other hand, soft and worn and spotted with a hundred old splashes, she held a recipe card.
-
-Gallo squinted up at it. The card was so old its corners had gone fuzzy. The ink was faded. There were little drawings in the margins — a smiling sun, a cinnamon stick, and a tiny heart.
-
-"That card," breathed Lala, "is the secret recipe. Abuela's mother gave it to her. And *her* mother gave it to *her*. It is older than the oven. It is older than the cat. It might be older than *cinnamon itself.*"
-
-Gallo paddled in a slow, awed circle. "Hum-hum. And it's going to turn *me* into something delicious?"
-
-"If we do it right," said Lala. Then her cream cloud drooped. "But, ohhh, here is the trouble..."
-
-A breeze fluttered through the window. The little recipe card slipped from Abuela's fingers, spun like a falling leaf, and landed *splat* — face-down — in a puddle of spilled milk on the floor.
-
-Abuela didn't notice. She was reaching for the sugar, still humming her song.
-
-But when she turned back and looked at the pot, she frowned. She tapped her chin. She picked up the soggy card, peered at the smeary ink, and sighed a worried little sigh.
-
-"Ay," she murmured. "The words... they have washed away."
+The milk in both pots went very still, the way milk does when it senses trouble.
 
 ---
 
-Gallo bobbed up as high as a fattening rice grain could bob.
+"Mamá made it with a cinnamon stick," said Abuela Rosa, stirring her pot with the firmness of a woman who has been right since 1962. "And raisins. Plump ones. That is the One True Recipe, Carmen, and you know it."
 
-"Lala!" he gasped. "The recipe! If Abuela can't read it, she won't know what to add! I'll just be... plain rice in warm milk. Nice, but — hum — not *magic.*"
+"Mamá made it with lime peel," said Tía Carmen, stirring *her* pot twice as firmly. "Bright as a Sunday morning. And *no raisins*, Rosa, because raisins in pudding are little brown surprises that nobody asked for."
 
-Lala flapped her corners in a panic. "We have to remember the recipe! But I only ever watched. I never *read* it!"
+"Take that back."
 
-"Then we ask the kitchen," said Gallo, who had an idea so sunny it practically toasted. "Somebody in here remembers Abuela's recipe. Kitchens are full of old friends!"
+"I will not. Raisins are what happens when grapes give up."
 
-So, while Abuela dabbed gently at the wet card with a towel, Gallo called out across the steamy pot in his cheeriest morning voice.
+Lala gasped so hard her cinnamon dot slid sideways. "Oh, this is *better* than my soap operas," she breathed.
 
-"Helloooo, kitchen! We need to remember Abuela's arroz con leche! What goes in it?"
+And then — because kitchens are terrible gossips — the whole room began to take sides.
 
-There was a clatter from the cupboard.
+A fat brown cinnamon stick rolled out of the cupboard and stood proudly behind Abuela Rosa's pot. "Team Rosa," he announced in a voice like a church bell. "I have flavored this family's pudding since before the roof was on this house."
 
-A wobbly green pickle jar swung its lid open first. "I know! I know!" it shouted eagerly. "You add *pickles!* Big juicy ones! And maybe a fish!"
+A curl of green lime peel sprang up onto the counter behind Tía Carmen, flexing like a tiny gymnast. "Team Carmen!" she sang. "Cinnamon is for sleepy people. Lime is for *living*!"
 
-The whole kitchen went very, very quiet.
+The raisin jar scooted to Rosa's side. The sugar bowl, who loved everyone, stood exactly in the middle and looked nervous.
 
-"...A fish," repeated Gallo.
+And from the back of the cupboard, a wobbly green pickle jar swung its lid open with a hopeful *creak*.
 
-"In the pudding," said Lala faintly.
+"I'm on whichever team adds the fish," it said.
 
-"You're welcome," said the pickle jar, very proud of itself, and closed its lid with a satisfied *clop.*
+"There is no fish team," said the cinnamon stick.
 
-Gallo bobbed a polite little bob. "Hum-hum. Thank you, but I think — maybe — somebody who has actually *been* in the pudding before?"
-
-Then, from deep in the cupboard, a fat brown cinnamon stick rolled forward and stood up tall, dusting himself off. He smelled wonderful and warm, and he wore the calm air of someone who had been in *many* pots.
-
-"I do," he said slowly, in a voice like a grandfather telling a bedtime tale. "Good things brew slowly. I am Canelo the Cinnamon. I have flavored this pudding since Abuela was a little girl no taller than the table."
-
-Gallo cheered. "Wonderful! What do we add first?"
-
-Canelo closed his eyes, remembering. "First... a strip of orange peel, for *brillo* — a little sunshine in the flavor. Abuela always saves one in the blue bowl."
-
-Quick as a sugar-rush, a strip of orange peel hopped down from the blue bowl, somersaulted through the air, and dove into the pot with a happy little *bloop.*
-
-The milk went golden and bright.
-
-"Oooh!" sighed Lala. "It smells like morning!"
+"*Yet,*" said the pickle jar, and closed its lid like someone who plays the long game.
 
 ---
 
-"What next?" called Gallo, paddling in delighted circles.
+That was when Gallo noticed the worst part.
 
-A clay jar by the stove cleared its throat. Out wobbled a thick, sweet, golden ribbon of milk — *leche condensada*, sweetened condensed milk, slow and shy.
+The rice grains — his own warm, paddling, milk-bubbly friends — had split down the middle too. Half were in Rosa's pot, chanting "*Ca-ne-la! Ca-ne-la!*" in tiny rice voices. Half were in Carmen's pot, chanting "*Li-món! Li-món!*" right back. And Gallo, who had been scooped exactly last, was bobbing in Rosa's pot but could see his best paddle-buddy, a freckled grain named Chispa, waving sadly at him from Carmen's.
 
-"M-me next, I think," she said softly, "if I may. A pour of sweetness. Not too much. Abuela says sweetness should *whisper*, not shout."
+"This is terrible," said Gallo. "Hum. We're one bag of rice! We *grew up in the same jar!*"
 
-"Soak it all in!" cried Lala, and the sweet ribbon poured herself into the pot in a slow golden swirl.
+Above him, the feud was escalating the way feuds do — politely, and out of control.
 
-The milk turned creamy and rich. Gallo, who was growing plumper and softer by the minute, did a happy little roll. "Hum-hum, I'm getting so *cozy.* Is this what becoming a dessert feels like? Like a warm nap that tastes good?"
+"More cinnamon," said Abuela Rosa, adding a second stick.
 
-From over the rim, the pickle jar called hopefully, "Are we doing the fish now?"
+"More lime," said Tía Carmen, adding a second curl of peel.
 
-"*No fish,*" said the whole kitchen at once.
+"A *handful* of raisins," said Rosa, raising an eyebrow.
 
-"Just checking," said the pickle jar, and settled down to watch with great interest.
+"A handful of *nothing*," said Carmen, raising two.
 
-"Exactly like that," said Canelo gently. "And now — *me.*"
+"My pudding," said Rosa, "once made the priest cry tears of joy."
 
-The cinnamon stick stepped to the edge of the pot, bowed once, and dipped a single toe into the warm milk. A swirl of warm brown spice spun out from him like a ribbon of song. The whole kitchen filled with a smell so cozy that even the cat purred in its sleep.
+"My pudding," said Carmen, "once received a marriage proposal. *From the priest's spoon.*"
 
-Abuela, dabbing at her ruined card, paused. She lifted her nose. She closed her eyes.
+By now Rosa's pot smelled like a cathedral and Carmen's pot smelled like a citrus grove having a party, and both ladies were stirring so fast that the steam over the stove had formed two separate clouds, which were also glaring at each other.
 
-"*Canela,*" she whispered, smiling. "Cinnamon. Of course. How could I forget *cinnamon?*"
+Down on the counter, the ingredients were behaving no better. The cinnamon stick had challenged the lime peel to a rolling race across the cutting board, lost badly, and declared the cutting board "tilted." The lime peel did a victory cartwheel into the butter and had to be rescued. The raisin jar kept rattling its lid and shouting, "We are NOT given-up grapes! We are grapes that found their *purpose!*" And the sugar bowl, still trying desperately to be neutral, offered everyone a spoonful of sugar to calm down, which worked on exactly nobody, because you cannot calm a kitchen with more sugar. That is like calming a drum with a bigger drum.
 
-She didn't need the card after all. Her nose remembered. Her hands remembered. Her *heart* remembered.
+"Should we do something?" Lala whispered down to Gallo. "I feel like we should do something. Or at least get snacks and watch."
 
----
+"We do something," said Gallo, and an idea began to toast in him, sunny and golden. Because Gallo had noticed a thing that no one else had noticed — not the cinnamon stick, not the lime peel, not even the long-game pickle jar.
 
-But Gallo noticed something. He bobbed close to Lala and lowered his voice.
+While the two sisters argued, they had both been humming.
 
-"Lala," he said, "Canelo gave us the orange and the sweetness and the spice. But Abuela still looks a *little* worried. Like there's one ingredient missing. The most important one. Hum — can you feel it?"
+*The same song.*
 
-Lala's cream cloud quivered. "I feel it too. But what *is* it?"
+The exact same little kitchen tune, in the exact same key, in two stubborn, identical, sister-shaped voices. They didn't even know they were doing it.
 
-They asked Canelo. The old cinnamon stick smiled a slow, knowing smile.
-
-"That," he said, "is the one ingredient no recipe card can hold. It is the reason this pudding tastes better than any other in the world. And only Abuela can add it."
-
-Gallo and Lala leaned in. "What *is* it?"
-
-Just then, Abuela set down the soggy card. She didn't need it anymore. She wrapped both wrinkled hands around the warm wooden spoon, and she began to stir — slow and round, slow and round — humming the song her own abuela had hummed to *her*, when *she* was the little girl too small for the table.
-
-And as she stirred, she whispered to the pot, the way you'd whisper to someone you love:
-
-"Cook well, mi amor. Be sweet. Make the little ones happy, the way you always do."
-
-Warmth spread through the whole pot — a warmth that wasn't from the stove. It started at Abuela's heart, traveled down her arm, slid along the wooden spoon, and pooled into the milk like a sunbeam. Gallo felt it soak right into the middle of him, soft and golden and glowing.
-
-Even the pickle jar sniffled a little. "That's beautiful," it whispered. "Still think a fish would've been nice, though."
-
-"*Love,*" he breathed. "The secret ingredient is *love.* Hum-hum. It was never written on the card at all."
-
-"It never could be," said Canelo softly. "Love is the ingredient you *stir in.* Recipe cards keep the steps. But the grandmothers — they keep the love. And they pass it down, spoon by spoon, hum by hum, *abuela* to *abuela*, forever."
-
-Lala was so moved her cinnamon dot nearly slid right off. "*Soak it all in,*" she sniffled happily.
+"Hum-hum," said Gallo softly. "Two pots. One song. Somebody taught them *both*."
 
 ---
 
-At last the arroz con leche was done — thick and creamy and golden, every rice grain plump and proud, the whole pot perfumed with cinnamon and orange and that warm secret you can't quite name but always taste.
+Gallo paddled to the rim of Rosa's pot and called up in his cheeriest morning voice.
 
-Abuela ladled a steaming bowlful, sprinkled a dusting of cinnamon across the top like a little brown blanket, and set it on the table.
+"Excuse me! Doña Rosa! Doña Carmen! Before Sunday dinner is ruined and the priest's spoon has to choose between you — may a humble rice grain propose a contest?"
 
-Gallo, riding high on a creamy spoonful, did not feel scared one tiny bit. He felt like a firework finally getting to light up the sky.
+Both ladies stopped stirring. (In their defense, it is hard to ignore a talking rice grain in a tiny palm hat.)
 
-"All right, everybody!" Gallo called to the hundreds of plump rice grains around him, who were a little nervous about being a dessert for the very first time. "Don't be scared! We're not getting *eaten* — we're getting *celebrated!* We are about to make someone's whole day sweeter. That's the best job a grain of rice could ever have! On the count of three, give your cozy best hum. One, two —"
+"A *taste* contest," said Gallo. "But here is the rule, hum: each of you must taste the *other* sister's pudding. Eyes closed. No peeking, no faces, no comments about raisins. One honest spoonful. If you still think your own recipe is the One True Recipe after that — fine! Two puddings, one Sunday, and the family eats double, which frankly sounds delicious."
 
-"*Hummmmm!*" sang every single rice grain together, and the pot practically glowed.
+"Are we doing the fish now?" called the pickle jar.
 
-"This is the best morning of my whole rice life!" Gallo cheered. "I came from a jar, and now I'm a *masterpiece!* Made with a pinch of cinnamon and a *whole lot* of love. Goodbye, kitchen friends — and *gracias!* Rise and *pinto!*"
+"*No fish,*" said the entire kitchen at once.
 
-A little granddaughter, hair in two bows, climbed onto the chair. She took one spoonful, and her whole face lit up like sunrise.
+"One day," whispered the pickle jar, "you will all want the fish, and I will be ready."
 
-"Abuela," she gasped, "this is the *best* one ever! Will you teach me how to make it someday?"
+The sisters eyed each other. Neither wanted to taste. But neither could refuse a contest, because they were sisters, and refusing a contest is how you lose one. They had once raced each other up a mango tree at ages seventy and seventy-two. Their doctor still told the story at parties.
 
-Abuela's eyes went soft and shiny. She tucked the worn, smudged little recipe card — heart drawing and all — gently into the child's hand.
+"Fine," said Rosa.
 
-"Someday, mi amor," she said, "you will be the abuela. And you will stir in the love yourself."
+"*Fine*," said Carmen, finer.
 
-And somewhere in that warm, sweet, perfect spoonful, Gallo gave one last happy, golden hum — proud to be exactly where the love had carried him.
+So Gallo directed the great spoon-ferry. Lala, taking her duties extremely seriously, draped a dish towel over each sister's eyes like a tiny blindfolded ceremony. The cinnamon stick carried a spoonful of Carmen's lime pudding to Rosa. The lime peel, grumbling about fraternizing with the enemy, carried a spoonful of Rosa's cinnamon-raisin pudding to Carmen.
+
+"On three," said Gallo. "One... two... *taste!*"
+
+Two spoons. Two stubborn mouths. Two long, dangerous seconds of silence.
+
+And then something happened that no one expected, least of all the sisters.
+
+Rosa's chin began to tremble. "That's..." she whispered. "That tastes like Mamá's kitchen. The bright part. The part that smelled like mornings, when she opened the window over the sink."
+
+And Carmen, behind her dish towel, had gone very still. "And *this* tastes like Mamá's kitchen too," she said slowly. "The warm part. The evening part. When the rain came, and she let us stay up, and there were—" her voice wobbled "—there were *raisins*, Rosa. There were. On rainy nights, there were."
+
+The towels came off. The sisters stared at each other across two pots of pudding, and forty years of arguing fell quietly into the milk.
+
+"Cinnamon *and* lime," said Rosa.
+
+"It was one recipe," said Carmen. "Mamá's recipe. And we each ran off with half of it like two hens with one tortilla."
+
+"You remembered the sunshine," said Rosa.
+
+"You remembered the cozy," said Carmen. "Ay, Rosa. We've been fighting over which half of Mamá was the real one."
+
+"Hum-hum," said Gallo gently, from down in the milk. "Maybe pour the halves back together?"
+
+---
+
+What happened next was the best thing Gallo had ever seen from inside a pot.
+
+The two sisters — laughing now, and wiping their eyes with the same dish towel — lifted their pots and poured them together into Mamá's biggest old pot, the dented one from the bottom shelf that had been waiting patiently this whole time, like it knew. Cinnamon swirled into lime. Lime brightened into cinnamon. The raisins went in ("*Rainy-night rules,*" said Carmen, surrendering with dignity, "but I am counting them"), and the rice grains of Team Canela and Team Limón crashed back together in a cheering, paddling, milk-splashing reunion. Gallo and Chispa bonked their little heads together in joy, which is how rice grains hug.
+
+The sisters stirred the one big pot with two spoons, side by side, humming the same song on purpose this time. The two steam clouds over the stove melted into one fat cozy cloud that smelled like every good Sunday at once.
+
+When the family crowded in for dinner — cousins and neighbors and one great-uncle who kissed the refrigerator hello — Abuela Rosa ladled out bowl after golden bowl, and Tía Carmen dusted each one with cinnamon *and* a tiny curl of lime, and nobody could tell whose recipe it was, because it was finally, again, *Mamá's.* The cinnamon stick and the lime peel sat together on the windowsill like old rivals after the big game, agreeing that, really, they had both carried the team. Even the raisins got compliments, which had not happened in forty years, and one of them fainted from joy into the pudding, where, to be fair, it was very comfortable.
+
+Gallo rode out on the very first spoonful, plump and proud, not one bit scared.
+
+"Don't worry, everybody!" he called back to his fellow grains. "We're not getting eaten — we're getting *reunited with the family!* Best job in the whole world! Goodbye, kitchen friends — *gracias* — and stay together, hum-hum!"
+
+A little granddaughter with two bows in her hair took one bite and looked up, amazed. "Abuela, Tía — this is the best one *ever*. Whose recipe is it?"
+
+The two sisters looked at each other over the steam.
+
+"Ours," they said together.
+
+And from the cupboard, soft and content in the dark, the pickle jar whispered, "Next Sunday... the fish."
 
 ---
 
 ## Goodnight Blessing
-May your dreams be warm as a pot of arroz con leche, sweet and slow and stirred with care. May you always remember that the best things in the world aren't written on cards — they're passed from heart to heart, hand to hand, hug to hug. May someone who loves you hum you a song tonight, the way the grandmothers always have. Sleep soft, little one, and soak it all in. Pura vida, and sweet dreams. Goodnight.
+
+May your dreams be warm as one big pot made out of two, with cinnamon for the cozy nights and lime peel for the morning. May you remember, little one, that the people who squabble loudest often love the very same things — they just remember different halves. If ever you quarrel, may you be brave enough to taste the other side, and may it taste like home. Sleep soft, stay sweet, and let every stubborn thing in you melt together like milk and rice. Pura vida, and sweet dreams. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration of a cozy abuela's kitchen at golden hour: a tiny silver-haired grandmother in a flowered apron stirring a steaming pot of creamy arroz con leche with a worn wooden spoon. Inside the pot, a cheerful plump white rice grain (Gallo) with golden fried specks and a little woven palm hat bobs happily in warm milk, waving. A soft square of tres leches cake (Lala) with a whipped-cream cloud peeks over the pot rim. A friendly cinnamon stick and a strip of orange peel hover near the steam. Palette: warm cream, butter gold, cinnamon brown, soft kitchen sunlight. Mood: tender, magical, dreamy.
-2. Character portrait of Gallo, a sentient grain of fried rice — a plump glossy white rice grain speckled with golden fried bits and tiny flecks of red pepper and cilantro, wearing a little woven palm hat, beaming with a sunny optimistic grin, mid-cannonball splash into warm milk, droplets sparkling around him. Storybook style, warm soft lighting, joyful energy.
-3. Cozy closing scene: a small granddaughter with two hair bows at a wooden table, face glowing with joy over a steaming bowl of cinnamon-dusted arroz con leche, while the smiling abuela gently presses a worn, heart-marked recipe card into the child's little hands. Golden evening light through a kitchen window, steam curling softly, the cinnamon stick and Gallo's golden glow lingering warmly. Tender, nostalgic, heartwarming storybook palette of amber and cream.
+
+1. **Key scene:** Warm whimsical storybook illustration of a cozy Costa Rican abuela's kitchen: two tiny silver-haired sisters in flowered aprons standing back to back at one stove, each fiercely stirring her own bubbling pot of arroz con leche, two separate steam clouds glaring at each other overhead. A proud cinnamon stick character stands behind one pot, a springy curl of lime peel poses behind the other, and a cheerful plump white rice grain in a tiny woven palm hat (Gallo) bobs in the milk looking back and forth between them. Palette: warm cream, butter gold, cinnamon brown, lime green accents. Mood: funny, dramatic, cozy.
+
+2. **Character portrait:** Gallo, a sentient grain of fried rice — a plump glossy white rice grain speckled with golden fried bits and tiny flecks of red pepper and cilantro, wearing a little woven palm hat, beaming a sunny peacemaker's grin as he stands on the rim of a pot holding up two tiny spoons, one dusted with cinnamon and one topped with a curl of lime peel. Storybook style, warm soft lighting, joyful diplomatic energy.
+
+3. **Closing scene:** Two smiling silver-haired sisters stirring one big dented old pot together with two wooden spoons, their steam rising in a single cozy cloud, while a small granddaughter with two hair bows glows with delight over a bowl of arroz con leche dusted with cinnamon and a tiny lime curl. Golden evening light through the kitchen window, a long table of happy family in the background, Gallo's little golden gleam riding the first spoonful. Tender, heartwarming storybook palette of amber, cream, and soft green.

@@ -4,11 +4,11 @@
 **Guest Characters:** None
 **Setting:** A roadside soda (little family diner) with a bubbling fryer
 **Theme:** Sometimes getting flattened just makes you stronger and crunchier.
-**Spanish Spotlight:** **tuanis** (TWAH-nees) = cool / awesome
+**Spanish Spotlight:** **tuanis** (TWAH-nees) — cool, awesome
 
 ---
 
-On a sleepy curve of jungle road, where the howler monkeys yawned and the rain smelled like leaves, there sat a tiny **soda** (SOH-dah) = little family diner — the cheerful sort with three plastic tables, a wobbly fan, and a fryer that bubbled like a happy little volcano.
+On a sleepy curve of jungle road, where the howler monkeys yawned and the rain smelled like leaves, there sat a tiny **soda** (SOH-dah) — a little family diner — the cheerful sort with three plastic tables, a wobbly fan, and a fryer that bubbled like a happy little volcano.
 
 And inside the kitchen, on a wooden cutting board, sat Tato.
 
@@ -24,7 +24,7 @@ Across the kitchen, the fryer went *blub-blub-bloop*, and Tato squeaked and hid 
 
 You see, every plantain in the soda knew the legend. When you were ripe and ready, Doña Mari — the round, smiling cook with flour on her elbows — would scoop you up, fry you golden, and then... *flatten you.* Smash you flat with the bottom of a cup. Pancake-flat. Coin-flat. Flatter than a sleeping iguana.
 
-And THEN, only then, did you become a **patacón** (pah-tah-KOHN) = a twice-fried smashed plantain. The crispy, crunchy, salty star of every plate.
+And THEN, only then, did you become a **patacón** (pah-tah-KOHN) — a twice-fried smashed plantain. The crispy, crunchy, salty star of every plate.
 
 But Tato did not want to be flattened. Tato liked being round. Round was comfortable. Round was *him.*
 
@@ -148,7 +148,7 @@ And Tato — flat, golden, ruffly, *brand-new* Tato — felt his whole crunchy s
 
 Getting smashed hadn't made him less.
 
-It had made him the best, brightest, crispiest version of himself — the version that made children's eyes go wide. Like a quiet little firework that had finally, *finally* gotten to light up the sky.
+It had made him the best, brightest, crispiest version of himself — the version that made children's eyes go wide. Like a patient little kite that had finally, *finally* caught the wind.
 
 "Go on," he wanted to tell them, and somehow they heard. "I worked very hard to get this crunchy. Enjoy every bite."
 
