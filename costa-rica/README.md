@@ -1,6 +1,6 @@
 # 🇨🇷 Costa Rica Bedtime Stories
 
-50 cozy, funny, food-themed bedtime stories for ages 9–12, set in Costa Rica. Each stars a sentient Costa Rica food/treat character, weaves in light **Spanish (Tico)** vocabulary, and ends with a warm Goodnight Blessing. Part of the *Boba Bedtime Stories* family.
+52 cozy, funny, food-themed bedtime stories for ages 9–12, set in Costa Rica. Each stars a sentient Costa Rica food/treat character, weaves in light **Spanish (Tico)** vocabulary, and ends with a warm Goodnight Blessing. Part of the *Boba Bedtime Stories* family.
 
 See also: [Character Guide](CHARACTER_GUIDE.md)
 
@@ -58,3 +58,5 @@ See also: [Character Guide](CHARACTER_GUIDE.md)
 | 48 | [The Cloud Forest Lantern Walk](stories/48-the-cloud-forest-lantern-walk.md) | Don Café | A nighttime lantern walk through the misty cloud forest | A little light shared makes the whole forest glow. |
 | 49 | [The Night the Whole Familia Camped](stories/49-the-night-the-whole-familia-camped.md) | Gallo and Pinto | A starry hillside campout overlooking the lights of the valley | The best adventures end snuggled close to the ones you love. |
 | 50 | [The Grand Pura Vida Feast](stories/50-the-grand-pura-vida-feast.md) | Gallo and Pinto | A giant table set up at the corner soda, big enough for the whole world of friends | Pura Vida means a life full of family, food, and gratitude. |
+| 51 | [KitKat and the Machine That Forgot to Rest](stories/51-kitkat-and-the-machine-that-forgot-to-rest.md) | KitKat the Bodega Cat | The corner soda, a highland coffee farm, a rainforest cacao farm, and the glowing night market | Love and warmth never really leave — they just find new ways to glow. |
+| 52 | [The Cy Dance Works Recital](stories/52-the-cy-dance-works-recital.md) | Coco the Granizado and Lala the Tres Leches | Recital night at Cy Dance Works, a little dance studio in Pura Vida Town | Nerves are just excitement that hasn't found its rhythm yet — dancing is about heart, not being perfect. |

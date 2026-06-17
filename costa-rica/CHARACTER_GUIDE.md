@@ -61,3 +61,13 @@ New & notable characters in the Costa Rica bedtime-story collection.
 - **Catchphrase:** "Sweet and round, watch me bound!"
 - **Appearance:** A small round ball of golden coconut fudge, chewy and dense, rolled in toasted coconut shreds so it looks fuzzy. Tiny, energetic, sweet to the core, bounces when excited.
 - **Voice:** Quick, peppy, sugar-rush enthusiasm. Talks fast and giggly.
+
+### KitKat the Bodega Cat — Not a food — the beloved tabby cat of the corner soda (animal friend; story 51). A gentle tribute to a real bodega cat.
+- **Catchphrase:** "There's all the time there is."
+- **Appearance:** A plump striped tabby the color of toasted toast, with rings around his tail like a tree, a small soft notch in one ear, and big sleepy golden eyes. The slow warm heart of the corner soda, with a purr you feel in your chest. After story 51, his warm glow lives on inside every gentle screen and soft light in town.
+- **Voice:** Slow, warm, and unhurried; speaks in cozy rumbles — quick exactly when it matters. Now purrs the whole town toward sleep from inside every warm glow.
+
+### Doña Cy — Not a food — the kind dance teacher who runs Cy Dance Works (human friend; story 52)
+- **Catchphrase:** "You danced anyway — that's the only step that matters."
+- **Appearance:** Tall and graceful, with a long flowing skirt the color of sunset. Moves through a room like a slow warm river, calming everyone's wobbles just by being near.
+- **Voice:** Soft, encouraging, never gives speeches when a smile will do. Calls her students "mis amores."
