@@ -1,0 +1,161 @@
+{
+ "collection": "Stay Safe — Boba × Frostpeak Bedtime Stories",
+ "folder": "stay-safe/",
+ "languageNote": "Mandarin on first use (bold Chinese + pinyin + English) as in the Taiwan collection, plus Frostpeak catchphrases. Laws framed as 'the rules here in the valley, and in most of America — ask a grown-up about where you live.'",
+ "setting": "Frostpeak Valley, one winter season. The Taiwan dessert crew runs 'Boba on Ice' at the Frostpeak Winter Night Market beside Herschel's Cocoa Hut and Auntie Hù's tea-egg pot.",
+ "throughLines": [
+  "Attitude. Skills. Plan.",
+  "Head up. Hands free. Have a plan.",
+  "You can't lose a fight you're not in.",
+  "Distance is your friend.",
+  "Polite is not the same as obedient — in danger, be rude, loud, bold.",
+  "Surprises end in telling. Secrets are a red flag.",
+  "The fight isn't over until you're safe — and the paperwork is done.",
+  "Slow hands, honest words.",
+  "Say less. Call me."
+ ],
+ "newCharacters": [
+  {
+   "name": "Auntie Hù",
+   "food": "A tea egg (護 hù = protect); retired night-market security guard",
+   "appearance": "Small dense brown tea egg with a cracked marbled shell like a map; padded vest with too many pockets; a whistle she's never needed",
+   "voice": "Calm, dry, teaches by asking questions; says 'Mm.' when proud",
+   "catchphrase": "Head up. Hands free. Have a plan."
+  },
+  {
+   "name": "Sergeant Solveig Snowmane",
+   "food": "Polar bear (not a food); Frostpeak Valley police sergeant, Nora's older sister",
+   "appearance": "Broad, snow-white, navy jacket with silver snowflake badge; moves slowly on purpose",
+   "voice": "Level and plain; explains what she's doing before she does it",
+   "catchphrase": "Slow hands, honest words."
+  },
+  {
+   "name": "Counselor Kumquat",
+   "food": "A kumquat (金橘 jīnjú); public defender",
+   "appearance": "Glossy orange kumquat the size of a large marble, matchbox briefcase, tiny round glasses",
+   "voice": "Clipped, fast, fierce, funny",
+   "catchphrase": "Say less. Call me."
+  },
+  {
+   "name": "The Smiling Stranger",
+   "food": "Not a food — the tricky person",
+   "appearance": "Tall, warm smile, nice coat, face never quite described",
+   "voice": "Friendly, helpful, too interested; uses the red-flag asks",
+   "catchphrase": "(none — 'Could you help me?')"
+  },
+  {
+   "name": "Sludge",
+   "food": "A slush puppy (blue-raspberry slush)",
+   "appearance": "Oversized, half-melted, drippy fists, permanent sneer, leaves puddles",
+   "voice": "Loud, sloshy, looking for a reaction",
+   "catchphrase": "What are you gonna do about it?"
+  }
+ ],
+ "stories": [
+  {
+   "number": 1,
+   "title": "Head Up, Phone Down",
+   "file": "stories/01-head-up-phone-down.md",
+   "leads": "Aiyu, Willa Wobble, Auntie Hù",
+   "safetySkill": "Situational awareness; the Four Coats"
+  },
+  {
+   "number": 2,
+   "title": "The Smiling Stranger",
+   "file": "stories/02-the-smiling-stranger.md",
+   "leads": "Mochi, Barnaby Beaksworth",
+   "safetySkill": "Tricky people; grown-ups don't ask kids for help; polite ≠ obedient; family code word"
+  },
+  {
+   "number": 3,
+   "title": "Secrets Are Not Surprises",
+   "file": "stories/03-secrets-are-not-surprises.md",
+   "leads": "Aiyu, Willa Wobble, Nora Snowmane",
+   "safetySkill": "Body safety; grooming red flags; sexual abuse named plainly; never the kid's fault; tell and keep telling"
+  },
+  {
+   "number": 4,
+   "title": "Never Get in the Van",
+   "file": "stories/04-never-get-in-the-van.md",
+   "leads": "Boba, Piper Paddlefoot",
+   "safetySkill": "Abduction: fight at the point of the grab; noise; run against traffic"
+  },
+  {
+   "number": 5,
+   "title": "The Uh-Oh Feeling",
+   "file": "stories/05-the-uh-oh-feeling.md",
+   "leads": "Yángmáo, Cleo Coldwater",
+   "safetySkill": "Trust your gut; leave without a reason; walk with purpose"
+  },
+  {
+   "number": 6,
+   "title": "Sludge and the Words That Melt",
+   "file": "stories/06-sludge-and-the-words-that-melt.md",
+   "leads": "Bùdīng, Finnegan Flipsworth",
+   "safetySkill": "Verbal bullies; boundary voice; reporting ≠ tattling"
+  },
+  {
+   "number": 7,
+   "title": "When Sludge Grabbed",
+   "file": "stories/07-when-sludge-grabbed.md",
+   "leads": "Zhīma, Bjorn Bigpaws",
+   "safetySkill": "Physical bullies; enough force to get free, then stop; tell first and fully"
+  },
+  {
+   "number": 8,
+   "title": "The Cold Thing in the Snow",
+   "file": "stories/08-the-cold-thing-in-the-snow.md",
+   "leads": "Bǎi, Teddy & Tilda Powderpuff",
+   "safetySkill": "Found gun: don't touch, leave, tell"
+  },
+  {
+   "number": 9,
+   "title": "The Knock at the Cottage Door",
+   "file": "stories/09-the-knock-at-the-cottage-door.md",
+   "leads": "Hóng Dòu, Willa Wobble",
+   "safetySkill": "Home alone; never open; never say you're alone; call a parent"
+  },
+  {
+   "number": 10,
+   "title": "The Friendly Screen",
+   "file": "stories/10-the-friendly-screen.md",
+   "leads": "Dàn, Finnegan Flipsworth",
+   "safetySkill": "Online \"friend\" is a blackmail AI; no photos, no locations, no private chats; never pay, never send more, tell immediately — never your fault"
+  },
+  {
+   "number": 11,
+   "title": "Run. Hide. Fight.",
+   "file": "stories/11-run-hide-fight.md",
+   "leads": "Whole cast; Nora, Auntie Hù, Solveig",
+   "safetySkill": "Lockdown with an armed man; two exits; lock–lights–silence; fight last, together"
+  },
+  {
+   "number": 12,
+   "title": "Bīng and the Fight That Never Happened",
+   "file": "stories/12-bing-and-the-fight-that-never-happened.md",
+   "leads": "Bīng, Magnus Meltsworth",
+   "safetySkill": "Fight avoidance; words are never a legal reason to hit; leave"
+  },
+  {
+   "number": 13,
+   "title": "What Bjorn Did After",
+   "file": "stories/13-what-bjorn-did-after.md",
+   "leads": "Bjorn, Solveig, Counselor Kumquat",
+   "safetySkill": "Lawful self-defense; proportional force; stop when the threat stops; call 911 first; statement with a lawyer"
+  },
+  {
+   "number": 14,
+   "title": "Dìguā Gets Pulled Over",
+   "file": "stories/14-digua-gets-pulled-over.md",
+   "leads": "Dìguā, Boba, Solveig",
+   "safetySkill": "Traffic stop: hands, lights, announce reaching, argue in court not roadside; decline search but never resist"
+  },
+  {
+   "number": 15,
+   "title": "Say Less, Call Kumquat",
+   "file": "stories/15-say-less-call-kumquat.md",
+   "leads": "Boba, Counselor Kumquat, Solveig",
+   "safetySkill": "Police questioning; \"I want my parent / a lawyer\"; why innocent people get lawyers; Safety Fair finale"
+  }
+ ]
+}

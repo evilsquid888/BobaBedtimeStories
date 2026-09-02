@@ -11,8 +11,9 @@ A growing family of cozy, funny, food-themed **bedtime stories for ages 9–12**
 | 🇨🇷 **Costa Rica** | 50 | Spanish (Tico) | [costa-rica/](costa-rica/README.md) |
 | ⛩️ **Japan** | 100 | Japanese | [japan/](japan/README.md) |
 | 🍳 **How-To** | 30 | mixed | [how-to/](how-to/README.md) |
+| 🛡️ **Stay Safe** (Boba × Frostpeak) | 15 | Mandarin + Frostpeak | [stay-safe/](stay-safe/README.md) |
 
-**330 stories total.** Each collection has its own README and Character Guide.
+**345 stories total.** Each collection has its own README and Character Guide.
 
 ## Features
 - ~1,800–2,000 words per story; fun starts in the first 150 words
@@ -21,6 +22,7 @@ A growing family of cozy, funny, food-themed **bedtime stories for ages 9–12**
 - Joyful, never-scary "becoming a treat" moments; gentle cute folklore only
 - 3 AI image prompts per story for illustration
 - Cross-over guests from sibling universes (Penguinsnowboard, Uncle Piggle Wiggle)
+- A **Stay Safe** arc: 15 whimsical-but-serious stories teaching real self-protection skills (awareness, tricky people, body safety, abduction, bullies, Run–Hide–Fight, fights and the law, police stops, lawyers) with the Frostpeak penguins and bears
 
 ## 🧋 Taiwan — Story Index
 
