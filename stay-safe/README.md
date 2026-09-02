@@ -4,7 +4,7 @@
 
 The narrator stays warm and silly. The danger is **named plainly** — a van, a stranger, a gun, a police officer, sexual abuse, a blackmail AI — because a lesson wrapped in allegory doesn't transfer. Bad actors are never graphic and never win. Every story ends soft.
 
-See also: [Character Guide](CHARACTER_GUIDE.md) · [Outline / Roadmap](../roadmaps/PLAN-stay-safe.md) · [Video Prompts](VIDEO_PROMPTS.md)
+See also: [Character Guide](CHARACTER_GUIDE.md) · [Outline / Roadmap](../roadmaps/PLAN-stay-safe.md) · [Video Prompts](VIDEO_PROMPTS.md) · [CapCut Guide + Storyboards](capcut/CAPCUT_GUIDE.md)
 
 > **For grown-ups:** these are meant to be read *with* a kid. Each story ends with **🛡️ What We Learned** (the takeaway) and **💬 Talk About It** (three questions). Stories **3, 4, 10, and 11** are the heaviest — read them earlier in the evening the first time, not as the last thing before sleep. Laws are described as "the rules here in the valley, and in most of America — ask a grown-up about where *you* live."
 
