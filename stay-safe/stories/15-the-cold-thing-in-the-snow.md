@@ -55,7 +55,7 @@ They got unstuck, eventually. It involved Bǎi breathing warm air on the pole, w
 
 That was the trouble with Bǎi, and the trouble with the twins, and the trouble with putting them together on a grey afternoon with nothing to do. Bǎi had never met a dare she wouldn't say. The twins had never met a dare they wouldn't take. It was like handing a match to a match.
 
-So they rode the old back-ridge lift — a creaky two-seater that swung over the deepest, quietest, least-skied snow in the whole valley — and when the chair dipped low over a soft white drift, Bǎi shouted "NOW!" and all three of them tumbled off into the powder, *pomf pomf pomf*, and lay there laughing in three cub-and-fruit-shaped holes while the empty chair swung away above them, creaking, like it was disappointed.
+So they rode the old back-ridge lift — a creaky two-seater that swung over the deepest, quietest, least-skied snow in the whole valley. When the chair dipped low over a soft white drift, Bǎi shouted "NOW!" and all three of them tumbled off into the powder, *pomf pomf pomf*. They lay there laughing in three cub-and-fruit-shaped holes while the empty chair swung away above them, creaking, like it was disappointed.
 
 It was very quiet down there. That was the first thing Bǎi noticed, once the laughing stopped. The back ridge was so far from the lodge that you couldn't hear the market, or the cocoa hut, or Finnegan. Just wind, and the *creak… creak…* of the lift, and snow that nobody had touched.
 
@@ -101,7 +101,7 @@ And Bǎi heard the thing she'd just said, all the way through, as if someone els
 
 Pick up a *gun.*
 
-Something went cold inside Bǎi that had nothing to do with the snow. And for the first time in her entire dare-shaped life, she did a thing she'd never done before.
+Something went cold inside Bǎi that had nothing to do with the snow. And for the first time in her entire dare-shaped life, she said the opposite word.
 
 "STOP," she said. "Tilda. Stop. **別碰** (bié pèng) — *don't touch it.*"
 
@@ -129,7 +129,7 @@ They went down the back ridge the way you go when you're small and scared and tr
 
 "—and it was NOT worth it," panted Tilda.
 
-The Cocoa Hut appeared below them, glowing yellow in the grey. Herschel the Walrus was at the counter, polishing a mug the size of a bucket, his red knitted hat pulled down over his ears, and he looked up and saw three small shapes coming down the hill in a way that small shapes do not usually come down hills, and he put the mug down before they'd even reached him.
+The Cocoa Hut appeared below them, glowing yellow in the grey. Herschel the Walrus was at the counter, polishing a mug the size of a bucket, his red knitted hat pulled down over his ears. He looked up and saw three small shapes coming down the hill in a way that small shapes do not usually come down hills. He put the mug down before they'd even reached him.
 
 "Herschel," gasped Bǎi. "There's a — under the back lift — in the snow — it's a *gun.* A real one. We didn't touch it. We didn't touch it. I *almost* — I said — but we didn't touch it."
 
@@ -139,7 +139,7 @@ Herschel's enormous whiskers went absolutely still.
 
 Tilda told him. Under the low dip, past the third tower, in the deep drift. She was very precise. She had, it turned out, been paying attention.
 
-Herschel picked up the lodge phone and said, "Solveig. Back ridge. Now." And then he came around the counter — which he almost never did, being roughly the size of a sofa — and he put one great flipper on each cub's head and the other on top of Bǎi, and said:
+Herschel picked up the lodge phone and said, "Solveig. Back ridge. Now." And then he came around the counter — which he almost never did, being roughly the size of a sofa — and he laid one great flipper across both cubs' heads and the other on top of Bǎi, and said:
 
 "You did that exactly right."
 
@@ -183,7 +183,7 @@ She held up one big white claw at a time.
 
 "And if a friend says *let's just move it?*" said Solveig.
 
-"Moving it is touching it," said Bǎi, and Auntie Hù, who had arrived at some point with a tray of tea eggs and was sitting on the end of the counter with her arms folded, said "Mm," in a way that meant *good.*
+"Moving it is touching it," said Bǎi. Auntie Hù — who had arrived at some point with a tray of tea eggs and was sitting on the end of the counter with her arms folded — said "Mm," in the way that meant *good.*
 
 "Can you tell if it's loaded?" asked Tilda. "Just by looking?"
 
@@ -225,7 +225,7 @@ Late that night, curled up on the Cocoa Hut's window bench under Herschel's spar
 
 And somewhere in there she figured out something new — something she was going to try out on the twins first thing tomorrow, and on Finnegan, and on Zhīma, and on anyone else who'd listen.
 
-That "*Bet you won't* be the one who goes and gets a grown-up" — that was a dare too.
+*Bet you won't be the one who goes and gets a grown-up.* That was a dare too.
 
 It was, she decided, drifting off, a *much* better one.
 

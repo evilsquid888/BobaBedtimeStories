@@ -33,7 +33,7 @@ She floated through the rest of that day.
 
 Aiyu noticed on the third day.
 
-Aiyu was a small cube of pale golden jelly, so clear that you could see right through her — and lately, since Auntie Hù's game at the night market, she'd been learning that she could see through *other* things too. Crowds. Patterns. The shape a week makes when you look at it all at once.
+Aiyu was a jelly cube the color of weak tea held up to a lamp — you could read a sign through her, and people often did — and lately, since Auntie Hù's game at the night market, she'd been learning that she could see through *other* things too. Crowds. Patterns. The shape a week makes when you look at it all at once.
 
 The shape of this week went like this:
 
@@ -45,7 +45,7 @@ Wednesday: "You're so mature for your age, you know that? You're not like the ot
 
 Thursday: "Hey, stick around after the others go — I could use a hand in the gear room. It'll be fun, just us."
 
-And Thursday, also: a hand on Willa's back, in the cocoa line. Low. Lingering. The kind of touch that wasn't a pat and wasn't a push and wasn't anything Willa had a word for, except that her stomach went tight and small like a fist, and she thought, very fast and very quiet: *He's nice. He's* nice. *I'm the one who's being weird.*
+And Thursday, also: a hand on Willa's back, in the cocoa line. Low. Lingering. The kind of touch that wasn't a pat and wasn't a push and wasn't anything Willa had a word for, except that her stomach went tight and small like a fist, and she thought, very fast and very quiet: *He's nice. He's the nice one. I'm the one who's being weird.*
 
 Aiyu, three places back in the line, watched Willa's whole tiny body go still.
 
@@ -109,7 +109,7 @@ Willa was crying now, quietly, into the soft purple mittens.
 
 Friday.
 
-The others left the gear room, laughing, kicking snow off their boards. Willa was the last one, because she was always the last one, because she was small and the mittens were new and she'd been *asked.*
+The others left the gear room, laughing, kicking snow off their boards. Willa was the last one — because she was always the last one, and because the mittens were new, and because she'd been *asked.*
 
 "There she is," said the helper, warm as cocoa. "My legend. Give me a hand with these bindings?" And the door drifted, just a little, toward shut.
 
@@ -125,17 +125,17 @@ Willa Wobble, the smallest penguin in Frostpeak Valley, put both feet flat on th
 
 "**No.** I'm leaving."
 
-She did not say *sorry.* She did not say *thanks anyway.* She did not explain. She did not wait to see his face. She turned around, pushed the door all the way open with her whole tiny body, and walked — not ran, *walked*, though her heart was going like a drumline — straight down the hall, past the cocoa line, past Bjorn and the cubs and the fire, to a door with a hand-lettered sign that said NORA.
+She did not say *sorry.* She did not say *thanks anyway.* She did not explain. She did not wait to see his face. She turned around and pushed the door all the way open with her whole tiny body. Then she walked — not ran, *walked*, though her heart was going like a drumline — straight down the hall, past the cocoa line, past Bjorn and the cubs and the fire, to a door with a hand-lettered sign that said NORA.
 
 She knocked once and went in.
 
 ---
 
-Nora Snowmane was a big white polar bear with a voice like a warm blanket, and her office had exactly one chair, and the chair had a quilt on it. She looked up. She looked at Willa's face. She got up and closed the door behind her, gently, and said the thing she always said.
+Nora Snowmane was a big white polar bear with a voice like a warm blanket, and her office had exactly one chair, and the chair had a quilt on it. She looked up. She looked at Willa's face. She got up, closed the door gently, and said the thing she always said.
 
 "Sit. Cocoa first. Then feelings."
 
-But before the cocoa, before anything, while Willa was still standing there shaking in her new purple mittens, Nora crouched down to her level and said four things very slowly and very clearly, because she knew they were the four things that mattered most:
+But before the cocoa, before anything, while Willa was still standing there shaking in her new purple mittens, Nora crouched down to her level and said four things, slowly and clearly, because they were the four things that mattered most:
 
 "I believe you."
 
@@ -195,7 +195,7 @@ Willa sat down. Aiyu didn't say anything. She just sat there, being clear.
 
 "I'm not." Willa looked down at the purple mittens. Then she took them off, folded them, and set them on the bench between her and Aiyu, and left them there. "I've got my own mittens," she said. "They're ugly. I love them."
 
-**身體** (shēntǐ) means *body.* It's a small word for a big thing. It's the only one you get, and it's yours — all of it, every inch, always, and it was yours before anyone ever noticed you, and it'll be yours long after.
+**身體** (shēntǐ) means *body.* It's a small word for a big thing. It's the only one you get, and it's yours — all of it, every inch, always. It was yours before anyone ever noticed you. It'll be yours long after.
 
 That night Willa Wobble slept in her little iceberg cottage with the lamp on, and she slept *deep* — the kind of deep, still sleep that only comes after you've been braver than you knew you could be. And the shame that had sat in her stomach all week like a fist got up, quietly, and went to sit where it belonged, which was on somebody else.
 

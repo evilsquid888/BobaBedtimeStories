@@ -15,11 +15,11 @@
 
 Every lesson at the Pink Belt Academy began the same way: with Tico the Toucan.
 
-"LADIES AND GENTLE-PENGUINS! BEARS OF ALL SIZES! ONE SLOTH! Welcome to the boot-drying room, home of the PINK BELT ACADEMY, where everyone starts pink and everyone STAYS pink! Tonight's lesson — brought to you by SHRIMP — is—"
+"LADIES AND GENTLE-PENGUINS! BEARS OF ALL SIZES! ONE SLOTH! Welcome to the boot-drying room, home of the PINK BELT ACADEMY, where everyone starts pink and everyone STAYS pink! Today's lesson — brought to you by SHRIMP — is—"
 
 He stopped.
 
-Coach Rosa the Flamingo had not raised a wing for silence. She had not blown her tiny whistle. She was simply standing on one leg in the middle of the room, and she had set something down on the boot bench in front of her, very gently, and stepped back from it.
+Coach Rosa the Flamingo had not raised a wing for silence. She had not blown her tiny whistle. She was simply standing on one leg in the middle of the room. She had set something down on the boot bench in front of her, very gently, and stepped back from it.
 
 It was a training gun. Blue rubber. About the size of a mitten. Everyone in Frostpeak knew that blue rubber meant *pretend*, the same way orange meant *toy*. But Rosa hadn't given it a fanfare. She hadn't given it a sombrero. She hadn't done a bit.
 
@@ -59,9 +59,9 @@ Rosa looked at him for a long moment. Then at the small ones. Then back at him.
 
 Willa Wobble, very small on the bench, said: "Go how?"
 
-"Like this. Watch first. Bjorn — you're the one big enough. Everybody else, this is a *watching* lesson today. Your version comes after."
+"Like this. *Tranquilo* — watch first. Bjorn, you're the one big enough. Everybody else, this is a *watching* lesson today. Your version comes after."
 
-Bjorn stood up. The boot-drying room, which had felt roomy, did not.
+Bjorn stood up. The boot-drying room, which had felt roomy, suddenly did not.
 
 Rosa picked up Señora Pistola Azul, walked to Bjorn, and pointed the blue rubber muzzle at his enormous white chest from two feet away. The academy held its breath. Finnegan held Piper's flipper. Piper let him.
 
@@ -93,7 +93,7 @@ A knee — soft, slow, a *demonstration* knee — toward where a person's middle
 
 "Closest weapon, closest target. Once. Maybe twice."
 
-And then the blue rubber was in Bjorn's paw and Bjorn was three enormous steps backward, holding it *pointed at the floor*, his other paw open, his eyes already sweeping the room.
+And then the blue rubber was in Bjorn's paw, and Bjorn was three enormous steps back. He held it *pointed at the floor*, his other paw open, his eyes already sweeping the room.
 
 "Take it. Step back *far.* Never point it at yourself. Never put your finger on the trigger. And you *scan* — because there is never just one problem. Then when Solveig comes, you put it *down*, you put your hands *up*, and you let her be the one holding it." Rosa flexed her wing. "Also — ow. Nicely done."
 
@@ -111,7 +111,7 @@ And then the blue rubber was in Bjorn's paw and Bjorn was three enormous steps b
 
 Rosa considered him. Then she reached under the boot bench and pulled out a second training gun. This one was *foam.* Bright pink. It squeaked.
 
-"Señorita Espuma," she announced. "For rockhoppers. Piper, you're the bad guy. Point it at his chest. Finnegan — off the line."
+"Señorita Espuma," she announced. "For rockhoppers. Piper, you're the bad guy. Point it at his chest. Finnegan — off the line. *¡Dale!*"
 
 Piper pointed. Finnegan stepped.
 
@@ -183,7 +183,7 @@ Bjorn thought. "That most of them will never need any of it."
 
 "Mm," said Auntie Hù again, which was as close as she came to applause.
 
-"That," said Rosa, "is the whole class. Everything else is decoration." She looked at the lanterns, and then at the small pink foam gun sticking out of Finnegan's jacket pocket across the ice, where he had stolen it to practice on a snowman. "Also the hug. The hug was decoration. Good decoration."
+"That," said Rosa, "is the whole class. Everything else is decoration." She looked at the lanterns, and then far across the ice, at the small pink foam gun sticking out of Finnegan's jacket pocket. He had smuggled it out to practice on a snowman. "Also the hug. The hug was decoration. Good decoration."
 
 ---
 

@@ -15,13 +15,13 @@ There were no waves. The lake was frozen flat as a plate. This did not bother Y�
 
 He was a coconut jelly — a bouncy, translucent white cube with a faint tropical shimmer, tiny flip-flops on his feet, and a shell necklace that clicked when he moved. He smelled, very faintly, of sunscreen, even here, even in the snow. He had borrowed Piper's snowboard, waxed it with coconut oil "for the vibes," and was lying belly-down on it, sliding across the ice at one mile per hour, paddling with his arms.
 
-"Duuuude," he said to nobody. "Here it comes."
+"Duuude," he said to nobody. "Here it comes."
 
-Nothing came. He popped up anyway — hands flat, hips high, back foot swinging through, standing in one smooth motion — rode the board for four glorious feet, hit a bump of snow, and wiped out spectacularly, sliding on his back in a slow spin with his flip-flops in the air.
+Nothing came. He popped up anyway — hands flat, hips high, back foot swinging through, standing in one smooth motion. He rode the board for four glorious feet, hit a bump of snow, and wiped out spectacularly, sliding on his back in a slow spin with his flip-flops in the air.
 
 "Whoa," he said, gazing at the sky. "Gnarly."
 
-Then he popped up again. Flat, hips, foot, stand. Slid. Wiped out. Popped up.
+Then he popped up again. Hand, foot, hips, leg, stand. Slid. Wiped out. Popped up.
 
 From the shore, a seven-foot pink flamingo standing on one leg watched him with her eyes narrowed to slits.
 
@@ -69,7 +69,7 @@ She hopped onto the mat and looked at the assembled academy: Yēguǒ, Zhīma the
 
 "So the lesson is don't fall down?" said Zhīma.
 
-"The lesson," said Rosa, "is that you *will* fall down anyway. Ice is ice. Bad men push. And when you are down, you do not lie there like a starfish. You do four things, and then you are up. And the jelly has just shown me the fourth thing is something *everybody already knows.*"
+"The lesson," said Rosa, "is that you *will* fall down anyway. Ice is ice. Bad men push. And when you are down, you do not lie there like a starfish. You do four things, and then you are up. And the jelly has just shown me that the fourth thing is something *everybody already knows.*"
 
 ---
 
@@ -79,7 +79,7 @@ Tato, who was a twice-fried smashed plantain about as tall as a coffee mug and r
 
 Yēguǒ fell on his back on the mat with a soft *bloop.*
 
-"Thing one," said Rosa. "**Shell.**" Yēguǒ's forearms came up around his head — the turtle Estrella had taught them, elbows in, chin tucked. "Good. The head is the one thing you cannot replace. Thing two — **feet toward him.**"
+"Thing one," said Rosa. "**Shell.**" Yēguǒ's forearms came up around his head — the shell Estrella the Sea Turtle had taught them, elbows in, chin tucked. "Good. The head is the one thing you cannot replace. Thing two — **feet toward him.**"
 
 Yēguǒ spun on his back like a turtle on a table until his flip-flops pointed at Tato.
 
@@ -101,7 +101,7 @@ Tato, very seriously, stepped toward the flip-flops. Yēguǒ bicycle-kicked. Tat
 
 Yēguǒ lay back down. He shelled. He turned his feet. He kicked three times at nothing. Tato stepped back on cue.
 
-And the coconut jelly did the thing he'd done ten thousand times on ten thousand waves — hand, foot, hips like the ice was lava, leg swinging through — and was standing, in a surfer's crouch, arms out, ready for a wave that wasn't coming.
+And the coconut jelly did the thing he'd done ten thousand times on ten thousand waves — hand, foot, hips, leg swinging through — and was standing, in a surfer's crouch, arms out, ready for a wave that wasn't coming.
 
 The room stared.
 
@@ -117,7 +117,7 @@ Zhīma the Sesame Ball went first, because Zhīma always went first. He fell dow
 
 "You roll *later,*" said Rosa. "First you *stand.*"
 
-A penguin got his hand and foot on the same side and fell over like a dropped book. Another popped up beautifully, forgot to run, and just stood there smiling until Rosa said "Mae — you are standing in the *fight.* Standing is not the finish. *Running* is the finish."
+A penguin got his hand and foot on the same side and fell over like a dropped book. Another popped up beautifully, forgot to run, and just stood there smiling until Rosa said, "Mae — you are standing in the *fight.* Standing is not the finish. *Running* is the finish."
 
 Tato tried it and discovered that a patacón is very flat and therefore very good at lying down and very bad at having hips.
 
@@ -135,7 +135,7 @@ And then it was Slowy's turn.
 
 ---
 
-Slowy the Sloth had been lying on his back for most of the lesson — nobody had pushed him; he'd been slowly lowering himself to sit and had simply kept going.
+Slowy the Sloth had been lying on his back for most of the lesson. Nobody had pushed him. He had been slowly lowering himself to sit and had simply kept going.
 
 "Slowy," said Rosa. "Shell."
 

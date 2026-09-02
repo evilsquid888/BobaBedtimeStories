@@ -73,7 +73,7 @@ Yángmáo didn't have a wish for that. She had five points, and none of them cov
 
 "Yes," said Cleo. "Good."
 
-And Yángmáo, who was dreamy and hopeful and wished on everything, heard something in Cleo's voice she'd never heard before. Cleo wasn't scared. Cleo was *deciding.* She had noticed, and she was making a plan, and she wasn't waiting for permission or proof or a good enough reason. Cleo had put on, Yángmáo realized, the orange coat — the one Aiyu had told them all about from the night market. *Something's off. You don't know what yet. Make a plan.*
+And Yángmáo, who was dreamy and hopeful and wished on everything, heard something in Cleo's voice she'd never heard before. Cleo wasn't scared. Cleo was *deciding.* She had noticed, and she was making a plan, and she wasn't waiting for permission or proof or a good enough reason. Cleo had put on, Yángmáo realized, the orange coat — the one Aiyu had explained to everybody at the stand. *Something's off. You don't know what yet. Make a plan.*
 
 "The fish market's around the next bend," said Cleo. "Lights. People. Herschel's cousin runs the herring stall. That's the plan. We walk there, we walk *in*, and we do it like we mean it."
 
@@ -83,7 +83,7 @@ And Yángmáo, who was dreamy and hopeful and wished on everything, heard someth
 
 ---
 
-Something you should know about Auntie Hù, the tea egg who minded the crowd at the night market: she had a whole speech about *how to walk*, and she'd given it to the boba crew on their second night in the valley, and Yángmáo had been wishing on a lantern at the time and missed most of it.
+Something you should know about Auntie Hù, the retired security guard who ran the tea-egg pot beside Boba on Ice: she had a whole speech about *how to walk*. She'd given it to the boba crew on their second night in the valley, and Yángmáo had been wishing on a lantern at the time and missed most of it.
 
 But she'd caught the shape. And the shape came back to her now, on the river path, in the purple dusk.
 
@@ -127,7 +127,7 @@ The fish market was a wall of noise and lanterns and glorious, appalling smell. 
 
 "It can if it's still swimming," said Splash.
 
-"That's just a fish."
+"That's not fresh. That's just a fish."
 
 "That's my *point.*"
 
@@ -159,7 +159,7 @@ The river path was empty. The man in the dark coat wasn't there. He'd peeled awa
 
 ---
 
-They bought Cleo's pencil. They bought, because Yángmáo wished for it and Nibbles was selling it, one small fried fish on a stick, which Yángmáo ate while looking at what the sky did over the river at dusk, which was: purple, then deep blue, then stars.
+They bought Cleo's pencil. They bought, because Yángmáo wished for it and Nibbles was selling it, one small fried fish on a stick, which Yángmáo ate while looking at what the sky did over the river at dusk. It went purple, then deep blue, then stars.
 
 "Cleo," she said, after a while. "The wishing didn't work."
 
@@ -171,7 +171,7 @@ They bought Cleo's pencil. They bought, because Yángmáo wished for it and Nibb
 
 "And the thing that worked was… walking. Just walking. Into the light." Yángmáo turned the fish stick over in her hand. "A wish isn't a plan, is it."
 
-Cleo had her sketchbook out again. She was drawing the market — the lanterns, the crates, Splash falling off one. In the corner of the page, small, she'd left the figure from the river path, just a few lines, unfinished. She looked at it for a moment. Then she wrote a title under the whole drawing, in her neat, slanted hand.
+Cleo had her sketchbook out again. She was drawing the market — the lanterns, the crates, Splash falling off one. (He obligingly fell off it again so she could get the angle right.) In the corner of the page, small, she'd left the figure from the river path, just a few lines, unfinished. She looked at it for a moment. Then she wrote a title under the whole drawing, in her neat, slanted hand.
 
 *We Went Inside.*
 

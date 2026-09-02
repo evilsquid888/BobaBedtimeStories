@@ -19,7 +19,7 @@ Mango's sweatband slipped. "I'm sorry — what?"
 
 "Not *yet,*" said Rosa. "Today you learn what happens *before* you run. Then you run. It will be the best run of your life. Sit."
 
-Mango sat. He was a sleek orange-yellow mango with a rosy blush on one cheek and a tiny sweatband, built like a sprinter and juicy like one who has just sprinted. Sitting still was, for him, a kind of exercise.
+Mango sat. He was a sleek orange-yellow mango with a rosy blush on one cheek and a tiny sweatband, built like a sprinter, and leaking juice the way a sprinter leaks sweat. Sitting still was, for him, a kind of exercise.
 
 Beside him sat Gallo and Pinto from the mail-boat — a plump white rice grain in a palm hat, humming, and a small glossy black bean with a stripe like a smile. On the coat rack sat a toucan with a beak like a rainbow banana and a voice like a stadium.
 
@@ -33,7 +33,11 @@ The street was two boot benches, a coat rack, and the open doorway to Herschel's
 
 ---
 
-"Today," said Rosa, mustache sliding a quarter-inch left, "I am a Guy On The Street. I am going to be *rude* to you. You will learn the things you can *see* before a fight, the thing you can *do* — and then you will leave. **Two feet down. Hands up. Then shrimp.** Tranquilo, mae." (*Tranquilo* means *easy, relax*; Rosa said it the way other people said *hello*.) "Mango. Stand there. **¡Dale!**" (*Dale* means *go!*)
+"Today," said Rosa, mustache sliding a quarter-inch left, "I am a Guy On The Street. I am going to be *rude* to you. You will learn the things you can *see* before a fight, the thing you can *do* — and then you will leave. **Two feet down. Hands up. Then shrimp.** Tranquilo, mae."
+
+*Tranquilo* means *easy, relax.* Rosa said it the way other people said *hello.*
+
+"Mango. Stand there. **¡Dale!**" That one means *go!*
 
 Mango stood on the street. Rosa, one-legged, seven feet of pink, mustache drifting, began to *walk toward him.*
 
@@ -91,7 +95,9 @@ Mango turned his head to look.
 
 "…Behind me," said Mango. "The cocoa hut. Herschel."
 
-"Good. Exit *behind* you, trouble *in front,* and never let the trouble get between you and the door. Back toward light. Back toward people. Herschel is a very large light." Herschel raised his mug. "Now the *hard* part. You stand there, polite, hands up, and you *let me be rude to you.*" Her mustache fell off; she caught it without looking. "Words are not a reason to hit — not about your sweatband, not about your mother, not about how you run. Bīng learned this in a cocoa hut: a fight nobody had is a fight nobody lost, and the law knows a word from a fist even when your heart doesn't. So he talks. You fence. You back toward the door. Nine times out of ten, that is the whole fight."
+"Good. Exit *behind* you, trouble *in front,* and never let the trouble get between you and the door. Back toward light. Back toward people. Herschel is a very large light." Herschel raised his mug.
+
+"Now the *hard* part. You stand there, polite, hands up, and you *let me be rude to you.*" Her mustache fell off; she caught it without looking. "Words are not a reason to hit — not about your sweatband, not about your mother, not about how you run. There is a saying in that cocoa hut behind you: a fight nobody had is a fight nobody lost, and the law knows a word from a fist even when your heart doesn't. So he talks. You fence. You back toward the door. Nine times out of ten, that is the whole fight."
 
 "And the tenth time?" said Pinto, quietly. It was the kind of thing Pinto asked.
 
@@ -143,7 +149,7 @@ Mango breathed. Step back. Fence up. "I'm heading in."
 
 Rosa's wing shot out and grabbed his fence.
 
-Mango's switch went ON so fast he surprised himself — palm to the padded wing, a knee that stopped an inch short because Rosa had said *short,* a shove — and then, like a sprinter off the blocks, he *turned and went.* Through the doorway. Past Herschel, who said "Evening." He skidded to a stop against the counter, whipped his head left, right, behind—
+Mango's switch went ON so fast he surprised himself — palm to the padded wing, a knee that stopped an inch short because Rosa had said *short,* a shove — and then, like a sprinter off the blocks, he *turned and went.* Through the doorway. Past Herschel, who said "Afternoon." He skidded to a stop against the counter, whipped his head left, right, behind—
 
 "SCAN!" he yelled, alone, to a room full of mugs.
 
@@ -175,7 +181,7 @@ Tico put it down with enormous dignity. "This footage would have been *incredibl
 
 "It would have been *evidence,*" said Auntie Hù, "and you would have been in it."
 
-"We grabbed you kind of hard," Gallo told Mango, breathless. "Sorry. Better together, *hum.*"
+"We grabbed you kind of hard," Gallo told Mango, breathless. "Sorry." He hummed a small apologetic hum.
 
 "You grabbed me *perfectly,*" said Mango. He had never once been *carried* across a finish line, and it turned out he didn't hate it.
 
@@ -195,9 +201,9 @@ Mango sat on the boot bench with a shrimp he wasn't eating and looked at the doo
 
 "…and then shrimp," Mango said.
 
-"And then shrimp," agreed Rosa, and fell asleep standing up, mid-sentence, with a shrimp in her beak.
+"Mm-hm," agreed Rosa, and fell asleep standing up, mid-sentence, with a shrimp in her beak.
 
-Mango ate his. Best personal best of his life: zero seconds. A race he'd never run, because he'd walked backward out of it, calm, hands up, and gone home.
+Mango ate his. Best personal best of his life: zero seconds. A race he never ran, because he walked backward out of it, calm, hands up, and went home.
 
 That night he fell asleep facing the door, feet turned just slightly, one hand open on the pillow. Just in case. But mostly just because.
 

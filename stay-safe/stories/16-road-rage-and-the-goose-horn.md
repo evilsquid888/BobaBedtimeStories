@@ -11,13 +11,13 @@
 
 Don Café was sipping himself.
 
-This is not as strange as it sounds. Don Café was a roasted coffee bean, his thermos was full of coffee, and when he raised the little cup to his lips in the passenger seat of the charcoal cart-truck he liked to say, "Ahh. Family." Everyone had stopped asking.
+This is not as strange as it sounds. Don Café was a roasted coffee bean, and his thermos was full of coffee. Every time he raised the little cup to his lips in the passenger seat of the charcoal cart-truck, he liked to say, "Ahh. Family." Everyone had stopped asking.
 
 "Comfortable, Don Café?" said Dìguā, from behind the wheel.
 
 "Slow roads and warm cups," said the coffee bean. "Good things brew slowly, mae."
 
-"HONK THE GOOSE," said Teddy and Tilda from the back seat — *belted* this time, thank you very much, Tilda with both paws on her buckle like it was a trophy — and Dìguā, who was a soft touch for cubs, honked the goose.
+"HONK THE GOOSE," said Teddy and Tilda from the back seat. They were *belted* — Don Café had checked, twice, slowly — and Tilda had both paws on her buckle like it was a trophy. Dìguā, who had a strict one-goose-per-mile policy and was already over his limit, honked the goose.
 
 *HWAAAANK.*
 
@@ -25,7 +25,7 @@ Boba, riding on the dashboard like a tiny black hood ornament, nearly fell off f
 
 "That horn," said Dìguā, patting the dash, "has never once let me down."
 
-He was going to be right about that in about four minutes.
+He would turn out to be right about that in roughly four minutes.
 
 ---
 
@@ -45,6 +45,8 @@ Teddy turned around to look.
 
 The car swung out, roared past them in a spray of slush, cut back in front so close that Dìguā had to ease off the gas — and then, just to make sure everyone understood how angry he was, the driver stomped his brakes. Red lights flared. The truck dipped. The tapioca sacks in the back slid forward with a *whumpf.*
 
+"Sorry, cousins," said Boba.
+
 "He's *crazy,*" said Tilda.
 
 "Maybe," said Don Café mildly, and took a sip of himself. "Or he is late. Or he is sad. Or somebody was rude to *him* an hour ago and he has been carrying it around like a hot coal, looking for somewhere to put it down." He capped his thermos. "It does not matter which. We are not going to be the place he puts it down."
@@ -57,13 +59,13 @@ Dìguā had grown up beside a street cart in Taipei, and a street cart sees peop
 
 "Rosa says *everything* is Krav Maga," said Boba.
 
-"Rosa's usually right. Rule one." Dìguā tapped his own temple. "*Don't engage.* No eye contact. No hand signals. No honking back — Teddy, I see that paw, put it down. We don't race him. We don't brake-check him back. We don't *teach him a lesson.* A man who's this angry is looking for a partner to dance with, and we are politely, boringly, *not dancing.*"
+"Rosa's usually right. Now listen, kids — I've been around the cart. Rule one." Dìguā tapped his own temple. "*Don't engage.* No eye contact. No hand signals. No honking back — Teddy, I see that paw, put it down. We don't race him. We don't brake-check him back. We don't *teach him a lesson.* A man who's this angry is looking for a partner to dance with, and we are politely, boringly, *not dancing.*"
 
 "That's so *unfair,*" said Tilda. "He started it!"
 
 "He did. And if we finish it, we both lose." The dark car had dropped back behind them again. It was staying there. "Rule two. Don Café, would you?"
 
-Don Café reached across, very slowly, and pressed the lock button on the door. *Click.* All four doors. Then he rolled his window up the last inch it had been down.
+Don Café reached across, very slowly, and pressed the lock button on the door. *Click.* All four doors. Then he rolled his window up that last inch.
 
 "Doors locked. Windows up," said Dìguā. "Always. The truck is a shield. It's three thousand pounds of metal with us inside it. Nobody gets to open that shield but us."
 
@@ -93,9 +95,9 @@ Boba stood up on the dash, squinted back at the dark car, and read the plate out
 
 Tilda said it back perfectly. Twice.
 
-"Don Café — the phone's in the cup holder. You call 911. Tell them where we are, tell them a car's been tailgating and brake-checking us and it's following us, give them the plate, and tell them we're heading to the station." He kept his hands exactly where they were. "The driver drives. The passengers call. Never the other way around."
+"Don Café — the phone's in the cup holder. You call 911. Tell them where we are. Tell them a car's been tailgating us, brake-checking us, and following us. Give them the plate, and tell them we're heading to the station." He kept his hands exactly where they were. "The driver drives. The passengers call. Never the other way around."
 
-Don Café dialed, gave the plate in his slow warm voice, and said "we are going to the police station" as calmly as if ordering breakfast.
+Don Café dialed, gave the plate in his slow warm voice, and said "we are going to the police station" as calmly as if he were ordering breakfast.
 
 ---
 
@@ -131,7 +133,7 @@ The man in the mirror stopped walking.
 
 He stood there in the slush, in the light of six porches, being looked at.
 
-The light turned green. The minivan pulled away. And Dìguā, who had left himself exactly one truck-length of room, turned the wheel, eased into the gap, and drove calmly around the corner onto the road that led straight to the station — still honking, all the way, like a goose that had been badly wronged and wanted the whole valley to know it.
+The light turned green. The minivan pulled away. And Dìguā, who had left himself exactly one truck-length of room, turned the wheel, eased into the gap, and drove calmly around the corner onto the road that led straight to the station. He honked the whole way, like a goose that had been badly wronged and wanted the entire valley to know it.
 
 ---
 
@@ -197,11 +199,11 @@ They drove home the slow way, all belted, no one behind them. Teddy fell asleep 
 
 "Were you scared? When he got out?"
 
-Dìguā drove a while before he answered. The market lanterns came into view, gold in the blue dark, nobody behind them.
+Dìguā drove a while before he answered. The market lanterns came into view, gold in the blue dark.
 
-"Sure," he said. "That's why I honked. Scared and *loud*, that's the right way round. Scared and *out of the truck* — that's the wrong one." He pulled into the lot and turned off the campfire engine. "Anybody can lose their temper, kid. Being the one who *doesn't* — who locks the door and drives to the lights — that's not weak. That's the whole game."
+"Sure," he said. "That's why I honked. Scared and *loud*, that's the right way round. Scared and *out of the truck* — that's the wrong one." He pulled into the lot and turned off the engine, which crackled down like a campfire. "Anybody can lose their temper, kid. Being the one who *doesn't* — who locks the door and drives to the lights — that's not weak. That's the whole game."
 
-He carried the cubs in one at a time, and Boba last, sticky and snoring. Then he went back out into the cold and patted the dash where the goose lived.
+He carried the cubs in one at a time, and Boba last, sticky and snoring and honking faintly in his sleep. Then he went back out into the cold and patted the dash where the goose lived.
 
 "Fine thing," he told her. "You're a fine thing."
 

@@ -45,11 +45,15 @@ The reality was that forty-one people tried to run it at the same time.
 
 **Station 1 — TWO FEET DOWN. HANDS UP.**
 
-Everyone planted their feet and put their hands up like they were saying *whoa.* Bīng did it so dramatically his sunglasses fell off. Rosa, inspecting, stopped in front of Slowy the Sloth, who was on one leg.
+Everyone planted their feet and put their hands up like they were saying *whoa.* Bīng put his up so dramatically that two people behind him ducked. Rosa, inspecting, stopped in front of Slowy the Sloth, who was on one leg.
 
 "Two feet, Slowy."
 
-"Puuura… viiida…" said Slowy, and lowered the second leg over the course of about nine seconds.
+"You… have… one…"
+
+"I am the *coach.*"
+
+"Puuura… viiida…" said Slowy, and lowered the second leg.
 
 "Mm," said Auntie Hù, from the rim of her tea-egg pot, which had somehow been dragged onto the ice. The *good* Mm.
 
@@ -101,7 +105,13 @@ Coco the Granizado held Señor Cuchillo, the rubber knife. The sign said RUN. Ev
 
 Rosa herself, in a fake mustache, being a Guy On The Street. "Hey. What are *you* looking at?"
 
-Mango's hands came up, palms out, chest height. "Nothing, man, we're good, we're leaving." Gallo and Pinto grabbed him by both arms — *out,* not in — and went sideways through a gap in the snowbanks. The mustache fell off. "**Tranquilo**" (*trahn-KEE-lo* — *easy, easy*), Rosa said to nobody, and stuck it back on for the next one.
+Mango's hands came up, palms out, chest height. "Nothing, man, we're good, we're leaving." Gallo and Pinto grabbed him by both arms — *out,* not in — and went sideways through a gap in the snowbanks.
+
+"Was I scary?" Rosa asked the next one in line, who was Willa.
+
+"No," said Willa, kindly. "But the mustache is very nice."
+
+"**Tranquilo**" (*trahn-KEE-lo* — *easy, easy*), Rosa told herself, and got back into character.
 
 **Station 9 — DON'T GO HOME. GO TO THE STATION.**
 
@@ -113,7 +123,7 @@ Don Café, in the passenger seat, murmured "Good things brew slowly" every time 
 
 Tato on the left. Lala Tres Leches on the right. *Thoomp.* Everyone behind Tato stayed dry. Everyone behind Lala got gently, thoroughly soaked — "Soak it all in!" — and nobody minded, because the lesson worked *every single time.*
 
-Slowy stood in the open and said "Hmm." A snowball landed on his head and stayed there like a hat.
+Slowy stood in the open and said "Hmm." A snowball landed on his head and stayed there. He let it.
 
 "Slowy," said Rosa.
 
@@ -133,11 +143,11 @@ Slowy lay down and everyone, unasked, stopped and waited. Four minutes. Perfect.
 
 **Station 12 — FIND THE HANDLE.**
 
-Señor Baúl, the cocoa chest, lid shut, Bǎi on top like a queen. "Bet you can find the glow handle with your eyes closed." Each person did. "*That* was a good dare." Herschel, from a distance: "I want my chest back." He did not get it.
+Señor Baúl, the cocoa chest, lid shut, Bǎi on top like a queen. "Bet you can find the glow handle with your eyes closed." Each person did. "*That* was a good dare." Herschel, from a distance: "That's my chest." "It's Señor Baúl now," said Bǎi. "He has a name. You can't take back a thing with a name."
 
 **Station 13 — SLAM THE TIES.**
 
-Finnegan had been duct-taped into a burrito again. Nobody knew how. Cleo sketched it. "Arms up. Slam down and out," said Rosa, and Finnegan popped free on the first try and was so surprised he sat down. "I did it *again!*" — as though it were a different achievement.
+Finnegan had been duct-taped into a burrito again. Nobody knew how. Cleo sketched it. "Arms up. Slam down and out," said Rosa, and Finnegan popped free on the first try and was so surprised he sat down. "I did it *again!*" he told everyone, as if doing it twice were a brand-new trick.
 
 ---
 
@@ -145,7 +155,7 @@ Finnegan had been duct-taped into a burrito again. Nobody knew how. Cleo sketche
 
 This one, Rosa ran quietly.
 
-Bjorn held Señora Pistola Azul, the blue rubber training gun, pointed at the ice. Nobody announced anything. You walked up, hands up, slow, and gave Bjorn your imaginary wallet — "a wallet is a thing" — and then Rosa said softly, "Now the other one," and you took *one step sideways* off the line and ran zigzag to the snowbank. That was the whole station for the kids.
+Bjorn held Señora Pistola Azul, the blue rubber training gun, pointed at the ice. Nobody announced anything. You walked up, hands up, slow, and gave Bjorn your imaginary wallet — "a wallet is a thing." Then Rosa said softly, "Now the other one," and you took *one step sideways* off the line and ran zigzag to the snowbank. That was the whole station for the kids.
 
 Finnegan stepped off the line, got confused, and stepped back onto it.
 
@@ -169,13 +179,13 @@ Barnaby offered the robber a fish. "There's always enough for one more," he said
 
 The last station was a lantern on a pole at the edge of the dock, and the sign said one word.
 
-You ran up. You stopped. You turned your head — left, right, all the way around, like a meerkat, like a jelly cube at a night market, like a pearl who had once run the wrong way up a one-way lane on purpose — and looked for more trouble, and there wasn't any, and looked for the exit, and it was a boat.
+You ran up. You stopped. You turned your head — left, right, all the way around, like a meerkat, like a jelly cube at a night market, like a pearl who had once run the wrong way up a one-way lane on purpose. You looked for more trouble, and there wasn't any. You looked for the exit, and it was a boat.
 
 And then you were done.
 
 ---
 
-They ran it badly and joyfully, an hour instead of ten minutes, and when the last of them — Slowy, naturally — reached the lantern and scanned so slowly the sun finished setting while he did it, the whole lake cheered until snow fell off the lodge roof.
+They ran it badly and joyfully — an hour instead of ten minutes. When the last of them (Slowy, naturally) reached the lantern and scanned so slowly that the sun finished setting while he did it, the whole lake cheered until snow fell off the lodge roof.
 
 Rosa stood at Station 16 to meet them.
 
@@ -185,7 +195,7 @@ Everybody noticed.
 
 She was standing on two legs.
 
-She had stood on one leg all winter — on the ice, in the boot room, asleep mid-sentence, kneeing Señor Saco across the lake. Now, with the valley in front of her and the boats behind, Coach Rosa stood on two feet, planted, hands up like *whoa*, and looked at forty-one graduates, and did not fall asleep even a little.
+She had stood on one leg nearly the whole winter — on the ice, in the boot room, asleep mid-sentence, kneeing Señor Saco across the lake. The second foot came down only when something mattered enough, and never for long. Now, with the valley in front of her and the boats behind, Coach Rosa stood on two feet, planted, hands up like *whoa*, and looked at forty-one graduates, and did not fall asleep even a little.
 
 Auntie Hù climbed down off the rim of her pot. She walked across the ice — small, brown, dense, cracked like a map — and stopped in front of the flamingo, who had to bend almost in half to see her.
 
@@ -203,13 +213,13 @@ They traded.
 
 "We are the same egg."
 
-"We are the same shrimp." Rosa straightened up, all seven feet, and put the tea egg in her headband, where it would apparently live now. "**Feliz graduación**" (*feh-LEES grah-doo-ah-SYOHN* — *happy graduation*). "**畢業** (bìyè). You have all graduated. From what, I don't know. Pink forever. Go get on your boats."
+"We are the same shrimp." Rosa straightened up, all seven feet, and put the tea egg in her headband, where it would apparently live now. "**Feliz graduación**" (*feh-LEES grah-doo-ah-SYOHN* — *happy graduation*). "**畢業** (bìyè) — *graduated.* You have all graduated. From what, I don't know. Pink forever. Go get on your boats."
 
 ---
 
 The mail-boat left first.
 
-The Costa Rica crew crowded the rail — Gallo and Pinto side by side, Tato's arm around Coco, Lala still dripping, Flan wobbling happily, Cajeta bouncing on a coil of rope. Tico perched on the mast and did *not* announce anything, which was how everyone knew he was sad. Slowy boarded last. It took a while.
+The Costa Rica crew crowded the rail — Gallo and Pinto side by side, Tato's arm around Coco, Lala still dripping, Flan wobbling happily, Cajeta bouncing on a coil of rope. Tico perched on the mast and did *not* announce anything, which was how everyone knew he was sad. Slowy boarded last. Nobody hurried him. Nobody ever had.
 
 As the boat crunched out through the ice under a hundred swaying lanterns, they began to sing — something slow in Spanish with *pura vida* in the chorus — so clearly that the penguins on the dock hummed along without knowing a word.
 
@@ -243,7 +253,7 @@ Scan complete.
 
 ## Goodnight Blessing
 
-Two feet down, little one — and now, two feet up under the blanket.
+Two feet down all day, little one — and now two feet up under the blanket.
 Hands up all day; hands folded now.
 Attitude, skills, plan — tucked away, like an egg in a headband, like a shrimp in a pocket.
 You know the coats. You know the words. You know the handle glows.

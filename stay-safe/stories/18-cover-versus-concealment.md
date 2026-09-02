@@ -19,9 +19,9 @@ Herschel the Walrus had built a cannon.
 
 It was made of a cocoa drum, a bicycle pump, three feet of stovepipe, and the lodge's second-best ladle. It sat on the frozen lake on a little sled, full of snowballs.
 
-Coach Rosa the Flamingo — seven feet of pink, one leg, a headband, and a whistle — looked prouder of it than Herschel did. "The most beautiful teaching tool I have ever seen. *¡Dale!*" — which is Costa Rican for *go on, do it!* — "Fire one."
+Coach Rosa the Flamingo — seven feet of pink, one leg, a headband, and a whistle — looked prouder of it than Herschel did. "The most beautiful teaching tool I have ever seen," she said. "*¡Dale!* Fire one."
 
-Herschel pumped. The cannon went *THOOMP.*
+*¡Dale!* is Costa Rican for *go on, do it!* — and Herschel did. He pumped. The cannon went *THOOMP.*
 
 The snowball crossed the entire lake in under a second and took the head off a snowman by the far shore. The head sailed another forty feet and took the head off a *second* snowman.
 
@@ -33,7 +33,7 @@ There was a respectful silence.
 
 Coco the Granizado did not want to line up.
 
-Coco was a tall, fluffy mound of rainbow-syruped shaved ice in a paper cone, dusted with powdered milk, wearing tiny round sunglasses. His whole personality was *cool.* He said "tuanis" about everything — *cool, all good, mae* — and had never once been in a hurry.
+Coco was a paper cone of Costa Rican shaved ice piled high, striped every color a syrup comes in, snowed over with powdered milk, and wearing sunglasses so small they were mostly a rumor. His whole personality was *cool.* He said "tuanis" about everything — *cool, all good, mae* — and had never once been in a hurry.
 
 He was, at this moment, dripping slightly. Not from heat. From the cannon.
 
@@ -53,7 +53,7 @@ Lala the Tres Leches looked around, as if there might be another cake.
 
 ---
 
-"Sit," said Rosa, and everybody sat, and she said the serious thing first — that was how Rosa did it: the serious thing first, then a whole morning of silly to hold it in place.
+"Sit," said Rosa, and everybody sat. She said the serious thing first — that was how Rosa did it. Serious first, then a whole morning of silly to hold it in place.
 
 "Here is the one plain sentence," she said. "If shooting ever starts near you — a street, a market, a parking lot, anywhere — you get low, you get *moving*, and you get behind something that *stops* things. Not something that *hides* you. Something that *stops.* That is the whole lesson. Everything else today is snowballs."
 
@@ -103,7 +103,7 @@ Tico could not contain himself. "THE CAKE IS DOWN — no, the cake is UP — the
 
 Rosa hopped over and put a wing on each of them.
 
-"Look carefully. Tato is dense. He has been through the press twice and he has *substance.* When the snowball meets him, the snowball loses. That is cover." She turned. "Lala is *beautiful.* She *hides* the ice behind her very nicely. But the snowball doesn't care what it can see. It goes where it's going. That is concealment. It hides you. It does not *stop anything.*"
+"Look carefully. Tato is dense. He has been through the press twice and he has *substance.* When the snowball meets him, the snowball loses. That is cover." She turned. "Lala is *beautiful.* She *hides* the ice behind her very nicely. But a snowball has no eyes. It goes where it's going. That is concealment. It hides you. It does not *stop anything.*"
 
 "So what's cover?" said Coco. "In real life. Not — not patacones."
 
@@ -137,7 +137,7 @@ Slowy the Sloth was standing in the exact middle of the lake, in the open, with 
 
 *THOOMP.*
 
-The snowball went past his ear at full speed — it only *felt* slow, because Slowy had not moved even a little — and took a leaf off a branch forty feet behind him.
+The snowball went past his ear at full speed and took a leaf off a branch forty feet behind him. Slowy had not moved even a little.
 
 "…to go," finished Slowy.
 
@@ -153,7 +153,7 @@ It took a while.
 
 ---
 
-They practiced the whole rest of the morning, and it was — everyone agreed — the best morning of the Pink Belt Academy so far, which was saying something after Señor Saco's sombrero.
+They practiced the whole rest of the morning, and it was — everyone agreed — the best morning of the Pink Belt Academy so far, which, after the business with Señor Saco's sombrero, was no small thing.
 
 Herschel set up cover across the lake: two upturned sleds packed solid with ice, a stack of frozen cocoa drums, the lodge's old iron stove, and — in the very middle, arms folded, grinning — Tato. And concealment: a row of snowmen, a sheet on a clothesline, a cardboard box, and a bush Finnegan had brought from somewhere and would not explain.
 
@@ -163,7 +163,7 @@ Herschel set up cover across the lake: two upturned sleds packed solid with ice,
 
 *THOOMP. THOOMP. THOOMP.*
 
-Glorious chaos. Boba went so low he was basically rolling, and pinged sled to drum to stove like he'd been born for it. Finnegan went straight behind his own bush, was immediately hit, and shouted "IT'S CONCEALMENT, I *KNEW* IT" from inside a cloud of snow. Tico refused to get low on principle — "A TOUCAN DOES NOT CROUCH" — took one in the beak, and did not stop announcing. Lala got behind the iron stove and had the best morning of anyone.
+Glorious chaos. Boba went so low he was basically rolling, and pinged sled to drum to stove like he'd been born for it. Finnegan went straight behind his own bush, was immediately hit, and shouted "IT'S CONCEALMENT, I *KNEW* IT" from inside a cloud of snow. Tico refused to get low on principle — "A TOUCAN DOES NOT CROUCH" — took one in the beak, and did not stop announcing. Lala got behind the iron stove and, for once in her life, nothing went through her.
 
 And Coco —
 
@@ -177,7 +177,7 @@ Not *cool*-froze. Actually froze. He made the first cocoa drum fine — then a s
 
 "Coco," said a calm voice, very close.
 
-Tato had come over, flat and golden and unhurried, and put himself between Coco and the cannon like a door closing.
+Tato had come over, flat and golden and unhurried, and put himself between Coco and the cannon like a wall going up.
 
 "Look at me," said Tato.
 
@@ -201,7 +201,7 @@ Coco looked past Tato's crispy shoulder. The upturned sled. Twelve feet. Solid i
 
 *Sssk, sssk, sssk.*
 
-"NOW," said Tato, and Coco *went* — low, fast, twelve feet of rainbow ice moving like it had somewhere to be — and slid in behind the sled a half-second before the *THOOMP*, and Tato slid in beside him, and Coco discovered that he was laughing.
+"NOW," said Tato, and Coco *went* — low, fast, twelve feet of rainbow ice moving like it had somewhere to be. He slid in behind the sled a half-second before the *THOOMP.* Tato slid in beside him. And Coco discovered that he was laughing.
 
 "I did it."
 
@@ -219,7 +219,7 @@ She held both wings up, open, feathers spread.
 
 "So you come out *slow.* Hands *open*, hands *up.* Nothing in them — not a stick, not a phone, not anything you found on the ground. And you do exactly what they say, even if it's *get down*, even if it feels rude, even if you did everything right. *They don't know that yet.* You help them know it. Hands open. Slow. Then shrimp."
 
-"Then shrimp," repeated the whole academy solemnly, which was the traditional way a Rosa lesson ended, and Barnaby produced a bag of them from somewhere, which was the traditional way it *actually* ended.
+"Then shrimp," repeated the whole academy solemnly, which was the traditional way a Rosa lesson ended, and Finnegan produced a bag of them from inside his bush, which was the traditional way it *actually* ended.
 
 ---
 
@@ -241,7 +241,7 @@ Coco leaned against him. It was a very good place to lean. Nothing was getting t
 
 "Smash now," Tato agreed. "Worry never."
 
-Behind them Auntie Hù screwed the lid back on her thermos, and looked at the lake full of cover and concealment and snowmen with new heads, and said, "Mm," and Rosa, asleep on one leg beside her, said, "…then shrimp," without waking up at all.
+Behind them, Auntie Hù screwed the lid back on her thermos and looked out at the lake — full of cover, and concealment, and snowmen with new heads. "Mm," she said. And Rosa, asleep on one leg beside her, said, "…then shrimp," without waking up at all.
 
 ---
 

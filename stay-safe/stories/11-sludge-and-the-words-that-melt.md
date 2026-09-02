@@ -11,7 +11,7 @@
 
 Bùdīng had been in Frostpeak Valley for exactly nine days, and in that time he had fallen down eleven times, wobbled into a snowbank twice, and been mistaken for a very small lamp once, by a seal, in the dark.
 
-"I'm fine!" he told the seal. "I'm fine! I'm totally fine! …I'm wobbling."
+"I'm fine!" he told the seal. "Totally fine! …I'm wobbling."
 
 He was a caramel pudding. He was golden on top with dark caramel dripping down his sides, and he wobbled — always, constantly, even standing still, even *asleep*. He left tiny caramel footprints wherever he went, which made him extremely easy to follow and extremely hard to lose, which was the story of his life.
 
@@ -27,7 +27,7 @@ And that's when the puddle spoke.
 
 Bùdīng turned around.
 
-Behind him — all around him, actually, because he was leaking — stood the biggest cup of blue-raspberry slush that Bùdīng had ever seen. It was as tall as a bear cub and twice as wide, and it was *melting*: blue drips ran down its sides and pooled around it in a spreading puddle the color of a bad idea. It had two drippy fists and a sneer you could have hung a coat on.
+Behind him — all around him, actually, because it was leaking — stood the biggest cup of blue-raspberry slush that Bùdīng had ever seen. It was as tall as a bear cub and twice as wide, and it was *melting*: blue drips ran down its sides and pooled around it in a spreading puddle the color of a bad idea. It had two drippy fists and a sneer you could have hung a coat on.
 
 "Jell-O Legs," said the slush again, louder, so the whole line could hear. "Boots on backwards. Wobbling like a *baby*. Look at him! He's *shaking!*"
 
@@ -41,7 +41,7 @@ His wobble, which had been a little wobble, became a medium wobble. His eyes wen
 
 "I'm fine," he whispered. "I'm fine. I'm totally—"
 
-"Aww, he's gonna CRY," crowed the slush, and stomped a drippy foot, and the puddle spread. "What are you gonna do about it, Jell-O Legs? Huh? *What are you gonna do about it?*"
+"Aww, he's gonna CRY," crowed the slush, and stomped a drippy foot, and the puddle spread. "What are you gonna do about it, Jell-O Legs? Huh? *Huh?*"
 
 Bùdīng, who had no idea what he was going to do about it, did the only thing he knew how to do. He wobbled harder. Three wobbles, a hiccup, and a second tear.
 
@@ -53,7 +53,7 @@ The slush puppy beamed like it had been fed.
 
 Finnegan stopped laughing about half a second after he'd started, and the feeling that replaced it was so awful that he actually put a flipper over his own beak, as if he could stuff the "HA!" back in.
 
-He couldn't. It was out. It was in the air, and Bùdīng had heard it, and Bùdīng was wobbling and *crying* and looking at his backwards boots, and the puddle was laughing, and Finnegan — who could launch himself off a forty-foot jump without a second thought — could not for the life of him figure out what to *do*.
+He couldn't. It was out. It was in the air, and Bùdīng had heard it, and Bùdīng was wobbling and *crying* and looking at his backwards boots, and the puddle was laughing. And Finnegan — who could launch himself off a forty-foot jump without a second thought — could not for the life of him figure out what to *do*.
 
 So he did nothing. He stared at his own feet, which were on the right way, and felt like the worst penguin in Frostpeak Valley.
 
@@ -63,7 +63,7 @@ It wasn't loud. It was the voice of a tea egg who was sitting on the cocoa count
 
 "Cocoa's ready," said Auntie Hù. "Take it and go."
 
-The slush puppy — Sludge, apparently — snatched his cocoa, sloshed a last "*Jell-O Legs*" over his shoulder, and dripped away down the hall, leaving a blue trail that Herschel would be mopping for the next hour.
+The slush puppy — Sludge, apparently — snatched his cocoa, sloshed a last "*Jell-O Legs*" over his shoulder, and dripped away down the hall, leaving a blue trail that Herschel would be mopping for the next hour, muttering things in Walrus.
 
 The line went quiet. Somebody coughed.
 
@@ -117,7 +117,7 @@ Bùdīng looked down at himself. He was still wobbling — a little less now, bu
 
 Finnegan sat up. "I can be a herd. I'm *great* at being a herd. I'm basically a stampede."
 
-"Mm. And *then*—" Auntie Hù looked at Bùdīng "—you tell a grown-up. Nora. Herschel. Me."
+"And *then*—" Auntie Hù looked at Bùdīng "—you tell a grown-up. Nora. Herschel. Me."
 
 Bùdīng's wobble came back all at once. "That's *tattling.*"
 
@@ -143,7 +143,7 @@ Sludge came back at four o'clock. Of course he did. Bùdīng was still on the be
 
 Bùdīng stood up.
 
-It was not graceful. Nothing Bùdīng did was graceful. But he planted both boots, right feet, on the floor, and he made his eyes go *up* — off his boots, off the puddle, right to Sludge's drippy blue face — and he opened his mouth and said:
+It was not graceful. Nothing Bùdīng did was graceful. But he planted both boots on the floor — correct feet, this time — and he made his eyes go *up* — off his boots, off the puddle, right to Sludge's drippy blue face — and he opened his mouth and said:
 
 "stop."
 
@@ -159,7 +159,7 @@ It boomed. It actually *boomed.* It bounced off the rental-boot lockers and ratt
 
 Sludge's grin flickered. "Oh, *big* words, Jell-O—"
 
-"WOOOHOOO—" said Finnegan, leaping up beside Bùdīng, flippers wide, and then catching himself. "I mean. Um. Yeah." He put his flippers down. He planted his feet, right way round. He looked Sludge in the face, and said, as flatly and boringly as a rockhopper penguin has ever said anything: "Stop. He doesn't like that. I don't either."
+"WOOOHOOO—" said Finnegan, leaping up beside Bùdīng, flippers wide, and then catching himself. "I mean. Um. Yeah." He put his flippers down. He planted his feet. He looked Sludge in the face, and said, as flatly and boringly as a rockhopper penguin has ever said anything: "Stop. He doesn't like that. I don't either."
 
 Two of them. Shoulder to shoulder. Neither one crying. Neither one laughing. Neither one giving him a single thing.
 
@@ -195,7 +195,7 @@ Bùdīng let out a breath he'd been holding since nine o'clock that morning. His
 
 Here is one last thing about that day, which Bùdīng didn't see, and which you should.
 
-Late that night, when the lodge was dark and the fire was down to embers, Nora Snowmane went looking for a puddle. She found it in the empty rental room, sitting by the boot dryer, dripping in the dark.
+Late that night, when the lodge was dark and the fire was down to embers, Nora Snowmane went looking for a puddle. This was not a difficult search. She followed the trail to the empty rental room and found him sitting by the boot dryer, dripping in the dark.
 
 "Sludge," she said.
 

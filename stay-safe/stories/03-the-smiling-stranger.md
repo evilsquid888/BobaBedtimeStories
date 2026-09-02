@@ -53,7 +53,7 @@ He had come down the hill without his board. He was standing very close to Mochi
 
 "Grown-ups don't ask kids for help," said Barnaby.
 
-He said it the way you'd say *fish is in the sea.* Like a plain fact.
+He said it the way you'd say *fish live in the sea.* Like a plain fact.
 
 The man laughed, easily. "Well, this grown-up does. I'm just a little desperate, buddy. You want to help too? Plenty of puppy for everybody."
 
@@ -123,7 +123,7 @@ Mochi didn't answer. She didn't have to. Herschel's whiskers had gone still agai
 
 ---
 
-"The other problem," said Auntie Hù, climbing off the napkins, "is that your NO is broken. I heard it from the market. It sounded like a mouse apologizing. We're going to fix that. Everybody outside."
+"The other problem," said Auntie Hù, climbing off the napkins, "is that your NO is broken. Back there it came out as *I—* and a wobble. It sounded like a mouse apologizing. We're going to fix that. Everybody outside."
 
 Which is how the entire back deck of the Cocoa Hut became, for one snowy afternoon, the loudest place in Frostpeak Valley.
 
@@ -153,7 +153,7 @@ Teddy and Tilda Powderpuff, the polar bear cubs, had wandered over and were watc
 
 "—but it's worth it," said Tilda.
 
-"Everybody does it," said Auntie Hù. "And while you're here, cubs — do you have a **code word**?"
+"Everybody practices," said Auntie Hù. "And while you're here, cubs — do you have a **code word**?"
 
 They looked at each other. "A what?"
 
@@ -185,9 +185,9 @@ The man's smile stayed exactly the same. That was what Tilda remembered afterwar
 
 "WHAT'S," said Tilda, standing up on her skis, "THE CODE WORD."
 
-And when he didn't have it — when the smile finally, finally wobbled — the twins did the thing that everyone had practiced all afternoon. They did not argue. They did not explain. They turned and they *flew*, two yellow streaks straight down the hill, straight to the cocoa counter, straight into the side of Herschel the Walrus, who had been watching the whole time, and who now put one great flipper on each small head and said, in a voice like a mountain, "Solveig. Now."
+And when he didn't have it — when the smile finally, finally wobbled — the twins did the thing that everyone had practiced all afternoon. They did not argue. They did not explain. They turned and they *flew* — two yellow streaks straight down the hill, straight to the cocoa counter, straight into the side of Herschel the Walrus. He had been watching the whole time. Now he put one great flipper on each small head and said, in a voice like a mountain, "Solveig. Now."
 
-Sergeant Solveig Snowmane had already been walking. She reached the man at the top of the hill before he got ten steps. What she said to him, nobody heard. What happened to him after, the grown-ups took care of. The story doesn't need to follow him. He left the valley that night and he did not come back, and that is the last this story has to say about him.
+Sergeant Solveig Snowmane had already been walking. She reached the man at the top of the hill before he got ten steps. What she said to him, nobody heard. What happened to him after, the grown-ups took care of. He left the valley that night and he did not come back, and that is the last this story has to say about him.
 
 "Was he *really*—" Mochi started.
 

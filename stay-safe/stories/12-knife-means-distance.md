@@ -11,7 +11,7 @@
 
 Tico the Toucan had been asked to introduce the training knife, and Tico did not introduce things. Tico *announced* them.
 
-"LADIES AND GENTLE-PENGUINS! BEARS OF ALL SIZES! ONE SLOTH!" His rainbow beak swung across the boot-drying room like a searchlight. "In THIS corner — weighing NOTHING, made of RUBBER, undefeated in ZERO fights — the one, the only — SEÑOR CUCHIIIIIILLO!"
+"LADIES AND GENTLE-PENGUINS! DESSERTS OF EVERY TEMPERATURE! ONE VERY SMALL KUMQUAT WHO WANDERED IN!" His rainbow beak swung across the boot-drying room like a searchlight. "In THIS corner — weighing NOTHING, made of RUBBER, undefeated in ZERO fights — the one, the only — SEÑOR CUCHIIIIIILLO!"
 
 Coach Rosa the Flamingo held up a floppy grey rubber knife with a smiley face drawn on the handle.
 
@@ -19,7 +19,7 @@ Nobody clapped. Señor Cuchillo flopped over sideways.
 
 "Beak the news," said Tico, a little hurt. "That was a *good* intro."
 
-"It was a wonderful intro," said Rosa. She was seven feet of pink, standing on one leg in a pink headband, and she had the cheerful, dangerous energy of a gym teacher who has had exactly the right amount of coffee. "It was also the last fun thing that is going to happen for about ten minutes. **¡Dale!** — that means *go!*, or *come on!*, or *let's get to it.* Everybody sit. Coco. Up front."
+"It was a wonderful intro," said Rosa. She was standing on one leg, as usual — a flamingo is mostly leg; the rest is headband — and she had the cheerful, dangerous energy of a gym teacher who has had exactly the right amount of coffee. "It was also the last fun thing that is going to happen for about ten minutes. **¡Dale!** — that means *go!*, or *come on!*, or *let's get to it.* Everybody sit. Coco. Up front."
 
 Coco the Granizado slid forward. He was a tall fluffy mound of rainbow-syruped shaved ice in a paper cone, dusted with powdered milk like fresh snow, wearing tiny round sunglasses in a room with no sun. He was the coolest thing in Frostpeak Valley, and he knew it, and it had never once been a problem.
 
@@ -55,7 +55,7 @@ Auntie Hù, on a stack of mittens by the door, said "Mm," which in her language 
 
 "An arm?"
 
-"An arm. That's it. That's *all.* A knife has the reach of one arm, and you have *legs.*" She pointed the rubber knife at the door. "So if you see a knife and there is room to run — you RUN. Not away from the *knife.* Toward people, toward light, toward a door that locks. You don't stop to think. You don't stop to look brave. Everything in you that says *stay and handle it* is wrong today. Go."
+"An arm. That's it. That's *all.* A knife has the reach of one arm, and you have *legs.*" She pointed the rubber knife at the door. "So if you see a knife and there is room to run — you RUN. And not just *away.* You run *toward* something. Toward people, toward light, toward a door that locks. You don't stop to think. You don't stop to look brave. Everything in you that says *stay and handle it* is wrong today. Go."
 
 "That's it?" said Coco. "Run? That's the whole—"
 
@@ -71,7 +71,7 @@ Piper Paddlefoot, who had been fidgeting with her glittery blue snowboard the en
 
 Piper stood up, held the board flat in front of her like a shield, and peered over the top of it with just her eyes.
 
-Rosa looked at her for a long moment.
+Rosa tilted her head all the way sideways, the way a flamingo does when it is deciding whether you are a fish.
 
 "That," she said, "is the single best use of a snowboard I have seen all winter. Everyone look at Piper. Piper, never put that down."
 
@@ -93,7 +93,7 @@ And here Rosa put down the rubber knife and looked at the room the way a grown-u
 
 "Rule four is for when you cannot run. When you are in a corner, or a small room, or he is already too close. I want you to understand that rule four is *bad.* It is the worst rule. Nobody good at this *wants* rule four. But you will have it in your pocket, because a kid with a bad plan is better off than a kid with no plan."
 
-"Arm meets *arm.*" She swung Señor Cuchillo slowly at Tato the Patacón, who had volunteered because Tato always volunteered, being twice-fried and afraid of nothing. Tato's forearm came up and met her *forearm* — not the knife — with a crunchy *whap*. "You do not block the knife. You block the *arm* that's holding it. Then—" she stepped in, and Tato stepped in, "—you *burst in*. Not away. In. Away keeps you in the reach. In gets you past it."
+"Arm meets *arm.*" She swung Señor Cuchillo slowly at Tato the Patacón, who had volunteered because Tato always volunteered, being twice-fried and afraid of nothing. Tato's forearm came up and met her *forearm* — not the knife — with a crunchy *whap*. "You do not block the knife. You block the *arm* that's holding it. Then—" she stepped in, and Tato stepped in with her, "—you *burst in*. Not away. In. Away keeps you in the reach. In gets you past it."
 
 "Both hands." Tato grabbed her wing with both of his stubby plantain hands and hung on like a barnacle. "Both hands on the *arm*. Never — Coco, look at me — *never* grab the blade. Not to be brave. Not to *take it.* The arm. Then knee, knee — Tato, that's enough, you're very good — then either you have it, or you shove him and you *RUN*, and what do you do after you run?"
 
@@ -121,7 +121,7 @@ Coco was melting. Not a lot. But a little rainbow puddle had formed around the b
 
 "Coach," he said. "I don't think I'm — I'm not good at scared."
 
-"Nobody is good at scared, *tranquilo.*" (That one meant *easy, easy — calm down.*) "You're not supposed to be good at scared. You're supposed to be good at *running while scared.* Those are different sports." She stood back up on one leg. "And you know what? You're a *granizado.* Somebody swings something at you, you're going to melt a little. Fine. Melt *toward the door.*"
+"Nobody is good at scared. *Tranquilo.*" (That one meant *easy, easy — calm down.*) "You're not supposed to be good at scared. You're supposed to be good at *running while scared.* Those are different sports." She stood back up on one leg. "And you know what? You're a *granizado.* Somebody swings something at you, you're going to melt a little. Fine. Melt *toward the door.*"
 
 Coco looked down at his puddle.
 
@@ -141,7 +141,7 @@ Rosa came at Coco with Señor Cuchillo, slow and floppy and grinning.
 
 Coco ran.
 
-He didn't think about it. He didn't do rule two or three or four. He saw a knife — a rubber one, with a smiley face, held by a flamingo he adored — and every part of him that had been listening for an hour said *legs*, and he went, sliding across the ice in a spray of powdered milk, not away from Rosa but *toward* the cluster of penguins and bears at the shore, toward Herschel with his enormous cocoa vat, toward Auntie Hù on her crate, because that's where people were.
+He didn't think about it. He didn't do rule two or three or four. He saw a knife — a rubber one, with a smiley face, held by a flamingo he adored — and every part of him that had been listening for an hour said *legs.* And he went. He slid across the ice in a spray of powdered milk, not away from Rosa but *toward* the cluster of penguins and bears at the shore — toward Herschel with his enormous cocoa vat, toward Auntie Hù on her crate — because that's where the people were.
 
 He stopped forty feet away, breathing hard, and turned his head. Left. Right. Behind.
 

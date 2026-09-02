@@ -105,7 +105,7 @@ She stood on one leg.
 
 Everyone put their fists up like boxers on a poster.
 
-"No. That says *I want to fight.* You want to *look* like you don't, while being completely ready to. Hands up like this—" both wings open, palms out, chest height, "—like you are saying *whoa. Tranquilo.*" (*Tranquilo* is Spanish for *easy, calm down.*) "It looks polite. It *is* polite. It is also a *wall.* Chin down. Eyes up. **Two feet down. Hands up.**" Everyone waited. "And *then—*"
+"No. That says *I want to fight.* You want to *look* like you don't, while being completely ready to. Hands up like this—" she opened both wings, palms out, chest height, "—like you are saying *whoa. Tranquilo.* Easy, easy. It looks polite. It *is* polite. It is also a *wall.* Chin down. Eyes up. **Two feet down. Hands up.**" Everyone waited. "And *then—*"
 
 "Shrimp!" said Tico.
 
@@ -123,11 +123,11 @@ Boba, in the front row, was holding the shape so hard he vibrated. "How long do 
 
 The room got quieter.
 
-"Sometimes running does not work. Sometimes somebody *has* you, and nobody is coming." She let that be true a moment. "For that, you have a switch inside you. Right now it is OFF. It is off all day, your whole life, probably. But the *instant* you are trapped, you turn it ON — and then you are not polite, you are not small. You are all at once, and ugly, and *loud.* I need a volunteer."
+"Sometimes running does not work. Sometimes somebody *has* you, and nobody is coming." She let that sit for a moment. "For that, you have a switch inside you. Right now it is OFF. It is off all day, your whole life, probably. But the *instant* you are trapped, you turn it ON — and then you are not polite, you are not small. You are all at once, and ugly, and *loud.* I need a volunteer."
 
 Tato thumped forward.
 
-He was the shortest one in the room, the densest, and calm the way only a plantain who has been through the worst thing twice and come out crunchier can be.
+He was the shortest one in the room and the densest, and he had the calm of a plantain who has already been through the worst thing twice and come out crunchier.
 
 "Tato," said Rosa. "Tico is going to grab you. You are going to be *friendly.* And then, when I say, you are going to turn the switch on."
 
@@ -139,7 +139,7 @@ Tico put on a pair of oven mitts, for safety, and grabbed Tato by both crinkled 
 
 And Tato *changed.*
 
-One second there was a friendly golden disc saying *hola.* The next there was a *wall of noise* — Tato roared, a huge flat plantain roar, grabbed Tico's shoulders right back, pulled *down*, and his short sturdy knee came up into the padded middle of the toucan's flight vest — *whump* — *whump* — and he *shoved*, and Tico stumbled backward into Señor Saco, who swung gently and lost his sombrero.
+One second there was a friendly golden disc saying *hola.* The next there was a *wall of noise.* Tato roared — a huge flat plantain roar — grabbed Tico's shoulders right back, and pulled *down.* His short sturdy knee came up into the padded middle of the toucan's flight vest. *Whump.* *Whump.* Then he *shoved*, and Tico stumbled backward into Señor Saco, who swung gently and lost his sombrero.
 
 *WHISTLE.*
 
@@ -175,7 +175,7 @@ Tato, experimentally, raised one knee. It was at *exactly* the height of Señor 
 
 "Oh," said Tato. "Oh, *smash now.*"
 
-"**Closest weapon to the closest target.** Hard parts of you—" knee, elbow, heel of the wing, "—to soft parts of them. Knee to the thigh or the middle. Heel of the hand *up*, under the chin. Bottom of the fist *down*, like a hammer. Two or three. Not ten. Then *push*, then *run.*"
+"**Closest weapon to the closest target.** Hard parts of you—" she slapped a knee, an elbow, the heel of her wing, "—to soft parts of them. Knee to the thigh or the middle. Heel of the hand *up*, under the chin. Bottom of the fist *down*, like a hammer. Two or three. Not ten. Then *push*, then *run.*"
 
 Boba was frowning. "What about punching? Like in movies?"
 
@@ -223,7 +223,7 @@ And Barnaby Beaksworth, who had been waiting in the hall for exactly this moment
 
 Late that night, Rosa stood on the lodge porch on one leg, watching the snow. Auntie Hù climbed onto the railing beside her.
 
-"They'll never need most of it," said Hù finally.
+"They'll never need most of it," said Auntie Hù finally.
 
 "No," Rosa agreed. "Rule zero does the work. You do the work." She tucked her head halfway under her wing. "But the day one of them *does* need it, I want their hands to already know where to go. Not deciding. Just… *ready.*"
 

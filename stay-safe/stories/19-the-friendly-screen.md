@@ -23,7 +23,7 @@ Dàn was a golden-brown egg waffle shaped like a giant egg, with a bubbly grid p
 
 Dàn dropped onto the rail, slid the whole length of it, spun once, and landed in a spray of snow with his top hat still perfectly straight. Forty-one people in the chat typed fire emojis. One person typed *fish*. That was Barnaby.
 
-"Thank you! THANK YOU! You're all TOO kind!" Dàn bowed. Steam whooshed. Finnegan, trying to zoom in, skied into the frame, through the frame, and out the other side of the frame into a snowbank.
+"Thank you! THANK YOU! You're all TOO kind!" Dàn bowed. Steam whooshed. Finnegan, trying to zoom in, hopped into the frame, through the frame, and out the other side of the frame into a snowbank.
 
 "I'm okay!" said the snowbank. "The cloud's still ready!"
 
@@ -35,9 +35,9 @@ The best fan showed up on the third night.
 
 His name was **SnowKing11**, and he was — Dàn thought — the greatest person on the entire internet. He was there the *second* the stream went live. He typed the *perfect* compliment after every trick, not just *fire* but things like *that toe-side was CLEAN, dude* and *how are you so smooth on the landing??* He said he was eleven. He said he boarded too, at a mountain far away. He never missed a stream. He never seemed to *sleep.*
 
-"He's up at two in the morning," Dàn said, thrilled. "He's up at *six.* He's up *all the time.* He just loves the tricks that much."
+"He's up at two in the morning," Dàn said, thrilled. "He's up at *six.* Folks, he's up *all the time.* He just loves the tricks that much."
 
-"Huh," said Finnegan, who was eating a pretzel. "I sleep like a rock. Like a big rock in a smaller rock."
+"Huh," said Finnegan, who was eating a pretzel. "I sleep like a rock. A rock that's *also* asleep. Double rock."
 
 On the fourth night, SnowKing11 said: *hey, can we go private? group chat is so loud lol.*
 
@@ -47,7 +47,7 @@ And Dàn — glowing, steaming, *seen* — said sure.
 
 Private chat was different.
 
-Private chat was just the two of them, and SnowKing11 was even nicer there. He asked what slope Dàn practiced on. He asked what time. ("So I can catch you live, dude!") He asked for "a pic of your setup — like, you in it, with the board, so I can see how you stand."
+Private chat was just the two of them, and SnowKing11 was even nicer there. He asked what slope Dàn practiced on. He asked what time. ("So I can catch you live, dude!") He asked for "a pic of your setup — like, you in it, by the rail, so I can see how you stand."
 
 He said: *don't tell your parents about me tho. parents always ruin this stuff. they'll make you stop streaming.*
 
@@ -83,7 +83,7 @@ And then a clock appeared. **10:00.** And it began to tick.
 
 Dàn made a sound like a kettle.
 
-His steam stopped. His whole grid went cold. He sat down on the bunk without deciding to and stared at the picture, and the picture stared back, and it was **假的** (jiǎ de) — *fake*, completely fake, a lie made of pixels — and it did not matter one bit that it was fake, because it *looked* real, and the clock said **9:41**.
+His steam stopped. His whole grid went cold. He sat down on the bunk without deciding to. He stared at the picture, and the picture stared back. It was **假的** (jiǎ de) — *fake*, completely fake, a lie made of pixels — and it did not matter one bit, because it *looked* real. And the clock said **9:41**.
 
 Everyone would see it. Everyone would think—
 
@@ -93,7 +93,7 @@ He started to type. *Please. I'm sorry. I don't know what I did. Please don't. I
 
 "WHAT are you doing?"
 
-Finnegan had come in with two pretzels and one look at Dàn's face and dropped both pretzels, which, if you knew Finnegan, told you everything.
+Finnegan had come in with two pretzels, taken one look at Dàn's face, and dropped both pretzels — which, if you knew Finnegan, told you everything.
 
 "He — it — there's a *clock* —" Dàn turned the phone around.
 
@@ -121,7 +121,7 @@ And he put his flipper flat over the send button, and held it there, and did not
 
 They ran.
 
-Down the hall, past the sleeping boba stand, through the snow, into the Cocoa Hut, where Herschel the Walrus was closing up with a rag over one shoulder. Dàn couldn't speak. Finnegan did it for him, in a rush, waving the phone, and Herschel — who had run this lodge for thirty winters and had seen a great many faces — looked at the screen for exactly as long as he needed to.
+Down the hall, past the sleeping boba stand, through the snow, into the Cocoa Hut, where Herschel the Walrus was closing up with a rag over one shoulder. Dàn couldn't speak. Finnegan did it for him, in a rush, waving the phone. Herschel — who had run this lodge for thirty winters and had seen a great many faces — looked at the screen for exactly as long as he needed to.
 
 Then he did three things, in order, and did not hurry any of them.
 
@@ -139,9 +139,9 @@ And he called Solveig.
 
 Sergeant Solveig Snowmane arrived with a much smaller polar bear who wore glasses and carried a laptop and was introduced as "cyber." Cyber looked at the messages for about as long as Herschel had.
 
-"Yep," she said. "I know this one. Word for word. *I have your friends list. Ten minutes.* It's a script. Same script, thousands of kids." She turned the laptop around. On it was a list of names — a *long* list — of other kids, at other mountains, who had gotten the exact same message, with the exact same clock, that same week. "It's not talking to you, sweetheart. It's talking to *everyone.* You're not special to it. That's actually the good news."
+"Yep," she said. "I know this one. Word for word. *I have your friends list. Ten minutes.* It's a script. Same script, thousands of kids." She turned the laptop around. On it was a list — a *long* one — of reports from other kids, at other mountains, who had gotten the exact same message, with the exact same clock, that same week. "It's not talking to you, sweetheart. It's talking to *everyone.* You're not special to it. That's actually the good news."
 
-Taro and Hóng Dòu came through the door — Boba bouncing ahead of them, Tāng Yuán rolling behind — and there was a great deal of hugging, and *nobody* said *why did you send a picture,* not once, and Dàn realized he'd been braced for that sentence like a slap and it never came.
+Taro and Hóng Dòu came through the door — Boba bouncing ahead of them, Tāng Yuán rolling behind — and there was a great deal of hugging. *Nobody* said *why did you send a picture.* Not once. Dàn realized he'd been braced for that sentence like a slap, and it never came.
 
 "This thing has a name," said Sergeant Solveig, crouching down to Dàn's level, the way she did. "It's called **sextortion.** That's a grown-up word for: someone gets a picture, or *says* they have one, and then threatens you to get more, or to get money. It's a crime. A *serious* one. It happens to real kids — a lot of them — and it works for one reason only." She held up one finger. "Because the kid is too embarrassed to tell. The whole thing runs on *shhh.* The second you told Herschel, you took the engine out of it."
 
@@ -165,7 +165,7 @@ Nothing.
 
 Nothing at all.
 
-The Cocoa Hut was quiet except for the fire. Somewhere far off, a narwhal did a dramatic spin through the ice, because it was that kind of night. Finnegan ate a pretzel off the floor.
+The Cocoa Hut was quiet except for the fire. Somewhere far off, a narwhal did a dramatic spin through the ice, because it was that kind of night. Finnegan discovered a spare pretzel in his pocket and ate it, because it was also that kind of night.
 
 "That's… it?" Dàn said.
 
@@ -197,7 +197,7 @@ Dàn thought about that.
 
 "It was?" Finnegan sounded genuinely surprised. "It didn't feel brave. It felt like *ducking.*"
 
-"Same thing," said Dàn, and pulled his top hat down over his eyes, and, for the first time in four nights, slept straight through till morning — no phone, no chat, no clock, no *anything,* except the slow tick of the real clock on the wall, which was only ever telling the time.
+"Same thing," said Dàn. He pulled his top hat down over his eyes and, for the first time in four nights, slept straight through till morning — no phone, no chat, no clock, no *anything* except the slow tick of the real clock on the wall, which was only ever telling the time.
 
 ---
 

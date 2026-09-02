@@ -11,7 +11,7 @@
 
 Coach Rosa the Flamingo reached out one long pink wing, grabbed Mochi by the arm, and ended up holding three feet of mochi and no Mochi.
 
-The arm just kept *going.* It stretched out of Rosa's grip like warm taffy, thinner and thinner, until it was a pale white string with Rosa on one end and, on the other end, six feet away, Mochi — pillowy, rosy-cheeked, and confused.
+The arm just kept *going.* It stretched out of Rosa's grip like warm taffy, thinner and thinner, until it was a pale white string with Rosa on one end and, six feet away on the other, Mochi — pillowy, rosy-cheeked, and confused.
 
 "Hi!" said Mochi. "Was that a hug? I love hugs."
 
@@ -19,9 +19,9 @@ The arm just kept *going.* It stretched out of Rosa's grip like warm taffy, thin
 
 "Oh! Do it again! I'll hold still!"
 
-Rosa tried. Mochi stretched. Rosa let go; the arm snapped back with a soft *thwip* and Mochi wobbled happily in place, unharmed, unheld, and completely un-grabbable.
+Rosa tried. Mochi stretched. Rosa let go, and the arm snapped back with a soft *thwip.* Mochi wobbled happily in place: unharmed, unheld, and completely un-grabbable.
 
-Coach Rosa stood on one leg — she was always on one leg; she was a flamingo, seven feet of pink with a pink headband and a tiny whistle around her neck — and looked at Mochi for a long, thoughtful moment.
+Coach Rosa — seven feet of pink flamingo, pink headband, tiny whistle, balanced on one leg as always — regarded the six feet of stretched mochi between them the way a chef regards a noodle that has gone wrong.
 
 "Sit down," she said finally. "You are un-grabbable. You cannot be the student today."
 
@@ -35,15 +35,15 @@ And from the rafters, Tico the Toucan shrieked, "BEAK THE NEWS! IN THIS CORNER �
 
 The Pink Belt Academy had been open for three days.
 
-It lived in the lodge's boot-drying room, which meant it was the warmest room in Frostpeak Valley and smelled, permanently, like forty damp mittens. Rosa had hung a sign — PINK BELT ACADEMY — and under it a smaller sign: EVERYONE STARTS PINK. EVERYONE STAYS PINK. Rubber mats covered the floor. A heavy bag with a face drawn on it and a sombrero leaned in the corner.
+It lived in the lodge's boot-drying room, the warmest room in Frostpeak Valley and, permanently, the smelliest. Rosa had hung a sign — PINK BELT ACADEMY — and under it a smaller one: EVERYONE STARTS PINK. EVERYONE STAYS PINK. In the corner leaned a heavy bag with a face drawn on it and a sombrero on top. His name was Señor Saco. He had seen things.
 
-Today's students sat in a row on the bench: Cajeta, a fuzzy golden coconut-fudge ball the size of a marble who could not stop bouncing; Willa Wobble, the smallest penguin in the valley, ear-muffs pushed up, tiny purple board leaning beside her; and Finnegan, who had not signed up but was here.
+Today's students sat in a row on the bench: Cajeta, a fuzzy golden coconut-fudge ball the size of a marble who could not stop bouncing; Willa Wobble, the smallest penguin in the valley, tiny purple board leaning beside her; and Finnegan, who had not signed up but was here anyway.
 
 "Today," said Rosa, "is *Hands Off.* Somebody grabs you. You get loose." She held up a wing. "But first — rule zero. Cajeta. What is rule zero?"
 
 "The best fight is the one you're not in!" Cajeta bounced twice. "Auntie Hù says!"
 
-"Auntie Hù says," Rosa agreed, "and Auntie Hù is correct. If you *can* run — you run. You do not stand there and be grabbed. But sometimes—" she snapped her wing out and caught Finnegan by the flipper, who yelped "—sometimes they are faster. And then you need to know how hands work."
+"Auntie Hù says," Rosa agreed, "and Auntie Hù is correct. If you *can* run, you run. But sometimes—" her wing snapped out and caught Finnegan by the flipper; he yelped "—sometimes they are faster. And then you need to know how hands work."
 
 "I know how hands work," said Finnegan, dangling. "They're the things on the end of the arms."
 
@@ -67,9 +67,9 @@ Mochi squeezed. Willa squeaked.
 
 "Now," said Rosa, turning to Willa, "what does your body want to do?"
 
-Willa pulled. She pulled straight back, hard, the way you'd pull a door — and went nowhere, because Mochi's arm just stretched with her, and also because that's how *every* grab works: you pull back, and you're pulling against four fingers and a whole arm, and the arm always wins.
+Willa pulled. She pulled straight back, hard, the way you'd pull a stuck door — and went nowhere. Partly because Mochi's arm just stretched with her. Mostly because that's how *every* grab works: you pull back against four fingers and a whole arm, and the arm always wins.
 
-"That," said Rosa, "is what everybody does. And it never works. Look at the hand." She tapped Mochi's grip with her beak. "Four fingers on one side. One thumb on the other. The thumb is the *weak* side. Always. So—" she took Willa's flipper and rotated it, slow, so it turned *toward* the thumb "—you go *against the thumb.* You make a big circle — like you're stirring a giant pot of soup — and you step *in* toward them while you do it, not away. And—"
+"That," said Rosa, "is what everybody does. It never works. Look at the hand." She tapped Mochi's grip with her beak. "Four fingers on one side. One thumb on the other. The thumb is the *weak* side. Always. So—" she took Willa's flipper and turned it, slowly, *toward* the thumb "—you go *against the thumb.* Big circle, like you're stirring a giant pot of soup. And you step *in* toward them while you do it, not away. And—"
 
 Willa's flipper popped free.
 
@@ -89,7 +89,7 @@ Cajeta went next, and Cajeta was a different kind of problem, because Cajeta was
 
 "Grab her," said Rosa.
 
-Mochi tried. There was nothing to grab. Cajeta was a fuzzy golden sphere with no wrists, no shirt, no anything, and when Mochi's arm closed around her she simply — *bounced.* Straight up out of the grip, off the ceiling, off the sombrero on the heavy bag, and back onto the bench.
+Mochi tried. There was nothing to grab. Cajeta had no wrists, no shirt, no anything, and when Mochi's arm closed around her she simply — *bounced.* Straight up out of the grip, off the ceiling, off Señor Saco's sombrero, and back onto the bench.
 
 "Sweet and round, watch me bound!" she announced.
 
@@ -97,15 +97,15 @@ Mochi tried. There was nothing to grab. Cajeta was a fuzzy golden sphere with no
 
 Cajeta wriggled. Nothing.
 
-"When you're small and round and someone has you *tight*," said Rosa, "you have one thing they don't: you are *sudden.* You go still — so they relax — and then you go *everywhere at once.* Squirm, twist, drop your weight, go heavy and loose like wet laundry. Nobody can hold wet laundry."
+"When you're small and someone has you *tight*," said Rosa, "you have one thing they don't. You are *sudden.* Go still, so they relax. Then go *everywhere at once.* Squirm, twist, drop your weight — heavy and loose, like wet laundry. Nobody can hold wet laundry."
 
-Cajeta went still. Rosa relaxed a feather's worth. And Cajeta went *everywhere* — a golden blur of squirm — and was out and on the floor and bouncing for the door.
+Cajeta went still. Rosa relaxed a feather's worth. And Cajeta went *everywhere* — a golden blur of squirm — and was out, on the floor, and bouncing for the door.
 
 "SCAN!" Rosa barked.
 
 Cajeta skidded to a stop and whipped around in a full circle, looking everywhere at once like a very small lighthouse, then shot out the door.
 
-"Good," said Rosa. "She looked before she ran. Nobody runs into the *second* problem if they look."
+"Good," said Rosa. "Nobody runs into the *second* problem if they look first."
 
 "There's a second problem?" said Finnegan.
 
@@ -121,9 +121,9 @@ Cajeta skidded to a stop and whipped around in a full circle, looking everywhere
 
 Mochi grabbed a fistful of scarf at Finnegan's chest and, remembering, did *not* say sorry. She said "Sorry" with her face instead, which was somehow worse.
 
-"Everybody does the same thing here too," said Rosa. "They grab the *hand* and try to peel it off. Pointless. Instead—" she guided Finnegan's flippers "—you *trap* the hand. Slap both of yours right on top of hers and pin it to your own chest. Now she can't let go even if she wants to. Now *turn your whole body* — hard, like you're slamming a door with your shoulder—"
+"Everybody does the same thing here too," said Rosa. "They grab the *hand* and try to peel it off. Pointless. Instead—" she guided Finnegan's flippers "—you *trap* the hand. Slap both of yours on top of hers and pin it to your own chest. Now she can't let go even if she wants to. Now *turn your whole body.* Hard. Like you're slamming a door with your shoulder—"
 
-Finnegan turned. Mochi's arm, trapped, twisted with him, and Mochi made a small surprised noise and let go entirely, and Finnegan spun a full extra rotation from enthusiasm and fell over.
+Finnegan turned. Mochi's trapped arm twisted with him. Mochi made a small surprised noise and let go entirely — and Finnegan, out of pure enthusiasm, spun one full extra rotation and fell over.
 
 "WOOOHOO— I mean. Did I do it?"
 
@@ -131,21 +131,21 @@ Finnegan turned. Mochi's arm, trapped, twisted with him, and Mochi made a small 
 
 ---
 
-Now, Willa had been sitting very quietly through all of this, and Rosa had noticed, because Rosa noticed everything with one leg tucked up.
+Now, Willa had been sitting very quietly through all of this, and Rosa had noticed, because Rosa noticed everything, even half asleep on one leg.
 
 "Willa. Come here. Turn around."
 
-Willa turned. Rosa nodded at Mochi, and Mochi — gently, apologetically, thoroughly — wrapped both stretchy arms around Willa from behind in an enormous bear hug, lifting her clean off the mat.
+Willa turned. Rosa nodded at Mochi, and Mochi — gently, apologetically, thoroughly — wrapped both stretchy arms around Willa from behind in an enormous bear hug and lifted her clean off the mat.
 
-"Sor—" Mochi started, and stopped herself, and looked very proud.
+"Sor—" Mochi started, then stopped herself, and looked very proud.
 
-Willa dangled. Willa was a Little Blue Penguin. Everyone in the room could see the problem: a small person in a big hug has nothing to twist against, nothing to trap, and no thumb to find.
+Willa dangled. Everyone could see the problem: a small person in a big hug has nothing to twist against, nothing to trap, and no thumb to find.
 
-"This is the one small people are afraid of," said Rosa, not unkindly. "So this is the one small people learn *best.* Willa — you cannot go up. You cannot go out. Which way is left?"
+"This is the one small people are afraid of," said Rosa, not unkindly. "So this is the one small people learn *best.* Willa — you cannot go up. You cannot go out. What's left?"
 
 Willa thought. "…Down?"
 
-"*Down.* Small people go DOWN and OUT. Drop your weight — all of it, all at once, like a sack of wet snow. She's holding a penguin; make her hold a *boulder.*"
+"*Down.* Small people go DOWN and OUT. Drop your weight — all of it, all at once, like a sack of wet snow. She's holding a penguin. Make her hold a *boulder.*"
 
 Willa went heavy. Mochi's arms sagged.
 
@@ -173,23 +173,23 @@ Willa turned her head. Left. Right. Behind. Door.
 
 "One more," said Rosa. "The one nobody likes. Bjorn!"
 
-Bjorn Bigpaws had been waiting in the hallway, because he did not fit in the boot-drying room, and now he put his head through the door and then, with great dignity, the rest of himself. "I was told there would be a demonstration," he said. "I was not told I would be *in* it."
+Bjorn Bigpaws had been waiting in the hallway, because he did not fit in the boot-drying room. Now he put his head through the door and then, with great dignity, the rest of himself. "I was told there would be a demonstration," he said. "I was not told I would be *in* it."
 
 "Headlock," said Rosa. "Gently. On Cajeta."
 
-Bjorn looked at Cajeta. Cajeta looked at Bjorn. There was a size difference of roughly one thousand to one.
+Bjorn looked at Cajeta. Cajeta looked at Bjorn. The size difference was roughly one thousand to one.
 
-"I'll be *so* gentle," said Bjorn, and tucked the little fudge ball under one enormous arm, against his side, the way you'd carry a football. Cajeta's fuzzy face poked out the front. "This is cozy," she reported. "This is honestly very cozy."
+"I'll be *so* gentle," said Bjorn, and tucked the little fudge ball under one enormous arm, the way you'd carry a football. Cajeta's fuzzy face poked out the front. "This is cozy," she reported. "This is honestly very cozy."
 
-"It is not cozy when it's real," said Rosa, and her voice went flat for one sentence, the way it did when a thing mattered. "A headlock squeezes your neck. So the first job is not to escape — the first job is to *breathe.* Cajeta. Tuck your chin. Turn your face *toward* his body, into his ribs, not away. Away is where the squeeze is."
+"It is not cozy when it's real," said Rosa, and her voice went flat for one sentence, the way it did when a thing mattered. "A headlock squeezes your neck. So the first job is not to escape. The first job is to *breathe.* Cajeta. Tuck your chin. Turn your face *toward* his body, into his ribs, not away. Away is where the squeeze is."
 
 Cajeta tucked and turned. "Oh," she said, muffled. "Air."
 
-"Air first. Always. Now — both hands on the arm that's around you. Pull down. That's not to get out. That's to make *room.* Now: closest weapon, closest target. What's close?"
+"Air first. Always. Now — both hands on the arm that's around you. Pull down. Not to get out. To make *room.* Now: closest weapon, closest target. What's close?"
 
 Cajeta considered. "…His knee is right here."
 
-"The back of it. Soft. Hit it — with your hand, a hammer-fist, like knocking on a door you're angry at. *Then* step your outside foot *behind* him, and duck your head out the back like you're slipping off a scarf. Go."
+"The back of it. Soft. Hit it with a hammer-fist, like knocking on a door you're angry at. *Then* step your outside foot *behind* him, and duck your head out the back like you're slipping off a scarf. *¡Dale!* Go."
 
 Cajeta did not so much hit the back of Bjorn's knee as *bounce* off it — but Bjorn, being a gentleman, buckled dramatically, and the fudge ball stepped behind, ducked, and popped out the back of the headlock like a cork out of a bottle.
 
@@ -197,19 +197,21 @@ Cajeta did not so much hit the back of Bjorn's knee as *bounce* off it — but B
 
 Cajeta scanned. Everyone scanned. Bjorn, still buckled, scanned from the floor.
 
-"Chin in, turn in, breathe," said Rosa. "Hands on the arm. Hit the soft spot. Step behind. Duck out. Run. And if that doesn't work?"
+"Chin in, breathe, hands on the arm," said Rosa. "Hit, step behind, duck out, run. And if that doesn't work?"
 
 "Hit again," said Willa quietly. "Two or three. Then run."
 
-"Then run," said Rosa. "I did not fall," said Bjorn, from the mat. "I descended with style."
+"Then run," said Rosa.
+
+"I did not fall," said Bjorn, from the mat. "I descended with style."
 
 ---
 
-They ran it all again, and then again, until Willa could get out of a bear hug in the time it took Tico to say *BEAK THE NEWS*, and Finnegan could trap a shirt grab without falling over (once), and Cajeta had bounced off every single surface in the boot-drying room including Auntie Hù, who said "Mm" and did not move.
+They ran it all again, and then again, until Willa could get out of a bear hug in the time it took Tico to say *BEAK THE NEWS*, and Finnegan could trap a shirt grab without falling over (once), and Cajeta had bounced off every single surface in the boot-drying room, including Auntie Hù, who said "Mm" and did not move.
 
 And then Rosa said the thing she'd been saving.
 
-"Listen. All of you. Everything you did today was *getting loose.* Not fighting. Loose. Against the thumb, trap the hand, drop and stomp — those are ways of *leaving.*" She held up one pink wing. "Sometimes the grab won't break. Sometimes they are big and you are small and the circle doesn't work. *Then* — and only then — you hit. Knee. Palm. Hard parts to soft parts, two or three, until the grip breaks. And the *instant* it breaks, you stop hitting, and you RUN, and you SCAN. The switch goes on. The switch goes *off.* You are not there to win. You are there to *leave.*"
+"Listen. All of you. Everything you did today was *getting loose.* Not fighting. Loose. Against the thumb, trap the hand, drop and stomp — those are ways of *leaving.* Sometimes the grab won't break. *Then* — and only then — you hit. Knee. Palm. Hard parts to soft parts, two or three, until the grip breaks. And the *instant* it breaks, you stop hitting, and you RUN, and you SCAN. The switch goes on. The switch goes *off.* You are not there to win. You are there to *leave.*"
 
 "What if I *want* to win?" said Finnegan.
 
@@ -233,7 +235,7 @@ Mochi stretched one arm out ahead of them, long and thin, and looked at it. "I d
 
 "But I'm un-grabbable."
 
-"You're un-grabbable," Willa agreed. "So you're going to be the one who *remembers.* When somebody grabs *me*, and I freeze — you're the one who yells *against the thumb.* Okay?"
+"You're un-grabbable," Willa agreed. "So you're going to be the one who *remembers.* If somebody grabs *me* and I freeze, you're the one who yells *against the thumb.* Okay?"
 
 Mochi thought about that. Her arm snapped back to normal length with a soft *thwip.*
 
@@ -241,7 +243,7 @@ Mochi thought about that. Her arm snapped back to normal length with a soft *thw
 
 "That," said Willa, "is the whole point."
 
-Forty-four, thought Mochi — she'd lost count days ago, but it felt like a good number — and hugged her, and Willa didn't leave, because she didn't want to, because that's the difference.
+So Mochi hugged her. And Willa didn't leave — not because she couldn't, but because she didn't want to. That's the difference.
 
 ---
 
@@ -249,7 +251,7 @@ That night, in the bunk behind Boba on Ice, Mochi practiced letting go.
 
 She'd never done it on purpose before. She stretched an arm across the dark to the edge of Willa's bunk, held on for a moment — and then, deliberately, *fàngshǒu*, let go, and felt the arm come home.
 
-It turned out you could do that. It turned out hands weren't just for holding on. They were for knowing, always, exactly how to open.
+It turned out you could do that. Hands weren't just for holding on. They were for knowing, always, exactly how to open.
 
 She slept with both arms tucked in, for once, and dreamed of nothing that held her.
 

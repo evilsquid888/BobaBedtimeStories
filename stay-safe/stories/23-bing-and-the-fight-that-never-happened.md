@@ -11,7 +11,7 @@
 
 Bīng's Grand Toppings Tower was, in Bīng's own humble opinion, THE MOST BEAUTIFUL THING IN THE HISTORY OF THINGS.
 
-It stood four feet tall on the counter of Herschel's Cocoa Hut. It had eleven layers. It had mango and red bean and mochi balls and a spiral of condensed milk that went around it like a staircase, and on the very top, a tiny paper flag that said MORE IS MORE, because of course it did. Bīng — a towering, glittering mountain of fluffy shaved ice in sunglasses — stood beside it like a proud parent at a graduation.
+It stood four feet tall on the counter of Herschel's Cocoa Hut. It had eleven layers. It had mango and red bean and mochi balls and a spiral of condensed milk that went around it like a staircase. On the very top sat a tiny paper flag that said MORE IS MORE, because of course it did. Bīng — a towering, glittering mountain of fluffy shaved ice in sunglasses — stood beside it like a proud parent at a graduation.
 
 "BEHOLD," said Bīng.
 
@@ -19,7 +19,7 @@ It stood four feet tall on the counter of Herschel's Cocoa Hut. It had eleven la
 
 "THAT'S NOT DRIPPING. THAT'S *GLISTENING.*"
 
-Yēguǒ drifted past in his flip-flops, said "Duuude," with such feeling that a single mochi ball rolled off in sheer admiration. Bīng screamed. Boba bounced up and put it back. It was a wonderful Saturday night.
+Yēguǒ drifted past in his flip-flops and said "Duuude" with such feeling that a single mochi ball rolled off in sheer admiration. Bīng screamed. Boba bounced up and put it back. It was a wonderful Saturday night.
 
 The Cocoa Hut was packed, because the big downhill race had just finished and the entire valley had crammed inside to warm up. The windows were steamed. The fire crackled. Herschel the Walrus moved behind the counter like a ship in a harbor, pouring cocoa into an endless river of mugs. In the far corner, on his ancient wooden skis "with character," sat Magnus Meltsworth — a big grey-muzzled polar bear with the face of a grump and, everyone knew, the center of a marshmallow.
 
@@ -43,7 +43,7 @@ Bīng's sunglasses slipped one inch down his nose.
 
 "It has *problems.*" The Loud Guest laughed at his own joke, too long and too loud, and looked around the room for people to laugh with him. Nobody did. That made him louder. "Hey, who *made* you? Was it a snowblower? Did a snowblower have a bad day?"
 
-Now, here's a thing about Bīng. Everything was THE BEST or THE WORST. There was no middle. And right now his whole glittering body was sliding fast from THE BEST NIGHT EVER toward THE WORST, and the slide made him *melt.* Drip. Drip. A little puddle spreading on the floor.
+Now, here's a thing about Bīng. Everything was THE BEST or THE WORST. There was no middle. And right now his whole frosty body was sliding fast from THE BEST NIGHT EVER toward THE WORST, and the slide made him *melt.* Drip. Drip. A little puddle spreading on the floor.
 
 "Boba," Bīng hissed. "Hold my sunglasses."
 
@@ -83,7 +83,7 @@ Magnus thought about it honestly, because he was a grump but not a liar. "…Sat
 
 "And… he stops talking."
 
-"And," said Auntie Hù, still peeling, "Solveig comes. Because somebody in this room already has their phone out — put it *away,* Finnegan — and it doesn't matter who started it, she has to take you both. So: a night in a cell. Then a bill from a lawyer, which is more money than these skis have ever been worth. Then a judge asking why a grown bear hit a man over *shaved ice.*" She finally looked up. "And Bīng, standing right there, watching every second of it, learning that this is how it's done."
+"And," said Auntie Hù, still peeling, "Solveig comes. Because somebody in this room already has their phone out — put it *away,* Finnegan — and it doesn't matter who started it, she has to take you both. So: a night in a cell. Then a bill from a lawyer, which is more money than these skis have ever been worth. Then a judge asking why a grown bear hit a stranger over *shaved ice.*" She finally looked up. "And Bīng, standing right there, watching every second of it, learning that this is how it's done."
 
 The Cocoa Hut was very quiet now.
 
@@ -105,6 +105,8 @@ Bīng could not believe it.
 
 "No," said Auntie Hù. "We don't sit either. We *go.*" She hopped off the counter. "Bīng. Boba. Finnegan. Magnus. Bring the Tower. We're leaving."
 
+"Let's bounce," said Boba, who had waited his whole life for that to be the correct answer.
+
 "LEAVING? BUT THAT'S — that's *LOSING!*"
 
 Auntie Hù stopped. She looked at Bīng over the top of his own sunglasses, which Boba was still holding.
@@ -113,11 +115,11 @@ Auntie Hù stopped. She looked at Bīng over the top of his own sunglasses, whic
 
 "…You can't lose a fight you're not in."
 
-"Words are not a reason to hit. Not insults. Not about your mother. Not about your toppings. Not *anything.* Words don't break bones. Fists do — and the law knows the difference even if your feelings don't." She started walking toward the door, and the others, without quite deciding to, followed. "There's an old saying: don't be in stupid places, with stupid people, at stupid times. Right now this is a stupid place. That man is being stupid people. And it's getting to be a stupid time. So we take our beautiful tower and we *go.*"
+"Words are not a reason to hit. Not insults. Not about your mother. Not about your toppings. Not *anything.* Words don't break bones. Fists do — and the law knows the difference even if your feelings don't." She started walking toward the door, and the others, without quite deciding to, followed. "There's an old saying: don't be in stupid places, with stupid people, at stupid times. Right now this is a stupid place. That man is *being* stupid people. And it's getting to be a stupid time. So we take our beautiful tower and we *go.*"
 
 "But what if he *follows* us?" said Boba.
 
-"Then he's the one who made it a fight, and *that* changes everything. But he won't. Men like that don't want a fight. They want a *show.* Take away the audience and he's just a bear talking to a wall."
+"Then he's the one who made it a fight, and *that* changes everything. But he won't. Bears like that don't want a fight. They want a *show.* Take away the audience and he's just a bear talking to a wall."
 
 Bīng picked up his Tower — carefully, all eleven layers — and looked back at the Loud Guest, who was already yelling something at a coat rack.
 
@@ -145,7 +147,7 @@ Magnus stood on the porch with his mug, glowering at the aurora as if it owed hi
 
 "I *wanted* to hit him."
 
-"Of course you did. Wanting's free. *Doing* is what costs." She sat down on the porch step. "Here's what nobody tells kids, Bīng, so listen. Your ego — your pride, the part that goes hot when somebody laughs at you — that is the most *expensive* thing you own. It'll buy fights you don't need. It'll sell you nights in cells and years of regret at a discount. Every fight ever started in a place like that started with somebody's ego saying *I can't let him talk to me like that.*" She shrugged. "You can. You can let him talk. Talk is *free.* And then you take your tower and go home, and tomorrow you're still beautiful and he's still got a headache."
+"Of course you did. Wanting's free. *Doing* is what costs." She sat down on the porch step. "Here's what nobody tells kids, Bīng, so listen. Your ego — your pride, the part that goes hot when somebody laughs at you — that is the most *expensive* thing you own. It'll buy fights you don't need. It'll sell you nights in cells and years of regret at a discount. Every fight that ever broke out in a place like that began with somebody's ego saying *I can't let him talk to me like that.*" She shrugged. "You can. You can let him talk. Talk is *free.* And then you take your tower and go home, and tomorrow you're still beautiful and he's still got a headache."
 
 Bīng thought about this. It was, he had to admit, a very good speech, though it would have been better in ALL CAPS.
 
@@ -179,7 +181,7 @@ From Magnus Meltsworth, this was roughly the same as a parade.
 
 "THANK YOU," said Bīng, and dripped a little, but only from happiness this time.
 
-He fell asleep with his sunglasses on, ten layers tall, feeling like the best kind of tired — the kind you get from *not* doing something very hard, which, it turns out, is harder than doing it.
+He fell asleep with his sunglasses on, ten layers tall, feeling like the best kind of tired — the kind you get from *not* doing something very hard — which, it turns out, is harder than doing it.
 
 ---
 

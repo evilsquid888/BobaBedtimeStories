@@ -21,7 +21,7 @@ Not literally. Glass doesn't point. But it *felt* that way, because at nine o'cl
 
 "Mm-hm," said Solveig again, and wrote something in her notebook, slowly, the way she did everything.
 
-Boba felt his insides fizz. He had never been in trouble before. He had never even been *near* trouble before, unless you counted the time Bīng's tower fell on Finnegan, which nobody did. And the sergeant was so calm and so *big* and so quiet, and she just kept *writing*, and the silence stretched out like a piece of Mochi, and Boba could not — could *not* — stand it.
+Boba felt his insides fizz. He had never been in trouble before. He had never even been *near* trouble before, unless you counted the time Bīng's tower fell on Finnegan, which nobody did. And the sergeant was so calm and so *big* and so quiet. She just kept *writing.* The silence stretched out like a piece of Mochi, and Boba could not — could *not* — stand it.
 
 "Okay, so," he said. "Here's what happened. Let me just explain."
 
@@ -39,7 +39,7 @@ On the counter beside Herschel's cocoa vat stood a kumquat. She was the size of 
 
 "I'm sorry?" said Boba.
 
-"Say. Less." The kumquat set down her briefcase, climbed on top of it, and looked him dead in the eye. "Counselor Kumquat. Public defender. I heard the words *let me just explain* from across the room, and every hair on my peel stood up. Sergeant, is this young man being questioned?"
+"Say. Less." The kumquat set down her briefcase, climbed on top of it, and looked him dead in the eye. "Counselor Kumquat. Public defender. I heard the words *let me just explain* from across the room, and my whole peel puckered. Sergeant, is this young man being questioned?"
 
 "I asked him where he was," said Solveig, mildly.
 
@@ -55,7 +55,7 @@ Boba swallowed. "I… want my parent," he said. "And I'd like a lawyer?"
 
 "I want my parent. I'd like a lawyer."
 
-"**律師** (lǜshī)," said Counselor Kumquat with satisfaction. "*Lawyer.* And you've got one. Congratulations. Sit down and stop helping."
+"**律師** (lǜshī)," said Counselor Kumquat with satisfaction. "*Lawyer.* Say less. Call me. And look at that — you've got one. Congratulations. Sit down and stop helping."
 
 ---
 
@@ -77,7 +77,7 @@ She counted on her tiny orange fingers.
 
 "Um. Around nine? I think? Maybe nine-fifteen—"
 
-"*There.* You just said three different times. You're an honest pearl, and you just gave a police officer three different times, and any one of them can be checked against a camera, and if the camera says eight-fifty, now there's a piece of paper somewhere that says *Boba lied about the time.* You didn't lie. You *guessed.* But guesses become lies on paper. Every day. To innocent people."
+"*There.* You just said three different times. You're an honest pearl, and you just gave a police officer three different times. Any one of them can be checked against a camera. If the camera says eight-fifty, now there's a piece of paper somewhere that says *Boba lied about the time.* You didn't lie. You *guessed.* But guesses become lies on paper. Every day. To innocent people."
 
 Boba's fizz had gone very quiet.
 
@@ -97,7 +97,7 @@ With Taro on one side and a kumquat on the other, Boba felt about four times his
 
 "Okay," said Counselor Kumquat. "Now we do it right. Tell *me* everything. Messy is fine."
 
-So he did. The whole bouncy night — closing the stand, saying goodnight to Auntie Hù, the shortcut past the souvenir hut, a sound like a giant's tooth cracking somewhere above him that he'd thought was the ice on the lake, home, bed.
+So he did. The whole bouncy night — closing the stand, saying goodnight to Auntie Hù, the shortcut past the souvenir hut, a sound somewhere above him like a giant cracking a tooth (he'd figured it was the lake ice), then home, then bed.
 
 "A sound," said the kumquat. "Above you."
 
@@ -143,7 +143,7 @@ The Frostpeak Safety Fair was Auntie Hù's idea, and it was the last night of Bo
 
 There were booths. There were *so many* booths.
 
-Aiyu ran the **Four Coats Fashion Show**, in which volunteers modeled White (Finnegan, face in a phone, walked into a post — on purpose, he insisted), Yellow (Willa, head up, ear-muffs off, pointing out five exits), Orange (Teddy, squinting suspiciously at a snowman), and Red (Tilda, who simply yelled "PLAN!" and ran). It got a standing ovation, partly for the fashion and partly because Finnegan hit the post twice.
+Aiyu ran the **Four Coats Fashion Show**, with one volunteer per coat. White was Finnegan, face in a phone, walking into a post (on purpose, he insisted). Yellow was Willa, head up, ear-muffs off, pointing out five exits. Orange was Teddy, squinting suspiciously at a snowman. Red was Tilda, who simply yelled "PLAN!" and ran. It got a standing ovation, partly for the fashion and partly because Finnegan hit the post twice.
 
 The twins ran the **Code Word Contest**, in which grown-ups lined up and said "Your mom sent me" and the cubs said "WHAT'S THE CODE WORD" so loudly that Herschel had to move his cocoa vat back six feet.
 
@@ -195,7 +195,7 @@ And then she pointed at Willa.
 
 Willa Wobble had not known she'd be pointed at. She stood up anyway. She was the smallest person on the whole hill, and every face was turned to her, and her voice, when it came, was not loud. It didn't have to be.
 
-"I used to think the smallest step is still a step was something you said to yourself when you were scared," she said. "Now I think it's a *plan.* Mine was three words. 'No. I'm leaving.'" She looked at Aiyu, and Nora, and the twins, and Bjorn, and Boba. "You've all got one too now. You know what yours is. That's all. That's the whole speech."
+"I used to think 'the smallest step is still a step' was something you said to yourself when you were scared," she said. "Now I think it's a *plan.* Mine was three words. 'No. I'm leaving.'" She looked at Aiyu, and Nora, and the twins, and Bjorn, and Boba. "You've all got one too now. You know what yours is. That's all. That's the whole speech."
 
 It was the whole speech. It was enough. The valley cheered until the icicles rattled — safely, from the *other* roof.
 

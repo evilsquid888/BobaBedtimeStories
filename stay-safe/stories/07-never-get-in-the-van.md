@@ -29,7 +29,7 @@ They were standing at the top of the service road behind the lodge, where the pl
 
 "Let's BOUNCE!"
 
-They went. Piper carved. Boba *pinged* off a snowbank, off a shed, off a startled seal, and for one glorious second was actually in the lead — and then hit a patch of glare ice and became a very fast, very sticky, completely uncontrolled bouncing ball heading straight for a parked van.
+They went. Piper carved. Boba *pinged* off a snowbank, off a shed, off a startled seal, and for one glorious second was actually in the lead. Then he hit a patch of glare ice and became a very fast, very sticky, completely uncontrolled bouncing ball heading straight for a parked van.
 
 ---
 
@@ -39,7 +39,7 @@ Boba stopped himself two inches from the bumper, arms out, spinning. "HA! *Stopp
 
 "Hey," said a friendly voice. "You dropped this."
 
-A man had stepped around the side of the van. He was tall. He wore a puffy grey parka, which was not the coat he'd worn on the sled hill last week, but the smile was the same, and the smile was the thing — warm, easy, familiar, a *dad* smile. If you try to picture his face you'll find you can't. He held out a glove. A child's glove. Purple.
+A man had stepped around the side of the van. He was tall. He wore a puffy grey parka — not the coat he'd worn on the sled hill last week. But the smile was the same, and the smile was the thing: warm, easy, familiar. A *dad* smile. If you try to picture his face, you'll find you can't. He held out a glove. A child's glove. Purple.
 
 "That's not mine," said Boba. "I don't have — I don't *wear* —"
 
@@ -51,7 +51,7 @@ The man's hand closed around him.
 
 ---
 
-Now, here is the thing about a tapioca pearl: he is small. He is round. He fits, with terrible ease, inside a grown-up's fist. Boba felt the fingers close and felt himself lifted, and felt the whole world tilt toward the crack in those back doors, and everything in him — every polite, cheerful, *let's-be-friends* atom — said: *Don't make a fuss. It's a misunderstanding. Go quietly and it'll be fine.*
+Now, here is the thing about a tapioca pearl: he is small. He is round. He fits, with terrible ease, inside a grown-up's fist. Boba felt the fingers close. He felt himself lifted. He felt the whole world tilt toward the crack in those back doors. And everything in him — every polite, cheerful, *let's-be-friends* atom — said: *Don't make a fuss. It's a misunderstanding. Go quietly and it'll be fine.*
 
 And then, very clearly, in the exact voice she used at the tea-egg pot, he heard Auntie Hù.
 
@@ -101,7 +101,7 @@ It was a one-way lane. The van was pointed downhill. Auntie Hù's voice again: *
 
 "THAT'S THE POINT!"
 
-So they ran. Uphill, against the plow lane's arrows, a tapioca pearl and an emperor penguin hauling a snowboard, and behind them a van door slammed and an engine roared and the van — could not follow. Not up. Not that way. It lurched, stalled, tried to reverse, and by then Boba and Piper were already screaming their way around the corner of the gear shed and into the back of the Winter Night Market, still yelling the same four words at the absolute top of their lungs:
+So they ran. Uphill, against the plow lane's arrows, a tapioca pearl and an emperor penguin hauling a snowboard. Behind them a van door slammed and an engine roared and the van — could not follow. Not up. Not that way. It lurched, stalled, tried to reverse. By then Boba and Piper were already screaming their way around the corner of the gear shed and into the back of the Winter Night Market, still yelling the same words at the absolute top of their lungs:
 
 "**HELP! THIS IS NOT MY DAD!**"
 
@@ -111,7 +111,7 @@ And the market turned.
 
 That's the thing Boba remembered afterward, more than the fist, more than the van. He'd always thought a crowd was a wall, a thing that closed over you. But a hundred heads turned at once — penguins, bears, seals, a fox mid-bite — because a hundred people had heard *words*, and words mean something.
 
-Bjorn Bigpaws was first. He simply rose, all seven feet of polar bear, and started walking toward the service road without appearing to hurry, and the crowd parted around him like snow off a plow.
+Bjorn Bigpaws was first. He simply rose, all seven feet of polar bear, and started walking toward the service road without appearing to hurry, which is the most frightening speed a polar bear has. The crowd parted around him like snow off a plow.
 
 Herschel the Walrus was second, with the lodge phone already at his whiskers.
 
@@ -127,7 +127,7 @@ The van. Its color. The dent in the rear door. And, in careful teal pencil acros
 
 The van was gone by the time Bjorn reached the lane. That's all right. Solveig had the plate, and a plate is a name, and a name is an address, and by morning the grown-ups had taken it from there. The man in the grey parka did not come back to Frostpeak Valley. He isn't in the rest of this story, and he doesn't get to be.
 
-It has more to say about two friends, shaking, on the steps of the Cocoa Hut.
+This story has more to say about two friends, shaking, on the steps of the Cocoa Hut.
 
 Piper's flippers wouldn't stop trembling. She kept looking at her board like it belonged to someone else.
 
@@ -171,7 +171,7 @@ Piper thought. "…That it's rare?"
 
 ---
 
-They ate the eggs. Cleo came and sat with them, and Bjorn, who had walked the whole lane twice and found nothing but Piper's goggles, and Herschel, who brought cocoa in mugs so large Boba could have used one as a hot tub.
+They ate the eggs. Cleo came and sat with them, and Bjorn, who had walked the whole lane twice and found nothing but Piper's goggles, and Herschel, who brought cocoa in mugs so large that Boba had to be fished out of his with a spoon.
 
 "For the record," said Boba eventually, "I was winning the race."
 
@@ -232,7 +232,7 @@ Let's bounce — softly — into sleep.
 
 ## 💬 Talk About It
 
-1. If someone grabbed your arm in a parking lot, what four words would you shout? Say them out loud right now, as loud as you can.
+1. If someone grabbed your arm in a parking lot, what words would you shout? Say them out loud right now, as loud as you can.
 2. Why is "the car" the worst place — why do we fight *before* the doors close, not after?
 3. Which way would you run if a car was chasing you? Toward what?
 

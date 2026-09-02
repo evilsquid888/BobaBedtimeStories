@@ -27,7 +27,7 @@ Almost nobody was watching. That, as it turned out, was the whole story.
 
 Aiyu was in charge of the tip jar.
 
-She was a small, wobbly cube of pale golden jelly, so clear that you could see the lanterns right through her. Tiny lemon-seed freckles floated inside her. When she got nervous she jiggled, and tonight she was jiggling like a bowl of jelly on a train.
+She was a small, wobbly cube of pale golden jelly, so clear that you could see the lanterns right through her. Tiny lemon-seed freckles floated inside her. When she got nervous she jiggled, and tonight she was jiggling so hard the lemon seeds inside her were getting seasick.
 
 The crowd was *enormous*. Penguins, bears, seals, a fox, a walrus in a very small hat. Everyone was pushing gently toward the fire-dancers on the lake. Everyone was looking at their phones, or their cocoa, or the sky.
 
@@ -35,7 +35,7 @@ Somebody bumped Aiyu. The tip jar rocked.
 
 Somebody else bumped her. The tip jar tipped.
 
-Aiyu grabbed it with both wobbly arms, hugged it to her chest, and discovered that she had absolutely no idea who had bumped her, or where they'd gone, or which way was the stand anymore. The crowd had simply closed over her like water.
+Aiyu grabbed it with both wobbly arms, hugged it to her chest, and discovered that she had absolutely no idea who had bumped her, or where they'd gone, or which way the stand was anymore. The crowd had simply closed over her like water.
 
 "Mm," said a voice by her knee.
 
@@ -97,7 +97,7 @@ Aiyu looked around. It was strange, at first. Her eyes wanted to go back down to
 
 "There isn't a—" Aiyu turned. Behind the stand, between two stacked crates of tapioca, was a slot just wide enough for a small jelly to slide through. "Oh."
 
-"Small people have small exits. Learn yours. Who's behind you?"
+"Small people have small exits. Learn yours. The bears have to use the door like everybody else. Who's behind you?"
 
 Aiyu didn't turn around. She *thought* about the last thirty seconds instead. "A polar bear with twin cubs. A fox. Herschel, carrying a tray."
 
@@ -105,7 +105,7 @@ Aiyu didn't turn around. She *thought* about the last thirty seconds instead. "A
 
 And here is where the strangest and most wonderful thing happened.
 
-Aiyu had spent her whole life being the see-through one. People looked *at* her and saw whatever was behind her. It had always felt like a small sadness. But now she let her eyes go soft and wide, the way the lanterns looked when you saw them through her own body, and she discovered she could do the same thing to a crowd. She could look *through* it. The show was over there. Everyone's faces pointed at the fire-dancers, glowing orange, mouths open. Everyone's faces except—
+Aiyu had spent her whole life being the see-through one. People looked *at* her and saw whatever was behind her. It had always felt like a small sadness. But now she let her eyes go soft and wide — the way the lanterns went soft when you looked at them through her — and she discovered she could do the same thing to a crowd. She could look *through* it. The show was over there. Everyone's faces pointed at the fire-dancers, glowing orange, mouths open. Everyone's faces except—
 
 One.
 
@@ -173,7 +173,7 @@ Naturally, Finnegan wanted to try.
 
 "YELLOW COAT," he announced, climbing out of the wreckage of Bīng's tower with a mochi ball stuck to his head. "I'm in it. I'm LIVING in it. Head up! Eyes moving! I see EVERYTHING!" He whipped his head left. "Lantern!" Right. "Bear!" Up. "SNOW!" Down. "PRETZEL—"
 
-He lunged for the pretzel. The pretzel was on the far side of Herschel's cocoa vat. Finnegan was not.
+He lunged for the pretzel. The pretzel was in the seal's mouth, on the far side of Herschel's cocoa vat. Finnegan was not.
 
 There was a splash. There was a long, marshmallowy silence.
 
@@ -183,7 +183,7 @@ There was a splash. There was a long, marshmallowy silence.
 
 "He saw everything except the *vat*," said Bīng, "which is LITERALLY the BIGGEST thing here."
 
-"Yellow coat," said Auntie Hù, fishing him out with a ladle, "also means watching where your own feet are going. Mm. We'll work on it."
+"Yellow coat," said Auntie Hù, fishing him out with a ladle, "also means watching where your own feet are going." She looked at the dripping penguin. "We'll work on it."
 
 ---
 

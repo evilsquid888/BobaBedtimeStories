@@ -51,7 +51,7 @@ She said it the way she'd say *have you eaten?* — gently, and in a way that le
 
 "Package for Wobble!" the voice repeated. "Just need a signature!"
 
-Hóng Dòu did not go to the door. She went, instead, to the little side table where a phone sat next to a card that said LODGE — MOM — HERSCHEL — SOLVEIG in big letters, and she picked up the phone, and she held it in her stripe like a shield.
+Hóng Dòu did not go to the door. She went, instead, to the little side table where a phone sat next to a card that said LODGE — MOM — HERSCHEL — SOLVEIG in big letters, and she picked up the phone, and she held it against her stripe like a shield.
 
 "**不開門** (bù kāi mén)," she said to Willa quietly. "*Don't open the door.* That's all the rule is, little one. Nice voice, mean voice, package, no package — the door stays shut. You don't have to be clever. You just have to be *shut.*"
 
@@ -119,7 +119,7 @@ Hóng Dòu's tiny ladle came up like a traffic officer's hand. *Stop.*
 
 "Never," she whispered, and it was the fiercest whisper Willa had ever heard from anyone, let alone a bean. "*Never* tell anyone you're alone. Not on the phone, not through a door, not to a nice voice, not to a mean one. You don't lie about a *lot* of things, little one. But you may lie about *this.* Every time. It's not a fib. It's a *lock.*"
 
-Then she turned to the door, took a great big grandmotherly breath, and put on the voice — the one that every bean, grain, and dumpling in the Taiwan crew knew and feared, the voice of a woman who has cooked for forty years and will *not* be having any nonsense.
+Then she turned to the door, took a great big grandmotherly breath, and put on the Voice. Every bean, grain, and dumpling in the Taiwan crew knew that voice, and feared it. It was the voice of a woman who has cooked for forty years and will *not* be having any nonsense.
 
 "*Ai-ya!*" she bellowed. "My HUSBAND is NAPPING, and he is very GRUMPY when he wakes up, and if you make him get out of his chair he will be grumpy at YOU, not me! Come back TOMORROW like a normal person!"
 
@@ -135,7 +135,7 @@ Then footsteps, in the snow, going *away.*
 
 ---
 
-Neither of them moved for a full minute. Hóng Dòu stood with the phone in her stripe and her ladle in the air. Willa sat with her flippers pressed together. The soup bubbled, cheerfully, as if nothing at all had happened.
+Neither of them moved for a full minute. Hóng Dòu stood with the phone against her stripe and her ladle in the air. Willa sat with her flippers pressed together. The soup bubbled, cheerfully, as if nothing at all had happened.
 
 "Is he gone?" Willa whispered.
 
@@ -143,13 +143,13 @@ Neither of them moved for a full minute. Hóng Dòu stood with the phone in her 
 
 "Why not?"
 
-"Because looking means going *to* the door," said Hóng Dòu, "and we are not going to the door. Come here." She led Willa — quietly, away from the front of the cottage — to the kitchen, where the little back door was, the one that led to the snow path, the one that led to the Powderpuffs' cottage forty steps over. "If he had tried the handle. If he had pushed. If he had *not* gone away — this is what we do. We don't argue. We don't hide in the bathroom. We go out *this* door, fast and quiet, straight to a neighbor, and we call Solveig from *there.* You understand?"
+"Because looking means going *to* the door," said Hóng Dòu, "and we are not going to the door. Come here." She led Willa — quietly, away from the front of the cottage — to the kitchen, where the little back door was. That door opened onto the snow path, and the snow path led straight to the Powderpuffs' cottage next door. "If he had tried the handle. If he had pushed. If he had *not* gone away — this is what we do. We don't argue. We don't hide in the bathroom. We go out *this* door, fast and quiet, straight to a neighbor, and we call Solveig from *there.* You understand?"
 
 "Out the other way," said Willa. "To the Powderpuffs. Call Solveig."
 
 "Mm. Out the other way." Hóng Dòu patted the back door as if it were a good dog. "A house has two doors for a *reason,* little one. One to keep shut, and one to leave by."
 
-The phone rang in her stripe. She nearly dropped it.
+The phone rang against her stripe. She nearly dropped it.
 
 "HELLO — yes — Mrs. Wobble — yes, she's fine, she's *right here,* she is eating soup, or she will be in a moment. Listen to me. There was a man."
 
@@ -163,7 +163,7 @@ Mrs. Wobble did not finish Bingo Night. Mrs. Wobble was home in nine minutes, wh
 
 "So we'll never know."
 
-"Probably not." Solveig closed her notebook. She crouched down until she was eye to eye with Willa, which for a polar bear took a while. "And I want you to hear me say that that's *fine.* You don't need to know who he was. You don't need to know if he was bad. You needed the door shut and the phone in your hand, and that's exactly what you had. That's the whole job." She looked at Hóng Dòu. "Ma'am. *My husband is napping.* That was a beautiful piece of work."
+"Probably not." Solveig closed her notebook. She crouched down until she was eye to eye with Willa, which for a polar bear took a while. "And I want you to hear me say this: that's *fine.* You don't need to know who he was. You don't need to know if he was bad. You needed the door shut and the phone in your hand, and that's exactly what you had. That's the whole job." She looked at Hóng Dòu. "Ma'am. *My husband is napping.* That was a beautiful piece of work."
 
 "Forty years of practice," said Hóng Dòu modestly. "Have you eaten?"
 
@@ -175,7 +175,7 @@ She smoothed it out. She found the bottom, past the slightly toasted part, past 
 
 *Rule 41: You did everything right.*
 
-Then she stuck it back on the refrigerator, where it hung all the way down and across the floor and up the stove, and where Willa would see it every morning for the rest of the winter.
+Then she stuck it back on the refrigerator, where it hung all the way down and across the floor and up the stove, where Willa would see it every morning for the rest of the winter, and where rule thirty-eight went on toasting, very slightly, until spring.
 
 Hóng Dòu ladled out three bowls of red-bean soup, sweet and dark and steaming. She pushed one to Mrs. Wobble, and one to Willa, and kept the smallest for herself, because that is what grandmothers do.
 

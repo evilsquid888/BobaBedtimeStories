@@ -35,7 +35,7 @@ Coach Rosa — seven feet of pink flamingo, a headband, a whistle, and the Pink 
 
 "A what?" said Boba.
 
-"A pretend one. **Tranquilo** — *easy, easy.* Herschel says yes. Sergeant Solveig will be the police. Tico will be the robber because he asked forty times. And you will be the people who were just having cocoa when something bad walked in."
+"A pretend one. **Tranquilo** (*trahn-KEE-lo*) — *easy, easy.* Herschel says yes. Sergeant Solveig will be the police. Tico will be the robber because he asked forty times. And you will be the people who were just having cocoa when something bad walked in."
 
 "Do we burst?" said Finnegan. "Do we knee?"
 
@@ -53,11 +53,11 @@ So here they all were. Aiyu in the corner with Taro, who had settled into his ch
 
 Here is the thing about Aiyu.
 
-She was a small cube of pale golden jelly, so clear you could see the fire right through her middle — and since Auntie Hù's Four Coats, she'd learned to turn that around. She could see *through* things. Crowds. Patterns. A room.
+She was the see-through one — a wobble of amber jelly you could watch the fire flicker through — and since Auntie Hù's Four Coats, she'd learned to turn that around. She could see *through* things. Crowds. Patterns. A room.
 
-So while Finnegan vibrated and Boba tried very hard not to bounce, Aiyu did the thing she did. She looked.
+So while Finnegan vibrated like a kettle, and Boba tried very hard not to bounce (he bounced anyway, about a quarter of an inch, which for Boba is sitting still), Aiyu did the thing she did. She looked.
 
-*One robber — he keeps glancing at the door like he's waiting for someone, but nobody comes.* *Black hat, LOOT bag, cards. Nervous — keeps fixing the hat.* *Two doors: the front, and the kitchen one behind Herschel.* *Thick oak counter. Stone wall around the fireplace.* *He's between us and the front door. He is NOT between us and the kitchen.*
+*One robber — he keeps glancing at the door like he's waiting for someone, but nobody comes.* *Black hat, LOOT bag, cards. Nervous — keeps fixing the hat. The hat is losing.* *Two doors: the front, and the kitchen one behind Herschel.* *Thick oak counter. Stone wall around the fireplace.* *He's between us and the front door. He is NOT between us and the kitchen.*
 
 She didn't stare — Rosa had said Friday, *staring is a challenge, and you are not challenging anyone today.* She let her eyes rest near the LOOT bag and saw everything else out the sides of them, the way you watch a snowstorm without looking at any one flake.
 
@@ -69,13 +69,13 @@ Beside her, Taro — dusty purple, reading glasses on the end of his nose — wa
 
 "YOU," said Tico, pointing his beak at Finnegan. "You look like a HERO. Are you a HERO?"
 
-Finnegan, half out of his seat for two full minutes, froze. Every feather on his crest wanted to burst across the room, knock the tiny hat off that toucan, and be *magnificent.*
+Finnegan, who had been half out of his seat for two full minutes, froze. Every feather on his crest wanted to burst across the room, knock the tiny hat off that toucan, and be *magnificent.*
 
 "Finnegan," said Rosa, very softly, from the fireplace. "What is a hero, in this room, right now?"
 
 Finnegan thought about it. "…The one who gets everybody hurt?"
 
-"**Mm.**" Rosa had picked that up from Auntie Hù. "The one who gets everybody hurt. Sit. Be *grey.*"
+"*Mm.*" Rosa had picked that up from Auntie Hù. "The one who gets everybody hurt. Sit. Be *grey.*"
 
 "What's grey?"
 
@@ -103,7 +103,7 @@ Rosa's eyebrow — flamingos do have them, if you look — went up. "Barnaby. Ex
 
 "Being *human,*" said Barnaby. "You said Friday. Soft voice. Use a name. Ask for water. Offer a thing. A scared, angry person gets a little less scared and angry if you treat him like a person." He looked at Tico. "You want the fish or not?"
 
-Tico ate the fish, looked briefly, extremely happy, then remembered he was a robber and scowled, which on a toucan is mostly beak.
+Tico ate the fish, looked extremely happy for about one second, then remembered he was a robber and scowled, which on a toucan is mostly beak.
 
 "*Mm,*" said Rosa. "Good. Barnaby is right and Barnaby is also about to be wrong. Barnaby — do you *trust* him now?"
 
@@ -145,13 +145,13 @@ Here is the hardest part. Rosa had warned them.
 
 After the wall, nothing happened.
 
-Tico paced. He fixed his hat. He handed out two more rating cards. And the room *waited*, and it was the longest ten minutes Aiyu had ever sat through, because every part of her wanted to *do something.*
+Tico paced. He fixed his hat. The hat slid off. He fixed it again. He handed out two more rating cards. And the room *waited*, and it was the longest ten minutes Aiyu had ever sat through, because every part of her wanted to *do something.*
 
 *The kitchen door is right there. He's looking the other way. If I went now—*
 
 Taro's hand — big, purple, dusty — came to rest on the table beside her. Not on her. Just beside her. Steady.
 
-"**等** (děng)," he said. *Wait.*
+"**等** (děng)," he said. "Wait."
 
 "But he's not looking—"
 
@@ -197,7 +197,7 @@ The only one standing was a toucan in a tiny hat, holding a leaking paper bag.
 
 ---
 
-Herschel made real cocoa after. The robber sat in the corner reading his rating cards. ("Four stars. *Four.* 'Robber talked too much.' Who *wrote* this?" "Everyone, Tico.")
+Herschel made real cocoa afterward. The robber sat in the corner reading his rating cards. ("Four stars. *Four.* 'Robber talked too much.' Who *wrote* this?" "Everyone, Tico.")
 
 Rosa stood before the fire on one leg and did her not-quite-a-speech.
 
@@ -235,7 +235,7 @@ Barnaby had, of course, brought shrimp.
 
 ---
 
-Aiyu walked back to the boba stand with Taro as the snow came down soft over the lake, tired in a strange way — not from doing anything, but from *not* doing anything, on purpose, for a very long time.
+Aiyu walked back to the boba stand with Taro as the snow came down soft over the lake. She was tired in a strange way — not from doing anything, but from *not* doing anything, on purpose, for a very long time. Somewhere behind them, Finnegan was still being a chair, in case Rosa was grading.
 
 "Taro," she said. "It felt like I did nothing."
 

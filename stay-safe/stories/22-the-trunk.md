@@ -13,7 +13,7 @@
 
 She was pointing at a chest.
 
-It was a big, battered wooden chest with brass corners and a hundred years of cocoa stains, sitting in the middle of the boot-drying room where Coach Rosa the Flamingo ran her Krav Maga school — the **Pink Belt Academy**, where everyone started pink and stayed pink. A name was painted on the lid in Rosa's loopy handwriting: **SEÑOR BAÚL.** *Mister Trunk.*
+It was a big, battered wooden chest with brass corners and a hundred years of cocoa stains, sitting in the middle of the boot-drying room that Coach Rosa the Flamingo had turned into her Krav Maga school — the **Pink Belt Academy**, where everyone started pink and stayed pink. A name was painted on the lid in Rosa's loopy handwriting: **SEÑOR BAÚL.** *Mister Trunk.*
 
 Bǎi was a passion fruit — round, wrinkly, purple-brown, and full to bursting with bright orange seeds and worse ideas. She had once said "Bet you won't" to a vending machine and won. She had also, a few weeks ago under a ski lift, learned that some things aren't dares. She'd told everyone. Twice.
 
@@ -31,7 +31,7 @@ Coach Rosa — seven feet of pink flamingo, standing on one leg, headband on, wh
 
 Here is the thing about Señor Baúl that Bǎi didn't know yet.
 
-Herschel the Walrus had donated it under protest ("I *liked* that chest") and Rosa had spent three nights rebuilding it: hidden air holes along the back; a real car taillight — red plastic, dead bulb — screwed inside, bought off Dìguā for two shrimp; and, dangling from the underside of the lid, a small T-shaped handle painted with the kind of green paint that glows in the dark.
+Herschel the Walrus had donated it under protest ("I *liked* that chest") and Rosa had spent three nights rebuilding it. Hidden air holes along the back. A real car taillight — red plastic, dead bulb — screwed inside, bought off Dìguā for two shrimp. And, dangling from the underside of the lid, a small T-shaped handle painted with the kind of green paint that glows in the dark.
 
 It was, in other words, a car trunk. A pretend one. With a flamingo standing on it.
 
@@ -43,7 +43,7 @@ It was, in other words, a car trunk. A pretend one. With a flamingo standing on 
 
 "Beak the news, Coach. It's my whole job."
 
-Rosa turned to the class. "Today is a bad-day lesson — the kind you pack like an umbrella and hope stays dry." She tapped the lid with one pink toe. "Remember the van. Auntie Hù was right: the grab is your best moment, you fight *there*, you never get in the car. But we are Krav Maga. We plan for the *second-best* day too." She looked at Bǎi. "Suppose the worst thing happened. You're in the trunk. What now?"
+Rosa turned to the class. "Today is a bad-day lesson — the kind you pack like an umbrella and hope you never open." She tapped the lid with one pink toe. "Remember the van. Auntie Hù was right: the grab is your best moment, you fight *there*, you never get in the car. But we are Krav Maga. We plan for the *second-best* day too." She looked at Bǎi. "Suppose the worst thing happened. You're in the trunk. What now?"
 
 Bǎi opened her mouth.
 
@@ -57,7 +57,7 @@ The lid came down.
 
 It was very dark.
 
-Not lodge-at-night dark. Not under-the-blanket dark. *Dark* dark, where your eyes keep trying and get nothing back. The wood smelled like a hundred years of cocoa. She could hear her own breathing, and it sounded fast.
+Not lodge-at-night dark. Not under-the-blanket dark. *Dark* dark, where your eyes keep trying and get nothing back. The wood smelled like every cup of cocoa Herschel had ever poured. She could hear her own breathing, and it sounded fast.
 
 "Okay," she said out loud, to nobody. "Okay. This is fine. This is a dare. I'm *winning* this—"
 
@@ -71,7 +71,7 @@ Her breath got faster. Her seeds rattled. And a small cold thought arrived, the 
 
 "Mm-hm. First lesson. **Breathe.** There is air. There is always more air than you think. Panic is the thing that uses it up — panic breathes fast and shallow and takes twice as much. So you make it slow. In through the nose, four counts. Out through the mouth, four counts. *Tranquilo.* Easy. Do it."
 
-Bǎi did it. In, four. Out, four. It was surprisingly hard while also being sure you were about to run out of air. She did it anyway. The dark didn't get any lighter. But it stopped pressing on her.
+Bǎi did it. In, four. Out, four. It is surprisingly hard to breathe slowly when you are sure you're about to run out of air. She did it anyway. The dark didn't get any lighter. But it stopped pressing on her.
 
 "Better," said Rosa's voice. "Now. You have been in there thirty seconds and you have done the most important thing already. Everything else is just *looking.* Second lesson. Reach up."
 
@@ -95,7 +95,7 @@ There it was. Right in front of her face. She'd been staring at it the whole tim
 
 "So I just pull it?"
 
-"Not yet. *This* trunk, I've locked from outside, because I am mean and it is a drill. In a real one — yes. You pull it. But suppose the handle's broken. Suppose somebody cut it off. What now?"
+"Not yet. *This* trunk I locked from the outside, because I am mean and it is a drill. In a real one — yes. You pull it. But suppose the handle's broken. Suppose somebody cut it off. What now?"
 
 Bǎi thought. In, four. Out, four.
 
@@ -139,7 +139,7 @@ Rosa's whistle made a sound that might have been a laugh. "She's right, though. 
 
 "Correct. Bǎi. You're lying in a trunk. Your feet go toward the back corners. What's there?"
 
-Bǎi shuffled around in the dark. Her feet bumped something hard and plasticky, low, in the corner.
+Bǎi shuffled around in the dark. Her feet bumped something hard and plasticky, low down in the corner.
 
 "Kick it," said Rosa. "Don't be polite about it. Real taillights are plastic. They break. Kick it *out.*"
 
@@ -171,7 +171,7 @@ Bǎi stuck her stubby purple arm through the hole in Señor Baúl and waved.
 
 "The lid *is* going to open. Sometime. And when it does — you are not lying there. You are *ready.* Feet under you, hands up, and the second there is light, you are *gone.* Out and running. Toward people. Toward lights. You don't stop to look at who opened it. **出口** (chūkǒu). *Exit.* The way out. Every room has one. That's yours."
 
-Bǎi got her feet under her. She got her hands up, the way Rosa had taught them all on the very first day — *two feet down, hands up* — which is a strange thing to do in a cocoa chest, and she did it anyway.
+Bǎi got her feet under her. She got her hands up, the way Rosa had taught them all on the very first day — *two feet down, hands up* — which is a strange thing to do in a cocoa chest, and she did it beautifully.
 
 "Ready?" said Rosa.
 
@@ -187,7 +187,7 @@ The whole Academy was staring at her.
 
 Tico burst into tears. "SHE'S OUT, FOLKS. SHE'S OUT AND SHE'S *BEAUTIFUL.*"
 
-"Two feet down," said Rosa, and put her second foot down for a second, which for Rosa was a standing ovation. "Hands up. Then—"
+"Two feet down," said Rosa, and blew her tiny whistle in a little trill, which for Rosa was a standing ovation. "Hands up. Then—"
 
 "*Shrimp,*" said the entire class.
 
@@ -203,7 +203,7 @@ Herschel the Walrus, watching from the doorway with his whiskers doing something
 
 That evening, Bǎi sat on the rim of Auntie Hù's tea-egg pot — the warm iron rim where the small ones were allowed to sit on cold nights — and turned a tea egg over and over in her hands without eating it.
 
-"You're quiet," said Auntie Hù. "You're never quiet."
+Auntie Hù didn't say *you're quiet* this time. She'd said it once already, under a ski lift, and she was not a tea egg who repeated herself. She just handed Bǎi a second egg.
 
 "I was scared," said Bǎi. "In the box. Really scared, for like a whole minute. And it was a *drill.* Rosa was standing *on* it."
 
@@ -213,7 +213,7 @@ That evening, Bǎi sat on the rim of Auntie Hù's tea-egg pot — the warm iron 
 
 Auntie Hù never made a thing smaller than it was.
 
-"Worse," she said. "Much. And that's why you did it today. If the worst day ever comes — and it almost certainly won't — a piece of you has already been in the dark, already breathed slow, already knows where to reach. You don't have to be brave *then.* You were brave *today.* Then just borrows it."
+"Worse," she said. "Much. And that's why you did it today. If the worst day ever comes — and it almost certainly won't — a piece of you has already been in the dark, already breathed slow, already knows where to reach. You don't have to be brave *then.* You were brave *today.* *Then* only has to borrow it."
 
 Bǎi thought about that. In, four. Out, four.
 
@@ -225,7 +225,7 @@ Bǎi's wrinkly purple face began, very slowly, to do the thing it did best.
 
 "Auntie Hù," she said. "Bet *you* won't go find the handle in Dìguā's truck before bed."
 
-"Mm," said Auntie Hù, and climbed down off the pot, and went. Bǎi watched her go with enormous satisfaction. It was, she decided, a *very* good dare. It was maybe the best one yet — the kind where everybody who takes it wins.
+"Mm," said Auntie Hù, and climbed down off the pot, and went. Bǎi watched her go with enormous satisfaction. It was, she decided, a *very* good dare — maybe the best one yet. The kind where everybody who takes it wins.
 
 ---
 

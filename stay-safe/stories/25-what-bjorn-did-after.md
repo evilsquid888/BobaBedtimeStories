@@ -53,9 +53,9 @@ And the man swung his fist at Bjorn's face.
 
 ---
 
-What happened next took about two seconds, and the story is going to slow it down, because the two seconds are not the important part but you should see them anyway.
+What happened next took about two seconds. The story is going to slow them down — not because they're the important part, but because you should see them anyway.
 
-Bjorn caught the man's arm — not hard, just *stopped* it, the way you'd catch a door swinging shut. He pushed, once, with his shoulder. The man's rented skis did what rented skis do, which is go in two directions at the same time, and he sat down on the ice, hard, and Bjorn put one great paw flat on his chest and held him there.
+Bjorn caught the man's arm — not hard, just *stopped* it, the way you'd catch a door swinging shut. He pushed, once, with his shoulder. The man's rented skis did what rented skis do, which is go in two directions at once. He sat down on the ice, hard, and Bjorn put one great paw flat on his chest and held him there.
 
 "Stay down," said Bjorn.
 
@@ -65,7 +65,7 @@ And here is the important part. Here is the *whole story*, right here:
 
 Bjorn took his paw off.
 
-He stood up. He stepped back — two full steps, three — until there was a good wide stretch of ice between them. He did not push the man again to make a point. He did not hold him down a few extra seconds because it would feel good. When the man scrambled up and skated off toward the parking lot, still shouting over his shoulder, Bjorn did not follow. Not one step.
+He stood up. He stepped back — two full steps, three — until there was a good wide stretch of ice between them. He did not push the man again just to show he could. He did not hold him down a few extra seconds because it would feel good. When the man scrambled up and skated off toward the parking lot, still shouting over his shoulder, Bjorn did not follow. Not one step.
 
 "He's *leaving!*" said Barnaby, outraged, waving a fish. "Bjorn! He's getting *away!*"
 
@@ -77,7 +77,7 @@ He stood up. He stepped back — two full steps, three — until there was a goo
 
 "I'm okay," said Willa, shakily. "I'm okay. He just — he *shoved* me."
 
-"He did," said Bjorn. And then he pulled out his phone and did the thing that turned out to be the hardest thing he did all day.
+"He did," said Bjorn. And then he pulled out his phone and did what turned out to be the hardest thing he did all day.
 
 He called 911 himself — **報警** (bàojǐng), *call the police* — *first.* Before the man could.
 
@@ -119,11 +119,11 @@ Standing on the ice was a kumquat.
 
 She was a glossy orange kumquat about the size of a large marble, and she wore tiny round glasses, and she carried a black briefcase the size of a matchbox. She had, apparently, been in the cocoa line the entire time.
 
-"Counselor Kumquat," she said, and stuck out a hand roughly the size of a sesame seed. "Public defender. I saw everything, which is lucky for you, because *I* can't be your witness, but I can be your lawyer, and you're going to need one in about—" she checked a watch that nobody could see "—four minutes. Say less. Call me. Actually you don't have to call me, I'm right here."
+"Counselor Kumquat," she said, and stuck out a hand roughly the size of a sesame seed. "Public defender. I saw everything. Lucky for you. I can't be your witness — but I *can* be your lawyer, and you're going to need one in about—" she checked a watch that nobody could see "—four minutes. Say less. Call me. Actually, you don't have to call me. I'm right here."
 
 "I don't need a lawyer," said Bjorn, baffled. "I didn't *do* anything. He swung at *me.*"
 
-"Mm-hm. And you're going to say that, exactly like that, when the sergeant walks up?" Kumquat pushed her glasses up. "Bjorn. Big fella. You put a grown man on the ice and held him there. You did it *right* — I watched you, I'd frame it — but you *did it.* And the most dangerous thing in the world right now is a nice bear with a good heart *explaining* — with his paws shaking, ten seconds after his heart was going a thousand beats a minute. That is how good bears get in trouble."
+"Mm-hm. And you're going to say that, exactly like that, when the sergeant walks up?" Kumquat pushed her glasses up. "Bjorn. Big fella. You put a grown man on the ice and held him there. You did it *right* — I watched you, I'd frame it — but you *did it.* And the most dangerous thing in this valley right now is a nice bear with a good heart, *explaining.* Paws shaking. Heart still going a thousand beats a minute. That is how good bears get in trouble."
 
 ---
 
@@ -137,7 +137,7 @@ She skated up slowly, the way she did everything, and looked at the scene — Wi
 
 "Tell me what happened."
 
-And Bjorn Bigpaws, who two minutes earlier would have told her *everything* in a big shaky rush, looked at the kumquat by his boot and said, instead, the five things she had just drilled into him.
+And Bjorn Bigpaws, who two minutes earlier would have told her *everything* in a big shaky rush, looked at the kumquat by his boot and said, instead, exactly what she had just drilled into him.
 
 "A man attacked Willa — shoved her down. Then he swung at me. I stopped him. He left toward the parking lot, I didn't follow. I called it in." He pointed. "Cleo and Barnaby saw the whole thing. Herschel's roof camera was on the finish line." He took a breath. "I'll give you a full statement, Sergeant. With my lawyer present."
 
@@ -157,11 +157,11 @@ Bjorn sat down.
 
 ---
 
-Later — after the man in the red jacket had told his different story, and Cleo's sketch and Herschel's camera had told the *true* one, and he'd been driven away to answer for what he'd done — Bjorn sat on the bench outside the lodge with two cocoas and a kumquat.
+Later — after the man in the red jacket had told his different story, and Cleo's sketch and Herschel's camera had told the *true* one, and the man had been driven away to answer for what he'd done — Bjorn sat on the bench outside the lodge with two cocoas and a kumquat.
 
 "I still don't understand," he said. "I was *right.* Why did being right need a lawyer?"
 
-Kumquat sipped from a thimble.
+Kumquat sipped from a thimble, which on her was roughly a bucket.
 
 "Let me ask you something. How many times did he swing at you?"
 

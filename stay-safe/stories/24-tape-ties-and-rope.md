@@ -55,15 +55,15 @@ Tico cleared his throat, which took a while.
 
 ---
 
-"Here is the first thing," said Rosa, "and it's the only thing that matters, so I'll say it standing up."
+"One thing before the tape," said Rosa, "and it's the only thing that matters, so I'll say it standing up."
 
 "You're always standing up," said Finnegan.
 
-"On *two legs,*" said Rosa, and put her second foot down, and everybody sat up straighter, because that almost never happened. "If anyone ever tries to tie your hands — *ever* — you will not be able to stop them. You are small. So you do not fight the tying. You fight the *tightness.*"
+"*Wide awake,*" said Rosa, and opened both eyes at once, and everybody sat up straighter, because that almost never happened. "If anyone ever tries to tie your hands — *ever* — you will not be able to stop them. You are small. So you do not fight the tying. You fight the *tightness.*"
 
 She held her wings out in front of her, wrists together.
 
-"You ask — you *offer* — to have your hands in front. *Tranquilo,*" — that means *easy, easy* — "'please, in front, I'll hold still.' Wrists together. Palms facing each other, like a prayer. Elbows in close to your ribs." She squeezed her wings tight against her body. "You know what lives right *here,* between two wrists pressed together?"
+"You ask — you *offer* — to have your hands in front. *Tranquilo.* That means *easy, easy.* 'Please, in front. I'll hold still.' Wrists together. Palms facing each other, like a prayer. Elbows in close to your ribs." She squeezed her wings tight against her body. "You know what lives right *here,* between two wrists pressed together?"
 
 "Fear?" said Finnegan.
 
@@ -71,7 +71,7 @@ She held her wings out in front of her, wrists together.
 
 Lala clasped her own soft hands together, palms in, elbows tight, and gasped. "There's a little *room* in here!"
 
-"There's always a little room in there," said Rosa. "¡Dale!" — that means *go on, get to it* — "Pass out the ties."
+"There's always a little room in there," said Rosa. "*¡Dale!* Pass out the ties." (*¡Dale!* is what Rosa says instead of *please,* and also instead of *now.*)
 
 ---
 
@@ -127,19 +127,21 @@ Tico held a zip tie in his enormous beak, stiff as a board, while Lala — who w
 
 Herschel, who had come in for a mop, waved.
 
-"Duct tape is easier," Rosa went on. "Same idea, no lock. Arms up—" Finnegan's arms went up so fast he nearly fell over "—slam *down* and *out,* like you're ripping open a present. Tape is strong going *around* and weak going *sideways.* Rope—" she picked up a length of it "—is the oldest one, so it has the oldest trick. When they're tying you, you puff up your chest like a proud pigeon and you *wiggle.* Little wiggles. Bored wiggles. Then when they're done you let your breath out and go small, and there's your **鬆** — a whole rope's worth of slack, right there, for free."
+"Duct tape is easier," Rosa went on. "Same idea, no lock. Arms up—" Finnegan's arms went up so fast he nearly fell over "—slam *down* and *out,* like you're ripping open a present. Tape is strong going *around* and weak going *sideways.*
+
+"Rope—" she picked up a length of it "—is the oldest one, so it has the oldest trick. When they're tying you, you puff up your chest like a proud pigeon and you *wiggle.* Little wiggles. Bored wiggles. Then when they're done you let your breath out and go small, and there's your **鬆** — a whole rope's worth of slack, right there, for free."
 
 "What if there's tape on your mouth?" asked Lala, very quietly. It was the first time anybody had asked the real question underneath all the others.
 
 Rosa looked at her for a moment. Then she answered it plainly, the way she answered everything.
 
-"You work your jaw. Slowly. Side to side, up and down, like you're chewing a very tough shrimp. Tape hates a moving thing. It lets go a little at a time. And you *breathe through your nose,* and you stay calm, because calm is the whole secret. Panic pulls everything tighter. Calm makes room." She put her second leg up again and balanced, effortless. "Most of you will go your whole lives and never meet a zip tie that isn't holding a bread bag shut. Good. Know this anyway — an Academy is for knowing things you hope stay useless."
+"You work your jaw. Slowly. Side to side, up and down, like you're chewing a very tough shrimp. Tape hates a moving thing. It lets go a little at a time. And you *breathe through your nose,* and you stay calm, because calm is the whole secret. Panic pulls everything tighter. Calm makes room." She tucked her second leg back up and balanced, effortless. "Most of you will go your whole lives and never meet a zip tie that isn't holding a bread bag shut. Good. Know this anyway — an Academy is for knowing things you hope stay useless."
 
 ---
 
 Cleo's comic had eleven panels by the time the sleet stopped.
 
-Panel 1 was the burrito. Panel 2 was Lala's hug, drawn with little hearts and a *shlorp.* Panel 4 was the Chicken Wing and the exploding boot. Panel 7 was Tico as a zip tie, which he had not consented to and loved. Panel 9 was Rosa on two legs, which Cleo had drawn extra large, because it was rare. Panel 11 was just two words, in Cleo's neat slanted hand:
+Panel 1 was the burrito. Panel 2 was Lala's hug, drawn with little hearts and a *shlorp.* Panel 4 was the Chicken Wing and the exploding boot. Panel 7 was Tico as a zip tie, which he had not consented to and loved. Panel 9 was Rosa with both eyes open, which Cleo had drawn extra large, because it was rare. Panel 11 was just two words, in Cleo's neat slanted hand:
 
 *Slack lives in front.*
 
@@ -153,7 +155,7 @@ Lala sat by the boot dryer with her hands clasped in front of her — palms in, 
 
 "Coach Rosa?" she said. "I'm a cake. I'm not fast. I'm not strong. I'm mostly *milk.*"
 
-"Mm."
+"Mm," said a voice from the doorway. Auntie Hù had been standing there for some time, in the way tea eggs have of arriving before anyone notices.
 
 "So I thought I couldn't do any of this. But the slack part — the staying-calm part — the wiggling part—" She looked up. "That's just *soaking it in,* isn't it? That's the thing I'm already good at."
 
@@ -169,7 +171,7 @@ Barnaby, from the hallway, produced shrimp. Nobody knew how. Nobody ever knew ho
 
 ---
 
-That night, the boot-drying room was dark and warm and smelled like wet wool and cinnamon. Cleo's comic was taped to the wall — with duct tape, which Finnegan felt was in poor taste. Rosa slept standing on one leg by the sign. Tico snored through his enormous beak like a foghorn with opinions.
+That night, the boot-drying room was dark and warm and smelled like wet wool and cinnamon. Cleo's comic was taped to the wall — with duct tape, which Finnegan felt was in poor taste. Rosa slept standing on one leg by the sign. Tico snored through his canoe-paddle beak like a foghorn with opinions.
 
 Lala lay on a folded blanket with her hands loose on her chest, palms in, and thought about slack.
 

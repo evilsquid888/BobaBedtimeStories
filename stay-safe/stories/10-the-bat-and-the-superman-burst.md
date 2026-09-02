@@ -15,11 +15,11 @@ It was not a real cape. It was a Cocoa Hut towel, the big striped kind, knotted 
 
 "I HEARD," Bīng announced, "that today's lesson is called *SUPERMAN.*"
 
-"The Superman *burst,*" said Coach Rosa the Flamingo, from her perch on an upturned boot bin. She was seven feet of pink, standing on one leg, with a pink headband and a tiny whistle around her neck. "Different."
+"The Superman *burst,*" said Coach Rosa the Flamingo, from her perch on an upturned boot bin. She was, as always, seven feet of flamingo balanced on one leg like a very tall pink question mark. "Different."
 
 "I AM READY TO FLY."
 
-"You are ready to *burst.* Nobody flies. Flying is for—" Rosa's eyes drifted shut. Her head sank an inch. There was a long, peaceful pause in which a boot dryer clicked off and every kid in the room held their breath. Then she snapped awake mid-word. "—shrimp. Where was I. Excellent. Two feet down, hands up, then shrimp! Everybody up!"
+"You are ready to *burst.* Nobody flies. Flying is for—" Rosa's eyes drifted shut. Her head sank an inch. There was a long, peaceful pause in which a boot dryer clicked off and every kid in the room held their breath. Then she snapped awake mid-word. "—shrimp. Where was I. Excellent. Two feet down, hands up! Everybody up!"
 
 Zhīma was already up. Zhīma had been up since before the room existed. He was a sesame ball — golden-fried, perfectly round, crusted all over in white seeds that rattled when he was excited, which was now — and if there was one thing in the entire world Zhīma knew how to do, it was *go toward things.*
 
@@ -97,11 +97,11 @@ Every head in the room whipped left, right, over the shoulder, like a field of s
 
 "…Shrimp?"
 
-"*And then shrimp.* Zhīma, you're up."
+"*And then shrimp.* Zhīma, you're up. *¡Dale!*"
 
 ---
 
-Here is a thing to understand about Zhīma. He had spent his whole life rolling *into* things — snowbanks, topping gardens, danger. Just last week a slush puppy had taught him, the hard way, that rolling in *again* once you're free is the wrong move. But *this* was a lesson that said: *the going-in part is right. Just pick the moment, and pick the stop.*
+Here is a thing to understand about Zhīma. He had spent his whole life rolling *into* things — snowbanks, topping gardens, danger. Auntie Hù had been trying all season to teach him, the hard way and the soft way, that rolling in is not always the right move. But *this* was a lesson that said: *the going-in part is right. Just pick the moment, and pick the stop.*
 
 Rosa raised Señor Fideo. Zhīma planted both feet — *two feet down, hands up* — and watched her shoulder.
 
@@ -121,7 +121,7 @@ Zhīma ran three steps, stopped, and *scanned* — left, right, over the shoulde
 
 Zhīma's seeds rattled so hard three of them fell off. "I roll into things," he said, a little dazed. "This is my whole *life.*"
 
-"No," said Rosa. "Rolling into things is your *habit.* Bursting is your *skill.* The difference is: you *choose* the moment, and you *choose* the stop. Then shrimp."
+"No," said Rosa. "Rolling into things is your *habit.* Bursting is your *skill.* The difference is: you *choose* the moment, and you *choose* the stop."
 
 ---
 
@@ -137,7 +137,7 @@ He was, for one shining instant, magnificent — arms straight out, glittering, 
 
 —and the cape caught on the end of Señor Fideo.
 
-Which meant that when Bīng went forward, the noodle came *with* him, and the cape went taut, and Bīng went *up*, briefly, and then *around*, and then landed flat on his back in the middle of the mat with a pool noodle on his chest and a towel over his face, dripping.
+Which meant that when Bīng went forward, the noodle came *with* him. The cape went taut. Bīng went *up*, briefly, then *around*, and then landed flat on his back in the middle of the mat with a pool noodle on his chest and a towel over his face, dripping.
 
 "THE CAPE," said Bīng, from under the towel, "WAS A MISTAKE."
 
@@ -189,7 +189,7 @@ There was, in fact, shrimp. Barnaby had brought it. There is always enough for o
 
 ---
 
-That night, in the bunk room behind Boba on Ice, Zhīma lay with his seeds finally still and turned the lesson over like a stone in his hand.
+That night Zhīma lay on the boot-room mats, right under Señor Saco, who swayed very slightly overhead like a sombrero'd moon. His seeds were finally still. He turned the lesson over like a stone in his hand.
 
 All his life people had told him to slow down. Don't roll in. Hold back. But today somebody had looked at the thing he was made of — the going-toward — and said: *that's not a flaw. That's a tool. Here's when.* The trick wasn't to stop being a sesame ball. The trick was to *choose.* In, when in is right. Out, the second out is possible. Then look around.
 

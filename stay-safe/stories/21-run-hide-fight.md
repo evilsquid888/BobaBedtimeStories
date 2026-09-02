@@ -19,7 +19,7 @@ Barnaby Beaksworth had done the math on the popcorn, and the math was: one bucke
 
 "The room," said Barnaby, "has never been *offered* popcorn." He set the extra bucket in the middle of the floor with great ceremony. "There's always enough fish for one more. Popcorn counts. It's the fish of corn."
 
-It was a snow day — the kind where the flakes come down so thick the mountain disappears. Nobody could board or ski, so the whole valley had crowded into the lodge great room for movie night: penguins on cushions, polar bears on couches, the Boba on Ice crew in a row on the hearth with their feet toward the fire. The movie was about a dog who learns to surf. Finnegan had already cried twice and it hadn't started.
+It was a snow day, the kind that erases the mountain, so the whole valley had crowded into the lodge great room for movie night: penguins on cushions, polar bears on couches, the Boba on Ice crew in a row on the hearth. The movie was about a dog who learns to surf. Finnegan had already cried twice and it hadn't even started.
 
 Mochi had her arms around eleven people at once. "We are *literally* stuck together," said Bīng. "This is the CLOSEST I have EVER BEEN to a polar bear."
 
@@ -31,15 +31,15 @@ Hold on to that. The story is going to need it.
 
 The shout came from the front doors.
 
-It wasn't a word. It was just a *sound* — loud, wrong, the kind of sound that makes every head in a room turn at once. Then a crash. Then a voice, a grown-up's voice, hoarse and furious, saying things that didn't make sense. And then Herschel, who had gone to the lobby to get more cocoa, was in the great-room doorway with his whiskers flat against his face, and he said, quietly and completely clearly:
+It wasn't a word. It was just a *sound* — loud, wrong, the kind that turns every head in a room at once. Then a crash. Then a grown-up's voice, hoarse and furious, saying things that didn't make sense. And then Herschel, who had gone to the lobby for more cocoa, was in the doorway with his whiskers flat against his face. He said, quietly and clearly:
 
 "There's a man in the lobby with a gun."
 
-That is the only time this story is going to say it. Once is enough. It was enough for everyone in that room.
+That is the only time this story is going to say it. Once was enough for everyone in that room.
 
 For one long second, nobody moved. The dog on the screen caught a wave.
 
-Then the lodge speakers clicked, and a voice came through — level, slow, unhurried.
+Then the lodge speakers clicked, and a voice came through — level and slow.
 
 "This is Sergeant Solveig Snowmane. Lockdown. This is not a drill. Officers are on the way. Do what you practiced."
 
@@ -53,15 +53,15 @@ Auntie Hù was already on her feet. She did not shout. She held up three marbled
 
 **RUN.**
 
-Piper Paddlefoot did not think. That was her gift and her problem, and tonight it was only a gift. Back in the first week of the season Auntie Hù had made everyone play *Three Exits* until they hated it, and Piper had hated it the *most* — and she knew, without deciding, that the kitchen had a back door onto the deck and the deck had steps down to the snow.
+Piper Paddlefoot did not think. That was her gift and her problem, and tonight it was only a gift. Auntie Hù had made everyone play *Three Exits* until they hated it — Piper most of all. So she knew, without deciding, that the kitchen's back door opened onto the deck, and the deck had steps down to the snow.
 
 "Kitchen door! With me! *Slide into it!*"
 
-She went. Boba went, bouncing. Cleo, Aurora, the seals — a dozen of them, low and quick through the swinging door, past the stoves, and out into the white, the cold, the wonderful enormous open.
+She went. Boba went, bouncing. Cleo, Aurora, the seals — low and quick through the swinging door, past the stoves, and out into the white, the cold, the wonderful enormous open.
 
 And Piper kept going.
 
-That was the part people got wrong, Auntie Hù always said. They ran out the door and stopped. *No.* Away is a *direction.* You keep going until you reach the spot you agreed on — for the lodge, the big lit sign at the bottom of the sled hill — and you don't stop to grab your board, or your bag, or *anything.* Hands empty, on purpose. Because when the police came up that hill — and they were coming, lights strobing red and blue off the snow — they needed to see, in one glance, a bunch of kids with nothing in their hands.
+That was the part people got wrong, Auntie Hù always said. They ran out the door and stopped. *No.* Away is a *direction.* You keep going to the spot you agreed on — for the lodge, the big lit sign at the bottom of the sled hill — and you don't stop for your board, or your bag, or *anything.* Hands empty, on purpose, so the police coming up that hill saw, in one glance, kids with nothing in their hands.
 
 "Hands up," said Piper, breathing hard, under the sign. "Everybody. Open. Like this."
 
@@ -73,17 +73,17 @@ That was the part people got wrong, Auntie Hù always said. They ran out the doo
 
 **HIDE.**
 
-Nora Snowmane could not run. She had Willa, who was small, and Teddy and Tilda, who were smaller, and Aiyu, Mochi, Bùdīng, Tāng Yuán, Barnaby — the ones on the far side of the room, with the lobby between them and any other way out. Running meant crossing the lobby. Running was wrong.
+Nora Snowmane could not run. She had Willa, who was small, and Teddy and Tilda, who were smaller, and Aiyu, Mochi, Bùdīng, Tāng Yuán, Barnaby — the far side of the room, with the lobby between them and every other way out. Running was wrong.
 
 So Nora did the other thing.
 
 "Gear room," she said, in her warm-blanket voice, as if she were offering cocoa. "Quick and quiet. Come on."
 
-The gear room was across the back hall: one thick wooden door with a bolt, no windows, and heavy things everywhere — ski racks, boot crates, a rolling wax cabinet that weighed as much as Bjorn. Nora got them in, threw the bolt, and hit the light switch, and the dark came down like a quilt.
+The gear room had one thick wooden door with a bolt, no windows, and heavy things everywhere — ski racks, boot crates, a rolling wax cabinet that weighed as much as Bjorn. Nora got them in, threw the bolt, hit the light switch, and the dark came down like a quilt.
 
 "Away from the door," she whispered. "Behind the racks. Sit. Phones — silent. Not vibrate. *Silent.*"
 
-Nine small screens lit nine small faces and went dark.
+Eight small screens lit eight small faces, then went dark.
 
 "Tilda," Nora said. "One text. To your mom. *We're safe in the gear room with Nora.* Then put it away."
 
@@ -91,19 +91,19 @@ Tilda's paws shook. She typed it anyway. The smallest step is still a step.
 
 Then Nora rolled the wax cabinet in front of the door, sat with her back against it, pulled Willa into her lap, and the gear room got very, very quiet.
 
-Quiet is hard. Quiet in the dark, when you don't know what's happening, is one of the hardest things a body can do. Bùdīng wobbled so badly the ski rack behind him ticked like a clock. Barnaby found an old granola bar in his pocket and did not open it because the wrapper would crinkle, and that — for Barnaby — was a kind of heroism.
+Quiet is hard. Quiet in the dark, not knowing, is one of the hardest things a body can do. Bùdīng wobbled so badly the ski rack behind him ticked like a clock. Barnaby found an old granola bar in his pocket and did not open it, because the wrapper would crinkle — and that, for Barnaby, was a kind of heroism.
 
 "Can I peek?" breathed Teddy. "Just a—"
 
-"No," said Nora. Kind. Absolute. "We don't peek. We don't open the door for *anyone.* Not for a voice. Not for a knock. Not even if it says it's Herschel. We stay until the *police* open this door, and we know it's the police because Solveig will say the words."
+"No," said Nora. Kind. Absolute. "We don't peek. We don't open the door for *anyone.* Not for a voice. Not for a knock. Not even if it says it's Herschel. We stay until the *police* open this door, and we'll know it's the police because Solveig will say the words."
 
 "What words?"
 
 "You know them. Say them with me."
 
-And nine small voices, in the dark, barely louder than breath: "*Frostpeak Police, it's Solveig, you can come out.*"
+And eight small voices, in the dark, barely louder than breath: "*Frostpeak Police, it's Solveig, you can come out.*"
 
-"Until then," said Nora, "we're a pile of skis. Skis are patient. We can be patient too."
+"Until then," said Nora, "we're a pile of skis. Skis are patient. We can be patient too. **安全** (ānquán). We're *safe.*"
 
 Willa, in her lap, was not shaking. Willa was furious. Nora could feel it — a small hot stillness, like a coal.
 
@@ -113,21 +113,21 @@ Willa, in her lap, was not shaking. Willa was furious. Nora could feel it — a 
 
 Auntie Hù's group was the one that didn't fit.
 
-Bjorn, too big to hide. Bīng, too dramatic to be quiet. Finnegan, too *Finnegan* to be anywhere but the middle of things. And Auntie Hù herself, who had spent forty years minding crowds and had never once had to do what she was about to get ready for.
+Bjorn, too big to hide. Bīng, too dramatic to be quiet. Finnegan, too *Finnegan* to be anywhere but the middle of things. And Auntie Hù herself, who had minded crowds for forty years and never once had to do what she was about to get ready for.
 
-They were in the kitchen, the run group already gone out the back. Hù shut the deck door behind them, shut the swinging door to the great room, and took stock of a lodge kitchen the way a general takes stock of a hill.
+The run group was gone out the back. Hù shut the deck door behind them, shut the swinging door to the great room, and took stock of the kitchen the way a general takes stock of a hill.
 
 "If he comes through that door," she said — flat, quiet, no drama at all — "and only then, and only if there's nowhere left to go: we go *at* him. All of us. Same second. As loud as anything you've ever heard. We throw everything. We aim for the face. And then we run out the back. Understood?"
 
 "I understand," whispered Bīng, "that this is the WORST movie night of my LIFE."
 
-"Mm. Bjorn — fire extinguisher. Off the wall. You pull the pin and you spray him in the face and it'll blind him for ten seconds and ten seconds is a *lifetime.* Finnegan — that rack of mugs. Every one. Bīng — the ski poles by the door. Pointy end."
+"Mm. Bjorn — fire extinguisher. Off the wall. Pull the pin, spray him in the face. It blinds him for ten seconds, and ten seconds is a *lifetime.* Finnegan — that rack of mugs. Every one. Bīng — the ski poles by the door. Pointy end."
 
 "What about you?"
 
 Auntie Hù picked up Herschel's biggest iron cocoa ladle and said nothing. Which was answer enough.
 
-They stood there — a bear with a red canister, a penguin with six mugs, a shaved-ice mountain with two ski poles and a face like a tragic opera, and a small brown tea egg in front of them all, with a ladle, watching a door.
+They stood there — a bear with a red canister, a penguin with six mugs, a shaved-ice mountain with two ski poles and a face like a tragic opera, and a small brown tea egg in front, with a ladle, watching a door.
 
 "Auntie Hù," Finnegan whispered. "Are we gonna have to?"
 
@@ -135,13 +135,13 @@ They stood there — a bear with a red canister, a penguin with six mugs, a shav
 
 The door did not open.
 
-They stood there for six minutes that felt like six years, and the door did not open, and they never threw a single mug. *Getting ready to fight is not fighting.* It's the last drawer in the plan. You fill it. You hope you never open it.
+Six minutes passed that felt like six years, and they never threw a single mug. *Getting ready to fight is not fighting.* It's the last drawer in the plan. You fill it. You hope you never open it.
 
 ---
 
 It was Solveig's team that opened the doors.
 
-They came in through the front, fast and low, and the man in the lobby — who had never gotten past the lobby, who had spent six minutes shouting at a coat rack while a whole lodge full of people did exactly what they'd practiced — was on the floor with three officers on top of him before he understood they were in the building.
+They came in through the front, fast and low, and the man — who had never gotten past the lobby, who had spent six minutes shouting at a coat rack while a whole lodge did exactly what it had practiced — was on the floor under three officers before he knew they were there.
 
 Nobody was hurt. Say it again, because it matters: *nobody was hurt.* Not a penguin, not a bear, not a jelly, not a pearl. The man went away in a car with lights on it, and that is all the room he gets in this story.
 
@@ -149,11 +149,11 @@ In the gear room, the quiet went on long after the shouting stopped. Somebody kn
 
 Then a voice, low and slow, through thick wood: "*Frostpeak Police. It's Solveig. You can come out.*"
 
-Nora Snowmane closed her eyes for one second. Then she rolled the cabinet back, and threw the bolt, and opened the door onto her sister's enormous white face.
+Nora Snowmane closed her eyes for one second. Then she rolled the cabinet back, slid the bolt, and opened the door onto her sister's enormous white face.
 
 "Hands where I can see them, everybody," said Solveig gently. "I know it's silly. Do it anyway."
 
-Nine small pairs of hands came up. Nine small people walked out of the dark.
+Eight small pairs of hands came up, and one enormous pair. Nine people walked out of the dark.
 
 ---
 
@@ -161,7 +161,7 @@ Here is the part nobody puts in the movies, and it is the most important part.
 
 The *after.*
 
-It took a long time. It was supposed to. Herschel made cocoa in the *big* pot, the one for festivals, and everyone got a blanket whether they wanted one or not. Then Auntie Hù stood on a chair and did a headcount — not a number, *names.* Every single one.
+It took a long time. It was supposed to. Herschel made cocoa in the *big* pot, the one for festivals, and everyone got a blanket whether they wanted one or not. "Sit," said Nora, to the whole room. "Cocoa first. Then feelings." When the mugs were empty, Auntie Hù stood on a chair and did a headcount — not a number, *names.* Every single one.
 
 "Boba."
 
@@ -181,7 +181,7 @@ It took a long time. It was supposed to. Herschel made cocoa in the *big* pot, t
 
 "I know," said Hù. "That was the bravest thing in the building."
 
-Then she got down off the chair. "Whatever you're feeling right now is correct. All of it. Shaky, sick, silly, sleepy, mad — *correct.* You can cry. You can laugh. Bīng is doing both."
+Then she climbed down. "Whatever you're feeling right now is correct. All of it. Shaky, sick, silly, sleepy, mad — *correct.* You can cry. You can laugh. Bīng is doing both."
 
 "I am NOT crying," said Bīng, weeping. "I am MELTING with RELIEF."
 
@@ -195,13 +195,13 @@ Auntie Hù looked at her for a long moment.
 
 Willa blinked.
 
-"You should be angry. Someone chose to bring fear into a place full of kids and popcorn, and it was a wrong choice, and being angry about it means your compass works." Hù sat down on the hearth. "Now, two true things that sound like they fight, and don't. First: this is *rare.* Most lodges, most nights, most of your whole life — the door never opens like that. You are not going to live in the orange coat."
+"You should be angry. Someone chose to bring fear into a place full of kids and popcorn. It was a wrong choice, and being angry about it means your compass works." Hù sat down on the hearth. "Now, two true things that sound like they fight, and don't. First: this is *rare.* Most lodges, most nights, most of your whole life — the door never opens like that. You are not going to live in the orange coat."
 
 "And second?"
 
-"Rare is not never. That's why we practiced. Not because we thought tonight would come — because *if* it came, we didn't want to be deciding. We wanted to be *doing.* And we were. That's why tonight is *rare* — and *okay.* Both at once."
+"Rare is not never. That's why we practiced. Not because we thought tonight would come — because *if* it came, we didn't want to be deciding. We wanted to be *doing.* And we were. So: *rare*, and *okay.* Both at once."
 
-"**安全** (ānquán)," said Aiyu quietly. "It means *safe.* Nora said it in the gear room. She said it like nine times."
+"**安全**," said Aiyu quietly. "Safe. Nora said it in the gear room. She said it like nine times."
 
 "Because it was true nine times," said Nora, and kissed the top of Willa's head.
 

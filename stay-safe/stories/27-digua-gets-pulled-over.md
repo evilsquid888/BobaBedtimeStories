@@ -23,9 +23,9 @@ Dìguā loved it more than anything he owned.
 
 "That's the engine."
 
-"HONK THE GOOSE!" shouted Teddy and Tilda from the back seat, and Dìguā, who was a soft touch for cubs, honked the goose. *HWAAANK.* The twins shrieked with joy. Mochi, wedged between them with her arms stretched all the way around both cubs and half the tapioca, laughed so hard a puff of potato starch rose off her like smoke.
+"HONK THE GOOSE!" shouted Teddy and Tilda from the back seat, and Dìguā, who was a soft touch for cubs, honked the goose. *HWAAANK.* The twins shrieked with joy. Mochi, wedged between them with her arms around both cubs and half the tapioca, laughed so hard a puff of starch rose off her like smoke.
 
-Dìguā was a sweet potato. He had rough, dusty brown skin, a tiny yellow hardhat he'd worn so long it had a groove in it, and — as he would tell you, if you asked, and even if you didn't — a heart as gold as his insides. He had spent most of his life next to a street cart in Taipei, and he had learned everything worth knowing by watching who came and went. Nobody in the whole dessert crew was more street-smart. Nobody was more patient. Nobody else could drive stick.
+Dìguā was a sweet potato. He had rough, dusty brown skin, a tiny yellow hardhat he'd worn so long it had a groove in it, and — as he would tell you whether or not you asked — a heart of gold. He had spent most of his life beside a street cart in Taipei, learning everything worth knowing by watching who came and went. Nobody in the crew was more street-smart. Nobody was more patient. Nobody else could drive stick.
 
 "Supply run song!" said Tilda.
 
@@ -35,7 +35,7 @@ There was no supply run song. They made one up. It was mostly the word *tapioca*
 
 ---
 
-The sun slid down behind the western ridge, and the snow along the highway turned from gold to blue. Dìguā clicked on his one headlight. The road was empty in both directions, just a ribbon of packed snow between pine trees, and the cab was warm, and the twins had run out of *tapiocas* and were starting to droop.
+The sun slid down behind the ridge, and the snow along the highway turned from gold to blue. Dìguā clicked on his one headlight. The road was empty, just a ribbon of packed snow between the pines. The cab was warm, and the twins had run out of *tapiocas* and were starting to droop.
 
 And then the whole inside of the truck lit up red and blue.
 
@@ -43,25 +43,23 @@ Red. Blue. Red. Blue. Painting the tapioca sacks. Painting Mochi's startled face
 
 "Uh," said Boba, who had stopped bouncing. "Dìguā. Are we in *trouble?*"
 
-Everybody in the cab was looking at the sweet potato.
-
-Dìguā did not slam the brakes. He did not speed up. He did not sigh, or swear, or say *oh great, what now.* He looked in his mirror at the lights, and then he did something that surprised every one of them: he smiled.
+Dìguā did not slam the brakes or speed up. He did not sigh, or swear, or say *oh great, what now.* He looked at the lights in his mirror, and then he did something that surprised everyone: he smiled.
 
 "Listen, kid," he said. "We're about to do a thing *exactly right.* Watch and learn."
 
 ---
 
-"Step one," said Dìguā, flicking the turn signal. *Tick. Tick. Tick.* "You tell them you see them. Signal. You don't stop in the middle of the road like a moose. You look for the right side, somewhere flat, somewhere they can pull in behind you safe."
+"Step one," said Dìguā, flicking the turn signal. *Tick. Tick. Tick.* "You tell them you see them. Signal. You don't stop in the middle of the road like a moose. You pull to the right, somewhere flat, where they can pull in behind you safely."
 
-He eased the truck onto the wide snowy shoulder under a pine, and rolled to a stop.
+He eased the truck onto the wide snowy shoulder under a pine and rolled to a stop.
 
-"Step two." He turned the key. The campfire engine coughed and went quiet. "Engine off. Radio off." He clicked the dashboard light so the whole cab glowed soft yellow. "It's dark, so — dome light on. She's walking up to a truck she doesn't know. I want her to see everything in here before she gets to the window. Nothing to guess about."
+"Step two." He turned the key. The campfire engine coughed and went quiet. "Engine off. Radio off." He clicked a switch, and the whole cab glowed soft yellow. "It's dark, so — dome light on. She's walking up to a truck she doesn't know. I want her to see everything in here before she gets to the window."
 
 "Who's *she?*" whispered Mochi.
 
-"Don't know yet. Don't need to." He rolled his window down. Cold air came in, and pine. Then he put both rough brown hands on top of the steering wheel, spread wide, where anybody walking up could see them, and he left them there.
+"Don't know yet. Don't need to." He rolled his window down. Cold air came in, and pine. Then he put both rough brown hands on top of the wheel, spread wide where anybody walking up could see them, and left them there.
 
-"Step three," he said quietly. "**慢慢來** (màn màn lái). Slowly, slowly. Hands where they can be seen. And now the important part, and this one's for everybody in the back —"
+"Step three," he said quietly. "**慢慢來** (màn màn lái). Slowly, slowly. Hands where they can be seen. And now the important part — this one's for everybody in the back."
 
 He turned his head just enough to look at the twins.
 
@@ -85,25 +83,25 @@ The twins looked at each other. Being boring was, historically, not their streng
 
 Footsteps crunched on the snow. Slow ones. Big ones.
 
-A flashlight beam swept the inside of the truck — the sacks, the cubs, Mochi's starch-dusted face, Boba frozen mid-bounce, Dìguā's two hands on the wheel — and then a very large, very white polar bear in a navy jacket with a silver snowflake badge leaned down to the window.
+A flashlight beam swept the inside of the truck — the sacks, the cubs, Mochi's starch-dusted face, Boba frozen mid-bounce, Dìguā's two hands on the wheel. Then a polar bear the approximate size and color of a snowdrift, in a navy jacket with a snowflake badge, leaned down to the window.
 
 "Evening," said Sergeant Solveig Snowmane. "Frostpeak Valley Police. I'm Sergeant Snowmane. Reason I stopped you is your left tail light's out, and I saw a small passenger moving around back there without a belt. Do you have your license and registration?"
 
 "Yes, ma'am," said Dìguā. He did not reach for anything. "My license is in my back pocket. My registration is in the glove box. Okay if I reach?"
 
-Something in the sergeant's face eased by one notch. Nobody but Boba noticed it, and Boba only noticed because he was watching the sweet potato so hard.
+Something in the sergeant's face eased by one notch. Only Boba saw it, and only because he was watching *everything* so hard.
 
 "Go ahead. Slow's fine."
 
-Dìguā reached — slowly, slowly — and handed her the license. Then he leaned across, opened the glove box, and took out a folded paper. He did not root around. He did not knock anything onto the floor. He handed the paper through the window with two fingers.
+Dìguā reached — slowly, slowly — and handed her the license. Then he leaned across, opened the glove box, and took out a folded paper. He did not root around. He handed the paper through the window with two fingers.
 
 "Thank you," said Solveig. She looked at the license. She looked at the paper. She looked into the back seat, where two yellow cubs sat as still as garden gnomes and a mochi was very obviously trying not to breathe.
 
 "Whose cubs?"
 
-"Powderpuffs. Their mom knows. We're running tapioca from the warehouse to the market. Be back before eight."
+"Powderpuffs. Their mom knows. Tapioca run — back before eight."
 
-He didn't say anything else. He didn't explain the song, or the goose, or why the truck smelled like a campfire. Boba was *dying* to explain about the goose. Dìguā's hands went back on top of the wheel.
+He didn't explain the song, or the goose, or why the truck smelled like a campfire. Boba was *dying* to explain about the goose. Dìguā's hands went back on top of the wheel.
 
 "Sit tight," said Solveig, and crunched back toward her cruiser.
 
@@ -113,9 +111,9 @@ He didn't say anything else. He didn't explain the song, or the goose, or why th
 
 "Because she didn't ask about the goose."
 
-"But you're *friendly!* You talk to everybody at the cart! You told the tapioca guy your whole life story!"
+"But you're *friendly!* You told the tapioca guy your whole life story!"
 
-Dìguā kept his hands on the wheel. "Listen, kid. There's *friendly*, and there's *chatty.* Friendly is 'yes, ma'am' and 'thank you.' Chatty is when you fill up the quiet with a whole lot of words she didn't need, and now she's got to sort through all of them. Say what's asked. Be polite. Then *stop.*"
+Dìguā kept his hands on the wheel. "Listen, kid. There's *friendly*, and there's *chatty.* Friendly is 'yes, ma'am' and 'thank you.' Chatty is filling up the quiet with words she didn't ask for, so now she's got to sort through every one of them. Say what's asked. Be polite. Then *stop.*"
 
 "What if she gives you a ticket?" asked Mochi. "What if it's *wrong?*"
 
@@ -123,13 +121,13 @@ Dìguā kept his hands on the wheel. "Listen, kid. There's *friendly*, and there
 
 "*Court?*" said Tilda, forgetting to be boring.
 
-"Court is where you argue," said Dìguā. "The side of the road is not. Nobody ever won an argument on the side of the road. Not once, in the whole history of roads. All you get is a longer stop and a grumpier officer. If she's wrong, there's a whole building full of people whose job is to hear about it. That's where you go. Not here."
+"Court is where you argue," said Dìguā. "The side of the road is not. Nobody ever won an argument on the side of the road. Not once, in the whole history of roads. All you get is a longer stop and a grumpier officer. If she's wrong, there's a whole building full of people whose job is to hear about it."
 
 "What if she wanted to search the truck?" said Boba, who had been thinking. "What if she said, *open up the back?*"
 
-Dìguā thought about that one carefully, because it was a good question.
+Dìguā thought about that one carefully.
 
-"Then I've got a right to say, *Officer, I don't consent to a search.* Nice and calm. Those exact words. Here in the valley, and in most of America — ask a grown-up where *you* live — that's a thing I'm allowed to say." He held up one finger. "But listen. Listen close. If she opens it *anyway* — I do *nothing.* I don't grab. I don't block. I don't argue. I don't raise my voice. I say nothing, I remember *everything*, and later I tell a lawyer. You never, ever fight it on the roadside. Never. You fight it later, with words, in the building."
+"Then I've got a right to say, *Officer, I don't consent to a search.* Nice and calm. Those exact words. Here in the valley, and in most of America — ask a grown-up where *you* live — that's a thing I'm allowed to say." He held up one finger. "But listen. Listen close. If she opens it *anyway* — I do *nothing.* I don't grab. I don't block. I don't argue. I say nothing, I remember *everything*, and later I tell a lawyer. You never fight it on the roadside. Never. You fight it later, with words, in the building."
 
 "That's a lot of rules," said Teddy in a small voice.
 
@@ -153,7 +151,7 @@ Every eye in the truck turned to Tilda.
 
 "**Belt.**"
 
-"Tilda Powderpuff," said Sergeant Solveig Snowmane, in a voice that was not loud, and was not unkind, and was made of the same thing mountains are made of, "if this truck stops fast and you're not in a belt, you keep going, and the truck doesn't. I have scraped small bears off of dashboards. I am not doing it again tonight. *Buckle.*"
+"Tilda Powderpuff," said Sergeant Solveig Snowmane, in a voice that was not loud, and was not unkind, and was made of the same thing mountains are made of, "if this truck stops fast and you're not in a belt, you keep going, and the truck doesn't. I have peeled small bears off dashboards. I am not doing it again tonight. *Buckle.*"
 
 Tilda buckled so fast the click echoed.
 
@@ -161,7 +159,7 @@ Tilda buckled so fast the click echoed.
 
 "Thank you, Sergeant," said Dìguā.
 
-"Drive safe. Nice to see slow hands." Solveig straightened up. Then she paused, leaned back down, and looked at the twins. "Also — was that a *goose* I heard back on the main road?"
+"Drive safe. Nice to see slow hands." Solveig straightened up — then paused, and leaned back down to the twins. "Also — was that a *goose* I heard back on the main road?"
 
 "*No,*" said Teddy and Tilda, in perfect, boring unison.
 
@@ -179,13 +177,13 @@ Then Boba said, "Dìguā? Can I ask something?"
 
 "That was *Solveig.* We *know* her. She was *there* the night Finnegan fell in the cocoa vat. She's *nice.* So why'd you do all the — the hands, and the light, and the *慢慢來*, and the not-talking? If she's nice?"
 
-Dìguā drove for a bit before he answered. The pines slid by. The moon came up over the ridge and made the snow look like a long white blanket somebody had shaken out over the whole valley.
+Dìguā drove for a bit before he answered. The moon came up over the ridge and made the snow look like a long white blanket somebody had shaken out over the whole valley.
 
-"Because when the lights came on," he said, "I didn't know it was Solveig. I saw lights. That's all I saw. Could've been anybody walking up — a good one, a tired one, a scared one, a new one on her first week. I don't get to pick. And here's the other half, kid, and this is the half people forget: *she* didn't know it was *me.* She saw a beat-up truck with one headlight and a bunch of shapes moving around in the back. She's walking up to that in the dark, alone. She doesn't know I'm golden on the inside. She can't see inside."
+"Because when the lights came on," he said, "I didn't know it was Solveig. I saw lights. Could've been anybody walking up — a good one, a tired one, a scared one, a new one on her first week. I don't get to pick. And here's the other half, kid, the half people forget: *she* didn't know it was *me.* She saw a beat-up truck with one headlight and a bunch of shapes moving around in the back. She's walking up to that in the dark, alone. She doesn't know I'm golden on the inside. She can't see inside."
 
 He tapped the steering wheel.
 
-"So I *show* her. Light on. Hands up. Slow. Honest. Boring. I make it easy for her to see that we're okay — and that makes it safe for *her*, and safe for *me*, and safe for three cubs and a mochi in the back who I would very much like to deliver home in one piece." He glanced in the mirror at the twins, who were listening with their whole faces. "Slow hands make *both* of us safe. Every time. Nice officer or not. That's not a rule about *her.* That's a rule about *me.*"
+"So I *show* her. Light on. Hands up. Slow. Honest. Boring. I make it easy for her to see that we're okay — and that keeps *her* safe, and *me* safe, and two cubs, a mochi, and one bouncy pearl safe, all of whom I would very much like to deliver home in one piece." He glanced in the mirror at the twins, who were listening with their whole faces. "Slow hands make *both* of us safe. Every time. Nice officer or not. That's not a rule about *her.* That's a rule about *me.*"
 
 "Slow hands, honest words," said Mochi softly.
 
@@ -197,13 +195,13 @@ Boba bounced once, thoughtfully. "I'm gonna remember that."
 
 ---
 
-They rolled into the market lot at 7:52, with everyone belted and a hundred pounds of tapioca and a story. Mochi was asleep against the sacks. Teddy was asleep against Mochi. Tilda was asleep with her paw on the seatbelt buckle, as if guarding it.
+They rolled into the market lot at 7:52, with everyone belted, a hundred pounds of tapioca, and a story. Mochi was asleep against the sacks. Teddy was asleep against Mochi. Tilda was asleep with her paw on the seatbelt buckle, as if guarding it.
 
-Dìguā turned off the campfire engine and sat for a second in the quiet, hands resting easy on the wheel, and looked at the lanterns of Boba on Ice glowing across the snow.
+Dìguā turned off the campfire engine and sat a moment in the quiet, hands easy on the wheel, looking at the lanterns of Boba on Ice across the snow.
 
 "You know," said Boba sleepily, "for a scary thing, that wasn't scary."
 
-"Wasn't scary," agreed Dìguā, "because we made it boring. Boring's the goal, kid." He pulled his little hardhat down over his eyes and yawned. "Boring is golden."
+"Wasn't scary," agreed Dìguā, "because we made it boring." He pulled his little hardhat down over his eyes and yawned. "Boring is golden, kid."
 
 Somewhere down the highway, a cruiser's tail lights winked out around a bend. Somewhere in the back seat, very quietly, a small bear cub said *hwaaank* in her sleep.
 

@@ -11,7 +11,7 @@
 
 When Flan met Bùdīng, the two of them wobbled at each other for a full minute without saying a word.
 
-Flan was a coconut flan — a jiggly, pale-gold dome of custard glistening under a caramel drizzle, flecked with toasted coconut, off the mail-boat from Costa Rica that very morning. Bùdīng was a caramel pudding — golden on top, dark caramel dripping down his sides, and wobbling, always, constantly, even standing still. They stood in the doorway of the boot-drying room and looked at each other the way two people look when they have each spent their whole life thinking they were the only one.
+Flan was a coconut flan, fresh off the mail-boat from Costa Rica that very morning — a jiggly, pale-gold dome of custard glistening under a caramel drizzle, flecked with toasted coconut. Bùdīng was a caramel pudding — golden on top, dark caramel dripping down his sides, and wobbling, always, even standing still. They stood in the doorway of the boot-drying room and looked at each other the way two people look when each has spent his whole life thinking he was the only one.
 
 "You…" said Flan.
 
@@ -31,7 +31,7 @@ Then a snowball came through the open window and hit Flan directly on top of the
 
 The snowball had come from a cannon.
 
-The cannon was made of a stovepipe, two sled runners, a bicycle pump, and Herschel's enormous enthusiasm. It sat on the back deck of the Cocoa Hut pointed at the boot-room window, and it could launch a snowball about as hard as a mean fifth-grader could throw one, which was exactly what Coach Rosa had asked for.
+The cannon was made of a stovepipe, two sled runners, a bicycle pump, and Herschel's enormous enthusiasm. It sat on the back deck of the Cocoa Hut, pointed at the boot-room window, and it could launch a snowball about as hard as a mean fifth-grader could throw one — which was exactly what Coach Rosa had asked for.
 
 "*¡Perfecto!*" said Rosa, which means *perfect*, and which she said to most things. She was a seven-foot pink flamingo standing on one leg in the snow with a pink headband and a tiny whistle, and she had been awake for nearly the whole demonstration. "Flan. Flan, come here. How's your head?"
 
@@ -63,7 +63,7 @@ The snowball flew straight at Estrella's face.
 
 Estrella's head went *in.*
 
-Not far. Not dramatically. Her head simply drew back inside the rim of her shell, and the snowball hit the shell with a soft *pomf* and fell apart into powder, and Estrella's head came back out, and she blinked her kind old eyes, and said:
+Not far. Not dramatically. Her head simply drew back inside the rim of her shell. The snowball hit the shell with a soft *pomf* and fell apart into powder. Then Estrella's head came back out, and she blinked, and said:
 
 "The face is *inside.*"
 
@@ -115,11 +115,11 @@ Naturally, Bùdīng had to try.
 
 "I'm FINE!" Bùdīng shrieked, delighted, still wobbling like a pudding on a paint shaker but with his entire head safe and sound inside a fortress of his own arms. "Look at me! I'm wobbling and I'm FINE! Both things! At the same time!"
 
-Then Teddy and Tilda Powderpuff wanted to try, and made a *double* shell by standing back to back with their arms up, and Tico the Toucan flew down from the roof to announce it — "AND IN THE SHELL, FOLKS, TWO CUBS, ONE DEFENSE, ZERO FACES" — and Herschel got so excited he fired three snowballs at once, and one of them hit Tico, who did not have his shell up, and whose beak went *bonk* on the railing.
+Then Teddy and Tilda Powderpuff wanted to try, and made a *double* shell by standing back to back with their arms up. Tico the Toucan flew down from the roof to announce it — "AND IN THE SHELL, FOLKS, TWO CUBS, ONE DEFENSE, ZERO FACES" — and Herschel got so excited he fired three snowballs at once. One of them hit Tico, who did not have his shell up, and whose beak went *bonk* on the railing.
 
 "Ow," said Tico. "Beak the news: that's why you cover."
 
-"Mm," said Auntie Hù, who had appeared on the rail with her tea eggs, as she did. "The bird learns."
+"Mm," said Auntie Hù, from the rail, where she had been the entire time and nobody had noticed, which was her preferred way of being anywhere. "The bird learns."
 
 ---
 
@@ -127,7 +127,7 @@ Then Teddy and Tilda Powderpuff wanted to try, and made a *double* shell by stan
 
 She put her own shell up — wings framing her long pink face — and then she did something none of them expected. She *walked.*
 
-Slowly, with her shell up, she walked across the deck toward the lodge door, while Herschel fired snowballs at her one after another. *Pomf. Pomf. Pomf.* They hit her wings. They hit her shoulders. She did not stop. She did not turn around. She did not put her arms down to swat at them. She walked, shell up, chin down, eyes peeking forward, until she reached the door — and *then*, and only then, she dropped her wings, turned her head sharply left and right, and stepped through.
+Slowly, with her shell up, she walked across the deck toward the lodge door, while Herschel fired snowballs at her one after another. *Pomf. Pomf. Pomf.* They hit her wings. They hit her shoulders. She did not stop. She did not turn around. She did not drop her wings to swat at them. She walked, shell up, chin down, eyes peeking forward, until she reached the door. *Then*, and only then, she dropped her wings, turned her head sharply left and right, and stepped through.
 
 "That," she said, from the doorway, "is the whole thing."
 
@@ -143,7 +143,7 @@ Slowly, with her shell up, she walked across the deck toward the lodge door, whi
 
 ---
 
-They practiced until the light went gold. Flan walked the deck with his shell up while Herschel plinked snowballs off his forearms, and each time he reached the door he dropped his arms, scanned left, scanned right, and stepped through, and each time he stepped through he was a little less wobbly and a little more *Flan.*
+They practiced until the light went gold. Flan walked the deck with his shell up while Herschel plinked snowballs off his forearms and Rosa called "*¡Dale!* Keep going!" from the rail. Each time he reached the door he dropped his arms, scanned left, scanned right, and stepped through. And each time he stepped through, he was a little less wobbly and a little more *Flan.*
 
 On the last run, Herschel — who could not help himself — fired the cannon at *maximum science*, and the snowball that hit Flan's forearms was a big one, and his whole custard body shivered like a bell.
 
@@ -159,7 +159,7 @@ There was, in fact, shrimp. Barnaby had a bucket. Nobody asked where it came fro
 
 ---
 
-That night Flan lay in a bunk behind Boba on Ice, next to Bùdīng, and the two of them wobbled gently in the dark — not from fear, just from being who they were.
+That night Flan lay in a hammock on the mail-boat, which rocked gently in its hole in the lake ice. Bùdīng was in the next hammock over — he'd asked to sleep aboard, and nobody had asked why. The two of them wobbled softly in the dark, not from fear, just from being who they were.
 
 "Bùdīng?" whispered Flan.
 
@@ -206,4 +206,4 @@ Wobble if you want to. The blanket wobbles with you. Sleep.
 
 1. **Key Scene:** A snowy wooden deck behind a cozy cocoa hut; a jiggly pale-gold coconut flan with caramel drizzle stands with both stubby arms raised around his head like a turtle's shell, elbows tucked, eyes peeking over his forearms, as a snowball bursts into powder against his arms; behind him a huge walrus in a red knit hat gleefully works a bicycle pump on a homemade stovepipe cannon. Warm whimsical storybook illustration, golden late light, blue snow shadows.
 2. **Character Portrait:** Estrella the sea turtle, a green sea turtle with a mossy star-patterned shell and kind ancient eyes, half-risen from a round hole in lake ice, her head drawn calmly back inside the rim of her shell while a snowball crumbles harmlessly against it; a tall pink flamingo on one leg watches approvingly from the snow. Gentle children's-book style, soft teal water glow, snowflakes.
-3. **Closing Scene:** A tiny bunk room behind a boba stand at night, fairy lights glowing; a golden coconut flan and a caramel pudding asleep in neighboring bunks, both wobbling ever so slightly under their blankets, the flan's arms folded peacefully across his chest, a pillow tucked around his head like a soft shell. Deep blue and warm amber, very peaceful.
+3. **Closing Scene:** Night below deck on a small mail-boat moored in a hole in the lake ice, a lantern glowing; a golden coconut flan and a caramel pudding asleep in neighboring hammocks, both wobbling ever so slightly under their blankets, the flan's arms folded peacefully across his chest, a pillow tucked around his head like a soft shell. Deep blue and warm amber, very peaceful.

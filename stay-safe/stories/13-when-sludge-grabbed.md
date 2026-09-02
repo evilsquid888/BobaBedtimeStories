@@ -13,7 +13,7 @@ Zhīma had a rule about danger, and the rule was: *get there first.*
 
 "We roll NOW!" he shouted, and rolled — off the lodge steps, down the packed-snow path, straight through Bīng's carefully raked topping garden and out the other side wearing a mango slice like a hat.
 
-He was a sesame ball. Perfectly round, golden-fried, crunchy all over with a coat of white sesame seeds that sparkled when the sun came out, which today it did not. He was hollow inside and sweet in the middle, and he had never in his life seen a problem and thought *someone else should handle that.* He saw a problem and thought *ROLL.*
+He was a sesame ball. Perfectly round, golden-fried, crunchy all over with a coat of white sesame seeds that sparkled when the sun came out, which today it did not. He was hollow inside, with one sweet bite at the very center, and he had never in his life seen a problem and thought *someone else should handle that.* He saw a problem and thought *ROLL.*
 
 "Where's the fire?" called Finnegan, who was upside down in a snowbank for reasons he would explain later.
 
@@ -29,7 +29,7 @@ A large, blue, drippy puddle.
 
 Sludge was a slush puppy — an oversized cup of blue-raspberry slush that had been left in the sun too long and gone mean about it. He dripped. He sneered. He left puddles wherever he went, and today he'd left one right at the foot of the rail line, where he was leaning on the third rail with his drippy fists and watching Willa Wobble try to land a board-slide.
 
-Willa was small. Willa was concentrating. Willa had finally, *finally* got her tiny purple board onto the rail, and she was sliding, and she was *doing it—*
+Willa was small. Willa was concentrating. Willa had finally, *finally* gotten her tiny purple board onto the rail, and she was sliding, and she was *doing it—*
 
 Sludge stuck out one slushy arm and shoved her off.
 
@@ -55,7 +55,7 @@ Feet planted. Eyes up. No jokes.
 
 Let's be clear about this, because it matters: Zhīma had done everything right.
 
-He'd used his words. He'd used his voice. He'd stood his ground. And it hadn't worked — because sometimes, with some people, it doesn't. Words are the *first* thing you try, and they're the *best* thing you try, and most of the time they're the *only* thing you need. But not this time. This time a drippy blue fist the size of a snow shovel had closed around a sesame ball and lifted him clean off the ground, and Nora *was* up the hill, and Willa was too small, and Finnegan was still upside down.
+He'd used his words. He'd used his voice. He'd stood his ground. And it hadn't worked — because sometimes, with some people, it doesn't. Words are the *first* thing you try, and they're the *best* thing you try, and most of the time they're the *only* thing you need. But not this time. This time a drippy blue fist the size of a snow shovel had closed around a sesame ball and lifted him clean off the ground, and Nora *was* up the hill, and Willa was too small, and Finnegan was still upside down, which has never once helped anybody.
 
 "Let go," said Zhīma.
 
@@ -63,7 +63,7 @@ He'd used his words. He'd used his voice. He'd stood his ground. And it hadn't w
 
 And Zhīma thought — very fast, the way you think when your feet aren't touching anything — *Auntie Hù said something about this.*
 
-She had. Not two days ago, on the rental-boot bench, after Bùdīng's magnificent voice had worked so well. She'd said: *Sometimes it doesn't work. Sometimes they grab you anyway. And then the rules change — a little. Not a lot. A little.*
+She had. Just two days ago, on the rental-boot bench, after Bùdīng's magnificent voice had worked so well. She'd said: *Sometimes it doesn't work. Sometimes they grab you anyway. And then the rules change — a little. Not a lot. A little.*
 
 *If someone puts hands on you, you may get them off you.*
 
@@ -103,7 +103,7 @@ Zhīma stopped.
 
 It was the hardest thing he had ever done. Harder than the twist. Harder than the stomp. His whole body was leaning forward like a dog on a leash, and he made it *stay*, and the effort of it made his sesame seeds rattle.
 
-Sludge, still hopping, still holding his foot, took one step back to steady himself — onto the exact patch of ice he'd been dripping on all afternoon — and his slushy feet went out from under him, and he sat down with enormous dignity in a snowbank, all by himself, and stayed there.
+Sludge, still hopping, still holding his foot, took one step back to steady himself — onto the exact patch of ice he'd been dripping on all afternoon. His slushy feet went out from under him, and he sat down with enormous dignity in a snowbank, all by himself, and stayed there.
 
 Nobody laughed. Well. Finnegan laughed, from inside his own snowbank, but he didn't know what he was laughing at.
 
@@ -123,7 +123,7 @@ Behind them, Sludge climbed out of the snowbank, dripping, and did not follow. B
 
 Nora Snowmane's office had exactly one chair with a quilt on it, and today Zhīma sat in it, and Willa sat on the arm, and Bjorn stood in the doorway because he did not fit anywhere else.
 
-"Sit," said Nora, which he already was. "Cocoa first. Then feelings."
+"Sit," said Nora, to a sesame ball who was already sitting. "Cocoa first. Then feelings."
 
 But Zhīma had learned something on the way up the hill, and he couldn't wait for the cocoa.
 
@@ -198,4 +198,4 @@ Nothing is holding you now but the blanket. Sleep.
 
 1. **Key Scene:** A grey, blustery snow-rail practice course; a huge, dripping blue-raspberry slush cup with a sneer hops on one foot while a small golden sesame ball, seeds sparkling, is caught mid-roll one inch from him, every line of his body straining forward — and over both falls the enormous shadow of a polar bear on forest-green skis with snow packed in both ears, one paw raised in a calm STOP. Warm whimsical storybook illustration, cool blue-grey light with the sesame ball glowing gold.
 2. **Character Portrait:** Zhīma the sesame ball — perfectly round, golden-fried, coated in white sesame seeds — planted between a tiny Little Blue Penguin lying in the snow and a looming drippy slush cup, chin up, tiny feet set wide, mouth open on a bold word. Bright, crunchy detail on the seeds, dramatic low angle, children's-book style.
-3. **Closing Scene:** A small bunk room behind a boba stand at night, string lights glowing; a golden sesame ball tucked under a blanket, seeds finally still, a faint smile; on the wall a child's drawing of a sesame ball with a tiny brake pedal. Cozy, dim, amber and deep blue.
+3. **Closing Scene:** Night at the snowy night market, lanterns dimmed; a golden sesame ball curled asleep on the warm iron rim of a huge tea-egg pot, seeds finally still, a faint smile, steam curling around him like a blanket; a small brown tea egg beside him keeping watch with arms folded. Cozy, dim, amber and deep blue.
