@@ -1,4 +1,4 @@
-# Story 12: Bīng and the Fight That Never Happened
+# Story 23: Bīng and the Fight That Never Happened
 
 **Main Character:** Bīng (Shaved Ice)
 **Guest Characters:** Magnus Meltsworth, Auntie Hù, Herschel the Walrus, Sergeant Solveig Snowmane, Boba, Finnegan Flipsworth

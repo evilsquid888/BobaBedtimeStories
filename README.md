@@ -11,9 +11,9 @@ A growing family of cozy, funny, food-themed **bedtime stories for ages 9–12**
 | 🇨🇷 **Costa Rica** | 50 | Spanish (Tico) | [costa-rica/](costa-rica/README.md) |
 | ⛩️ **Japan** | 100 | Japanese | [japan/](japan/README.md) |
 | 🍳 **How-To** | 30 | mixed | [how-to/](how-to/README.md) |
-| 🛡️ **Stay Safe** (Boba × Frostpeak) | 15 | Mandarin + Frostpeak | [stay-safe/](stay-safe/README.md) |
+| 🛡️ **Stay Safe** (Boba × Frostpeak × Costa Rica) | 30 | Mandarin + Spanish sprinkles | [stay-safe/](stay-safe/README.md) |
 
-**345 stories total.** Each collection has its own README and Character Guide.
+**360 stories total.** Each collection has its own README and Character Guide.
 
 ## Features
 - ~1,800–2,000 words per story; fun starts in the first 150 words
@@ -22,7 +22,7 @@ A growing family of cozy, funny, food-themed **bedtime stories for ages 9–12**
 - Joyful, never-scary "becoming a treat" moments; gentle cute folklore only
 - 3 AI image prompts per story for illustration
 - Cross-over guests from sibling universes (Penguinsnowboard, Uncle Piggle Wiggle)
-- A **Stay Safe** arc: 15 whimsical-but-serious stories teaching real self-protection skills (awareness, tricky people, body safety, abduction, bullies, Run–Hide–Fight, fights and the law, police stops, lawyers) with the Frostpeak penguins and bears
+- A **Stay Safe** arc: 30 whimsical-but-serious stories teaching real self-protection skills — an Active-Self-Protection track (awareness, tricky people, body safety, abduction, bullies, Run–Hide–Fight, fights and the law, police stops, lawyers) interleaved with a Krav Maga track led by Coach Rosa the Flamingo (grabs, protecting your head, knives, street fights, road rage, cover vs. concealment, trunk and restraint escapes, guns up close, hostage situations) — with the Frostpeak penguins and bears and the Costa Rica crew
 
 ## 🧋 Taiwan — Story Index
 

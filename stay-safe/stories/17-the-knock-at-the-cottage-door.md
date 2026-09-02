@@ -1,4 +1,4 @@
-# Story 9: The Knock at the Cottage Door
+# Story 17: The Knock at the Cottage Door
 
 **Main Character:** Hóng Dòu (Red Bean)
 **Guest Characters:** Willa Wobble, Willa's mom (Mrs. Wobble), Sergeant Solveig Snowmane, Herschel the Walrus

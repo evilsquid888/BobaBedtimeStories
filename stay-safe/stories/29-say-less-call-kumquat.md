@@ -1,4 +1,4 @@
-# Story 15: Say Less, Call Kumquat
+# Story 29: Say Less, Call Kumquat
 
 **Main Character:** Boba (Tapioca pearl)
 **Guest Characters:** Counselor Kumquat, Sergeant Solveig Snowmane, Taro, Cleo Coldwater, Herschel the Walrus, Auntie Hù, Willa Wobble, Sludge, Bùdīng, Aiyu, Teddy & Tilda Powderpuff, Bjorn Bigpaws, Dàn, Aurora Frostholm, and the whole cast of both worlds

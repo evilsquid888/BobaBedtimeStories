@@ -1,4 +1,4 @@
-# Story 6: Sludge and the Words That Melt
+# Story 11: Sludge and the Words That Melt
 
 **Main Character:** Bùdīng (Pudding)
 **Guest Characters:** Finnegan Flipsworth, Sludge (new), Nora Snowmane, Auntie Hù, Herschel the Walrus, Teddy & Tilda Powderpuff

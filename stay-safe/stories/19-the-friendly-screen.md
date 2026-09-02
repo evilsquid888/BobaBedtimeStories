@@ -1,4 +1,4 @@
-# Story 10: The Friendly Screen
+# Story 19: The Friendly Screen
 
 **Main Character:** Dàn (Egg waffle)
 **Guest Characters:** Finnegan Flipsworth, Herschel the Walrus, Sergeant Solveig Snowmane, Auntie Hù, Boba

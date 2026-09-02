@@ -3,7 +3,7 @@
 A step-by-step, repeatable recipe for making a ~3-minute narrated bedtime video from one Stay Safe story using **CapCut** (desktop) and its built-in AI tools. Two storyboards are ready to run with this guide:
 
 - [Story 1 — Head Up, Phone Down](01-head-up-phone-down-storyboard.md) *(gentle, visual — start here)*
-- [Story 4 — Never Get in the Van](04-never-get-in-the-van-storyboard.md) *(action + a dark beat — tests how the pipeline handles the serious stories)*
+- [Story 7 — Never Get in the Van](07-never-get-in-the-van-storyboard.md) *(action + a dark beat — tests how the pipeline handles the serious stories)*
 
 > **UI note:** CapCut renames and moves things often. Menu names below are approximate — look for the *idea* (text-to-speech, image-to-video, auto captions, keyframes) if a label has changed. Everything here also works with any other image/video generator + CapCut for assembly.
 
@@ -74,7 +74,7 @@ For each shot in the storyboard:
 
 **Fallback that always works:** generate a *still image* for the shot instead, and animate it in Phase 4 with a slow zoom (Ken Burns). Half the shots in a bedtime video can be stills and nobody minds — bedtime is slow.
 
-**Safety rules for the dark beats** (Story 4, shot 4; Story 11 if you do it later):
+**Safety rules for the dark beats** (Story 7, shot 4; Story 21 if you do it later):
 - Never show a weapon. Never show a hand *on* a child in close-up — use silhouette, a shadow across the snow, or cut to the friend's reaction.
 - The Smiling Stranger is always back-turned, out of focus, or cropped at the shoulders.
 - Fear is carried by **sound and stillness**, not by the picture.

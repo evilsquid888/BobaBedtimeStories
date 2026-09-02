@@ -1,7 +1,7 @@
-# Storyboard: Stay Safe Story 04 — Never Get in the Van
+# Storyboard: Stay Safe Story 07 — Never Get in the Van
 
 **Platform:** CapCut (AI video / Seedance + editor) — see [CAPCUT_GUIDE.md](CAPCUT_GUIDE.md)
-**Source story:** [../stories/04-never-get-in-the-van.md](../stories/04-never-get-in-the-van.md)
+**Source story:** [../stories/07-never-get-in-the-van.md](../stories/07-never-get-in-the-van.md)
 **Total Shots:** 12
 **Estimated Runtime:** ~3:20 + 16 s of end cards
 **Art Style (paste on ALL prompts):** `whimsical 3D storybook animation, soft rounded shapes, dusk light — lavender sky, deep-blue snow, warm lantern glow from the market in the distance, gentle snowfall, cozy wonder, no text, no watermark`

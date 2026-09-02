@@ -1,4 +1,4 @@
-# Story 14: Dìguā Gets Pulled Over
+# Story 27: Dìguā Gets Pulled Over
 
 **Main Character:** Dìguā (Sweet Potato)
 **Guest Characters:** Boba, Mochi, Teddy & Tilda Powderpuff, Sergeant Solveig Snowmane

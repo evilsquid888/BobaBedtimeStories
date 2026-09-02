@@ -151,7 +151,7 @@ In Story 20, all 19 characters come together at the Grand Hotel Taipei for the u
 
 ### Stay Safe Arc (stay-safe/)
 
-The full Frostpeak cast (Piper, Barnaby, Willa, Finnegan, Cleo Coldwater, Bjorn Bigpaws, Nora Snowmane, Teddy & Tilda Powderpuff, Magnus Meltsworth, Aurora Frostholm, Herschel the Walrus) shares one winter season with the Taiwan crew, plus five new characters: **Auntie Hù** (tea-egg self-defense mentor), **Sergeant Solveig Snowmane** (police), **Counselor Kumquat** (public defender), **the Smiling Stranger**, and **Sludge** (slush-puppy bully). See [stay-safe/CHARACTER_GUIDE.md](stay-safe/CHARACTER_GUIDE.md).
+The full Frostpeak cast (Piper, Barnaby, Willa, Finnegan, Cleo Coldwater, Bjorn Bigpaws, Nora Snowmane, Teddy & Tilda Powderpuff, Magnus Meltsworth, Aurora Frostholm, Herschel the Walrus) shares one winter season with the Taiwan crew, plus six new characters: **Auntie Hù** (tea-egg self-defense mentor), **Coach Rosa the Flamingo** (Krav Maga instructor), **Sergeant Solveig Snowmane** (police), **Counselor Kumquat** (public defender), **the Smiling Stranger**, and **Sludge** (slush-puppy bully). The Costa Rica crew guests in the even-numbered Krav Maga stories. See [stay-safe/CHARACTER_GUIDE.md](stay-safe/CHARACTER_GUIDE.md).
 
 ### From Uncle Piggle Wiggle Universe
 

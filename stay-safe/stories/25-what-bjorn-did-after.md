@@ -1,4 +1,4 @@
-# Story 13: What Bjorn Did After
+# Story 25: What Bjorn Did After
 
 **Main Character:** Bjorn Bigpaws (Polar Bear)
 **Guest Characters:** Willa Wobble, Sergeant Solveig Snowmane, Counselor Kumquat (new), Cleo Coldwater, Barnaby Beaksworth, Auntie Hù, Herschel the Walrus

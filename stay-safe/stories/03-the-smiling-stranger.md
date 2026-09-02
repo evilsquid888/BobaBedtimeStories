@@ -1,4 +1,4 @@
-# Story 2: The Smiling Stranger
+# Story 3: The Smiling Stranger
 
 **Main Character:** Mochi (Mochi)
 **Guest Characters:** Barnaby Beaksworth, Auntie Hù, Teddy & Tilda Powderpuff, Herschel the Walrus, Sergeant Solveig Snowmane, the Smiling Stranger (new)

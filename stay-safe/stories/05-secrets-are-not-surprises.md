@@ -1,4 +1,4 @@
-# Story 3: Secrets Are Not Surprises
+# Story 5: Secrets Are Not Surprises
 
 **Main Character:** Willa Wobble (Little Blue Penguin) and Aiyu (Aiyu jelly)
 **Guest Characters:** Nora Snowmane, Auntie Hù, Sergeant Solveig Snowmane, Herschel the Walrus

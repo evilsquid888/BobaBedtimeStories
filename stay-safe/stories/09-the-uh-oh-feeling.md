@@ -1,4 +1,4 @@
-# Story 5: The Uh-Oh Feeling
+# Story 9: The Uh-Oh Feeling
 
 **Main Character:** Yángmáo (Starfruit)
 **Guest Characters:** Cleo Coldwater, Auntie Hù, Herschel the Walrus, Nibbles & Splash

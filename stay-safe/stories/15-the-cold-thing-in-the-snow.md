@@ -1,4 +1,4 @@
-# Story 8: The Cold Thing in the Snow
+# Story 15: The Cold Thing in the Snow
 
 **Main Character:** Bǎi (Passion fruit)
 **Guest Characters:** Teddy & Tilda Powderpuff, Herschel the Walrus, Sergeant Solveig Snowmane, Auntie Hù

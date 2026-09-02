@@ -1,4 +1,4 @@
-# Story 7: When Sludge Grabbed
+# Story 13: When Sludge Grabbed
 
 **Main Character:** Zhīma (Sesame ball)
 **Guest Characters:** Bjorn Bigpaws, Willa Wobble, Sludge, Nora Snowmane, Auntie Hù, Finnegan Flipsworth

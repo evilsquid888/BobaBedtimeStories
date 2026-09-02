@@ -1,4 +1,4 @@
-# Story 4: Never Get in the Van
+# Story 7: Never Get in the Van
 
 **Main Character:** Boba (Tapioca pearl) and Piper Paddlefoot (Emperor Penguin)
 **Guest Characters:** Auntie Hù, Cleo Coldwater, Bjorn Bigpaws, Herschel the Walrus, Sergeant Solveig Snowmane, the Smiling Stranger
