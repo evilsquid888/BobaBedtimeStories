@@ -4,7 +4,7 @@
 
 Written as a gentle social-skills guide (in the style of social stories), and useful for kids who do best with clear, literal, repeatable steps.
 
-See also: [Character Guide](CHARACTER_GUIDE.md) · [Writing Spec](SPEC.md)
+See also: [Character Guide](CHARACTER_GUIDE.md) · [Writing Spec](SPEC.md) · [🎬 LTX 2.5 Video Guide](LTX_GUIDE.md)
 
 ## How every story works
 - **Model → Practice → Do.** A coach shows the step, Rosie practices at home, then does it for real.
@@ -12,7 +12,7 @@ See also: [Character Guide](CHARACTER_GUIDE.md) · [Writing Spec](SPEC.md)
 - **Magic sentence**: the one exact thing to say (in **bold**).
 - **A small surprise** happens, and Rosie handles it with a **Rose breath** (smell the rose: in for 4; blow out the candle: out for 4) and a backup sentence.
 - **Practice Together**: role-play tips for grown-ups.
-- **Video Storyboard**: about 5 minutes and 10 shots, with an image prompt, an LTX motion prompt, and narration for each shot, plus 3 sample-image prompts (key scene, character portrait, closing scene).
+- **Video Storyboard**: about 5 minutes and 10 shots. Each shot has an image prompt, 3–4 one-action LTX 2.5 beats in screenplay form, and narration, plus 3 sample-image prompts (key scene, character portrait, closing scene).
 
 ## Story Index
 
@@ -29,8 +29,9 @@ See also: [Character Guide](CHARACTER_GUIDE.md) · [Writing Spec](SPEC.md)
 | 9 | [Rosie Finds a Safe Helper](stories/09-rosie-finds-a-safe-helper.md) | What to do if separated from a grown-up | "I can't find my mom. Can you help me?" | Caǎo 🇹🇼, Estrella 🇨🇷, Flan 🇨🇷 |
 | 10 | [Rosie Pays at the Checkout](stories/10-rosie-pays-at-the-checkout.md) | Paying and waiting for change | "Hi! Just this, please." | Feng 🇹🇼, Neko-Pan 🇯🇵, Lala 🇨🇷 |
 
-## Making the videos (LTX 2.3 / 2.5)
-1. Generate the **Character portrait** sample image first and use it as the reference image for every shot, so Rosie looks the same throughout.
-2. For each shot, generate the still from the **Image prompt**, then animate it with the **LTX motion prompt** (image-to-video).
-3. Record or text-to-speech the **Narration**, then lay the clips under it. Ten shots of about 30 seconds each makes roughly 5 minutes.
-4. Tip: use a soft, slow narrator voice and gentle music, and hold the "Rosie's Steps" shot a little longer. You could also put the steps on screen as text.
+## Making the videos (LTX 2.5 / 2.3)
+See **[LTX_GUIDE.md](LTX_GUIDE.md)** for the full guide. The short version:
+1. Generate the **Character portrait** sample image first and use it as the identity reference for every shot.
+2. Generate each shot's still from its **Image prompt**.
+3. Animate each of the shot's 3–4 **beats** (one action each, ~8 s) at 1280×704, 193 frames, guide strength 0.75, using the story's negative prompt.
+4. Upscale with 2.5's latent upscaler, then lay the clips under the **Narration** voice-over. Ten shots of ~30 s is about 5 minutes.

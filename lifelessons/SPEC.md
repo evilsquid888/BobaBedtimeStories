@@ -56,12 +56,21 @@ These stories teach a real child (who may have special needs) how to handle ever
 **Character reference — Rosie:** (paste the one-line Rosie description below into every shot that includes her)
 **Character reference — coaches:** one line each for this story's coaches.
 
+**LTX settings:** 1280×704 · 193 frames (~8 s) per beat · guide strength 0.75 · see `LTX_GUIDE.md`
+**Negative prompt (all beats):** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
+**ID phrases (use word-for-word in every beat):**
+- Rosie → the little pink rose-milk-tea cup with the striped straw
+- (one short, fixed ID phrase per coach / Tori in this story)
+
 ### Shot 1 — TITLE (0:00–0:30)
-**Image prompt:** `...full standalone prompt, includes style + character descriptions...`
-**LTX motion prompt:** `...camera move + character motion, 1–2 sentences...`
+**Image prompt:** `...full standalone prompt, includes style + character descriptions (title text is added in editing, not generated)...`
+**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
+1. `Shot: medium close-up. Scene: cozy kitchen table, warm afternoon light. Action: <one change>. Character: <ID phrase> — <expression shift>. Camera: <one concrete verb: pushes in / pulls back / tracks beside / pans / tilts / holds still>. Audio: <ambient only, no speech>.`
+2. `...`
+3. `...`
 **Narration:** > story text covered by this shot (verbatim excerpt of The Story)
 
-(...through Shot 10 — the last shot is the cozy goodnight scene. Narration across all 10 shots covers the whole story in order.)
+(...through Shot 10 — 3–4 beats per shot, gentle motion only, no lip sync; the last shot is the cozy goodnight scene. Narration across all 10 shots covers the whole story in order.)
 
 ### 🖼️ Sample Images (to generate first)
 1. **Key scene** — `prompt`

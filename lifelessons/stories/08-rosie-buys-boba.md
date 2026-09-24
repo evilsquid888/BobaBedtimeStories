@@ -144,9 +144,23 @@ one soft, sleepy sip at a time.
 - Tama Onigiri: a plump triangle of warm white rice with a crisp black nori band like a sash, a tiny pickled-plum pink blush on one cheek, comfy and round-shouldered, tiny arms and legs
 - Tori: a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve
 
+**LTX settings:** 1280×704 · 193 frames (~8 s) per beat · guide strength 0.75 · see `LTX_GUIDE.md`
+**Negative prompt (all beats):** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
+**ID phrases (use word-for-word in every beat):**
+- Rosie → the little pink rose-milk-tea cup with the striped straw
+- Tori → the tall golden lychee-tea cup with the green straw
+- Boba → the tiny glossy black tapioca pearl with huge eyes
+- Hóng Dòu → the little burgundy red bean with the tiny ladle
+- Tama Onigiri → the white rice-ball triangle with the black nori sash
+- Cashier → the friendly cashier in the green apron
+
 ### Shot 1 — TITLE (0:00–0:30)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Title card reading "Rosie Buys Boba". Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, stands on a cozy kitchen table, whispering behind one tiny hand with a secretive smile, her straw wiggling. A small glossy black tapioca pearl with huge eyes bounces into the frame from the side. Warm afternoon light through a window.`
-**LTX motion prompt:** `Slow push-in on Rosie as she whispers and her striped straw wiggles, then droops slightly; the little tapioca pearl bounces in from the left with springy hops.`
+**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, stands on a cozy kitchen table, whispering behind one tiny hand with a secretive smile, her straw wiggling. A small glossy black tapioca pearl with huge eyes bounces into the frame from the side. Warm afternoon light through a window.`
+**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
+1. `Shot: medium close-up. Scene: kitchen table, afternoon light. Action: Rosie cups one tiny hand beside her lid as if sharing a secret. Character: the little pink rose-milk-tea cup with the striped straw — eyes twinkle with a secretive smile. Camera: slowly pushes in. Audio: soft kitchen hum, a clock ticking. No speech.`
+2. `Shot: medium close-up. Scene: same table. Action: Rosie's striped straw droops a little. Character: the little pink rose-milk-tea cup with the striped straw — smile turns into a small unsure look. Camera: holds still. Audio: soft kitchen hum. No speech.`
+3. `Shot: medium wide. Scene: same table. Action: Boba bounces in from the left with small springy hops. Character: the tiny glossy black tapioca pearl with huge eyes — eyes wide with excitement. Camera: slowly pans left. Audio: soft boing, boing, boing, kitchen hum. No speech.`
+4. `Shot: medium two-shot. Scene: same table. Action: Boba lands beside Rosie and puffs up proudly. Character: the little pink rose-milk-tea cup with the striped straw — surprised giggle, straw perks back up. Camera: slowly pulls back. Audio: one last soft boing. No speech.`
 **Narration:**
 > Rosie had a secret plan. A sweet, bubbly, top-secret plan.
 >
@@ -158,7 +172,11 @@ one soft, sleepy sip at a time.
 
 ### Shot 2 — THE COACHES ARRIVE (0:30–1:00)
 **Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Cozy kitchen table. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, looks up hopefully. Beside her: a small plump deep-burgundy red bean with a white stripe and a grandmotherly smile, holding a tiny ladle; and a plump triangle of warm white rice with a crisp black nori band like a sash and a pickled-plum pink blush on one cheek, holding out a small blank paper card and a pencil. A tiny glossy black tapioca pearl with huge eyes grins nearby.`
-**LTX motion prompt:** `The red bean shuffles in gently waving her ladle; the rice ball offers the paper card to Rosie, who reaches for it with her tiny arms. Gentle side-to-side camera drift.`
+**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
+1. `Shot: medium. Scene: cozy kitchen table. Action: Hóng Dòu shuffles a little closer, gently lifting her tiny ladle. Character: the little burgundy red bean with the tiny ladle — warm grandmotherly smile. Camera: holds still. Audio: soft kitchen hum. No speech.`
+2. `Shot: medium. Scene: same table. Action: Tama pats her nori sash with one hand. Character: the white rice-ball triangle with the black nori sash — pink cheek blushes proudly. Camera: slowly pushes in. Audio: soft kitchen hum. No speech.`
+3. `Shot: medium. Scene: same table. Action: Tama holds the paper card and pencil out toward Rosie. Character: the white rice-ball triangle with the black nori sash — eager, helpful eyes. Camera: slowly pans right. Audio: a soft paper rustle. No speech.`
+4. `Shot: medium close-up. Scene: same table. Action: Rosie reaches out with her tiny arms and takes the card. Character: the little pink rose-milk-tea cup with the striped straw — hopeful eyes, straw perks up. Camera: holds still. Audio: soft paper rustle. No speech.`
 **Narration:**
 > Hóng Dòu shuffled in, holding her tiny ladle. "Ordering boba is easy when you know the steps, dear. Everyone needs a little sweetness."
 >
@@ -168,7 +186,10 @@ one soft, sleepy sip at a time.
 
 ### Shot 3 — SUGAR AND ICE (1:00–1:30)
 **Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. On a kitchen table, a row of five little cups shows sugar levels from very full honey-gold to clear, and a row of three cups shows ice levels from lots of ice to none. A small plump deep-burgundy red bean with a white stripe points at the sugar cups with a tiny ladle like a teacher. A tiny glossy black tapioca pearl with huge eyes jumps excitedly beside the ice cups. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, watches, carefully writing on a small paper card.`
-**LTX motion prompt:** `Slow pan along the row of sugar cups as the ladle taps each one, then along the ice cups as the pearl bounces; end on Rosie writing on her card.`
+**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
+1. `Shot: medium. Scene: kitchen table. Action: Hóng Dòu taps each sugar cup in turn with her ladle. Character: the little burgundy red bean with the tiny ladle — kind, teacherly smile. Camera: slowly pans right along the sugar cups. Audio: soft tink of ladle on cups. No speech.`
+2. `Shot: medium. Scene: same table, ice cups. Action: Boba hops excitedly beside the ice cups. Character: the tiny glossy black tapioca pearl with huge eyes — eyes sparkling with glee. Camera: holds still. Audio: gentle ice clinks, a soft boing. No speech.`
+3. `Shot: close-up. Scene: same table. Action: Rosie writes carefully on her paper card. Character: the little pink rose-milk-tea cup with the striped straw — focused eyes, straw tilts with concentration. Camera: tilts down to the card. Audio: soft pencil scratching. No speech.`
 **Narration:**
 > "First, the boba words," said Hóng Dòu. "**珍珠奶茶** (zhēnzhū nǎichá) = pearl milk tea. The tea shop will ask two special questions. How sweet? And how much ice?"
 >
@@ -180,7 +201,10 @@ one soft, sleepy sip at a time.
 
 ### Shot 4 — ROSIE'S STEPS (1:30–2:00)
 **Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, holds up a small paper order card proudly. Behind her, a friendly chalkboard shows six simple picture icons in a row: a card with a pencil, a short line of people, a speech bubble, a question mark, a coin, and a cup with a straw. A plump white rice-ball triangle with a black nori sash and a small burgundy red bean with a tiny ladle smile beside her.`
-**LTX motion prompt:** `The six chalkboard icons light up gently one by one from left to right while Rosie nods along; soft sparkle on the order card.`
+**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
+1. `Shot: medium. Scene: kitchen, friendly chalkboard. Action: Rosie lifts her order card a little higher. Character: the little pink rose-milk-tea cup with the striped straw — proud, shining smile. Camera: slowly pushes in. Audio: soft kitchen hum. No speech.`
+2. `Shot: wide. Scene: same chalkboard. Action: the six chalkboard icons glow softly one by one, left to right. Character: the little pink rose-milk-tea cup with the striped straw — eyes follow each glowing icon, nodding. Camera: slowly pans right. Audio: a gentle chime for each icon. No speech.`
+3. `Shot: medium. Scene: same kitchen. Action: Tama gives a small, happy bow. Character: the white rice-ball triangle with the black nori sash — pink cheek blushes, eyes crinkle. Camera: slowly pulls back. Audio: the last chime fades softly. No speech.`
 **Narration:**
 > "Now say it all in one sentence," said Hóng Dòu. "**Hi! Can I please have a pearl milk tea, half sugar, less ice?**"
 >
@@ -197,8 +221,11 @@ one soft, sleepy sip at a time.
 > "**謝謝** (xièxie) = thank you," said Tama. "It's the politest word in the whole cup."
 
 ### Shot 5 — GRANDMA BEAN'S TEA SHOP (2:00–2:30)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A pretend tea shop at the kitchen counter. A small plump deep-burgundy red bean with a white stripe wears a little paper hat and stands behind the counter like a cashier. In line: a plump triangle of white rice with a black nori sash, arms full of pretend cups, then Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, waiting patiently while reading her paper card.`
-**LTX motion prompt:** `The red bean tips her paper hat in welcome; the rice ball wobbles away carrying a teetering stack of pretend cups; Rosie steps up to the counter.`
+**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A pretend tea shop at the kitchen counter. A small plump deep-burgundy red bean with a white stripe wears a little paper hat and stands behind the counter like a cashier. In line: a plump triangle of white rice with a black nori sash, arms full of pretend cups, then Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, waiting patiently while holding her paper card.`
+**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
+1. `Shot: medium. Scene: pretend tea shop at the counter. Action: Hóng Dòu tips her paper hat in welcome. Character: the little burgundy red bean with the tiny ladle — twinkling, playful smile. Camera: holds still. Audio: soft kitchen hum, a tiny bell ding. No speech.`
+2. `Shot: medium. Scene: same counter. Action: Tama wobbles away carrying a teetering stack of pretend cups. Character: the white rice-ball triangle with the black nori sash — wide, careful eyes. Camera: slowly pans left. Audio: soft clattering cups. No speech.`
+3. `Shot: medium close-up. Scene: same counter. Action: Rosie steps up to the counter holding her card. Character: the little pink rose-milk-tea cup with the striped straw — brave little smile, straw straightens. Camera: slowly pushes in. Audio: soft kitchen hum. No speech.`
 **Narration:**
 > Hóng Dòu stood behind the counter and put on a paper hat. "Welcome to Grandma Bean's Tea Shop!"
 >
@@ -212,7 +239,10 @@ one soft, sleepy sip at a time.
 
 ### Shot 6 — PRACTICE MAKES PEARLS (2:30–3:00)
 **Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Kitchen counter pretend tea shop. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, hands a single raisin across the counter like a coin to a small burgundy red bean in a paper hat. On the counter edge, a tiny glossy black tapioca pearl with huge eyes, wearing a paper hat, is tumbling off the counter mid-laugh. A cup of water with a straw waits for Rosie.`
-**LTX motion prompt:** `Rosie hands over the raisin and bows politely; the little pearl giggles, rolls, and tumbles gently off the counter edge onto a soft dish towel.`
+**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
+1. `Shot: medium. Scene: kitchen counter tea shop. Action: Rosie slides the raisin across the counter to Hóng Dòu. Character: the little pink rose-milk-tea cup with the striped straw — polite, careful smile. Camera: holds still. Audio: soft kitchen hum. No speech.`
+2. `Shot: medium. Scene: same counter. Action: Rosie gives a small, polite bow. Character: the little pink rose-milk-tea cup with the striped straw — eyes crinkle, straw dips with the bow. Camera: slowly pushes in. Audio: a tiny bell ding. No speech.`
+3. `Shot: medium. Scene: counter edge. Action: Boba rolls gently off the counter edge onto a soft dish towel. Character: the tiny glossy black tapioca pearl with huge eyes — eyes squeezed shut with laughter. Camera: tilts down. Audio: a soft, cushioned plop. No speech.`
 **Narration:**
 > Step 4: *Answer the questions: "What size?" and "Hot or cold?"* "What size?" asked Hóng Dòu. "Medium, please." "Hot or cold?" "Cold, please."
 >
@@ -224,7 +254,11 @@ one soft, sleepy sip at a time.
 
 ### Shot 7 — THE REAL TEA SHOP (3:00–3:30)
 **Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A bright, cheerful boba tea shop with a big picture menu on the wall and a friendly human cashier in a green apron behind the counter. Behind the glass, a big pot of dark tapioca pearls bubbles. A tiny glossy black tapioca pearl with huge eyes waves shyly at the pot, then hides behind a plump white rice-ball triangle with a black nori sash. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, waits in a short line holding her paper card. A small burgundy red bean with a ladle stands close by.`
-**LTX motion prompt:** `Wide establishing shot drifting slowly toward the counter; pearls bubble in the pot; the little pearl waves, blushes, and ducks behind the rice ball.`
+**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
+1. `Shot: wide. Scene: bright boba tea shop. Action: pearls bubble gently in the big pot behind the glass. Character: the friendly cashier in the green apron — warm, welcoming smile. Camera: slowly pushes in toward the counter. Audio: soft bubbling, a shop door bell. No speech.`
+2. `Shot: medium. Scene: beside the glass. Action: Boba waves one tiny arm shyly at the pot. Character: the tiny glossy black tapioca pearl with huge eyes — cheeks blush, eyes huge. Camera: holds still. Audio: soft bubbling. No speech.`
+3. `Shot: medium. Scene: same spot. Action: Boba ducks behind Tama. Character: the white rice-ball triangle with the black nori sash — amused, protective smile. Camera: holds still. Audio: a soft shuffle, bubbling. No speech.`
+4. `Shot: medium close-up. Scene: the counter. Action: Rosie steps up to the counter holding her card. Character: the little pink rose-milk-tea cup with the striped straw — nervous eyes, straw drooping, then a brave look. Camera: slowly pushes in. Audio: gentle shop hum, brewing tea. No speech.`
 **Narration:**
 > The next afternoon, they walked to the tea shop on the corner. It smelled like brown sugar and warm tea. A big menu hung on the wall. A kind cashier in a green apron smiled behind the counter.
 >
@@ -244,7 +278,11 @@ one soft, sleepy sip at a time.
 
 ### Shot 8 — THE SURPRISE QUESTION (3:30–4:00)
 **Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Close-up at the tea shop counter. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, eyes closed, doing a calm breath: one tiny hand holds an imaginary rose to her nose, the other is raised like blowing out a candle. Faint soft pink swirls show her breath. The friendly human cashier in a green apron waits patiently, smiling, with small pictures of pudding and grass jelly on the menu behind.`
-**LTX motion prompt:** `Rosie's straw droops, then she breathes in slowly and out slowly; her straw rises back up as she opens her eyes and smiles. Very gentle slow zoom.`
+**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
+1. `Shot: close-up. Scene: tea shop counter. Action: Rosie's straw droops all the way down. Character: the little pink rose-milk-tea cup with the striped straw — eyes blink wide, surprised. Camera: holds still. Audio: soft shop hum. No speech.`
+2. `Shot: close-up. Scene: same counter. Action: Rosie breathes in slowly, holding the imaginary rose to her nose. Character: the little pink rose-milk-tea cup with the striped straw — closed eyes, face softening. Camera: slowly pushes in. Audio: soft shop hum, gentle bubbling. No speech.`
+3. `Shot: close-up. Scene: same counter. Action: Rosie breathes out slowly as her straw rises back up. Character: the little pink rose-milk-tea cup with the striped straw — eyes open with a calm smile. Camera: holds still. Audio: gentle bubbling. No speech.`
+4. `Shot: medium. Scene: same counter. Action: the cashier gives Rosie a friendly nod. Character: the friendly cashier in the green apron — warm, patient smile. Camera: slowly pulls back. Audio: a soft register chime. No speech.`
 **Narration:**
 > Then the cashier asked something new. "Do you want to add pudding or grass jelly?"
 >
@@ -257,8 +295,12 @@ one soft, sleepy sip at a time.
 > "No problem!" said the cashier.
 
 ### Shot 9 — NUMBER TWENTY-THREE (4:00–4:30)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. At the tea shop pickup counter, Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, proudly holds a sealed cup of classic pearl milk tea and a big fat straw, a receipt showing "23" in her other hand. A tiny glossy black tapioca pearl with huge eyes presses his face against the cup, waving at the pearls inside with a happy tear. A plump white rice-ball triangle with a black nori sash writes on the back of a paper card; a small burgundy red bean with a ladle beams.`
-**LTX motion prompt:** `Rosie lifts the cup triumphantly and her straw wiggles; the little pearl presses his face to the cup and waves; the rice ball finishes writing with a tiny flourish.`
+**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. At the tea shop pickup counter, Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, proudly holds a sealed cup of classic pearl milk tea and a big fat straw, a small paper receipt in her other hand. A tiny glossy black tapioca pearl with huge eyes presses his face against the cup, waving at the pearls inside with a happy tear. A plump white rice-ball triangle with a black nori sash writes on the back of a paper card; a small burgundy red bean with a ladle beams.`
+**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
+1. `Shot: medium. Scene: tea shop pickup counter. Action: Rosie lifts the cup up proudly. Character: the little pink rose-milk-tea cup with the striped straw — beaming, straw wiggles. Camera: slowly tilts up with the cup. Audio: soft shop hum, cups clinking. No speech.`
+2. `Shot: close-up. Scene: same counter. Action: Boba presses his face to the cup and waves at the pearls inside. Character: the tiny glossy black tapioca pearl with huge eyes — a happy tear sparkles in one eye. Camera: slowly pushes in. Audio: soft bubbling. No speech.`
+3. `Shot: medium. Scene: same counter. Action: Tama finishes writing on the card with a tiny flourish. Character: the white rice-ball triangle with the black nori sash — satisfied, proud eyes. Camera: holds still. Audio: a soft pencil scratch. No speech.`
+4. `Shot: medium wide. Scene: same counter. Action: Hóng Dòu raises her ladle in a small cheer. Character: the little burgundy red bean with the tiny ladle — beaming, proud smile. Camera: slowly pulls back. Audio: a soft shop bell. No speech.`
 **Narration:**
 > Rosie paid. "Thank you! Xièxie!" The cashier gave her a receipt with the number 23 on it.
 >
@@ -270,7 +312,11 @@ one soft, sleepy sip at a time.
 
 ### Shot 10 — SHARING WITH TORI, GOODNIGHT (4:30–5:00)
 **Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Cozy evening living room with a warm lamp. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, and Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, sit side by side sharing one cup of pearl milk tea with two straws, leaning together sleepily. Rosie's paper order card rests on the table. Soft moonlight through the window.`
-**LTX motion prompt:** `Tori hugs Rosie, then both sip together; the lamp dims softly and the camera pulls back slowly to the moonlit window.`
+**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
+1. `Shot: medium two-shot. Scene: cozy evening living room. Action: Tori wraps Rosie in a gentle hug. Character: the tall golden lychee-tea cup with the green straw — eyes shine with pride. Camera: holds still. Audio: soft crickets outside. No speech.`
+2. `Shot: medium close-up. Scene: same room. Action: both lean in and sip from their straws together. Character: the little pink rose-milk-tea cup with the striped straw — cozy, contented smile. Camera: slowly pushes in. Audio: a soft sip, pearls tumbling gently. No speech.`
+3. `Shot: medium close-up. Scene: same room. Action: Rosie leans sleepily against Tori. Character: the little pink rose-milk-tea cup with the striped straw — eyelids grow heavy, straw droops softly. Camera: holds still. Audio: soft crickets. No speech.`
+4. `Shot: wide. Scene: same room, moonlight. Action: the lamp dims softly into moonlight. Character: the tall golden lychee-tea cup with the green straw — peaceful, sleepy smile. Camera: slowly pulls back toward the moonlit window. Audio: crickets, a soft night breeze. No speech.`
 **Narration:**
 > At home, Rosie held out the cup. "Surprise, Tori! I ordered it all by myself!"
 >
