@@ -3,7 +3,7 @@
 **Life skill:** Leaving a party the right way — gathering your things, finding the hosts, saying thank you, and leaving together.
 **Magic sentence:** "Thank you for having us. We had fun!"
 **Coaches:** Marcus (teen Inclusive Navigator) + Feng (Taiwan) + Mochi (Taiwan)
-**Setting:** Rosie's cozy kitchen (practice), then Lulu the Almond Jelly's birthday party at her house — balloons, a bouncy castle, a cake, and one sleepy cat
+**Setting:** Rosie's cozy kitchen (practice), then Lulu the Almond Jelly's birthday party at her house — balloons, a bouncy castle, a cake, and one sleepy penguin named Cat
 
 ---
 
@@ -40,7 +40,7 @@ Marcus knelt down. "Here are the steps. Five of them."
 
 "Because of Bud," said Marcus.
 
-Bud was Rosie's little sister, a tiny rosebud milk tea in a sippy cup. Right now she was under the table, chewing a sock.
+Bud was Rosie's little sister, a tiny rosebud milk tea in a sippy cup. She was under the table, chewing a sock.
 
 Rosie wrote the steps on a card. Then she read them out loud:
 
@@ -54,7 +54,7 @@ Rosie wrote the steps on a card. Then she read them out loud:
 
 "I am a very beautiful mom," said Mochi, and put a napkin on his head.
 
-Rosie's mom called, "Five more minutes, Rosie!" Rosie stopped playing. She found her shoes, her jacket, her bag — and Bud. Bud came out with the sock.
+Rosie's mom called, "Five more minutes, Rosie!" She found her shoes, her jacket, her bag — and Bud. Bud came out with the sock.
 
 Then Rosie found Feng, Marcus, and Mochi. She looked at their faces. She smiled. "**Thank you for having us. We had fun!**"
 
@@ -66,13 +66,13 @@ Rosie waved. "Bye!" Then she and Bud walked to the front door with Mom.
 
 They practiced twice more. Mochi's napkin fell off every time. "Even beautiful moms lose their hats," he said.
 
-On Saturday, the party was wonderful. Rosie bounced in the bouncy castle with Lulu and Marcus. There was a big **蛋糕** (dàngāo) = cake with eight candles. Lulu's fluffy gray cat, Dumpling, watched from the couch with sleepy golden eyes. Bud tried to hug the cat. The cat said no, politely.
+On Saturday, the party was wonderful. Rosie bounced in the bouncy castle with Lulu and Marcus. There was a big **蛋糕** (dàngāo) = cake with eight candles. Cat the Penguin, Lulu's friend from Frostpeak, napped on the couch. Cat was a penguin. She was named Cat because she slept like one. Bud tried to hug her. Cat said no, politely.
 
 Then Rosie's dad said, "Five more minutes, Rosie!"
 
 Step one. Rosie climbed out of the castle. Step two. Shoes — by the door. Bag — on the hook. Bud — under the snack table. Jacket —
 
-The jacket was on the couch. And on the jacket was Dumpling, curled up, purring like a tiny motor.
+The jacket was on the couch. And on the jacket was Cat, curled up, snoring like a tiny motor.
 
 This was not like practice. In practice, nobody was sleeping on the jacket. Rosie felt stuck. Her straw drooped all the way down. That's okay.
 
@@ -80,11 +80,11 @@ Rosie did a Rose breath. Smell the rose — in, two, three, four. Blow out the c
 
 Marcus tapped his compass pin. "When something is in the way, you can ask for help. That's a step too."
 
-Rosie found Lulu's mom. "Excuse me. The cat is on my jacket. Can you help me?"
+Rosie found Lulu's mom. "Excuse me. Cat is on my jacket. Can you help me?"
 
-"Dumpling!" laughed Lulu's mom. She scooped up the cat, who sighed a big cat sigh. Rosie got her jacket. It had one gray hair on it.
+"Cat!" laughed Lulu's mom. She scooped up the penguin, who sighed a big penguin sigh. Rosie got her jacket. It had one blue feather.
 
-Step three. Rosie found Lulu by the cake. She found Lulu's mom, still holding the cat, and Lulu's dad, holding the balloons. Step four. She looked at their faces. She smiled.
+Step three. Rosie found Lulu by the cake. She found Lulu's mom, still holding Cat, and Lulu's dad, holding the balloons. Step four. She looked at their faces. She smiled.
 
 "**Thank you for having us. We had fun!**"
 
@@ -96,9 +96,9 @@ Step five. Rosie waved. "Bye!" Then she walked out the door with Marcus, with Bu
 
 On the sidewalk, Marcus held up a high five. "Five steps. Five minutes. Perfect exit."
 
-That night, Tori called on her tiny phone. "I heard you thanked the hosts AND rescued your jacket from a cat! You've got this, little sip. **加油** (jiāyóu) = you can do it — and you DID."
+That night, Tori called on her tiny phone. "I heard you thanked the hosts AND rescued your jacket from a penguin named Cat! You've got this, little sip. **加油** (jiāyóu) = you can do it — and you DID."
 
-Rosie snuggled into bed. Bud snuggled in next to her, still holding the sock. "One step at a time," Rosie said sleepily. "One sip at a time."
+Rosie snuggled into bed. Bud snuggled in beside her, still holding the sock. "One step at a time," Rosie said sleepily. "One sip at a time."
 
 ---
 
@@ -113,14 +113,14 @@ Rosie snuggled into bed. Bud snuggled in next to her, still holding the sock. "O
 
 ## 💬 Practice Together (for grown-ups)
 - Play "party" at home: scatter shoes, a jacket, and a bag around the room, hide a stuffed animal as the "little sister," and have one grown-up be the host kid and another be the host mom and dad. Call "Five more minutes!" and let your child run all five steps, saying each one out loud.
-- Add one small surprise each time — a toy cat sitting on the jacket, a host who is in the backyard, a balloon that floats away — so your child can practice a Rose breath and "Excuse me. Can you help me?"
+- Add one small surprise each time — a toy penguin sitting on the jacket, a host who is in the backyard, a balloon that floats away — so your child can practice a Rose breath and "Excuse me. Can you help me?"
 - Praise the gathering as much as the thank-you: "You found your bag AND your sister before anyone reminded you — that was step two!" Leaving without a jacket is very common, so celebrate every full set.
 - At a real party, give the five-minute warning early and quietly, stand where your child can see you, and let them find the hosts on their own. On the drive home, ask, "Who did you thank?" and name everyone they remembered.
 
 ## 🌙 Goodnight Blessing
 Goodnight, little sip, with your card of five steps.
 Goodnight to the balloons, bobbing slow by the door.
-Goodnight to a gray cat, dreaming on someone's jacket.
+Goodnight to Cat the penguin, dreaming on someone's jacket.
 Thank you for coming, and thank you for going home together —
 everybody counted, nobody left behind.
 One sock, one sister, one sleepy cup… and now, sleep tight.
@@ -136,8 +136,9 @@ One sock, one sister, one sleepy cup… and now, sleep tight.
 - `Marcus, a tall friendly teenage boy with short curly dark hair, a soft green hoodie with a small round compass pin on the chest, jeans and white sneakers, a kind easy smile`
 - `Feng, a perfect golden rectangle of pineapple cake with slightly crumbly edges and a jammy golden pineapple heart, wrapped in elegant shiny gold gift paper with a ribbon bow on top, tiny arms and legs, proud polite smile`
 - `Mochi, a soft pillowy white mochi blob dusted with powdery potato starch, rosy pink cheeks, a big happy smile, and long stretchy taffy-like arms`
-**Other characters:** `Bud, Rosie's little sister, a tiny cup of blush-pink rosebud milk tea in a small two-handled sippy cup, a closed pink rosebud on her lid, one tiny tapioca pearl, huge round eyes, holding a striped sock` · `Dumpling, a fluffy round gray cat with sleepy golden eyes and a white chin` · `Lulu, a small wobbly cube of white almond jelly with a sweet shy smile, wearing a tiny paper party hat` · `Lulu's mom, a larger cube of white almond jelly with a flowered apron` · `Lulu's dad, a big cube of white almond jelly with a shredded-coconut mustache, holding a bunch of balloons` · `Rosie's mom, a medium cup of pale-pink rose milk tea with a big pink rose on her lid` · `Rosie's dad, a tall cup of dark roasted oolong tea with a brown cap lid` · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve`
+**Other characters:** `Bud, Rosie's little sister, a tiny cup of blush-pink rosebud milk tea in a small two-handled sippy cup, a closed pink rosebud on her lid, one tiny tapioca pearl, huge round eyes, holding a striped sock` · `Cat, a small round little blue penguin with slate-blue feathers, a white tummy, sleepy half-closed eyes, a tiny yellow scarf, curled up asleep like a cat` · `Lulu, a small wobbly cube of white almond jelly with a sweet shy smile, wearing a tiny paper party hat` · `Lulu's mom, a larger cube of white almond jelly with a flowered apron` · `Lulu's dad, a big cube of white almond jelly with a shredded-coconut mustache, holding a bunch of balloons` · `Rosie's mom, a medium cup of pale-pink rose milk tea with a big pink rose on her lid` · `Rosie's dad, a tall cup of dark roasted oolong tea with a brown cap lid` · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve`
 
+**Generation plan:** stills with **Qwen Image 2.1** (paste each image prompt as written; generate the Character portrait first and reuse it as the reference) · video with **LTX 2.3** (2.5 optional)
 **LTX settings:** 1280×704 · 193 frames (~8 s) per beat · guide strength 0.75 · see `LTX_GUIDE.md`
 **Negative prompt (all beats):** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
 **ID phrases (use word-for-word in every beat):**
@@ -147,7 +148,7 @@ One sock, one sister, one sleepy cup… and now, sleep tight.
 - Feng → the gold-wrapped pineapple cake with the ribbon bow
 - Mochi → the soft white mochi blob with stretchy arms
 - Bud → the tiny rosebud sippy cup with the sock
-- Dumpling → the fluffy gray cat
+- Cat → the little blue penguin with the yellow scarf
 - Lulu → the little white almond-jelly cube in the party hat
 - Lulu's mom → the almond-jelly mom in the flowered apron
 - Lulu's dad → the almond-jelly dad with the balloons
@@ -208,7 +209,7 @@ One sock, one sister, one sleepy cup… and now, sleep tight.
 >
 > "Because of Bud," said Marcus.
 >
-> Bud was Rosie's little sister, a tiny rosebud milk tea in a sippy cup. Right now she was under the table, chewing a sock.
+> Bud was Rosie's little sister, a tiny rosebud milk tea in a sippy cup. She was under the table, chewing a sock.
 >
 > Rosie wrote the steps on a card. Then she read them out loud:
 >
@@ -230,7 +231,7 @@ One sock, one sister, one sleepy cup… and now, sleep tight.
 >
 > "I am a very beautiful mom," said Mochi, and put a napkin on his head.
 >
-> Rosie's mom called, "Five more minutes, Rosie!" Rosie stopped playing. She found her shoes, her jacket, her bag — and Bud. Bud came out with the sock.
+> Rosie's mom called, "Five more minutes, Rosie!" She found her shoes, her jacket, her bag — and Bud. Bud came out with the sock.
 >
 > Then Rosie found Feng, Marcus, and Mochi. She looked at their faces. She smiled. "**Thank you for having us. We had fun!**"
 >
@@ -243,35 +244,35 @@ One sock, one sister, one sleepy cup… and now, sleep tight.
 > They practiced twice more. Mochi's napkin fell off every time. "Even beautiful moms lose their hats," he said.
 
 ### Shot 5 — THE PARTY (2:10–2:40)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A bright living room birthday party with pastel balloons and paper streamers. A small pink-and-cream bouncy castle in the corner with Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, mid-bounce beside Lulu, a small wobbly cube of white almond jelly with a sweet shy smile, wearing a tiny paper party hat, and Marcus, a tall friendly teenage boy with short curly dark hair, a soft green hoodie with a small round compass pin on the chest, jeans and white sneakers, a kind easy smile, bouncing gently. On a table, a round white cake with eight candles. On a cream couch, Dumpling, a fluffy round gray cat with sleepy golden eyes and a white chin, curled up, while Bud, Rosie's little sister, a tiny cup of blush-pink rosebud milk tea in a small two-handled sippy cup, a closed pink rosebud on her lid, one tiny tapioca pearl, huge round eyes, holding a striped sock, reaches up to hug the cat.`
+**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A bright living room birthday party with pastel balloons and paper streamers. A small pink-and-cream bouncy castle in the corner with Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, mid-bounce beside Lulu, a small wobbly cube of white almond jelly with a sweet shy smile, wearing a tiny paper party hat, and Marcus, a tall friendly teenage boy with short curly dark hair, a soft green hoodie with a small round compass pin on the chest, jeans and white sneakers, a kind easy smile, bouncing gently. On a table, a round white cake with eight candles. On a cream couch, Cat, a small round little blue penguin with slate-blue feathers, a white tummy, sleepy half-closed eyes, a tiny yellow scarf, curled up asleep like a cat, curled up, while Bud, Rosie's little sister, a tiny cup of blush-pink rosebud milk tea in a small two-handled sippy cup, a closed pink rosebud on her lid, one tiny tapioca pearl, huge round eyes, holding a striped sock, reaches up to hug the cat.`
 **LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
 1. `Shot: wide shot. Scene: living-room party, bouncy castle. Action: the three of them bounce gently up and down in the castle. Character: the little pink rose-milk-tea cup with the striped straw — laughing, straw bouncing. Camera: holds still. Audio: soft bouncy squeaks, party chatter. No speech.`
 2. `Shot: medium close-up. Scene: party table, cake. Action: the eight candle flames flicker softly. Character: the little white almond-jelly cube in the party hat — jiggling with joy beside the cake. Camera: slowly pushes in. Audio: a gentle candle crackle, party chatter. No speech.`
-3. `Shot: medium shot. Scene: cream couch. Action: the cat opens one golden eye and slowly turns its head away from the hug. Character: the fluffy gray cat — sleepy, unbothered. Camera: holds still. Audio: a soft purr, a tiny sippy-cup squeak. No speech.`
+3. `Shot: medium shot. Scene: cream couch. Action: she opens one sleepy eye and slowly turns her head away from the hug. Character: the little blue penguin with the yellow scarf — sleepy, unbothered. Camera: holds still. Audio: a soft tiny snore, a tiny sippy-cup squeak. No speech.`
 4. `Shot: medium shot. Scene: living-room party. Action: he cups a hand to his mouth, calling across the room. Character: the tall dark oolong dad cup — warm, gentle face. Camera: slowly pans toward the bouncy castle. Audio: party chatter softening. No speech.`
 **Narration:**
-> On Saturday, the party was wonderful. Rosie bounced in the bouncy castle with Lulu and Marcus. There was a big **蛋糕** (dàngāo) = cake with eight candles. Lulu's fluffy gray cat, Dumpling, watched from the couch with sleepy golden eyes. Bud tried to hug the cat. The cat said no, politely.
+> On Saturday, the party was wonderful. Rosie bounced in the bouncy castle with Lulu and Marcus. There was a big **蛋糕** (dàngāo) = cake with eight candles. Cat the Penguin, Lulu's friend from Frostpeak, napped on the couch. Cat was a penguin. She was named Cat because she slept like one. Bud tried to hug her. Cat said no, politely.
 >
 > Then Rosie's dad said, "Five more minutes, Rosie!"
 
 ### Shot 6 — GATHERING (2:40–3:05)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A bright living room party. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, holding a pair of tiny shoes and a small bag, standing in front of a cream couch. On the couch, a small pink jacket, and curled up asleep right on top of it, Dumpling, a fluffy round gray cat with sleepy golden eyes and a white chin. Under a nearby snack table, Bud, Rosie's little sister, a tiny cup of blush-pink rosebud milk tea in a small two-handled sippy cup, a closed pink rosebud on her lid, one tiny tapioca pearl, huge round eyes, holding a striped sock, peeking out.`
+**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A bright living room party. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, holding a pair of tiny shoes and a small bag, standing in front of a cream couch. On the couch, a small pink jacket, and curled up asleep right on top of it, Cat, a small round little blue penguin with slate-blue feathers, a white tummy, sleepy half-closed eyes, a tiny yellow scarf, curled up asleep like a cat. Under a nearby snack table, Bud, Rosie's little sister, a tiny cup of blush-pink rosebud milk tea in a small two-handled sippy cup, a closed pink rosebud on her lid, one tiny tapioca pearl, huge round eyes, holding a striped sock, peeking out.`
 **LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
 1. `Shot: medium shot. Scene: party room, front door area. Action: she picks up the tiny shoes and hugs them to her cup. Character: the little pink rose-milk-tea cup with the striped straw — determined, checking things off. Camera: tracks beside. Audio: soft party chatter, a tiny shoe tap. No speech.`
 2. `Shot: low medium shot. Scene: under the snack table. Action: she crawls out from under the table, sock first. Character: the tiny rosebud sippy cup with the sock — proud wobble. Camera: tilts up. Audio: a tiny squeak, a tablecloth rustle. No speech.`
-3. `Shot: medium close-up. Scene: cream couch, pink jacket. Action: the cat's side rises and falls slowly, purring on the jacket. Character: the fluffy gray cat — eyes closed, blissful. Camera: slowly pushes in. Audio: a soft rumbling purr. No speech.`
+3. `Shot: medium close-up. Scene: cream couch, pink jacket. Action: her round white tummy rises and falls slowly, snoring on the jacket. Character: the little blue penguin with the yellow scarf — eyes closed, blissful. Camera: slowly pushes in. Audio: a soft tiny snore. No speech.`
 **Narration:**
 > Step one. Rosie climbed out of the castle. Step two. Shoes — by the door. Bag — on the hook. Bud — under the snack table. Jacket —
 >
-> The jacket was on the couch. And on the jacket was Dumpling, curled up, purring like a tiny motor.
+> The jacket was on the couch. And on the jacket was Cat, curled up, snoring like a tiny motor.
 
 ### Shot 7 — ROSE BREATH (3:05–3:35)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A bright living room party. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, her straw drooping all the way down, eyes closed, taking a slow breath. Beside her, crouching, Marcus, a tall friendly teenage boy with short curly dark hair, a soft green hoodie with a small round compass pin on the chest, jeans and white sneakers, a kind easy smile, tapping his compass pin. In the background, Lulu's mom, a larger cube of white almond jelly with a flowered apron, laughing and lifting Dumpling, a fluffy round gray cat with sleepy golden eyes and a white chin, off a small pink jacket on the couch.`
+**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A bright living room party. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, her straw drooping all the way down, eyes closed, taking a slow breath. Beside her, crouching, Marcus, a tall friendly teenage boy with short curly dark hair, a soft green hoodie with a small round compass pin on the chest, jeans and white sneakers, a kind easy smile, tapping his compass pin. In the background, Lulu's mom, a larger cube of white almond jelly with a flowered apron, laughing and lifting Cat, a small round little blue penguin with slate-blue feathers, a white tummy, sleepy half-closed eyes, a tiny yellow scarf, curled up asleep like a cat, off a small pink jacket on the couch.`
 **LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium close-up. Scene: party room, couch behind. Action: her striped straw droops all the way down. Character: the little pink rose-milk-tea cup with the striped straw — stuck, worried eyes. Camera: holds still. Audio: party chatter fading, a soft purr. No speech.`
+1. `Shot: medium close-up. Scene: party room, couch behind. Action: her striped straw droops all the way down. Character: the little pink rose-milk-tea cup with the striped straw — stuck, worried eyes. Camera: holds still. Audio: party chatter fading, a soft tiny snore. No speech.`
 2. `Shot: close-up. Scene: party room. Action: she closes her eyes and breathes in slowly, her straw rising a little. Character: the little pink rose-milk-tea cup with the striped straw — calm settling in. Camera: slowly pushes in. Audio: a long soft breath in. No speech.`
 3. `Shot: medium shot. Scene: party room. Action: he taps the compass pin on his hoodie twice and nods. Character: the tall teenage boy in the green hoodie — encouraging smile. Camera: holds still. Audio: a tiny metal tap. No speech.`
-4. `Shot: medium shot. Scene: cream couch. Action: she lifts the cat gently off the jacket, and the cat goes limp and long. Character: the almond-jelly mom in the flowered apron — laughing, kind eyes. Camera: slowly pans to the jacket. Audio: a big sleepy cat sigh. No speech.`
+4. `Shot: medium shot. Scene: cream couch. Action: she lifts the penguin gently off the jacket, and the penguin goes limp and floppy. Character: the almond-jelly mom in the flowered apron — laughing, kind eyes. Camera: slowly pans to the jacket. Audio: a big sleepy penguin sigh. No speech.`
 **Narration:**
 > This was not like practice. In practice, nobody was sleeping on the jacket. Rosie felt stuck. Her straw drooped all the way down. That's okay.
 >
@@ -279,19 +280,19 @@ One sock, one sister, one sleepy cup… and now, sleep tight.
 >
 > Marcus tapped his compass pin. "When something is in the way, you can ask for help. That's a step too."
 >
-> Rosie found Lulu's mom. "Excuse me. The cat is on my jacket. Can you help me?"
+> Rosie found Lulu's mom. "Excuse me. Cat is on my jacket. Can you help me?"
 >
-> "Dumpling!" laughed Lulu's mom. She scooped up the cat, who sighed a big cat sigh. Rosie got her jacket. It had one gray hair on it.
+> "Cat!" laughed Lulu's mom. She scooped up the penguin, who sighed a big penguin sigh. Rosie got her jacket. It had one blue feather.
 
 ### Shot 8 — THANK YOU (3:35–4:10)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A bright living room party beside a table with a round white cake with eight candles. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, now wearing her small pink jacket and bag, smiling up at three hosts: Lulu, a small wobbly cube of white almond jelly with a sweet shy smile, wearing a tiny paper party hat; Lulu's mom, a larger cube of white almond jelly with a flowered apron, holding Dumpling, a fluffy round gray cat with sleepy golden eyes and a white chin; and Lulu's dad, a big cube of white almond jelly with a shredded-coconut mustache, holding a bunch of balloons. Beside Rosie, Bud, Rosie's little sister, a tiny cup of blush-pink rosebud milk tea in a small two-handled sippy cup, a closed pink rosebud on her lid, one tiny tapioca pearl, huge round eyes, waving a striped sock.`
+**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A bright living room party beside a table with a round white cake with eight candles. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, now wearing her small pink jacket and bag, smiling up at three hosts: Lulu, a small wobbly cube of white almond jelly with a sweet shy smile, wearing a tiny paper party hat; Lulu's mom, a larger cube of white almond jelly with a flowered apron, holding Cat, a small round little blue penguin with slate-blue feathers, a white tummy, sleepy half-closed eyes, a tiny yellow scarf, curled up asleep like a cat; and Lulu's dad, a big cube of white almond jelly with a shredded-coconut mustache, holding a bunch of balloons. Beside Rosie, Bud, Rosie's little sister, a tiny cup of blush-pink rosebud milk tea in a small two-handled sippy cup, a closed pink rosebud on her lid, one tiny tapioca pearl, huge round eyes, waving a striped sock.`
 **LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
 1. `Shot: medium shot. Scene: party table, cake, three hosts. Action: she lifts her face to look at each host in turn and smiles. Character: the little pink rose-milk-tea cup with the striped straw — brave, warm smile, straw perked up. Camera: slowly pushes in. Audio: soft party music, a gentle candle crackle. No speech.`
 2. `Shot: medium close-up. Scene: party table. Action: she jiggles with happiness so her party hat tilts. Character: the little white almond-jelly cube in the party hat — delighted grin. Camera: holds still. Audio: a soft jelly wobble. No speech.`
-3. `Shot: medium shot. Scene: party table. Action: the balloons bob as he nods, and the cat in the mom's arms yawns. Character: the almond-jelly dad with the balloons — proud, warm nod. Camera: slowly pulls back. Audio: balloon strings rustling, a tiny cat yawn. No speech.`
+3. `Shot: medium shot. Scene: party table. Action: the balloons bob as he nods, and the penguin in the mom's arms yawns. Character: the almond-jelly dad with the balloons — proud, warm nod. Camera: slowly pulls back. Audio: balloon strings rustling, a tiny penguin yawn. No speech.`
 4. `Shot: low medium shot. Scene: party table. Action: she waves the striped sock high over her head. Character: the tiny rosebud sippy cup with the sock — beaming. Camera: holds still. Audio: a tiny sock swish, soft giggles. No speech.`
 **Narration:**
-> Step three. Rosie found Lulu by the cake. She found Lulu's mom, still holding the cat, and Lulu's dad, holding the balloons. Step four. She looked at their faces. She smiled.
+> Step three. Rosie found Lulu by the cake. She found Lulu's mom, still holding Cat, and Lulu's dad, holding the balloons. Step four. She looked at their faces. She smiled.
 >
 > "**Thank you for having us. We had fun!**"
 >
@@ -317,11 +318,11 @@ One sock, one sister, one sleepy cup… and now, sleep tight.
 2. `Shot: medium close-up. Scene: moonlit bedroom. Action: she snuggles deeper under the quilt and her eyes drift closed. Character: the little pink rose-milk-tea cup with the striped straw — sleepy, content smile. Camera: slowly pushes in. Audio: soft night crickets, a gentle lullaby hum. No speech.`
 3. `Shot: wide shot. Scene: moonlit bedroom. Action: the phone screen dims, and the lamp light fades to a soft glow. Character: the tiny rosebud sippy cup with the sock — asleep, sock held tight. Camera: slowly pulls back. Audio: a soft lullaby fading to quiet. No speech.`
 **Narration:**
-> That night, Tori called on her tiny phone. "I heard you thanked the hosts AND rescued your jacket from a cat! You've got this, little sip. **加油** (jiāyóu) = you can do it — and you DID."
+> That night, Tori called on her tiny phone. "I heard you thanked the hosts AND rescued your jacket from a penguin named Cat! You've got this, little sip. **加油** (jiāyóu) = you can do it — and you DID."
 >
-> Rosie snuggled into bed. Bud snuggled in next to her, still holding the sock. "One step at a time," Rosie said sleepily. "One sip at a time."
+> Rosie snuggled into bed. Bud snuggled in beside her, still holding the sock. "One step at a time," Rosie said sleepily. "One sip at a time."
 
 ### 🖼️ Sample Images (to generate first)
-1. **Key scene** — `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A bright living room birthday party with pastel balloons beside a round white cake with eight candles. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, wearing a small pink jacket and bag, smiling up at Lulu, a small wobbly cube of white almond jelly with a sweet shy smile, wearing a tiny paper party hat; Lulu's mom, a larger cube of white almond jelly with a flowered apron, holding Dumpling, a fluffy round gray cat with sleepy golden eyes and a white chin; and Lulu's dad, a big cube of white almond jelly with a shredded-coconut mustache, holding a bunch of balloons. Beside Rosie, Bud, Rosie's little sister, a tiny cup of blush-pink rosebud milk tea in a small two-handled sippy cup, a closed pink rosebud on her lid, one tiny tapioca pearl, huge round eyes, waving a striped sock. Behind them, Marcus, a tall friendly teenage boy with short curly dark hair, a soft green hoodie with a small round compass pin on the chest, jeans and white sneakers, a kind easy smile, giving a thumbs-up.`
-2. **Character portrait** — `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Clean soft cream background, full-body character lineup facing the viewer: Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw in the center; Bud, Rosie's little sister, a tiny cup of blush-pink rosebud milk tea in a small two-handled sippy cup, a closed pink rosebud on her lid, one tiny tapioca pearl, huge round eyes, holding a striped sock, beside her; Marcus, a tall friendly teenage boy with short curly dark hair, a soft green hoodie with a small round compass pin on the chest, jeans and white sneakers, a kind easy smile, standing on the left; Feng, a perfect golden rectangle of pineapple cake with slightly crumbly edges and a jammy golden pineapple heart, wrapped in elegant shiny gold gift paper with a ribbon bow on top, tiny arms and legs, proud polite smile, and Mochi, a soft pillowy white mochi blob dusted with powdery potato starch, rosy pink cheeks, a big happy smile, and long stretchy taffy-like arms, on the right; Dumpling, a fluffy round gray cat with sleepy golden eyes and a white chin, curled at their feet. All smiling, even lighting, good as a character reference sheet.`
+1. **Key scene** — `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A bright living room birthday party with pastel balloons beside a round white cake with eight candles. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, wearing a small pink jacket and bag, smiling up at Lulu, a small wobbly cube of white almond jelly with a sweet shy smile, wearing a tiny paper party hat; Lulu's mom, a larger cube of white almond jelly with a flowered apron, holding Cat, a small round little blue penguin with slate-blue feathers, a white tummy, sleepy half-closed eyes, a tiny yellow scarf, curled up asleep like a cat; and Lulu's dad, a big cube of white almond jelly with a shredded-coconut mustache, holding a bunch of balloons. Beside Rosie, Bud, Rosie's little sister, a tiny cup of blush-pink rosebud milk tea in a small two-handled sippy cup, a closed pink rosebud on her lid, one tiny tapioca pearl, huge round eyes, waving a striped sock. Behind them, Marcus, a tall friendly teenage boy with short curly dark hair, a soft green hoodie with a small round compass pin on the chest, jeans and white sneakers, a kind easy smile, giving a thumbs-up.`
+2. **Character portrait** — `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Clean soft cream background, full-body character lineup facing the viewer: Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw in the center; Bud, Rosie's little sister, a tiny cup of blush-pink rosebud milk tea in a small two-handled sippy cup, a closed pink rosebud on her lid, one tiny tapioca pearl, huge round eyes, holding a striped sock, beside her; Marcus, a tall friendly teenage boy with short curly dark hair, a soft green hoodie with a small round compass pin on the chest, jeans and white sneakers, a kind easy smile, standing on the left; Feng, a perfect golden rectangle of pineapple cake with slightly crumbly edges and a jammy golden pineapple heart, wrapped in elegant shiny gold gift paper with a ribbon bow on top, tiny arms and legs, proud polite smile, and Mochi, a soft pillowy white mochi blob dusted with powdery potato starch, rosy pink cheeks, a big happy smile, and long stretchy taffy-like arms, on the right; Cat, a small round little blue penguin with slate-blue feathers, a white tummy, sleepy half-closed eyes, a tiny yellow scarf, curled up asleep like a cat, curled at their feet. All smiling, even lighting, good as a character reference sheet.`
 3. **Closing scene** — `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A cozy moonlit bedroom. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, tucked under a soft quilt, eyes closed, peaceful. Snuggled beside her, Bud, Rosie's little sister, a tiny cup of blush-pink rosebud milk tea in a small two-handled sippy cup, a closed pink rosebud on her lid, one tiny tapioca pearl, huge round eyes, holding a striped sock, asleep. A small card with five doodles leans against a dim lamp on the nightstand, and one pastel balloon floats gently near the ceiling.`

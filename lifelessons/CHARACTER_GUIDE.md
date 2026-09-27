@@ -27,8 +27,11 @@
 - **Appearance:** Short curly dark hair, a soft green hoodie with a small round compass pin on the chest, jeans and white sneakers, a kind easy smile.
 - **Voice:** Short, friendly, a little dry. Great pretend-dad voice.
 
-### Dumpling — Lulu's cat
-- A fluffy round gray cat with sleepy golden eyes and a white chin. Sleeps on whatever is softest, including your jacket. Says no to hugs, politely.
+### Cat — Little Blue Penguin (from Frostpeak), Lulu's friend
+- **Catchphrase:** "Five more minutes." (of napping)
+- **Personality:** A penguin named Cat. She got the name because she sleeps like one — curled up on whatever is softest, including your jacket. Calm, quiet, a champion napper. Says no to hugs, politely. Visits from the Frostpeak / Penguinsnowboard universe.
+- **Appearance:** A small round little blue penguin with slate-blue feathers, a white tummy, sleepy half-closed eyes, and a tiny yellow scarf. Usually curled up asleep like a cat. Leaves one blue feather behind.
+- **Voice:** Mostly yawns.
 
 ## Coaches (from the other Boba Bedtime Stories collections)
 
