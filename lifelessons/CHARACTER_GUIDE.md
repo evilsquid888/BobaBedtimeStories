@@ -15,6 +15,21 @@
 - **Appearance:** A taller cup of golden-amber rose-lychee oolong tea with pearly white lychee jelly cubes, a darker rose petal on her lid, and a tall green straw. Wears a tiny phone clipped to her cup sleeve.
 - **Voice:** Warm, encouraging, a little silly.
 
+### Bud — Rosebud Milk Tea (玫瑰花苞奶茶 méiguī huābāo nǎichá), Rosie's little sister
+- **Catchphrase:** "Bye-bye!" (usually while waving a sock)
+- **Personality:** Tiny, curious, and always somewhere unexpected — under a table, behind a couch, hugging a cat that did not ask to be hugged. Adores Rosie. Part of "find everything and gather" in any story where the family goes out.
+- **Appearance:** A tiny cup of blush-pink rosebud milk tea in a small two-handled sippy cup, a closed pink rosebud on her lid, one tiny tapioca pearl, huge round eyes, and a striped sock she carries everywhere.
+- **Voice:** One or two words at a time.
+
+### Marcus — teen Inclusive Navigator (human)
+- **Catchphrase:** "That's a step too."
+- **Personality:** Fifteen, tall, calm, and kind. Rosie's next-door neighbor. An **Inclusive Navigator** — a teen helper who shows kids the steps for tricky places (parties, new buildings, crowds). Has "left about a hundred parties, mostly on purpose." Models the steps first, then lets Rosie do them herself, and reminds her that asking for help is a step too.
+- **Appearance:** Short curly dark hair, a soft green hoodie with a small round compass pin on the chest, jeans and white sneakers, a kind easy smile.
+- **Voice:** Short, friendly, a little dry. Great pretend-dad voice.
+
+### Dumpling — Lulu's cat
+- A fluffy round gray cat with sleepy golden eyes and a white chin. Sleeps on whatever is softest, including your jacket. Says no to hugs, politely.
+
 ## Coaches (from the other Boba Bedtime Stories collections)
 
 **Taiwan crew** (see `/CHARACTER_GUIDE.md`)

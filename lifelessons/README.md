@@ -1,6 +1,6 @@
 # 🌹 Life Lessons — Rosie's Step-by-Step Stories
 
-10 cozy bedtime stories that teach everyday social skills, one clear step at a time. **Rosie the Rose Milk Tea** is a sweet, slightly nervous little drink who gets brave once she knows the steps. Friends from the Taiwan, Japan, and Costa Rica collections coach her. Her big sister **Tori** is always there to cheer.
+11 cozy bedtime stories that teach everyday social skills, one clear step at a time. **Rosie the Rose Milk Tea** is a sweet, slightly nervous little drink who gets brave once she knows the steps. Friends from the Taiwan, Japan, and Costa Rica collections coach her. Her big sister **Tori** is always there to cheer, and her little sister **Bud** tags along (usually with a sock).
 
 Written as a gentle social-skills guide (in the style of social stories), and useful for kids who do best with clear, literal, repeatable steps.
 
@@ -28,6 +28,7 @@ See also: [Character Guide](CHARACTER_GUIDE.md) · [Writing Spec](SPEC.md) · [�
 | 8 | [Rosie Buys Boba](stories/08-rosie-buys-boba.md) | Ordering boba (sugar and ice levels) | "Hi! Can I please have a pearl milk tea, half sugar, less ice?" | Boba 🇹🇼, Hóng Dòu 🇹🇼, Tama Onigiri 🇯🇵 |
 | 9 | [Rosie Finds a Safe Helper](stories/09-rosie-finds-a-safe-helper.md) | What to do if separated from a grown-up | "I can't find my mom. Can you help me?" | Caǎo 🇹🇼, Estrella 🇨🇷, Flan 🇨🇷 |
 | 10 | [Rosie Pays at the Checkout](stories/10-rosie-pays-at-the-checkout.md) | Paying and waiting for change | "Hi! Just this, please." | Feng 🇹🇼, Neko-Pan 🇯🇵, Lala 🇨🇷 |
+| 11 | [Rosie Says Goodbye at the Party](stories/11-rosie-says-goodbye-at-the-party.md) | Leaving a party: gather, find the hosts, say thank you, leave together | "Thank you for having us. We had fun!" | Marcus 🧭 (teen Inclusive Navigator), Feng 🇹🇼, Mochi 🇹🇼 |
 
 ## Making the videos (LTX 2.5 / 2.3)
 See **[LTX_GUIDE.md](LTX_GUIDE.md)** for the full guide. The short version:
