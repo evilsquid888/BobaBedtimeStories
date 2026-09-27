@@ -23,8 +23,8 @@
 
 ### Marcus — teen Inclusive Navigator (human)
 - **Catchphrase:** "That's a step too."
-- **Personality:** Fifteen, tall, calm, and kind. Rosie's next-door neighbor. An **Inclusive Navigator** — a teen helper who shows kids the steps for tricky places (parties, new buildings, crowds). Has "left about a hundred parties, mostly on purpose." Models the steps first, then lets Rosie do them herself, and reminds her that asking for help is a step too.
-- **Appearance:** Short curly dark hair, a soft green hoodie with a small round compass pin on the chest, jeans and white sneakers, a kind easy smile.
+- **Personality:** Fifteen, a tall Asian kid, calm and kind. Rosie's next-door neighbor. An **Inclusive Navigator** — a teen helper who shows kids the steps for tricky places (parties, new buildings, crowds). Has "left about a hundred parties, mostly on purpose." Models the steps first, then lets Rosie do them herself, and reminds her that asking for help is a step too.
+- **Appearance:** Tall Asian teen with short wavy black hair, warm brown eyes, a soft green hoodie with a small round compass pin on the chest, jeans and white sneakers, a kind easy smile.
 - **Voice:** Short, friendly, a little dry. Great pretend-dad voice.
 
 ### Cat — Little Blue Penguin (from Frostpeak), Lulu's friend
