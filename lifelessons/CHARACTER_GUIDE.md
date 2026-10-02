@@ -34,6 +34,28 @@
 - **Voice:** Mostly yawns. Her huge slow yawn looks a lot like a Rose breath.
 - **Prompts:** token `CAT`, ID phrase "the little blue penguin with the yellow scarf"; in stills always write "CAT the little blue penguin" (the name alone can draw a kitten), and "napping"/"dozing" in day shots ("asleep" switches the pipeline to the night look).
 
+## Rosie's friends and family (recurring)
+
+### Mom — Rose Milk Tea (Rosie's mom)
+- **Personality:** Kind, calm, big and gentle. Comes along when the skill needs a grown-up (the store, the bus, a phone game) and stands back so Rosie does the talking. Her name is Mei.
+- **Appearance / prompt:** token `MOM` — `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`. ID phrase: "the tall rose-milk-tea mom cup with the pink lid".
+- **Dad** is narrated only (he calls "Five more minutes!") and is never drawn.
+
+### Lulu — Almond Jelly (Rosie's friend, stories 06 and 11)
+- **Personality:** Shy, sweet, builds sandcastles alone until Rosie asks to play; turns eight in story 11.
+- **Appearance / prompt:** token `LULU` — `Lulu, a small wobbly glossy cube of white almond jelly with a sweet shy smile, rosy cheeks, tiny arms` (add "holding a tiny red bucket" or "wearing a tiny striped paper party hat" as the story needs).
+
+### Guagua — Sweet Potato Ball (Rosie's friend, stories 01 and 12)
+- **Personality:** Shy, loves pandas and the zoo; met Rosie on the train; a careful, kind playmate who hands over the phone for the next turn.
+- **Appearance / prompt:** token `GUAGUA` — `Guagua, a small round golden-orange Sweet Potato Ball with a crispy puffed surface, shy big eyes, rosy cheeks, tiny arms and legs, wearing a little yellow backpack with a white star on it` (in day stills call the star "a white five-pointed shape" so the pipeline stays in the day look).
+
+### Tang — Tanghulu (Rosie's classmate, story 16)
+- **Personality:** Tall, thin, friendly; the kid next to Rosie in art class who helps mop up the blue paint.
+- **Appearance / prompt:** token `TANG` — `Tang the Tanghulu, a tall thin bamboo skewer of five glossy candied strawberries shining like red glass, a sweet friendly face on the top berry, tiny arms`.
+
+### Kind grown-ups (one story each)
+Each gets a token and a short design in that story's Cast list: the librarian (07), the tea-stall cashier (08), Pat the store worker (09), June the gift-shop cashier (10), Lulu's mom and dad (11), the bus driver (13), the dentist (14), the stall auntie (15), the art teacher (16).
+
 ## Coaches (from the other Boba Bedtime Stories collections)
 
 **Taiwan crew** (see `/CHARACTER_GUIDE.md`)
@@ -49,7 +71,7 @@
 
 **Japan crew** (see `/japan/CHARACTER_GUIDE.md`)
 - **Momo Mochi** — peach-cheeked daifuku, "Squish together, stay together!"
-- **Niko Nigiri** — tidy salmon nigiri, "Let's do this neatly... or deliciously!"
+- **Niko Nigiri** — tidy salmon nigiri, "Let's do this neatly... or deliciously!" (plays the dentist in 14)
 - **Pock Ramune** — fizzy marble-soda bottle, "Pop the marble — let the fun fizz out!"
 - **Dai Daruma** — roly-poly daruma bun, "Fall down seven, bounce up eight!"
 - **Dora the Dorayaki** — story-loving pancake sandwich in a beret, "A good story is the best filling."

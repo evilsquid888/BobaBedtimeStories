@@ -1,6 +1,6 @@
 # Life Lessons — Writing Spec
 
-These stories teach a real child (who may have special needs) how to handle everyday social situations. Rosie the Rose Milk Tea is the hero; the child should be able to copy exactly what Rosie does. Each story is also the script for a **5-minute bedtime video** made with the local pipeline (`~/dev/bobavideo-pipeline/bedtime-video-pipeline`: Qwen-Image-2.1 stills → LTX-2.5 → Kokoro narration).
+These stories teach a real child (who may have special needs) how to handle everyday social situations. Rosie the Rose Milk Tea is the hero; the child should be able to copy exactly what Rosie does. New to the series? Start with [STORY_GUIDE.md](STORY_GUIDE.md). Each story is also the script for a **5-minute bedtime video** made with the local pipeline (`~/dev/bobavideo-pipeline/bedtime-video-pipeline`: Qwen-Image-2.1 stills → LTX-2.5 → Kokoro narration).
 
 ## Length — the 5-minute budget (measured, not guessed)
 The video runs as long as the narration. Measured on Rosie story 122 with Kokoro `jf_alpha,af_heart` at speed 0.92 and 0.8 s gaps: **940 words = 7:00**. That's ~2.6 words a second of speech, plus 0.8 s per beat.
@@ -30,6 +30,9 @@ Check every story with `python3 lifelessons/check_storyboard.py lifelessons/stor
 - Cat appears in **every story**, in **at least 2 shots**, with **one laugh line** (usually where she has fallen asleep this time: in the shopping cart, on the warm espresso machine, in the book-return bin...).
 - Cat never teaches and never gets in the way of the steps — except in story 11, where napping on Rosie's jacket *is* the hiccup. She can give one quiet "Five more minutes" or a huge yawn. A big slow penguin yawn can echo Rosie's Rose breath.
 - First mention in each story names her plainly: "Cat the penguin" (so a listener never pictures a cat).
+
+## Places — a new one every story
+No two stories practice in the same place, and no two visit the same real place. Pick both before writing, make them fit the lesson and the coaches, give each a palette pair, one atmospheric touch and 4–6 props that could only be there, and change the camera angle every shot. The registry of used places and the full method are in [STORY_GUIDE.md](STORY_GUIDE.md) §5. The two fixed stills (the Rose-breath close-up and the final bedroom at night) keep their shape but take props and a new angle from the day; Tori's moment moves too.
 
 ## Tone & style
 - Warm, playful, cozy narrator; a laugh in every scene (from coaches' personalities and Cat). Nothing scary or sad. No "getting eaten" endings in this collection.
