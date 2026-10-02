@@ -3,7 +3,7 @@
 **Life skill:** Paying for something by herself at a checkout counter — waiting in line, putting the item down, greeting the cashier, paying, waiting for change and receipt, and saying thank you.
 **Magic sentence:** "Hi! Just this, please."
 **Coaches:** Feng the Pineapple Cake (Taiwan), Neko-Pan the lucky-cat bun (Japan), Lala the Tres Leches (Costa Rica)
-**Setting:** Rosie's kitchen (practice) and Paper Moon Gifts, a cozy little gift shop (for real) — buying a birthday card for big sister Tori
+**Setting:** Rosie's kitchen (practice) and Paper Moon Gifts, a cozy little gift shop (for real) — buying a birthday card for big sister Tori, with Cat the penguin napping in Rosie's tote bag
 
 ---
 
@@ -11,323 +11,278 @@
 
 Rosie the Rose Milk Tea had a secret. Tomorrow was her big sister Tori's birthday. Rosie wanted to buy Tori a card. All by herself.
 
-"By myself?" Rosie whispered. Her pink-striped straw drooped a little. "What's the next step?"
+"By myself?" Rosie whispered. Her pink-striped straw drooped. "What's the next step?"
 
 "The next step," said a voice from the doorway, "is ME!"
 
-In marched Feng the Pineapple Cake, wrapped in shiny gold paper with a bow on top. Behind him came Neko-Pan, the lucky-cat bun, waving one paw. Last came Lala the Tres Leches, *squish, squish*, leaving little milky footprints on the rug.
+In marched Feng the Pineapple Cake. Behind him came Neko-Pan, the lucky-cat bun. He waved at Rosie. Then at the lamp. Then at a sock.
 
-"A birthday present!" Feng pressed a crumbly hand to his wrapping. "I was born for this. I was born to be wrapped beautifully."
+Last came Lala the Tres Leches. "Ooh, a **禮物** (lǐwù) = gift! Soak it all in!"
 
-"Wave for luck!" said Neko-Pan. He waved at Rosie. Then at the lamp. Then at a sock.
+Rosie giggled. On the couch, Cat the penguin lifted her head. Cat was staying with Rosie's family. She napped like a cat, which is how she got her name. "Snack time?" she yawned. It was not.
 
-"Ooh, a **禮物** (lǐwù) = gift," Lala swooned. "Soak it all in!"
+Feng stood behind the table like a cashier. "Paying has steps," he said. "Like a very polite dance."
 
-Rosie giggled. Her straw wiggled back up.
-
-Feng stood behind the kitchen table like it was a store counter. "Paying at the checkout has steps," he said. "Like a very polite dance."
-
-**Rosie's Steps:**
+**Rosie's Steps**
 1. Wait in line.
-2. When it's your turn, put your item on the counter.
+2. Put your item on the counter.
 3. Smile and say, **"Hi! Just this, please."**
 4. Listen for the price. Hand over your money.
-5. Wait. Hold out your hand for your change and receipt. Put them in your wallet.
+5. Wait. Hold out your hand for your change and receipt.
 6. Say, **"Thank you, have a nice day!"** Then take your bag.
 
-"Here is the magic sentence," said Feng. **"Hi! Just this, please."** "Short. Polite. Elegant. Like me."
+"Step five is my favorite," Lala sighed. "Waiting. Don't rush off."
 
-Neko-Pan raised his paw. "At the very end, you can wave and say, 'Bye!' A wave is lucky for everybody."
-
-"Step five is my favorite," Lala sighed. "Waiting. Don't rush off. Let the drawer go *ding*."
-
-Then they practiced. Feng was the cashier. He wore a paper-towel name tag: FENG — CASHIER — VERY IMPORTANT. Rosie's pretend card was a napkin. Her pretend money was a green crayon drawing that said $5. Rosie said each step out loud as she did it:
+Feng played the cashier. His paper-towel name tag said VERY IMPORTANT. Rosie said each step out loud:
 
 1. Wait in line.
-2. When it's your turn, put your item on the counter.
+2. Put your item on the counter.
 3. Smile and say, **"Hi! Just this, please."**
 4. Listen for the price. Hand over your money.
-5. Wait. Hold out your hand for your change and receipt. Put them in your wallet.
+5. Wait. Hold out your hand for your change and receipt.
 6. Say, **"Thank you, have a nice day!"** Then take your bag.
 
-"Magnificent!" said Feng. He was so pleased that he wrapped the napkin in three layers of foil. Rosie practiced two more times. On the third time, she didn't even need to say the steps out loud.
+"Magnificent!" said Feng, and wrapped her pretend card in three layers of foil.
 
-The next day, the coaches walked Rosie to Paper Moon Gifts. "We'll wait right here by the door," said Feng. "You'll be able to see us the whole time."
+The next day, everyone walked to Paper Moon Gifts. Cat rode in Rosie's tote bag. "We'll wait by the door," said Feng. "You can see us the whole time."
 
-Rosie found the perfect card. It had a smiling lychee on it and said HAPPY BIRTHDAY in gold letters. Her straw drooped a little. Rosie felt nervous. That's okay. She thought, *One step at a time, one sip at a time.*
+Rosie found a card with a smiling lychee on it. She felt nervous. That's okay.
 
 Step one. She waited in line behind a man holding a cactus.
 
-Step two. It was her turn. She put the card on the counter.
+Step two. She put the card on the counter.
 
-Step three. Rosie smiled up at the cashier. Her name tag said JUNE. **"Hi! Just this, please."**
+Step three. Rosie smiled up at the cashier, June. **"Hi! Just this, please."**
 
-"Hi there!" said June. She scanned the card. *Beep!* "That's three dollars and fifty cents."
+Beep! "That's three dollars and fifty cents," said June.
 
-Step four. Rosie listened. She took the five-dollar bill out of her wallet and handed it over.
+Step four. Rosie handed over her five-dollar bill.
 
-Then June asked, "Is this a gift? Would you like a little gift bag?"
+Then June asked, "Is this a gift? Would you like a gift bag?"
 
-Uh-oh. Nobody had practiced that part. Rosie's straw drooped all the way down. She felt surprised.
+Uh-oh. Nobody had practiced that! Rosie's straw drooped all the way down. That's okay.
 
-That's okay. Rosie did a Rose breath. Smell the rose: in, two, three, four. Blow out the candle: out, two, three, four.
+Rosie did a Rose breath. Smell the rose — in, two, three, four. Blow out the candle — out, two, three, four.
 
-Then she said the backup sentence. "Yes, please."
+Then she said, "Yes, please."
 
-"Coming right up," said June. She slid the card into a tiny pink bag and set it on the counter.
+June slid the card into a tiny pink bag. By the door, Feng clutched his wrapper. "A GIFT BAG," he whispered. "Exquisite."
 
-By the door, Feng clutched his wrapping. "A GIFT BAG," he whispered. "Exquisite."
+Rosie turned to go — then stopped. Step five. Wait for the change!
 
-The bag was so pretty that Rosie turned toward the door. She took one hop. Then she stopped.
+Rosie held out her hand. "Here's your change," said June, "and your receipt."
 
-*Wait. Step five. Wait for the change!*
+She tucked them into her tote, next to Cat, snoring on the wallet. "Five more minutes," mumbled Cat.
 
-Rosie turned back and held out her hand. June smiled. "Almost forgot! Here's one dollar and fifty cents. And here's your receipt."
+Step six. **"Thank you, have a nice day!"** Then Rosie took her bag.
 
-Rosie put the money and the receipt in her wallet. *Zip.*
-
-Step six. **"Thank you, have a nice day!"** Then she took her bag.
-
-"You too!" said June.
-
-Rosie waved. "Bye!"
-
-At the door, Neko-Pan waved back so hard that his bell went *jingle-jingle-jingle*. Lala dabbed her eyes with whipped cream. "I'm soaking it ALL in," she sniffed.
+At the door, Neko-Pan waved so hard his bell went jingle-jingle-jingle. Lala dabbed her eyes with whipped cream.
 
 The next morning, Rosie gave Tori the pink bag. "**生日快樂** (shēngrì kuàilè) = Happy birthday!"
 
-Tori opened the card and gasped. "The lychee is smiling at me! Where did you get it?"
+"I paid all by myself," said Rosie.
 
-"At the gift shop," said Rosie. "I paid all by myself. I even waited for the change." She held up her receipt.
+Tori hugged her. "You've got this, little sip."
 
-Tori scooped her into a big hug. "You've got this, little sip. You really, really do."
-
-Rosie's straw wiggled so fast it made a tiny *whirr*. She felt proud. One step at a time, one sip at a time.
+Rosie's straw wiggled so fast it went whirr.
 
 ---
 
 ## 🌹 Rosie's Steps (Recap)
 1. Wait in line.
-2. When it's your turn, put your item on the counter.
+2. Put your item on the counter.
 3. Smile and say, **"Hi! Just this, please."**
 4. Listen for the price. Hand over your money.
-5. Wait. Hold out your hand for your change and receipt. Put them in your wallet.
+5. Wait. Hold out your hand for your change and receipt.
 6. Say, **"Thank you, have a nice day!"** Then take your bag.
 
 **If something surprising happens:** Rose breath, then say: "Yes, please." or "No, thank you."
 
 ## 💬 Practice Together (for grown-ups)
-- Set up a pretend shop at the kitchen table: one item, a little wallet with real coins and a bill, and a paper receipt. Take turns being the cashier and the shopper, and have your child say each step out loud the first few times.
-- Mix in the "surprise" questions real cashiers ask — "Do you want a bag?", "Is this a gift?", "Would you like your receipt?" — and practice a Rose breath followed by "Yes, please." or "No, thank you." Any polite answer is a right answer.
-- Praise the waiting: "You held out your hand and waited for your change — that was step five!" Walking away too early is very common, so celebrate every time she remembers.
-- For the real thing, pick a quiet store at a quiet time and a small item with a round price. Stand where she can see you (like the coaches at the door), and let her do every step herself, even if it's slow.
+- Set up a pretend shop at the kitchen table: one item, a little wallet with real coins and a bill, and a paper receipt. Take turns being the cashier and the shopper, and have your child say each step out loud the first few times. A stuffed toy "Cat" napping in the shopping bag makes it more fun.
+- Mix in the surprise questions real cashiers ask — "Do you want a bag?", "Is this a gift?", "Would you like your receipt?" — and practice a Rose breath followed by "Yes, please." or "No, thank you." Any polite answer is a right answer.
+- Praise the waiting: "You held out your hand and waited for your change — that was step five!" Walking away too early is very common, so celebrate every time your child remembers.
+- For the real thing, pick a quiet store at a quiet time and a small item with a round price. Stand where your child can see you (like the coaches by the door), and let them do every step, even if it's slow.
 
 ## 🌙 Goodnight Blessing
 Goodnight, little shopper, your wallet zipped tight.
-Goodnight to the counter, the drawer, and the light.
-You waited, you smiled, you said thank you and bye —
-now tuck in your straw, and close each sleepy eye.
-One step at a time, one sip at a time.
-Sweet dreams.
+Goodnight, Cat, still snoring in the tote bag.
+You waited, you smiled, you said thank you and bye.
+One step at a time. Sweet dreams.
 
 ---
 
-## 🎬 Video Storyboard (LTX)
+## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~5:00 · **Shots:** 10
-**Art style (use on ALL shots):** Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9.
-**Character reference — Rosie:** Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw
-**Character reference — coaches:**
-- Feng, a perfect golden rectangle of pineapple cake with slightly crumbly edges and a jammy golden pineapple heart, wrapped in elegant shiny gold gift paper with a ribbon bow on top, tiny arms and legs, proud polite smile
-- Neko-Pan, a round cream-colored melon cream bun shaped like a beckoning lucky cat with one paw raised in a wave, a gold-foil collar with a tiny bell, cheerful smiling face
-- Lala, a soft squishy pale-gold square of tres leches cake glistening with sweet milk, topped with a wobbly cloud of whipped cream and a single cinnamon dot, dreamy half-closed eyes, tiny arms and legs
-- Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve
-- June, a kind smiling human cashier woman with a cardigan and a small name tag
+**Runtime:** ~4:36 (est.) · **Narrated words:** 608 · **Stills:** 20 · **Beats:** 47
+**Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
+**Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
+**Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
+**Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: JUNE and CACTUSMAN only.
+- `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `FENG` → Feng, the gold-wrapped pineapple cake with the ribbon bow · `Feng, a perfect golden rectangle of pineapple cake with slightly crumbly edges and a jammy golden pineapple heart, wrapped in elegant shiny gold gift paper with a red ribbon bow on top, tiny arms and legs, a proud polite smile`
+- `NEKOPAN` → Neko-Pan, the round lucky-cat melon bun with the gold bell collar · `Neko-Pan, a round cream-colored melon cream bun shaped like a beckoning lucky cat with a crackly cookie-crust top, little cat ears, one paw raised in a wave, a gold-foil collar with a tiny bell, big shiny happy eyes, tiny arms`
+- `LALA` → Lala, the squishy tres leches cake with the whipped-cream top · `Lala, a soft squishy pale-gold square of tres leches cake glistening with sweet milk, topped with a wobbly cloud of whipped cream and a single cinnamon dot, dreamy half-closed eyes, rosy cheeks, tiny arms and legs`
+- `JUNE` → June, the kind cashier in the yellow cardigan · `June, a kind smiling woman cashier with curly brown hair in a bun, a mustard-yellow cardigan over a teal apron, and a small blank name tag`
+- `CACTUSMAN` → the tall man in the plaid shirt with the cactus · `a tall friendly man in a red plaid shirt with a short beard, holding a small potted cactus with one pink flower`
+- `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 
-**LTX settings:** 1280×704 · 193 frames (~8 s) per beat · guide strength 0.75 · see `LTX_GUIDE.md`
-**Negative prompt (all beats):** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
-**ID phrases (use word-for-word in every beat):**
-- Rosie → the little pink rose-milk-tea cup with the striped straw
-- Tori → the tall golden lychee-tea cup with the green straw
-- Feng → the gold-wrapped pineapple cake with the ribbon bow
-- Neko-Pan → the round lucky-cat melon bun with the gold bell collar
-- Lala → the squishy tres leches cake with the whipped-cream top
-- June → the kind cashier in the cardigan
+### Shot 1 — TITLE · day
+**Still:** `Low angle across a sunny living-room rug: tiny ROSIE sits holding a small purple wallet in front of her cup, thinking hard, straw slightly drooping. Behind her a blank wall calendar of plain squares with one square circled by a pink doodle heart, a framed picture of a golden lychee, a shelf of little potted succulents, coral cushions, a teal armchair, sunlight slanting through gauzy curtains with dust motes floating.`
+1. **Narration:** Rosie the Rose Milk Tea had a secret. Tomorrow was her big sister Tori's birthday.
+   `Shot: medium shot. Scene: the sunny living-room rug. Action: ROSIE glances at the calendar heart and clutches the purple wallet closer, while dust motes drift in the sunbeam. Character: the little pink rose-milk-tea cup with the striped straw — secret-keeping sparkle in her eyes. Camera: slowly pushes in. Audio: soft birdsong, a ticking clock, no music, no voices, no speech.`
+2. **Narration:** Rosie wanted to buy Tori a card. All by herself.
+   `Shot: medium close-up. Scene: the same sunny rug. Action: ROSIE opens the little wallet and peeks inside with a hopeful smile. Character: the little pink rose-milk-tea cup with the striped straw — determined and excited. Camera: slowly pans right. Audio: a tiny zipper sound, a ticking clock, no music, no voices, no speech.`
+3. **Narration:** "By myself?" Rosie whispered. Her pink-striped straw drooped. "What's the next step?"
+   `Shot: medium close-up. Scene: the same sunny rug. Action: ROSIE's striped straw slowly droops and she looks toward the doorway. Character: the little pink rose-milk-tea cup with the striped straw — excitement turning to worry. Camera: holds still. Audio: a ticking clock, no music, no voices, no speech.`
 
-### Shot 1 — TITLE (0:00–0:30)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, sitting on a cozy living-room rug at evening, holding a small purple wallet and looking thoughtful, her straw slightly drooping, a birthday calendar on the wall with tomorrow circled in pink.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: cozy living room, evening. Action: Rosie looks down at the purple wallet in her hands. Character: the little pink rose-milk-tea cup with the striped straw — thoughtful, secret-keeping eyes. Camera: The camera slowly pushes in. Audio: Quiet evening room tone, a soft clock tick. No speech.`
-2. `Shot: close-up. Scene: same rug. Action: Rosie's straw droops a little. Character: the little pink rose-milk-tea cup with the striped straw — shy, unsure eyes. Camera: The camera holds still. Audio: Soft clock tick. No speech.`
-3. `Shot: medium shot. Scene: same room, toward the doorway. Action: Rosie turns her head toward the doorway. Character: the little pink rose-milk-tea cup with the striped straw — eyes widen with surprise. Camera: The camera slowly pans right toward the doorway. Audio: Faint footsteps approaching. No speech.`
-**Narration:**
-> Rosie the Rose Milk Tea had a secret. Tomorrow was her big sister Tori's birthday. Rosie wanted to buy Tori a card. All by herself.
->
-> "By myself?" Rosie whispered. Her pink-striped straw drooped a little. "What's the next step?"
->
-> "The next step," said a voice from the doorway, "is ME!"
+### Shot 2 — THE COACHES MARCH IN · day
+**Still:** `The bright living-room doorway seen straight on: FENG marches in proudly, chest out, gold wrapper gleaming and red bow bouncing; just behind him NEKOPAN waves one paw high, his gold bell sparkling. A coat rack, a potted monstera, a striped teal runner rug, framed pictures, a coral lamp, and a stray sock on the floor, sunshine pouring through the open front door behind them.`
+4. **Narration:** "The next step," said a voice from the doorway, "is ME!" In marched Feng the Pineapple Cake.
+   `Shot: wide shot. Scene: the sunny living-room doorway. Action: FENG marches forward with a proud little stomp and strikes a pose, while sunshine flares behind him. Character: Feng, the gold-wrapped pineapple cake with the ribbon bow — grand and delighted. Camera: slowly pushes in. Audio: a door creak, a crinkle of paper, no music, no voices, no speech.`
+5. **Narration:** Behind him came Neko-Pan, the lucky-cat bun.
+   `Shot: medium shot. Scene: the sunny doorway. Action: NEKOPAN steps forward and his gold bell swings and sparkles. Character: Neko-Pan, the round lucky-cat melon bun with the gold bell collar — cheerful, beaming. Camera: slowly pans right. Audio: a tiny bell jingle, no music, no voices, no speech.`
+6. **Narration:** He waved at Rosie. Then at the lamp. Then at a sock.
+   `Shot: medium shot. Scene: the sunny doorway. Action: NEKOPAN turns and waves his paw at the lamp, then down at the sock on the floor. Character: Neko-Pan, the round lucky-cat melon bun with the gold bell collar — happily waving at everything. Camera: slowly tilts down. Audio: a tiny bell jingle, no music, no voices, no speech.`
 
-### Shot 2 — THE COACHES ARRIVE (0:30–1:00)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A cozy living room doorway: Feng, a perfect golden rectangle of pineapple cake with slightly crumbly edges and a jammy golden pineapple heart, wrapped in elegant shiny gold gift paper with a ribbon bow on top, tiny arms and legs, proud polite smile marching in proudly, Neko-Pan, a round cream-colored melon cream bun shaped like a beckoning lucky cat with one paw raised in a wave, a gold-foil collar with a tiny bell, cheerful smiling face waving one paw at a lamp and a sock, and Lala, a soft squishy pale-gold square of tres leches cake glistening with sweet milk, topped with a wobbly cloud of whipped cream and a single cinnamon dot, dreamy half-closed eyes, tiny arms and legs leaving little milky footprints on the rug. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw giggles on the rug, her straw wiggling up.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium wide shot. Scene: living room doorway. Action: Feng marches in proudly with small, stiff steps. Character: the gold-wrapped pineapple cake with the ribbon bow — chin up, proud polite smile. Camera: The camera slowly tracks beside him. Audio: A crinkle of gift paper, soft footsteps. No speech.`
-2. `Shot: medium shot. Scene: same doorway. Action: Neko-Pan waves his raised paw slowly back and forth at the lamp. Character: the round lucky-cat melon bun with the gold bell collar — cheerful, beaming eyes. Camera: The camera slowly pans right. Audio: A tiny bell jingle. No speech.`
-3. `Shot: medium shot. Scene: same rug. Action: Lala squishes forward, leaving little milky footprints. Character: the squishy tres leches cake with the whipped-cream top — dreamy, swooning half-closed eyes. Camera: The camera tilts down to the footprints. Audio: Soft squish, squish sounds. No speech.`
-4. `Shot: medium close-up. Scene: same rug. Action: Rosie giggles and her straw springs upright. Character: the little pink rose-milk-tea cup with the striped straw — eyes crinkle with delight. Camera: The camera slowly pushes in. Audio: A light, happy twinkle. No speech.`
-**Narration:**
-> In marched Feng the Pineapple Cake, wrapped in shiny gold paper with a bow on top. Behind him came Neko-Pan, the lucky-cat bun, waving one paw. Last came Lala the Tres Leches, *squish, squish*, leaving little milky footprints on the rug.
->
-> "A birthday present!" Feng pressed a crumbly hand to his wrapping. "I was born for this. I was born to be wrapped beautifully."
->
-> "Wave for luck!" said Neko-Pan. He waved at Rosie. Then at the lamp. Then at a sock.
->
-> "Ooh, a **禮物** (lǐwù) = gift," Lala swooned. "Soak it all in!"
->
-> Rosie giggled. Her straw wiggled back up.
+### Shot 3 — LALA · day
+**Still:** `Close and low in the sunny doorway: LALA wobbles in, glistening with sweet milk, her whipped-cream top jiggling, hands clasped under her chin, swooning with joy. A coral rug, a potted fern, a teal umbrella in a stand, a brass coat hook, morning sun from the open front door glowing through the milky sheen of her cake, little sparkles drifting in the air.`
+7. **Narration:** Last came Lala the Tres Leches. "Ooh, a **禮物** (lǐwù) = gift! Soak it all in!"
+   `Shot: medium close-up. Scene: the sunny doorway. Action: LALA clasps her hands and swoons, her whipped-cream top wobbling, while little sparkles drift around her. Character: Lala, the squishy tres leches cake with the whipped-cream top — dreamy, delighted. Camera: slowly pushes in. Audio: a soft squishy wobble, no music, no voices, no speech.`
 
-### Shot 3 — FENG TEACHES THE STEPS (1:00–1:30)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A warm kitchen: Feng, a perfect golden rectangle of pineapple cake with slightly crumbly edges and a jammy golden pineapple heart, wrapped in elegant shiny gold gift paper with a ribbon bow on top, tiny arms and legs, proud polite smile standing behind the kitchen table as if it were a store counter, gesturing politely, with a hand-drawn paper poster of six simple picture doodles in a row and a smiling cash-register doodle. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw listens closely. Neko-Pan, a round cream-colored melon cream bun shaped like a beckoning lucky cat with one paw raised in a wave, a gold-foil collar with a tiny bell, cheerful smiling face raises his waving paw and Lala, a soft squishy pale-gold square of tres leches cake glistening with sweet milk, topped with a wobbly cloud of whipped cream and a single cinnamon dot, dreamy half-closed eyes, tiny arms and legs sighs dreamily nearby.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: warm kitchen table. Action: Feng gives a small, polite bow behind the table. Character: the gold-wrapped pineapple cake with the ribbon bow — proud, elegant smile. Camera: The camera holds still. Audio: Warm kitchen hum, a crinkle of gift paper. No speech.`
-2. `Shot: medium close-up. Scene: same kitchen, paper poster. Action: Feng points along the poster doodles one by one. Character: the gold-wrapped pineapple cake with the ribbon bow — focused, teacherly eyes. Camera: The camera slowly pans right across the poster. Audio: Soft paper taps. No speech.`
-3. `Shot: medium shot. Scene: same kitchen. Action: Neko-Pan raises his paw higher and gives a slow, lucky wave. Character: the round lucky-cat melon bun with the gold bell collar — cheerful grin. Camera: The camera holds still. Audio: A tiny bell jingle. No speech.`
-4. `Shot: medium wide shot. Scene: same kitchen. Action: Lala sways dreamily, her shoulders sinking in a long, happy sigh. Character: the squishy tres leches cake with the whipped-cream top — half-closed, blissful eyes. Camera: The camera slowly pulls back. Audio: A faint, soft register ding. No speech.`
-**Narration:**
-> Feng stood behind the kitchen table like it was a store counter. "Paying at the checkout has steps," he said. "Like a very polite dance."
->
-> **Rosie's Steps:**
-> 1. Wait in line.
-> 2. When it's your turn, put your item on the counter.
-> 3. Smile and say, **"Hi! Just this, please."**
-> 4. Listen for the price. Hand over your money.
-> 5. Wait. Hold out your hand for your change and receipt. Put them in your wallet.
-> 6. Say, **"Thank you, have a nice day!"** Then take your bag.
->
-> "Here is the magic sentence," said Feng. **"Hi! Just this, please."** "Short. Polite. Elegant. Like me."
->
-> Neko-Pan raised his paw. "At the very end, you can wave and say, 'Bye!' A wave is lucky for everybody."
->
-> "Step five is my favorite," Lala sighed. "Waiting. Don't rush off. Let the drawer go *ding*."
+### Shot 4 — CAT ON THE COUCH · day
+**Still:** `High angle down onto a cream couch heaped with patterned coral and teal cushions in the sunny living room: CAT the little blue penguin is curled up napping like a cat in a nest of cushions, lifting her head with one drowsy eye open, tiny yellow scarf askew. A knitted throw, a plant on the side table, a bowl of lychees, sunbeams from the window striping the cushions, dust glittering.`
+8. **Narration:** Rosie giggled. On the couch, Cat the penguin lifted her head. Cat was staying with Rosie's family.
+   `Shot: medium shot. Scene: the sunny couch. Action: CAT slowly lifts her head from the cushions and blinks one eye open, while the sunbeam shimmers. Character: Cat, the little blue penguin with the yellow scarf — drowsy, curious. Camera: slowly pushes in. Audio: soft birdsong, a cushion rustle, no music, no voices, no speech.`
+9. **Narration:** She napped like a cat, which is how she got her name.
+   `Shot: close-up. Scene: the sunny couch. Action: CAT stretches her little flippers and curls back into a round ball. Character: Cat, the little blue penguin with the yellow scarf — cozy and content. Camera: holds still. Audio: a soft cushion rustle, no music, no voices, no speech.`
+10. **Narration:** "Snack time?" she yawned. It was not.
+   `Shot: close-up. Scene: the sunny couch. Action: CAT gives a huge slow yawn, then flops her head back down onto the cushion. Character: Cat, the little blue penguin with the yellow scarf — hopeful, then sleepy again. Camera: slowly pulls back. Audio: a tiny squeaky yawn, a soft snore, no music, no voices, no speech.`
 
-### Shot 4 — PRACTICE AT HOME (1:30–2:00)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A kitchen table set up as a pretend checkout: Feng, a perfect golden rectangle of pineapple cake with slightly crumbly edges and a jammy golden pineapple heart, wrapped in elegant shiny gold gift paper with a ribbon bow on top, tiny arms and legs, proud polite smile as the pretend cashier wearing a big blank paper-towel name tag, and Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw setting a folded napkin on the table and handing over a green crayon drawing of a five-dollar bill. Neko-Pan, a round cream-colored melon cream bun shaped like a beckoning lucky cat with one paw raised in a wave, a gold-foil collar with a tiny bell, cheerful smiling face stands in a pretend line and Lala, a soft squishy pale-gold square of tres leches cake glistening with sweet milk, topped with a wobbly cloud of whipped cream and a single cinnamon dot, dreamy half-closed eyes, tiny arms and legs watches, clasping her hands.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: kitchen table checkout. Action: Rosie places the folded napkin on the table. Character: the little pink rose-milk-tea cup with the striped straw — focused, careful eyes. Camera: The camera holds still. Audio: Warm kitchen hum. No speech.`
-2. `Shot: medium close-up. Scene: same table. Action: Rosie hands the green crayon money to Feng. Character: the little pink rose-milk-tea cup with the striped straw — small proud smile. Camera: The camera slowly pushes in. Audio: A soft paper rustle. No speech.`
-3. `Shot: medium close-up. Scene: same table. Action: Feng happily wraps the napkin in shiny foil. Character: the gold-wrapped pineapple cake with the ribbon bow — delighted, sparkling eyes. Camera: The camera holds still. Audio: A gentle foil crinkle. No speech.`
-4. `Shot: medium wide shot. Scene: same kitchen. Action: Rosie's straw perks up tall as she steps back to the start of the pretend line. Character: the little pink rose-milk-tea cup with the striped straw — calm, confident smile. Camera: The camera slowly pulls back. Audio: Warm kitchen hum, a soft happy chime. No speech.`
-**Narration:**
-> Then they practiced. Feng was the cashier. He wore a paper-towel name tag: FENG — CASHIER — VERY IMPORTANT. Rosie's pretend card was a napkin. Her pretend money was a green crayon drawing that said $5. Rosie said each step out loud as she did it:
->
-> 1. Wait in line.
-> 2. When it's your turn, put your item on the counter.
-> 3. Smile and say, **"Hi! Just this, please."**
-> 4. Listen for the price. Hand over your money.
-> 5. Wait. Hold out your hand for your change and receipt. Put them in your wallet.
-> 6. Say, **"Thank you, have a nice day!"** Then take your bag.
->
-> "Magnificent!" said Feng. He was so pleased that he wrapped the napkin in three layers of foil. Rosie practiced two more times. On the third time, she didn't even need to say the steps out loud.
+### Shot 5 — THE STEPS · day
+**Still:** `Wide view across the sunny kitchen table turned into a pretend shop counter: FENG stands behind it like a very proud cashier, holding up a card with six rows of little picture doodles (a line of dots, a card on a counter, a smiling face, a coin, an open hand, a waving hand). ROSIE stands in front of the table, straw tall, listening. Teal cupboards, a bowl of lemons, a jar of honey glowing amber, a vase of coral roses, morning sun pouring through the window with floating dust.`
+11. **Narration:** Feng stood behind the table like a cashier. "Paying has steps," he said. "Like a very polite dance."
+   `Shot: medium shot. Scene: the pretend-shop kitchen table. Action: FENG does a small graceful bow and lifts the doodle card, while sunlight glints on his wrapper. Character: Feng, the gold-wrapped pineapple cake with the ribbon bow — elegant, proud. Camera: slowly pushes in. Audio: a paper crinkle, a soft kitchen hum, no music, no voices, no speech.`
+12. **Narration:** **Rosie's Steps** 1. Wait in line. 2. Put your item on the counter.
+   `Shot: medium close-up. Scene: the same table. Action: ROSIE nods slowly as FENG taps the first two rows of the card one at a time. Character: the little pink rose-milk-tea cup with the striped straw — nodding slowly, focused. Camera: slowly tilts down. Audio: a soft paper tap, no music, no voices, no speech.`
+13. **Narration:** 3. Smile and say, **"Hi! Just this, please."** 4. Listen for the price. Hand over your money.
+   `Shot: medium shot. Scene: the same table. Action: ROSIE tries a big practice smile and her straw perks up. Character: the little pink rose-milk-tea cup with the striped straw — shy smile growing brave. Camera: slowly pans right. Audio: a soft happy chime, no music, no voices, no speech.`
 
-### Shot 5 — THE GIFT SHOP (2:00–2:30)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Inside a cozy small gift shop with racks of greeting cards, paper lanterns, ribbons, and a wooden checkout counter with a register. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw holding a greeting card with a smiling lychee and shiny gold swirls, waiting in line behind a friendly human man holding a small cactus in a pot. By the glass door, Feng, a perfect golden rectangle of pineapple cake with slightly crumbly edges and a jammy golden pineapple heart, wrapped in elegant shiny gold gift paper with a ribbon bow on top, tiny arms and legs, proud polite smile, Neko-Pan, a round cream-colored melon cream bun shaped like a beckoning lucky cat with one paw raised in a wave, a gold-foil collar with a tiny bell, cheerful smiling face, and Lala, a soft squishy pale-gold square of tres leches cake glistening with sweet milk, topped with a wobbly cloud of whipped cream and a single cinnamon dot, dreamy half-closed eyes, tiny arms and legs wait and watch warmly.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium wide shot. Scene: gift shop, by the glass door. Action: Feng gives a small, encouraging nod from the door. Character: the gold-wrapped pineapple cake with the ribbon bow — proud, reassuring smile. Camera: The camera holds still. Audio: A soft door chime, quiet shop hum. No speech.`
-2. `Shot: medium shot. Scene: same shop, checkout line. Action: Rosie lifts the lychee card and looks at it. Character: the little pink rose-milk-tea cup with the striped straw — happy eyes, then a nervous blink. Camera: The camera slowly pans left from the door to Rosie. Audio: A gentle paper rustle, shop hum. No speech.`
-3. `Shot: close-up. Scene: same line. Action: Rosie takes a small, slow breath as her straw droops, then gently lifts. Character: the little pink rose-milk-tea cup with the striped straw — nervous eyes soften into calm. Camera: The camera slowly pushes in. Audio: A soft airy breath. No speech.`
-4. `Shot: medium shot. Scene: wooden checkout counter. Action: Rosie steps forward and places the card on the counter. Character: the little pink rose-milk-tea cup with the striped straw — small, brave smile. Camera: The camera slowly tracks beside her. Audio: Tiny footsteps, a soft card tap on wood. No speech.`
-**Narration:**
-> The next day, the coaches walked Rosie to Paper Moon Gifts. "We'll wait right here by the door," said Feng. "You'll be able to see us the whole time."
->
-> Rosie found the perfect card. It had a smiling lychee on it and said HAPPY BIRTHDAY in gold letters. Her straw drooped a little. Rosie felt nervous. That's okay. She thought, *One step at a time, one sip at a time.*
->
-> Step one. She waited in line behind a man holding a cactus.
->
-> Step two. It was her turn. She put the card on the counter.
+### Shot 6 — LEARNING THE STEPS · day
+**Still:** `Close at table height, ROSIE's face fills the frame: a small clear cup of pink milk tea with a dome lid and a striped straw, holding the picture-doodle card in front of her cup with both tiny hands, eyes bright and focused, sunlight glowing through her pink tea and three tapioca pearls. Beside her on the table a little purple wallet and a small tin of pretend coins; soft bokeh of coral roses, a honey jar and teal cupboards behind.`
+14. **Narration:** 5. Wait. Hold out your hand for your change and receipt.
+   `Shot: close-up. Scene: the sunny kitchen. Action: ROSIE holds out one tiny open hand and keeps it there, patient, while tiny bubbles rise in her tea. Character: the little pink rose-milk-tea cup with the striped straw — patient and careful. Camera: holds still. Audio: a soft kitchen hum, no music, no voices, no speech.`
+15. **Narration:** 6. Say, **"Thank you, have a nice day!"** Then take your bag.
+   `Shot: close-up. Scene: the sunny kitchen. Action: ROSIE lifts her face from the card with a warm grateful smile. Character: the little pink rose-milk-tea cup with the striped straw — pleased and ready. Camera: slowly pulls back. Audio: a soft paper rustle, birdsong, no music, no voices, no speech.`
 
-### Shot 6 — THE MAGIC SENTENCE (2:30–3:00)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Low angle at the wooden checkout counter in a cozy small gift shop with racks of greeting cards, paper lanterns, ribbons, and a wooden checkout counter with a register: Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw standing on tiptoe, smiling up and placing the lychee birthday card on the counter, handing up a five-dollar bill. June, a kind smiling human cashier woman with a cardigan and a small name tag leans down warmly behind the register holding a barcode scanner.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: low-angle medium shot. Scene: gift shop checkout counter. Action: Rosie smiles up at June as her straw lifts. Character: the little pink rose-milk-tea cup with the striped straw — bright, polite smile. Camera: The camera slowly tilts up. Audio: Quiet shop hum. No speech.`
-2. `Shot: medium shot. Scene: same counter. Action: June scans the card with a small glow of light. Character: the kind cashier in the cardigan — warm, friendly smile. Camera: The camera holds still. Audio: A soft scanner beep. No speech.`
-3. `Shot: medium close-up. Scene: same counter. Action: Rosie hands up the five-dollar bill. Character: the little pink rose-milk-tea cup with the striped straw — focused, listening eyes. Camera: The camera slowly pushes in. Audio: A soft paper rustle. No speech.`
-**Narration:**
-> Step three. Rosie smiled up at the cashier. Her name tag said JUNE. **"Hi! Just this, please."**
->
-> "Hi there!" said June. She scanned the card. *Beep!* "That's three dollars and fifty cents."
->
-> Step four. Rosie listened. She took the five-dollar bill out of her wallet and handed it over.
+### Shot 7 — PRACTICE TIME · day
+**Still:** `Wide from the end of the sunny pretend-shop kitchen table: FENG stands behind the table wearing a big paper-towel name tag with a little heart doodle, chin raised grandly; LALA sits on the table edge beside a stack of pretend coins, hands on her cheeks; ROSIE stands in front holding a small folded paper card. Teal tiles, hanging copper pots, a bowl of lychees, honey-gold light.`
+16. **Narration:** "Step five is my favorite," Lala sighed. "Waiting. Don't rush off."
+   `Shot: medium shot. Scene: the pretend-shop kitchen. Action: LALA sighs dreamily and her whipped-cream top wobbles. Character: Lala, the squishy tres leches cake with the whipped-cream top — swooning and sweet. Camera: slowly pushes in. Audio: a soft squishy wobble, a kitchen hum, no music, no voices, no speech.`
+17. **Narration:** Feng played the cashier. His paper-towel name tag said VERY IMPORTANT.
+   `Shot: medium shot. Scene: the pretend-shop kitchen. Action: FENG puffs up proudly and straightens his paper-towel name tag. Character: Feng, the gold-wrapped pineapple cake with the ribbon bow — extremely official. Camera: slowly tilts up. Audio: a paper crinkle, no music, no voices, no speech.`
+18. **Narration:** Rosie said each step out loud: 1. Wait in line. 2. Put your item on the counter.
+   `Shot: medium shot. Scene: the pretend-shop kitchen. Action: ROSIE sets the folded paper card neatly on the table. Character: the little pink rose-milk-tea cup with the striped straw — careful and focused. Camera: slowly pans left. Audio: a soft paper tap, no music, no voices, no speech.`
 
-### Shot 7 — A SURPRISE QUESTION (3:00–3:30)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. At the checkout counter in a cozy small gift shop with racks of greeting cards, paper lanterns, ribbons, and a wooden checkout counter with a register: June, a kind smiling human cashier woman with a cardigan and a small name tag holding up a tiny pink gift bag with a questioning smile. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw with her straw drooping, eyes closed, taking a calm deep breath with a soft glowing pink rose and a tiny candle floating beside her as a breathing reminder. By the door, Feng, a perfect golden rectangle of pineapple cake with slightly crumbly edges and a jammy golden pineapple heart, wrapped in elegant shiny gold gift paper with a ribbon bow on top, tiny arms and legs, proud polite smile clutches his gold wrapping in delight.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: gift shop checkout counter. Action: June tilts her head and holds the tiny pink gift bag a little higher. Character: the kind cashier in the cardigan — curious, questioning smile. Camera: The camera holds still. Audio: Quiet shop hum, a soft paper rustle. No speech.`
-2. `Shot: close-up. Scene: same counter. Action: Rosie's straw droops all the way down. Character: the little pink rose-milk-tea cup with the striped straw — surprised, wide eyes. Camera: The camera slowly pushes in. Audio: A tiny surprised plink. No speech.`
-3. `Shot: close-up. Scene: same counter, glowing rose and candle. Action: Rosie breathes in as the rose glows, then out as the candle flame softly puffs out. Character: the little pink rose-milk-tea cup with the striped straw — eyes closed, face calming. Camera: The camera holds still. Audio: A soft airy breath in and out. No speech.`
-4. `Shot: medium wide shot. Scene: same counter to the glass door. Action: June slides the card into the pink gift bag. Character: the kind cashier in the cardigan — warm, pleased smile. Camera: The camera slowly pulls back to show Feng by the door. Audio: A gentle paper-bag rustle. No speech.`
-**Narration:**
-> Then June asked, "Is this a gift? Would you like a little gift bag?"
->
-> Uh-oh. Nobody had practiced that part. Rosie's straw drooped all the way down. She felt surprised.
->
-> That's okay. Rosie did a Rose breath. Smell the rose: in, two, three, four. Blow out the candle: out, two, three, four.
->
-> Then she said the backup sentence. "Yes, please."
->
-> "Coming right up," said June. She slid the card into a tiny pink bag and set it on the counter.
->
-> By the door, Feng clutched his wrapping. "A GIFT BAG," he whispered. "Exquisite."
+### Shot 8 — PRACTICE CLOSE · day
+**Still:** `Medium close-up at table height: ROSIE stands at the edge of the kitchen table holding a little green paper bill in front of her cup toward FENG's open hand, smiling bravely. A small tin of pretend coins, a folded paper card, a coral napkin, a teal bowl of lychees and sunlit bokeh behind.`
+19. **Narration:** 3. Smile and say, **"Hi! Just this, please."** 4. Listen for the price. Hand over your money.
+   `Shot: medium close-up. Scene: the pretend-shop table. Action: ROSIE smiles and holds the green paper bill out to FENG. Character: the little pink rose-milk-tea cup with the striped straw — brave, polite smile. Camera: slowly pushes in. Audio: a soft paper rustle, no music, no voices, no speech.`
+20. **Narration:** 5. Wait. Hold out your hand for your change and receipt.
+   `Shot: medium close-up. Scene: the pretend-shop table. Action: ROSIE holds out her open hand and waits, and FENG drops two pretend coins into it. Character: the little pink rose-milk-tea cup with the striped straw — patient and proud. Camera: holds still. Audio: a soft coin clink, no music, no voices, no speech.`
+21. **Narration:** 6. Say, **"Thank you, have a nice day!"** Then take your bag.
+   `Shot: medium close-up. Scene: the pretend-shop table. Action: ROSIE gives a happy little nod and her straw wiggles. Character: the little pink rose-milk-tea cup with the striped straw — glowing with success. Camera: slowly pulls back. Audio: a soft happy chime, no music, no voices, no speech.`
 
-### Shot 8 — WAIT FOR THE CHANGE (3:30–4:00)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. At the checkout counter in a cozy small gift shop with racks of greeting cards, paper lanterns, ribbons, and a wooden checkout counter with a register: Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw turned back toward the counter holding out her tiny hand, while June, a kind smiling human cashier woman with a cardigan and a small name tag places coins, a one-dollar bill, and a paper receipt into it. A small pink gift bag sits on the counter. Rosie's open purple wallet is ready.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: gift shop checkout counter. Action: Rosie freezes and her straw pops straight up as she remembers. Character: the little pink rose-milk-tea cup with the striped straw — eyes go wide, then a small "oops" smile. Camera: The camera holds still. Audio: A tiny bright plink, quiet shop hum. No speech.`
-2. `Shot: medium close-up. Scene: same counter. Action: Rosie holds her tiny hand out toward June. Character: the little pink rose-milk-tea cup with the striped straw — patient, hopeful eyes. Camera: The camera slowly pushes in. Audio: Quiet shop hum. No speech.`
-3. `Shot: close-up. Scene: same counter. Action: June gently places the coins, bill, and receipt into Rosie's hand. Character: the kind cashier in the cardigan — kind, warm smile. Camera: The camera holds still. Audio: A soft coin clink, a paper rustle. No speech.`
-4. `Shot: close-up. Scene: same counter, open purple wallet. Action: Rosie tucks the money and receipt into her wallet and zips it closed. Character: the little pink rose-milk-tea cup with the striped straw — proud, satisfied smile. Camera: The camera slowly tilts down to the wallet. Audio: A small zip sound. No speech.`
-**Narration:**
-> The bag was so pretty that Rosie turned toward the door. She took one hop. Then she stopped.
->
-> *Wait. Step five. Wait for the change!*
->
-> Rosie turned back and held out her hand. June smiled. "Almost forgot! Here's one dollar and fifty cents. And here's your receipt."
->
-> Rosie put the money and the receipt in her wallet. *Zip.*
+### Shot 9 — THREE LAYERS OF FOIL · day
+**Still:** `Low angle at the sunny kitchen counter: FENG happily wraps a small paper card in a huge shiny ball of crinkly silver foil, three layers thick, while ROSIE giggles beside him with both hands on her lid. A roll of foil, a jar of honey glowing amber, teal tiles, coral flowers in a vase, late-morning sun bouncing off the foil in dancing sparkles of light.`
+22. **Narration:** "Magnificent!" said Feng, and wrapped her pretend card in three layers of foil.
+   `Shot: medium shot. Scene: the sunny kitchen counter. Action: FENG pats the shiny foil ball with delight as it sparkles, and ROSIE giggles. Character: Feng, the gold-wrapped pineapple cake with the ribbon bow — overjoyed. Camera: slowly pushes in. Audio: crinkly foil sounds, no music, no voices, no speech.`
 
-### Shot 9 — THANK YOU AND BYE (4:00–4:30)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw holding a tiny pink gift bag and waving goodbye at the checkout counter to June, a kind smiling human cashier woman with a cardigan and a small name tag, who waves back. By the glass door of a cozy small gift shop with racks of greeting cards, paper lanterns, ribbons, and a wooden checkout counter with a register, Neko-Pan, a round cream-colored melon cream bun shaped like a beckoning lucky cat with one paw raised in a wave, a gold-foil collar with a tiny bell, cheerful smiling face waves so hard his bell jingles, Lala, a soft squishy pale-gold square of tres leches cake glistening with sweet milk, topped with a wobbly cloud of whipped cream and a single cinnamon dot, dreamy half-closed eyes, tiny arms and legs dabs happy tears with whipped cream, and Feng, a perfect golden rectangle of pineapple cake with slightly crumbly edges and a jammy golden pineapple heart, wrapped in elegant shiny gold gift paper with a ribbon bow on top, tiny arms and legs, proud polite smile beams.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: gift shop checkout counter. Action: Rosie lifts her tiny pink gift bag off the counter. Character: the little pink rose-milk-tea cup with the striped straw — bright, polite smile. Camera: The camera holds still. Audio: A paper-bag rustle, quiet shop hum. No speech.`
-2. `Shot: medium close-up. Scene: same counter. Action: Rosie gives June a small, slow wave goodbye. Character: the little pink rose-milk-tea cup with the striped straw — happy, proud eyes. Camera: The camera slowly pushes in. Audio: Quiet shop hum. No speech.`
-3. `Shot: medium wide shot. Scene: counter to the glass door. Action: Neko-Pan waves back eagerly and his bell sways. Character: the round lucky-cat melon bun with the gold bell collar — beaming, sparkly eyes. Camera: The camera slowly pulls back to include the coaches at the door. Audio: A jingle-jingle of a tiny bell. No speech.`
-4. `Shot: medium close-up. Scene: by the glass door. Action: Lala dabs her eyes with a puff of whipped cream. Character: the squishy tres leches cake with the whipped-cream top — happy, teary eyes. Camera: The camera holds still. Audio: A soft sniffle-like squish, shop hum. No speech.`
-**Narration:**
-> Step six. **"Thank you, have a nice day!"** Then she took her bag.
->
-> "You too!" said June.
->
-> Rosie waved. "Bye!"
->
-> At the door, Neko-Pan waved back so hard that his bell went *jingle-jingle-jingle*. Lala dabbed her eyes with whipped cream. "I'm soaking it ALL in," she sniffed.
+### Shot 10 — THE GIFT SHOP · day
+**Still:** `Wide view inside a cozy little gift shop glowing with sunlight: walls of picture-only greeting cards in rainbow rows, paper lanterns and paper birds hanging from the ceiling, baskets of ribbons, scented candles, a rack of wrapping-paper rolls, a teal checkout counter at the back. ROSIE stands in front beside her little canvas tote bag, with CAT the little blue penguin peeking out of it, dozing, and by the front door FENG, NEKOPAN and LALA wave. Sunbeams with floating dust.`
+23. **Narration:** The next day, everyone walked to Paper Moon Gifts. Cat rode in Rosie's tote bag.
+   `Shot: wide shot. Scene: the sunny gift shop. Action: CAT's head bobs drowsily over the edge of the tote, while the paper lanterns sway gently overhead. Character: Cat, the little blue penguin with the yellow scarf — drowsy and cozy. Camera: slowly pushes in. Audio: a soft shop door chime, gentle shop hum, no music, no voices, no speech.`
+24. **Narration:** "We'll wait by the door," said Feng. "You can see us the whole time."
+   `Shot: medium shot. Scene: the gift shop front door. Action: FENG gives a reassuring nod while NEKOPAN and LALA wave. Character: Feng, the gold-wrapped pineapple cake with the ribbon bow — calm and kind. Camera: slowly pans left. Audio: gentle shop hum, a tiny bell jingle, no music, no voices, no speech.`
 
-### Shot 10 — HAPPY BIRTHDAY, TORI — GOODNIGHT (4:30–5:00)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A cozy bedroom in warm lamplight with birthday balloons: Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve hugging Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, holding an open greeting card with a smiling lychee on it, a small pink gift bag and a paper receipt on the bed beside them. Moonlight through the window, soft sleepy mood.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: cozy bedroom, birthday balloons. Action: Tori lifts the open card a little closer and her green straw springs up. Character: the tall golden lychee-tea cup with the green straw — delighted, wide eyes. Camera: The camera holds still. Audio: Soft room hush, a gentle balloon rustle. No speech.`
-2. `Shot: close-up. Scene: same bed. Action: Rosie picks up the little receipt from the bed and holds it up. Character: the little pink rose-milk-tea cup with the striped straw — proud, shy smile. Camera: The camera slowly pushes in. Audio: A soft paper rustle. No speech.`
-3. `Shot: medium shot. Scene: same bed. Action: Tori pulls Rosie into a bigger, tighter hug. Character: the tall golden lychee-tea cup with the green straw — warm eyes gently close. Camera: The camera holds still. Audio: A soft blanket rustle. No speech.`
-4. `Shot: wide shot. Scene: same bedroom, moonlit window. Action: Rosie's straw wiggles happily as the lamplight slowly dims to moonlight. Character: the little pink rose-milk-tea cup with the striped straw — sleepy, proud smile. Camera: The camera slowly pulls back. Audio: A tiny whirr, then soft night crickets. No speech.`
-**Narration:**
-> The next morning, Rosie gave Tori the pink bag. "**生日快樂** (shēngrì kuàilè) = Happy birthday!"
->
-> Tori opened the card and gasped. "The lychee is smiling at me! Where did you get it?"
->
-> "At the gift shop," said Rosie. "I paid all by myself. I even waited for the change." She held up her receipt.
->
-> Tori scooped her into a big hug. "You've got this, little sip. You really, really do."
->
-> Rosie's straw wiggled so fast it made a tiny *whirr*. She felt proud. One step at a time, one sip at a time.
+### Shot 11 — THE CARD AND THE CACTUS · day
+**Still:** `Low angle from the gift-shop floor beside ROSIE: she waits holding a greeting card with a picture of a smiling lychee in front of her cup, her straw drooping a little, right behind CACTUSMAN, who towers over her holding a small potted cactus with one pink flower. Rainbow card racks, hanging paper birds, a basket of yarn, the teal checkout counter ahead glowing in a sunbeam, dust drifting.`
+25. **Narration:** Rosie found a card with a smiling lychee on it. She felt nervous. That's okay.
+   `Shot: medium close-up. Scene: the gift shop line. Action: ROSIE looks down at the lychee card and her straw droops a little. Character: the little pink rose-milk-tea cup with the striped straw — nervous but steady. Camera: slowly pushes in. Audio: gentle shop hum, no music, no voices, no speech.`
+26. **Narration:** Step one. She waited in line behind a man holding a cactus.
+   `Shot: medium shot. Scene: the gift shop line. Action: CACTUSMAN turns the cactus pot slowly, and ROSIE leans back from it with big eyes. Character: the little pink rose-milk-tea cup with the striped straw — patient, a little amused. Camera: slowly tilts up. Audio: gentle shop hum, a soft footstep, no music, no voices, no speech.`
+
+### Shot 12 — AT THE COUNTER · day
+**Still:** `Low angle at the teal checkout counter: ROSIE stands on the counter beside her lychee card, smiling up at JUNE, who leans down with a warm smile. A cash register, a jar of lollipops, a tin of pens, tissue paper in coral and teal, a little bell, paper lanterns glowing in the sunlit window behind.`
+27. **Narration:** Step two. She put the card on the counter.
+   `Shot: medium shot. Scene: the gift shop counter. Action: ROSIE slides the lychee card neatly onto the counter. Character: the little pink rose-milk-tea cup with the striped straw — careful and proud. Camera: slowly pushes in. Audio: a soft card tap, shop hum, no music, no voices, no speech.`
+28. **Narration:** Step three. Rosie smiled up at the cashier, June. **"Hi! Just this, please."**
+   `Shot: medium close-up. Scene: the gift shop counter. Action: ROSIE tips her lid up toward JUNE with a wide friendly smile and a tiny wave. Character: the little pink rose-milk-tea cup with the striped straw — brave, friendly. Camera: slowly tilts up. Audio: shop hum, no music, no voices, no speech.`
+29. **Narration:** Beep! "That's three dollars and fifty cents," said June.
+   `Shot: medium shot. Scene: the gift shop counter. Action: JUNE scans the card with a gentle smile and the register light blinks. Character: June, the kind cashier in the yellow cardigan — warm and patient. Camera: slowly pans right. Audio: a soft scanner beep, no music, no voices, no speech.`
+
+### Shot 13 — PAYING · day
+**Still:** `Close at counter height: ROSIE holds out a little green paper bill in both tiny hands toward JUNE's open palm, eyes focused, sunlight from the front window glinting off the counter. The lychee card beside them, a jar of lollipops, a little brass bell, a mustard-yellow cardigan cuff, soft coral and teal bokeh from the shop behind, dust sparkling.`
+30. **Narration:** Step four. Rosie handed over her five-dollar bill.
+   `Shot: close-up. Scene: the gift shop counter. Action: ROSIE places the green bill in JUNE's hand. Character: the little pink rose-milk-tea cup with the striped straw — focused and proud. Camera: holds still. Audio: a soft paper rustle, no music, no voices, no speech.`
+31. **Narration:** Then June asked, "Is this a gift? Would you like a gift bag?"
+   `Shot: medium close-up. Scene: the gift shop counter. Action: JUNE tilts her head kindly, and ROSIE's eyes go wide with surprise. Character: the little pink rose-milk-tea cup with the striped straw — surprised. Camera: slowly pushes in. Audio: shop hum, no music, no voices, no speech.`
+
+### Shot 14 — ROSE BREATH · day
+**Still:** `Extreme close-up, ROSIE's face fills the frame: a small clear cup of pink milk tea with a dome lid and a striped straw, eyes gently closed, straw drooping, a dreamy glowing pink rose floating on one side of her and a tiny candle flame on the other, both soft and golden. Behind her, blurred paper lanterns and warm sunlit shop bokeh.`
+32. **Narration:** Uh-oh. Nobody had practiced that! Rosie's straw drooped all the way down. That's okay.
+   `Shot: close-up. Scene: the gift shop counter. Action: ROSIE's striped straw droops all the way down. Character: the little pink rose-milk-tea cup with the striped straw — surprised, worried eyes. Camera: holds still. Audio: shop hum fading, no music, no voices, no speech.`
+33. **Narration:** Rosie did a Rose breath. Smell the rose — in, two, three, four.
+   `Shot: close-up. Scene: the gift shop counter. Action: ROSIE breathes in slowly toward the glowing rose and her cup rises a little. Character: the little pink rose-milk-tea cup with the striped straw — calm settling in. Camera: slowly pushes in. Audio: a long soft breath in, no music, no voices, no speech.`
+34. **Narration:** Blow out the candle — out, two, three, four. Then she said, "Yes, please."
+   `Shot: close-up. Scene: the gift shop counter. Action: ROSIE breathes out and the little candle flame softly goes out, then she opens her eyes with a small smile. Character: the little pink rose-milk-tea cup with the striped straw — calm and brave. Camera: slowly pulls back. Audio: a soft breathy whoosh, a tiny candle puff, no music, no voices, no speech.`
+
+### Shot 15 — A GIFT BAG · day
+**Still:** `The sunny gift shop: in front, JUNE slides the lychee card into a tiny pink gift bag with coral tissue paper puffing out of the top, and ROSIE watches from the counter with sparkling eyes; far back by the front door FENG clutches his gold wrapper with both hands, overwhelmed with joy. Paper lanterns, ribbon baskets, rainbow card racks, golden light.`
+35. **Narration:** June slid the card into a tiny pink bag.
+   `Shot: medium shot. Scene: the gift shop counter. Action: JUNE tucks the card into the pink bag and fluffs the tissue paper. Character: the little pink rose-milk-tea cup with the striped straw — delighted. Camera: slowly pushes in. Audio: a soft tissue-paper rustle, no music, no voices, no speech.`
+36. **Narration:** By the door, Feng clutched his wrapper. "A GIFT BAG," he whispered. "Exquisite."
+   `Shot: medium shot. Scene: the gift shop front door. Action: FENG clutches his gold wrapper and trembles with joy, his bow quivering. Character: Feng, the gold-wrapped pineapple cake with the ribbon bow — overwhelmed with delight. Camera: slowly pans left. Audio: a tiny paper crinkle, shop hum, no music, no voices, no speech.`
+
+### Shot 16 — THE CHANGE · day
+**Still:** `On the teal counter: ROSIE holds out one open hand to JUNE, who places two shiny coins and a small blank paper receipt into it; beside Rosie her canvas tote bag sits open, and inside CAT the little blue penguin is curled up napping on a purple wallet, beak tucked in. The pink gift bag, a jar of lollipops, soft sunlit shop glow.`
+37. **Narration:** Rosie turned to go — then stopped. Step five. Wait for the change!
+   `Shot: medium shot. Scene: the gift shop counter. Action: ROSIE turns halfway, then turns back with a little gasp, hand on her lid. Character: the little pink rose-milk-tea cup with the striped straw — remembering. Camera: holds still. Audio: shop hum, no music, no voices, no speech.`
+38. **Narration:** Rosie held out her hand. "Here's your change," said June, "and your receipt."
+   `Shot: close-up. Scene: the gift shop counter. Action: JUNE sets the coins and the receipt into ROSIE's open hand. Character: the little pink rose-milk-tea cup with the striped straw — patient and proud. Camera: slowly pushes in. Audio: a soft coin clink, no music, no voices, no speech.`
+39. **Narration:** She tucked them into her tote, next to Cat, snoring on the wallet. "Five more minutes," mumbled Cat.
+   `Shot: close-up. Scene: the open tote bag. Action: CAT's round tummy rises and falls in a snore, and she snuggles deeper onto the wallet. Character: Cat, the little blue penguin with the yellow scarf — blissfully napping. Camera: slowly tilts down. Audio: a tiny rumbly snore, no music, no voices, no speech.`
+
+### Shot 17 — THANK YOU · day
+**Still:** `Low angle at the teal checkout counter in golden light: ROSIE holds the little pink gift bag in front of her cup with both hands and smiles up at JUNE, who waves warmly. Paper lanterns and paper birds hang overhead, ribbon spools, a vase of tulips, the canvas tote bag at Rosie's side, sunbeams with drifting dust.`
+40. **Narration:** Step six. **"Thank you, have a nice day!"** Then Rosie took her bag.
+   `Shot: medium shot. Scene: the gift shop counter. Action: ROSIE lifts the pink bag with a proud little bounce, while JUNE waves. Character: the little pink rose-milk-tea cup with the striped straw — proud and happy. Camera: slowly pulls back. Audio: a soft happy chime, shop hum, no music, no voices, no speech.`
+
+### Shot 18 — THE WAVE · day
+**Still:** `The sunny front door of the gift shop: NEKOPAN waves his paw so hard his gold bell is a sparkling blur, and LALA beside him dabs her eyes with a swirl of her own whipped cream, both beaming. Paper lanterns in the window, a bell over the door, potted flowers, a coral welcome mat, sunshine pouring in.`
+41. **Narration:** At the door, Neko-Pan waved so hard his bell went jingle-jingle-jingle.
+   `Shot: medium shot. Scene: the gift shop front door. Action: NEKOPAN waves his paw fast and happy, his gold bell flashing. Character: Neko-Pan, the round lucky-cat melon bun with the gold bell collar — bursting with joy. Camera: slowly pushes in. Audio: a merry bell jingle, no music, no voices, no speech.`
+42. **Narration:** Lala dabbed her eyes with whipped cream.
+   `Shot: medium close-up. Scene: the gift shop front door. Action: LALA dabs one eye with a swirl of whipped cream and sniffles happily. Character: Lala, the squishy tres leches cake with the whipped-cream top — teary and proud. Camera: holds still. Audio: a soft squishy sniffle, no music, no voices, no speech.`
+
+### Shot 19 — HAPPY BIRTHDAY, TORI · day
+**Still:** `A sunny morning kitchen seen from table height, a birthday banner of plain paper flags, pastel balloons and a little strawberry cake with candles: ROSIE holds up the pink gift bag toward TORI, and TORI bends down to her with hands clasped, beaming. A jar of honey, a bowl of lychees, a vase of coral roses, morning sun streaming through the window with floating sparkles.`
+43. **Narration:** The next morning, Rosie gave Tori the pink bag. "**生日快樂** (shēngrì kuàilè) = Happy birthday!"
+   `Shot: medium shot. Scene: the sunny birthday kitchen. Action: ROSIE holds the pink bag out toward TORI with an excited little bounce, while the balloons bob. Character: the little pink rose-milk-tea cup with the striped straw — bursting with excitement. Camera: slowly pushes in. Audio: soft morning birdsong, a balloon squeak, no music, no voices, no speech.`
+44. **Narration:** "I paid all by myself," said Rosie. Tori hugged her. "You've got this, little sip."
+   `Shot: medium shot. Scene: the sunny birthday kitchen. Action: TORI leans down and presses her cup gently against ROSIE's in a warm cup-to-cup hug. Character: Tori, the tall golden lychee-tea cup with the green straw — proud, loving. Camera: slowly pushes in. Audio: a soft happy sigh, birdsong, no music, no voices, no speech.`
+45. **Narration:** Rosie's straw wiggled so fast it went whirr.
+   `Shot: close-up. Scene: the sunny birthday kitchen. Action: ROSIE's striped straw wiggles fast and happy, while morning sparkles drift by. Character: the little pink rose-milk-tea cup with the striped straw — glowing with pride. Camera: slowly pulls back. Audio: a tiny whirr, birdsong, no music, no voices, no speech.`
+
+### Shot 20 — GOODNIGHT · night
+**Still:** `A cozy moonlit bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and a striped straw, tucked under a soft pink quilt with only her lid and straw above it, eyes closed; on the nightstand the canvas tote bag with CAT the little blue penguin curled up asleep inside, yellow scarf peeking out. Stars and a crescent moon in the window, strings of tiny fairy lights, a plain lamp glowing low, the smiling lychee card propped on the shelf.`
+46. **Narration:** Goodnight, little shopper, your wallet zipped tight. Goodnight, Cat, still snoring in the tote bag.
+   `Shot: medium shot. Scene: the moonlit bedroom. Action: CAT's round tummy rises and falls in the tote bag, while the fairy lights twinkle. Character: Cat, the little blue penguin with the yellow scarf — deeply asleep. Camera: slowly pushes in. Audio: a tiny penguin snore, soft crickets, no music, no voices, no speech.`
+47. **Narration:** You waited, you smiled, you said thank you and bye. One step at a time. Sweet dreams.
+   `Shot: wide shot. Scene: the moonlit bedroom. Action: the lamp glow softens and the stars twinkle in the window. Character: the little pink rose-milk-tea cup with the striped straw — asleep, peaceful smile. Camera: slowly pulls back. Audio: a soft night breeze, crickets fading, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
-1. **Key scene** — `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Low angle at the wooden checkout counter in a cozy small gift shop with racks of greeting cards, paper lanterns, ribbons, and a wooden checkout counter with a register: Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw standing on tiptoe, smiling up and holding out her tiny hand as June, a kind smiling human cashier woman with a cardigan and a small name tag places change and a paper receipt into it, a small pink gift bag and a lychee birthday card on the counter. By the glass door, Feng, a perfect golden rectangle of pineapple cake with slightly crumbly edges and a jammy golden pineapple heart, wrapped in elegant shiny gold gift paper with a ribbon bow on top, tiny arms and legs, proud polite smile, Neko-Pan, a round cream-colored melon cream bun shaped like a beckoning lucky cat with one paw raised in a wave, a gold-foil collar with a tiny bell, cheerful smiling face, and Lala, a soft squishy pale-gold square of tres leches cake glistening with sweet milk, topped with a wobbly cloud of whipped cream and a single cinnamon dot, dreamy half-closed eyes, tiny arms and legs watch proudly.`
-2. **Character portrait** — `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Clean soft cream background, full-body character lineup facing the viewer: Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw in the center holding a small purple wallet; Feng, a perfect golden rectangle of pineapple cake with slightly crumbly edges and a jammy golden pineapple heart, wrapped in elegant shiny gold gift paper with a ribbon bow on top, tiny arms and legs, proud polite smile on the left; Neko-Pan, a round cream-colored melon cream bun shaped like a beckoning lucky cat with one paw raised in a wave, a gold-foil collar with a tiny bell, cheerful smiling face and Lala, a soft squishy pale-gold square of tres leches cake glistening with sweet milk, topped with a wobbly cloud of whipped cream and a single cinnamon dot, dreamy half-closed eyes, tiny arms and legs on the right. All smiling, even lighting, good as a character reference sheet.`
-3. **Closing scene** — `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A cozy moonlit bedroom with birthday balloons: Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve hugging Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw on the bed, an open card with a smiling lychee between them, a tiny pink gift bag and receipt beside them, warm lamplight fading to sleepy blue moonlight.`
+1. **Key scene** — `At the teal checkout counter of a cozy sunlit gift shop hung with paper lanterns and paper birds, ROSIE holds a little pink gift bag and smiles up at JUNE, her canvas tote beside her with CAT the little blue penguin napping inside, while FENG, NEKOPAN and LALA wave from the front door. Rainbow card racks, ribbon baskets, rim light on every character.`
+2. **Character views** — one image per token, each `<design from the Cast list>, single full-body front view, standing, clean soft cream background, even soft lighting, storybook illustration` (ROSIE, CAT, FENG, NEKOPAN, LALA, JUNE, CACTUSMAN, TORI).
+3. **Closing scene** — `A cozy moonlit bedroom: ROSIE tucked under a pink quilt with her lid and straw above it, eyes closed, a canvas tote on the nightstand with CAT the little blue penguin curled up asleep inside, fairy lights, stars in the window, a plain lamp glowing low, a smiling lychee card on the shelf.`

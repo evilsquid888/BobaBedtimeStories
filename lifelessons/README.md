@@ -1,6 +1,6 @@
 # 🌹 Life Lessons — Rosie's Step-by-Step Stories
 
-11 cozy bedtime stories that teach everyday social skills, one clear step at a time. **Rosie the Rose Milk Tea** is a sweet, slightly nervous little drink who gets brave once she knows the steps. Friends from the Taiwan, Japan, and Costa Rica collections coach her. Her big sister **Tori** is always there to cheer, and her little sister **Bud** tags along (usually with a sock).
+11 cozy bedtime stories that teach everyday social skills, one clear step at a time. **Rosie the Rose Milk Tea** is a sweet, slightly nervous little drink who gets brave once she knows the steps. Friends from the Taiwan, Japan, and Costa Rica collections coach her. Her big sister **Tori** is always there to cheer, her little sister **Bud** tags along (usually with a sock), and **Cat the penguin** — a sleepy little blue penguin from Frostpeak staying with Rosie's family — comes on every adventure and naps somewhere new each time.
 
 Written as a gentle social-skills guide (in the style of social stories), and useful for kids who do best with clear, literal, repeatable steps.
 
@@ -12,7 +12,8 @@ See also: [Character Guide](CHARACTER_GUIDE.md) · [Writing Spec](SPEC.md) · [�
 - **Magic sentence**: the one exact thing to say (in **bold**).
 - **A small surprise** happens, and Rosie handles it with a **Rose breath** (smell the rose: in for 4; blow out the candle: out for 4) and a backup sentence.
 - **Practice Together**: role-play tips for grown-ups.
-- **Video Storyboard**: about 5 minutes and 10 shots. Each shot has an image prompt, 3–4 one-action LTX 2.5 beats in screenplay form, and narration, plus 3 sample-image prompts (key scene, character portrait, closing scene).
+- **5 minutes, read aloud**: each story is 500–580 words plus a 4-line blessing, so the narrated video lands at about 4:20–4:50.
+- **Video Storyboard**: 14–20 rich "pop" stills and 36–48 one-action LTX-2.5 beats in screenplay form, each beat carrying its own line of narration, plus sample-image prompts (key scene, one view per character, closing scene). `python3 check_storyboard.py stories/*.md` checks every story against the spec.
 
 ## Story Index
 
@@ -30,9 +31,9 @@ See also: [Character Guide](CHARACTER_GUIDE.md) · [Writing Spec](SPEC.md) · [�
 | 10 | [Rosie Pays at the Checkout](stories/10-rosie-pays-at-the-checkout.md) | Paying and waiting for change | "Hi! Just this, please." | Feng 🇹🇼, Neko-Pan 🇯🇵, Lala 🇨🇷 |
 | 11 | [Rosie Says Goodbye at the Party](stories/11-rosie-says-goodbye-at-the-party.md) | Leaving a party: gather, find the hosts, say thank you, leave together | "Thank you for having us. We had fun!" | Marcus 🧭 (teen Inclusive Navigator), Feng 🇹🇼, Mochi 🇹🇼 |
 
-## Making the videos (LTX 2.5 / 2.3)
-See **[LTX_GUIDE.md](LTX_GUIDE.md)** for the full guide. The short version:
-1. Generate the **Character portrait** sample image first and use it as the identity reference for every shot.
-2. Generate each shot's still from its **Image prompt**.
-3. Animate each of the shot's 3–4 **beats** (one action each, ~8 s) at 1280×704, 193 frames, guide strength 0.75, using the story's negative prompt.
-4. Upscale with 2.5's latent upscaler, then lay the clips under the **Narration** voice-over. Ten shots of ~30 s is about 5 minutes.
+## Making the videos (LTX-2.5)
+See **[LTX_GUIDE.md](LTX_GUIDE.md)** for the full guide; it follows the local pipeline in `bedtime-video-pipeline` (RUNBOOK "Current production path"). The short version:
+1. Make one reference view per character (Sample Images → Character views).
+2. Generate each shot's still from its **Still** prompt (Qwen-Image-2.1, 1792×1024, the pipeline adds the day/night "pop" look).
+3. Animate each **beat** on LTX-2.5 two-stage `--hires`, motion-mode camera pins, soft end pin 0.35.
+4. Narrate the beats' **Narration** lines with Kokoro `jf_alpha,af_heart` at 0.92, then assemble. About 5 minutes.

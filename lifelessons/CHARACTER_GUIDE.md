@@ -27,11 +27,12 @@
 - **Appearance:** Tall Asian teen with short wavy black hair, warm brown eyes, a soft green hoodie with a small round compass pin on the chest, jeans and white sneakers, a kind easy smile.
 - **Voice:** Short, friendly, a little dry. Great pretend-dad voice.
 
-### Cat — Little Blue Penguin (from Frostpeak), Lulu's friend
+### Cat — Little Blue Penguin (from Frostpeak), Rosie's sleepy houseguest
 - **Catchphrase:** "Five more minutes." (of napping)
-- **Personality:** A penguin named Cat. She got the name because she sleeps like one — curled up on whatever is softest, including your jacket. Calm, quiet, a champion napper. Says no to hugs, politely. Visits from the Frostpeak / Penguinsnowboard universe.
-- **Appearance:** A small round little blue penguin with slate-blue feathers, a white tummy, sleepy half-closed eyes, and a tiny yellow scarf. Usually curled up asleep like a cat. Leaves one blue feather behind.
-- **Voice:** Mostly yawns.
+- **Personality:** A little blue penguin named Cat, visiting from Frostpeak and staying with Rosie's family. She got the name because she naps like one — curled up on whatever is softest or warmest: a shopping cart, a warm espresso machine, a pile of library books, your jacket. Calm, quiet, a champion napper. Says no to hugs, politely. **Comes along in every Life Lessons story** (at least 2 shots and one laugh each); she never teaches and never blocks the steps — except in story 11, where she naps on Rosie's jacket.
+- **Appearance:** A small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf. Usually curled up napping like a cat. Leaves one blue feather behind.
+- **Voice:** Mostly yawns. Her huge slow yawn looks a lot like a Rose breath.
+- **Prompts:** token `CAT`, ID phrase "the little blue penguin with the yellow scarf"; in stills always write "CAT the little blue penguin" (the name alone can draw a kitten), and "napping"/"dozing" in day shots ("asleep" switches the pipeline to the night look).
 
 ## Coaches (from the other Boba Bedtime Stories collections)
 

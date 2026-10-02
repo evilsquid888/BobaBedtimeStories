@@ -3,370 +3,291 @@
 **Life skill:** Ordering a drink at a coffee shop — waiting in line, ordering, giving your name, paying, waiting for your name to be called, and saying thank you.
 **Magic sentence:** "Hi! Can I please have a small hot chocolate?"
 **Coaches:** Don Café (Costa Rica — wise coffee bean, "Good things brew slowly") + Bīng (Taiwan — dramatic shaved ice who wants to order EVERYTHING)
-**Setting:** Rosie's kitchen (a pretend coffee shop with chairs for the line and a toaster for the pickup counter), then a real Starbucks on a cozy afternoon.
+**Setting:** Rosie's kitchen (a pretend coffee shop with chairs for the line and a toaster for the pickup counter), then a real Starbucks on a cozy afternoon — with Cat the penguin napping wherever it's warmest.
 
 ---
 
 ## The Story
 
-Rosie the Rose Milk Tea had a big plan. Tomorrow, she was going to order her very own drink at Starbucks.
+Rosie the Rose Milk Tea had a big plan. Tomorrow, she would order a drink at Starbucks.
 
-Her pink-striped straw drooped. "What if I say it wrong?" she asked.
+Her pink-striped straw drooped. "What if I say it wrong?"
 
-*Ding-dong!* Two coaches stood at the kitchen door.
+Ding-dong! Two coaches came. Don Café was a coffee bean in a straw hat. Bīng was a tower of shaved ice in sunglasses, dripping.
 
-The first was Don Café, a dark, glossy coffee bean in a tiny straw hat. He leaned on a little wooden walking stick and smelled like a warm morning.
+"I LOVE coffee shops!" Bīng shouted. "I want to order EVERYTHING! The NAPKINS!"
 
-The second was Bīng, a towering mountain of shaved ice in sunglasses. He was dripping on the doormat.
-
-"I LOVE coffee shops!" Bīng shouted. "I want to order EVERYTHING! Every drink! Every cookie! The NAPKINS!"
-
-"You cannot drink napkins, my friend," said Don Café. "Good things brew slowly. We learn one step at a time."
-
-"One step at a time, one sip at a time," said Rosie. "What's the first step?"
-
-Don Café wrote a list and stuck it on the fridge.
+"You cannot drink napkins, my friend," said Don Café. "Good things brew slowly. One step at a time."
 
 **Rosie's Steps**
-1. Stand in line behind the last person. Wait for your turn.
-2. When it's your turn, walk up to the counter and smile.
-3. Say the magic sentence: **"Hi! Can I please have a small hot chocolate?"**
-4. Answer the barista's questions. Tell them your name.
-5. Pay. Then say "Thank you!"
-6. Wait by the pickup counter. Listen for your name.
+1. Stand in line behind the last person.
+2. Walk up to the counter and smile.
+3. Say, **"Hi! Can I please have a small hot chocolate?"**
+4. Answer the questions. Tell them your name.
+5. Pay and say "Thank you!"
+6. Wait by the pickup counter for your name.
 
-"A barista is the person who makes the drinks," said Don Café. "They write your name on your cup. That is how they know which drink is yours."
+"A barista writes your name on your cup," said Don Café.
 
 "MY name would need a very big cup," said Bīng.
 
-Then it was time to practice. Bīng tied a dish towel around his middle like an apron. He was the barista. Two kitchen chairs made the line. The toaster was the pickup counter.
+Two chairs made the line. The toaster was the pickup counter. Inside a big oven mitt, Cat the penguin was napping. Cat was staying with Rosie's family. She napped like a cat, hence the name.
 
-Rosie practiced every step:
-1. Stand in line behind the last person. Wait for your turn.
-2. When it's your turn, walk up to the counter and smile.
-3. Say the magic sentence: **"Hi! Can I please have a small hot chocolate?"**
-4. Answer the barista's questions. Tell them your name.
-5. Pay. Then say "Thank you!"
-6. Wait by the pickup counter. Listen for your name.
+"I'm the barista," whispered Bīng, tying on a dish-towel apron. "Shh. Our first customer ordered a nap."
+
+Rosie practiced:
+1. Stand in line behind the last person.
+2. Walk up to the counter and smile.
+3. Say, **"Hi! Can I please have a small hot chocolate?"**
+4. Answer the questions. Tell them your name.
+5. Pay and say "Thank you!"
+6. Wait by the pickup counter for your name.
 
 "WELCOME to the GREATEST coffee shop in the UNIVERSE!" boomed Bīng.
 
-"Maybe a little quieter," said Don Café.
+"Maybe quieter," said Don Café.
 
-"Welcome," Bīng whispered. "What's your name?"
-
-"Rosie," said Rosie. She paid with a pretend button. "Thank you!"
-
-Then she waited by the toaster. "ROSIE!" called Bīng. Rosie held up her tiny hand. "That's me, thank you!"
+"Welcome," whispered Bīng. At the toaster, he called, "ROSIE!" "That's me, thank you!"
 
 "**加油** (jiāyóu) = you can do it!" cheered Bīng. He was so proud, he melted a little.
 
-The next afternoon, big sister Tori walked Rosie to Starbucks. It smelled like coffee and warm cookies. Tori gave Rosie a little pink wallet with money inside.
+The next afternoon, Tori walked Rosie to Starbucks. Cat came too, and fell asleep in a squashy armchair before the door even closed. "I'll be right by the door," said Tori. "You've got this, little sip."
 
-"I'll be right here by the door," said Tori. "You've got this, little sip."
+Rosie stood in line behind the last person. Bīng stared at the cookies. "Must... not... order... every... cookie."
 
-Rosie stood in line behind a tall man in a green scarf. She waited. Bīng waited too. He stared at the cookies. "Must... not... order... every... cookie," he whispered.
+Then it was her turn. She walked up to the counter and smiled.
 
-The man got his turn. Then it was Rosie's turn. She walked up to the counter and smiled.
+"Hi! What can I get for you?" asked the barista.
 
-"Hi! What can I get for you?" asked the barista. She had curly hair and a green apron.
+"**Hi! Can I please have a small hot chocolate?**"
 
-Rosie said, "**Hi! Can I please have a small hot chocolate?**"
+"Sure! Tall, grande, or venti?"
 
-"Sure! What size? Tall, grande, or venti?"
+Those words were not in the practice. Rosie felt nervous. Her straw drooped. That's okay.
 
-Rosie blinked. Tall? Grande? Venti? Those words were not in the practice.
+She did a Rose breath. Smell the rose — in, two, three, four. Blow out the candle — out, two, three, four.
 
-Rosie felt nervous. Her straw drooped. That's okay.
+"Um, the small one, please."
 
-She did a Rose breath. Smell the rose... in, two, three, four. Blow out the candle... out, two, three, four.
+"Tall it is! And your name?"
 
-Then she said her backup sentence. "Um, the small one, please."
+"Rosie." She paid. "Thank you!"
 
-"Tall it is!" said the barista. "Whipped cream on top?"
+At the pickup counter, Don Café leaned on his stick. "Here, tall means small. Even the cups have fancy names, *pequeña* — little one."
 
-"Yes, please!" said Rosie.
+"Hot chocolate for... Rosy?" Close enough!
 
-"And what's your name?"
+"That's me, thank you!"
 
-"Rosie."
+The whipped cream gave her a fluffy white mustache. "**好喝** (hǎohē) = yummy!"
 
-The barista wrote on the cup. Rosie paid with money from her pink wallet. The barista gave her a little change back.
+Bīng marched up. "EVERYTHING!" Don Café tapped his stick. Bīng sighed. "**Hi! Can I please have a small hot chocolate?** With the MOST whipped cream in the UNIVERSE."
 
-"Thank you!" said Rosie.
+In the armchair, Cat opened one eye. Whipped cream? Now she was awake.
 
-Then Rosie waited by the pickup counter. She listened. Don Café leaned on his walking stick beside her. "At this shop, tall means small," he said softly. "Grande means medium. Venti means big. Even the cups have fancy names, *pequeña*." (*Pequeña* means "little one" in Spanish.)
-
-A barista held up a cup. "Hot chocolate for... Rosy?"
-
-It sounded a tiny bit different. But it was her hot chocolate.
-
-"That's me, thank you!" said Rosie.
-
-She took a sip. It was warm and sweet. The whipped cream gave her a fluffy white mustache.
-
-"**好喝** (hǎohē) = yummy!" said Rosie. Her straw wiggled all the way up.
-
-Bīng marched to the counter. "I would like... EVERYTHING!"
-
-Don Café tapped his stick. "One thing, my friend."
-
-Bīng sighed the most dramatic sigh in history. Then he said, "**Hi! Can I please have a small hot chocolate?** With the MOST whipped cream in the UNIVERSE."
-
-"You got it!" said the barista, laughing.
-
-Tori hurried over and scooped Rosie into a hug. "You did it! You ordered all by yourself!"
+Tori scooped Rosie into a hug. "You ordered all by yourself!"
 
 "I did the steps," said Rosie. "And when something was different, I did a Rose breath."
 
-"That's my little sip," said Tori.
-
-On the walk home, Rosie held her cup with both hands. It said ROSY in big marker letters. Rosie smiled. She liked it anyway.
-
-That night, the ROSY cup sat on her nightstand. Rosie snuggled under her blanket and smiled a sleepy, proud smile.
+That night, the cup that said ROSY sat by her bed. Rosie smiled a sleepy, proud smile.
 
 ---
 
 ## 🌹 Rosie's Steps (Recap)
-1. Stand in line behind the last person. Wait for your turn.
-2. When it's your turn, walk up to the counter and smile.
-3. Say the magic sentence: **"Hi! Can I please have a small hot chocolate?"**
-4. Answer the barista's questions. Tell them your name.
-5. Pay. Then say "Thank you!"
-6. Wait by the pickup counter. Listen for your name.
+1. Stand in line behind the last person.
+2. Walk up to the counter and smile.
+3. Say, **"Hi! Can I please have a small hot chocolate?"**
+4. Answer the questions. Tell them your name.
+5. Pay and say "Thank you!"
+6. Wait by the pickup counter for your name.
 
 **If something surprising happens:** Rose breath, then say: "Um, the small one, please." (If they ask something else, you can say "Yes, please!" or "No, thank you." If they say your name a little wrong, say: "That's me, thank you!")
 
 ## 💬 Practice Together (for grown-ups)
-- Set up a pretend coffee shop: chairs for the line, a counter, and a "pickup spot." You play the barista first, then let your child be the barista so she hears the questions from both sides.
-- Practice the real barista questions she will hear: "What can I get for you?", "What size?", "Tall, grande, or venti?", "Whipped cream?", "What's your name?" Mix in one surprise question each time so the backup sentence and Rose breath get practice too.
-- Praise the specific steps: "You waited behind the last person!", "You smiled and said the whole magic sentence!", "You listened for your name!" Small, exact praise helps the steps stick.
-- For real-world practice, pick a quiet time of day (mid-morning or mid-afternoon). Stand a few steps away where she can see you, let her hold the money, and point to the pickup counter together before she orders. Tip: Starbucks "tall" is the small size, and a kids' hot chocolate is also usually available.
+- Set up a pretend coffee shop: chairs for the line, a counter, and a "pickup spot" (a toaster works, and a stuffed penguin napping in an oven mitt is optional). Play the barista first, then swap so your child hears the questions from both sides.
+- Practice the real questions: "What can I get for you?", "Tall, grande, or venti?", "Whipped cream?", "What's your name?" Mix in one surprise each time so the Rose breath and "Um, the small one, please" get practice too.
+- Praise exact steps: "You waited behind the last person!", "You said the whole magic sentence!", "You listened for your name!"
+- For the real thing, pick a quiet mid-morning or mid-afternoon. Stand where your child can see you, let them hold the money, and point out the pickup counter before they order. Tip: at Starbucks "tall" is the small size, and kids' hot chocolate is usually available.
 
 ## 🌙 Goodnight Blessing
-Goodnight, little sip, all warm and all cozy,
-Your cup says your name — whether Rosie or Rosy.
-You waited, you smiled, you said it just right,
-And when things were different, you breathed nice and light.
-Now blow out the candle, and smell the sweet rose...
-One step, and one sip, and it's time for your doze.
+Goodnight, little sip, all warm and all cozy.
+Your cup knows your name, whether Rosie or Rosy.
+Goodnight, Cat, dreaming of whipped cream.
+One step, one sip, and sweet dreams.
 
 ---
 
-## 🎬 Video Storyboard (LTX)
+## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~5:00 · **Shots:** 10
-**Art style (use on ALL shots):** Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9.
-**Character reference — Rosie:** `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-**Character reference — coaches:**
-- `Don Café, a small dark glossy roasted coffee bean with a deep center crease, a tiny straw farmer's hat, a miniature wooden walking stick, kind wise grandfatherly eyes`
-- `Bīng, a towering fluffy mountain of shaved ice piled with colorful toppings (mango cubes, red beans, mochi balls, condensed milk drizzle), dripping at the edges, wearing cool black sunglasses, dramatic expression`
-- `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve`
+**Runtime:** ~4:37 (est.) · **Narrated words:** 609 · **Stills:** 20 · **Beats:** 48
+**Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
+**Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
+**Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
+**Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: BARISTA only. The shop is drawn as a cozy coffee shop with green accents — no logo, no lettering.
+- `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `DONCAFE` → Don Café, the little coffee bean in the straw hat · `Don Café, a small dark glossy roasted coffee bean with a deep center crease, a tiny woven straw farmer's hat, a miniature wooden walking stick, tiny arms and legs, kind wise grandfatherly eyes and a gentle smile`
+- `BING` → Bīng, the tall shaved-ice mountain in sunglasses · `Bīng, a towering fluffy mountain of snowy shaved ice piled with colorful toppings (mango cubes, red beans, little mochi balls, a condensed-milk drizzle), dripping at the edges, cool black sunglasses, tiny arms, a big dramatic expression`
+- `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
+- `BARISTA` → the curly-haired barista in the green apron · `a friendly young woman barista with curly brown hair, warm brown eyes, a cheerful smile, a cream shirt and a plain green apron`
 
-**LTX settings:** 1280×704 · 193 frames (~8 s) per beat · guide strength 0.75 · see `LTX_GUIDE.md`
-**Negative prompt (all beats):** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
-**ID phrases (use word-for-word in every beat):**
-- Rosie → the little pink rose-milk-tea cup with the striped straw
-- Tori → the tall golden lychee-tea cup with the green straw
-- Don Café → the little coffee bean in the straw hat
-- Bīng → the tall shaved-ice mountain in sunglasses
-- Barista → the curly-haired barista in the green apron
+### Shot 1 — TITLE · day
+**Still:** `Low angle across a sunny kitchen table, looking up at tiny ROSIE standing beside a little pink wallet and a green toy cash register, her straw drooping a little, eyes wide and hopeful. Morning sun pours through a lace-curtained window in long gold beams, a teal teapot, a jar of cocoa, a vase of coral roses, a bowl of oranges, dust motes glittering in the sunbeam.`
+1. **Narration:** Rosie the Rose Milk Tea had a big plan. Tomorrow, she would order a drink at Starbucks.
+   `Shot: medium shot. Scene: the sunny kitchen table. Action: ROSIE pats the little pink wallet and gives one excited little hop, while dust motes swirl in the sunbeam. Character: the little pink rose-milk-tea cup with the striped straw — eyes sparkling with a big plan. Camera: slowly pushes in. Audio: morning birdsong, a soft kitchen hum, no music, no voices, no speech.`
+2. **Narration:** Her pink-striped straw drooped. "What if I say it wrong?"
+   `Shot: medium close-up. Scene: the same sunny table. Action: ROSIE's striped straw slowly droops and she holds the little wallet tight in front of her cup, while tiny bubbles rise in her tea. Character: the little pink rose-milk-tea cup with the striped straw — excitement melting into worry. Camera: holds still. Audio: a ticking kitchen clock, no music, no voices, no speech.`
 
-### Shot 1 — TITLE (0:00–0:30)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, standing in a cozy pastel kitchen at golden afternoon, looking a little nervous with her straw slightly drooping, a tiny paper coffee cup drawing on the table beside her.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium close-up. Scene: cozy kitchen, golden afternoon. Action: she glances down at the paper cup drawing on the table. Character: the little pink rose-milk-tea cup with the striped straw — eyes light up with a hopeful idea. Camera: pushes in slowly. Audio: soft kitchen hum, a clock ticking. No speech.`
-2. `Shot: close-up. Scene: same kitchen, warm light. Action: her striped straw slowly droops to one side. Character: the little pink rose-milk-tea cup with the striped straw — hopeful eyes turn a little worried. Camera: holds still. Audio: gentle afternoon birdsong. No speech.`
-3. `Shot: medium close-up. Scene: same kitchen. Action: she looks up and gives a slow, wondering blink. Character: the little pink rose-milk-tea cup with the striped straw — worried brows lift into a nervous question. Camera: pulls back slightly. Audio: soft kitchen hum, a faint breeze. No speech.`
-**Narration:**
-> Rosie the Rose Milk Tea had a big plan. Tomorrow, she was going to order her very own drink at Starbucks.
->
-> Her pink-striped straw drooped. "What if I say it wrong?" she asked.
+### Shot 2 — THE COACHES ARRIVE · day
+**Still:** `Wide view of a bright kitchen doorway, sunshine spilling in from outside: DONCAFE stands leaning on his little wooden walking stick, tipping his straw hat, and beside him BING towers almost to the top of the door frame in sunglasses, colorful toppings glistening, a small puddle forming on the coral doormat. Coats on wooden hooks, a potted fern, a teal umbrella stand, framed pictures on the wall.`
+3. **Narration:** Ding-dong! Two coaches came. Don Café was a coffee bean in a straw hat.
+   `Shot: wide shot. Scene: the sunny kitchen doorway. Action: DONCAFE tips his little straw hat with a slow polite nod, while sunshine flares around the door. Character: Don Café, the little coffee bean in the straw hat — wise, twinkly smile. Camera: slowly pushes in. Audio: a soft doorbell chime fading, a door creak, no music, no voices, no speech.`
+4. **Narration:** Bīng was a tower of shaved ice in sunglasses, dripping.
+   `Shot: medium shot. Scene: the sunny kitchen doorway. Action: BING lowers his sunglasses dramatically as one drip plops onto the doormat. Character: Bīng, the tall shaved-ice mountain in sunglasses — grand and dramatic. Camera: slowly tilts up. Audio: a tiny drip, a soft plop, no music, no voices, no speech.`
 
-### Shot 2 — THE COACHES ARRIVE (0:30–1:00)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A cozy kitchen doorway. Don Café, a small dark glossy roasted coffee bean with a deep center crease, a tiny straw farmer's hat, a miniature wooden walking stick, kind wise grandfatherly eyes, leaning on his walking stick and tipping his hat. Beside him Bīng, a towering fluffy mountain of shaved ice piled with colorful toppings (mango cubes, red beans, mochi balls, condensed milk drizzle), dripping at the edges, wearing cool black sunglasses, dramatic expression, arms thrown wide, a small puddle on the doormat. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw smiles up at them from inside.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: wide. Scene: kitchen doorway, warm light. Action: the kitchen door swings slowly open. Character: the little pink rose-milk-tea cup with the striped straw — eyes widen with happy surprise. Camera: holds still. Audio: a soft doorbell ding-dong, a gentle door creak. No speech.`
-2. `Shot: medium shot. Scene: doorway. Action: he tips his straw hat with one slow bow. Character: the little coffee bean in the straw hat — kind eyes crinkle into a warm smile. Camera: pushes in gently. Audio: soft morning birdsong. No speech.`
-3. `Shot: medium shot. Scene: doorway, doormat. Action: he throws his arms wide as big drips plop onto the doormat. Character: the tall shaved-ice mountain in sunglasses — beams a huge, dramatic grin. Camera: tilts up. Audio: soft drip-drip on the mat. No speech.`
-4. `Shot: medium close-up. Scene: inside the kitchen. Action: her striped straw perks up as she leans forward. Character: the little pink rose-milk-tea cup with the striped straw — shy smile grows eager. Camera: pans right. Audio: gentle kitchen hum. No speech.`
-**Narration:**
-> *Ding-dong!* Two coaches stood at the kitchen door.
->
-> The first was Don Café, a dark, glossy coffee bean in a tiny straw hat. He leaned on a little wooden walking stick and smelled like a warm morning.
->
-> The second was Bīng, a towering mountain of shaved ice in sunglasses. He was dripping on the doormat.
->
-> "I LOVE coffee shops!" Bīng shouted. "I want to order EVERYTHING! Every drink! Every cookie! The NAPKINS!"
->
-> "You cannot drink napkins, my friend," said Don Café. "Good things brew slowly. We learn one step at a time."
->
-> "One step at a time, one sip at a time," said Rosie. "What's the first step?"
+### Shot 3 — ORDER EVERYTHING · day
+**Still:** `Low angle from the kitchen floor looking up at towering BING: he throws both tiny arms wide with a huge excited grin, a fan of paper napkins clutched in one hand, mango cubes bouncing on top of him, drips flying; DONCAFE stands calmly at his base, both hands resting on his walking stick, eyebrows raised, amused. Teal cupboards, hanging copper pots, a window box of pink geraniums, morning sun through the window glinting on the shaved ice, sparkly ice crystals drifting.`
+5. **Narration:** "I LOVE coffee shops!" Bīng shouted. "I want to order EVERYTHING! The NAPKINS!"
+   `Shot: medium shot. Scene: the sunny kitchen. Action: BING waves the napkins over his head with both arms, while sparkly ice crystals drift off him in the sunlight. Character: Bīng, the tall shaved-ice mountain in sunglasses — wildly excited. Camera: slowly pulls back. Audio: a paper napkin flutter, a soft kitchen hum, no music, no voices, no speech.`
+6. **Narration:** "You cannot drink napkins, my friend," said Don Café. "Good things brew slowly. One step at a time."
+   `Shot: medium close-up. Scene: the sunny kitchen. Action: DONCAFE gently taps his walking stick on the floor and smiles. Character: Don Café, the little coffee bean in the straw hat — calm, wise, amused. Camera: slowly pushes in. Audio: a soft wooden tap, no music, no voices, no speech.`
 
-### Shot 3 — THE STEPS ON THE FRIDGE (1:00–1:30)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Don Café, a small dark glossy roasted coffee bean with a deep center crease, a tiny straw farmer's hat, a miniature wooden walking stick, kind wise grandfatherly eyes sticking a paper list of six squiggly lines with little doodles of a line of people, a smile, a speech bubble, a coin, and a cup onto a pastel fridge with a magnet. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw studies it closely, hands clasped. Bīng, a towering fluffy mountain of shaved ice piled with colorful toppings (mango cubes, red beans, mochi balls, condensed milk drizzle), dripping at the edges, wearing cool black sunglasses, dramatic expression peeks over, a tiny paper cup on his head as a hat.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: pastel fridge, warm light. Action: he presses the list flat onto the fridge with a magnet. Character: the little coffee bean in the straw hat — calm, focused eyes. Camera: holds still. Audio: a soft magnet click, fridge hum. No speech.`
-2. `Shot: close-up. Scene: fridge. Action: she leans in closer to the list. Character: the little pink rose-milk-tea cup with the striped straw — eyes widen with careful focus. Camera: tilts up from the list to her face. Audio: quiet fridge hum. No speech.`
-3. `Shot: medium close-up. Scene: fridge. Action: he gives one slow, wise nod. Character: the little coffee bean in the straw hat — gentle, knowing smile. Camera: pans left. Audio: a soft ticking clock. No speech.`
-4. `Shot: medium shot. Scene: fridge. Action: he bobs in from the side, the paper cup wobbling on his head. Character: the tall shaved-ice mountain in sunglasses — eyebrows lift proudly above the sunglasses. Camera: pulls back. Audio: a soft drip, a tiny paper rustle. No speech.`
-**Narration:**
-> Don Café wrote a list and stuck it on the fridge.
->
-> **Rosie's Steps**
-> 1. Stand in line behind the last person. Wait for your turn.
-> 2. When it's your turn, walk up to the counter and smile.
-> 3. Say the magic sentence: **"Hi! Can I please have a small hot chocolate?"**
-> 4. Answer the barista's questions. Tell them your name.
-> 5. Pay. Then say "Thank you!"
-> 6. Wait by the pickup counter. Listen for your name.
->
-> "A barista is the person who makes the drinks," said Don Café. "They write your name on your cup. That is how they know which drink is yours."
->
-> "MY name would need a very big cup," said Bīng.
+### Shot 4 — THE STEPS · day
+**Still:** `Low angle from the counter looking up the tall sunny fridge door: a big paper list stuck on it with a coral magnet, six rows of simple picture doodles (a row of little chairs, a counter with a smile, a heart, a little open mouth, a coin, a little bell). DONCAFE stands on the counter pointing up at the list with his walking stick like a wise old guide, and ROSIE stands beside him gazing up, straw standing tall. Teal fruit magnets, crayon flower drawings, a fruit bowl, warm honey window light with floating dust.`
+7. **Narration:** **Rosie's Steps** 1. Stand in line behind the last person. 2. Walk up to the counter and smile.
+   `Shot: medium shot. Scene: the sunny kitchen fridge. Action: DONCAFE reaches up and taps the first rows of the doodle list with his walking stick, while dust motes drift in the light. Character: Don Café, the little coffee bean in the straw hat — patient, wise. Camera: slowly tilts down. Audio: a soft tap on paper, a fridge hum, no music, no voices, no speech.`
+8. **Narration:** 3. Say, **"Hi! Can I please have a small hot chocolate?"**
+   `Shot: medium close-up. Scene: the sunny kitchen fridge. Action: ROSIE tries a big hopeful smile, her straw lifting. Character: the little pink rose-milk-tea cup with the striped straw — shy smile growing brave. Camera: slowly pushes in. Audio: a soft happy chime, no music, no voices, no speech.`
+9. **Narration:** 4. Answer the questions. Tell them your name.
+   `Shot: medium shot. Scene: the sunny kitchen fridge. Action: DONCAFE nods slowly and ROSIE nods along with him. Character: Don Café, the little coffee bean in the straw hat — patient and kind. Camera: slowly pans right. Audio: a fridge hum, birdsong, no music, no voices, no speech.`
 
-### Shot 4 — PRETEND COFFEE SHOP (1:30–2:00)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A kitchen set up as a pretend coffee shop: two kitchen chairs in a row as the line, a toaster as the pickup counter. Bīng, a towering fluffy mountain of shaved ice piled with colorful toppings (mango cubes, red beans, mochi balls, condensed milk drizzle), dripping at the edges, wearing cool black sunglasses, dramatic expression wears a striped dish towel tied like an apron behind the table counter, arms spread, shouting joyfully. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw stands in line behind Don Café, a small dark glossy roasted coffee bean with a deep center crease, a tiny straw farmer's hat, a miniature wooden walking stick, kind wise grandfatherly eyes, who waits patiently.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: pretend coffee shop kitchen. Action: he pats the striped dish-towel apron flat. Character: the tall shaved-ice mountain in sunglasses — proud, puffed-up grin. Camera: pushes in. Audio: soft cloth rustle, kitchen hum. No speech.`
-2. `Shot: medium shot. Scene: chair line. Action: she takes one small step forward in line. Character: the little pink rose-milk-tea cup with the striped straw — determined little smile. Camera: tracks beside her. Audio: tiny footstep taps. No speech.`
-3. `Shot: medium wide. Scene: table counter. Action: he flings his arms up and a few toppings sprinkle down. Character: the tall shaved-ice mountain in sunglasses — huge, delighted grin. Camera: holds still. Audio: soft pitter-patter of falling toppings. No speech.`
-4. `Shot: medium close-up. Scene: chair line. Action: he gently lifts his walking stick. Character: the little coffee bean in the straw hat — patient, amused eyes. Camera: pans left. Audio: quiet kitchen hum. No speech.`
-**Narration:**
-> Then it was time to practice. Bīng tied a dish towel around his middle like an apron. He was the barista. Two kitchen chairs made the line. The toaster was the pickup counter.
->
-> Rosie practiced every step:
-> 1. Stand in line behind the last person. Wait for your turn.
-> 2. When it's your turn, walk up to the counter and smile.
-> 3. Say the magic sentence: **"Hi! Can I please have a small hot chocolate?"**
-> 4. Answer the barista's questions. Tell them your name.
-> 5. Pay. Then say "Thank you!"
-> 6. Wait by the pickup counter. Listen for your name.
->
-> "WELCOME to the GREATEST coffee shop in the UNIVERSE!" boomed Bīng.
->
-> "Maybe a little quieter," said Don Café.
+### Shot 5 — A VERY BIG CUP · day
+**Still:** `Tabletop-level wide shot along the sunny kitchen counter: BING proudly hoists a huge shiny mixing bowl overhead like a giant coffee cup, sunglasses gleaming, proud and silly, while ROSIE giggles beside the little pink wallet and DONCAFE leans on his stick shaking his head with a smile. Teal tiles, a steaming kettle with curling steam, a jar of cocoa, a bowl of lychees, coral dish towels, window sun flashing off the bowl.`
+10. **Narration:** 5. Pay and say "Thank you!" 6. Wait by the pickup counter for your name.
+   `Shot: medium close-up. Scene: the sunny kitchen counter. Action: ROSIE counts on her tiny fingers, five, six, while steam curls from the kettle. Character: the little pink rose-milk-tea cup with the striped straw — careful and serious. Camera: slowly pushes in. Audio: a kettle sigh, no music, no voices, no speech.`
+11. **Narration:** "A barista writes your name on your cup," said Don Café.
+   `Shot: medium shot. Scene: the sunny kitchen counter. Action: DONCAFE draws a little swirl in the air with the tip of his walking stick. Character: Don Café, the little coffee bean in the straw hat — gentle teacher. Camera: slowly pans left. Audio: a soft swish, a kitchen hum, no music, no voices, no speech.`
+12. **Narration:** "MY name would need a very big cup," said Bīng.
+   `Shot: medium shot. Scene: the sunny kitchen counter. Action: BING hoists the huge mixing bowl high with a proud grin, while ROSIE shakes with giggles. Character: Bīng, the tall shaved-ice mountain in sunglasses — proud and silly. Camera: slowly pulls back. Audio: a soft clang of the bowl, no music, no voices, no speech.`
 
-### Shot 5 — PRACTICE PICKUP (2:00–2:30)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw waits beside a shiny toaster used as a pretend pickup counter, raising her tiny hand happily. Bīng, a towering fluffy mountain of shaved ice piled with colorful toppings (mango cubes, red beans, mochi balls, condensed milk drizzle), dripping at the edges, wearing cool black sunglasses, dramatic expression, in a dish-towel apron, holds up a mug and calls out, melting a little from pride, small drips on the floor. Don Café, a small dark glossy roasted coffee bean with a deep center crease, a tiny straw farmer's hat, a miniature wooden walking stick, kind wise grandfatherly eyes claps softly.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: pretend counter. Action: he leans down low toward her. Character: the tall shaved-ice mountain in sunglasses — soft, gentle eyebrows. Camera: pushes in. Audio: quiet kitchen hum. No speech.`
-2. `Shot: close-up. Scene: pretend counter. Action: she presses a pretend button with one tiny finger. Character: the little pink rose-milk-tea cup with the striped straw — proud small smile. Camera: holds still. Audio: a tiny soft beep. No speech.`
-3. `Shot: medium shot. Scene: toaster pickup counter. Action: she raises her tiny hand and her straw wiggles up. Character: the little pink rose-milk-tea cup with the striped straw — bright eyes, happy grin. Camera: pans right. Audio: a gentle toaster tick. No speech.`
-4. `Shot: medium shot. Scene: toaster pickup counter. Action: he sags and melts a little, dripping with pride. Character: the tall shaved-ice mountain in sunglasses — cheeks flush with a wobbly happy smile. Camera: pulls back. Audio: soft dripping, gentle clapping. No speech.`
-**Narration:**
-> "Welcome," Bīng whispered. "What's your name?"
->
-> "Rosie," said Rosie. She paid with a pretend button. "Thank you!"
->
-> Then she waited by the toaster. "ROSIE!" called Bīng. Rosie held up her tiny hand. "That's me, thank you!"
->
-> "**加油** (jiāyóu) = you can do it!" cheered Bīng. He was so proud, he melted a little.
+### Shot 6 — THE PRETEND SHOP · day
+**Still:** `Wide view of the sunny kitchen turned into a pretend coffee shop: two wooden chairs lined up in a row as the line, a shiny silver toaster on the counter as the pickup counter, and beside it a big coral quilted oven mitt lying on the counter like a snug little bedroll, with CAT the little blue penguin napping inside it, only her beak and yellow scarf poking out. A green paper sign with a coffee-cup doodle, a potted plant, teal cupboards, sunbeams across the floor.`
+13. **Narration:** Two chairs made the line. The toaster was the pickup counter.
+   `Shot: wide shot. Scene: the pretend coffee-shop kitchen. Action: sunlight glints across the shiny toaster, while dust motes drift through the sunbeams. Character: Cat, the little blue penguin with the yellow scarf — napping in the oven mitt. Camera: slowly pans right. Audio: a soft kitchen hum, birdsong, no music, no voices, no speech.`
+14. **Narration:** Inside a big oven mitt, Cat the penguin was napping.
+   `Shot: medium shot. Scene: the counter and the oven mitt. Action: the quilted oven mitt rises and falls gently as CAT naps inside it, her beak peeking out. Character: Cat, the little blue penguin with the yellow scarf — blissfully cozy. Camera: slowly pushes in. Audio: a tiny soft penguin snore, no music, no voices, no speech.`
 
-### Shot 6 — THE REAL LINE (2:30–3:00)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Inside a warm, friendly coffee shop in a gentle human-sized world, wooden counter, pastry case of cookies, chalkboard menu of simple drink doodles, green aprons. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw stands in line behind a tall kind man in a green scarf, holding a little pink wallet. Bīng, a towering fluffy mountain of shaved ice piled with colorful toppings (mango cubes, red beans, mochi balls, condensed milk drizzle), dripping at the edges, wearing cool black sunglasses, dramatic expression presses his face toward the cookie case, sunglasses fogging. Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve waves from near the door.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: coffee shop door, warm light. Action: she waves gently toward Rosie. Character: the tall golden lychee-tea cup with the green straw — warm, encouraging smile. Camera: holds still. Audio: soft café ambience, an espresso hiss. No speech.`
-2. `Shot: medium shot. Scene: the line. Action: she hugs the little pink wallet close and waits. Character: the little pink rose-milk-tea cup with the striped straw — nervous eyes, straw held very still. Camera: tracks beside her. Audio: cups clinking softly. No speech.`
-3. `Shot: close-up. Scene: cookie case. Action: his sunglasses slowly fog as he leans toward the cookies. Character: the tall shaved-ice mountain in sunglasses — wobbly, longing eyebrows. Camera: pushes in. Audio: soft café hum, a gentle drip. No speech.`
-4. `Shot: medium shot. Scene: wooden counter. Action: she steps up to the counter. Character: the little pink rose-milk-tea cup with the striped straw — nervous eyes brighten into a brave smile. Camera: tracks beside her. Audio: soft café ambience. No speech.`
-**Narration:**
-> The next afternoon, big sister Tori walked Rosie to Starbucks. It smelled like coffee and warm cookies. Tori gave Rosie a little pink wallet with money inside.
->
-> "I'll be right here by the door," said Tori. "You've got this, little sip."
->
-> Rosie stood in line behind a tall man in a green scarf. She waited. Bīng waited too. He stared at the cookies. "Must... not... order... every... cookie," he whispered.
->
-> The man got his turn. Then it was Rosie's turn. She walked up to the counter and smiled.
->
-> "Hi! What can I get for you?" asked the barista. She had curly hair and a green apron.
->
-> Rosie said, "**Hi! Can I please have a small hot chocolate?**"
+### Shot 7 — A NAP IN AN OVEN MITT · day
+**Still:** `Close on a big coral quilted oven mitt lying on the sunny counter like a snug little bedroll: CAT the little blue penguin napping snugly inside it, only her beak and tiny yellow scarf poking out of the cuff, while BING leans in from the side with a dish towel tied around his middle like an apron, one tiny finger to his lips. Warm sun, flour dust glinting, a teal tea towel, a little potted basil.`
+15. **Narration:** Cat was staying with Rosie's family. She napped like a cat, hence the name.
+   `Shot: close-up. Scene: the oven mitt on the counter. Action: CAT gives a huge slow yawn and wiggles deeper into the oven mitt until only her beak shows. Character: Cat, the little blue penguin with the yellow scarf — blissfully sleepy. Camera: holds still. Audio: a tiny squeaky yawn, no music, no voices, no speech.`
+16. **Narration:** "I'm the barista," whispered Bīng, tying on a dish-towel apron. "Shh. Our first customer ordered a nap."
+   `Shot: medium close-up. Scene: the oven mitt on the counter. Action: BING holds a tiny finger to his lips and tiptoes back, the dish-towel apron swinging. Character: Bīng, the tall shaved-ice mountain in sunglasses — comically hushed. Camera: slowly pulls back. Audio: a soft shushing breeze, a tiny drip, no music, no voices, no speech.`
 
-### Shot 7 — THE SURPRISE QUESTION (3:00–3:30)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw at a coffee shop counter looking up at a kind human barista with curly hair and a green apron, who holds up three cup sizes, small, medium, and big. Rosie's straw droops; a soft pink rose and a birthday candle glow faintly beside her as she breathes in and out. Calm, gentle mood.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: coffee shop counter. Action: she holds the three cup sizes up a little higher. Character: the curly-haired barista in the green apron — friendly, patient smile. Camera: holds still. Audio: soft café ambience. No speech.`
-2. `Shot: close-up. Scene: counter. Action: her striped straw droops. Character: the little pink rose-milk-tea cup with the striped straw — eyes blink wide, confused. Camera: pushes in slowly. Audio: café hum grows softer. No speech.`
-3. `Shot: close-up. Scene: counter, soft rose and candle glow. Action: she breathes slowly in and out, and her straw lifts. Character: the little pink rose-milk-tea cup with the striped straw — eyes close, then open calm. Camera: holds still. Audio: a soft breathy whoosh, a gentle chime. No speech.`
-4. `Shot: medium shot. Scene: counter. Action: she writes on a small cup with a marker. Character: the curly-haired barista in the green apron — warm smile. Camera: pans right. Audio: a soft marker squeak, coins clinking. No speech.`
-**Narration:**
-> "Sure! What size? Tall, grande, or venti?"
->
-> Rosie blinked. Tall? Grande? Venti? Those words were not in the practice.
->
-> Rosie felt nervous. Her straw drooped. That's okay.
->
-> She did a Rose breath. Smell the rose... in, two, three, four. Blow out the candle... out, two, three, four.
->
-> Then she said her backup sentence. "Um, the small one, please."
->
-> "Tall it is!" said the barista. "Whipped cream on top?"
->
-> "Yes, please!" said Rosie.
->
-> "And what's your name?"
->
-> "Rosie."
->
-> The barista wrote on the cup. Rosie paid with money from her pink wallet. The barista gave her a little change back.
->
-> "Thank you!" said Rosie.
+### Shot 8 — PRACTICE · day
+**Still:** `Over-the-shoulder from behind BING's snowy shoulder at the pretend counter, looking toward ROSIE: she stands on the first of the two lined-up wooden chairs, straw tall, ready and brave, while BING waits in his dish-towel apron, sunglasses pushed up, trying very hard to look serious. A toy cash register made of a shoebox, a jar of wooden spoons, a teal teapot, coral flowers, window sunbeams with floating dust.`
+17. **Narration:** Rosie practiced: 1. Stand in line behind the last person. 2. Walk up to the counter and smile.
+   `Shot: medium shot. Scene: the pretend coffee shop. Action: ROSIE hops from the chair toward the counter and gives a bright smile. Character: the little pink rose-milk-tea cup with the striped straw — focused and brave. Camera: tracks beside. Audio: a tiny hop, a soft kitchen hum, no music, no voices, no speech.`
+18. **Narration:** 3. Say, **"Hi! Can I please have a small hot chocolate?"**
+   `Shot: medium close-up. Scene: the pretend coffee shop. Action: ROSIE looks up at BING and smiles warmly, her straw springing upright. Character: the little pink rose-milk-tea cup with the striped straw — clear and confident. Camera: slowly pushes in. Audio: a soft happy chime, no music, no voices, no speech.`
+19. **Narration:** 4. Answer the questions. Tell them your name.
+   `Shot: medium shot. Scene: the pretend coffee shop. Action: BING tilts his head and listens with exaggerated seriousness, a drip sliding down his side. Character: Bīng, the tall shaved-ice mountain in sunglasses — trying hard to be a calm barista. Camera: slowly pans right. Audio: a tiny drip, a kitchen hum, no music, no voices, no speech.`
 
-### Shot 8 — ROSY? (3:30–4:00)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. At the coffee shop pickup counter, a smiling barista holds out a small hot chocolate topped with whipped cream, a little marker scribble on the cup. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw reaches up with a happy face and a fluffy whipped-cream mustache. Don Café, a small dark glossy roasted coffee bean with a deep center crease, a tiny straw farmer's hat, a miniature wooden walking stick, kind wise grandfatherly eyes stands beside her leaning on his stick, smiling.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: pickup counter. Action: he leans on his stick toward Rosie. Character: the little coffee bean in the straw hat — gentle, knowing smile. Camera: holds still. Audio: soft café ambience. No speech.`
-2. `Shot: medium shot. Scene: pickup counter. Action: she slides the small hot chocolate forward. Character: the curly-haired barista in the green apron — bright, friendly smile. Camera: pushes in. Audio: a soft cup slide on wood. No speech.`
-3. `Shot: medium close-up. Scene: pickup counter. Action: she reaches up and takes the cup in both hands. Character: the little pink rose-milk-tea cup with the striped straw — a surprised blink, then happy eyes. Camera: tilts down. Audio: a gentle espresso hiss. No speech.`
-4. `Shot: close-up. Scene: pickup counter. Action: her striped straw wiggles all the way up. Character: the little pink rose-milk-tea cup with the striped straw — whipped-cream mustache, eyes squeeze shut in delight. Camera: pushes in. Audio: a soft happy chime. No speech.`
-**Narration:**
-> Then Rosie waited by the pickup counter. She listened. Don Café leaned on his walking stick beside her. "At this shop, tall means small," he said softly. "Grande means medium. Venti means big. Even the cups have fancy names, *pequeña*." (*Pequeña* means "little one" in Spanish.)
->
-> A barista held up a cup. "Hot chocolate for... Rosy?"
->
-> It sounded a tiny bit different. But it was her hot chocolate.
->
-> "That's me, thank you!" said Rosie.
->
-> She took a sip. It was warm and sweet. The whipped cream gave her a fluffy white mustache.
->
-> "**好喝** (hǎohē) = yummy!" said Rosie. Her straw wiggled all the way up.
+### Shot 9 — THE GREATEST COFFEE SHOP · day
+**Still:** `Wide, low view of the pretend coffee shop in the sunny kitchen: BING flings both arms wide behind the counter in a grand welcome, mango cubes and ice sparkles flying, while DONCAFE stands on the counter beside him with one hand raised in a gentle hush gesture; ROSIE stands at the counter's edge by the shoebox cash register, smiling politely. Long sunbeams, a teal teapot, coral flowers, the shiny toaster, glittering ice dust in the air.`
+20. **Narration:** 5. Pay and say "Thank you!" 6. Wait by the pickup counter for your name.
+   `Shot: medium shot. Scene: the pretend coffee shop. Action: ROSIE presses a pretend button on the shoebox register and gives a polite little bow. Character: the little pink rose-milk-tea cup with the striped straw — polite and pleased. Camera: slowly pushes in. Audio: a toy register ding, no music, no voices, no speech.`
+21. **Narration:** "WELCOME to the GREATEST coffee shop in the UNIVERSE!" boomed Bīng. "Maybe quieter," said Don Café.
+   `Shot: medium shot. Scene: the pretend coffee shop. Action: BING flings his arms wide as ice sparkles burst off him in the sunlight. Character: Bīng, the tall shaved-ice mountain in sunglasses — enormously dramatic. Camera: slowly pulls back. Audio: a soft whoosh, tinkling ice, no music, no voices, no speech.`
 
-### Shot 9 — BĪNG ORDERS + TORI HUG (4:00–4:30)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Coffee shop: Bīng, a towering fluffy mountain of shaved ice piled with colorful toppings (mango cubes, red beans, mochi balls, condensed milk drizzle), dripping at the edges, wearing cool black sunglasses, dramatic expression at the counter receiving a small hot chocolate with a ridiculously tall tower of whipped cream, laughing barista. In the foreground Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve scoops Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw into a big warm hug. Don Café, a small dark glossy roasted coffee bean with a deep center crease, a tiny straw farmer's hat, a miniature wooden walking stick, kind wise grandfatherly eyes chuckles, hat tipped.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: coffee shop counter. Action: he throws his arms wide at the counter. Character: the tall shaved-ice mountain in sunglasses — huge, hopeful grin. Camera: holds still. Audio: soft café ambience. No speech.`
-2. `Shot: medium close-up. Scene: counter. Action: he taps his walking stick once on the floor. Character: the little coffee bean in the straw hat — calm, patient eyes. Camera: pans left. Audio: a soft wooden tap. No speech.`
-3. `Shot: medium shot. Scene: counter. Action: the tall tower of whipped cream wobbles on his cup. Character: the tall shaved-ice mountain in sunglasses — slumped shoulders lift into a joyful beam. Camera: tilts up. Audio: a soft whipped-cream squish. No speech.`
-4. `Shot: medium close-up. Scene: foreground, warm light. Action: she scoops Rosie into a big, warm hug. Character: the tall golden lychee-tea cup with the green straw — eyes squeeze shut in a proud smile. Camera: pushes in slowly. Audio: soft café hum, a gentle chime. No speech.`
-**Narration:**
-> Bīng marched to the counter. "I would like... EVERYTHING!"
->
-> Don Café tapped his stick. "One thing, my friend."
->
-> Bīng sighed the most dramatic sigh in history. Then he said, "**Hi! Can I please have a small hot chocolate?** With the MOST whipped cream in the UNIVERSE."
->
-> "You got it!" said the barista, laughing.
->
-> Tori hurried over and scooped Rosie into a hug. "You did it! You ordered all by yourself!"
->
-> "I did the steps," said Rosie. "And when something was different, I did a Rose breath."
->
-> "That's my little sip," said Tori.
+### Shot 10 — SO PROUD HE MELTED · day
+**Still:** `Close on the shiny toaster on the sunny counter: BING leans over it, beaming so proudly that he is melting a little, a glistening puddle spreading at his base, while ROSIE stands at the toaster holding up one tiny hand, delighted. Sun glints on the chrome, bread crumbs, a coral tea towel, a little potted basil.`
+22. **Narration:** "Welcome," whispered Bīng. At the toaster, he called, "ROSIE!" "That's me, thank you!"
+   `Shot: medium shot. Scene: the toaster on the counter. Action: ROSIE waves one tiny hand and bounces once, while light glints off the chrome toaster. Character: the little pink rose-milk-tea cup with the striped straw — proud and happy. Camera: slowly pushes in. Audio: a toaster ding, no music, no voices, no speech.`
+23. **Narration:** "**加油** (jiāyóu) = you can do it!" cheered Bīng. He was so proud, he melted a little.
+   `Shot: medium close-up. Scene: the toaster on the counter. Action: BING beams and slowly sags a little as a shiny puddle spreads at his base. Character: Bīng, the tall shaved-ice mountain in sunglasses — melting with pride. Camera: slowly tilts down. Audio: a soft trickle, a tiny drip, no music, no voices, no speech.`
 
-### Shot 10 — GOODNIGHT (4:30–5:00)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Nighttime cozy bedroom with soft moonlight and a warm lamp glow. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw snuggled under a rose-pink blanket in a tiny bed, eyes nearly closed, smiling. On the nightstand sits an empty small coffee cup with a little marker scribble on its side. Stars twinkle through the window.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: cozy bedroom, lamp glow. Action: warm lamplight glints softly on the little cup on the nightstand. Character: the little pink rose-milk-tea cup with the striped straw — sleepy, proud smile. Camera: pans left from the nightstand to her. Audio: soft night crickets. No speech.`
-2. `Shot: medium shot. Scene: bedroom, moonlight. Action: the lamp slowly dims as stars twinkle. Character: the little pink rose-milk-tea cup with the striped straw — eyelids flutter nearly closed. Camera: holds still. Audio: a gentle night breeze. No speech.`
-3. `Shot: wide. Scene: bedroom, moonlight. Action: her striped straw gently relaxes and settles. Character: the little pink rose-milk-tea cup with the striped straw — eyes close with a peaceful smile. Camera: pulls back very slowly. Audio: faint crickets, soft stillness. No speech.`
-**Narration:**
-> On the walk home, Rosie held her cup with both hands. It said ROSY in big marker letters. Rosie smiled. She liked it anyway.
->
-> That night, the ROSY cup sat on her nightstand. Rosie snuggled under her blanket and smiled a sleepy, proud smile.
+### Shot 11 — THE COFFEE SHOP · day
+**Still:** `Wide view inside a cozy coffee shop on a sunny afternoon: tall windows with golden light, hanging green plants, a glass pastry case of cookies and muffins, chalkboard menus drawn with only little leaf pictures, wooden tables waiting quietly, green tiles; TORI stands by the door smiling, ROSIE beside her with a little pink wallet, and in a big squashy green armchair CAT the little blue penguin is already curled up napping like a cat. Steam rising from the shiny espresso machine on the counter.`
+24. **Narration:** The next afternoon, Tori walked Rosie to Starbucks.
+   `Shot: wide shot. Scene: the cozy sunlit coffee shop. Action: ROSIE gazes around the shop with wide wondering eyes, while steam curls up from the espresso machine. Character: the little pink rose-milk-tea cup with the striped straw — amazed and a little nervous. Camera: slowly pushes in. Audio: a soft shop hum, a coffee grinder whirring, no music, no voices, no speech.`
+25. **Narration:** Cat came too, and fell asleep in a squashy armchair before the door even closed.
+   `Shot: medium shot. Scene: the squashy green armchair. Action: CAT snuggles deeper into the armchair cushion with a contented wiggle. Character: Cat, the little blue penguin with the yellow scarf — instantly napping. Camera: slowly pans right. Audio: a soft cushion squish, a shop hum, no music, no voices, no speech.`
+26. **Narration:** "I'll be right by the door," said Tori. "You've got this, little sip."
+   `Shot: medium shot. Scene: by the coffee-shop door. Action: TORI gives ROSIE a warm thumbs-up and a little nod. Character: Tori, the tall golden lychee-tea cup with the green straw — proud big-sister smile. Camera: slowly pushes in. Audio: a soft door chime, a shop hum, no music, no voices, no speech.`
+
+### Shot 12 — THE LINE · day
+**Still:** `Low angle along the coffee-shop floor toward the counter: ROSIE stands on a round green floor marker, straw upright, waiting her turn patiently, and BING stands just behind her, pressed against the glass pastry case, staring through his sunglasses at rows of giant glowing cookies. Hanging brass pendant lights, green tiles, potted ferns, a coral rug, sunlight across the wood floor in long stripes with floating dust.`
+27. **Narration:** Rosie stood in line behind the last person. Bīng stared at the cookies.
+   `Shot: medium shot. Scene: the coffee-shop line. Action: ROSIE waits patiently on the floor marker, while BING slowly presses closer to the pastry case. Character: the little pink rose-milk-tea cup with the striped straw — calm and patient. Camera: slowly pans right. Audio: a soft shop hum, a milk steamer hiss, no music, no voices, no speech.`
+28. **Narration:** "Must... not... order... every... cookie."
+   `Shot: medium close-up. Scene: the pastry case. Action: BING's sunglasses fog up as he stares at the cookies, trembling with willpower. Character: Bīng, the tall shaved-ice mountain in sunglasses — heroically resisting. Camera: slowly pushes in. Audio: a tiny squeak on the glass, no music, no voices, no speech.`
+29. **Narration:** Then it was her turn. She walked up to the counter and smiled.
+   `Shot: medium shot. Scene: the coffee-shop line. Action: ROSIE hops forward off the floor marker toward the counter with a bright smile, while the pendant lights glow. Character: the little pink rose-milk-tea cup with the striped straw — brave and ready. Camera: tracks beside. Audio: a tiny hop, a soft shop hum, no music, no voices, no speech.`
+
+### Shot 13 — THE ORDER · day
+**Still:** `Over-the-counter view in the sunny coffee shop: ROSIE stands on the wooden counter top looking up with a brave smile, and the BARISTA leans down toward her with a warm friendly face, holding a plain paper cup and a marker. Behind them, a shiny espresso machine puffing steam, rows of mugs, hanging plants, a jar of cocoa, warm pendant lights and green tiles.`
+30. **Narration:** "Hi! What can I get for you?" asked the barista.
+   `Shot: medium shot. Scene: the coffee-shop counter. Action: the BARISTA leans down with a warm smile, while steam puffs from the espresso machine behind her. Character: the curly-haired barista in the green apron — friendly and patient. Camera: slowly pushes in. Audio: an espresso machine hiss, a shop hum, no music, no voices, no speech.`
+31. **Narration:** "**Hi! Can I please have a small hot chocolate?**"
+   `Shot: medium close-up. Scene: the coffee-shop counter. Action: ROSIE smiles up and her straw springs tall. Character: the little pink rose-milk-tea cup with the striped straw — brave and clear. Camera: holds still. Audio: a soft happy chime, a shop hum, no music, no voices, no speech.`
+32. **Narration:** "Sure! Tall, grande, or venti?"
+   `Shot: medium shot. Scene: the coffee-shop counter. Action: the BARISTA holds up three paper cups of different sizes, one after another. Character: the curly-haired barista in the green apron — cheerful. Camera: slowly pans left. Audio: soft paper cup taps, no music, no voices, no speech.`
+
+### Shot 14 — ROSE BREATH · day
+**Still:** `Extreme close-up, ROSIE's face fills the frame: a small clear cup of pink milk tea with a dome lid and a striped straw, eyes gently closed, straw drooping, a dreamy glowing pink rose floating on one side of her and a tiny candle flame on the other, both soft and golden. Behind her, warm blurred coffee-shop pendant lights and green bokeh.`
+33. **Narration:** Those words were not in the practice. Rosie felt nervous. Her straw drooped. That's okay.
+   `Shot: close-up. Scene: the coffee-shop counter. Action: ROSIE's striped straw droops all the way down. Character: the little pink rose-milk-tea cup with the striped straw — surprised, worried eyes. Camera: holds still. Audio: the shop hum fading, no music, no voices, no speech.`
+34. **Narration:** She did a Rose breath. Smell the rose — in, two, three, four.
+   `Shot: close-up. Scene: the coffee-shop counter. Action: ROSIE breathes in slowly toward the glowing rose and her cup rises a little. Character: the little pink rose-milk-tea cup with the striped straw — calm settling in. Camera: slowly pushes in. Audio: a long soft breath in, no music, no voices, no speech.`
+35. **Narration:** Blow out the candle — out, two, three, four.
+   `Shot: close-up. Scene: the coffee-shop counter. Action: ROSIE breathes out slowly and the little candle flame softly goes out, her straw lifting halfway. Character: the little pink rose-milk-tea cup with the striped straw — face relaxing. Camera: holds still. Audio: a soft breathy whoosh, a tiny candle puff, no music, no voices, no speech.`
+
+### Shot 15 — THE SMALL ONE · day
+**Still:** `Counter-level close two-shot in the sunny coffee shop: ROSIE holds out a shiny coin in front of her cup with both tiny hands, straw back up, relieved and proud, and the BARISTA leans down with her palm open to take it, grinning. Steam from the espresso machine, a glass jar of shiny coins, a little vase of daisies, green tiles, brass pendant lights glowing, sun glinting on the coin.`
+36. **Narration:** "Um, the small one, please." "Tall it is! And your name?" "Rosie." She paid. "Thank you!"
+   `Shot: medium shot. Scene: the coffee-shop counter. Action: ROSIE hands over the coin and gives a polite little bow, while the coins sparkle in the glass jar. Character: the little pink rose-milk-tea cup with the striped straw — relieved and proud. Camera: slowly pushes in. Audio: a coin clink, a marker squeak, no music, no voices, no speech.`
+
+### Shot 16 — THE PICKUP COUNTER · day
+**Still:** `The pickup end of the coffee-shop counter, glowing under pendant lights: ROSIE waits with her straw tall, DONCAFE leans on his little walking stick beside her, and the BARISTA sets down a steaming paper cup topped with a tall swirl of whipped cream. A stack of cardboard cup sleeves, a tray of cinnamon shakers, an espresso machine puffing steam, hanging plants, coral napkins, sun through the window.`
+37. **Narration:** At the pickup counter, Don Café leaned on his stick. "Here, tall means small."
+   `Shot: medium shot. Scene: the pickup counter. Action: DONCAFE leans on his walking stick and gives ROSIE a wise little wink. Character: Don Café, the little coffee bean in the straw hat — warm and knowing. Camera: slowly pushes in. Audio: a milk steamer hiss, a shop hum, no music, no voices, no speech.`
+38. **Narration:** "Even the cups have fancy names, *pequeña* — little one."
+   `Shot: medium close-up. Scene: the pickup counter. Action: ROSIE giggles and her straw wiggles, while steam curls from the espresso machine. Character: the little pink rose-milk-tea cup with the striped straw — amused and relaxed. Camera: slowly pans right. Audio: a soft shop hum, no music, no voices, no speech.`
+39. **Narration:** "Hot chocolate for... Rosy?" Close enough! "That's me, thank you!"
+   `Shot: medium shot. Scene: the pickup counter. Action: the BARISTA slides the whipped-cream cup forward and ROSIE raises one tiny hand. Character: the little pink rose-milk-tea cup with the striped straw — proud and happy. Camera: slowly pulls back. Audio: a cup sliding on wood, a soft chime, no music, no voices, no speech.`
+
+### Shot 17 — THE MOST WHIPPED CREAM · day
+**Still:** `A cozy coffee-shop table by the sunny window, ROSIE in the foreground holding her whipped-cream drink in front of her cup with both tiny hands, a fluffy white whipped-cream mustache on her face, eyes crinkled with joy; in the background at the counter, BING stands with both arms raised dramatically and DONCAFE taps his walking stick at his side. Hanging plants, golden sun flare, steam swirls, a plate of cookies, green tiles, coral cushions.`
+40. **Narration:** The whipped cream gave her a fluffy white mustache. "**好喝** (hǎohē) = yummy!"
+   `Shot: medium close-up. Scene: the sunny window table. Action: ROSIE wiggles her whipped-cream mustache and her straw springs all the way up. Character: the little pink rose-milk-tea cup with the striped straw — giggly delight. Camera: slowly pushes in. Audio: a happy slurp sound, a shop hum, no music, no voices, no speech.`
+41. **Narration:** Bīng marched up. "EVERYTHING!" Don Café tapped his stick. Bīng sighed.
+   `Shot: medium shot. Scene: the coffee-shop counter. Action: DONCAFE taps his stick once and BING's arms slowly droop in a huge dramatic sigh. Character: Bīng, the tall shaved-ice mountain in sunglasses — theatrically deflated. Camera: holds still. Audio: a wooden tap, a long whooshy sigh, no music, no voices, no speech.`
+42. **Narration:** "**Hi! Can I please have a small hot chocolate?** With the MOST whipped cream in the UNIVERSE."
+   `Shot: medium shot. Scene: the coffee-shop counter. Action: BING perks back up and spreads his arms wide, ice sparkles flying. Character: Bīng, the tall shaved-ice mountain in sunglasses — grandly hopeful. Camera: slowly pulls back. Audio: tinkling ice, a shop hum, no music, no voices, no speech.`
+
+### Shot 18 — ALL BY YOURSELF · day
+**Still:** `Golden afternoon light in the cozy coffee shop, framed low across the window table: TORI leans her taller cup close to ROSIE and wraps one tiny arm around her lid, both glowing with pride; behind them in the squashy green armchair CAT the little blue penguin has one eye wide open, beak pointed hopefully at a little dish of whipped cream on the side table. Hanging plants, steam swirls, brass pendant lights, a coral cushion, sun flare on the glass.`
+43. **Narration:** In the armchair, Cat opened one eye. Whipped cream? Now she was awake.
+   `Shot: medium shot. Scene: the squashy green armchair. Action: CAT's eye pops wide open and she sits up straight, beak pointing at the whipped cream. Character: Cat, the little blue penguin with the yellow scarf — suddenly very awake. Camera: slowly pushes in. Audio: a tiny squeak, a cushion squish, no music, no voices, no speech.`
+44. **Narration:** Tori scooped Rosie into a hug. "You ordered all by yourself!"
+   `Shot: medium shot. Scene: the sunny coffee-shop window. Action: TORI gives ROSIE a warm one-arm squeeze and the two cups sway together, while sunlight glows through their tea. Character: Tori, the tall golden lychee-tea cup with the green straw — bursting with pride. Camera: slowly pans left. Audio: a soft happy chime, a shop hum, no music, no voices, no speech.`
+45. **Narration:** "I did the steps," said Rosie. "And when something was different, I did a Rose breath."
+   `Shot: medium close-up. Scene: the sunny coffee-shop window. Action: ROSIE smiles up at TORI with her straw standing tall. Character: the little pink rose-milk-tea cup with the striped straw — proud and calm. Camera: slowly pushes in. Audio: a shop hum, birdsong outside, no music, no voices, no speech.`
+
+### Shot 19 — GOODNIGHT · night
+**Still:** `A cozy moonlit bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and a striped straw, tucked under a soft pink quilt with only her lid and straw above it, sleepy proud smile; on the nightstand a cardboard coffee-cup sleeve with a heart doodle lying flat beside a plain lamp glowing low, and at the foot of the bed CAT the little blue penguin curled up asleep. Stars in the window, strings of tiny fairy lights, a green coffee-shop napkin folded into a little star.`
+46. **Narration:** That night, the cup that said ROSY sat by her bed. Rosie smiled a sleepy, proud smile.
+   `Shot: medium close-up. Scene: the moonlit bedroom. Action: ROSIE snuggles deeper under the quilt and her eyes drift closed, while the fairy lights twinkle softly. Character: the little pink rose-milk-tea cup with the striped straw — sleepy, proud smile. Camera: slowly pushes in. Audio: soft night crickets, no music, no voices, no speech.`
+
+### Shot 20 — GOODNIGHT BLESSING · night
+**Still:** `Wide, low view across the rug of the cozy moonlit bedroom: a big window full of stars and a crescent moon, ROSIE tucked in under a pink quilt and CAT the little blue penguin curled up asleep at her feet, dreaming, on a squashy green cushion like the coffee-shop armchair. Strings of tiny fairy lights along the bookshelf, a plain lamp glowing low, the flat cardboard cup sleeve and the green star-folded napkin on the nightstand, a little pink wallet on the shelf, soft blue moonlight and warm amber lamplight meeting on the rug.`
+47. **Narration:** Goodnight, little sip, all warm and all cozy. Your cup knows your name, whether Rosie or Rosy.
+   `Shot: wide shot. Scene: the moonlit bedroom. Action: the lamp glow softens and the stars twinkle in the window. Character: the little pink rose-milk-tea cup with the striped straw — asleep, peaceful. Camera: slowly pulls back. Audio: a soft night breeze, crickets, no music, no voices, no speech.`
+48. **Narration:** Goodnight, Cat, dreaming of whipped cream. One step, one sip, and sweet dreams.
+   `Shot: wide shot. Scene: the moonlit bedroom. Action: CAT's tummy rises and falls in a slow snore, while the fairy lights dim one by one into a soft glow. Character: Cat, the little blue penguin with the yellow scarf — curled up asleep. Camera: slowly pulls back. Audio: a tiny penguin snore, crickets fading, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
-1. **Key scene** — `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Inside a warm, friendly coffee shop, Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw stands at the wooden counter smiling up at a kind human barista with curly hair and a green apron, who holds a marker and a small paper cup. Bīng, a towering fluffy mountain of shaved ice piled with colorful toppings (mango cubes, red beans, mochi balls, condensed milk drizzle), dripping at the edges, wearing cool black sunglasses, dramatic expression gazes longingly at the cookie case in the background, sunglasses fogging; Don Café, a small dark glossy roasted coffee bean with a deep center crease, a tiny straw farmer's hat, a miniature wooden walking stick, kind wise grandfatherly eyes waits nearby leaning on his walking stick.`
-2. **Character portrait** — `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Clean soft cream background, character reference sheet. Center: Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, smiling. Left: Don Café, a small dark glossy roasted coffee bean with a deep center crease, a tiny straw farmer's hat, a miniature wooden walking stick, kind wise grandfatherly eyes, tipping his hat. Right: Bīng, a towering fluffy mountain of shaved ice piled with colorful toppings (mango cubes, red beans, mochi balls, condensed milk drizzle), dripping at the edges, wearing cool black sunglasses, dramatic expression, arms thrown wide, dripping happily. Full bodies, even lighting.`
-3. **Closing scene** — `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Nighttime cozy bedroom with moonlight and warm lamp glow. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw asleep under a rose-pink blanket, smiling. On the nightstand, an empty small coffee cup with a little marker scribble. Stars twinkle through the window.`
+1. **Key scene** — `Over-the-counter view in a cozy sunlit coffee shop: ROSIE stands on the wooden counter with a brave smile, the BARISTA leaning down with a plain paper cup, DONCAFE leaning on his walking stick nearby, BING pressed against a glowing pastry case of cookies, and CAT the little blue penguin napping in a squashy green armchair. Hanging plants, steam from an espresso machine, green tiles, rim light on every character.`
+2. **Character views** — one image per token, each `<design from the Cast list>, single full-body front view, standing, clean soft cream background, even soft lighting, storybook illustration` (ROSIE, CAT, DONCAFE, BING, TORI, BARISTA).
+3. **Closing scene** — `A cozy moonlit bedroom: ROSIE tucked under a pink quilt with her lid and straw above it, eyes closed, a flat cardboard coffee-cup sleeve with a heart doodle on the nightstand beside a plain lamp, CAT the little blue penguin curled up asleep at the foot of the bed, fairy lights, stars in the window.`

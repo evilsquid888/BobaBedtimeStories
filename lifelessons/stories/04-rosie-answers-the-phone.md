@@ -3,360 +3,286 @@
 **Life skill:** Answering the home/family phone politely and getting a grown-up
 **Magic sentence:** "Hello, this is Rosie. Who is calling, please?"
 **Coaches:** Aiyu 🇹🇼 (shy, honest golden jelly) + Tico the Toucan 🇨🇷 (loud, "Beak the news!")
-**Setting:** Rosie's cozy kitchen at home, with the family phone on the counter
+**Setting:** Rosie's cozy kitchen at home, with the family phone on the counter — and Cat the penguin napping in the bread basket
 
 ---
 
 ## The Story
 
-*Brrring! Brrring!*
+*Brrring! Brrring!* The family phone was ringing on the kitchen counter.
 
-The family phone was ringing on the kitchen counter. Rosie the Rose Milk Tea froze. Her pink-striped straw drooped.
+Rosie the Rose Milk Tea froze. Her pink-striped straw drooped.
 
-"BEAK THE NEWS!" boomed a voice at the window. "THE PHONE IS RINGING! HUGE NEWS!"
+Next to the phone, Cat the penguin napped in the bread basket. Cat was staying with Rosie's family.
 
-In flew Tico the Toucan. His giant rainbow beak bonked the curtain rod. *Bonk.* Behind him wobbled Aiyu, a shy little cube of golden jelly. The sunshine glowed right through her.
+"BEAK THE NEWS!" boomed a voice. In flew Tico the Toucan. His beak bonked the curtain rod. Behind him wobbled Aiyu, a shy golden jelly.
 
-The ringing stopped. Mom had answered it in the other room.
+The ringing stopped. Mom had answered it. "I never know what to say on the phone," said Rosie.
 
-"I never know what to say on the phone," Rosie said quietly. "I feel nervous."
+"I used to feel nervous too," said Aiyu. "Phones are easier with steps."
 
-"That's okay," said Aiyu. "You can see right through me — that's how you know I'm honest. I used to feel nervous too. Phones are easier with steps."
-
-Rosie's straw perked up. She loved steps.
-
-Mom peeked in. "Coaches! Perfect timing."
-
-Aiyu picked up a toy phone. She showed each step slowly.
+Rosie's straw perked up. She loved steps. Aiyu showed each one.
 
 **Rosie's Steps**
-1. Ask a grown-up, "May I answer the phone?" If you can, look at the screen to see who is calling.
+1. Ask a grown-up, "May I answer the phone?" Check who's calling on the screen.
 2. Tap the green button. Hold the phone to your ear.
-3. Say the magic sentence in a clear voice: **"Hello, this is Rosie. Who is calling, please?"**
+3. Say clearly: **"Hello, this is Rosie. Who is calling, please?"**
 4. Listen to what the caller says.
-5. If the call is for a grown-up, say, "One moment, please." Walk to the grown-up and give them the phone. Do not shout across the house.
-6. If the call is for you, talk and listen. At the end, say, "Bye!"
+5. If it's for a grown-up, say, "One moment, please," and walk the phone to them.
+6. If it's for you, talk and listen. End with "Bye!"
 
-"In Taiwan, many people answer with **喂** (wéi) = hello, on the phone," said Aiyu.
+"In Taiwan, people answer with **喂** (wéi) = hello, on the phone," said Aiyu.
 
-"And in Costa Rica, we say **¡Aló!** That means hello too!" said Tico. "MY TURN!"
+"And in Costa Rica, we say ¡Aló!" said Tico. "MY TURN!" He held a banana to his ear.
 
-He held a banana to his ear and took a huge breath.
+"HELLO, THIS IS TICO! WHO IS CALLING, PLEASE?" The windows rattled. A spoon fell.
 
-"HELLO, THIS IS TICO! WHO IS CALLING, PLEASE?"
+Cat opened one eye. "Five more minutes," she mumbled.
 
-The windows rattled. A spoon fell off the table. *Clink.*
+"Tico, that was your jungle voice," Aiyu giggled. Tico tried again in a teeny squeak.
 
-"Tico, that was your jungle voice," Aiyu giggled. "Too loud hurts the caller's ear."
+"hello this is tico..." "Now I can't hear you!" said Rosie.
 
-"Oh!" Tico tried again in a teeny squeak. "hello this is tico..."
+"Use your inside phone voice," said Aiyu.
 
-"Now I can't hear you at all," said Rosie. Everyone laughed, and Tico laughed the loudest.
-
-"Use your inside phone voice," said Aiyu. "Like you are talking to a friend across the table."
-
-"Hello, this is Tico. Who is calling, please?" Just right! Tico puffed out his yellow chest. "Beak the news. I have an INSIDE voice!"
-
-Now Rosie practiced, with Aiyu as the pretend caller. Rosie said each step out loud:
-
-1. Ask a grown-up, "May I answer the phone?" If you can, look at the screen to see who is calling.
+Rosie practiced. Aiyu was the caller. Tico was Mom.
+1. Ask a grown-up, "May I answer the phone?" Check who's calling on the screen.
 2. Tap the green button. Hold the phone to your ear.
-3. Say the magic sentence in a clear voice: **"Hello, this is Rosie. Who is calling, please?"**
+3. Say clearly: **"Hello, this is Rosie. Who is calling, please?"**
 4. Listen to what the caller says.
-5. If the call is for a grown-up, say, "One moment, please." Walk to the grown-up and give them the phone. Do not shout across the house.
-6. If the call is for you, talk and listen. At the end, say, "Bye!"
+5. If it's for a grown-up, say, "One moment, please," and walk the phone to them.
+6. If it's for you, talk and listen. End with "Bye!"
 
-"May I speak to your mom?" asked pretend-caller Aiyu.
-
-"One moment, please," said Rosie. She walked to Mom and gave her the toy phone. She did not shout.
+"May I speak to your mom?" asked Aiyu. "One moment, please," said Rosie, and walked it to Tico.
 
 "SHE WALKED!" cheered Tico. Then he whispered, "Sorry. She walked."
 
-After lunch, Mom said, "I'm going to take a shower. If the phone rings, you may answer it."
+After lunch, Mom took a shower. "If the phone rings, you may answer it."
 
-*Brrring! Brrring!*
-
-Rosie looked at the screen. It said: **Auntie Lin.** That was **奶奶** (nǎinai) = Grandma's friend. Rosie tapped the green button. She held the phone to her ear.
+*Brrring!* The screen showed Auntie Lin, Grandma's friend. Rosie tapped the green button.
 
 "**Hello, this is Rosie. Who is calling, please?**"
 
-"Hello, Rosie! It's Auntie Lin. May I please speak to your mom?"
+"Hello, Rosie! May I speak to your mom?" *Whoosh* went the shower. Mom couldn't come!
 
-Then Rosie heard the shower. *Whoosh.* She could not give Mom the phone!
+Rosie felt nervous. Her straw drooped. That's okay. Rosie did a Rose breath.
 
-Rosie felt nervous. Her straw drooped. That's okay.
-
-Aiyu held up the backup sentence card. Rosie did a Rose breath. Smell the rose — in, two, three, four. Blow out the candle — out, two, three, four.
+Smell the rose — in, two, three, four. Blow out the candle — out, two, three, four.
 
 "My mom can't come to the phone right now. Can I take a message?"
 
-"Yes, please," said Auntie Lin. "Tell her Auntie Lin called about the dumpling party."
+"Tell her Auntie Lin called about the dumpling party." Rosie wrote it on a sticky note.
 
-Rosie wrote on a yellow sticky note: *Auntie Lin — dumpling party.*
+"Bye!" She tapped the red button. Tico flapped silently — his quietest cheer.
 
-"Okay! Bye!" said Rosie. She tapped the red button.
+"And you didn't say Mom was in the shower," said Aiyu softly.
 
-Tico flapped silently. It was his very quietest cheer.
+"Never tell a caller you're alone or where you live. If they ask, get a grown-up."
 
-"You did it," said Aiyu softly. "And look what you did *not* say. You did not say, 'Mom is in the shower.' On the phone, never tell a caller you are home alone. Never tell your address. If a caller asks you those things, just go get a grown-up."
+Mom read the note. "**謝謝** (xièxie) = thank you, Rosie!"
 
-Rosie nodded. "The backup sentence is enough."
+That evening, a heart lit up the screen: Tori! Rosie asked Mom, then answered with every step.
 
-Mom came out with a towel on her lid. Rosie gave her the sticky note.
+"You've got this, little sip," said Tori. "Bye!" said Rosie. Her straw wiggled all the way to bed.
 
-"A message! Just like a grown-up," said Mom. "**謝謝** (xièxie) = thank you, Rosie!"
-
-That evening, the phone rang again. *Brrring!* The screen said: **Tori ❤️.**
-
-"May I answer the phone?" asked Rosie.
-
-"Yes, you may," said Mom.
-
-Rosie tapped the green button. "**Hello, this is Rosie. Who is calling, please?**"
-
-"It's Tori, little sip! I'm calling just for you!"
-
-Rosie told her big sister all about the banana phone and the sticky note.
-
-"You've got this, little sip," said Tori. "I'm so proud of you."
-
-"Bye!" said Rosie. She hugged the phone. Her straw wiggled all the way to bed.
-
-One step at a time, one sip at a time.
+Cat was already there, napping on the pillow.
 
 ---
 
 ## 🌹 Rosie's Steps (Recap)
-1. Ask a grown-up, "May I answer the phone?" If you can, look at the screen to see who is calling.
+1. Ask a grown-up, "May I answer the phone?" Check who's calling on the screen.
 2. Tap the green button. Hold the phone to your ear.
-3. Say the magic sentence in a clear voice: **"Hello, this is Rosie. Who is calling, please?"**
+3. Say clearly: **"Hello, this is Rosie. Who is calling, please?"**
 4. Listen to what the caller says.
-5. If the call is for a grown-up, say, "One moment, please." Walk to the grown-up and give them the phone. Do not shout across the house.
-6. If the call is for you, talk and listen. At the end, say, "Bye!"
+5. If it's for a grown-up, say, "One moment, please," and walk the phone to them.
+6. If it's for you, talk and listen. End with "Bye!"
 
 **If something surprising happens:** Rose breath, then say: "My mom can't come to the phone right now. Can I take a message?"
 
 **Safety reminder:** On the phone, never tell a caller you are home alone, and never tell your address. If a caller asks, go get a grown-up.
 
 ## 💬 Practice Together (for grown-ups)
-- **Two-phone role-play:** Call your child's phone (or use two toy phones back to back in different rooms). Take turns being the caller: a relative, a friend asking for Mom, and a caller asking for your child. Keep a sticky-note pad and pencil next to the real family phone so the "take a message" step has a home.
-- **Find the "inside phone voice":** Do Tico's game — say the magic sentence too loud, too quiet, then just right. Let your child pick which one is "just right."
-- **Praise the specifics:** "You walked over instead of shouting!" "You wrote the name down!" "You didn't say where I was — that was smart and safe."
-- **Real-world step:** Agree on your family's phone rule first (for example, "only answer when a grown-up says yes" or "only names you know on the screen"). Then set up a real call from a grandparent or big sibling at a planned time, so the first real call is a friendly one.
+- **Two-phone role-play:** Use two toy phones (or call from another room). Take turns being the caller: a relative, someone asking for Mom, someone asking for your child. Keep a sticky-note pad and pencil by the real family phone so "take a message" has a home.
+- **Find the "inside phone voice":** Play Tico's game — say the magic sentence too loud, too quiet, then just right. For "too loud," check whether it wakes a stuffed-toy Cat napping nearby.
+- **Praise the specifics:** "You walked the phone over instead of shouting!" "You wrote the name down!" "You didn't say where I was — that was smart and safe."
+- **Real-world step:** Agree on your family's phone rule first (for example, "only answer when a grown-up says yes"). Then set up a planned call from a grandparent or big sibling, so the first real call is a friendly one.
 
 ## 🌙 Goodnight Blessing
 The phone is quiet on the counter now.
-The sticky notes are sleeping in their pad.
 Tico's voice is tucked in, soft and small.
-Aiyu glows like a night-light by your bed.
-You know the steps, and your voice is clear and kind.
-Goodnight, little sip. Sweet dreams — **晚安** (wǎn'ān) = goodnight.
+Cat is napping somewhere warm.
+Goodnight, little sip — **晚安** (wǎn'ān) = goodnight.
 
 ---
 
-## 🎬 Video Storyboard (LTX)
+## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~5:00 · **Shots:** 10
-**Art style (use on ALL shots):** Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9.
-**Character reference — Rosie:** `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-**Character reference — coaches:**
-- `Aiyu, a small wobbly semi-transparent cube of pale golden-amber aiyu jelly with tiny lemon-seed freckles, shy gentle eyes, a soft glow, light shining through her body`
-- `Tico the Toucan, a glossy black keel-billed toucan with a huge rainbow-striped banana-shaped beak, bright yellow throat, twinkling excited eyes, bouncy and cheerful`
-- `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve`
+**Runtime:** ~4:36 (est.) · **Narrated words:** 607 · **Stills:** 20 · **Beats:** 47
+**Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
+**Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
+**Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
+**Cast** (TOKEN → ID phrase · design for the reference view). No humans are drawn: Mom and Auntie Lin are narrated only; phone screens show a picture, never a name.
+- `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `AIYU` → Aiyu, the little glowing golden jelly cube · `Aiyu, a small wobbly semi-transparent cube of pale golden-amber aiyu jelly with tiny lemon-seed freckles, shy gentle eyes, rosy cheeks, a soft glow, light shining through her body, tiny arms`
+- `TICO` → Tico, the toucan with the rainbow beak · `Tico the Toucan, a small round glossy black keel-billed toucan with a huge rainbow-striped banana-shaped beak, a bright yellow throat and chest, twinkling excited eyes, bouncy and cheerful`
+- `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 
-**LTX settings:** 1280×704 · 193 frames (~8 s) per beat · guide strength 0.75 · see `LTX_GUIDE.md`
-**Negative prompt (all beats):** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
-**ID phrases (use word-for-word in every beat):**
-- Rosie → the little pink rose-milk-tea cup with the striped straw
-- Tori → the tall golden lychee-tea cup with the green straw
-- Aiyu → the little glowing golden jelly cube
-- Tico → the toucan with the rainbow beak
-- Mom → the kind human mom
+### Shot 1 — TITLE · day
+**Still:** `Low angle along a sunny kitchen counter, looking up at tiny ROSIE standing beside a big smartphone lying flat on the counter, its blank screen lit, little cartoon ring lines buzzing around it, her eyes popping wide, straw starting to droop. Morning sun streams through a lace-curtained window in long gold beams, teal tiles, a coral teapot, a bowl of lemons, a hanging spider plant, copper pots, dust motes glittering in the light.`
+1. **Narration:** *Brrring! Brrring!* The family phone was ringing on the kitchen counter.
+   `Shot: medium shot. Scene: the sunny kitchen counter. Action: the phone buzzes and wiggles on the counter, while dust motes swirl in the sunbeam. Character: the little pink rose-milk-tea cup with the striped straw — eyes popping wide. Camera: slowly pushes in. Audio: a soft phone ring, a kitchen hum, no music, no voices, no speech.`
+2. **Narration:** Rosie the Rose Milk Tea froze. Her pink-striped straw drooped.
+   `Shot: medium close-up. Scene: the same sunny counter. Action: ROSIE freezes, blinks once, and her striped straw slowly droops. Character: the little pink rose-milk-tea cup with the striped straw — startled, then nervous. Camera: holds still. Audio: the ring fading, a kitchen hum, no music, no voices, no speech.`
 
-### Shot 1 — TITLE (0:00–0:30)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A cozy sunlit kitchen with a friendly smartphone buzzing on the counter, little cartoon ring lines around it. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, stands on the counter looking surprised, her straw slightly drooping.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: sunny kitchen counter. Action: the phone gently buzzes and vibrates on the counter. Character: the little pink rose-milk-tea cup with the striped straw — eyes pop wide. Camera: pushes in slowly toward the phone. Audio: a soft phone ring, kitchen hum. No speech.`
-2. `Shot: medium close-up. Scene: same counter. Action: she freezes, then blinks once, slowly. Character: the little pink rose-milk-tea cup with the striped straw — surprised eyes, a tiny frozen smile. Camera: holds still. Audio: the phone keeps ringing softly. No speech.`
-3. `Shot: close-up. Scene: same counter. Action: her striped straw droops. Character: the little pink rose-milk-tea cup with the striped straw — nervous eyes glance away. Camera: pulls back slightly. Audio: the ringing fades. No speech.`
-**Narration:**
-> *Brrring! Brrring!*
->
-> The family phone was ringing on the kitchen counter. Rosie the Rose Milk Tea froze. Her pink-striped straw drooped.
+### Shot 2 — CAT IN THE BREAD BASKET · day
+**Still:** `Close at basket level on a woven bread basket on the sunny kitchen counter, lined with a checked teal cloth and warm golden bread rolls: CAT the little blue penguin is curled up napping like a cat among the rolls, round white tummy, tiny yellow scarf, eyes shut, a smile of pure bliss. Behind her, the smartphone lying flat with its blank screen lit, a jar of honey glowing amber, coral flowers in a jug, morning window sun in soft bokeh, steam curling off the warm rolls.`
+3. **Narration:** Next to the phone, Cat the penguin napped in the bread basket. Cat was staying with Rosie's family.
+   `Shot: close-up. Scene: the bread basket on the counter. Action: CAT's round tummy rises and falls in a slow happy snore, while warm steam curls from the bread rolls. Character: Cat, the little blue penguin with the yellow scarf — blissfully napping. Camera: slowly pushes in. Audio: a tiny penguin snore, a faint phone ring, no music, no voices, no speech.`
 
-### Shot 2 — THE COACHES ARRIVE (0:30–1:00)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A kitchen window with lace curtains. Tico the Toucan, a glossy black keel-billed toucan with a huge rainbow-striped banana-shaped beak, bright yellow throat, twinkling excited eyes, bouncy and cheerful, swoops in and bonks his beak on the curtain rod with a comic star. Behind him on the windowsill, Aiyu, a small wobbly semi-transparent cube of pale golden-amber aiyu jelly with tiny lemon-seed freckles, shy gentle eyes, a soft glow, light shining through her body, wobbles carefully. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, watches from the counter, looking a little nervous.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: kitchen window, lace curtains. Action: his beak bonks the curtain rod, which sways gently. Character: the toucan with the rainbow beak — dizzy, happy eyes. Camera: holds still. Audio: soft wing flaps, a gentle bonk. No speech.`
-2. `Shot: medium close-up. Scene: windowsill, sunlight. Action: she wobbles along the sill as sunlight glows through her. Character: the little glowing golden jelly cube — shy, gentle smile. Camera: pans right. Audio: a soft jiggly wobble, birdsong. No speech.`
-3. `Shot: medium close-up. Scene: kitchen counter. Action: she looks down at her tiny hands. Character: the little pink rose-milk-tea cup with the striped straw — nervous eyes, straw drooping. Camera: pushes in. Audio: quiet kitchen hum. No speech.`
-4. `Shot: close-up. Scene: kitchen counter. Action: her striped straw perks up. Character: the little pink rose-milk-tea cup with the striped straw — nervous eyes brighten with interest. Camera: holds still. Audio: a soft happy chime. No speech.`
-**Narration:**
-> "BEAK THE NEWS!" boomed a voice at the window. "THE PHONE IS RINGING! HUGE NEWS!"
->
-> In flew Tico the Toucan. His giant rainbow beak bonked the curtain rod. *Bonk.* Behind him wobbled Aiyu, a shy little cube of golden jelly. The sunshine glowed right through her.
->
-> The ringing stopped. Mom had answered it in the other room.
->
-> "I never know what to say on the phone," Rosie said quietly. "I feel nervous."
->
-> "That's okay," said Aiyu. "You can see right through me — that's how you know I'm honest. I used to feel nervous too. Phones are easier with steps."
->
-> Rosie's straw perked up. She loved steps.
+### Shot 3 — THE COACHES FLY IN · day
+**Still:** `The kitchen window with lace curtains and a brass curtain rod, sunshine pouring in: TICO swoops through the open window, wings wide, his huge rainbow beak bonking the curtain rod with a little comic sparkle, and AIYU wobbles along the windowsill behind him, sunshine glowing right through her golden jelly. Potted herbs, a coral watering can, a teal wind chime spinning, a garden of red hibiscus blurred outside, sparkles drifting in the sunbeam.`
+4. **Narration:** "BEAK THE NEWS!" boomed a voice. In flew Tico the Toucan. His beak bonked the curtain rod.
+   `Shot: medium shot. Scene: the sunny kitchen window. Action: TICO flaps in and his beak bonks the curtain rod, which sways, and he blinks dizzily. Character: Tico, the toucan with the rainbow beak — big goofy grin. Camera: holds still. Audio: wing flaps, a gentle bonk, a rattling rod, no music, no voices, no speech.`
+5. **Narration:** Behind him wobbled Aiyu, a shy golden jelly.
+   `Shot: medium close-up. Scene: the sunny windowsill. Action: AIYU wobbles along the sill as sunlight glows through her body. Character: Aiyu, the little glowing golden jelly cube — shy, gentle smile. Camera: holds still. Audio: a soft jiggly wobble, birdsong, no music, no voices, no speech.`
 
-### Shot 3 — AIYU TEACHES THE STEPS (1:00–1:40)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. At the kitchen table, Aiyu, a small wobbly semi-transparent cube of pale golden-amber aiyu jelly with tiny lemon-seed freckles, shy gentle eyes, a soft glow, light shining through her body, holds a pink toy phone up to her side and points to a big green button. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, watches closely, her straw standing up with interest. A friendly cartoon checklist of six little checkbox doodles floats beside them.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: kitchen table. Action: she lifts the pink toy phone a little higher. Character: the little glowing golden jelly cube — calm, patient eyes. Camera: tracks beside the table. Audio: soft kitchen ambience. No speech.`
-2. `Shot: close-up. Scene: kitchen table. Action: she taps the big green button. Character: the little glowing golden jelly cube — small, encouraging smile. Camera: pushes in. Audio: a tiny soft click. No speech.`
-3. `Shot: medium close-up. Scene: kitchen table. Action: she holds the toy phone up to the side of her head. Character: the little glowing golden jelly cube — shy eyes grow confident. Camera: holds still. Audio: gentle kitchen hum. No speech.`
-4. `Shot: medium close-up. Scene: kitchen table. Action: she nods slowly along. Character: the little pink rose-milk-tea cup with the striped straw — focused eyes, straw standing tall. Camera: pans right. Audio: a soft ticking clock. No speech.`
-**Narration:**
-> Mom peeked in. "Coaches! Perfect timing."
->
-> Aiyu picked up a toy phone. She showed each step slowly.
->
-> Rosie's Steps. One: Ask a grown-up, "May I answer the phone?" If you can, look at the screen to see who is calling. Two: Tap the green button. Hold the phone to your ear. Three: Say the magic sentence in a clear voice: "Hello, this is Rosie. Who is calling, please?" Four: Listen to what the caller says. Five: If the call is for a grown-up, say, "One moment, please." Walk to the grown-up and give them the phone. Do not shout across the house. Six: If the call is for you, talk and listen. At the end, say, "Bye!"
+### Shot 4 — NERVOUS · day
+**Still:** `Over-the-shoulder from behind AIYU's glowing golden back on the sunny kitchen counter: ROSIE stands looking down at her tiny hands, straw drooping, quiet and nervous, while AIYU leans in kindly, window sunlight shining through her jelly and casting a warm amber patch across the counter. The smartphone lying quiet beside them, a teal kettle, a bowl of lemons, a fern in a coral pot, framed flower prints on the wall, dust motes floating.`
+6. **Narration:** The ringing stopped. Mom had answered it. "I never know what to say on the phone," said Rosie.
+   `Shot: medium shot. Scene: the sunny kitchen counter. Action: ROSIE twists her tiny hands together and her straw droops lower, while dust motes float in the light. Character: the little pink rose-milk-tea cup with the striped straw — quiet, nervous. Camera: slowly pushes in. Audio: a quiet kitchen hum, a clock ticking, no music, no voices, no speech.`
+7. **Narration:** "I used to feel nervous too," said Aiyu. "Phones are easier with steps."
+   `Shot: medium close-up. Scene: the same counter. Action: AIYU gives a small gentle wobble and leans toward ROSIE, her glow brightening. Character: Aiyu, the little glowing golden jelly cube — warm, honest smile. Camera: slowly pans left. Audio: a soft jiggly wobble, no music, no voices, no speech.`
+8. **Narration:** Rosie's straw perked up. She loved steps. Aiyu showed each one. **Rosie's Steps**
+   `Shot: medium close-up. Scene: the same counter. Action: ROSIE's striped straw springs upright and her eyes brighten. Character: the little pink rose-milk-tea cup with the striped straw — eager. Camera: slowly pushes in. Audio: a soft happy chime, no music, no voices, no speech.`
 
-### Shot 4 — TICO'S JUNGLE VOICE (1:40–2:10)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Tico the Toucan, a glossy black keel-billed toucan with a huge rainbow-striped banana-shaped beak, bright yellow throat, twinkling excited eyes, bouncy and cheerful, holds a yellow banana to his ear like a phone and shouts with his beak wide open; cartoon sound waves make the kitchen windows wobble and a spoon tumble off the table. Aiyu, a small wobbly semi-transparent cube of pale golden-amber aiyu jelly with tiny lemon-seed freckles, shy gentle eyes, a soft glow, light shining through her body, giggles behind her tiny hand. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, covers her lid with her hands, smiling.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium close-up. Scene: sunny kitchen. Action: she gives a small, gentle wave. Character: the little glowing golden jelly cube — warm, shy smile. Camera: holds still. Audio: soft kitchen ambience. No speech.`
-2. `Shot: medium shot. Scene: kitchen table. Action: he lifts the banana to his ear. Character: the toucan with the rainbow beak — twinkling, excited eyes. Camera: pushes in. Audio: a soft feather rustle. No speech.`
-3. `Shot: medium close-up. Scene: kitchen table. Action: he puffs up with one huge breath. Character: the toucan with the rainbow beak — eyes squint with mischief. Camera: holds still. Audio: a big soft inhaling whoosh. No speech.`
-4. `Shot: medium wide. Scene: kitchen table and windows. Action: the spoon slides off the table as the windows wobble. Character: the little pink rose-milk-tea cup with the striped straw — hands on her lid, giggly eyes. Camera: pulls back. Audio: a soft window rattle, a spoon clink. No speech.`
-**Narration:**
-> "In Taiwan, many people answer with 喂 (wéi) = hello, on the phone," said Aiyu.
->
-> "And in Costa Rica, we say ¡Aló! That means hello too!" said Tico. "MY TURN!"
->
-> He held a banana to his ear and took a huge breath.
->
-> "HELLO, THIS IS TICO! WHO IS CALLING, PLEASE?"
->
-> The windows rattled. A spoon fell off the table. *Clink.*
+### Shot 5 — THE STEPS · day
+**Still:** `Tabletop-level two-shot at a wooden kitchen table in warm honey-gold window light: AIYU holds up a pink toy phone and points to its big green button, a patient teacher, and ROSIE stands across from her with her straw standing tall, watching closely; a little card of six picture doodles leans against the teapot between them. A steaming teapot with curling steam, a striped teal tablecloth, a vase of coral roses, a lace-curtained window glowing behind.`
+9. **Narration:** 1. Ask a grown-up, "May I answer the phone?" Check who's calling on the screen.
+   `Shot: medium shot. Scene: the sunny kitchen table. Action: AIYU lifts the toy phone and taps its little screen, while steam curls from the teapot. Character: Aiyu, the little glowing golden jelly cube — patient teacher. Camera: slowly pushes in. Audio: soft kitchen ambience, no music, no voices, no speech.`
+10. **Narration:** 2. Tap the green button. Hold the phone to your ear.
+   `Shot: medium close-up. Scene: the same table. Action: AIYU taps the big green button and lifts the toy phone to her side. Character: Aiyu, the little glowing golden jelly cube — careful, slow. Camera: holds still. Audio: a tiny soft click, no music, no voices, no speech.`
+11. **Narration:** 3. Say clearly: **"Hello, this is Rosie. Who is calling, please?"**
+   `Shot: medium shot. Scene: the same table. Action: ROSIE nods slowly along, mouthing to herself, while steam curls from the teapot. Character: the little pink rose-milk-tea cup with the striped straw — focused. Camera: slowly pans right. Audio: a soft ticking clock, no music, no voices, no speech.`
 
-### Shot 5 — THE INSIDE PHONE VOICE (2:10–2:40)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Tico the Toucan, a glossy black keel-billed toucan with a huge rainbow-striped banana-shaped beak, bright yellow throat, twinkling excited eyes, bouncy and cheerful, holds a banana phone and speaks calmly, his yellow chest puffed out proudly. Aiyu, a small wobbly semi-transparent cube of pale golden-amber aiyu jelly with tiny lemon-seed freckles, shy gentle eyes, a soft glow, light shining through her body, gives a thumbs-up. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, laughs happily. Three small speech bubbles float above Tico: a huge one, a tiny one, and a just-right one glowing gold.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium close-up. Scene: kitchen. Action: she jiggles with a giggle. Character: the little glowing golden jelly cube — eyes crinkle happily. Camera: holds still. Audio: a soft jiggle, kitchen hum. No speech.`
-2. `Shot: medium shot. Scene: kitchen. Action: he shrinks down small, the banana held close. Character: the toucan with the rainbow beak — tiny, sheepish eyes. Camera: pushes in. Audio: quiet kitchen hush. No speech.`
-3. `Shot: medium wide. Scene: kitchen. Action: the three empty speech bubbles pop in one by one, the just-right one glowing gold. Character: the little pink rose-milk-tea cup with the striped straw — delighted, laughing eyes. Camera: pulls back slowly. Audio: three soft pops, a gentle chime. No speech.`
-4. `Shot: medium shot. Scene: kitchen. Action: he puffs out his yellow chest with one small bounce. Character: the toucan with the rainbow beak — proud, beaming eyes. Camera: tilts up. Audio: a soft feather ruffle. No speech.`
-**Narration:**
-> "Tico, that was your jungle voice," Aiyu giggled. "Too loud hurts the caller's ear."
->
-> "Oh!" Tico tried again in a teeny squeak. "hello this is tico..."
->
-> "Now I can't hear you at all," said Rosie. Everyone laughed, and Tico laughed the loudest.
->
-> "Use your inside phone voice," said Aiyu. "Like you are talking to a friend across the table."
->
-> "Hello, this is Tico. Who is calling, please?" Just right! Tico puffed out his yellow chest. "Beak the news. I have an INSIDE voice!"
+### Shot 6 — LEARNING THE STEPS · day
+**Still:** `Extreme close-up, ROSIE's face fills the frame: a small clear cup of pink milk tea with a dome lid and a striped straw, holding a pink toy phone in front of her cup with both tiny hands, its big green button shining, eyes bright and serious. Aiyu's warm golden glow spills across her from one side, honey-gold window sun glows through her pink tea and three tapioca pearls, soft bokeh of coral roses and a teal teapot, a curl of tea steam drifting past.`
+12. **Narration:** 4. Listen to what the caller says.
+   `Shot: close-up. Scene: the sunny kitchen table. Action: ROSIE tilts her cup and holds very still, listening closely, while a curl of steam drifts past. Character: the little pink rose-milk-tea cup with the striped straw — listening hard. Camera: holds still. Audio: soft kitchen ambience, no music, no voices, no speech.`
+13. **Narration:** 5. If it's for a grown-up, say, "One moment, please," and walk the phone to them.
+   `Shot: close-up. Scene: the sunny kitchen table. Action: ROSIE holds the toy phone out in front of her with both hands, calm and careful. Character: the little pink rose-milk-tea cup with the striped straw — steady. Camera: slowly pulls back. Audio: soft kitchen ambience, no music, no voices, no speech.`
+14. **Narration:** 6. If it's for you, talk and listen. End with "Bye!"
+   `Shot: close-up. Scene: the sunny kitchen table. Action: ROSIE gives a small happy wave and her straw wiggles. Character: the little pink rose-milk-tea cup with the striped straw — pleased. Camera: slowly pushes in. Audio: a soft chime, no music, no voices, no speech.`
 
-### Shot 6 — ROSIE PRACTICES (2:40–3:10)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. In a cozy living room, Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, walks calmly carrying a pink toy phone toward a kind, gentle human mom's hand reaching down from the edge of the frame. Aiyu, a small wobbly semi-transparent cube of pale golden-amber aiyu jelly with tiny lemon-seed freckles, shy gentle eyes, a soft glow, light shining through her body, sits on the sofa holding a second toy phone. Tico the Toucan, a glossy black keel-billed toucan with a huge rainbow-striped banana-shaped beak, bright yellow throat, twinkling excited eyes, bouncy and cheerful, covers his own beak with a wing, trying to be quiet.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: cozy living room sofa. Action: she lifts her second toy phone. Character: the little glowing golden jelly cube — playful, twinkly eyes. Camera: holds still. Audio: soft living-room hush. No speech.`
-2. `Shot: medium shot. Scene: living room rug. Action: she walks calmly toward the mom's hand. Character: the little pink rose-milk-tea cup with the striped straw — focused, proud eyes. Camera: tracks beside her. Audio: tiny soft footsteps. No speech.`
-3. `Shot: medium close-up. Scene: living room. Action: she hands the toy phone up into the waiting hand. Character: the kind human mom — gentle hand softly takes the phone. Camera: tilts up. Audio: a soft rustle. No speech.`
-4. `Shot: medium shot. Scene: living room. Action: he flaps once, then covers his beak with a wing. Character: the toucan with the rainbow beak — excited eyes turn sheepish. Camera: pans right. Audio: a single soft wing flap. No speech.`
-**Narration:**
-> Now Rosie practiced, with Aiyu as the pretend caller. Rosie said each step out loud:
->
-> One: Ask a grown-up, "May I answer the phone?" If you can, look at the screen to see who is calling. Two: Tap the green button. Hold the phone to your ear. Three: Say the magic sentence in a clear voice: "Hello, this is Rosie. Who is calling, please?" Four: Listen to what the caller says. Five: If the call is for a grown-up, say, "One moment, please." Walk to the grown-up and give them the phone. Do not shout across the house. Six: If the call is for you, talk and listen. At the end, say, "Bye!"
->
-> "May I speak to your mom?" asked pretend-caller Aiyu.
->
-> "One moment, please," said Rosie. She walked to Mom and gave her the toy phone. She did not shout.
->
-> "SHE WALKED!" cheered Tico. Then he whispered, "Sorry. She walked."
+### Shot 7 — BANANA PHONE · day
+**Still:** `Low angle from the tabletop looking up at TICO: he stands tall holding a big yellow banana to his ear like a phone, eyes twinkling with mischief, yellow chest puffed out, rainbow beak gleaming; AIYU sits beside him with a gentle smile, and ROSIE watches from the end of the table, curious. A fruit bowl of mangoes and lychees, a teal pitcher, coral napkins, sunbeams through the window with floating dust.`
+15. **Narration:** "In Taiwan, people answer with **喂** (wéi) = hello, on the phone," said Aiyu.
+   `Shot: medium shot. Scene: the sunny kitchen table. Action: AIYU gives a small gentle wave, her glow pulsing warmly. Character: Aiyu, the little glowing golden jelly cube — shy and proud. Camera: slowly pans right. Audio: soft kitchen ambience, no music, no voices, no speech.`
+16. **Narration:** "And in Costa Rica, we say ¡Aló!" said Tico. "MY TURN!" He held a banana to his ear.
+   `Shot: medium close-up. Scene: the same table. Action: TICO hops once and swings the banana up to his ear. Character: Tico, the toucan with the rainbow beak — bursting with excitement. Camera: slowly pushes in. Audio: a soft feather rustle, no music, no voices, no speech.`
 
-### Shot 7 — THE REAL CALL (3:10–3:40)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Afternoon kitchen. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, holds a real smartphone to her side, looking at the screen, which shows a small smiling caller photo and a big green button. Aiyu, a small wobbly semi-transparent cube of pale golden-amber aiyu jelly with tiny lemon-seed freckles, shy gentle eyes, a soft glow, light shining through her body, and Tico the Toucan, a glossy black keel-billed toucan with a huge rainbow-striped banana-shaped beak, bright yellow throat, twinkling excited eyes, bouncy and cheerful, watch from nearby. A hallway door in the background shows soft steam from a bathroom.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: afternoon kitchen. Action: the phone buzzes gently in her hand. Character: the little pink rose-milk-tea cup with the striped straw — eyes widen, then focus. Camera: holds still. Audio: a soft phone ring, a distant shower hiss. No speech.`
-2. `Shot: close-up. Scene: kitchen. Action: she taps the big green button. Character: the little pink rose-milk-tea cup with the striped straw — careful eyes, a brave little smile. Camera: pushes in. Audio: a tiny soft click. No speech.`
-3. `Shot: close-up. Scene: kitchen. Action: she lifts the phone to her ear. Character: the little pink rose-milk-tea cup with the striped straw — eyes brighten, straw stands up. Camera: holds still. Audio: soft kitchen hum. No speech.`
-4. `Shot: medium wide. Scene: kitchen and hallway. Action: soft steam drifts out of the hallway door. Character: the little pink rose-milk-tea cup with the striped straw — head tilts, listening closely. Camera: pans left toward the hallway. Audio: a gentle shower hiss. No speech.`
-**Narration:**
-> After lunch, Mom said, "I'm going to take a shower. If the phone rings, you may answer it."
->
-> *Brrring! Brrring!*
->
-> Rosie looked at the screen. It said: Auntie Lin. That was 奶奶 (nǎinai) = Grandma's friend. Rosie tapped the green button. She held the phone to her ear.
->
-> "Hello, this is Rosie. Who is calling, please?"
->
-> "Hello, Rosie! It's Auntie Lin. May I please speak to your mom?"
+### Shot 8 — THE JUNGLE VOICE · day
+**Still:** `Wide view of the sunny kitchen: TICO shouts with his beak wide open into the banana, cartoon sound waves rippling out, the windows wobbling and a spoon tumbling off the table; ROSIE covers her lid with both hands, giggling, and in the bread basket on the counter CAT the little blue penguin peeks out with one cracked-open eye. Teal cupboards, coral rugs, hanging copper pots swinging, bright window sun, flour dust shaken into the air.`
+17. **Narration:** "HELLO, THIS IS TICO! WHO IS CALLING, PLEASE?" The windows rattled. A spoon fell.
+   `Shot: wide shot. Scene: the sunny kitchen. Action: the windows wobble and the spoon slides off the table, while the copper pots swing. Character: Tico, the toucan with the rainbow beak — beak wide, full jungle voice. Camera: slowly pulls back. Audio: a window rattle, a spoon clink, no music, no voices, no speech.`
+18. **Narration:** Cat opened one eye. "Five more minutes," she mumbled.
+   `Shot: close-up. Scene: the bread basket on the counter. Action: CAT opens one sleepy eye, then snuggles back into the rolls. Character: Cat, the little blue penguin with the yellow scarf — grumpy-sleepy. Camera: slowly pushes in. Audio: a tiny squeaky yawn, no music, no voices, no speech.`
 
-### Shot 8 — THE HICCUP AND THE ROSE BREATH (3:40–4:15)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, holds the phone to her ear with eyes closed, taking a calm breath; a dreamy pink rose and a little candle flame float beside her. Her straw is starting to rise again. She is writing on a yellow sticky note with a pencil. Aiyu, a small wobbly semi-transparent cube of pale golden-amber aiyu jelly with tiny lemon-seed freckles, shy gentle eyes, a soft glow, light shining through her body, holds up a small card. Tico the Toucan, a glossy black keel-billed toucan with a huge rainbow-striped banana-shaped beak, bright yellow throat, twinkling excited eyes, bouncy and cheerful, flaps his wings silently in a quiet cheer.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: kitchen. Action: she holds the small card up higher. Character: the little glowing golden jelly cube — gentle, encouraging eyes. Camera: holds still. Audio: a distant shower whoosh. No speech.`
-2. `Shot: close-up. Scene: kitchen, dreamy rose glow. Action: she breathes slowly in and out as the little candle flame softly goes out. Character: the little pink rose-milk-tea cup with the striped straw — closed eyes, face relaxing. Camera: pushes in slowly. Audio: a soft breathy whoosh, a tiny candle puff. No speech.`
-3. `Shot: close-up. Scene: yellow sticky note. Action: her pencil moves across the sticky note. Character: the little pink rose-milk-tea cup with the striped straw — eyes open with calm focus, straw rising. Camera: tilts down. Audio: a soft pencil scratch. No speech.`
-4. `Shot: medium shot. Scene: kitchen. Action: he flaps his wings silently. Character: the toucan with the rainbow beak — delighted, bright eyes. Camera: pans right. Audio: a soft feather flutter, kitchen hum. No speech.`
-**Narration:**
-> Then Rosie heard the shower. *Whoosh.* She could not give Mom the phone!
->
-> Rosie felt nervous. Her straw drooped. That's okay.
->
-> Aiyu held up the backup sentence card. Rosie did a Rose breath. Smell the rose — in, two, three, four. Blow out the candle — out, two, three, four.
->
-> "My mom can't come to the phone right now. Can I take a message?"
->
-> "Yes, please," said Auntie Lin. "Tell her Auntie Lin called about the dumpling party."
->
-> Rosie wrote on a yellow sticky note: *Auntie Lin — dumpling party.*
->
-> "Okay! Bye!" said Rosie. She tapped the red button.
->
-> Tico flapped silently. It was his very quietest cheer.
+### Shot 9 — TOO LOUD, TOO QUIET · day
+**Still:** `Medium three-shot across the sunny kitchen table: TICO has shrunk down small and sheepish, the banana held close to his beak, while AIYU giggles with her jelly jiggling and ROSIE leans in, trying to hear. In front of them stand three toy bells in a row: a huge brass one, a teeny silver one and a just-right golden one. Window sunbeams, a bowl of lychees, a teal teapot, coral napkins, a sparkle of dust in the light.`
+19. **Narration:** "Tico, that was your jungle voice," Aiyu giggled. Tico tried again in a teeny squeak.
+   `Shot: medium shot. Scene: the sunny kitchen table. Action: AIYU jiggles with a giggle and TICO shrinks down small, the banana held close. Character: Aiyu, the little glowing golden jelly cube — eyes crinkling. Camera: slowly pushes in. Audio: a soft jiggle, a quiet kitchen hush, no music, no voices, no speech.`
+20. **Narration:** "hello this is tico..." "Now I can't hear you!" said Rosie.
+   `Shot: medium shot. Scene: the same table. Action: ROSIE leans in, then laughs, her cup shaking happily. Character: the little pink rose-milk-tea cup with the striped straw — giggling. Camera: slowly pulls back. Audio: soft happy laughter-like chimes, a kitchen hum, no music, no voices, no speech.`
+21. **Narration:** "Use your inside phone voice," said Aiyu.
+   `Shot: medium shot. Scene: the same table. Action: TICO puffs out his yellow chest and gently taps the just-right golden bell with his beak. Character: Tico, the toucan with the rainbow beak — proud and calm. Camera: slowly tilts up. Audio: a gentle chime, no music, no voices, no speech.`
 
-### Shot 9 — SAFE AND PROUD (4:15–4:40)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, proudly holds up a yellow sticky note to a kind human mom with a fluffy towel wrapped on her head, smiling warmly as she kneels down. Aiyu, a small wobbly semi-transparent cube of pale golden-amber aiyu jelly with tiny lemon-seed freckles, shy gentle eyes, a soft glow, light shining through her body, smiles gently, and Tico the Toucan, a glossy black keel-billed toucan with a huge rainbow-striped banana-shaped beak, bright yellow throat, twinkling excited eyes, bouncy and cheerful, beams nearby.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium close-up. Scene: warm kitchen. Action: she gives a slow, gentle nod. Character: the little glowing golden jelly cube — soft, proud smile. Camera: holds still. Audio: quiet kitchen hum. No speech.`
-2. `Shot: medium shot. Scene: kitchen. Action: she kneels down beside Rosie. Character: the kind human mom — warm, surprised smile. Camera: tilts down. Audio: a soft towel rustle. No speech.`
-3. `Shot: medium close-up. Scene: kitchen. Action: she holds the sticky note up higher. Character: the little pink rose-milk-tea cup with the striped straw — proud, beaming eyes. Camera: pushes in slowly. Audio: gentle kitchen hum. No speech.`
-4. `Shot: close-up. Scene: kitchen. Action: her striped straw wiggles happily. Character: the little pink rose-milk-tea cup with the striped straw — eyes squeeze into a big grin. Camera: holds still. Audio: a soft happy chime. No speech.`
-**Narration:**
-> "You did it," said Aiyu softly. "And look what you did *not* say. You did not say, 'Mom is in the shower.' On the phone, never tell a caller you are home alone. Never tell your address. If a caller asks you those things, just go get a grown-up."
->
-> Rosie nodded. "The backup sentence is enough."
->
-> Mom came out with a towel on her lid. Rosie gave her the sticky note.
->
-> "A message! Just like a grown-up," said Mom. "謝謝 (xièxie) = thank you, Rosie!"
+### Shot 10 — PRACTICE TIME · day
+**Still:** `Wide, high view of a cozy living room with a soft teal sofa and a round coral rug: AIYU sits on a sofa cushion holding a pink toy phone, playful, and ROSIE stands on the rug holding a second pink toy phone, ready to practice. Plants on a bookshelf, patterned throw pillows, a basket of yarn, a fringed lamp, afternoon sun through tall windows in long gold stripes, dust motes floating.`
+22. **Narration:** Rosie practiced. Aiyu was the caller. Tico was Mom.
+   `Shot: wide shot. Scene: the sunny living room. Action: AIYU lifts her toy phone playfully, while sunbeams drift across the rug. Character: Aiyu, the little glowing golden jelly cube — playful. Camera: slowly pans right. Audio: a soft living-room hush, no music, no voices, no speech.`
+23. **Narration:** 1. Ask a grown-up, "May I answer the phone?" Check who's calling on the screen.
+   `Shot: medium shot. Scene: the same living room. Action: ROSIE peers carefully at her toy phone's screen and gives a small decided nod. Character: the little pink rose-milk-tea cup with the striped straw — careful. Camera: slowly pushes in. Audio: a soft living-room hush, no music, no voices, no speech.`
+24. **Narration:** 2. Tap the green button. Hold the phone to your ear.
+   `Shot: medium shot. Scene: the same living room. Action: ROSIE taps the green button and lifts the toy phone to her side. Character: the little pink rose-milk-tea cup with the striped straw — brave. Camera: holds still. Audio: a tiny soft click, no music, no voices, no speech.`
 
-### Shot 10 — GOODNIGHT CALL FROM TORI (4:40–5:00)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Evening in a cozy bedroom with a soft night-light and stars outside the window. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, snuggles under a pink blanket, hugging a phone that shows a video call with Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, blowing a kiss. Aiyu glows softly like a night-light on the shelf, and Tico sleeps on the headboard with his rainbow beak tucked under his wing.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: cozy bedroom, night-light. Action: the phone screen glows softly in her hands. Character: the little pink rose-milk-tea cup with the striped straw — eager eyes brighten. Camera: holds still. Audio: a soft phone ring, night crickets. No speech.`
-2. `Shot: close-up. Scene: the video call on the phone. Action: she blows a gentle kiss. Character: the tall golden lychee-tea cup with the green straw — loving, proud smile. Camera: pushes in gently. Audio: faint crickets. No speech.`
-3. `Shot: medium shot. Scene: bedroom, pink blanket. Action: she hugs the phone close as her straw wiggles. Character: the little pink rose-milk-tea cup with the striped straw — eyes grow heavy and sleepy. Camera: pulls back slowly. Audio: a soft night breeze. No speech.`
-4. `Shot: wide. Scene: moonlit bedroom. Action: the jelly-cube night-light glow gently pulses as stars twinkle. Character: the little pink rose-milk-tea cup with the striped straw — eyes close in a peaceful smile. Camera: tilts up slowly. Audio: faint crickets, soft stillness. No speech.`
-**Narration:**
-> That evening, the phone rang again. *Brrring!* The screen said: Tori ❤️.
->
-> "May I answer the phone?" asked Rosie.
->
-> "Yes, you may," said Mom.
->
-> Rosie tapped the green button. "Hello, this is Rosie. Who is calling, please?"
->
-> "It's Tori, little sip! I'm calling just for you!"
->
-> Rosie told her big sister all about the banana phone and the sticky note.
->
-> "You've got this, little sip," said Tori. "I'm so proud of you."
->
-> "Bye!" said Rosie. She hugged the phone. Her straw wiggled all the way to bed.
->
-> One step at a time, one sip at a time.
+### Shot 11 — PRACTICE CLOSE · day
+**Still:** `Close on ROSIE, a small clear cup of pink milk tea with a dome lid and a striped straw, standing on the round coral rug holding a pink toy phone to her side, straw tall, a brave little smile, sunlight glowing through her tea. Soft blurred teal sofa and green houseplants behind, floating dust motes in the sunbeam.`
+25. **Narration:** 3. Say clearly: **"Hello, this is Rosie. Who is calling, please?"**
+   `Shot: medium close-up. Scene: the sunny living room. Action: ROSIE lifts her chin with a brave little smile, while dust motes float in the sun. Character: the little pink rose-milk-tea cup with the striped straw — clear and confident. Camera: slowly pushes in. Audio: a soft living-room hush, no music, no voices, no speech.`
+26. **Narration:** 4. Listen to what the caller says.
+   `Shot: medium close-up. Scene: the same living room. Action: ROSIE tilts her cup, listening closely. Character: the little pink rose-milk-tea cup with the striped straw — attentive. Camera: holds still. Audio: a soft living-room hush, no music, no voices, no speech.`
+27. **Narration:** 5. If it's for a grown-up, say, "One moment, please," and walk the phone to them.
+   `Shot: medium close-up. Scene: the same living room. Action: ROSIE nods calmly and holds the toy phone out in front of her. Character: the little pink rose-milk-tea cup with the striped straw — calm. Camera: slowly pans left. Audio: a soft living-room hush, no music, no voices, no speech.`
+
+### Shot 12 — SHE WALKED · day
+**Still:** `Over-the-shoulder from behind TICO's glossy black back on the sofa arm, in the sunny living room: ROSIE stands on the rug holding the pink toy phone out in front of her toward TICO, who perches on the arm of the teal sofa playing pretend Mom, one wing reaching for the phone, the other covering his beak. Patterned teal pillows, a lamp with a fringed shade, a potted palm, a coral rug, sunlight in long stripes with floating dust.`
+28. **Narration:** 6. If it's for you, talk and listen. End with "Bye!"
+   `Shot: medium shot. Scene: the sunny living room. Action: ROSIE gives a small cheerful wave with her free hand and a proud little bounce. Character: the little pink rose-milk-tea cup with the striped straw — happy. Camera: slowly pulls back. Audio: a soft chime, no music, no voices, no speech.`
+29. **Narration:** "May I speak to your mom?" asked Aiyu. "One moment, please," said Rosie, and walked it to Tico.
+   `Shot: medium shot. Scene: the same living room. Action: ROSIE holds the toy phone out carefully toward TICO. Character: the little pink rose-milk-tea cup with the striped straw — calm and polite. Camera: slowly pans right. Audio: tiny soft footsteps, no music, no voices, no speech.`
+30. **Narration:** "SHE WALKED!" cheered Tico. Then he whispered, "Sorry. She walked."
+   `Shot: medium close-up. Scene: the teal sofa arm. Action: TICO flaps once in a big cheer, then quickly covers his beak with a wing. Character: Tico, the toucan with the rainbow beak — thrilled, then sheepish. Camera: slowly pushes in. Audio: a single soft wing flap, no music, no voices, no speech.`
+
+### Shot 13 — THE REAL CALL · day
+**Still:** `The kitchen counter in bright afternoon light, a hallway door ajar in the background with soft shower steam drifting out: ROSIE stands holding a real smartphone in front of her cup, looking at its screen, which shows a small smiling flower picture and a big green button. AIYU and TICO watch from the table. Teal tiles, a bowl of oranges, coral tulips, sunlight slanting across the floor.`
+31. **Narration:** After lunch, Mom took a shower. "If the phone rings, you may answer it."
+   `Shot: wide shot. Scene: the bright afternoon kitchen. Action: soft steam drifts from the hallway door, while sunlight slants across the floor. Character: the little pink rose-milk-tea cup with the striped straw — alert and ready. Camera: slowly pans left. Audio: a distant shower hiss, a kitchen hum, no music, no voices, no speech.`
+32. **Narration:** *Brrring!* The screen showed Auntie Lin, Grandma's friend. Rosie tapped the green button.
+   `Shot: medium shot. Scene: the same kitchen counter. Action: the phone buzzes gently in ROSIE's hands and she taps the green button. Character: the little pink rose-milk-tea cup with the striped straw — brave. Camera: slowly pushes in. Audio: a soft phone ring, a tiny click, no music, no voices, no speech.`
+33. **Narration:** "**Hello, this is Rosie. Who is calling, please?**"
+   `Shot: medium close-up. Scene: the same kitchen counter. Action: ROSIE lifts the phone to her side, her straw standing up tall. Character: the little pink rose-milk-tea cup with the striped straw — clear and proud. Camera: slowly pushes in. Audio: a kitchen hum, no music, no voices, no speech.`
+
+### Shot 14 — THE SHOWER · day
+**Still:** `The bright afternoon kitchen seen past ROSIE: she stands on the counter holding the phone to her side, turning to look at the hallway door, where thick soft steam billows out in swirls lit gold by the sun. A teal kettle, a coral dish towel, a plant on the windowsill, warm hazy light.`
+34. **Narration:** "Hello, Rosie! May I speak to your mom?" *Whoosh* went the shower. Mom couldn't come!
+   `Shot: medium shot. Scene: the steamy afternoon kitchen. Action: ROSIE turns her head toward the steamy hallway door, while the steam swirls. Character: the little pink rose-milk-tea cup with the striped straw — eyes wide, unsure. Camera: slowly pans left. Audio: a gentle shower whoosh, no music, no voices, no speech.`
+
+### Shot 15 — ROSE BREATH · day
+**Still:** `Extreme close-up, ROSIE's face fills the frame: a small clear cup of pink milk tea with a dome lid and a striped straw, holding the phone to her side, eyes gently closed, a dreamy glowing pink rose floating on one side of her and a tiny candle flame on the other, soft and golden. Warm sunlit bokeh and drifting steam behind her.`
+35. **Narration:** Rosie felt nervous. Her straw drooped. That's okay. Rosie did a Rose breath.
+   `Shot: close-up. Scene: the sunny kitchen. Action: ROSIE's striped straw droops, then her eyes gently close. Character: the little pink rose-milk-tea cup with the striped straw — nervous, settling. Camera: holds still. Audio: a distant shower whoosh, no music, no voices, no speech.`
+36. **Narration:** Smell the rose — in, two, three, four. Blow out the candle — out, two, three, four.
+   `Shot: close-up. Scene: the sunny kitchen. Action: ROSIE breathes slowly in toward the rose and out, and the little candle flame softly goes out. Character: the little pink rose-milk-tea cup with the striped straw — face relaxing. Camera: slowly pushes in. Audio: a soft breath in, a breathy whoosh, a tiny candle puff, no music, no voices, no speech.`
+
+### Shot 16 — TAKING A MESSAGE · day
+**Still:** `High angle looking down on the sunny kitchen counter: ROSIE holds the phone to her side with one hand and draws little squiggly doodles on a bright yellow sticky note with a tiny pencil, calm and focused, her straw rising again. A pad of yellow sticky notes, a jar of colored pencils, a coral mug, a teal kettle, a sunbeam across the counter with floating dust.`
+37. **Narration:** "My mom can't come to the phone right now. Can I take a message?"
+   `Shot: medium close-up. Scene: the sunny kitchen counter. Action: ROSIE nods calmly into the phone and her straw lifts halfway, while dust floats in the sunbeam. Character: the little pink rose-milk-tea cup with the striped straw — calm and capable. Camera: holds still. Audio: a kitchen hum, no music, no voices, no speech.`
+38. **Narration:** "Tell her Auntie Lin called about the dumpling party." Rosie wrote it on a sticky note.
+   `Shot: close-up. Scene: the same counter. Action: ROSIE's little pencil moves across the yellow sticky note in squiggly doodles. Character: the little pink rose-milk-tea cup with the striped straw — focused. Camera: slowly tilts down. Audio: a soft pencil scratch, no music, no voices, no speech.`
+
+### Shot 17 — QUIETEST CHEER · day
+**Still:** `Wide view across the sunny kitchen: on the table TICO stands flapping his wings wide in a silent happy cheer, eyes shining, beak closed tight, a few feathers floating, while AIYU beside him glows warm gold and smiles softly toward ROSIE, who stands on the counter holding a yellow sticky note, serious and proud. Lychees, a teal teapot, coral roses, long afternoon sunbeams.`
+39. **Narration:** "Bye!" She tapped the red button. Tico flapped silently — his quietest cheer.
+   `Shot: medium shot. Scene: the sunny kitchen table. Action: TICO flaps his wings wide without a sound, eyes shining. Character: Tico, the toucan with the rainbow beak — bursting with silent joy. Camera: slowly pushes in. Audio: soft wing whooshes, no music, no voices, no speech.`
+40. **Narration:** "And you didn't say Mom was in the shower," said Aiyu softly.
+   `Shot: medium close-up. Scene: the same table. Action: AIYU smiles softly and her glow warms. Character: Aiyu, the little glowing golden jelly cube — gentle, proud. Camera: slowly pans left. Audio: a quiet kitchen hum, no music, no voices, no speech.`
+41. **Narration:** "Never tell a caller you're alone or where you live. If they ask, get a grown-up."
+   `Shot: medium shot. Scene: the same kitchen. Action: ROSIE nods slowly, holding the sticky note close. Character: the little pink rose-milk-tea cup with the striped straw — serious, understanding. Camera: holds still. Audio: a quiet kitchen hum, no music, no voices, no speech.`
+
+### Shot 18 — THE NOTE · day
+**Still:** `Close on ROSIE on the sunny kitchen counter holding up a bright yellow sticky note covered in squiggly doodles toward the camera, beaming, straw tall and wiggly. Warm afternoon window sun, a coral vase of tulips, teal tiles, a jar of honey glowing amber, the smartphone lying quiet beside her, sparkly dust in the soft bokeh.`
+42. **Narration:** Mom read the note. "**謝謝** (xièxie) = thank you, Rosie!"
+   `Shot: medium close-up. Scene: the sunny kitchen counter. Action: ROSIE holds the sticky note up toward the camera and her straw wiggles. Character: the little pink rose-milk-tea cup with the striped straw — beaming with pride. Camera: slowly pushes in. Audio: a soft happy chime, no music, no voices, no speech.`
+
+### Shot 19 — TORI CALLS · night
+**Still:** `Full frame, the glowing phone screen fills the whole picture in the evening: a video call showing TORI waving happily from a cushioned window seat in her own cozy room, golden tea sparkling in warm lamplight, a little pink heart shape in the top corner. Behind her, a plump dumpling-shaped plush pillow, a coral throw blanket, a string of paper-crane garland, a teal ukulele on the wall, and dusk-blue sky in her window.`
+43. **Narration:** That evening, a heart lit up the screen: Tori! Rosie asked Mom, then answered with every step.
+   `Shot: medium shot. Scene: the glowing phone screen. Action: TORI waves happily, while the fairy lights twinkle behind her. Character: Tori, the tall golden lychee-tea cup with the green straw — delighted. Camera: holds still. Audio: a soft phone chime, a quiet evening hum, no music, no voices, no speech.`
+44. **Narration:** "You've got this, little sip," said Tori. "Bye!" said Rosie.
+   `Shot: medium close-up. Scene: the glowing phone screen. Action: TORI gives a proud little nod and blows a kiss. Character: Tori, the tall golden lychee-tea cup with the green straw — warm, loving. Camera: holds still. Audio: a soft chime, crickets outside, no music, no voices, no speech.`
+
+### Shot 20 — GOODNIGHT · night
+**Still:** `High angle looking down at the bed in a cozy moonlit bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and a striped straw, tucked under a soft pink quilt with only her lid and straw above it, eyes drifting closed, a proud sleepy smile; on the pillow beside her, CAT the little blue penguin curled up asleep, yellow scarf tucked in. Stars in the window, strings of tiny fairy lights, a plain lamp glowing low, the pink toy phone and a yellow sticky note on the nightstand, a single rainbow toucan feather in a bud vase.`
+45. **Narration:** Her straw wiggled all the way to bed. Cat was already there, napping on the pillow.
+   `Shot: medium close-up. Scene: the moonlit bedroom. Action: ROSIE's striped straw gives one last happy wiggle as she snuggles deeper under the quilt, while the fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — sleepy, proud smile. Camera: slowly pushes in. Audio: a tiny penguin snore, crickets, no music, no voices, no speech.`
+46. **Narration:** The phone is quiet on the counter now. Tico's voice is tucked in, soft and small.
+   `Shot: medium shot. Scene: the moonlit pillow. Action: CAT's round tummy rises and falls in a slow snore, and ROSIE's eyes drift closed. Character: Cat, the little blue penguin with the yellow scarf — deeply asleep. Camera: slowly pulls back. Audio: soft night crickets, no music, no voices, no speech.`
+47. **Narration:** Cat is napping somewhere warm. Goodnight, little sip — **晚安** (wǎn'ān) = goodnight.
+   `Shot: wide shot. Scene: the moonlit bedroom. Action: the lamp glow softens and the stars twinkle in the window. Character: the little pink rose-milk-tea cup with the striped straw — asleep, peaceful. Camera: slowly pulls back. Audio: quiet night, crickets fading, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
-1. **Key scene** — `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. In a sunny kitchen, Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, holds a smartphone to her ear, speaking clearly and calmly, while writing on a yellow sticky note. Aiyu, a small wobbly semi-transparent cube of pale golden-amber aiyu jelly with tiny lemon-seed freckles, shy gentle eyes, a soft glow, light shining through her body, holds up an encouraging card, and Tico the Toucan, a glossy black keel-billed toucan with a huge rainbow-striped banana-shaped beak, bright yellow throat, twinkling excited eyes, bouncy and cheerful, flaps in a silent happy cheer.`
-2. **Character portrait** — `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Clean soft cream background, full-body character reference lineup, all facing forward and smiling: Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, holding a pink toy phone; Aiyu, a small wobbly semi-transparent cube of pale golden-amber aiyu jelly with tiny lemon-seed freckles, shy gentle eyes, a soft glow, light shining through her body; Tico the Toucan, a glossy black keel-billed toucan with a huge rainbow-striped banana-shaped beak, bright yellow throat, twinkling excited eyes, bouncy and cheerful, holding a banana like a phone.`
-3. **Closing scene** — `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A cozy moonlit bedroom. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, sleeps under a pink blanket, hugging a phone that shows a heart and Tori's smiling face. A yellow sticky note is stuck to the nightstand. Aiyu, a small wobbly semi-transparent cube of pale golden-amber aiyu jelly with tiny lemon-seed freckles, shy gentle eyes, a soft glow, light shining through her body, glows like a night-light on the shelf, and Tico the Toucan, a glossy black keel-billed toucan with a huge rainbow-striped banana-shaped beak, bright yellow throat, twinkling excited eyes, bouncy and cheerful, snoozes on the headboard with his beak tucked under his wing.`
+1. **Key scene** — `On a sunny kitchen counter, ROSIE holds a smartphone to her side and writes on a bright yellow sticky note, while TICO flaps a silent cheer and AIYU glows warm gold beside her; CAT the little blue penguin naps in a bread basket nearby. Teal tiles, coral flowers, sunbeams with floating dust, rim light on every character.`
+2. **Character views** — one image per token, each `<design from the Cast list>, single full-body front view, standing, clean soft cream background, even soft lighting, storybook illustration` (ROSIE, CAT, AIYU, TICO, TORI).
+3. **Closing scene** — `A cozy moonlit bedroom: ROSIE tucked under a pink quilt with her lid and straw above it, eyes closed, CAT the little blue penguin curled up asleep on the pillow beside her, fairy lights, stars in the window, a plain lamp glowing low, a pink toy phone, a yellow sticky note and a rainbow toucan feather on the nightstand.`

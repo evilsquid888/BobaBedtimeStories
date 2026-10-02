@@ -9,339 +9,274 @@
 
 ## The Story
 
-Pock Ramune was so excited that she fizzed right over the top of her bottle.
+Pock Ramune, a fizzy soda bottle, fizzed over her top. "Pop! We're calling Tori? Pop!"
 
-"Pop! We're calling Tori today? Pop! Pop!"
+A bubble landed on stretchy Mochi's nose. He sneezed a starch puff. "Stick together!"
 
-Bubbles floated all over Rosie's kitchen. One landed on Mochi's nose. Mochi sneezed a puff of potato starch. "Bless me! Stick together!"
+Cat the penguin, who was staying with Rosie's family, napped in the warm laundry basket. She napped like a cat — hence the name. The sneeze didn't wake her.
 
-Rosie giggled. She held Mama's phone very carefully. Mama had said yes. Rosie wanted to call her big sister, Tori — her **姐姐** (jiějie) = big sister. Tori was away on a school trip, and Rosie missed her.
+Rosie giggled. Mama had said yes: Rosie could call her big sister — her **姐姐** (jiějie) = big sister. Tori was on a school trip.
 
-But Rosie had never made a phone call all by herself. Rosie felt nervous. Her straw drooped. That's okay.
+But Rosie had never made a call by herself. Rosie felt nervous. Her straw drooped. That's okay.
 
-"What's the next step?" Rosie asked.
-
-Mochi stretched one soft arm all the way across the table, like a long, bendy phone cord. "Here are your steps!"
+Mochi stretched one arm across the table, like a long, bendy phone cord. "Here are your steps!"
 
 **Rosie's Steps**
 1. Open Contacts and tap Tori's picture.
-2. Tap the green phone button. Listen to the rings and wait.
+2. Tap the green button. Listen to the rings and wait.
 3. When Tori says hello, say: **"Hi Tori, it's Rosie! Do you have time to talk?"**
-4. Tell Tori one thing about your day. Then ask Tori one question and listen. My turn, your turn.
+4. Tell one thing about your day. Ask one question and listen.
 5. Say "I love you, bye!" Then wait for Tori to say bye.
 6. Tap the red button.
 
-"Step four is like playing catch," said Mochi. "You throw one ball. Then you catch one ball."
+"Step four is like catch," said Mochi. "Throw one ball. Then catch one ball."
 
-"Pop! I LOVE catch!" said Pock. "Watch me!"
-
-Pock pretended to call Mochi. "Hi-it's-Pock-I-had-soup-and-I-saw-a-duck-and-the-duck-had-a-tiny-hat-and-the-hat-had-a-feather-and—" Pock fizzed higher and higher. Foam spilled down her sides. Her marble rattled. "—POP!"
-
-Mochi had not said one single word.
+"Pop! I LOVE catch!" said Pock. "Hi-it's-Pock-I-had-soup-and-I-saw-a-duck-and-the-duck-had-a-tiny-hat—" Foam spilled down her sides. "—POP!"
 
 "Oops," said Pock. "I threw ALL the balls at once."
 
-"My turn, your turn," said Mochi kindly. "One thing. Then one question. Then listen."
-
-Pock let her bubbles settle. "I had soup. What did you eat today, Mochi?"
-
-"Mochi," said Mochi. Then, "Just kidding. Rice." Everyone laughed.
-
-Now it was Rosie's turn to practice. Mochi pretended to be Tori and used a squeaky, sparkly big-sister voice. Rosie followed her steps, one at a time:
-
+Rosie practiced, with Mochi as Tori in a squeaky big-sister voice:
 1. Open Contacts and tap Tori's picture.
-2. Tap the green phone button. Listen to the rings and wait.
+2. Tap the green button. Listen to the rings and wait.
 3. When Tori says hello, say: **"Hi Tori, it's Rosie! Do you have time to talk?"**
-4. Tell Tori one thing about your day. Then ask Tori one question and listen. My turn, your turn.
+4. Tell one thing about your day. Ask one question and listen.
 5. Say "I love you, bye!" Then wait for Tori to say bye.
 6. Tap the red button.
 
-"I drew a cat today," said Rosie. "What did you do today?" Then she listened while Mochi told a very long story about a stretchy yawn. When Rosie tapped a pretend red button on Mochi's tummy — boop! — Mochi squeezed her tight.
+Boop! went the pretend red button on Mochi's tummy.
 
-Then it was time for the real call.
+Then came the real call. Rosie tapped Tori's picture, then the green button.
 
-Rosie opened Contacts. She tapped Tori's picture. She tapped the green phone button.
+Ring... ring... ring... "Hi, this is Tori. Please leave a message after the beep." *Beep!*
 
-Ring... ring... ring... ring...
+Tori didn't pick up. That was different from practice. Rosie's straw drooped way down. That's okay.
 
-Then a voice said, "Hi, this is Tori. Please leave a message after the beep."
+Rosie did a Rose breath. Smell the rose — in, two, three, four. Blow out the candle — out, two, three, four.
 
-*Beep!*
+Then she said: "Hi Tori, it's Rosie. Please call me back. Bye!" She tapped the red button.
 
-Tori did not pick up. That was different from practice. Rosie felt surprised. Her straw drooped way down. That's okay.
+"Sometimes people are busy," said Mochi. "They call back later." Pock tried hard to wait quietly. *Fzzz.*
 
-Rosie did a Rose breath. Smell the rose — in, two, three, four. Blow out the candle — out, two, three, four. Her straw lifted a little.
+Then — the phone rang! Cat popped out of the laundry basket. "Five more minutes," she mumbled, and flopped back onto the towels.
 
-Then she said her backup sentence into the phone: "Hi Tori, it's Rosie. Please call me back. Bye!"
+Rosie tapped the green button. "**喂** (wéi) = hello, on the phone!"
 
-She tapped the red button.
+"Hi, little sip! I got your message!"
 
-"Pop! You left a message!" said Pock. "That's like a letter you can hear!"
+**"Hi Tori, it's Rosie! Do you have time to talk?"**
 
-"Sometimes people are busy," said Mochi. "It's nobody's fault. They call back later."
+"For you? Always," said Tori. "I saved your message for bedtime."
 
-So they waited. Pock tried very hard to wait quietly. *Fzzz... fzzz...* She only fizzed a teeny bit.
+Rosie's straw wiggled all the way up. "I practiced calling you. What was your favorite thing today?" Then she listened.
 
-Then — the phone rang! Tori's picture popped up on the screen. It played a happy little song.
+Tori told her about orange fish that splashed her lid. Then Tori asked about dinner. My turn, your turn. Back and forth, like catch.
 
-Rosie tapped the green phone button. "Wéi? Hello?" she said. **喂** (wéi) = hello — the special hello people say on the phone in Taiwan.
+"They're taking turns," whispered Pock. "Pop." The smallest, politest pop ever.
 
-"Hi, little sip! It's Tori! I got your message!"
+"I love you, bye!" said Rosie. Then she waited.
 
-Rosie took a breath and said, **"Hi Tori, it's Rosie! Do you have time to talk?"**
+"I love you too, **妹妹** (mèimei) = little sister. Bye!"
 
-Tori laughed a warm, lychee-bubbly laugh. "For you? I always have time. Your message was the best part of my whole day. I saved it so I can listen again at bedtime."
+Rosie tapped the red button. Mochi stretched a giant hug around everyone. "Stick together!"
 
-Rosie's straw wiggled all the way up.
-
-Rosie took her turn: "I practiced calling you with Mochi and Pock." Then she asked, "What was your favorite thing today?" Then she listened.
-
-Tori told her about a pond full of orange fish that splashed her lid. Then Tori asked, "What are you having for dinner?" Rosie answered. My turn, your turn. Back and forth, like catch.
-
-"They're taking turns," whispered Pock. "Pop." It was the smallest, politest pop in the whole world.
-
-At last Rosie said, "I love you, bye!" Then she waited.
-
-"I love you too, **妹妹** (mèimei) = little sister," said Tori. "You've got this, little sip. Bye!"
-
-Rosie tapped the red button.
-
-"I did all the steps," said Rosie. "Even the surprise one."
-
-Rosie felt proud. Mochi stretched a giant hug around Rosie and Pock. "Stick together!"
-
-Pock blew one tiny bubble shaped like a heart. "Pop the marble — let the fun fizz out!"
-
-Rosie yawned a sleepy, rosy yawn. "One step at a time," she whispered. "One sip at a time."
+"One step at a time," Rosie whispered. "One sip at a time."
 
 ---
 
 ## 🌹 Rosie's Steps (Recap)
 1. Open Contacts and tap Tori's picture.
-2. Tap the green phone button. Listen to the rings and wait.
+2. Tap the green button. Listen to the rings and wait.
 3. When Tori says hello, say: **"Hi Tori, it's Rosie! Do you have time to talk?"**
-4. Tell Tori one thing about your day. Then ask Tori one question and listen. My turn, your turn.
+4. Tell one thing about your day. Ask one question and listen.
 5. Say "I love you, bye!" Then wait for Tori to say bye.
 6. Tap the red button.
 
 **If something surprising happens:** Rose breath, then say: "Hi Tori, it's Rosie. Please call me back. Bye!"
 
 ## 💬 Practice Together (for grown-ups)
-- Role-play with a toy phone (or a banana!). A grown-up plays Tori and answers with "Hello?" Your child says the magic sentence, shares one thing, asks one question, and then listens. Try a round where "Tori" doesn't answer, and practice the voicemail sentence right after a pretend *beep*.
-- Before a real call, sit together and find the contact's picture in the phone. Point to the green button (call) and the red button (hang up) so they are easy to spot. Remind your child to always ask a grown-up before using the phone.
-- Praise specific things: "You waited for the rings!" "You asked Tori a question and then listened!" "You waited for Tori to say bye before you tapped red!"
-- Use "My turn, your turn" as a gentle reminder during real calls. You can hold up one finger for "my turn" and point to the phone for "your turn." Start with short calls to a patient family member who knows you are practicing.
+- Role-play with a toy phone (or a banana!). A grown-up plays Tori and answers "Hello?" Your child says the magic sentence, shares one thing, asks one question, and then listens. Try a round where "Tori" doesn't answer, and practice the voicemail sentence right after a pretend *beep*.
+- Before a real call, find the contact's picture together, and point to the green button (call) and the red button (hang up). Remind your child to always ask a grown-up before using the phone.
+- Play real catch while you practice "my turn, your turn": one ball, one sentence. A stuffed-toy Cat napping in the laundry basket can be the audience — or the surprise ringer.
+- Praise specific things: "You waited for the rings!" "You asked a question and then listened!" "You waited for Tori to say bye before you tapped red!" Start real calls with a patient family member who knows you are practicing.
 
 ## 🌙 Goodnight Blessing
-Goodnight, little sip, with your phone set down to rest.
-Goodnight to the rings, and the beeps, and the "Hello?"
-Goodnight to the big sisters who always have time,
-and to the hearts that call each other back.
-Your turn to sleep now, and the moon's turn to shine.
-Sweet dreams, little sip. I love you. Bye-bye.
+Goodnight, little sip, your phone set down to rest.
+Goodnight, rings and beeps and hellos.
+Goodnight, Cat, on the warm towels.
+My turn, your turn — now it's sleep's turn.
 
 ---
 
-## 🎬 Video Storyboard (LTX)
+## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~5:00 · **Shots:** 10
-**Art style (use on ALL shots):** Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9.
-**Character reference — Rosie:** `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-**Character reference — coaches:**
-- `Mochi, a soft pillowy white mochi blob dusted with powdery potato starch, rosy pink cheeks, a big happy smile, and long stretchy taffy-like arms`
-- `Pock Ramune, a frosty pale-blue glass ramune soda bottle with a clear glass marble in her neck, fizzy bubbles for freckles, a big 'pop!' grin, and a trail of happy floating bubbles`
-- `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve`
+**Runtime:** ~4:36 (est.) · **Narrated words:** 606 · **Stills:** 20 · **Beats:** 48
+**Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
+**Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
+**Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
+**Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: none (Mama is narrated only, never drawn). Phone screens show pictures only and render as full-frame holds.
+- `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `MOCHI` → Mochi, the soft white mochi blob with stretchy arms · `Mochi, a soft pillowy round white mochi blob dusted with powdery starch, rosy pink cheeks, big happy eyes, a big happy smile, and long stretchy taffy-like arms`
+- `POCK` → Pock, the pale-blue ramune bottle with the glass marble · `Pock Ramune, a frosty pale-blue glass ramune soda bottle with a clear glass marble in her neck, fizzy bubbles for freckles, big sparkly eyes, tiny arms, a wide happy grin, and a trail of happy floating bubbles`
+- `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 
-**LTX settings:** 1280×704 · 193 frames (~8 s) per beat · guide strength 0.75 · see `LTX_GUIDE.md`
-**Negative prompt (all beats):** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
-**ID phrases (use word-for-word in every beat):**
-- Rosie → the little pink rose-milk-tea cup with the striped straw
-- Tori → the tall golden lychee-tea cup with the green straw
-- Mochi → the soft white mochi blob with stretchy arms
-- Pock Ramune → the pale-blue ramune bottle with the glass marble
+### Shot 1 — TITLE · day
+**Still:** `Low angle across a sunny kitchen table in late-afternoon light, looking up at the three friends: POCK fizzes right over the top of her pale-blue bottle, a fountain of glittering bubbles floating everywhere; MOCHI sneezes a little puff of white starch as a bubble pops on his nose; tiny ROSIE stands between them holding a big smartphone in front of her cup, giggling. Long gold sunbeams through a lace-curtained window, teal teacups on an open shelf, a vase of coral roses, a striped tablecloth, bubbles catching rainbow sparkles.`
+1. **Narration:** Pock Ramune, a fizzy soda bottle, fizzed over her top. "Pop! We're calling Tori? Pop!"
+   `Shot: Medium shot. Scene: The sunny kitchen table. Action: POCK bubbles over the top of her bottle and a stream of sparkly bubbles rises. Character: the pale-blue ramune bottle with the glass marble — bursting with excitement. Camera: slowly pushes in. Audio: soft fizzing, popping bubbles, kitchen hum, no music, no voices, no speech.`
+2. **Narration:** A bubble landed on stretchy Mochi's nose. He sneezed a starch puff. "Stick together!"
+   `Shot: Medium shot. Scene: The sunny kitchen table. Action: MOCHI scrunches up and sneezes a soft puff of white starch, while bubbles drift past. Character: the soft white mochi blob with stretchy arms — surprised, then giggly. Camera: holds still. Audio: a tiny squeaky sneeze, soft fizzing, no music, no voices, no speech.`
 
-### Shot 1 — TITLE (0:00–0:30)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. A cozy kitchen table in late-afternoon sunlight. Pock Ramune, a frosty pale-blue glass ramune soda bottle with a clear glass marble in her neck, fizzy bubbles for freckles, a big 'pop!' grin, and a trail of happy floating bubbles, is fizzing over the top with excitement, bubbles floating everywhere. Mochi, a soft pillowy white mochi blob dusted with powdery potato starch, rosy pink cheeks, a big happy smile, and long stretchy taffy-like arms, sneezes a little puff of white powder as a bubble lands on its nose. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, giggles while carefully holding a smartphone.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: wide shot. Scene: kitchen table, late-afternoon sun. Action: foam fizzes up over the bottle top and bubbles drift slowly upward. Character: the pale-blue ramune bottle with the glass marble — eyes widen into a thrilled sparkle. Camera: slowly pushes in. Audio: soft fizzing, tiny bubble pops. No speech.`
-2. `Shot: medium close-up. Scene: kitchen table. Action: one bubble floats down and lands softly on the mochi's nose. Character: the soft white mochi blob with stretchy arms — eyes cross to look at the bubble. Camera: holds still. Audio: a faint fizz, warm kitchen hum. No speech.`
-3. `Shot: medium close-up. Scene: kitchen table. Action: a small sneeze puffs out a little cloud of white powder. Character: the soft white mochi blob with stretchy arms — eyes squeeze shut, then blink open surprised. Camera: holds still. Audio: a soft puff, a tiny pop. No speech.`
-4. `Shot: medium close-up. Scene: kitchen table. Action: she hugs the phone closer and her cup shakes with a silent giggle. Character: the little pink rose-milk-tea cup with the striped straw — eyes crinkle into a happy smile. Camera: slowly pushes in. Audio: soft fizzing, warm kitchen hum. No speech.`
-**Narration:**
-> Pock Ramune was so excited that she fizzed right over the top of her bottle.
->
-> "Pop! We're calling Tori today? Pop! Pop!"
->
-> Bubbles floated all over Rosie's kitchen. One landed on Mochi's nose. Mochi sneezed a puff of potato starch. "Bless me! Stick together!"
->
-> Rosie giggled. She held Mama's phone very carefully. Mama had said yes. Rosie wanted to call her big sister, Tori — her **姐姐** (jiějie) = big sister. Tori was away on a school trip, and Rosie missed her.
+### Shot 2 — CAT IN THE LAUNDRY · day
+**Still:** `Close on a woven wicker laundry basket on a sunny kitchen chair, heaped with fluffy fresh towels in coral, teal and cream: CAT the little blue penguin curled up napping like a cat on top of the towels, round white tummy, tiny yellow scarf, one flipper over her beak. A striped sock dangling over the rim, a soap bubble floating past, honey-gold sunbeams with drifting dust motes, soft bokeh of coral roses behind.`
+3. **Narration:** Cat the penguin, who was staying with Rosie's family, napped in the warm laundry basket.
+   `Shot: Close-up. Scene: The sunny laundry basket. Action: CAT's round tummy rises and falls in a slow nap, while a bubble floats past. Character: the little blue penguin with the yellow scarf — blissfully dozing. Camera: slowly pushes in. Audio: a tiny soft snore, kitchen hum, no music, no voices, no speech.`
+4. **Narration:** She napped like a cat — hence the name. The sneeze didn't wake her.
+   `Shot: Close-up. Scene: The sunny laundry basket. Action: CAT snuggles deeper into the warm towels with a tiny wiggle. Character: the little blue penguin with the yellow scarf — perfectly comfy. Camera: holds still. Audio: a tiny snore, a soft towel rustle, no music, no voices, no speech.`
 
-### Shot 2 — THE STEPS (0:30–1:05)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, sits at the kitchen table looking a little nervous, her straw drooping. Mochi, a soft pillowy white mochi blob dusted with powdery potato starch, rosy pink cheeks, a big happy smile, and long stretchy taffy-like arms, stretches one very long bendy arm across the table like a phone cord, holding up a simple card with a green phone icon and a red phone icon. A smartphone rests between them showing a contact picture.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: kitchen table. Action: her striped straw slowly droops lower. Character: the little pink rose-milk-tea cup with the striped straw — eyes glance nervously at the phone. Camera: holds still. Audio: quiet kitchen clock ticking. No speech.`
-2. `Shot: wide shot. Scene: kitchen table. Action: one long arm stretches across the table in a slow bendy curve, lifting the card. Character: the soft white mochi blob with stretchy arms — encouraging smile grows. Camera: tracks beside the stretching arm. Audio: soft stretchy squish, kitchen hum. No speech.`
-3. `Shot: medium close-up. Scene: kitchen table. Action: she looks at the card and her straw perks up a tiny bit. Character: the little pink rose-milk-tea cup with the striped straw — worried eyes soften into a small hopeful smile. Camera: slowly pushes in. Audio: kitchen clock ticking, soft chime. No speech.`
-**Narration:**
-> But Rosie had never made a phone call all by herself. Rosie felt nervous. Her straw drooped. That's okay.
->
-> "What's the next step?" Rosie asked.
->
-> Mochi stretched one soft arm all the way across the table, like a long, bendy phone cord. "Here are your steps!"
->
-> **Rosie's Steps**
-> 1. Open Contacts and tap Tori's picture.
-> 2. Tap the green phone button. Listen to the rings and wait.
-> 3. When Tori says hello, say: **"Hi Tori, it's Rosie! Do you have time to talk?"**
-> 4. Tell Tori one thing about your day. Then ask Tori one question and listen. My turn, your turn.
-> 5. Say "I love you, bye!" Then wait for Tori to say bye.
-> 6. Tap the red button.
+### Shot 3 — MAMA SAID YES · day
+**Still:** `High angle looking down at tiny ROSIE, a small clear cup of pink milk tea with a dome lid and a striped straw, standing on a striped tablecloth beside a big smartphone propped against the sugar bowl like a glowing billboard, its screen a soft round golden glow, one tiny hand resting on its edge, eyes shining. Scattered pink rose petals, a coral saucer, a teal sugar bowl, a bowl of oranges, long late-afternoon gold stripes of sun, leftover bubbles drifting and sparkling.`
+5. **Narration:** Rosie giggled. Mama had said yes: Rosie could call her big sister — her **姐姐** (jiějie) = big sister.
+   `Shot: High-angle close-up. Scene: The sunny kitchen table. Action: ROSIE giggles and does a happy little wiggle beside the phone, her straw bouncing, while bubbles drift past. Character: the little pink rose-milk-tea cup with the striped straw — happy and hopeful. Camera: slowly pushes in. Audio: a soft giggle-like chime, kitchen hum, no music, no voices, no speech.`
+6. **Narration:** Tori was on a school trip. But Rosie had never made a call by herself.
+   `Shot: High-angle close-up. Scene: The sunny kitchen table. Action: ROSIE peeks at the glowing phone and her smile wobbles, while a sunbeam slides across the tablecloth. Character: the little pink rose-milk-tea cup with the striped straw — unsure. Camera: holds still. Audio: a ticking kitchen clock, no music, no voices, no speech.`
+7. **Narration:** Rosie felt nervous. Her straw drooped. That's okay.
+   `Shot: High-angle close-up. Scene: The sunny kitchen table. Action: ROSIE's striped straw slowly droops, while tiny bubbles rise in her tea. Character: the little pink rose-milk-tea cup with the striped straw — nervous eyes. Camera: slowly pulls back. Audio: a ticking clock, soft hum, no music, no voices, no speech.`
 
-### Shot 3 — POCK FIZZES OVER (1:05–1:30)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Pock Ramune, a frosty pale-blue glass ramune soda bottle with a clear glass marble in her neck, fizzy bubbles for freckles, a big 'pop!' grin, and a trail of happy floating bubbles, talks nonstop into a toy phone, foam spilling down her sides and her marble rattling, with a speech bubble full of tiny doodles of soup, a duck, and a duck wearing a tiny hat with a feather. Mochi, a soft pillowy white mochi blob dusted with powdery potato starch, rosy pink cheeks, a big happy smile, and long stretchy taffy-like arms, waits patiently with a tiny smile. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, watches with wide eyes.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: kitchen table. Action: the fizz inside the bottle rises higher and higher. Character: the pale-blue ramune bottle with the glass marble — eyes grow big and excited. Camera: holds still. Audio: rising fizzing sound. No speech.`
-2. `Shot: medium shot. Scene: kitchen table. Action: foam slowly spills down the sides of the bottle. Character: the pale-blue ramune bottle with the glass marble — eyebrows shoot up, grin stretches wide. Camera: slowly pushes in. Audio: bubbly foam, a marble rattling clink. No speech.`
-3. `Shot: medium shot. Scene: kitchen table. Action: a soft puff of bubbles bursts up and floats in the air. Character: the pale-blue ramune bottle with the glass marble — eyes squeeze shut on the pop. Camera: slowly pulls back. Audio: one soft comic pop. No speech.`
-4. `Shot: medium shot. Scene: kitchen table. Action: the foam settles and the bottle tilts in a small sheepish shrug. Character: the pale-blue ramune bottle with the glass marble — sheepish grin, eyes peek sideways. Camera: holds still. Audio: a last tiny fizz, quiet kitchen hum. No speech.`
-**Narration:**
-> "Step four is like playing catch," said Mochi. "You throw one ball. Then you catch one ball."
->
-> "Pop! I LOVE catch!" said Pock. "Watch me!"
->
-> Pock pretended to call Mochi. "Hi-it's-Pock-I-had-soup-and-I-saw-a-duck-and-the-duck-had-a-tiny-hat-and-the-hat-had-a-feather-and—" Pock fizzed higher and higher. Foam spilled down her sides. Her marble rattled. "—POP!"
->
-> Mochi had not said one single word.
->
-> "Oops," said Pock. "I threw ALL the balls at once."
+### Shot 4 — THE STEPS · day
+**Still:** `Wide view along the sunny kitchen table: MOCHI stretches one long taffy arm all the way across it like a bendy phone cord, curled into a playful loop, and holds up a card with six rows of simple picture doodles (a smiling face, a green circle, a little open mouth, a ball, a heart, a red circle), grinning like a game-show host. ROSIE stands on the tablecloth beside the smartphone, straw rising, eyes glued to the card. A steaming coral teapot, a bowl of oranges, teal chairs, a wall clock, gold sunbeams with drifting starch dust.`
+8. **Narration:** Mochi stretched one arm across the table, like a long, bendy phone cord. "Here are your steps!"
+   `Shot: Medium shot. Scene: The sunny kitchen table. Action: MOCHI's arm stretches long across the table and curls into a loop, while steam curls from the teapot. Character: the soft white mochi blob with stretchy arms — proud, playful grin. Camera: slowly pans right. Audio: a squeaky stretch, a kettle sigh, no music, no voices, no speech.`
+9. **Narration:** **Rosie's Steps** 1. Open Contacts and tap Tori's picture.
+   `Shot: Medium close-up. Scene: The same kitchen table. Action: MOCHI taps the first doodle with a stretchy fingertip and the card gives a bouncy wobble, while steam curls from the teapot. Character: the soft white mochi blob with stretchy arms — patient teacher grin. Camera: slowly tilts down. Audio: a soft paper tap, no music, no voices, no speech.`
+10. **Narration:** 2. Tap the green button. Listen to the rings and wait.
+   `Shot: Medium close-up. Scene: The same kitchen table. Action: ROSIE taps the air with one tiny finger, practicing the green button. Character: the little pink rose-milk-tea cup with the striped straw — careful and serious. Camera: slowly pushes in. Audio: a tiny soft click, no music, no voices, no speech.`
 
-### Shot 4 — MY TURN, YOUR TURN (1:30–1:50)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Pock Ramune, a frosty pale-blue glass ramune soda bottle with a clear glass marble in her neck, fizzy bubbles for freckles, a big 'pop!' grin, and a trail of happy floating bubbles, calm now with just a few gentle bubbles, holds a toy phone and listens. Mochi, a soft pillowy white mochi blob dusted with powdery potato starch, rosy pink cheeks, a big happy smile, and long stretchy taffy-like arms, grins mischievously. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, laughs happily. A soft ball floats between Pock and Mochi like a game of catch.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: kitchen table. Action: her bubbles slowly settle until only a few drift up. Character: the pale-blue ramune bottle with the glass marble — excited eyes turn calm and listening. Camera: slowly pushes in. Audio: fizz fading to a soft hiss. No speech.`
-2. `Shot: wide shot. Scene: kitchen table. Action: the soft ball floats gently across to the mochi. Character: the soft white mochi blob with stretchy arms — a mischievous grin spreads. Camera: pans right. Audio: a soft ball thump, kitchen hum. No speech.`
-3. `Shot: wide shot. Scene: kitchen table. Action: all three wiggle with silent laughter. Character: the little pink rose-milk-tea cup with the striped straw — eyes crinkle, straw bobs happily. Camera: slowly pulls back. Audio: warm kitchen hum, a light chime. No speech.`
-**Narration:**
-> "My turn, your turn," said Mochi kindly. "One thing. Then one question. Then listen."
->
-> Pock let her bubbles settle. "I had soup. What did you eat today, Mochi?"
->
-> "Mochi," said Mochi. Then, "Just kidding. Rice." Everyone laughed.
+### Shot 5 — LEARNING THE STEPS · day
+**Still:** `Over-the-shoulder from behind MOCHI's round powdery shoulder: tiny ROSIE, a small clear cup of pink milk tea with a dome lid and a striped straw, stands on the sunny tablecloth studying the doodle card propped against the teapot, one tiny hand resting on the smartphone beside her, eyes narrowed in concentration, straw standing taller. Sunlight glows through her pink tea and three tapioca pearls; a steaming coral teapot, a bowl of oranges, teal teacups, a puff of starch dust floating in a sunbeam.`
+11. **Narration:** 3. When Tori says hello, say: **"Hi Tori, it's Rosie! Do you have time to talk?"**
+   `Shot: Over-the-shoulder medium close-up. Scene: The sunny kitchen table. Action: ROSIE's eyes move along the card, row by row, with a tiny nod at each one, while starch dust drifts in the sunbeam. Character: the little pink rose-milk-tea cup with the striped straw — concentrating. Camera: slowly pushes in. Audio: a soft paper rustle, no music, no voices, no speech.`
+12. **Narration:** 4. Tell one thing about your day. Ask one question and listen.
+   `Shot: Over-the-shoulder medium close-up. Scene: The sunny kitchen table. Action: ROSIE tilts her cup to one side as if listening closely, while steam curls from the teapot. Character: the little pink rose-milk-tea cup with the striped straw — curious, attentive. Camera: holds still. Audio: soft kitchen hum, no music, no voices, no speech.`
+13. **Narration:** 5. Say "I love you, bye!" Then wait for Tori to say bye. 6. Tap the red button.
+   `Shot: Over-the-shoulder medium close-up. Scene: The sunny kitchen table. Action: ROSIE gives a tiny practice wave and a determined little nod. Character: the little pink rose-milk-tea cup with the striped straw — ready. Camera: slowly pulls back. Audio: a soft happy chime, no music, no voices, no speech.`
 
-### Shot 5 — PRACTICE (1:50–2:30)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, practices a pretend phone call, holding a toy phone to her lid and smiling. Mochi, a soft pillowy white mochi blob dusted with powdery potato starch, rosy pink cheeks, a big happy smile, and long stretchy taffy-like arms, pretends to be a big sister, wearing a paper rose petal on its head and a toy phone. Rosie gently pokes a pretend red button drawn on Mochi's tummy. Pock Ramune, a frosty pale-blue glass ramune soda bottle with a clear glass marble in her neck, fizzy bubbles for freckles, a big 'pop!' grin, and a trail of happy floating bubbles, cheers quietly in the background.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: kitchen table. Action: she lifts the toy phone up to her lid and her straw gives a small wiggle. Character: the little pink rose-milk-tea cup with the striped straw — nervous eyes brighten. Camera: slowly pushes in. Audio: warm kitchen hum. No speech.`
-2. `Shot: medium shot. Scene: kitchen table. Action: she tilts her cup toward the mochi, listening. Character: the little pink rose-milk-tea cup with the striped straw — attentive eyes, a small patient nod. Camera: holds still. Audio: kitchen clock ticking. No speech.`
-3. `Shot: close-up. Scene: kitchen table. Action: her tiny finger gently boops the pretend red button on the mochi's tummy. Character: the little pink rose-milk-tea cup with the striped straw — a proud little smile. Camera: holds still. Audio: a soft squishy boop. No speech.`
-4. `Shot: medium close-up. Scene: kitchen table. Action: long stretchy arms wrap slowly around Rosie in a squishy hug. Character: the soft white mochi blob with stretchy arms — cheeks glow pinker, eyes close happily. Camera: slowly pushes in. Audio: soft squish, warm kitchen hum. No speech.`
-**Narration:**
-> Now it was Rosie's turn to practice. Mochi pretended to be Tori and used a squeaky, sparkly big-sister voice. Rosie followed her steps, one at a time:
->
-> 1. Open Contacts and tap Tori's picture.
-> 2. Tap the green phone button. Listen to the rings and wait.
-> 3. When Tori says hello, say: **"Hi Tori, it's Rosie! Do you have time to talk?"**
-> 4. Tell Tori one thing about your day. Then ask Tori one question and listen. My turn, your turn.
-> 5. Say "I love you, bye!" Then wait for Tori to say bye.
-> 6. Tap the red button.
->
-> "I drew a cat today," said Rosie. "What did you do today?" Then she listened while Mochi told a very long story about a stretchy yawn. When Rosie tapped a pretend red button on Mochi's tummy — boop! — Mochi squeezed her tight.
+### Shot 6 — PLAYING CATCH · day
+**Still:** `Low angle along the tabletop: MOCHI tosses a small red rubber ball in a slow rainbow arc with one stretchy arm, patient and cheerful, and POCK leans toward it with sparkly eyes and tiny hands out, bubbles bouncing off her frosty bottle. A fruit bowl of oranges, teal teacups, a striped tablecloth, a coral wall clock, late-afternoon gold light through lace curtains, glittering bubbles hanging in the air.`
+14. **Narration:** "Step four is like catch," said Mochi. "Throw one ball. Then catch one ball."
+   `Shot: Medium shot. Scene: The sunny kitchen table. Action: MOCHI tosses the little red ball in a slow gentle arc, while bubbles drift in the sunlight. Character: the soft white mochi blob with stretchy arms — patient and cheerful. Camera: slowly pans right. Audio: a soft ball bounce, kitchen hum, no music, no voices, no speech.`
+15. **Narration:** "Pop! I LOVE catch!" said Pock.
+   `Shot: Medium close-up. Scene: The sunny kitchen table. Action: POCK bounces once with joy and a burst of bubbles rises from her top. Character: the pale-blue ramune bottle with the glass marble — thrilled. Camera: slowly pushes in. Audio: a fizzy pop, soft bubbles, no music, no voices, no speech.`
 
-### Shot 6 — THE REAL CALL (2:30–2:55)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Close-up of Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, holding a smartphone to her side. The phone screen shows a friendly contact picture of a golden-amber tea cup and a green call button. Soft musical 'ring' symbols float in the air. Mochi and Pock peek in hopefully from the edges of the frame.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: close-up. Scene: kitchen table. Action: her tiny finger taps the green call button. Character: the little pink rose-milk-tea cup with the striped straw — determined eyes, straw standing straight. Camera: slowly pushes in. Audio: a soft screen tap. No speech.`
-2. `Shot: close-up. Scene: kitchen table. Action: ring symbols pulse outward from the phone in slow waves. Character: the little pink rose-milk-tea cup with the striped straw — hopeful eyes wait, straw very still. Camera: holds still. Audio: soft phone rings. No speech.`
-3. `Shot: close-up. Scene: kitchen table. Action: the ring symbols fade away into the air. Character: the little pink rose-milk-tea cup with the striped straw — hopeful smile slips into surprised blinking. Camera: slowly pushes in. Audio: rings stop, a single soft beep. No speech.`
-**Narration:**
-> Then it was time for the real call.
->
-> Rosie opened Contacts. She tapped Tori's picture. She tapped the green phone button.
->
-> Ring... ring... ring... ring...
->
-> Then a voice said, "Hi, this is Tori. Please leave a message after the beep."
->
-> *Beep!*
+### Shot 7 — POCK FIZZES OVER · day
+**Still:** `Close on POCK in the sunny kitchen, holding a toy phone, talking so fast that white foam pours down her pale-blue sides and her glass marble rattles, a tower of bubbles spilling up toward the ceiling light; MOCHI beside her with his mouth politely open and a stretchy finger raised, waiting for a turn. Teal tiles, copper pots, coral flowers, rainbow glints in the bubbles.`
+16. **Narration:** "Hi-it's-Pock-I-had-soup-and-I-saw-a-duck-and-the-duck-had-a-tiny-hat—"
+   `Shot: Medium shot. Scene: The sunny kitchen. Action: POCK fizzes higher and higher as foam rises up her bottle, while bubbles swirl upward. Character: the pale-blue ramune bottle with the glass marble — wildly excited. Camera: slowly pushes in. Audio: rapid fizzing, a rattling glass marble, no music, no voices, no speech.`
+17. **Narration:** Foam spilled down her sides. "—POP!" "Oops," said Pock. "I threw ALL the balls at once."
+   `Shot: Medium shot. Scene: The sunny kitchen. Action: POCK's foam pours down her sides and she sags with a sheepish grin, while MOCHI blinks. Character: the pale-blue ramune bottle with the glass marble — oops, embarrassed giggle. Camera: slowly pulls back. Audio: a big soft pop, foam fizzing down, no music, no voices, no speech.`
 
-### Shot 7 — THE HICCUP AND THE ROSE BREATH (2:55–3:25)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, closes her eyes and does a calm breath, holding an imaginary rose near her lid, her straw drooping low then lifting. The phone beside her shows a simple voicemail icon. Soft pink glow around her.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium close-up. Scene: kitchen table, soft pink glow. Action: her straw droops way down. Character: the little pink rose-milk-tea cup with the striped straw — surprised eyes lower sadly. Camera: holds still. Audio: quiet kitchen hum. No speech.`
-2. `Shot: medium close-up. Scene: kitchen table, soft pink glow. Action: she breathes in slowly and her cup rises gently. Character: the little pink rose-milk-tea cup with the striped straw — eyes close peacefully. Camera: slowly pushes in. Audio: a soft airy breath in. No speech.`
-3. `Shot: medium close-up. Scene: kitchen table, soft pink glow. Action: she breathes out slowly and her straw lifts a little. Character: the little pink rose-milk-tea cup with the striped straw — eyes open, calmer. Camera: holds still. Audio: a soft breath out, like blowing out a candle. No speech.`
-4. `Shot: medium shot. Scene: kitchen table. Action: her tiny finger taps the red button on the phone. Character: the little pink rose-milk-tea cup with the striped straw — a small brave smile. Camera: slowly pulls back. Audio: a soft click. No speech.`
-**Narration:**
-> Tori did not pick up. That was different from practice. Rosie felt surprised. Her straw drooped way down. That's okay.
->
-> Rosie did a Rose breath. Smell the rose — in, two, three, four. Blow out the candle — out, two, three, four. Her straw lifted a little.
->
-> Then she said her backup sentence into the phone: "Hi Tori, it's Rosie. Please call me back. Bye!"
->
-> She tapped the red button.
+### Shot 8 — PRACTICE · day
+**Still:** `The sunny kitchen table set up for a pretend call: MOCHI holds a pink toy phone to the side of his round face with a fancy sparkly big-sister expression, and ROSIE stands facing him holding the smartphone in front of her cup, straw tall. A paper heart garland, a bowl of oranges, a steaming teapot, gold sunbeams, glittering bubbles near the window.`
+18. **Narration:** Rosie practiced, with Mochi as Tori in a squeaky big-sister voice:
+   `Shot: Medium shot. Scene: The sunny kitchen table. Action: MOCHI puts on a fancy sparkly face with the toy phone, while the heart garland sways. Character: the soft white mochi blob with stretchy arms — playful, dramatic. Camera: slowly pans left. Audio: a soft squeak, kitchen hum, no music, no voices, no speech.`
+19. **Narration:** 1. Open Contacts and tap Tori's picture.
+   `Shot: Medium close-up. Scene: The same kitchen table. Action: ROSIE taps the phone screen once with a tiny finger. Character: the little pink rose-milk-tea cup with the striped straw — focused. Camera: slowly pushes in. Audio: a tiny soft tap, no music, no voices, no speech.`
+20. **Narration:** 2. Tap the green button. Listen to the rings and wait.
+   `Shot: Medium close-up. Scene: The same kitchen table. Action: ROSIE taps again and tilts her cup, listening patiently. Character: the little pink rose-milk-tea cup with the striped straw — patient, calm. Camera: holds still. Audio: a soft pretend ring, no music, no voices, no speech.`
 
-### Shot 8 — TORI CALLS BACK (3:25–3:55)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. The smartphone on the kitchen table lights up and rings with happy musical notes, showing a contact picture of Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, jumps with joy. Pock Ramune, a frosty pale-blue glass ramune soda bottle with a clear glass marble in her neck, fizzy bubbles for freckles, a big 'pop!' grin, and a trail of happy floating bubbles, holds in a giggle with only a tiny fizz.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: kitchen table. Action: one tiny fizz rises as she holds in a giggle. Character: the pale-blue ramune bottle with the glass marble — cheeks puffed, eyes squeezed tight. Camera: holds still. Audio: a faint soft fizz. No speech.`
-2. `Shot: medium close-up. Scene: kitchen table. Action: the phone lights up and bouncing music notes float from it. Character: the little pink rose-milk-tea cup with the striped straw — eyes go wide and bright. Camera: slowly pushes in. Audio: a happy little ringtone melody. No speech.`
-3. `Shot: medium shot. Scene: kitchen table. Action: she does one small hop of delight. Character: the little pink rose-milk-tea cup with the striped straw — straw wiggles way up, big smile. Camera: holds still. Audio: soft hop thump, ringtone melody. No speech.`
-4. `Shot: close-up. Scene: kitchen table. Action: she reaches out and taps the green button. Character: the little pink rose-milk-tea cup with the striped straw — beaming, eager eyes. Camera: slowly pushes in. Audio: ringtone stops with a soft click. No speech.`
-**Narration:**
-> "Pop! You left a message!" said Pock. "That's like a letter you can hear!"
->
-> "Sometimes people are busy," said Mochi. "It's nobody's fault. They call back later."
->
-> So they waited. Pock tried very hard to wait quietly. *Fzzz... fzzz...* She only fizzed a teeny bit.
->
-> Then — the phone rang! Tori's picture popped up on the screen. It played a happy little song.
->
-> Rosie tapped the green phone button. "Wéi? Hello?" she said. **喂** (wéi) = hello — the special hello people say on the phone in Taiwan.
->
-> "Hi, little sip! It's Tori! I got your message!"
+### Shot 9 — PRACTICE CLOSE · day
+**Still:** `Low angle from the tabletop, looking up at ROSIE, a small clear cup of pink milk tea with a dome lid and a striped straw, holding the smartphone to the side of her cup with a brave little smile, straw standing tall; at the edge of the frame MOCHI holds the pink toy phone to his cheek with a fancy pretend big-sister pout. A paper heart garland swaying overhead, a steaming teapot, a bowl of oranges, gold sunlight through her pink tea, glittering bubbles.`
+21. **Narration:** 3. When Tori says hello, say: **"Hi Tori, it's Rosie! Do you have time to talk?"**
+   `Shot: Close-up. Scene: The sunny kitchen table. Action: ROSIE speaks clearly with a bright smile, her straw springing up. Character: the little pink rose-milk-tea cup with the striped straw — brave and warm. Camera: slowly pushes in. Audio: soft kitchen hum, no music, no voices, no speech.`
+22. **Narration:** 4. Tell one thing about your day. Ask one question and listen.
+   `Shot: Close-up. Scene: The sunny kitchen table. Action: ROSIE leans toward the phone and listens with wide patient eyes, while the heart garland sways. Character: the little pink rose-milk-tea cup with the striped straw — attentive. Camera: holds still. Audio: soft kitchen hum, no music, no voices, no speech.`
+23. **Narration:** 5. Say "I love you, bye!" Then wait for Tori to say bye. 6. Tap the red button.
+   `Shot: Close-up. Scene: The sunny kitchen table. Action: ROSIE lowers the phone and taps it with a proud little nod. Character: the little pink rose-milk-tea cup with the striped straw — proud. Camera: slowly pulls back. Audio: a tiny soft click, no music, no voices, no speech.`
 
-### Shot 9 — TAKING TURNS WITH TORI (3:55–4:35)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Split scene: on the left, Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, talks happily on the phone in her cozy kitchen; on the right, Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, laughs warmly on the phone beside a pond with friendly orange fish. A soft glowing ribbon of hearts links the two phones.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: pondside, right half of split frame. Action: she tilts back in a warm silent laugh, jelly cubes jiggling. Character: the tall golden lychee-tea cup with the green straw — eyes crinkle happily. Camera: pans right. Audio: pond water lapping, soft birdsong. No speech.`
-2. `Shot: medium shot. Scene: cozy kitchen, left half of split frame. Action: her straw wiggles all the way up. Character: the little pink rose-milk-tea cup with the striped straw — eyes sparkle with joy. Camera: pans left. Audio: warm kitchen hum. No speech.`
-3. `Shot: wide shot. Scene: split frame, glowing heart ribbon. Action: small hearts float slowly back and forth along the ribbon, like a game of catch. Character: the little pink rose-milk-tea cup with the striped straw — calm listening eyes, a small nod. Camera: holds still. Audio: gentle chimes, a soft fish splash. No speech.`
-4. `Shot: medium close-up. Scene: cozy kitchen. Action: she lowers the phone and taps the red button. Character: the little pink rose-milk-tea cup with the striped straw — a soft, content smile. Camera: slowly pushes in. Audio: a soft click, kitchen hum. No speech.`
-**Narration:**
-> Rosie took a breath and said, **"Hi Tori, it's Rosie! Do you have time to talk?"**
->
-> Tori laughed a warm, lychee-bubbly laugh. "For you? I always have time. Your message was the best part of my whole day. I saved it so I can listen again at bedtime."
->
-> Rosie's straw wiggled all the way up.
->
-> Rosie took her turn: "I practiced calling you with Mochi and Pock." Then she asked, "What was your favorite thing today?" Then she listened.
->
-> Tori told her about a pond full of orange fish that splashed her lid. Then Tori asked, "What are you having for dinner?" Rosie answered. My turn, your turn. Back and forth, like catch.
->
-> "They're taking turns," whispered Pock. "Pop." It was the smallest, politest pop in the whole world.
->
-> At last Rosie said, "I love you, bye!" Then she waited.
->
-> "I love you too, **妹妹** (mèimei) = little sister," said Tori. "You've got this, little sip. Bye!"
->
-> Rosie tapped the red button.
+### Shot 10 — BOOP · day
+**Still:** `Medium shot at table height: MOCHI wraps both long stretchy arms around tiny ROSIE in a squishy cocoon, a little red circle doodle drawn on his round tummy like a pretend button, and ROSIE presses it with one tiny finger, both laughing. The smartphone lies on the striped tablecloth beside them. A paper heart garland, coral roses in a jar, teal teacups, gold sunbeams, sparkly bubbles drifting.`
+24. **Narration:** Boop! went the pretend red button on Mochi's tummy.
+   `Shot: Medium shot. Scene: The sunny kitchen. Action: MOCHI's tummy squishes at the boop and his arms wrap ROSIE in a cozy squeeze. Character: the soft white mochi blob with stretchy arms — delighted. Camera: slowly pushes in. Audio: a soft boop, a happy squish, no music, no voices, no speech.`
+25. **Narration:** Then came the real call. Rosie tapped Tori's picture, then the green button.
+   `Shot: Medium close-up. Scene: The sunny kitchen. Action: ROSIE wriggles free and taps the phone screen twice with one tiny finger. Character: the little pink rose-milk-tea cup with the striped straw — ready, a little nervous. Camera: slowly pulls back. Audio: a quiet kitchen hush, no music, no voices, no speech.`
 
-### Shot 10 — GOODNIGHT (4:35–5:00)
-**Image prompt:** `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Evening light through the kitchen window with a soft moon rising. Mochi, a soft pillowy white mochi blob dusted with powdery potato starch, rosy pink cheeks, a big happy smile, and long stretchy taffy-like arms, stretches a giant squishy hug around Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, who yawns sleepily and proudly, and Pock Ramune, a frosty pale-blue glass ramune soda bottle with a clear glass marble in her neck, fizzy bubbles for freckles, a big 'pop!' grin, and a trail of happy floating bubbles, who blows one tiny heart-shaped bubble. The phone rests quietly on the table, screen dark.`
-**LTX 2.5 beats** (image-to-video from the still above — describe ONLY what changes, ONE action per beat):
-1. `Shot: medium shot. Scene: kitchen, evening moonlight. Action: long stretchy arms squeeze gently into a giant hug. Character: the soft white mochi blob with stretchy arms — cheeks glow, eyes close happily. Camera: holds still. Audio: soft evening crickets. No speech.`
-2. `Shot: medium shot. Scene: kitchen, evening moonlight. Action: one tiny heart-shaped bubble floats slowly up toward the window. Character: the pale-blue ramune bottle with the glass marble — a gentle, proud smile. Camera: tilts up. Audio: a soft fizz, crickets. No speech.`
-3. `Shot: medium shot. Scene: kitchen, evening moonlight. Action: she yawns a slow, sleepy yawn as the light dims to a cozy glow. Character: the little pink rose-milk-tea cup with the striped straw — proud eyes grow heavy and close. Camera: slowly pulls back. Audio: crickets, a soft music-box lullaby. No speech.`
-**Narration:**
-> "I did all the steps," said Rosie. "Even the surprise one."
->
-> Rosie felt proud. Mochi stretched a giant hug around Rosie and Pock. "Stick together!"
->
-> Pock blew one tiny bubble shaped like a heart. "Pop the marble — let the fun fizz out!"
->
-> Rosie yawned a sleepy, rosy yawn. "One step at a time," she whispered. "One sip at a time."
+### Shot 11 — RINGING · day
+**Still:** `Close on ROSIE, a small clear cup of pink milk tea with a dome lid and a striped straw, holding the glowing smartphone to the side of her cup, waiting, eyes wide; little cartoon ring lines curl around the phone. Late-afternoon sun in long gold stripes, a wall clock with a coral rim, teal tiles blurred behind.`
+26. **Narration:** Ring... ring... ring... "Hi, this is Tori. Please leave a message after the beep." *Beep!*
+   `Shot: Close-up. Scene: The sunny kitchen. Action: the ring lines pulse around the phone as ROSIE waits, then her eyes blink in surprise. Character: the little pink rose-milk-tea cup with the striped straw — waiting, then surprised. Camera: holds still. Audio: a soft phone ring three times, a gentle beep, no music, no voices, no speech.`
+27. **Narration:** Tori didn't pick up. That was different from practice. Rosie's straw drooped way down. That's okay.
+   `Shot: Close-up. Scene: The sunny kitchen. Action: ROSIE's striped straw droops way down. Character: the little pink rose-milk-tea cup with the striped straw — surprised, a little sad. Camera: slowly pushes in. Audio: a quiet kitchen hush, no music, no voices, no speech.`
+
+### Shot 12 — ROSE BREATH · day
+**Still:** `Extreme close-up, ROSIE's face fills the frame: a small clear cup of pink milk tea with a dome lid and a striped straw, eyes gently closed, the phone held in front of her cup, a dreamy glowing pink rose floating on one side of her and a tiny candle flame on the other, both soft and golden. Behind her, warm sunlit bokeh of the wicker laundry basket heaped with coral towels and teal teacups.`
+28. **Narration:** Rosie did a Rose breath. Smell the rose — in, two, three, four.
+   `Shot: Close-up. Scene: The sunny kitchen. Action: ROSIE breathes in slowly toward the glowing rose and her cup rises a little. Character: the little pink rose-milk-tea cup with the striped straw — calm settling in. Camera: slowly pushes in. Audio: a long soft breath in, no music, no voices, no speech.`
+29. **Narration:** Blow out the candle — out, two, three, four.
+   `Shot: Close-up. Scene: The sunny kitchen. Action: ROSIE breathes out slowly and the little candle flame softly goes out. Character: the little pink rose-milk-tea cup with the striped straw — face relaxing. Camera: holds still. Audio: a soft breathy whoosh, a tiny candle puff, no music, no voices, no speech.`
+30. **Narration:** Then she said: "Hi Tori, it's Rosie. Please call me back. Bye!" She tapped the red button.
+   `Shot: Close-up. Scene: The sunny kitchen. Action: ROSIE opens her eyes, speaks calmly into the phone, and her straw lifts halfway. Character: the little pink rose-milk-tea cup with the striped straw — steady and brave. Camera: slowly pulls back. Audio: a tiny soft click, no music, no voices, no speech.`
+
+### Shot 13 — WAITING · day
+**Still:** `The sunny kitchen table: POCK squeezes her whole bottle tight, cheeks puffed, trying to hold in her fizz, a single tiny bubble escaping from her top; MOCHI sits beside her with a calm kind smile, the smartphone lying face-up on the table between them. Wall clock, bowl of oranges, teal teacups, golden afternoon sunbeams, dust motes floating.`
+31. **Narration:** "Sometimes people are busy," said Mochi. "They call back later." Pock tried hard to wait quietly. *Fzzz.*
+   `Shot: Medium shot. Scene: The sunny kitchen table. Action: POCK puffs her cheeks and holds her fizz in while one tiny bubble escapes, as dust motes drift. Character: the pale-blue ramune bottle with the glass marble — trying so hard to be patient. Camera: slowly pushes in. Audio: a tiny fzzz, a ticking clock, no music, no voices, no speech.`
+
+### Shot 14 — CAT WAKES UP · day
+**Still:** `Close on the wicker laundry basket on a sunny kitchen chair beside the table: CAT the little blue penguin pops her head up out of the fluffy coral and teal towels, feathers ruffled, one eye open, yellow scarf askew, a washcloth draped on her head, and on the table edge beside her the smartphone buzzes with little cartoon ring lines. Gold sunbeams, a striped sock on the rim, coral roses blurred behind.`
+32. **Narration:** Then — the phone rang! Cat popped out of the laundry basket.
+   `Shot: Close-up. Scene: The sunny laundry basket. Action: CAT pops her head up out of the towels with ruffled feathers, while the phone buzzes. Character: the little blue penguin with the yellow scarf — grumpy-sleepy surprise. Camera: slowly pushes in. Audio: a soft phone ring, a towel rustle, no music, no voices, no speech.`
+33. **Narration:** "Five more minutes," she mumbled, and flopped back onto the towels.
+   `Shot: Close-up. Scene: The sunny laundry basket. Action: CAT flops back down onto the towels with a huge slow yawn. Character: the little blue penguin with the yellow scarf — instantly dozing again. Camera: holds still. Audio: a tiny squeaky yawn, a soft snore, no music, no voices, no speech.`
+
+### Shot 15 — TORI ON THE SCREEN · day
+**Still:** `Full frame, a glowing smartphone screen: TORI on a sunny school trip, standing by a garden pond full of bright orange koi, waving both tiny arms with a huge grin, a little water splash sparkling on her lid. Lily pads, a red arched bridge, willow branches, rich teal water and gold light.`
+34. **Narration:** Rosie tapped the green button. "**喂** (wéi) = hello, on the phone!"
+   `Shot: Medium shot. Scene: The glowing phone screen. Action: TORI's face lights up and she waves both arms, while koi ripple the pond behind her. Character: the tall golden lychee-tea cup with the green straw — overjoyed. Camera: holds still. Audio: a soft chime, a gentle pond splash, no music, no voices, no speech.`
+35. **Narration:** "Hi, little sip! I got your message!"
+   `Shot: Medium close-up. Scene: The glowing phone screen. Action: TORI gives a happy little bounce and the willow branches sway. Character: the tall golden lychee-tea cup with the green straw — warm big-sister grin. Camera: holds still. Audio: soft birdsong, a pond splash, no music, no voices, no speech.`
+
+### Shot 16 — THE MAGIC SENTENCE · day
+**Still:** `Heroic low angle from the tabletop: ROSIE, a small clear cup of pink milk tea with a dome lid and a striped straw, stands tall with the smartphone held to the side of her cup, smiling wide, straw springing up, framed against the bright lace-curtained window, sunlight glowing through her pink tea. A bowl of oranges, coral roses, teal teacups, the little red rubber ball beside her, a few tiny bubbles glittering in the gold light.`
+36. **Narration:** **"Hi Tori, it's Rosie! Do you have time to talk?"**
+   `Shot: Close-up. Scene: The sunny kitchen. Action: ROSIE speaks clearly with a big brave smile, tiny bubbles rising in her tea. Character: the little pink rose-milk-tea cup with the striped straw — brave and warm. Camera: slowly pushes in. Audio: soft kitchen hum, no music, no voices, no speech.`
+37. **Narration:** "For you? Always," said Tori. "I saved your message for bedtime."
+   `Shot: Close-up. Scene: The sunny kitchen. Action: ROSIE presses the phone a little closer and her eyes go soft and shiny with happiness, while bubbles glitter past. Character: the little pink rose-milk-tea cup with the striped straw — touched, glowing. Camera: holds still. Audio: a gentle chime, no music, no voices, no speech.`
+
+### Shot 17 — TAKING TURNS · day
+**Still:** `Wide view of the golden sunny kitchen: ROSIE stands on the table talking happily on the smartphone, straw wiggling high; POCK leans in from one side with sparkly eyes, a few tiny polite bubbles floating up; MOCHI watches with a proud smile. The fruit bowl, a steaming teapot, teal shelves of little jars, coral roses, long gold sunbeams with drifting dust motes.`
+38. **Narration:** Rosie's straw wiggled all the way up. "I practiced calling you."
+   `Shot: Wide shot. Scene: The golden kitchen. Action: ROSIE's straw wiggles all the way up as she talks, while dust motes swirl in the sunbeams. Character: the little pink rose-milk-tea cup with the striped straw — bubbling with happiness. Camera: slowly pushes in. Audio: a soft kitchen hum, a teapot sigh, no music, no voices, no speech.`
+39. **Narration:** "What was your favorite thing today?" Then she listened.
+   `Shot: Medium shot. Scene: The golden kitchen. Action: ROSIE tilts her cup and listens, nodding slowly. Character: the little pink rose-milk-tea cup with the striped straw — attentive, curious. Camera: holds still. Audio: soft kitchen hum, no music, no voices, no speech.`
+40. **Narration:** Tori told her about orange fish that splashed her lid. Then Tori asked about dinner.
+   `Shot: Medium shot. Scene: The golden kitchen. Action: ROSIE giggles and then answers, her straw bobbing. Character: the little pink rose-milk-tea cup with the striped straw — delighted. Camera: slowly pans right. Audio: a soft giggle-like chime, no music, no voices, no speech.`
+
+### Shot 18 — THE POLITEST POP · day
+**Still:** `Close on POCK in the sunny kitchen, whispering with a tiny proud smile, a single small round bubble floating up from her top and glinting like a pearl, her glass marble shining. Soft bokeh of ROSIE's pink cup on the phone and MOCHI behind her, gold sunbeams, teal teacups.`
+41. **Narration:** My turn, your turn. Back and forth, like catch.
+   `Shot: Close-up. Scene: The sunny kitchen. Action: POCK's eyes follow back and forth, as if watching a ball, while sunlight glints off her marble. Character: the pale-blue ramune bottle with the glass marble — fascinated. Camera: slowly pans left. Audio: soft kitchen hum, no music, no voices, no speech.`
+42. **Narration:** "They're taking turns," whispered Pock. "Pop." The smallest, politest pop ever.
+   `Shot: Close-up. Scene: The sunny kitchen. Action: one tiny round bubble rises from POCK's top and pops softly. Character: the pale-blue ramune bottle with the glass marble — proud whisper. Camera: slowly pushes in. Audio: the tiniest soft pop, no music, no voices, no speech.`
+
+### Shot 19 — STICK TOGETHER · day
+**Still:** `The sunny kitchen table in golden light: MOCHI stretches his long arms all the way around ROSIE, POCK and the laundry basket on the chair beside them where CAT the little blue penguin is napping on the warm towels, a giant squishy group hug; ROSIE holds the phone in front of her cup, glowing with pride. Heart garland, coral roses, teal teacups, sparkly bubbles floating everywhere.`
+43. **Narration:** "I love you, bye!" said Rosie. Then she waited.
+   `Shot: Medium close-up. Scene: The golden kitchen table. Action: ROSIE holds the phone close and waits patiently, her straw wiggling. Character: the little pink rose-milk-tea cup with the striped straw — loving, patient. Camera: holds still. Audio: soft kitchen hum, no music, no voices, no speech.`
+44. **Narration:** "I love you too, **妹妹** (mèimei) = little sister. Bye!"
+   `Shot: Medium shot. Scene: The golden kitchen table. Action: ROSIE's eyes crinkle into a huge happy smile, while bubbles drift up. Character: the little pink rose-milk-tea cup with the striped straw — overjoyed. Camera: slowly pushes in. Audio: a soft chime, no music, no voices, no speech.`
+45. **Narration:** Rosie tapped the red button. Mochi stretched a giant hug around everyone. "Stick together!"
+   `Shot: Wide shot. Scene: The golden kitchen table. Action: MOCHI's arms stretch around everyone in a big squishy hug, and CAT snuggles deeper into the towels. Character: the soft white mochi blob with stretchy arms — beaming. Camera: slowly pulls back. Audio: a soft squish, happy fizzing, no music, no voices, no speech.`
+
+### Shot 20 — GOODNIGHT · night
+**Still:** `A cozy moonlit bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and a striped straw, tucked under a soft pink quilt with only her lid and straw above it, eyes drifting closed; CAT the little blue penguin curled up asleep at the foot of the bed in a nest of blanket, yellow scarf tucked in. The smartphone resting face-down on the nightstand beside a plain lamp glowing low and the little red rubber ball, stars and a crescent moon in the window, strings of tiny fairy lights, a ramune-blue night sky.`
+46. **Narration:** "One step at a time," Rosie whispered. "One sip at a time."
+   `Shot: Medium close-up. Scene: The moonlit bedroom. Action: ROSIE snuggles deeper under the quilt and her eyes drift closed, while the fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — sleepy, content smile. Camera: slowly pushes in. Audio: soft night crickets, no music, no voices, no speech.`
+47. **Narration:** Goodnight, little sip, your phone set down to rest. Goodnight, rings and beeps and hellos.
+   `Shot: Wide shot. Scene: The moonlit bedroom. Action: the lamp glow softens and the stars twinkle in the window. Character: the little pink rose-milk-tea cup with the striped straw — asleep, peaceful. Camera: slowly pulls back. Audio: a soft night breeze, crickets, no music, no voices, no speech.`
+48. **Narration:** Goodnight, Cat, on the warm towels. My turn, your turn — now it's sleep's turn.
+   `Shot: Wide shot. Scene: The moonlit bedroom. Action: CAT's tummy rises and falls slowly, while the fairy lights dim into a soft glow. Character: the little blue penguin with the yellow scarf — curled up asleep. Camera: slowly pulls back. Audio: quiet night, crickets fading, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
-1. **Key scene** — `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, beams while talking on a smartphone at a cozy kitchen table, her straw wiggling up happily. Mochi, a soft pillowy white mochi blob dusted with powdery potato starch, rosy pink cheeks, a big happy smile, and long stretchy taffy-like arms, and Pock Ramune, a frosty pale-blue glass ramune soda bottle with a clear glass marble in her neck, fizzy bubbles for freckles, a big 'pop!' grin, and a trail of happy floating bubbles, listen proudly nearby, Pock letting out just one tiny polite bubble.`
-2. **Character portrait** — `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Clean soft cream background. Full-body character lineup, front view, friendly smiles: Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, in the center; Mochi, a soft pillowy white mochi blob dusted with powdery potato starch, rosy pink cheeks, a big happy smile, and long stretchy taffy-like arms, on the left; Pock Ramune, a frosty pale-blue glass ramune soda bottle with a clear glass marble in her neck, fizzy bubbles for freckles, a big 'pop!' grin, and a trail of happy floating bubbles, on the right.`
-3. **Closing scene** — `Soft whimsical storybook illustration, warm pastel palette of rose pink, cream, and honey gold, gentle rounded shapes, cozy lighting, Pixar-meets-picture-book, 16:9. Nighttime bedroom lit by a soft moon. Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw, is tucked into a tiny bed, smiling with sleepy eyes. Far away in a window across the starry sky, Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, smiles as she listens to Rosie's message on her phone, a little glowing heart floating from it.`
+1. **Key scene** — `Wide view of a sunny kitchen table in golden late-afternoon light: ROSIE holds a smartphone to the side of her cup, smiling wide, straw high; POCK fizzes happy bubbles beside her, MOCHI wraps his stretchy arms around them both, and CAT the little blue penguin naps on fluffy towels in a laundry basket on a chair beside them. Teal teacups, coral roses, a heart garland, sparkly bubbles, rim light on every character.`
+2. **Character views** — one image per token, each `<design from the Cast list>, single full-body front view, standing, clean soft cream background, even soft lighting, storybook illustration` (ROSIE, CAT, MOCHI, POCK, TORI).
+3. **Closing scene** — `A cozy moonlit bedroom: ROSIE tucked under a pink quilt with her lid and straw above it, eyes closed, CAT the little blue penguin curled up asleep at the foot of the bed, the smartphone resting face-down beside a plain lamp glowing low and a little red rubber ball, fairy lights, stars and a crescent moon in the window.`
