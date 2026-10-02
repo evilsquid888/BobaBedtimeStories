@@ -123,7 +123,7 @@ May tomorrow bring sunshine and kind asking.
 
 ## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~4:10 (est.) · **Narrated words:** 562 · **Stills:** 19 · **Beats:** 37
+**Runtime:** ~4:10 (est.) · **Narrated words:** 561 · **Stills:** 19 · **Beats:** 37
 **Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 **Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
@@ -279,4 +279,3 @@ May tomorrow bring sunshine and kind asking.
    - `Tato, a round flattened golden fried plantain patty with crisp ridges, confident friendly eyes and sturdy little arms and feet; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Guagua, a small round golden-orange sweet potato ball with a crispy puffed surface, shy big eyes, rosy cheeks, tiny arms and legs, wearing a little yellow backpack with a white five-pointed shape; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
 3. **Closing scene** — `High oblique view across the pillow in Rosie's cozy bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, tucked beneath a quilt with lid and straw visible; CAT the little blue penguin asleep on a soft pillow, yellow scarf visible. The lived-in setting includes a yellow spade, a little keepsake picture, a quilt, a plain lamp, a soft pillow. A plain bedside lamp lights the cozy bedroom at night, with saturated rose pink and warm amber accents. Fairy lights twinkle in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-

@@ -47,7 +47,7 @@ Rosie practiced, step by step:
 5. Pay and say "Thank you!"
 6. Wait for your number, then get your drink and a straw.
 
-Tama, first in line, ordered one of everything, just in case. Rosie's pretend coin was a raisin.
+Rosie practiced: **"Hi! Can I please have a pearl milk tea, half sugar, less ice?"**
 
 That evening, they walked to the tea stall at the night market. Cat came too. She dozed on the warm counter. Ka-chunk! went the sealing machine. "Five more minutes," mumbled Cat.
 
@@ -105,7 +105,7 @@ One step at a time, one sip at a time.
 
 ## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~4:35 (est.) · **Narrated words:** 609 · **Stills:** 20 · **Beats:** 44
+**Runtime:** ~4:33 (est.) · **Narrated words:** 607 · **Stills:** 20 · **Beats:** 44
 **Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 **Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
@@ -191,10 +191,10 @@ One step at a time, one sip at a time.
 23. **Narration:** 6. Wait for your number, then get your drink and a straw.
    `Shot: medium close-up. Scene: the pretend tea-shop crate. Action: ROSIE holds up a paper-wrapped straw like a prize and gives a happy wiggle, while steam curls from the teapot. Character: the little pink rose-milk-tea cup with the striped straw — proud. Camera: slowly pulls back. Audio: a soft cup clink, a happy chime, no music, no voices, no speech.`
 
-### Shot 10 — THE RAISIN COIN · day
+### Shot 10 — ROSIE PRACTICES HER ORDER · day
 **Still:** `Low angle at the pretend tea-shop crate against a wide sky-blue rooftop sky: TAMA hugs a teetering armful of everything on it, the teapot, the bowl of pearls, the straw jar, a sugar bowl and a clothespin bag, piled higher than his head, beaming, and ROSIE holds one wrinkly raisin out in front of her cup like a shiny coin, giggling. The striped umbrella tilts, low orange sun flares off the teapot, a few loose straws tumble through the air, pigeons scatter up from the ledge.`
-24. **Narration:** Tama, first in line, ordered one of everything, just in case. Rosie's pretend coin was a raisin.
-   `Shot: medium shot. Scene: the pretend tea-shop crate. Action: TAMA's teetering armful wobbles left and right as he grins, while loose straws tumble down. Character: Tama, the comfy rice-ball onigiri with the nori sash — happily overloaded. Camera: slowly pans left. Audio: china clinking softly, pigeon wings flapping, no music, no voices, no speech.`
+24. **Narration:** Rosie practiced: **"Hi! Can I please have a pearl milk tea, half sugar, less ice?"**
+   `Shot: medium shot. Scene: the pretend tea-shop crate. Action: ROSIE holds her picture order card in front of her cup and gives a confident nod, while the umbrella fringe sways. Character: the little pink rose-milk-tea cup with the striped straw — confident and prepared. Camera: slowly pans left. Audio: china clinking softly, pigeon wings flapping, no music, no voices, no speech.`
 
 ### Shot 11 — THE NIGHT MARKET · night
 **Still:** `Wide establishing view of a bustling night market lane glowing under strings of red paper lanterns: a tea stall with a long steel counter and a cup-sealing machine, a huge steaming pot of pearls, a picture-only menu board of colorful drink pictures, red plastic stools, and next door a goldfish-scooping stall glowing turquoise. ROSIE, BOBA and TAMA stand small in the foreground gazing in, and on the warm counter beside the sealing machine CAT the little blue penguin is curled up dozing. Smoke curls from a grilled-corn stall, lantern bokeh everywhere.`

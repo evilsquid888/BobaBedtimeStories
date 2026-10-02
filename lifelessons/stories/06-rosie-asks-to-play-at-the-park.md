@@ -3,7 +3,7 @@
 **Life skill:** Joining play with a new kid at the park — and handling "no thanks" kindly.
 **Magic sentence:** "Hi! Can I play with you?"
 **Coaches:** Mango (Taiwan) + Dai Daruma (Japan) + Tato the Patacon (Costa Rica)
-**Setting:** Rosie's cozy kitchen (practice), then a sunny neighborhood park with swings, a slide, and a sandbox — where Cat the penguin naps at the bottom of the slide
+**Setting:** Rosie's cozy kitchen (practice), then a sunny neighborhood park with swings, a slide, and a sandbox — where Cat the penguin naps on a bench beside the slide
 
 ---
 
@@ -49,7 +49,7 @@ Rosie practiced:
 
 "YES!" shouted Tato. "Oops. I love playing too much. My mouth won't say no!" Everyone laughed, even Dai.
 
-The next day, the whole team went to the **公園** (gōngyuán) = park. Cat the penguin came too. Cat was staying with Rosie's family. She napped like a cat, which is how she got her name. She fell asleep at the bottom of the slide.
+The next day, the whole team went to the **公園** (gōngyuán) = park. Cat the penguin came too. Cat was staying with Rosie's family. She napped like a cat, which is how she got her name. She fell asleep on a bench beside the slide.
 
 Two egg tart twins were on the swings. Step one. Rosie watched. Step two. She walked close and smiled. Step three. "**Hi! Can I play with you?**"
 
@@ -77,7 +77,7 @@ Lulu's mom called. Step six. Rosie said, "Thanks for playing!"
 
 "Bye, **朋友** (péngyǒu) = friend!" said Lulu.
 
-Tato slid down the slide and bumped Cat. "Five more minutes," she mumbled.
+Tato waved from the slide. Cat yawned. "Five more minutes," she mumbled.
 
 That night, Tori called. "You made a friend! **加油** (jiāyóu) = you can do it — and you DID."
 
@@ -111,7 +111,7 @@ Some days yes, some days no. You are wonderful either way.
 
 ## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~4:37 (est.) · **Narrated words:** 608 · **Stills:** 20 · **Beats:** 48
+**Runtime:** ~4:37 (est.) · **Narrated words:** 607 · **Stills:** 20 · **Beats:** 48
 **Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 **Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
@@ -206,13 +206,13 @@ Some days yes, some days no. You are wonderful either way.
    `Shot: medium shot. Scene: the sunny kitchen. Action: TATO throws his arms wide in a big happy cheer, then covers his mouth, while ROSIE and DAI shake with laughter. Character: Tato, the flat golden plantain disc with crinkled edges — joyful, then sheepish. Camera: slowly pulls back. Audio: a crunchy hop, soft happy laughter sounds, no music, no voices, no speech.`
 
 ### Shot 11 — THE PARK · day
-**Still:** `Wide establishing view of a sunny neighborhood park: red swings, a shiny yellow slide, a sandbox under a big shade tree, wildflowers along a winding path, layered green trees and distant rooftops. In the foreground ROSIE, MANGO, DAI and TATO arrive together on the path; at the bottom of the slide CAT the little blue penguin is curled up napping like a cat, tiny yellow scarf, round white tummy. Butterflies, dappled light, puffy clouds.`
+**Still:** `Wide establishing view of a sunny neighborhood park: red swings, a shiny yellow slide, a sandbox under a big shade tree, wildflowers along a winding path, layered green trees and distant rooftops. In the foreground ROSIE, MANGO, DAI and TATO arrive together on the path; on a bench beside the slide CAT the little blue penguin is curled up napping like a cat, tiny yellow scarf, round white tummy. Butterflies, dappled light, puffy clouds.`
 26. **Narration:** The next day, the whole team went to the **公園** (gōngyuán) = park. Cat the penguin came too.
    `Shot: wide shot. Scene: the sunny park path. Action: ROSIE hops in place with excitement as the team stops on the path, while butterflies drift by. Character: the little pink rose-milk-tea cup with the striped straw — wide-eyed wonder. Camera: slowly pushes in. Audio: birdsong, leaves rustling, no music, no voices, no speech.`
 27. **Narration:** Cat was staying with Rosie's family. She napped like a cat, which is how she got her name.
-   `Shot: medium shot. Scene: the bottom of the yellow slide. Action: CAT stretches one flipper and curls up tighter in a cat-like ball. Character: Cat, the little blue penguin with the yellow scarf — blissfully drowsy. Camera: slowly pans right. Audio: a tiny squeaky yawn, birdsong, no music, no voices, no speech.`
-28. **Narration:** She fell asleep at the bottom of the slide.
-   `Shot: close-up. Scene: the bottom of the yellow slide. Action: CAT's round white tummy rises and falls in a slow snore, while dappled light moves across her. Character: Cat, the little blue penguin with the yellow scarf — eyes closed, blissful. Camera: slowly pushes in. Audio: a soft tiny snore, leaves rustling, no music, no voices, no speech.`
+   `Shot: medium shot. Scene: a bench beside the yellow slide. Action: CAT stretches one flipper and curls up tighter in a cat-like ball. Character: Cat, the little blue penguin with the yellow scarf — blissfully drowsy. Camera: slowly pans right. Audio: a tiny squeaky yawn, birdsong, no music, no voices, no speech.`
+28. **Narration:** She fell asleep on a bench beside the slide.
+   `Shot: close-up. Scene: a bench beside the yellow slide. Action: CAT's round white tummy rises and falls in a slow snore, while dappled light moves across her. Character: Cat, the little blue penguin with the yellow scarf — eyes closed, blissful. Camera: slowly pushes in. Audio: a soft tiny snore, leaves rustling, no music, no voices, no speech.`
 
 ### Shot 12 — THE SWINGS · day
 **Still:** `By the red swings in the sunny park: the TWINS swing high side by side, golden crusts glowing, counting together with big grins; ROSIE stands on the wood-chip ground nearby, looking up at them with a friendly smile. Blue sky, a big oak tree with layered leaves, wildflowers, a teal bench, sunlight flaring through the swing chains.`
@@ -263,9 +263,9 @@ Some days yes, some days no. You are wonderful either way.
    `Shot: medium shot. Scene: the golden sandbox. Action: LULU waves her red bucket high and jiggles happily. Character: Lulu, the little white almond-jelly cube with the red bucket — beaming. Camera: slowly pulls back. Audio: a jiggly wobble, birdsong, no music, no voices, no speech.`
 
 ### Shot 18 — FIVE MORE MINUTES · day
-**Still:** `The bottom of the shiny yellow slide in golden afternoon light: TATO has just slid down and bumped into CAT the little blue penguin, who is still curled up dozing with one sleepy eye cracked open and her tiny yellow scarf askew; Tato grins sheepishly. Wood chips, wildflowers, a butterfly, glowing leaves overhead.`
-44. **Narration:** Tato slid down the slide and bumped Cat. "Five more minutes," she mumbled.
-   `Shot: medium shot. Scene: the bottom of the slide. Action: CAT opens one sleepy eye, yawns hugely, and curls back up, while TATO grins sheepishly. Character: Cat, the little blue penguin with the yellow scarf — grumpy-sleepy, then cozy. Camera: slowly pushes in. Audio: a soft slide whoosh, a tiny squeaky yawn, no music, no voices, no speech.`
+**Still:** `A bench beside the shiny yellow slide in golden afternoon light: TATO poses at the clear slide landing with a friendly wave toward CAT the little blue penguin, who is curled up dozing on the bench with one sleepy eye cracked open and her tiny yellow scarf askew; TATO smiles kindly. Wood chips, wildflowers, a butterfly, glowing leaves overhead.`
+44. **Narration:** Tato waved from the slide. Cat yawned. "Five more minutes," she mumbled.
+   `Shot: medium shot. Scene: the bench beside the slide. Action: CAT opens one sleepy eye, yawns hugely, and curls back up, while leaves sway above the bench. Character: Cat, the little blue penguin with the yellow scarf — grumpy-sleepy, then cozy. Camera: slowly pushes in. Audio: a soft slide whoosh, a tiny squeaky yawn, no music, no voices, no speech.`
 
 ### Shot 19 — TORI CALLS · night
 **Still:** `Full frame, the glowing phone screen fills the whole picture at night: TORI cheers with both tiny arms up in her own cozy attic room, golden tea sparkling, under a slanted ceiling strung with fairy lights; a round window full of stars behind her, a plump teal beanbag, a coral pennant with a little sun doodle, and on her shelf a jar of sand with a pink seashell and a tiny toy sandcastle.`
@@ -282,6 +282,6 @@ Some days yes, some days no. You are wonderful either way.
    `Shot: wide shot. Scene: the moonlit bedroom. Action: CAT's tummy rises and falls in a slow snore, while the fairy lights dim into a soft glow. Character: Cat, the little blue penguin with the yellow scarf — curled up asleep. Camera: holds still. Audio: a tiny penguin snore, crickets fading, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
-1. **Key scene** — `Inside a sunny park sandbox: ROSIE and LULU build a four-tower sandcastle together, TATO sits squashing one tower flat, MANGO and DAI cheer from the sandbox edge, and at the bottom of a shiny yellow slide behind them CAT the little blue penguin naps curled up like a cat. Red swings, wildflowers, dappled sunlight, rim light on every character.`
+1. **Key scene** — `Inside a sunny park sandbox: ROSIE and LULU build a four-tower sandcastle together, TATO sits squashing one tower flat, MANGO and DAI cheer from the sandbox edge, and on a bench beside a shiny yellow slide behind them CAT the little blue penguin naps curled up like a cat. Red swings, wildflowers, dappled sunlight, rim light on every character.`
 2. **Character views** — one image per token, each `<design from the Cast list>, single full-body front view, standing, clean soft cream background, even soft lighting, storybook illustration` (ROSIE, CAT, MANGO, DAI, TATO, TWINS, LULU, TORI).
 3. **Closing scene** — `A cozy moonlit bedroom: ROSIE tucked under a pink quilt with her lid and straw above it, eyes closed, CAT the little blue penguin curled up asleep at the foot of the bed, the park swings glowing silver through the window, fairy lights, a plain lamp glowing low.`

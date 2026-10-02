@@ -53,7 +53,7 @@ But the librarian was on the phone. She smiled and held up one finger.
 
 That was not in the practice. Rosie felt nervous. Her straw drooped. That's okay.
 
-"One finger means one minute, please," whispered Dora.
+"One finger can mean please wait," whispered Dora.
 
 Rosie did a Rose breath. Smell the rose — in, two, three, four. Blow out the candle — out, two, three, four.
 
@@ -212,7 +212,7 @@ One step, one sip, one story. Sleep tight.
 **Still:** `Extreme close-up, ROSIE's face fills the frame: a small clear cup of pink milk tea with a dome lid and a striped straw, eyes gently closed, straw drooping, a dreamy glowing pink rose floating on one side of her and a tiny candle flame on the other, both soft and golden. Behind her, the aquamarine glow of the fish tank, an emerald lamp and the blurred curl of the iron staircase in warm sunlit bokeh.`
 27. **Narration:** That was not in the practice. Rosie felt nervous. Her straw drooped. That's okay.
    `Shot: close-up. Scene: the sunlit library. Action: ROSIE's striped straw droops all the way down. Character: the little pink rose-milk-tea cup with the striped straw — nervous, worried eyes. Camera: holds still. Audio: a soft bubbling tank, library hush, no music, no voices, no speech.`
-28. **Narration:** "One finger means one minute, please," whispered Dora. Rosie did a Rose breath.
+28. **Narration:** "One finger can mean please wait," whispered Dora. Rosie did a Rose breath.
    `Shot: close-up. Scene: the sunlit library. Action: ROSIE closes her eyes and turns toward the glowing rose. Character: the little pink rose-milk-tea cup with the striped straw — getting ready to calm down. Camera: slowly pushes in. Audio: a soft bubbling tank, no music, no voices, no speech.`
 29. **Narration:** Smell the rose — in, two, three, four. Blow out the candle — out, two, three, four.
    `Shot: close-up. Scene: the sunlit library. Action: ROSIE breathes in slowly, then out, and the little candle flame softly goes out as her straw lifts. Character: the little pink rose-milk-tea cup with the striped straw — face relaxing. Camera: holds still. Audio: a long soft breath in and out, a tiny candle puff, no music, no voices, no speech.`

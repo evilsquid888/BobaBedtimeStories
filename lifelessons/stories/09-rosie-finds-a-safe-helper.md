@@ -109,7 +109,7 @@ Follow the moon home, little sip. Goodnight.
 
 ## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~4:36 (est.) · **Narrated words:** 607 · **Stills:** 20 · **Beats:** 48
+**Runtime:** ~4:37 (est.) · **Narrated words:** 608 · **Stills:** 20 · **Beats:** 48
 **Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 **Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
