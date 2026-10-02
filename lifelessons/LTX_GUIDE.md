@@ -64,6 +64,14 @@ Rules:
 - Each coach has one fixed ID phrase in that story's Cast list.
 
 ## Running a story through the pipeline
+
+### Reusing prompts with other generators
+
+The storyboards keep narration, still-image prompts, and motion prompts separate. You can reuse the prose prompts in your other image and video generators, including your MiniMax workflow. Keep the same character reference designs and scene palette across a story; map ALL-CAPS tokens to those references, then animate one action per narration beat. The command flags below belong to the documented LTX pipeline, so use your chosen generator's own controls when adapting it.
+
+Runtime estimates are for the measured Kokoro setup. If you change voices, speech speed, or pause lengths, time the new narration before generating clips. These files have been checked as scripts; alternate-model images and clips have not been rendered or visually validated here.
+
+### Documented LTX workflow
 1. Author `beats_NNN.py` from the storyboard: each still → `(image_prompt, [(narration, video_prompt, audio, end_or_None), …])`, tokens in `character_tokens`, designs in `character_designs`, `style_anchor` = the video style anchor above. `build_v2.py` prints words and max words per beat.
 2. `tts.py --voice "jf_alpha,af_heart" --lang a --speed 0.92 --gap 0.8` — check the printed runtime is ≤ 5:00 before any images.
 3. `gen_keyframes_img.py --model qwen21 --portraits`, pick one view per token; then stills at `--width 1792 --height 1024 --candidates 2`; screen and review.

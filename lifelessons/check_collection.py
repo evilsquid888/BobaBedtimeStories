@@ -10,7 +10,7 @@ import itertools
 from pathlib import Path
 import re
 
-from check_storyboard import section, words, WPS, GAP, TAIL
+from check_storyboard import section, words
 
 
 def shingles(prose, size=5):
@@ -27,6 +27,7 @@ def shingles(prose, size=5):
 def audit(folder):
     files = sorted(folder.glob("*.md"))
     failures, records, sets = [], [], {}
+    magic_owners, places, previous_coaches = {}, {}, set()
     for path in files:
         md = path.read_text(encoding="utf-8")
         story = section(md, r"## The Story\n")
@@ -55,11 +56,32 @@ def audit(folder):
             failures.append(f"{path.name}: magic sentence header missing")
         else:
             magic = words(match[1])
+            key = tuple(magic)
+            if key in magic_owners:
+                failures.append(f"{path.name}: repeats the magic sentence from {magic_owners[key]}")
+            magic_owners[key] = path.name
             spoken = words(story)
             occurrences = sum(spoken[i:i + len(magic)] == magic
                               for i in range(len(spoken) - len(magic) + 1))
             if occurrences < 3:
                 failures.append(f"{path.name}: magic sentence repeated only {occurrences} times")
+        if number >= 17:
+            coaches_match = re.search(r"\*\*Coaches:\*\* (.+)", md)
+            coaches = set(coaches_match[1].split(" + ")) if coaches_match else set()
+            if len(coaches) not in (2, 3):
+                failures.append(f"{path.name}: expected two or three coaches")
+            if coaches & previous_coaches:
+                failures.append(f"{path.name}: coach repeated from previous new story")
+            previous_coaches = coaches
+            setting = re.search(r"\*\*Setting:\*\* (.+?) \(practice\), then (.+?) \(real outing\)", md)
+            if not setting:
+                failures.append(f"{path.name}: practice and real places are not declared")
+            else:
+                for kind, place in zip(("practice", "real"), setting.groups()):
+                    key = (kind, place)
+                    if key in places:
+                        failures.append(f"{path.name}: repeats {kind} place from {places[key]}")
+                    places[key] = path.name
         cast = set(re.findall(r"^- `([A-Z]+)` →", board, re.M))
         for still in stills:
             for token in set(re.findall(r"\b[A-Z]{3,}\b", still)) - cast:
@@ -89,7 +111,7 @@ def audit(folder):
     for failure in failures:
         print("FAIL:", failure)
     if not failures:
-        print("PASS: Cat, Tori, steps, magic sentences, cast, metadata, and duplication checks.")
+        print("PASS: Cat, Tori, steps, magic sentences, cast, metadata, duplication, new places, and coach rotation.")
     return not failures
 
 

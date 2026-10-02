@@ -54,7 +54,9 @@
 - **Appearance / prompt:** token `TANG` — `Tang the Tanghulu, a tall thin bamboo skewer of five glossy candied strawberries shining like red glass, a sweet friendly face on the top berry, tiny arms`.
 
 ### Kind grown-ups (one story each)
-Each gets a token and a short design in that story's Cast list: the librarian (07), the tea-stall cashier (08), Pat the store worker (09), June the gift-shop cashier (10), Lulu's mom and dad (11), the bus driver (13), the dentist (14), the stall auntie (15), the art teacher (16).
+Each gets a token and a short design in that story's Cast list: the librarian (07), the tea-stall cashier (08), Pat the store worker (09), June the gift-shop cashier (10), Lulu's mom and dad (11), the bus driver (13), the dentist (14), the stall auntie (15), the art teacher (16), the play attendant (23), the diner server (24), the visiting auntie (25), the model-workshop helper (29), the craft-shop worker (32), and the observatory receptionist (38). Narrated people who remain off screen do not need reference images.
+
+Stories 17–41 reuse Lulu, Guagua, and Tang rather than introducing a new child for every outing. Mom supports the real outings; Tori offers encouragement without doing Rosie's task; Cat appears in at least two stills and gets a place-specific laugh. The coaches rotate across the three established crews, with no coach repeated in consecutive new stories.
 
 ## Coaches (from the other Boba Bedtime Stories collections)
 

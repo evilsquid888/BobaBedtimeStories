@@ -15,7 +15,7 @@ Good skills: concrete, observable, finishable in one outing, with one sentence a
 - Is there a **realistic small surprise** that happens in that situation (a one-finger wait, a question nobody practiced, a chair that moves, the wrong bus)?
 - Is the real-world detail right (what the worker actually says, where the bell is, what safety advice grown-ups give)?
 
-Skills already taught (do not repeat): see the Story Index in [README.md](README.md). Open ideas that fit the series: ordering at a sit-down restaurant, visiting the doctor, a haircut, a sleepover, riding an elevator or escalator, returning something to a shop, asking a teacher a question in class, saying sorry after a bump, inviting a friend over, swimming-pool rules, airport security, a school fire drill.
+Skills already taught (do not repeat): see the Story Index in [README.md](README.md). Stories 17–41 now cover borrowing, apology and repair, changed plans, sensory breaks, honesty, sharing, queues, restaurant ordering, personal boundaries, promises, budgeting, sportsmanship, clear instructions, compliments, persistence, exchanges, comforting a friend, invitations, disagreement, cleanup, packing, conversational pauses, inclusion, different preferences, and gratitude. Open ideas: visiting the doctor, a haircut, a sleepover, riding an elevator, swimming-pool rules, airport security, or a school fire drill.
 
 ## 2. Keep the characters true
 - **Rosie** — sweet, curious, nervous about new places, brave once she knows the steps. Loves lists. Asks "What's the next step?" Her straw wiggles when excited and droops when nervous. She never gets mocked, never fails the skill; she wobbles, breathes, and does it. Ends every story with "One step at a time, one sip at a time."
@@ -74,8 +74,33 @@ This is the rule that keeps 16+ videos from looking like one video. **No two sto
 | 14 | Family bathroom: bathtub as the big chair | Bright dentist's office, cloud ceiling |
 | 15 | The lane behind the building, chalk circles | Night market ring-toss stall |
 | 16 | Tori's attic bedroom, easel | Community art studio |
+| 17 | the courtyard potting shed: seed trays, terracotta pots, twine spools, a watering can, a folding stool | the community allotment: raised beds, pea trellises, a yellow spade, compost baskets, a tool rack |
+| 18 | the apartment's mosaic landing: mosaic tiles, a shallow tray, felt marbles, a shoe bench, a woven mat | the covered marble club pavilion: marble tracks, felt mats, sorting bowls, a low display rail, padded stools |
+| 19 | a backyard camping tent: tent pegs, a lantern-shaped toy, rolled mats, paper boats, zipped pockets | the lakeside visitor lodge: a rain-streaked window, model boats, map pictures, a craft table, boot trays |
+| 20 | a music room's instrument alcove: a closed drum case, soft mallets, felt pads, a metronome, a padded chair | the science museum sound gallery: sound tubes, vibration trays, padded headphones, wave sculptures, a quiet alcove |
+| 21 | the sewing nook under the stairs: ribbon reels, fabric scraps, a pincushion-shaped toy, a mending basket, blunt practice scissors | the neighborhood puppet theater workshop: cloth puppets, ribbon tails, wooden stages, repair trays, curtain tassels |
+| 22 | the mailroom sorting table: empty envelopes, sticker shapes, a parcel basket, a sorting tray, a padded stool | the postcard kiosk at the ferry terminal: postcard racks, shell stamps, a sticker tray, parcel twine, a counter bell |
+| 23 | the townhouse side passage: chalk footprints, bamboo baskets, a low rail, fabric bunting, a little stool | the indoor adventure play hall: a broad slide, padded flooring, queue footprints, cubbies, foam towers |
+| 24 | the conservatory breakfast bench: picture menus, linen mats, toy bowls, a fern planter, wooden spoons | the canal-side noodle diner: ceramic bowls, picture menus, bamboo blinds, water glasses, an open serving counter |
+| 25 | the balcony hammock corner: a hammock, greeting puppets, woven cushions, herb pots, a folding screen | the family reunion courtyard: round tables, family pictures, a greeting arch, paper fans, cushioned benches |
+| 26 | the utility room drying rack: clothespins, a watering chart with pictures, laundry baskets, a toy jug, folded towels | the school seedling conservatory: seedling shelves, small jugs, a drip tray, plant labels with pictures, a watering chart |
+| 27 | the spare room suitcase shelf: a coin pouch, toy coins, travel cases, kite pictures, a small sorting tray | the hilltop kite shop: kite frames, ribbon tails, bamboo spools, picture tags, a low counter |
+| 28 | the covered bicycle storage bay: foam pins, a soft ball, floor dots, helmet hooks, a padded bench | the miniature bowling alley: short lanes, light balls, score screens with simple shapes, shoe shelves, soft seats |
+| 29 | the model railway hobby cupboard: wooden track pieces, toy bridges, a felt river, a sorting drawer, a work lamp | the transport museum model-building table: track curves, bridge kits, shallow trays, instruction pictures, padded stools |
+| 30 | the costume trunk dressing corner: a costume trunk, fabric swatches, a paper crown, a low mirror, ribbon loops | the neighborhood quilt exhibition: patchwork quilts, fabric samples, a maker's table, wooden clips, soft benches |
+| 31 | the garden treehouse platform: wood blocks, a rope basket, a floor mat, a low rail, acorn cups | the wooden toy maker's workshop: block trays, building mats, carved animals, a low workbench, wood shaving curls |
+| 32 | the costume shop's fitting alcove: a tiny apron, folded cloths, a plain receipt envelope, a basket, a measuring ribbon | the craft-supply shop's exchange counter: apron hooks, fabric rolls, a low counter, a receipt tray, a parcel stool |
+| 33 | the building's fern stairwell bench: fern pots, soft cushions, a little fan, a pebble dish, a picture book | the butterfly garden pavilion: butterfly pictures, nectar pots, mesh curtains, shaded benches, a shallow planter |
+| 34 | the garden pergola snack cart: a pretend calendar with pictures, mixing spoons, paper muffin cups, a cart, a bowl | the school pickup shelter: backpack hooks, a covered bench, picture tiles, a rain gutter, a planter |
+| 35 | the unused fireplace puppet nook: sock puppets, a folding screen, a toy crown, felt scenery, a low stool | the community center puppet rehearsal room: a little stage, cloth backdrops, prop baskets, puppet stands, folding stools |
+| 36 | the carport camping shelf: picnic boxes, sorting baskets, cloth napkins, a spare mat, stacked stools | the orchard picnic clearing: picnic benches, marked sorting bins with pictures, fruit crates, a shared tray, shade cloth |
+| 37 | the guest bedroom luggage bench: a picture checklist, a little backpack, a water bottle, a sun hat, a packing tray | the nature center welcome deck: trail pictures, a boot brush, a map table, backpack hooks, a water station |
+| 38 | the breakfast room window seat: conversation puppets, a sand timer, a little bell, felt placemats, a window cushion | the observatory daytime reception lounge: a model telescope, desk lamps, picture brochures, reception chairs, a globe |
+| 39 | the spare dining alcove puzzle table: a folding table, felt shapes, spare stools, picture cards, a storage basket | the community paper-flower fair: paper petals, safe glue sticks, low tables, spare cushions, shallow supply trays |
+| 40 | the pantry's picnic basket alcove: picture food cards, picnic baskets, cloth napkins, empty bowls, a little tray | the fruit festival tasting pavilion: fruit picture displays, small tasting bowls, clean spoons, handwashing supplies, shaded tables |
+| 41 | the guest room window desk: a blank card, crayons, a paper envelope, flower pictures, a desk tray | the neighborhood volunteer garden office: a seed ledger with picture tabs, watering jugs, a card tray, flower pots, a wooden desk |
 
-Still free: a treehouse, a stairwell, a tent in the yard, a laundromat, a temple courtyard, a ferry, a greenhouse, a swimming pool, a bakery, a train platform, a school hallway, a hospital garden, a hotel lobby, a bowling alley, a farmers' market, a bike path, a hair salon.
+Still free: a temple courtyard, a ferry deck, a swimming pool, a bakery, a train platform, a hospital garden, a hotel lobby, a farmers' market, a bike path, a hair salon. Check the full registry before choosing; stories 17–41 now use the treehouse, tent, stairwell, and bowling alley.
 
 ### Make each place pop
 - **Choose a palette pair per place** (lemon yellow + leaf green; lantern red + turquoise; mint + tangerine; rain grey-blue + warm amber). Do not default to teal and coral in every still.
@@ -100,6 +125,7 @@ Follow LTX_GUIDE.md exactly. Checklist before running the checker:
 Run it:
 ```
 python3 lifelessons/check_storyboard.py lifelessons/stories/NN-*.md
+python3 lifelessons/check_collection.py
 ```
 It must print no FAIL and no warn lines, and an estimate ≤ 5:00.
 
