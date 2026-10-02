@@ -1,6 +1,6 @@
 # 🌹 Life Lessons — Rosie's Step-by-Step Stories
 
-41 cozy bedtime stories that teach everyday social skills, one clear step at a time. **Rosie the Rose Milk Tea** is a sweet, slightly nervous little drink who gets brave once she knows the steps. Friends from the Taiwan, Japan, and Costa Rica collections coach her. Her big sister **Tori** is always there to cheer, her little sister **Bud** tags along (usually with a sock), and **Cat the penguin** — a sleepy little blue penguin from Frostpeak staying with Rosie's family — comes on every adventure and naps somewhere new each time.
+50 cozy bedtime stories that teach everyday social skills, one clear step at a time. **Rosie the Rose Milk Tea** is a sweet, slightly nervous little drink who gets brave once she knows the steps. Friends from the Taiwan, Japan, and Costa Rica collections coach her. Her big sister **Tori** is always there to cheer, her little sister **Bud** tags along (usually with a sock), and **Cat the penguin** — a sleepy little blue penguin from Frostpeak staying with Rosie's family — comes on every adventure and naps somewhere new each time.
 
 Written as a gentle social-skills guide (in the style of social stories), and useful for kids who do best with clear, literal, repeatable steps.
 
@@ -13,7 +13,7 @@ See also: [Character Guide](CHARACTER_GUIDE.md) · [Writing Spec](SPEC.md) · [�
 - **A small surprise** happens, and Rosie handles it with a **Rose breath** (smell the rose: in for 4; blow out the candle: out for 4) and a backup sentence.
 - **Practice Together**: role-play tips for grown-ups.
 - **5 minutes, read aloud**: each story is 500–580 words plus a 4-line blessing, so the narrated video lands at about 4:10–4:40.
-- **A new place every time.** No two stories practice in the same spot or visit the same real place (see the place registry in [STORY_GUIDE.md](STORY_GUIDE.md)): a back garden, a rooftop at sunset, the beach, a porch lemonade stand, a driveway, a tape-road town on the floor, a bus stop, the bathroom, a back lane, an attic — then a grand library, a night-market tea stall, a glass-domed department store, a greenhouse gift shop, a garden party, a riverside temple square, a city bus, the dentist, a ring-toss stall, an art studio.
+- **New places for the additions.** Stories 17–50 each have a different practice spot and real outing (see the place registry in [STORY_GUIDE.md](STORY_GUIDE.md)): a back garden, a rooftop at sunset, the beach, a porch lemonade stand, a driveway, a tape-road town on the floor, a bus stop, the bathroom, a back lane, an attic — then a grand library, a night-market tea stall, a glass-domed department store, a greenhouse gift shop, a garden party, a riverside temple square, a city bus, the dentist, a ring-toss stall, an art studio.
 - **Video Storyboard**: 14–20 rich "pop" stills and 36–48 one-action LTX-2.5 beats in screenplay form, each beat carrying its own line of narration, plus sample-image prompts (key scene, one view per character, closing scene). `python3 check_storyboard.py stories/*.md` checks every story against the spec.
 
 ## Story Index
@@ -36,7 +36,6 @@ See also: [Character Guide](CHARACTER_GUIDE.md) · [Writing Spec](SPEC.md) · [�
 | 14 | [Rosie Goes to the Dentist](stories/14-rosie-goes-to-the-dentist.md) | A dentist checkup: check in, wait for your name, the big chair, open wide, raise a hand for a break | "Hi, I'm Rosie. I'm here for my checkup." | Niko Nigiri 🇯🇵, Don Café 🇨🇷 |
 | 15 | [Rosie Plays Ring Toss at the Night Market](stories/15-rosie-plays-ring-toss-at-the-night-market.md) | A game stall: watch first, wait, ask the price, take your turn, miss gracefully | "Excuse me, how much for one game?" | Bīng 🇹🇼, Dai Daruma 🇯🇵 |
 | 16 | [Rosie Joins a New Art Class](stories/16-rosie-joins-a-new-art-class.md) | First day in a new class: find the teacher, introduce yourself, greet your neighbor, raise your hand, clean up | "Hi, I'm Rosie. I'm new. Where should I sit?" | Momo Mochi 🇯🇵, Aiyu 🇹🇼 (teacher-in-practice: Tori) |
-
 | 17 | [Rosie Borrows the Big Yellow Spade](stories/17-rosie-borrows-the-big-yellow-spade.md) | Ask before borrowing, accept an answer, and return a borrowed tool | "May I borrow your spade, please?" | Tama Onigiri 🇯🇵, Tato the Patacon 🇨🇷 |
 | 18 | [Rosie Says Sorry for the Marble Spill](stories/18-rosie-says-sorry-for-the-marble-spill.md) | Own an accidental mistake, apologize, and help repair it | "I'm sorry. How can I help fix it?" | Hóng Dòu 🇹🇼, Dai Daruma 🇯🇵 |
 | 19 | [Rosie Finds a New Plan in the Rain](stories/19-rosie-finds-a-new-plan-in-the-rain.md) | Handle a changed plan by choosing between realistic alternatives | "What can we do instead?" | Bīng 🇹🇼, Slowy the Sloth 🇨🇷 |
@@ -62,10 +61,19 @@ See also: [Character Guide](CHARACTER_GUIDE.md) · [Writing Spec](SPEC.md) · [�
 | 39 | [Rosie Makes Room at the Craft Table](stories/39-rosie-makes-room-at-the-craft-table.md) | Include a newcomer by offering an accessible space and a real choice | "Would you like a place beside us?" | Mochi 🇹🇼, Flan 🇨🇷 |
 | 40 | [Rosie Respects a Different Favorite](stories/40-rosie-respects-a-different-favorite.md) | Respond kindly when another person likes different food or activities | "We can like different things and still be friends." | Bīng 🇹🇼, Lala 🇨🇷 |
 | 41 | [Rosie Sends a Thank-You Picture](stories/41-rosie-sends-a-thank-you-picture.md) | Express gratitude by naming a specific helpful action | "Thank you for helping me. It meant a lot." | Dora the Dorayaki 🇯🇵, Hóng Dòu 🇹🇼 |
+| 42 | [Rosie Says Her Name Again](stories/42-rosie-says-her-name-again.md) | Correct a mistaken name clearly and ask for respectful use of your name | "My name is Rosie. Please call me Rosie." | Neko-Pan 🇯🇵, Flan 🇨🇷 |
+| 43 | [Rosie Asks Before Taking a Picture](stories/43-rosie-asks-before-taking-a-picture.md) | Get permission before photographing someone and respect a changed answer | "May I take your picture?" | Aiyu 🇹🇼, Pock Ramune 🇯🇵 |
+| 44 | [Rosie Checks the Book-Swap Rumor](stories/44-rosie-checks-the-book-swap-rumor.md) | Treat an uncertain claim as uncertain and check with someone who knows | "I don't know if that's true. Let's check." | Taro 🇹🇼, Momo Mochi 🇯🇵 |
+| 45 | [Rosie Offers Help Without Taking Over](stories/45-rosie-offers-help-without-taking-over.md) | Ask before helping and let the other person choose how much help to receive | "Would you like help, or time to try?" | Boba 🇹🇼, Estrella 🇨🇷 |
+| 46 | [Rosie Hands In the Little Coin Pouch](stories/46-rosie-hands-in-the-little-coin-pouch.md) | Turn found belongings over to an appropriate worker with grown-up support | "I found this. Where should I hand it in?" | Feng 🇹🇼, Don Café 🇨🇷 |
+| 47 | [Rosie Matches a Friend's Pace](stories/47-rosie-matches-a-friends-pace.md) | Agree on a comfortable shared pace rather than rushing a slower companion | "Let's choose a pace that works for both of us." | Mango 🇹🇼, Slowy the Sloth 🇨🇷 |
+| 48 | [Rosie Starts the Homework Mountain](stories/48-rosie-starts-the-homework-mountain.md) | Begin a large-feeling task by planning one small work period and a break | "I'll start with this part, then take a break." | Niko Nigiri 🇯🇵, Tama Onigiri 🇯🇵 |
+| 49 | [Rosie Helps the Parade Team Choose Jobs](stories/49-rosie-helps-the-parade-team-choose-jobs.md) | Allocate team roles fairly by hearing preferences and checking agreement | "Which job would each of us like?" | Gallo 🇨🇷, Pinto 🇨🇷 |
+| 50 | [Rosie Feels Proud of Her Small Steps](stories/50-rosie-feels-proud-of-her-small-steps.md) | Accept praise and recognize personal effort without comparing achievements | "Thank you. I practiced, and I'm proud." | Dai Daruma 🇯🇵, Lala 🇨🇷 |
 
 ## Collection quality checks
 
-The collection grew from 16 original stories to 41 with stories 17–41. Each new story has its own practice location and real outing, rotating coaches, a Cat gag, and a Tori moment. See [QA_REVIEW.md](QA_REVIEW.md) for the whole-collection review and distinctions between related lessons.
+The collection grew from 16 original stories to 50 with additions 17–50. Each new story has its own practice location and real outing, rotating coaches, a Cat gag, and a Tori moment. See [QA_REVIEW.md](QA_REVIEW.md) for the whole-collection review and distinctions between related lessons.
 
 ```bash
 python3 lifelessons/check_storyboard.py lifelessons/stories/*.md

@@ -87,9 +87,21 @@ def audit(folder):
             for token in set(re.findall(r"\b[A-Z]{3,}\b", still)) - cast:
                 failures.append(f"{path.name}: undeclared still character {token}")
         narrated = len(words(story)) + len(words(blessing))
+        if narrated > 610:
+            failures.append(f"{path.name}: total narration exceeds 610 words")
+        if len([line for line in blessing.splitlines() if line.strip()]) != 4:
+            failures.append(f"{path.name}: blessing must have four lines")
         declared = re.search(r"\*\*Narrated words:\*\* (\d+)", board)
         if declared and int(declared[1]) != narrated:
             failures.append(f"{path.name}: narrated word metadata {declared[1]} != {narrated}")
+        beat_numbers = [int(value) for value in re.findall(
+            r"^(\d+)\. \*\*Narration:\*\*", board, re.M)]
+        if beat_numbers != list(range(1, len(beat_numbers) + 1)):
+            failures.append(f"{path.name}: narration beat numbering is not consecutive")
+        for label, actual in (("Stills", len(stills)), ("Beats", len(beat_numbers))):
+            declared = re.search(rf"\*\*{label}:\*\* (\d+)", board)
+            if not declared or int(declared[1]) != actual:
+                failures.append(f"{path.name}: {label.lower()} count metadata does not match the storyboard")
         sets[path.name] = shingles(story)
         records.append((path, number, story))
     pairs = []
@@ -104,6 +116,29 @@ def audit(folder):
     numbers = [number for _, number, _ in records]
     if numbers != list(range(1, len(records) + 1)):
         failures.append("story numbering has gaps or duplicate numbers")
+    # The index and registry are part of the usable collection, not just paperwork.
+    readme_path = folder.parent / "README.md"
+    if readme_path.exists():
+        readme = readme_path.read_text(encoding="utf-8")
+        index = section(readme, r"## Story Index\n")
+        links = re.findall(r"\]\(stories/([^\)]+\.md)\)", index)
+        expected = {path.name for path in files}
+        if set(links) != expected or len(links) != len(files):
+            failures.append("README story index has missing, extra, or repeated links")
+        if re.search(r"\|\n\s*\n\|", index):
+            failures.append("README story table is split by a blank line")
+        declared_count = re.search(r"^(\d+) cozy bedtime stories", readme, re.M)
+        if not declared_count or int(declared_count[1]) != len(files):
+            failures.append("README story count does not match the collection")
+    registry_path = folder.parent / "STORY_GUIDE.md"
+    if registry_path.exists():
+        guide = registry_path.read_text(encoding="utf-8")
+        registry = section(guide, r"### Place registry[^\n]*\n", r"\nStill free:")
+        registered = [int(value) for value in re.findall(r"^\|\s*(\d+)\s*\|", registry, re.M)]
+        if registered != numbers:
+            failures.append("place registry has missing, extra, or repeated story numbers")
+        if re.search(r"\|\n\s*\n\|", registry):
+            failures.append("place registry table is split by a blank line")
     print(f"Audited {len(records)} stories and {len(pairs)} story pairs.")
     print("Closest prose pairs after excluding shared teaching scaffolding:")
     for score, p, q in sorted(pairs, reverse=True)[:8]:
@@ -111,7 +146,7 @@ def audit(folder):
     for failure in failures:
         print("FAIL:", failure)
     if not failures:
-        print("PASS: Cat, Tori, steps, magic sentences, cast, metadata, duplication, new places, and coach rotation.")
+        print("PASS: Cat, Tori, steps, magic sentences, cast, metadata, duplication, new places, coach rotation, index, and registry.")
     return not failures
 
 

@@ -1,19 +1,19 @@
 # Life Lessons Collection Quality Review
 
-The Life Lessons folder contains 41 stories: 16 originals and 25 additions numbered 17–41. The review covered every Life Lessons story, including its narration, teaching steps, character appearances, and storyboard. Stories 17–41 follow the collection's writing format and measured five-minute budget rather than the longer adventure-story format.
+The Life Lessons folder contains 50 stories: 16 originals and 34 additions numbered 17–50. The review covered every Life Lessons story, including its narration, teaching steps, character appearances, and storyboard. Stories 17–50 follow the collection's writing format and measured five-minute budget rather than the longer adventure-story format.
 
 ## Results
 
-- All 41 stories pass `check_storyboard.py` and `check_collection.py`.
+- All 50 stories pass `check_storyboard.py` and `check_collection.py`.
 - Every story includes Cat the penguin in its narration and at least two stills, plus Tori in the narration and at least one still.
-- The 25 additions have 535–580 story words, a four-line blessing, 19 stills, and 37–41 narration beats each. Estimated runtimes are 4:10–4:29 using the documented Kokoro settings; actual audio must still be timed when rendered.
+- The 34 additions have 535–580 story words, a four-line blessing, 19 stills, and 37–42 narration beats each. Estimated runtimes are 4:10–4:30 using the documented Kokoro settings; actual audio must still be timed when rendered.
 - Every new story has five identical steps in teaching, practice, and recap. The magic sentence occurs at least three times. Narration beats reproduce the story and blessing in order.
-- The additions use 22 established coaches from Taiwan, Japan, and Costa Rica, with no coach in consecutive new stories. Lulu, Guagua, and Tang recur as friends.
-- The additions have 25 different practice locations and 25 different real outing locations. They rotate palettes, props, camera compositions, Cat's nap spots, and Tori's encounter points. The early original stories retain their established kitchen practice settings.
+- The additions use 25 established coaches from Taiwan, Japan, and Costa Rica, with no coach in consecutive new stories. Lulu, Guagua, and Tang recur as friends.
+- The additions have 34 different practice locations and 34 different real outing locations. They rotate palettes, props, camera compositions, Cat's nap spots, and Tori's encounter points. The early original stories retain their established kitchen practice settings.
 
 ## Duplicate and theme review
 
-All 820 pairs within the 41-story collection were compared. There are no identical stories or near-duplicate prose flags. The highest five-word phrase-set overlap after excluding teaching scaffolding is 3.1%, between original stories 06 and 11. This text comparison supports the editorial review; it does not establish that moral themes never recur.
+All 1,225 pairs within the 50-story collection were compared. There are no identical stories or near-duplicate prose flags. The highest five-word phrase-set overlap after excluding teaching scaffolding is 3.1%, between original stories 06 and 11. This text comparison supports the editorial review; it does not establish that moral themes never recur.
 
 The new plots and real-life tasks differ from the originals. Some related themes deliberately build on earlier skills:
 
@@ -26,6 +26,15 @@ The new plots and real-life tasks differ from the originals. Some related themes
 | 12 cheering a friend's catch / 15 a missed toss → 28 bowling | Losing a completed shared game, congratulating the friend, and choosing a break before deciding to replay |
 | 16 art-class spill → 18 marble apology / 21 ribbon honesty | Owning a bump and offering repair / truthfully reporting damage and uncertainty so a grown-up can repair it |
 | 25 hug boundary / 33 quiet friend / 40 different favorites | Speaking for one's own comfort / respecting another person's support needs / respecting taste without pressure |
+| 01 introduction / 03 misspelled cup name → 42 name correction | Asking someone to use your name correctly, including another clear pronunciation when needed |
+| 25 hug boundary → 43 photo permission | Asking before a picture, respecting a changed answer, and checking permission before sharing |
+| 21 admitting a mistake → 44 checking a rumor | Separating a guess from checked information before repeating it |
+| 33 comforting a friend → 45 offering help | Letting the other person retain control of a task and choose the amount of help |
+| 27 spending money → 46 found pouch | Handing in someone else's belongings rather than treating found money as your budget |
+| 28 a shared game → 47 a shared pace | Adjusting an outing to a companion's comfortable pace rather than competing or racing ahead |
+| 29 smaller instructions / 31 retrying → 48 starting homework | Planning the first work period and a break before a large-feeling task has begun |
+| 22 sharing a sticker / 35 creative disagreement → 49 team jobs | Allocating jobs in a way that respects preferences and fits the work, then checking each person's responsibility |
+| 30 giving a compliment → 50 accepting praise | Naming your own effort and receiving kindness without ranking achievements |
 
 Broad themes such as kindness, patience, and persistence also occur in the other adventure collections. These additions use new Rosie plots and concrete social steps rather than retelling those adventures.
 
@@ -33,7 +42,7 @@ Broad themes such as kindness, patience, and persistence also occur in the other
 
 Story 06 now puts Cat on a bench beside the playground slide, with a wave instead of a collision. Story 07 describes a raised finger as a possible request to wait, without promising an exact minute. Story 08 now speaks its exact magic sentence during practice. Narration-word metadata was corrected in stories 06, 08, 09, and 13.
 
-For the additions, overly full scenes were shortened, missing on-screen human reference designs were added, and narration boundaries were adjusted to favor complete sentences or clauses. Still prompts keep Rosie as a tea cup and Cat as a blue penguin; action prompts name only characters in the corresponding still.
+For the additions, overly full scenes were shortened, missing on-screen human reference designs were added, and narration boundaries were adjusted to favor complete sentences or clauses. The second review also made story 50's steps observable: name the feeling and ask about another person's effort. It corrected broken index-table boundaries and added checks for index links, collection counts, the place registry, four-line blessings, total narration, and consecutive beat numbering. Still prompts keep Rosie as a tea cup and Cat as a blue penguin; action prompts name only characters in the corresponding still.
 
 ## Reproduce the checks
 
