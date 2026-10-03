@@ -3,6 +3,7 @@
 **Life skill:** Ask before borrowing, accept an answer, and return a borrowed tool.
 **Magic sentence:** "May I borrow your spade, please?"
 **Coaches:** Tama Onigiri 🇯🇵 + Tato the Patacon 🇨🇷
+**Cat’s role:** helper
 **Setting:** the courtyard potting shed (practice), then the community allotment (real outing).
 
 ---
@@ -19,7 +20,7 @@ Tama was a well-prepared triangular rice ball.
 
 Tato was a sturdy golden plantain patty.
 
-Cat the penguin napped on a folded garden apron.
+Cat the penguin sorted spare seed pots. One pot fitted her beak rather too well.
 
 Tama asked Tato, **"May I borrow your spade, please?"** He waited, then dug and returned it.
 
@@ -49,7 +50,7 @@ Tama unpacked three spare spoons. "I packed extra, just in case the worms invite
 
 Mom came to the allotment, where pea vines curled around poles and the earth smelled fresh.
 
-Cat settled into an empty padded harvest basket, looking remarkably like a very small blue cabbage.
+Cat carried empty pots to the rack, looking like a blue wheelbarrow with excellent manners.
 
 Guagua stood beside his sunflower bed, brushing soil from the straps of his yellow backpack.
 
@@ -79,9 +80,9 @@ Step five: she brushed away the loose soil and returned the spade. "Thank you fo
 
 Tato admired the straight row. "Strong tools, gentle manners. My feet vote for both."
 
-Cat opened one eye inside the harvest basket. "Please harvest the carrots before you harvest the penguin."
+Cat offered Guagua the brush. "May I borrow it next? My feet have become garden beds."
 
-Rosie giggled. The first sunflower seed disappeared into its little hole, ready for a long patient beginning.
+Rosie pressed the first sunflower seed into its small, patient beginning.
 
 Tori met Rosie beside the allotment's rain barrel, where their reflections bobbed in the water.
 
@@ -116,7 +117,7 @@ Rosie's straw stood tall. Sharing felt friendly when everyone knew what would ha
 
 Goodnight, little gardener. Rest your careful hands.
 Goodnight, yellow spade and tucked-in seeds.
-Goodnight, Cat, our unharvested penguin.
+Goodnight, Cat, with your clean little feet.
 May tomorrow bring sunshine and kind asking.
 
 ---
@@ -129,7 +130,7 @@ May tomorrow bring sunshine and kind asking.
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
 **Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: none.
 - `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf`
 - `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 - `MOM` → Mom, the tall rose-milk-tea mom cup with the pink lid · `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`
 - `TAMA` → Tama Onigiri, the triangular rice ball with the seaweed jacket · `Tama Onigiri, a triangular white rice ball with a dark seaweed jacket, gentle eyes, rosy cheeks and tiny arms and legs`
@@ -146,11 +147,11 @@ May tomorrow bring sunshine and kind asking.
    `Shot: medium shot. Scene: the courtyard potting shed. Action: ROSIE relaxes into a small pleased expression, while loose leaves flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 2 — The visiting coaches · day
-**Still:** `Low angle at cup height in the courtyard potting shed: TAMA holds a gentle attentive pose; TATO holds a gentle attentive pose; CAT the little blue penguin dozing on a folded garden apron, yellow scarf visible. The lived-in setting includes seed trays, terracotta pots, twine spools, a watering can, a folding stool. Window daylight and a warm practical lamp illuminate the scene, with saturated lime green and plum accents. Loose leaves flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Low angle at cup height in the courtyard potting shed: TAMA holds a gentle attentive pose; TATO holds a gentle attentive pose; CAT the little blue penguin sorting terracotta pots beside a folded garden apron, yellow scarf visible. The lived-in setting includes seed trays, terracotta pots, twine spools, a watering can, a folding stool. Window daylight and a warm practical lamp illuminate the scene, with saturated lime green and plum accents. Loose leaves flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 4. **Narration:** Tama was a well-prepared triangular rice ball. Tato was a sturdy golden plantain patty.
    `Shot: medium shot. Scene: the courtyard potting shed. Action: TAMA gives a reassuring little nod, while loose leaves flutter. Character: the triangular rice ball with the seaweed jacket — attentive and gently encouraged. Camera: slowly pans right. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-5. **Narration:** Cat the penguin napped on a folded garden apron.
-   `Shot: medium close-up. Scene: the courtyard potting shed. Action: CAT gives a slow contented blink, while loose leaves flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
+5. **Narration:** Cat the penguin sorted spare seed pots. One pot fitted her beak rather too well.
+   `Shot: medium close-up. Scene: the courtyard potting shed. Action: CAT sorts one empty terracotta pot, while loose leaves flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 3 — A coach shows the way · day
 **Still:** `Over-the-shoulder view past ROSIE's lid in the courtyard potting shed: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TAMA holds a gentle attentive pose; TATO holds a gentle attentive pose. The lived-in setting includes seed trays, terracotta pots, twine spools, a watering can, a folding stool. Window daylight and a warm practical lamp illuminate the scene, with saturated lime green and plum accents. Loose leaves flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -192,11 +193,11 @@ May tomorrow bring sunshine and kind asking.
    `Shot: medium close-up. Scene: the courtyard potting shed. Action: TAMA gives a thoughtful slow blink, while loose leaves flutter. Character: the triangular rice ball with the seaweed jacket — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 10 — The real outing · day
-**Still:** `Wide view framed by the doorway in the community allotment: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin dozing on an empty padded harvest basket, yellow scarf visible; GUAGUA holds a gentle attentive pose. The lived-in setting includes raised beds, pea trellises, a yellow spade, compost baskets, a tool rack. Window daylight and a warm practical lamp illuminate the scene, with saturated sunflower yellow and cobalt accents. Bean leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Wide view framed by the doorway in the community allotment: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin holding an empty terracotta pot beside the tool rack, yellow scarf visible; GUAGUA holds a gentle attentive pose. The lived-in setting includes raised beds, pea trellises, a yellow spade, compost baskets, a tool rack. Window daylight and a warm practical lamp illuminate the scene, with saturated sunflower yellow and cobalt accents. Bean leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 15. **Narration:** Mom came to the allotment, where pea vines curled around poles and the earth smelled fresh.
    `Shot: medium shot. Scene: the community allotment. Action: MOM relaxes into a small pleased expression, while bean leaves sway. Character: the tall rose-milk-tea mom cup with the pink lid — attentive and gently encouraged. Camera: slowly pulls back. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
-16. **Narration:** Cat settled into an empty padded harvest basket, looking remarkably like a very small blue cabbage.
-   `Shot: medium close-up. Scene: the community allotment. Action: CAT gives a slow contented blink, while bean leaves sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
+16. **Narration:** Cat carried empty pots to the rack, looking like a blue wheelbarrow with excellent manners.
+   `Shot: medium close-up. Scene: the community allotment. Action: CAT places one empty pot on the rack, while bean leaves sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
 17. **Narration:** Guagua stood beside his sunflower bed, brushing soil from the straps of his yellow backpack.
    `Shot: medium shot. Scene: the community allotment. Action: GUAGUA relaxes into a small pleased expression, while bean leaves sway. Character: the golden sweet potato ball with the yellow backpack — attentive and gently encouraged. Camera: holds still. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
 
@@ -240,10 +241,10 @@ May tomorrow bring sunshine and kind asking.
    `Shot: medium shot. Scene: the community allotment. Action: TATO relaxes into a small pleased expression, while bean leaves sway. Character: the golden plantain patty with the sturdy little feet — attentive and gently encouraged. Camera: tracks beside. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
 
 ### Shot 16 — Cat's contribution · day
-**Still:** `Close view through soft foreground shapes in the community allotment: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin dozing on an empty padded harvest basket, yellow scarf visible; GUAGUA holds a gentle attentive pose. The lived-in setting includes raised beds, pea trellises, a yellow spade, compost baskets, a tool rack. Window daylight and a warm practical lamp illuminate the scene, with saturated sunflower yellow and cobalt accents. Bean leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-30. **Narration:** Cat opened one eye inside the harvest basket. "Please harvest the carrots before you harvest the penguin."
-   `Shot: medium shot. Scene: the community allotment. Action: CAT gives a slow contented blink, while bean leaves sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
-31. **Narration:** Rosie giggled. The first sunflower seed disappeared into its little hole, ready for a long patient beginning.
+**Still:** `Close view through soft foreground shapes in the community allotment: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin holding an empty terracotta pot beside the tool rack, yellow scarf visible; GUAGUA holds a gentle attentive pose. The lived-in setting includes raised beds, pea trellises, a yellow spade, compost baskets, a tool rack. Window daylight and a warm practical lamp illuminate the scene, with saturated sunflower yellow and cobalt accents. Bean leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+30. **Narration:** Cat offered Guagua the brush. "May I borrow it next? My feet have become garden beds."
+   `Shot: medium shot. Scene: the community allotment. Action: CAT places one empty pot on the rack, while bean leaves sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
+31. **Narration:** Rosie pressed the first sunflower seed into its small, patient beginning.
    `Shot: medium close-up. Scene: the community allotment. Action: ROSIE gives a thoughtful slow blink, while bean leaves sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
 
 ### Shot 17 — Big sister's cheer · day
@@ -264,15 +265,15 @@ May tomorrow bring sunshine and kind asking.
 **Still:** `High oblique view across the bedroom pillow in Rosie's cozy bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, tucked beneath a quilt with lid and straw visible, eyes comfortably closed; CAT the little blue penguin asleep on a soft pillow, yellow scarf visible. The lived-in setting includes a yellow spade, a little keepsake picture, a quilt, a plain lamp, a soft pillow. A plain bedside lamp lights the cozy bedroom at night, with saturated rose pink and warm amber accents. Fairy lights twinkle in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 36. **Narration:** Goodnight, little gardener. Rest your careful hands. Goodnight, yellow spade and tucked-in seeds.
    `Shot: medium shot. Scene: Rosie's cozy bedroom. Action: ROSIE's eyes soften above her quilt, while fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
-37. **Narration:** Goodnight, Cat, our unharvested penguin. May tomorrow bring sunshine and kind asking.
-   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT gives a slow contented blink, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
+37. **Narration:** Goodnight, Cat, with your clean little feet. May tomorrow bring sunshine and kind asking.
+   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT settles comfortably on her pillow, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
 
 1. **Key scene** — `High diagonal view across the task in the community allotment: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; GUAGUA holds a gentle attentive pose; MOM holds a gentle attentive pose; TAMA holds a gentle attentive pose; TATO holds a gentle attentive pose. The lived-in setting includes raised beds, pea trellises, a yellow spade, compost baskets, a tool rack. Window daylight and a warm practical lamp illuminate the scene, with saturated sunflower yellow and cobalt accents. Bean leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 2. **Character views** — generate each of these as a separate image:
    - `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
-   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
+   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tama Onigiri, a triangular white rice ball with a dark seaweed jacket, gentle eyes, rosy cheeks and tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`

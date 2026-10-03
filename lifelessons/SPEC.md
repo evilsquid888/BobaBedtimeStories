@@ -26,9 +26,9 @@ Check every story with `python3 lifelessons/check_storyboard.py lifelessons/stor
 - Ends with Rosie proud, a big-sister **Tori** moment (cheer, hug, or phone call) when natural, and a soft Goodnight Blessing.
 
 ## Cat the penguin — in every story
-**Cat** is a little blue penguin from Frostpeak who is staying with Rosie's family. She is named Cat because she naps like one — curled up on whatever is softest or warmest. She comes along on every adventure.
-- Cat appears in **every story**, in **at least 2 shots**, with **one laugh line** (usually where she has fallen asleep this time: in the shopping cart, on the warm espresso machine, in the book-return bin...).
-- Cat never teaches and never gets in the way of the steps — except in story 11, where napping on Rosie's jacket *is* the hiccup. She can give one quiet "Five more minutes" or a huge yawn. A big slow penguin yawn can echo Rosie's Rose breath.
+**Cat** is a little blue penguin from Frostpeak staying with Rosie's family. Stories 01–07 retain her original sleepy portrayal. After the librarian story, she is a playful, active friend who enjoys hip-hop, snowboarding, and gentle kung fu.
+- Cat appears in **every story**, in **at least 2 shots**, with **one laugh line**. Vary her story-specific role: helper, participant, quiet companion, or occasional direct coach. Do not simply replace every nap with the same dance.
+- Cat may teach Rosie a clear step, model it, and practice alongside her, but never does Rosie's task for her. Show safe, place-appropriate activities: dance in clear space, snowboard gear checks or a flat practice board, and kung fu balance/breathing/bows. In story 11 her dance ribbon tangles in the jacket zipper; a grown-up helps free it.
 - First mention in each story names her plainly: "Cat the penguin" (so a listener never pictures a cat).
 
 ## Places — a new one every story
@@ -44,7 +44,7 @@ No two stories practice in the same place, and no two visit the same real place.
 Full rules in [LTX_GUIDE.md](LTX_GUIDE.md). In short:
 - **Image prompts are rich**: a strong camera angle, a lived-in place packed with props that fit it, a named light source and two saturated accent colours, one atmospheric touch (sunbeams with floating dust, steam curls, drifting petals, fairy-light bokeh), characters with a clear pose and expression.
 - **Beat prompts are lively**: one character action with a visible feeling, one ambient motion, one concrete camera verb.
-- **Pipeline-safe**: characters by ALL-CAPS token; only characters in the still are named in its beats; no quoted words, letters or signs to draw; no negations; cup poses for Rosie; "napping/dozing" (not "asleep") in day shots.
+- **Pipeline-safe**: characters by ALL-CAPS token; only characters in the still are named in its beats; no quoted words, letters or signs to draw; no negations; cup poses for Rosie; active Cat poses by day, sleep descriptions only in genuine bedtime shots.
 
 ## File format (follow exactly)
 ```
@@ -108,4 +108,4 @@ Tori design:
 `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 
 Cat design:
-`Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+`Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf`

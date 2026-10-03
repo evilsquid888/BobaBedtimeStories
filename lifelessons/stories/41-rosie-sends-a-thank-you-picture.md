@@ -3,6 +3,7 @@
 **Life skill:** Express gratitude by naming a specific helpful action.
 **Magic sentence:** "Thank you for helping me. It meant a lot."
 **Coaches:** Dora the Dorayaki 🇯🇵 + Hóng Dòu 🇹🇼
+**Cat’s role:** helper
 **Setting:** the guest room window desk (practice), then the neighborhood volunteer garden office (real outing).
 
 ---
@@ -19,7 +20,7 @@ Dora was a pancake sandwich wearing a beret.
 
 Hóng Dòu was a grandmotherly red bean.
 
-Cat the penguin napped on a padded desk-chair cushion.
+Cat the penguin laid out thank-you picture supplies. A glue dot tried to adopt her flipper.
 
 Hóng Dòu remembered Dora's help and said, **"Thank you for helping me. It meant a lot."** She named it.
 
@@ -49,7 +50,7 @@ Hóng Dòu held her tiny ladle nearby. "My portrait is available, provided you i
 
 Mom brought Rosie to the volunteer garden office, where watering jugs stood beside a tray for cards and messages.
 
-Cat napped on a folded cardigan on a spare chair, receiving comfort with her usual quiet enthusiasm.
+Cat held Rosie's picture folder steady while Mom checked where the thank-you picture should go.
 
 Rosie carried the little picture in an envelope, ready to tell the volunteer why she had drawn it.
 
@@ -79,9 +80,9 @@ Step five: she let the volunteer respond in their time, without expecting an imm
 
 Dora admired the envelope. Hóng Dòu studied the drawing. "This distinguished jug deserves its very own ladle."
 
-Cat peeked over the cardigan. "Thank you, cardigan. Your contribution to today's nap has meant a great deal."
+Cat passed over the folder. "Thank you for rescuing my flipper from that glue dot. A very sticky friendship."
 
-Rosie laughed softly. Her picture waited in the right place, carrying a clear little memory of being helped.
+Rosie smiled. Her picture carried a clear memory of being helped.
 
 Tori met Rosie beside the office's seed-library drawers, where each picture tab showed something waiting to grow.
 
@@ -116,20 +117,20 @@ Rosie felt proud. A small thank you could hold a whole warm memory.
 
 Goodnight, little picture and remembered helping hands.
 Goodnight, seeds, carrying tomorrow inside.
-Goodnight, Cat, grateful for cardigans.
+Goodnight, Cat, careful keeper of pictures.
 May kindness you receive become kindness you share.
 
 ---
 
 ## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~4:29 (est.) · **Narrated words:** 605 · **Stills:** 19 · **Beats:** 39
+**Runtime:** ~4:29 (est.) · **Narrated words:** 606 · **Stills:** 19 · **Beats:** 39
 **Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 **Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
 **Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: none.
 - `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf`
 - `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 - `MOM` → Mom, the tall rose-milk-tea mom cup with the pink lid · `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`
 - `DORA` → Dora the Dorayaki, the pancake sandwich with the little beret · `Dora the Dorayaki, a golden pancake sandwich with red bean filling, a small plum-colored beret, curious eyes and tiny arms and legs`
@@ -145,11 +146,11 @@ May kindness you receive become kindness you share.
    `Shot: medium shot. Scene: the guest room window desk. Action: ROSIE relaxes into a small pleased expression, while a curtain hem sways. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 2 — The visiting coaches · day
-**Still:** `Tight view at straw height in the guest room window desk: DORA holds a gentle attentive pose; HONG holds a gentle attentive pose; CAT the little blue penguin dozing on a padded desk-chair cushion, yellow scarf visible. The lived-in setting includes a blank card, crayons, a paper envelope, flower pictures, a desk tray. Window daylight and a warm practical lamp illuminate the scene, with saturated cornflower blue and warm pink accents. A curtain hem sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Tight view at straw height in the guest room window desk: DORA holds a gentle attentive pose; HONG holds a gentle attentive pose; CAT the little blue penguin holding a picture folder beside drawing supplies, yellow scarf visible. The lived-in setting includes a blank card, crayons, a paper envelope, flower pictures, a desk tray. Window daylight and a warm practical lamp illuminate the scene, with saturated cornflower blue and warm pink accents. A curtain hem sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 4. **Narration:** Dora was a pancake sandwich wearing a beret. Hóng Dòu was a grandmotherly red bean.
    `Shot: medium shot. Scene: the guest room window desk. Action: DORA gives a reassuring little nod, while a curtain hem sways. Character: the pancake sandwich with the little beret — attentive and gently encouraged. Camera: slowly pans right. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-5. **Narration:** Cat the penguin napped on a padded desk-chair cushion.
-   `Shot: medium close-up. Scene: the guest room window desk. Action: CAT gives a slow contented blink, while a curtain hem sways. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+5. **Narration:** Cat the penguin laid out thank-you picture supplies. A glue dot tried to adopt her flipper.
+   `Shot: medium close-up. Scene: the guest room window desk. Action: CAT opens the picture folder, while a curtain hem sways. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 3 — A coach shows the way · day
 **Still:** `Three-quarter view across the work surface in the guest room window desk: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; DORA holds a gentle attentive pose; HONG holds a gentle attentive pose. The lived-in setting includes a blank card, crayons, a paper envelope, flower pictures, a desk tray. Window daylight and a warm practical lamp illuminate the scene, with saturated cornflower blue and warm pink accents. A curtain hem sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -195,11 +196,11 @@ May kindness you receive become kindness you share.
    `Shot: medium close-up. Scene: the guest room window desk. Action: HONG gives a thoughtful slow blink, while a curtain hem sways. Character: the red bean grandmother with the tiny ladle — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 10 — The real outing · day
-**Still:** `High diagonal view across the task in the neighborhood volunteer garden office: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin dozing on a folded cardigan on a spare chair, yellow scarf visible. The lived-in setting includes a seed ledger with picture tabs, watering jugs, a card tray, flower pots, a wooden desk. Window daylight and a warm practical lamp illuminate the scene, with saturated sage green and plum accents. Loose leaves flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-17. **Narration:** Mom brought Rosie to the volunteer garden office, where watering jugs stood beside a tray for cards and
+**Still:** `High diagonal view across the task in the neighborhood volunteer garden office: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin holding a small picture folder open, yellow scarf visible. The lived-in setting includes a seed ledger with picture tabs, watering jugs, a card tray, flower pots, a wooden desk. Window daylight and a warm practical lamp illuminate the scene, with saturated sage green and plum accents. Loose leaves flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+17. **Narration:** Mom brought Rosie to the volunteer garden office, where watering jugs stood beside a tray for cards
    `Shot: medium shot. Scene: the neighborhood volunteer garden office. Action: ROSIE lifts her straw with hopeful curiosity, while loose leaves flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
-18. **Narration:** messages. Cat napped on a folded cardigan on a spare chair, receiving comfort with her usual quiet enthusiasm.
-   `Shot: medium close-up. Scene: the neighborhood volunteer garden office. Action: CAT gives a slow contented blink, while loose leaves flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
+18. **Narration:** and messages. Cat held Rosie's picture folder steady while Mom checked where the thank-you picture should go.
+   `Shot: medium close-up. Scene: the neighborhood volunteer garden office. Action: CAT offers the open picture folder, while loose leaves flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
 19. **Narration:** Rosie carried the little picture in an envelope, ready to tell the volunteer why she had drawn it.
    `Shot: medium shot. Scene: the neighborhood volunteer garden office. Action: ROSIE relaxes into a small pleased expression, while loose leaves flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
 
@@ -243,10 +244,10 @@ May kindness you receive become kindness you share.
    `Shot: medium shot. Scene: the neighborhood volunteer garden office. Action: DORA relaxes into a small pleased expression, while loose leaves flutter. Character: the pancake sandwich with the little beret — attentive and gently encouraged. Camera: tracks beside. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
 
 ### Shot 16 — Cat's contribution · day
-**Still:** `Low angle at cup height in the neighborhood volunteer garden office: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin dozing on a folded cardigan on a spare chair, yellow scarf visible; MOM holds a gentle attentive pose. The lived-in setting includes a seed ledger with picture tabs, watering jugs, a card tray, flower pots, a wooden desk. Window daylight and a warm practical lamp illuminate the scene, with saturated sage green and plum accents. Loose leaves flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-32. **Narration:** Cat peeked over the cardigan. "Thank you, cardigan. Your contribution to today's nap has meant a great deal."
-   `Shot: medium shot. Scene: the neighborhood volunteer garden office. Action: CAT gives a slow contented blink, while loose leaves flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
-33. **Narration:** Rosie laughed softly. Her picture waited in the right place, carrying a clear little memory of being helped.
+**Still:** `Low angle at cup height in the neighborhood volunteer garden office: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin holding a small picture folder open, yellow scarf visible; MOM holds a gentle attentive pose. The lived-in setting includes a seed ledger with picture tabs, watering jugs, a card tray, flower pots, a wooden desk. Window daylight and a warm practical lamp illuminate the scene, with saturated sage green and plum accents. Loose leaves flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+32. **Narration:** Cat passed over the folder. "Thank you for rescuing my flipper from that glue dot.
+   `Shot: medium shot. Scene: the neighborhood volunteer garden office. Action: CAT offers the open picture folder, while loose leaves flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
+33. **Narration:** A very sticky friendship." Rosie smiled. Her picture carried a clear memory of being helped.
    `Shot: medium close-up. Scene: the neighborhood volunteer garden office. Action: ROSIE gives a thoughtful slow blink, while loose leaves flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
 
 ### Shot 17 — Big sister's cheer · day
@@ -267,15 +268,15 @@ May kindness you receive become kindness you share.
 **Still:** `High oblique view across the bedroom pillow in Rosie's cozy bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, tucked beneath a quilt with lid and straw visible, eyes comfortably closed; CAT the little blue penguin asleep on a soft pillow, yellow scarf visible. The lived-in setting includes a little thank-you picture, a little keepsake picture, a quilt, a plain lamp, a soft pillow. A plain bedside lamp lights the cozy bedroom at night, with saturated rose pink and warm amber accents. Fairy lights twinkle in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 38. **Narration:** Goodnight, little picture and remembered helping hands. Goodnight, seeds, carrying tomorrow inside.
    `Shot: medium shot. Scene: Rosie's cozy bedroom. Action: ROSIE's eyes soften above her quilt, while fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
-39. **Narration:** Goodnight, Cat, grateful for cardigans. May kindness you receive become kindness you share.
-   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT gives a slow contented blink, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
+39. **Narration:** Goodnight, Cat, careful keeper of pictures. May kindness you receive become kindness you share.
+   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT settles comfortably on her pillow, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
 
 1. **Key scene** — `Wide establishing view with deep perspective in the neighborhood volunteer garden office: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; DORA holds a gentle attentive pose; HONG holds a gentle attentive pose. The lived-in setting includes a seed ledger with picture tabs, watering jugs, a card tray, flower pots, a wooden desk. Window daylight and a warm practical lamp illuminate the scene, with saturated sage green and plum accents. Loose leaves flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 2. **Character views** — generate each of these as a separate image:
    - `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
-   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
+   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Dora the Dorayaki, a golden pancake sandwich with red bean filling, a small plum-colored beret, curious eyes and tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`

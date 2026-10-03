@@ -6,14 +6,14 @@ The Life Lessons folder contains 50 stories: 16 originals and 34 additions numbe
 
 - All 50 stories pass `check_storyboard.py` and `check_collection.py`.
 - Every story includes Cat the penguin in its narration and at least two stills, plus Tori in the narration and at least one still.
-- The 34 additions have 535–580 story words, a four-line blessing, 19 stills, and 37–42 narration beats each. Estimated runtimes are 4:10–4:30 using the documented Kokoro settings; actual audio must still be timed when rendered.
+- The 34 additions have 533–580 story words, a four-line blessing, 19 stills, and 37–41 narration beats each. Estimated runtimes are 4:10–4:31 using the documented Kokoro settings; actual audio must still be timed when rendered. All 50 scripts remain under five minutes; the longest estimate is 4:37.
 - Every new story has five identical steps in teaching, practice, and recap. The magic sentence occurs at least three times. Narration beats reproduce the story and blessing in order.
 - The additions use 25 established coaches from Taiwan, Japan, and Costa Rica, with no coach in consecutive new stories. Lulu, Guagua, and Tang recur as friends.
-- The additions have 34 different practice locations and 34 different real outing locations. They rotate palettes, props, camera compositions, Cat's nap spots, and Tori's encounter points. The early original stories retain their established kitchen practice settings.
+- The additions have 34 different practice locations and 34 different real outing locations. They rotate palettes, props, camera compositions, Cat's active roles, and Tori's encounter points. The early original stories retain their established kitchen practice settings.
 
 ## Duplicate and theme review
 
-All 1,225 pairs within the 50-story collection were compared. There are no identical stories or near-duplicate prose flags. The highest five-word phrase-set overlap after excluding teaching scaffolding is 3.1%, between original stories 06 and 11. This text comparison supports the editorial review; it does not establish that moral themes never recur.
+All 1,225 pairs within the 50-story collection were compared. There are no identical stories or near-duplicate prose flags. After Cat's revision, the highest five-word phrase-set overlap excluding teaching scaffolding is 1.9%, between stories 27 and 46. This text comparison supports the editorial review; it does not establish that moral themes never recur.
 
 The new plots and real-life tasks differ from the originals. Some related themes deliberately build on earlier skills:
 
@@ -44,11 +44,22 @@ Story 06 now puts Cat on a bench beside the playground slide, with a wave instea
 
 For the additions, overly full scenes were shortened, missing on-screen human reference designs were added, and narration boundaries were adjusted to favor complete sentences or clauses. The second review also made story 50's steps observable: name the feeling and ask about another person's effort. It corrected broken index-table boundaries and added checks for index links, collection counts, the place registry, four-line blessings, total narration, and consecutive beat numbering. Still prompts keep Rosie as a tea cup and Cat as a blue penguin; action prompts name only characters in the corresponding still.
 
+## Cat revision and follow-up review
+
+Stories 08–50 now give Cat an active, place-specific role. Stories 01–07, including the librarian chapter, remain unchanged in this revision. Across the 43 revised stories, Cat has 16 primary helper roles, 10 hip-hop roles, nine kung fu roles, seven snowboarding roles, and one quiet-companion role. These are primary categories, not limits: she also helps in some activity chapters. Her jokes and tasks differ rather than following a fixed activity rotation.
+
+Cat directly coaches Rosie in stories 08, 09, 13, 18, 23, 28, 31, 37, and 48. She models ordering rhythm, still feet and a calm breath, checking preparations, safe stopping, waiting, sportsmanship, small retries, picture checklists, and beginning with one part. Rosie still completes her own social steps. Other Cat moments include carrying gift bags, sorting brushes, preparing craft space, returning picnic cloths, and offering help with permission.
+
+The continuity pass updated narration, stills, motion actions, reference eyes, sample images, scene labels, and relevant blessings. Story 11's jacket hiccup is now a tangled dance ribbon, not a sleeping penguin. Story 09 keeps Cat with Mom during Rosie's separation; story 13 keeps her seated during the bus ride; story 14 keeps her off clinical equipment. Snowboard activities use gear, memories, or a board flat on a mat, and kung fu emphasizes breathing, balance, and respectful bows. Night-market scenes show an awake Cat; genuine bedtime scenes may still show sleep.
+
+The checker now catches stale sleeping-Cat visual prompts after story 07. Six regression tests exercise early-story preservation, active helping, bedtime sleep, an evening outing, stale motion actions, and the difference between a nap and a napkin. The full storyboard and collection checks were rerun after correcting word-budget and lighting-trigger issues.
+
 ## Reproduce the checks
 
 ```bash
 python3 lifelessons/check_storyboard.py lifelessons/stories/*.md
 python3 lifelessons/check_collection.py
+python3 lifelessons/test_cat_roles.py
 git diff --check
 ```
 

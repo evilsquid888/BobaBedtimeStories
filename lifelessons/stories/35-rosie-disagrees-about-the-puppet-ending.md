@@ -3,6 +3,7 @@
 **Life skill:** State a different preference politely and negotiate a shared creative choice.
 **Magic sentence:** "I have a different idea. Can I tell you?"
 **Coaches:** Dora the Dorayaki 🇯🇵 + Tato the Patacon 🇨🇷
+**Cat’s role:** hip-hop performer
 **Setting:** the unused fireplace puppet nook (practice), then the community center puppet rehearsal room (real outing).
 
 ---
@@ -19,7 +20,7 @@ Dora was a pancake sandwich wearing a beret.
 
 Tato was a sturdy golden plantain patty.
 
-Cat the penguin napped on a folded felt backdrop.
+Cat the penguin tried a hip-hop puppet bow. The dragon's tail attempted to steal the spotlight.
 
 Tato listened to Dora's pretend ending. **"I have a different idea. Can I tell you?"** he asked.
 
@@ -49,7 +50,7 @@ Tato crowned a sock puppet. "A brave ruler. Particularly experienced in finding 
 
 Mom brought Rosie to the rehearsal room, where Tang had arranged a cloth dragon beside the little stage.
 
-Cat napped in a padded prop-basket liner, successfully auditioning for the role of a comfortable blue hill.
+Cat helped set the puppet basket beside the stage, then left the ending to the two friends.
 
 Tang suggested an ending where the dragon won every race. Rosie imagined the dragon helping somebody else finish.
 
@@ -79,9 +80,9 @@ Step five: they rehearsed that ending together, giving each puppet room and taki
 
 Dora applauded quietly. Tato examined the crowned sock. "Our ruler has approved it. By unanimous agreement of one foot."
 
-Cat peered from the prop basket. "I have a different idea. The blue hill remains horizontal throughout the show."
+Cat made the dragon bow once. "Our dragon enjoys both endings. Especially the part where its tail gets applause."
 
-Tang laughed, and Rosie lowered the dragon into its basket. Their ending had room for both imaginations.
+Tang laughed. The ending had room for both their imaginations.
 
 Tori joined Rosie beside the rehearsal room's hanging backdrop rack, admiring the neatly coiled finish-line ribbon.
 
@@ -116,20 +117,20 @@ Rosie felt proud. A different idea could join a friendship rather than push one 
 
 Goodnight, little puppets and kindly different ideas.
 Goodnight, dragon, finished with your race.
-Goodnight, Cat, horizontal hill.
+Goodnight, Cat, dancing dragon safely tucked in.
 May tomorrow's stories have room for two voices.
 
 ---
 
 ## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~4:25 (est.) · **Narrated words:** 596 · **Stills:** 19 · **Beats:** 39
+**Runtime:** ~4:26 (est.) · **Narrated words:** 599 · **Stills:** 19 · **Beats:** 39
 **Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 **Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
 **Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: none.
 - `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf`
 - `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 - `MOM` → Mom, the tall rose-milk-tea mom cup with the pink lid · `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`
 - `DORA` → Dora the Dorayaki, the pancake sandwich with the little beret · `Dora the Dorayaki, a golden pancake sandwich with red bean filling, a small plum-colored beret, curious eyes and tiny arms and legs`
@@ -146,11 +147,11 @@ May tomorrow's stories have room for two voices.
    `Shot: medium shot. Scene: the unused fireplace puppet nook. Action: ROSIE relaxes into a small pleased expression, while felt flags sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 2 — The visiting coaches · day
-**Still:** `Wide establishing view with deep perspective in the unused fireplace puppet nook: DORA holds a gentle attentive pose; TATO holds a gentle attentive pose; CAT the little blue penguin dozing on a folded felt backdrop, yellow scarf visible. The lived-in setting includes sock puppets, a folding screen, a toy crown, felt scenery, a low stool. Window daylight and a warm practical lamp illuminate the scene, with saturated plum and mustard accents. Felt flags sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Wide establishing view with deep perspective in the unused fireplace puppet nook: DORA holds a gentle attentive pose; TATO holds a gentle attentive pose; CAT the little blue penguin holding a dragon puppet in a playful hip-hop bow pose, yellow scarf visible. The lived-in setting includes sock puppets, a folding screen, a toy crown, felt scenery, a low stool. Window daylight and a warm practical lamp illuminate the scene, with saturated plum and mustard accents. Felt flags sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 4. **Narration:** Dora was a pancake sandwich wearing a beret. Tato was a sturdy golden plantain patty.
    `Shot: medium shot. Scene: the unused fireplace puppet nook. Action: DORA gives a reassuring little nod, while felt flags sway. Character: the pancake sandwich with the little beret — attentive and gently encouraged. Camera: slowly pans right. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-5. **Narration:** Cat the penguin napped on a folded felt backdrop.
-   `Shot: medium close-up. Scene: the unused fireplace puppet nook. Action: CAT gives a slow contented blink, while felt flags sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+5. **Narration:** Cat the penguin tried a hip-hop puppet bow. The dragon's tail attempted to steal the spotlight.
+   `Shot: medium close-up. Scene: the unused fireplace puppet nook. Action: CAT lowers the dragon puppet into a bow, while felt flags sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 3 — A coach shows the way · day
 **Still:** `Low angle at cup height in the unused fireplace puppet nook: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; DORA holds a gentle attentive pose; TATO holds a gentle attentive pose. The lived-in setting includes sock puppets, a folding screen, a toy crown, felt scenery, a low stool. Window daylight and a warm practical lamp illuminate the scene, with saturated plum and mustard accents. Felt flags sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -194,11 +195,11 @@ May tomorrow's stories have room for two voices.
    `Shot: medium close-up. Scene: the unused fireplace puppet nook. Action: TATO gives a thoughtful slow blink, while felt flags sway. Character: the golden plantain patty with the sturdy little feet — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 10 — The real outing · day
-**Still:** `Low diagonal view with layered foreground in the community center puppet rehearsal room: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin dozing on a padded prop-basket liner, yellow scarf visible; TANG holds a gentle attentive pose. The lived-in setting includes a little stage, cloth backdrops, prop baskets, puppet stands, folding stools. Window daylight and a warm practical lamp illuminate the scene, with saturated turquoise and scarlet accents. Curtain tassels flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Low diagonal view with layered foreground in the community center puppet rehearsal room: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin holding a dragon puppet beside the low puppet stage, yellow scarf visible; TANG holds a gentle attentive pose. The lived-in setting includes a little stage, cloth backdrops, prop baskets, puppet stands, folding stools. Window daylight and a warm practical lamp illuminate the scene, with saturated turquoise and scarlet accents. Curtain tassels flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 16. **Narration:** Mom brought Rosie to the rehearsal room, where Tang had arranged a cloth dragon beside the little stage.
    `Shot: medium shot. Scene: the community center puppet rehearsal room. Action: ROSIE lifts her straw with hopeful curiosity, while curtain tassels flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-17. **Narration:** Cat napped in a padded prop-basket liner, successfully auditioning for the role of a comfortable blue hill.
-   `Shot: medium close-up. Scene: the community center puppet rehearsal room. Action: CAT gives a slow contented blink, while curtain tassels flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+17. **Narration:** Cat helped set the puppet basket beside the stage, then left the ending to the two friends.
+   `Shot: medium close-up. Scene: the community center puppet rehearsal room. Action: CAT lowers the dragon puppet into a small bow, while curtain tassels flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 18. **Narration:** Tang suggested an ending where the dragon won every race. Rosie imagined the dragon helping somebody else finish.
    `Shot: medium shot. Scene: the community center puppet rehearsal room. Action: ROSIE relaxes into a small pleased expression, while curtain tassels flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
@@ -244,11 +245,11 @@ May tomorrow's stories have room for two voices.
    `Shot: medium shot. Scene: the community center puppet rehearsal room. Action: ROSIE relaxes into a small pleased expression, while curtain tassels flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 16 — Cat's contribution · day
-**Still:** `High diagonal view across the task in the community center puppet rehearsal room: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin dozing on a padded prop-basket liner, yellow scarf visible; TANG holds a gentle attentive pose. The lived-in setting includes a little stage, cloth backdrops, prop baskets, puppet stands, folding stools. Window daylight and a warm practical lamp illuminate the scene, with saturated turquoise and scarlet accents. Curtain tassels flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-32. **Narration:** Cat peered from the prop basket. "I have a different idea. The blue hill remains horizontal throughout the
-   `Shot: medium shot. Scene: the community center puppet rehearsal room. Action: CAT gives a slow contented blink, while curtain tassels flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-33. **Narration:** show." Tang laughed, and Rosie lowered the dragon into its basket. Their ending had room for both imaginations.
-   `Shot: medium close-up. Scene: the community center puppet rehearsal room. Action: ROSIE gives a thoughtful slow blink, while curtain tassels flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+**Still:** `High diagonal view across the task in the community center puppet rehearsal room: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin holding a dragon puppet beside the low puppet stage, yellow scarf visible; TANG holds a gentle attentive pose. The lived-in setting includes a little stage, cloth backdrops, prop baskets, puppet stands, folding stools. Window daylight and a warm practical lamp illuminate the scene, with saturated turquoise and scarlet accents. Curtain tassels flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+32. **Narration:** Cat made the dragon bow once. "Our dragon enjoys both endings.
+   `Shot: medium shot. Scene: the community center puppet rehearsal room. Action: CAT lowers the dragon puppet into a small bow, while curtain tassels flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+33. **Narration:** Especially the part where its tail gets applause." Tang laughed. The ending had room for both their imaginations.
+   `Shot: medium close-up. Scene: the community center puppet rehearsal room. Action: CAT lowers the dragon puppet into a small bow, while curtain tassels flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 17 — Big sister's cheer · day
 **Still:** `Close view through soft foreground shapes in the community center puppet rehearsal room: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TORI stands with her green straw tilted kindly. The lived-in setting includes a little stage, cloth backdrops, prop baskets, puppet stands, folding stools. Window daylight and a warm practical lamp illuminate the scene, with saturated turquoise and scarlet accents. Curtain tassels flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -268,15 +269,15 @@ May tomorrow's stories have room for two voices.
 **Still:** `High oblique view across the bedroom pillow in Rosie's cozy bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, tucked beneath a quilt with lid and straw visible, eyes comfortably closed; CAT the little blue penguin asleep on a soft pillow, yellow scarf visible. The lived-in setting includes a small cloth dragon puppet, a little keepsake picture, a quilt, a plain lamp, a soft pillow. A plain bedside lamp lights the cozy bedroom at night, with saturated rose pink and warm amber accents. Fairy lights twinkle in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 38. **Narration:** Goodnight, little puppets and kindly different ideas. Goodnight, dragon, finished with your race.
    `Shot: medium shot. Scene: Rosie's cozy bedroom. Action: ROSIE's eyes soften above her quilt, while fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
-39. **Narration:** Goodnight, Cat, horizontal hill. May tomorrow's stories have room for two voices.
-   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT gives a slow contented blink, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
+39. **Narration:** Goodnight, Cat, dancing dragon safely tucked in. May tomorrow's stories have room for two voices.
+   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT settles comfortably on her pillow, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
 
 1. **Key scene** — `Side view at cup height in the community center puppet rehearsal room: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TANG holds a gentle attentive pose; MOM holds a gentle attentive pose; DORA holds a gentle attentive pose; TATO holds a gentle attentive pose. The lived-in setting includes a little stage, cloth backdrops, prop baskets, puppet stands, folding stools. Window daylight and a warm practical lamp illuminate the scene, with saturated turquoise and scarlet accents. Curtain tassels flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 2. **Character views** — generate each of these as a separate image:
    - `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
-   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
+   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Dora the Dorayaki, a golden pancake sandwich with red bean filling, a small plum-colored beret, curious eyes and tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`

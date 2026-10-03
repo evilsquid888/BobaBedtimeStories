@@ -3,6 +3,7 @@
 **Life skill:** Ask for instructions to be repeated or broken into smaller parts.
 **Magic sentence:** "Could you tell me one step at a time?"
 **Coaches:** Dora the Dorayaki 🇯🇵 + Taro 🇹🇼
+**Cat’s role:** helper
 **Setting:** the model railway hobby cupboard (practice), then the transport museum model-building table (real outing).
 
 ---
@@ -19,7 +20,7 @@ Dora was a pancake sandwich wearing a beret.
 
 
 
-Cat the penguin napped on a felt scenery cushion.
+Cat the penguin arranged picture instructions in order. The toy train tried to park on step three.
 
 Dora gave several pretend directions. Taro asked, **"Could you tell me one step at a time?"** Then repeated one.
 
@@ -49,7 +50,7 @@ Dora pointed to her carpet of paper. "A good story has chapters. Apparently, so 
 
 Mom took Rosie to the transport museum, where wooden bridges filled shallow sorting trays.
 
-Cat dozed on a spare padded stool, providing a very convincing model of a stationary passenger.
+Cat held the instruction pictures while Mom checked the building space with Rosie.
 
 Tang held the bridge kit. The workshop helper explained several things about sorting, fitting, and placing the supports.
 
@@ -79,9 +80,9 @@ Step five: she fitted that piece, then asked for the next step. Tang held the ba
 
 Taro admired the support. Dora folded a page. "Chapter one: the bridge learns to stand."
 
-Cat blinked from her stool. "My model passenger requests a station with pillows. Please build that step next."
+Cat pointed to one picture. "Just this support first. The train can wait; it has brought an imaginary sandwich."
 
-Rosie laughed, checking the second support with Tang. The whole bridge was easier when each instruction had room.
+Rosie checked one support. The bridge was growing, step by step.
 
 Tori joined Rosie beside the museum's miniature station canopy, where their finished bridge stood in a display tray.
 
@@ -116,20 +117,20 @@ Rosie felt proud. Her questions had helped the bridge reach the other side.
 
 Goodnight, little builder and steady wooden bridge.
 Goodnight, instructions, resting one step apart.
-Goodnight, Cat, passenger of pillows.
+Goodnight, Cat, picture cards neatly stacked.
 May every question find room to be heard.
 
 ---
 
 ## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~4:27 (est.) · **Narrated words:** 600 · **Stills:** 19 · **Beats:** 40
+**Runtime:** ~4:28 (est.) · **Narrated words:** 600 · **Stills:** 19 · **Beats:** 41
 **Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 **Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
 **Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: HELPER.
 - `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf`
 - `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 - `MOM` → Mom, the tall rose-milk-tea mom cup with the pink lid · `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`
 - `DORA` → Dora the Dorayaki, the pancake sandwich with the little beret · `Dora the Dorayaki, a golden pancake sandwich with red bean filling, a small plum-colored beret, curious eyes and tiny arms and legs`
@@ -147,139 +148,141 @@ May every question find room to be heard.
    `Shot: medium shot. Scene: the model railway hobby cupboard. Action: ROSIE relaxes into a small pleased expression, while a paper flag sways. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 2 — The visiting coaches · day
-**Still:** `Side view at cup height in the model railway hobby cupboard: DORA holds a gentle attentive pose; TARO holds a gentle attentive pose; CAT the little blue penguin dozing on a felt scenery cushion, yellow scarf visible. The lived-in setting includes wooden track pieces, toy bridges, a felt river, a sorting drawer, a work lamp. Window daylight and a warm practical lamp illuminate the scene, with saturated navy and saffron accents. A paper flag sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-4. **Narration:** Dora was a pancake sandwich wearing a beret. Cat the penguin napped on a felt scenery cushion.
-   `Shot: medium shot. Scene: the model railway hobby cupboard. Action: CAT gives a slow contented blink, while a paper flag sways. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pans right. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
+**Still:** `Side view at cup height in the model railway hobby cupboard: DORA holds a gentle attentive pose; TARO holds a gentle attentive pose; CAT the little blue penguin holding a stack of picture-only instruction cards, yellow scarf visible. The lived-in setting includes wooden track pieces, toy bridges, a felt river, a sorting drawer, a work lamp. Window daylight and a warm practical lamp illuminate the scene, with saturated navy and saffron accents. A paper flag sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+4. **Narration:** Dora was a pancake sandwich wearing a beret. Cat the penguin arranged picture instructions in order.
+   `Shot: medium shot. Scene: the model railway hobby cupboard. Action: CAT arranges one picture card, while a paper flag sways. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pans right. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
+5. **Narration:** The toy train tried to park on step three.
+   `Shot: medium close-up. Scene: the model railway hobby cupboard. Action: DORA gives a thoughtful slow blink, while a paper flag sways. Character: the pancake sandwich with the little beret — attentive and gently encouraged. Camera: slowly tilts down. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 3 — A coach shows the way · day
 **Still:** `High diagonal view across the task in the model railway hobby cupboard: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; DORA holds a gentle attentive pose; TARO holds a gentle attentive pose. The lived-in setting includes wooden track pieces, toy bridges, a felt river, a sorting drawer, a work lamp. Window daylight and a warm practical lamp illuminate the scene, with saturated navy and saffron accents. A paper flag sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-5. **Narration:** Dora gave several pretend directions. Taro asked, **"Could you tell me one step at a time?"**
+6. **Narration:** Dora gave several pretend directions. Taro asked, **"Could you tell me one step at a time?"**
    `Shot: medium shot. Scene: the model railway hobby cupboard. Action: DORA presents a wooden bridge piece with a patient smile, while a paper flag sways. Character: the pancake sandwich with the little beret — attentive and gently encouraged. Camera: slowly tilts down. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-6. **Narration:** Then repeated one. "Asking helps the other person teach clearly," Dora explained.
+7. **Narration:** Then repeated one. "Asking helps the other person teach clearly," Dora explained.
    `Shot: medium close-up. Scene: the model railway hobby cupboard. Action: DORA gives a thoughtful slow blink, while a paper flag sways. Character: the pancake sandwich with the little beret — attentive and gently encouraged. Camera: slowly pulls back. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-7. **Narration:** "A long instruction can become several small useful ones."
+8. **Narration:** "A long instruction can become several small useful ones."
    `Shot: medium shot. Scene: the model railway hobby cupboard. Action: DORA relaxes into a small pleased expression, while a paper flag sways. Character: the pancake sandwich with the little beret — attentive and gently encouraged. Camera: tracks beside. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 4 — Rosie's Steps · day
 **Still:** `Close view through soft foreground shapes in the model railway hobby cupboard: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; DORA holds a gentle attentive pose. The lived-in setting includes wooden track pieces, toy bridges, a felt river, a sorting drawer, a work lamp. Window daylight and a warm practical lamp illuminate the scene, with saturated navy and saffron accents. A paper flag sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-8. **Narration:** **Rosie's Steps** 1. Listen to the instruction. 2.
+9. **Narration:** **Rosie's Steps** 1. Listen to the instruction. 2.
    `Shot: medium shot. Scene: the model railway hobby cupboard. Action: ROSIE relaxes into a small pleased expression, while a paper flag sways. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-9. **Narration:** Say which part you need help with. 3. Ask for one step at a time.
+10. **Narration:** Say which part you need help with. 3. Ask for one step at a time.
    `Shot: medium close-up. Scene: the model railway hobby cupboard. Action: DORA gives a thoughtful slow blink, while a paper flag sways. Character: the pancake sandwich with the little beret — attentive and gently encouraged. Camera: tracks beside. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 5 — Finishing the model · day
 **Still:** `Low view looking up at the central figures in the model railway hobby cupboard: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TARO holds a gentle attentive pose. The lived-in setting includes wooden track pieces, toy bridges, a felt river, a sorting drawer, a work lamp. Window daylight and a warm practical lamp illuminate the scene, with saturated navy and saffron accents. A paper flag sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-10. **Narration:** 4. Repeat the first step back. 5. Try it and check the next step.
+11. **Narration:** 4. Repeat the first step back. 5. Try it and check the next step.
    `Shot: medium shot. Scene: the model railway hobby cupboard. Action: ROSIE gives a thoughtful nod, while a paper flag sways. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 6 — A pretend encounter · day
 **Still:** `Medium view framed by the place's props in the model railway hobby cupboard: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TARO holds a gentle attentive pose. The lived-in setting includes wooden track pieces, toy bridges, a felt river, a sorting drawer, a work lamp. Window daylight and a warm practical lamp illuminate the scene, with saturated navy and saffron accents. A paper flag sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-11. **Narration:** **問題** (wèntí) = question. Rosie tried **"Could you tell me one step at a time?"** Taro pretended.
+12. **Narration:** **問題** (wèntí) = question. Rosie tried **"Could you tell me one step at a time?"** Taro pretended.
    `Shot: medium shot. Scene: the model railway hobby cupboard. Action: ROSIE holds a wooden bridge piece carefully in front of her cup, while a paper flag sways. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 7 — Rosie practices · day
 **Still:** `High oblique view across the scene in the model railway hobby cupboard: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TARO holds a gentle attentive pose. The lived-in setting includes wooden track pieces, toy bridges, a felt river, a sorting drawer, a work lamp. Window daylight and a warm practical lamp illuminate the scene, with saturated navy and saffron accents. A paper flag sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-12. **Narration:** 1. Listen to the instruction. 2. Say which part you need help with.
+13. **Narration:** 1. Listen to the instruction. 2. Say which part you need help with.
    `Shot: medium shot. Scene: the model railway hobby cupboard. Action: ROSIE gives a small confident nod, while a paper flag sways. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pushes in. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-13. **Narration:** 3. Ask for one step at a time.
+14. **Narration:** 3. Ask for one step at a time.
    `Shot: medium close-up. Scene: the model railway hobby cupboard. Action: ROSIE gives a thoughtful slow blink, while a paper flag sways. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pans right. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 8 — The practice continues · day
 **Still:** `Wide establishing view with deep perspective in the model railway hobby cupboard: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TARO holds a gentle attentive pose. The lived-in setting includes wooden track pieces, toy bridges, a felt river, a sorting drawer, a work lamp. Window daylight and a warm practical lamp illuminate the scene, with saturated navy and saffron accents. A paper flag sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-14. **Narration:** 4. Repeat the first step back. 5. Try it and check the next step.
+15. **Narration:** 4. Repeat the first step back. 5. Try it and check the next step.
    `Shot: medium shot. Scene: the model railway hobby cupboard. Action: TARO gives an encouraging nod, while a paper flag sways. Character: the purple taro with the round reading glasses — attentive and gently encouraged. Camera: slowly pans right. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 9 — A little practice laughter · day
 **Still:** `Low angle at cup height in the model railway hobby cupboard: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; DORA holds a gentle attentive pose; TARO holds a gentle attentive pose. The lived-in setting includes wooden track pieces, toy bridges, a felt river, a sorting drawer, a work lamp. Window daylight and a warm practical lamp illuminate the scene, with saturated navy and saffron accents. A paper flag sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-15. **Narration:** Rosie practiced repeating the first direction before touching a track piece, then checking what should happen next.
+16. **Narration:** Rosie practiced repeating the first direction before touching a track piece, then checking what should happen next.
    `Shot: medium shot. Scene: the model railway hobby cupboard. Action: ROSIE relaxes into a small pleased expression, while a paper flag sways. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-16. **Narration:** Dora pointed to her carpet of paper. "A good story has chapters. Apparently, so does this tiny bridge."
+17. **Narration:** Dora pointed to her carpet of paper. "A good story has chapters. Apparently, so does this tiny bridge."
    `Shot: medium close-up. Scene: the model railway hobby cupboard. Action: DORA gives a thoughtful slow blink, while a paper flag sways. Character: the pancake sandwich with the little beret — attentive and gently encouraged. Camera: slowly pulls back. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 10 — The real outing · day
-**Still:** `Over-the-shoulder view past ROSIE's lid in the transport museum model-building table: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin dozing on a spare padded stool, yellow scarf visible; TANG holds a gentle attentive pose. The lived-in setting includes track curves, bridge kits, shallow trays, instruction pictures, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated crimson and silver blue accents. Light reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-17. **Narration:** Mom took Rosie to the transport museum, where wooden bridges filled shallow sorting trays.
+**Still:** `Over-the-shoulder view past ROSIE's lid in the transport museum model-building table: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin pointing to one instruction picture beside the model bridge, yellow scarf visible; TANG holds a gentle attentive pose. The lived-in setting includes track curves, bridge kits, shallow trays, instruction pictures, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated crimson and silver blue accents. Light reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+18. **Narration:** Mom took Rosie to the transport museum, where wooden bridges filled shallow sorting trays.
    `Shot: medium shot. Scene: the transport museum model-building table. Action: ROSIE lifts her straw with hopeful curiosity, while light reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-18. **Narration:** Cat dozed on a spare padded stool, providing a very convincing model of a stationary passenger.
-   `Shot: medium close-up. Scene: the transport museum model-building table. Action: CAT gives a slow contented blink, while light reflections shimmer. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-19. **Narration:** Tang held the bridge kit. The workshop helper explained several things about sorting, fitting, and placing the supports.
+19. **Narration:** Cat held the instruction pictures while Mom checked the building space with Rosie.
+   `Shot: medium close-up. Scene: the transport museum model-building table. Action: CAT points at one picture card, while light reflections shimmer. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
+20. **Narration:** Tang held the bridge kit. The workshop helper explained several things about sorting, fitting, and placing the supports.
    `Shot: medium shot. Scene: the transport museum model-building table. Action: TANG relaxes into a small pleased expression, while light reflections shimmer. Character: the tall skewer of five glossy candied strawberries — attentive and gently encouraged. Camera: holds still. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 11 — Trying the first steps · day
 **Still:** `Close view from the tabletop edge in the transport museum model-building table: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TANG holds a gentle attentive pose; MOM holds a gentle attentive pose; HELPER holds a gentle attentive pose. The lived-in setting includes track curves, bridge kits, shallow trays, instruction pictures, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated crimson and silver blue accents. Light reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-20. **Narration:** Step one: Rosie listened, keeping the wooden pieces in their tray instead of guessing which to join.
+21. **Narration:** Step one: Rosie listened, keeping the wooden pieces in their tray instead of guessing which to join.
    `Shot: medium shot. Scene: the transport museum model-building table. Action: ROSIE holds her tiny hands calmly in front of her cup, while light reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-21. **Narration:** Step two: "I need help remembering the supports," she said, pointing at the little wooden bridge piece. Step
+22. **Narration:** Step two: "I need help remembering the supports," she said, pointing at the little wooden bridge piece. Step
    `Shot: medium close-up. Scene: the transport museum model-building table. Action: ROSIE gives a thoughtful slow blink, while light reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-22. **Narration:** three: **"Could you tell me one step at a time?"** The helper nodded and showed the first picture.
+23. **Narration:** three: **"Could you tell me one step at a time?"** The helper nodded and showed the first picture.
    `Shot: medium shot. Scene: the transport museum model-building table. Action: ROSIE relaxes into a small pleased expression, while light reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pushes in. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 12 — One gentle surprise · day
 **Still:** `High angle over the foreground props in the transport museum model-building table: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands with her striped straw drooping and worried brown eyes; TANG holds a gentle attentive pose; MOM holds a gentle attentive pose; HELPER holds a gentle attentive pose. The lived-in setting includes track curves, bridge kits, shallow trays, instruction pictures, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated crimson and silver blue accents. Light reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-23. **Narration:** Two supports looked almost the same. Even the slower instruction did not tell Rosie which one to choose.
+24. **Narration:** Two supports looked almost the same. Even the slower instruction did not tell Rosie which one to choose.
    `Shot: medium shot. Scene: the transport museum model-building table. Action: ROSIE lets her striped straw droop with uncertainty, while light reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — uncertain and seeking reassurance. Camera: holds still. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-24. **Narration:** She felt puzzled. Her straw drooped. That's okay; she could ask for a clearer detail as well.
+25. **Narration:** She felt puzzled. Her straw drooped. That's okay; she could ask for a clearer detail as well.
    `Shot: medium close-up. Scene: the transport museum model-building table. Action: ROSIE gives a thoughtful slow blink, while light reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — uncertain and seeking reassurance. Camera: slowly pushes in. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 13 — The Rose breath · day
 **Still:** `Extreme close-up of the rose petal and striped straw in the transport museum model-building table: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands with calm brown eyes and a gently rising straw. A glowing rose-shaped breathing picture and a candle-shaped light frame her face. The lived-in setting includes track curves, bridge kits, shallow trays, instruction pictures, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated crimson and silver blue accents. Light reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-25. **Narration:** Rosie took a Rose breath. Smell the rose: in, two, three, four.
+26. **Narration:** Rosie took a Rose breath. Smell the rose: in, two, three, four.
    `Shot: extreme close-up. Scene: the transport museum model-building table. Action: ROSIE's straw rises gently as she calms, while light reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — settling into calm. Camera: holds still. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-26. **Narration:** Blow out the candle: out, two, three, four.
+27. **Narration:** Blow out the candle: out, two, three, four.
    `Shot: extreme close-up. Scene: the transport museum model-building table. Action: ROSIE gives a thoughtful slow blink, while light reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — settling into calm. Camera: holds still. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 14 — The backup sentence · day
 **Still:** `Tight view at straw height in the transport museum model-building table: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TANG holds a gentle attentive pose; MOM holds a gentle attentive pose; HELPER holds a gentle attentive pose. The lived-in setting includes track curves, bridge kits, shallow trays, instruction pictures, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated crimson and silver blue accents. Light reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-27. **Narration:** "Could you point to the piece you mean?"
+28. **Narration:** "Could you point to the piece you mean?"
    `Shot: medium shot. Scene: the transport museum model-building table. Action: ROSIE gives a small hopeful nod, while light reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pans right. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-28. **Narration:** Rosie asked, leaving both supports side by side in the tray.
+29. **Narration:** Rosie asked, leaving both supports side by side in the tray.
    `Shot: medium close-up. Scene: the transport museum model-building table. Action: ROSIE gives a thoughtful slow blink, while light reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-29. **Narration:** The helper pointed to the wider piece and turned it gently. Its flat edge belonged against the base.
+30. **Narration:** The helper pointed to the wider piece and turned it gently. Its flat edge belonged against the base.
    `Shot: medium shot. Scene: the transport museum model-building table. Action: ROSIE relaxes into a small pleased expression, while light reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 15 — Finishing the task · day
 **Still:** `Three-quarter view across the work surface in the transport museum model-building table: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TANG holds a gentle attentive pose; MOM holds a gentle attentive pose; DORA holds a gentle attentive pose; TARO holds a gentle attentive pose; HELPER holds a gentle attentive pose. The lived-in setting includes track curves, bridge kits, shallow trays, instruction pictures, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated crimson and silver blue accents. Light reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-30. **Narration:** Step four: "First, fit the wide support here," Rosie repeated. The helper checked her meaning before she tried.
+31. **Narration:** Step four: "First, fit the wide support here," Rosie repeated. The helper checked her meaning before she tried.
    `Shot: medium shot. Scene: the transport museum model-building table. Action: ROSIE lifts her straw with quiet pride, while light reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-31. **Narration:** Step five: she fitted that piece, then asked for the next step. Tang held the base steady
+32. **Narration:** Step five: she fitted that piece, then asked for the next step. Tang held the base steady
    `Shot: medium close-up. Scene: the transport museum model-building table. Action: ROSIE gives a thoughtful slow blink, while light reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-32. **Narration:** beside her. Taro admired the support. Dora folded a page. "Chapter one: the bridge learns to stand."
+33. **Narration:** beside her. Taro admired the support. Dora folded a page. "Chapter one: the bridge learns to stand."
    `Shot: medium shot. Scene: the transport museum model-building table. Action: ROSIE relaxes into a small pleased expression, while light reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 16 — Cat's contribution · day
-**Still:** `Low diagonal view with layered foreground in the transport museum model-building table: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin dozing on a spare padded stool, yellow scarf visible; TANG holds a gentle attentive pose. The lived-in setting includes track curves, bridge kits, shallow trays, instruction pictures, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated crimson and silver blue accents. Light reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-33. **Narration:** Cat blinked from her stool. "My model passenger requests a station with pillows. Please build that step next."
-   `Shot: medium shot. Scene: the transport museum model-building table. Action: CAT gives a slow contented blink, while light reflections shimmer. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-34. **Narration:** Rosie laughed, checking the second support with Tang. The whole bridge was easier when each instruction had room.
+**Still:** `Low diagonal view with layered foreground in the transport museum model-building table: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin pointing to one instruction picture beside the model bridge, yellow scarf visible; TANG holds a gentle attentive pose. The lived-in setting includes track curves, bridge kits, shallow trays, instruction pictures, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated crimson and silver blue accents. Light reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+34. **Narration:** Cat pointed to one picture. "Just this support first. The train can wait;
+   `Shot: medium shot. Scene: the transport museum model-building table. Action: CAT points at one picture card, while light reflections shimmer. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
+35. **Narration:** it has brought an imaginary sandwich." Rosie checked one support. The bridge was growing, step by step.
    `Shot: medium close-up. Scene: the transport museum model-building table. Action: ROSIE gives a thoughtful slow blink, while light reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 17 — Big sister's cheer · day
 **Still:** `Wide view framed by the doorway in the transport museum model-building table: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TORI stands with her green straw tilted kindly. The lived-in setting includes track curves, bridge kits, shallow trays, instruction pictures, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated crimson and silver blue accents. Light reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-35. **Narration:** Tori joined Rosie beside the museum's miniature station canopy, where their finished bridge stood in a display tray.
+36. **Narration:** Tori joined Rosie beside the museum's miniature station canopy, where their finished bridge stood in a display tray.
    `Shot: medium shot. Scene: the transport museum model-building table. Action: ROSIE relaxes into a small pleased expression, while light reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-36. **Narration:** "You asked for the size of step you needed. You've got this, little sip," she said warmly.
+37. **Narration:** "You asked for the size of step you needed. You've got this, little sip," she said warmly.
    `Shot: medium close-up. Scene: the transport museum model-building table. Action: TORI gives a thoughtful slow blink, while light reflections shimmer. Character: the tall golden lychee-tea cup with the green straw — attentive and gently encouraged. Camera: holds still. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-37. **Narration:** Rosie felt proud. Her questions had helped the bridge reach the other side.
+38. **Narration:** Rosie felt proud. Her questions had helped the bridge reach the other side.
    `Shot: medium shot. Scene: the transport museum model-building table. Action: ROSIE relaxes into a small pleased expression, while light reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pushes in. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 18 — One step at a time · day
 **Still:** `Diagonal view at cup height in the transport museum model-building table: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TORI stands with her green straw tilted kindly. The lived-in setting includes track curves, bridge kits, shallow trays, instruction pictures, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated crimson and silver blue accents. Light reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-38. **Narration:** **加油** (jiāyóu) = go for it. "One step at a time, one sip at a time," said Rosie.
+39. **Narration:** **加油** (jiāyóu) = go for it. "One step at a time, one sip at a time," said Rosie.
    `Shot: medium shot. Scene: the transport museum model-building table. Action: ROSIE gives one proud little bounce in place, while light reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 19 — Goodnight · night
 **Still:** `High oblique view across the bedroom pillow in Rosie's cozy bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, tucked beneath a quilt with lid and straw visible, eyes comfortably closed; CAT the little blue penguin asleep on a soft pillow, yellow scarf visible. The lived-in setting includes a wooden bridge piece, a little keepsake picture, a quilt, a plain lamp, a soft pillow. A plain bedside lamp lights the cozy bedroom at night, with saturated rose pink and warm amber accents. Fairy lights twinkle in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-39. **Narration:** Goodnight, little builder and steady wooden bridge. Goodnight, instructions, resting one step apart.
+40. **Narration:** Goodnight, little builder and steady wooden bridge. Goodnight, instructions, resting one step apart.
    `Shot: medium shot. Scene: Rosie's cozy bedroom. Action: ROSIE's eyes soften above her quilt, while fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
-40. **Narration:** Goodnight, Cat, passenger of pillows. May every question find room to be heard.
-   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT gives a slow contented blink, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
+41. **Narration:** Goodnight, Cat, picture cards neatly stacked. May every question find room to be heard.
+   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT settles comfortably on her pillow, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
 
 1. **Key scene** — `Three-quarter view across the work surface in the transport museum model-building table: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TANG holds a gentle attentive pose; MOM holds a gentle attentive pose; DORA holds a gentle attentive pose; TARO holds a gentle attentive pose; HELPER holds a gentle attentive pose. The lived-in setting includes track curves, bridge kits, shallow trays, instruction pictures, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated crimson and silver blue accents. Light reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 2. **Character views** — generate each of these as a separate image:
    - `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
-   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
+   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Dora the Dorayaki, a golden pancake sandwich with red bean filling, a small plum-colored beret, curious eyes and tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`

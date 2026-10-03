@@ -3,6 +3,7 @@
 **Life skill:** Own an accidental mistake, apologize, and help repair it.
 **Magic sentence:** "I'm sorry. How can I help fix it?"
 **Coaches:** Hóng Dòu 🇹🇼 + Dai Daruma 🇯🇵
+**Cat’s role:** kung fu coach
 **Setting:** the apartment's mosaic landing (practice), then the covered marble club pavilion (real outing).
 
 ---
@@ -19,11 +20,11 @@ Hóng Dòu was a grandmotherly red bean.
 
 Dai was a determined red daruma bun.
 
-Cat the penguin napped on a cushion beside the shoe bench.
+Cat the penguin practiced a gentle kung fu bow. Her scarf bowed a beat late.
 
 Hóng Dòu nudged a felt marble bowl. **"I'm sorry. How can I help fix it?"** she asked Dai.
 
-Dai showed her the sorting tray. "An accident needs care, not a contest to find the biggest excuse."
+Cat showed Rosie how to stop, check the space, and ask before helping. "A repair is teamwork, not a race."
 
 **Rosie's Steps**
 
@@ -49,7 +50,7 @@ His collection contained one enormous pompom. "Rare specimen," he announced. "Ve
 
 Mom took Rosie to the covered pavilion, where marble tracks curved above soft mats and low tables.
 
-Cat napped on a spare felt mat, contributing one round tummy to the club's collection of circles.
+Cat marked a clear walking space beside the mats, keeping little feet away from rolling marbles.
 
 Tang balanced a sorting bowl beside his track. His five candied strawberries sparkled in the filtered sunshine.
 
@@ -79,9 +80,9 @@ Step five: they collected the marbles together, taking care around the smooth li
 
 Hóng Dòu held the bowl steady. Dai examined his pompom. "Still rare. Still too fluffy for racing."
 
-A marble stopped beside Cat's scarf. She opened one eye. "My nap has acquired a tiny audience."
+Cat bowed to Rosie. "In kung fu, we stop and check our space. Good stopping, little sip."
 
-Tang laughed softly, then thanked Rosie for helping. The track was ready, and so were its colorful planets.
+Tang thanked Rosie. The marble planets were ready to race again.
 
 Tori waited beneath the pavilion's hanging bamboo baskets, with a little cloth pouch ready for Rosie's marbles.
 
@@ -116,20 +117,20 @@ Rosie felt proud of the repair, and she clipped her pouch securely before watchi
 
 Goodnight, careful hands and repaired little accidents.
 Goodnight, marbles, resting in their bowls.
-Goodnight, Cat and your tiny audience.
+Goodnight, Cat, bowing scarf now still.
 May kindness help you begin again.
 
 ---
 
 ## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~4:19 (est.) · **Narrated words:** 583 · **Stills:** 19 · **Beats:** 38
+**Runtime:** ~4:19 (est.) · **Narrated words:** 581 · **Stills:** 19 · **Beats:** 39
 **Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 **Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
 **Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: none.
 - `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf`
 - `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 - `MOM` → Mom, the tall rose-milk-tea mom cup with the pink lid · `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`
 - `HONG` → Hóng Dòu, the red bean grandmother with the tiny ladle · `Hóng Dòu, a plump reddish-brown bean grandmother with kind eyes, a little apron and a tiny wooden ladle`
@@ -146,135 +147,137 @@ May kindness help you begin again.
    `Shot: medium shot. Scene: the apartment's mosaic landing. Action: ROSIE relaxes into a small pleased expression, while a hanging ribbon sways. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 2 — The visiting coaches · day
-**Still:** `Over-the-shoulder view past ROSIE's lid in the apartment's mosaic landing: HONG holds a gentle attentive pose; DAI holds a gentle attentive pose; CAT the little blue penguin dozing on a cushion beside the shoe bench, yellow scarf visible. The lived-in setting includes mosaic tiles, a shallow tray, felt marbles, a shoe bench, a woven mat. Window daylight and a warm practical lamp illuminate the scene, with saturated apricot and indigo accents. A hanging ribbon sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Over-the-shoulder view past ROSIE's lid in the apartment's mosaic landing: HONG holds a gentle attentive pose; DAI holds a gentle attentive pose; CAT the little blue penguin standing in a gentle kung fu bow on a woven mat, yellow scarf visible. The lived-in setting includes mosaic tiles, a shallow tray, felt marbles, a shoe bench, a woven mat. Window daylight and a warm practical lamp illuminate the scene, with saturated apricot and indigo accents. A hanging ribbon sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 4. **Narration:** Hóng Dòu was a grandmotherly red bean. Dai was a determined red daruma bun.
    `Shot: medium shot. Scene: the apartment's mosaic landing. Action: HONG gives a reassuring little nod, while a hanging ribbon sways. Character: the red bean grandmother with the tiny ladle — attentive and gently encouraged. Camera: slowly pans right. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-5. **Narration:** Cat the penguin napped on a cushion beside the shoe bench.
-   `Shot: medium close-up. Scene: the apartment's mosaic landing. Action: CAT gives a slow contented blink, while a hanging ribbon sways. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
+5. **Narration:** Cat the penguin practiced a gentle kung fu bow. Her scarf bowed a beat late.
+   `Shot: medium close-up. Scene: the apartment's mosaic landing. Action: CAT gives a small respectful bow, while a hanging ribbon sways. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 3 — A coach shows the way · day
-**Still:** `Close view from the tabletop edge in the apartment's mosaic landing: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; HONG holds a gentle attentive pose; DAI holds a gentle attentive pose. The lived-in setting includes mosaic tiles, a shallow tray, felt marbles, a shoe bench, a woven mat. Window daylight and a warm practical lamp illuminate the scene, with saturated apricot and indigo accents. A hanging ribbon sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-6. **Narration:** Hóng Dòu nudged a felt marble bowl. **"I'm sorry. How can I help fix it?"** she asked Dai.
+**Still:** `Close view from the tabletop edge in the apartment's mosaic landing: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; HONG holds a gentle attentive pose; DAI holds a gentle attentive pose; CAT the little blue penguin standing in a gentle kung fu bow on a woven mat, yellow scarf visible. The lived-in setting includes mosaic tiles, a shallow tray, felt marbles, a shoe bench, a woven mat. Window daylight and a warm practical lamp illuminate the scene, with saturated apricot and indigo accents. A hanging ribbon sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+6. **Narration:** Hóng Dòu nudged a felt marble bowl. **"I'm sorry. How can I help fix it?"**
    `Shot: medium shot. Scene: the apartment's mosaic landing. Action: HONG presents a marble sorting bowl with a patient smile, while a hanging ribbon sways. Character: the red bean grandmother with the tiny ladle — attentive and gently encouraged. Camera: slowly tilts down. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-7. **Narration:** Dai showed her the sorting tray. "An accident needs care, not a contest to find the biggest excuse."
-   `Shot: medium close-up. Scene: the apartment's mosaic landing. Action: DAI gives a thoughtful slow blink, while a hanging ribbon sways. Character: the red daruma bun with the determined eyebrows — attentive and gently encouraged. Camera: slowly pulls back. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
+7. **Narration:** she asked Dai. Cat showed Rosie how to stop, check the space,
+   `Shot: medium close-up. Scene: the apartment's mosaic landing. Action: CAT gives a small respectful bow, while a hanging ribbon sways. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
+8. **Narration:** and ask before helping. "A repair is teamwork, not a race."
+   `Shot: medium shot. Scene: the apartment's mosaic landing. Action: HONG relaxes into a small pleased expression, while a hanging ribbon sways. Character: the red bean grandmother with the tiny ladle — attentive and gently encouraged. Camera: tracks beside. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 4 — Rosie's Steps · day
 **Still:** `High angle over the foreground props in the apartment's mosaic landing: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; HONG holds a gentle attentive pose. The lived-in setting includes mosaic tiles, a shallow tray, felt marbles, a shoe bench, a woven mat. Window daylight and a warm practical lamp illuminate the scene, with saturated apricot and indigo accents. A hanging ribbon sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-8. **Narration:** **Rosie's Steps** 1. Stop and check what happened. 2.
+9. **Narration:** **Rosie's Steps** 1. Stop and check what happened. 2.
    `Shot: medium shot. Scene: the apartment's mosaic landing. Action: ROSIE relaxes into a small pleased expression, while a hanging ribbon sways. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-9. **Narration:** Tell the person what you did. 3. Say you are sorry.
+10. **Narration:** Tell the person what you did. 3. Say you are sorry.
    `Shot: medium close-up. Scene: the apartment's mosaic landing. Action: HONG gives a thoughtful slow blink, while a hanging ribbon sways. Character: the red bean grandmother with the tiny ladle — attentive and gently encouraged. Camera: tracks beside. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 5 — Finishing the model · day
 **Still:** `Side view through the foreground in the apartment's mosaic landing: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; DAI holds a gentle attentive pose. The lived-in setting includes mosaic tiles, a shallow tray, felt marbles, a shoe bench, a woven mat. Window daylight and a warm practical lamp illuminate the scene, with saturated apricot and indigo accents. A hanging ribbon sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-10. **Narration:** 4. Ask how to help. 5. Help with their permission.
+11. **Narration:** 4. Ask how to help. 5. Help with their permission.
    `Shot: medium shot. Scene: the apartment's mosaic landing. Action: ROSIE gives a thoughtful nod, while a hanging ribbon sways. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 6 — A pretend encounter · day
 **Still:** `Tight view at straw height in the apartment's mosaic landing: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; DAI holds a gentle attentive pose. The lived-in setting includes mosaic tiles, a shallow tray, felt marbles, a shoe bench, a woven mat. Window daylight and a warm practical lamp illuminate the scene, with saturated apricot and indigo accents. A hanging ribbon sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-11. **Narration:** **道歉** (dàoqiàn) = apologizing. Rosie tried **"I'm sorry. How can I help fix it?"** Dai Daruma pretended.
+12. **Narration:** **道歉** (dàoqiàn) = apologizing. Rosie tried **"I'm sorry. How can I help fix it?"** Dai Daruma pretended.
    `Shot: medium shot. Scene: the apartment's mosaic landing. Action: ROSIE holds a marble sorting bowl carefully in front of her cup, while a hanging ribbon sways. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 7 — Rosie practices · day
 **Still:** `Three-quarter view across the work surface in the apartment's mosaic landing: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; DAI holds a gentle attentive pose. The lived-in setting includes mosaic tiles, a shallow tray, felt marbles, a shoe bench, a woven mat. Window daylight and a warm practical lamp illuminate the scene, with saturated apricot and indigo accents. A hanging ribbon sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-12. **Narration:** 1. Stop and check what happened. 2. Tell the person what you did. 3. Say you are sorry.
+13. **Narration:** 1. Stop and check what happened. 2. Tell the person what you did. 3. Say you are sorry.
    `Shot: medium shot. Scene: the apartment's mosaic landing. Action: ROSIE gives a small confident nod, while a hanging ribbon sways. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pushes in. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 8 — The practice continues · day
 **Still:** `Low diagonal view with layered foreground in the apartment's mosaic landing: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; DAI holds a gentle attentive pose. The lived-in setting includes mosaic tiles, a shallow tray, felt marbles, a shoe bench, a woven mat. Window daylight and a warm practical lamp illuminate the scene, with saturated apricot and indigo accents. A hanging ribbon sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-13. **Narration:** 4. Ask how to help. 5. Help with their permission.
+14. **Narration:** 4. Ask how to help. 5. Help with their permission.
    `Shot: medium shot. Scene: the apartment's mosaic landing. Action: DAI gives an encouraging nod, while a hanging ribbon sways. Character: the red daruma bun with the determined eyebrows — attentive and gently encouraged. Camera: slowly pans right. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 9 — A little practice laughter · day
 **Still:** `Wide view framed by the doorway in the apartment's mosaic landing: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; HONG holds a gentle attentive pose; DAI holds a gentle attentive pose. The lived-in setting includes mosaic tiles, a shallow tray, felt marbles, a shoe bench, a woven mat. Window daylight and a warm practical lamp illuminate the scene, with saturated apricot and indigo accents. A hanging ribbon sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-14. **Narration:** Rosie practiced naming the bump and offering help, while Dai played a marble collector with solemn eyebrows.
+15. **Narration:** Rosie practiced naming the bump and offering help, while Dai played a marble collector with solemn eyebrows.
    `Shot: medium shot. Scene: the apartment's mosaic landing. Action: ROSIE relaxes into a small pleased expression, while a hanging ribbon sways. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-15. **Narration:** His collection contained one enormous pompom. "Rare specimen," he announced. "Very difficult to lose under a sofa."
+16. **Narration:** His collection contained one enormous pompom. "Rare specimen," he announced. "Very difficult to lose under a sofa."
    `Shot: medium close-up. Scene: the apartment's mosaic landing. Action: HONG gives a thoughtful slow blink, while a hanging ribbon sways. Character: the red bean grandmother with the tiny ladle — attentive and gently encouraged. Camera: slowly pulls back. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 10 — The real outing · day
-**Still:** `Diagonal view at cup height in the covered marble club pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin dozing on a spare felt marble mat, yellow scarf visible; TANG holds a gentle attentive pose. The lived-in setting includes marble tracks, felt mats, sorting bowls, a low display rail, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated ruby red and mint accents. Bamboo blinds flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-16. **Narration:** Mom took Rosie to the covered pavilion, where marble tracks curved above soft mats and low tables.
+**Still:** `Diagonal view at cup height in the covered marble club pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin standing beside a clear mat edge with flippers relaxed, yellow scarf visible; TANG holds a gentle attentive pose. The lived-in setting includes marble tracks, felt mats, sorting bowls, a low display rail, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated ruby red and mint accents. Bamboo blinds flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+17. **Narration:** Mom took Rosie to the covered pavilion, where marble tracks curved above soft mats and low tables.
    `Shot: medium shot. Scene: the covered marble club pavilion. Action: ROSIE lifts her straw with hopeful curiosity, while bamboo blinds flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-17. **Narration:** Cat napped on a spare felt mat, contributing one round tummy to the club's collection of circles.
-   `Shot: medium close-up. Scene: the covered marble club pavilion. Action: CAT gives a slow contented blink, while bamboo blinds flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-18. **Narration:** Tang balanced a sorting bowl beside his track. His five candied strawberries sparkled in the filtered sunshine.
+18. **Narration:** Cat marked a clear walking space beside the mats, keeping little feet away from rolling marbles.
+   `Shot: medium close-up. Scene: the covered marble club pavilion. Action: CAT gives a small respectful bow, while bamboo blinds flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
+19. **Narration:** Tang balanced a sorting bowl beside his track. His five candied strawberries sparkled in the filtered sunshine.
    `Shot: medium shot. Scene: the covered marble club pavilion. Action: TANG relaxes into a small pleased expression, while bamboo blinds flutter. Character: the tall skewer of five glossy candied strawberries — attentive and gently encouraged. Camera: holds still. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 11 — Trying the first steps · day
 **Still:** `Tight view of the central character in the covered marble club pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TANG holds a gentle attentive pose; MOM holds a gentle attentive pose. The lived-in setting includes marble tracks, felt mats, sorting bowls, a low display rail, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated ruby red and mint accents. Bamboo blinds flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-19. **Narration:** Step one: Rosie's pouch bumped the bowl. She stopped; marbles pattered across the soft mat below.
+20. **Narration:** Step one: Rosie's pouch bumped the bowl. She stopped; marbles pattered across the soft mat below.
    `Shot: medium shot. Scene: the covered marble club pavilion. Action: ROSIE holds her tiny hands calmly in front of her cup, while bamboo blinds flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-20. **Narration:** Step two: "My pouch knocked your bowl," she told Tang, checking that nobody had been hurt.
+21. **Narration:** Step two: "My pouch knocked your bowl," she told Tang, checking that nobody had been hurt.
    `Shot: medium close-up. Scene: the covered marble club pavilion. Action: ROSIE gives a thoughtful slow blink, while bamboo blinds flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-21. **Narration:** Step three: **"I'm sorry. How can I help fix it?"** Her voice stayed gentle and clear.
+22. **Narration:** Step three: **"I'm sorry. How can I help fix it?"** Her voice stayed gentle and clear.
    `Shot: medium shot. Scene: the covered marble club pavilion. Action: ROSIE relaxes into a small pleased expression, while bamboo blinds flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pushes in. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 12 — One gentle surprise · day
 **Still:** `Close view with shallow depth in the covered marble club pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands with her striped straw drooping and worried brown eyes; TANG holds a gentle attentive pose; MOM holds a gentle attentive pose. The lived-in setting includes marble tracks, felt mats, sorting bowls, a low display rail, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated ruby red and mint accents. Bamboo blinds flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-22. **Narration:** Tang looked at the scattered colors. "I need a minute," he said, holding his empty bowl.
+23. **Narration:** Tang looked at the scattered colors. "I need a minute," he said, holding his empty bowl.
    `Shot: medium shot. Scene: the covered marble club pavilion. Action: TANG relaxes into a small pleased expression, while bamboo blinds flutter. Character: the tall skewer of five glossy candied strawberries — uncertain and seeking reassurance. Camera: holds still. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-23. **Narration:** Rosie felt worried. Her straw drooped. That's okay; an apology did not require Tang to smile immediately.
+24. **Narration:** Rosie felt worried. Her straw drooped. That's okay; an apology did not require Tang to smile immediately.
    `Shot: medium close-up. Scene: the covered marble club pavilion. Action: ROSIE gives a thoughtful slow blink, while bamboo blinds flutter. Character: the little pink rose-milk-tea cup with the striped straw — uncertain and seeking reassurance. Camera: slowly pushes in. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 13 — The Rose breath · day
 **Still:** `Extreme close-up of the rose petal and striped straw in the covered marble club pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands with calm brown eyes and a gently rising straw. A glowing rose-shaped breathing picture and a candle-shaped light frame her face. The lived-in setting includes marble tracks, felt mats, sorting bowls, a low display rail, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated ruby red and mint accents. Bamboo blinds flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-24. **Narration:** Rosie took a Rose breath. Smell the rose: in, two, three, four.
+25. **Narration:** Rosie took a Rose breath. Smell the rose: in, two, three, four.
    `Shot: extreme close-up. Scene: the covered marble club pavilion. Action: ROSIE's straw rises gently as she calms, while bamboo blinds flutter. Character: the little pink rose-milk-tea cup with the striped straw — settling into calm. Camera: holds still. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-25. **Narration:** Blow out the candle: out, two, three, four.
+26. **Narration:** Blow out the candle: out, two, three, four.
    `Shot: extreme close-up. Scene: the covered marble club pavilion. Action: ROSIE gives a thoughtful slow blink, while bamboo blinds flutter. Character: the little pink rose-milk-tea cup with the striped straw — settling into calm. Camera: holds still. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 14 — The backup sentence · day
 **Still:** `High diagonal view across the task in the covered marble club pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TANG holds a gentle attentive pose; MOM holds a gentle attentive pose. The lived-in setting includes marble tracks, felt mats, sorting bowls, a low display rail, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated ruby red and mint accents. Bamboo blinds flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-26. **Narration:** "I'll wait here until you're ready," Rosie said, keeping her feet away from the scattered marbles.
+27. **Narration:** "I'll wait here until you're ready," Rosie said, keeping her feet away from the scattered marbles.
    `Shot: medium shot. Scene: the covered marble club pavilion. Action: ROSIE gives a small hopeful nod, while bamboo blinds flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pans right. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-27. **Narration:** Tang took a breath too. Then he pointed to the blue ones. "Could we sort these first?"
+28. **Narration:** Tang took a breath too. Then he pointed to the blue ones. "Could we sort these first?"
    `Shot: medium close-up. Scene: the covered marble club pavilion. Action: TANG gives a thoughtful slow blink, while bamboo blinds flutter. Character: the tall skewer of five glossy candied strawberries — attentive and gently encouraged. Camera: slowly tilts down. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 15 — Finishing the task · day
 **Still:** `Close view through soft foreground shapes in the covered marble club pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TANG holds a gentle attentive pose; MOM holds a gentle attentive pose; HONG holds a gentle attentive pose; DAI holds a gentle attentive pose. The lived-in setting includes marble tracks, felt mats, sorting bowls, a low display rail, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated ruby red and mint accents. Bamboo blinds flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-28. **Narration:** Step four: Rosie checked, "You want the blue marbles in this bowl?" Tang nodded and moved closer.
+29. **Narration:** Step four: Rosie checked, "You want the blue marbles in this bowl?" Tang nodded and moved closer.
    `Shot: medium shot. Scene: the covered marble club pavilion. Action: ROSIE lifts her straw with quiet pride, while bamboo blinds flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-29. **Narration:** Step five: they collected the marbles together, taking care around the smooth little balls on the mat.
+30. **Narration:** Step five: they collected the marbles together, taking care around the smooth little balls on the mat.
    `Shot: medium close-up. Scene: the covered marble club pavilion. Action: ROSIE gives a thoughtful slow blink, while bamboo blinds flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-30. **Narration:** Hóng Dòu held the bowl steady. Dai examined his pompom. "Still rare. Still too fluffy for racing."
+31. **Narration:** Hóng Dòu held the bowl steady. Dai examined his pompom. "Still rare. Still too fluffy for racing."
    `Shot: medium shot. Scene: the covered marble club pavilion. Action: HONG relaxes into a small pleased expression, while bamboo blinds flutter. Character: the red bean grandmother with the tiny ladle — attentive and gently encouraged. Camera: tracks beside. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 16 — Cat's contribution · day
-**Still:** `Low view looking up at the central figures in the covered marble club pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin dozing on a spare felt marble mat, yellow scarf visible; TANG holds a gentle attentive pose. The lived-in setting includes marble tracks, felt mats, sorting bowls, a low display rail, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated ruby red and mint accents. Bamboo blinds flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-31. **Narration:** A marble stopped beside Cat's scarf. She opened one eye. "My nap has acquired a tiny audience."
-   `Shot: medium shot. Scene: the covered marble club pavilion. Action: CAT gives a slow contented blink, while bamboo blinds flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-32. **Narration:** Tang laughed softly, then thanked Rosie for helping. The track was ready, and so were its colorful planets.
+**Still:** `Low view looking up at the central figures in the covered marble club pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin standing beside a clear mat edge with flippers relaxed, yellow scarf visible; TANG holds a gentle attentive pose. The lived-in setting includes marble tracks, felt mats, sorting bowls, a low display rail, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated ruby red and mint accents. Bamboo blinds flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+32. **Narration:** Cat bowed to Rosie. "In kung fu, we stop and check our space.
+   `Shot: medium shot. Scene: the covered marble club pavilion. Action: CAT gives a small respectful bow, while bamboo blinds flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
+33. **Narration:** Good stopping, little sip." Tang thanked Rosie. The marble planets were ready to race again.
    `Shot: medium close-up. Scene: the covered marble club pavilion. Action: ROSIE gives a thoughtful slow blink, while bamboo blinds flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 17 — Big sister's cheer · day
 **Still:** `Medium view framed by the place's props in the covered marble club pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TORI stands with her green straw tilted kindly. The lived-in setting includes marble tracks, felt mats, sorting bowls, a low display rail, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated ruby red and mint accents. Bamboo blinds flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-33. **Narration:** Tori waited beneath the pavilion's hanging bamboo baskets, with a little cloth pouch ready for Rosie's marbles.
+34. **Narration:** Tori waited beneath the pavilion's hanging bamboo baskets, with a little cloth pouch ready for Rosie's marbles.
    `Shot: medium shot. Scene: the covered marble club pavilion. Action: ROSIE relaxes into a small pleased expression, while bamboo blinds flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-34. **Narration:** "You owned your bump and helped repair it. You've got this, little sip," she told her.
+35. **Narration:** "You owned your bump and helped repair it. You've got this, little sip," she told her.
    `Shot: medium close-up. Scene: the covered marble club pavilion. Action: TORI gives a thoughtful slow blink, while bamboo blinds flutter. Character: the tall golden lychee-tea cup with the green straw — attentive and gently encouraged. Camera: holds still. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-35. **Narration:** Rosie felt proud of the repair, and she clipped her pouch securely before watching Tang's next race.
+36. **Narration:** Rosie felt proud of the repair, and she clipped her pouch securely before watching Tang's next race.
    `Shot: medium shot. Scene: the covered marble club pavilion. Action: ROSIE relaxes into a small pleased expression, while bamboo blinds flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pushes in. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 18 — One step at a time · day
 **Still:** `High oblique view across the scene in the covered marble club pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TORI stands with her green straw tilted kindly. The lived-in setting includes marble tracks, felt mats, sorting bowls, a low display rail, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated ruby red and mint accents. Bamboo blinds flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-36. **Narration:** **加油** (jiāyóu) = go for it. "One step at a time, one sip at a time," said Rosie.
+37. **Narration:** **加油** (jiāyóu) = go for it. "One step at a time, one sip at a time," said Rosie.
    `Shot: medium shot. Scene: the covered marble club pavilion. Action: ROSIE gives one proud little bounce in place, while bamboo blinds flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 19 — Goodnight · night
 **Still:** `High oblique view across the bedroom pillow in Rosie's cozy bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, tucked beneath a quilt with lid and straw visible, eyes comfortably closed; CAT the little blue penguin asleep on a soft pillow, yellow scarf visible. The lived-in setting includes a marble sorting bowl, a little keepsake picture, a quilt, a plain lamp, a soft pillow. A plain bedside lamp lights the cozy bedroom at night, with saturated rose pink and warm amber accents. Fairy lights twinkle in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-37. **Narration:** Goodnight, careful hands and repaired little accidents. Goodnight, marbles, resting in their bowls.
+38. **Narration:** Goodnight, careful hands and repaired little accidents. Goodnight, marbles, resting in their bowls.
    `Shot: medium shot. Scene: Rosie's cozy bedroom. Action: ROSIE's eyes soften above her quilt, while fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
-38. **Narration:** Goodnight, Cat and your tiny audience. May kindness help you begin again.
-   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT gives a slow contented blink, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
+39. **Narration:** Goodnight, Cat, bowing scarf now still. May kindness help you begin again.
+   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT settles comfortably on her pillow, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
 
 1. **Key scene** — `Close view through soft foreground shapes in the covered marble club pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TANG holds a gentle attentive pose; MOM holds a gentle attentive pose; HONG holds a gentle attentive pose; DAI holds a gentle attentive pose. The lived-in setting includes marble tracks, felt mats, sorting bowls, a low display rail, padded stools. Window daylight and a warm practical lamp illuminate the scene, with saturated ruby red and mint accents. Bamboo blinds flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 2. **Character views** — generate each of these as a separate image:
    - `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
-   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
+   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Hóng Dòu, a plump reddish-brown bean grandmother with kind eyes, a little apron and a tiny wooden ladle; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`

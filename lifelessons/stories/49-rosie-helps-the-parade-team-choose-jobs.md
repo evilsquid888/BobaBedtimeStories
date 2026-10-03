@@ -3,6 +3,7 @@
 **Life skill:** Allocate team roles fairly by hearing preferences and checking agreement.
 **Magic sentence:** "Which job would each of us like?"
 **Coaches:** Gallo 🇨🇷 + Pinto 🇨🇷
+**Cat’s role:** helper
 **Setting:** the neighborhood club's folding wagon store (practice), then the parade float preparation barn (real outing).
 
 ---
@@ -19,7 +20,7 @@ Gallo was a cheerful rice grain in a palm hat.
 
 Pinto was a glossy black bean carrying a spoon.
 
-Cat the penguin napped on a folded wagon-seat cushion.
+Cat the penguin sorted parade props. A ribbon loop became a very grand, very temporary penguin moustache.
 
 Gallo showed the pretend jobs and asked Pinto, **"Which job would each of us like?"** They listened before choosing.
 
@@ -49,7 +50,7 @@ Gallo pointed at his ribbon hat. "Rise and pinto! I have accidentally volunteere
 
 Mom brought Rosie and Tang to the barn, with its dragon float, flower crates, and ribbon spools.
 
-Cat dozed on a padded wagon seat: a small passenger providing a very well-rested service.
+Cat chose carrying the light ribbon basket, leaving Tang and Rosie room to discuss their jobs.
 
 Mom named two jobs: sorting foam flowers and pairing ribbon bundles. Grown-ups handled the float.
 
@@ -79,9 +80,9 @@ Step five: she checked her job: match flowers in this crate. Tang explained his 
 
 Gallo straightened his hat. Pinto lifted his spoon. "Better together. Each department has located its breakfast ingredient."
 
-Cat peeked from the padded wagon seat. "My assigned job is passenger. I have studied the role thoroughly."
+Cat delivered the basket. "Supplies arriving! My moustache resigned; it preferred a career in decorations."
 
-Rosie laughed and matched a flower. After their first batches, both helpers would try the other job.
+Rosie matched a flower. Both helpers would try the other job later.
 
 Tori met Rosie at the dragon-head display and admired the neatly sorted flowers.
 
@@ -116,20 +117,20 @@ Rosie felt pleased. Different jobs could still contribute to one shared celebrat
 
 Goodnight, little team and carefully chosen jobs.
 Goodnight, flowers and bright ribbon bundles.
-Goodnight, Cat, professional passenger.
+Goodnight, Cat, ribbon basket neatly packed.
 May working together leave room for every voice.
 
 ---
 
 ## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~4:29 (est.) · **Narrated words:** 605 · **Stills:** 19 · **Beats:** 40
+**Runtime:** ~4:30 (est.) · **Narrated words:** 606 · **Stills:** 19 · **Beats:** 40
 **Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 **Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
 **Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: none.
 - `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf`
 - `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 - `MOM` → Mom, the tall rose-milk-tea mom cup with the pink lid · `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`
 - `GALLO` → Gallo, the glossy rice grain with the little palm hat · `Gallo, a plump glossy white rice grain speckled with golden fried bits and tiny red pepper and cilantro flecks, a little woven palm hat, cheerful eyes and tiny arms and legs`
@@ -146,11 +147,11 @@ May working together leave room for every voice.
    `Shot: medium shot. Scene: the neighborhood club's folding wagon store. Action: ROSIE relaxes into a small pleased expression, while ribbon ends flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 2 — The visiting coaches · day
-**Still:** `High diagonal view across the task in the neighborhood club's folding wagon store: GALLO holds a gentle attentive pose; PINTO holds a gentle attentive pose; CAT the little blue penguin dozing on a folded wagon-seat cushion, yellow scarf visible. The lived-in setting includes a folded wagon, paper role pictures, ribbon bundles, foam flowers, a little crate. Window daylight and a warm practical lamp illuminate the scene, with saturated turquoise and saffron accents. Ribbon ends flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-4. **Narration:** Gallo was a cheerful rice grain in a palm hat. Pinto was a glossy
+**Still:** `High diagonal view across the task in the neighborhood club's folding wagon store: GALLO holds a gentle attentive pose; PINTO holds a gentle attentive pose; CAT the little blue penguin holding a light ribbon basket beside parade props, yellow scarf visible. The lived-in setting includes a folded wagon, paper role pictures, ribbon bundles, foam flowers, a little crate. Window daylight and a warm practical lamp illuminate the scene, with saturated turquoise and saffron accents. Ribbon ends flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+4. **Narration:** Gallo was a cheerful rice grain in a palm hat. Pinto was a glossy black bean carrying a
    `Shot: medium shot. Scene: the neighborhood club's folding wagon store. Action: GALLO gives a reassuring little nod, while ribbon ends flutter. Character: the glossy rice grain with the little palm hat — attentive and gently encouraged. Camera: slowly pans right. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-5. **Narration:** black bean carrying a spoon. Cat the penguin napped on a folded wagon-seat cushion.
-   `Shot: medium close-up. Scene: the neighborhood club's folding wagon store. Action: CAT gives a slow contented blink, while ribbon ends flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+5. **Narration:** spoon. Cat the penguin sorted parade props. A ribbon loop became a very grand, very temporary penguin moustache.
+   `Shot: medium close-up. Scene: the neighborhood club's folding wagon store. Action: CAT checks one ribbon bundle, while ribbon ends flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 3 — A coach shows the way · day
 **Still:** `Close view through soft foreground shapes in the neighborhood club's folding wagon store: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; GALLO holds a gentle attentive pose; PINTO holds a gentle attentive pose. The lived-in setting includes a folded wagon, paper role pictures, ribbon bundles, foam flowers, a little crate. Window daylight and a warm practical lamp illuminate the scene, with saturated turquoise and saffron accents. Ribbon ends flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -196,11 +197,11 @@ May working together leave room for every voice.
    `Shot: medium close-up. Scene: the neighborhood club's folding wagon store. Action: GALLO gives a thoughtful slow blink, while ribbon ends flutter. Character: the glossy rice grain with the little palm hat — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 10 — The real outing · day
-**Still:** `Close view from the tabletop edge in the parade float preparation barn: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin dozing on a spare padded wagon seat, yellow scarf visible; TANG holds a gentle attentive pose. The lived-in setting includes a dragon-shaped float, flower crates, ribbon spools, soft drum props, padded wagon seats. Window daylight and a warm practical lamp illuminate the scene, with saturated scarlet and cream accents. Banner tassels sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Close view from the tabletop edge in the parade float preparation barn: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin carrying a small basket of ribbon bundles, yellow scarf visible; TANG holds a gentle attentive pose. The lived-in setting includes a dragon-shaped float, flower crates, ribbon spools, soft drum props, padded wagon seats. Window daylight and a warm practical lamp illuminate the scene, with saturated scarlet and cream accents. Banner tassels sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 17. **Narration:** Mom brought Rosie and Tang to the barn, with its dragon float, flower crates, and ribbon spools.
    `Shot: medium shot. Scene: the parade float preparation barn. Action: ROSIE lifts her straw with hopeful curiosity, while banner tassels sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-18. **Narration:** Cat dozed on a padded wagon seat: a small passenger providing a very well-rested service.
-   `Shot: medium close-up. Scene: the parade float preparation barn. Action: CAT gives a slow contented blink, while banner tassels sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+18. **Narration:** Cat chose carrying the light ribbon basket, leaving Tang and Rosie room to discuss their jobs.
+   `Shot: medium close-up. Scene: the parade float preparation barn. Action: CAT places one light ribbon basket beside the worktable, while banner tassels sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 19. **Narration:** Mom named two jobs: sorting foam flowers and pairing ribbon bundles. Grown-ups handled the float.
    `Shot: medium shot. Scene: the parade float preparation barn. Action: MOM relaxes into a small pleased expression, while banner tassels sway. Character: the tall rose-milk-tea mom cup with the pink lid — attentive and gently encouraged. Camera: holds still. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
@@ -246,10 +247,10 @@ May working together leave room for every voice.
    `Shot: medium shot. Scene: the parade float preparation barn. Action: ROSIE relaxes into a small pleased expression, while banner tassels sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 16 — Cat's contribution · day
-**Still:** `Wide view framed by the doorway in the parade float preparation barn: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin dozing on a spare padded wagon seat, yellow scarf visible; TANG holds a gentle attentive pose. The lived-in setting includes a dragon-shaped float, flower crates, ribbon spools, soft drum props, padded wagon seats. Window daylight and a warm practical lamp illuminate the scene, with saturated scarlet and cream accents. Banner tassels sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-33. **Narration:** Cat peeked from the padded wagon seat. "My assigned job is passenger. I have studied the role thoroughly."
-   `Shot: medium shot. Scene: the parade float preparation barn. Action: CAT gives a slow contented blink, while banner tassels sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-34. **Narration:** Rosie laughed and matched a flower. After their first batches, both helpers would try the other job.
+**Still:** `Wide view framed by the doorway in the parade float preparation barn: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin carrying a small basket of ribbon bundles, yellow scarf visible; TANG holds a gentle attentive pose. The lived-in setting includes a dragon-shaped float, flower crates, ribbon spools, soft drum props, padded wagon seats. Window daylight and a warm practical lamp illuminate the scene, with saturated scarlet and cream accents. Banner tassels sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+33. **Narration:** Cat delivered the basket. "Supplies arriving! My moustache resigned; it preferred a career in decorations."
+   `Shot: medium shot. Scene: the parade float preparation barn. Action: CAT places one light ribbon basket beside the worktable, while banner tassels sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+34. **Narration:** Rosie matched a flower. Both helpers would try the other job later.
    `Shot: medium close-up. Scene: the parade float preparation barn. Action: ROSIE gives a thoughtful slow blink, while banner tassels sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 17 — Big sister's cheer · day
@@ -270,15 +271,15 @@ May working together leave room for every voice.
 **Still:** `High oblique view across the bedroom pillow in Rosie's cozy bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, tucked beneath a quilt with lid and straw visible, eyes comfortably closed; CAT the little blue penguin asleep on a soft pillow, yellow scarf visible. The lived-in setting includes a little role-picture card, a little keepsake picture, a quilt, a plain lamp, a soft pillow. A plain bedside lamp lights the cozy bedroom at night, with saturated rose pink and warm amber accents. Fairy lights twinkle in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 39. **Narration:** Goodnight, little team and carefully chosen jobs. Goodnight, flowers and bright ribbon bundles.
    `Shot: medium shot. Scene: Rosie's cozy bedroom. Action: ROSIE's eyes soften above her quilt, while fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
-40. **Narration:** Goodnight, Cat, professional passenger. May working together leave room for every voice.
-   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT gives a slow contented blink, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
+40. **Narration:** Goodnight, Cat, ribbon basket neatly packed. May working together leave room for every voice.
+   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT settles comfortably on her pillow, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
 
 1. **Key scene** — `Low diagonal view with layered foreground in the parade float preparation barn: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TANG holds a gentle attentive pose; MOM holds a gentle attentive pose; GALLO holds a gentle attentive pose; PINTO holds a gentle attentive pose. The lived-in setting includes a dragon-shaped float, flower crates, ribbon spools, soft drum props, padded wagon seats. Window daylight and a warm practical lamp illuminate the scene, with saturated scarlet and cream accents. Banner tassels sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 2. **Character views** — generate each of these as a separate image:
    - `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
-   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
+   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Gallo, a plump glossy white rice grain speckled with golden fried bits and tiny red pepper and cilantro flecks, a little woven palm hat, cheerful eyes and tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`

@@ -3,6 +3,7 @@
 **Life skill:** Ask before helping and let the other person choose how much help to receive.
 **Magic sentence:** "Would you like help, or time to try?"
 **Coaches:** Boba 🇹🇼 + Estrella 🇨🇷
+**Cat’s role:** kung fu practitioner
 **Setting:** the family's chess-board cabinet (practice), then the hotel lobby's giant puzzle corner (real outing).
 
 ---
@@ -19,7 +20,7 @@ Boba was a glossy pearl bouncing gently.
 
 Estrella was a turtle with kind eyes.
 
-Cat the penguin napped on a felt cushion beside the cabinet.
+Cat the penguin practiced a gentle kung fu stance. Estrella chose to watch instead of joining.
 
 Boba reached toward Estrella's puzzle, paused, and asked, **"Would you like help, or time to try?"** She chose time.
 
@@ -49,7 +50,7 @@ Boba examined a round chess piece. "An excellent family resemblance. Slightly le
 
 Mom accompanied Rosie to the hotel puzzle corner, where broad pieces waited beside a giant floor picture.
 
-Cat claimed a padded stool, avoiding any suggestion that the puzzle might be missing a penguin.
+Cat asked before moving the puzzle tray, then waited while Tang worked on his own piece.
 
 Tang studied a corner piece. Rosie thought she recognized its place beside the picture of a yellow umbrella.
 
@@ -79,9 +80,9 @@ Step five: he kept control of the task. When it clicked, Rosie smiled at what Ta
 
 Estrella nodded. Boba admired the umbrella picture. "Unfortunately, too flat to shelter a very round pearl."
 
-Cat opened one eye from the stool. "If you need a hint, the most comfortable piece is this cushion."
+Cat offered to steady the tray. Tang agreed. "One steady flipper, not one takeover penguin," she said.
 
-Tang laughed, then thanked Rosie for the hint. The picture was growing, and both friends still had parts to do.
+Tang thanked Rosie. Both friends still had puzzle parts to try.
 
 Tori met Rosie beside the enormous umbrella stand and heard about Tang's careful corner-piece discovery.
 
@@ -116,20 +117,20 @@ Rosie felt pleased. Helping could make someone else's turn easier without changi
 
 Goodnight, puzzle pieces finding their own places.
 Goodnight, helpful hints and patient hands.
-Goodnight, Cat, comfortable piece.
+Goodnight, Cat, one steady helpful flipper.
 May care leave room for your own discoveries.
 
 ---
 
 ## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~4:30 (est.) · **Narrated words:** 605 · **Stills:** 19 · **Beats:** 41
+**Runtime:** ~4:28 (est.) · **Narrated words:** 601 · **Stills:** 19 · **Beats:** 40
 **Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 **Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
 **Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: none.
 - `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf`
 - `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 - `MOM` → Mom, the tall rose-milk-tea mom cup with the pink lid · `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`
 - `BOBA` → Boba, the glossy brown tapioca pearl with the bright grin · `Boba, a round glossy dark-brown tapioca pearl with bright eyes, rosy cheeks and tiny arms and legs`
@@ -146,11 +147,11 @@ May care leave room for your own discoveries.
    `Shot: medium shot. Scene: the family's chess-board cabinet. Action: ROSIE relaxes into a small pleased expression, while a curtain edge sways. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 2 — The visiting coaches · day
-**Still:** `Diagonal view at cup height in the family's chess-board cabinet: BOBA holds a gentle attentive pose; ESTRELLA holds a gentle attentive pose; CAT the little blue penguin dozing on a felt cushion beside the cabinet, yellow scarf visible. The lived-in setting includes wooden chess pieces, a felt board, small puzzles, a sorting drawer, a low chair. Window daylight and a warm practical lamp illuminate the scene, with saturated olive green and warm orange accents. A curtain edge sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Diagonal view at cup height in the family's chess-board cabinet: BOBA holds a gentle attentive pose; ESTRELLA holds a gentle attentive pose; CAT the little blue penguin holding a gentle grounded kung fu stance on a flat mat, yellow scarf visible. The lived-in setting includes wooden chess pieces, a felt board, small puzzles, a sorting drawer, a low chair. Window daylight and a warm practical lamp illuminate the scene, with saturated olive green and warm orange accents. A curtain edge sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 4. **Narration:** Boba was a glossy pearl bouncing gently. Estrella was a turtle with kind eyes.
    `Shot: medium shot. Scene: the family's chess-board cabinet. Action: BOBA gives a reassuring little nod, while a curtain edge sways. Character: the glossy brown tapioca pearl with the bright grin — attentive and gently encouraged. Camera: slowly pans right. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-5. **Narration:** Cat the penguin napped on a felt cushion beside the cabinet.
-   `Shot: medium close-up. Scene: the family's chess-board cabinet. Action: CAT gives a slow contented blink, while a curtain edge sways. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
+5. **Narration:** Cat the penguin practiced a gentle kung fu stance. Estrella chose to watch instead of joining.
+   `Shot: medium close-up. Scene: the family's chess-board cabinet. Action: CAT settles into a gentle balanced stance, while a curtain edge sways. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 3 — A coach shows the way · day
 **Still:** `Tight view of the central character in the family's chess-board cabinet: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; BOBA holds a gentle attentive pose; ESTRELLA holds a gentle attentive pose. The lived-in setting includes wooden chess pieces, a felt board, small puzzles, a sorting drawer, a low chair. Window daylight and a warm practical lamp illuminate the scene, with saturated olive green and warm orange accents. A curtain edge sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -198,11 +199,11 @@ May care leave room for your own discoveries.
    `Shot: medium close-up. Scene: the family's chess-board cabinet. Action: BOBA gives a thoughtful slow blink, while a curtain edge sways. Character: the glossy brown tapioca pearl with the bright grin — attentive and gently encouraged. Camera: slowly pulls back. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 10 — The real outing · day
-**Still:** `High oblique view across the scene in the hotel lobby's giant puzzle corner: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin dozing on a padded stool beside the puzzle trays, yellow scarf visible; TANG holds a gentle attentive pose. The lived-in setting includes a giant floor puzzle, picture trays, padded stools, an umbrella stand, a brass lamp. Window daylight and a warm practical lamp illuminate the scene, with saturated royal blue and copper accents. Lamp reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `High oblique view across the scene in the hotel lobby's giant puzzle corner: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin holding one flipper beside the puzzle tray with a patient smile, yellow scarf visible; TANG holds a gentle attentive pose. The lived-in setting includes a giant floor puzzle, picture trays, padded stools, an umbrella stand, a brass lamp. Window daylight and a warm practical lamp illuminate the scene, with saturated royal blue and copper accents. Lamp reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 18. **Narration:** Mom accompanied Rosie to the hotel puzzle corner, where broad pieces waited beside a giant floor picture.
    `Shot: medium shot. Scene: the hotel lobby's giant puzzle corner. Action: ROSIE lifts her straw with hopeful curiosity, while lamp reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-19. **Narration:** Cat claimed a padded stool, avoiding any suggestion that the puzzle might be missing a penguin.
-   `Shot: medium close-up. Scene: the hotel lobby's giant puzzle corner. Action: CAT gives a slow contented blink, while lamp reflections shimmer. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
+19. **Narration:** Cat asked before moving the puzzle tray, then waited while Tang worked on his own piece.
+   `Shot: medium close-up. Scene: the hotel lobby's giant puzzle corner. Action: CAT steadies one edge of the puzzle tray, while lamp reflections shimmer. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 20. **Narration:** Tang studied a corner piece. Rosie thought she recognized its place beside the picture of a yellow umbrella.
    `Shot: medium shot. Scene: the hotel lobby's giant puzzle corner. Action: ROSIE relaxes into a small pleased expression, while lamp reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
@@ -246,41 +247,39 @@ May care leave room for your own discoveries.
    `Shot: medium shot. Scene: the hotel lobby's giant puzzle corner. Action: ROSIE relaxes into a small pleased expression, while lamp reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 16 — Cat's contribution · day
-**Still:** `Side view through the foreground in the hotel lobby's giant puzzle corner: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin dozing on a padded stool beside the puzzle trays, yellow scarf visible; TANG holds a gentle attentive pose. The lived-in setting includes a giant floor puzzle, picture trays, padded stools, an umbrella stand, a brass lamp. Window daylight and a warm practical lamp illuminate the scene, with saturated royal blue and copper accents. Lamp reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-33. **Narration:** Cat opened one eye from the stool. "If you need a hint,
-   `Shot: medium shot. Scene: the hotel lobby's giant puzzle corner. Action: CAT gives a slow contented blink, while lamp reflections shimmer. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-34. **Narration:** the most comfortable piece is this cushion." Tang laughed, then thanked Rosie for the hint.
+**Still:** `Side view through the foreground in the hotel lobby's giant puzzle corner: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin holding one flipper beside the puzzle tray with a patient smile, yellow scarf visible; TANG holds a gentle attentive pose. The lived-in setting includes a giant floor puzzle, picture trays, padded stools, an umbrella stand, a brass lamp. Window daylight and a warm practical lamp illuminate the scene, with saturated royal blue and copper accents. Lamp reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+33. **Narration:** Cat offered to steady the tray. Tang agreed. "One steady flipper, not one takeover penguin," she said.
+   `Shot: medium shot. Scene: the hotel lobby's giant puzzle corner. Action: CAT steadies one edge of the puzzle tray, while lamp reflections shimmer. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
+34. **Narration:** Tang thanked Rosie. Both friends still had puzzle parts to try.
    `Shot: medium close-up. Scene: the hotel lobby's giant puzzle corner. Action: ROSIE gives a thoughtful slow blink, while lamp reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-35. **Narration:** The picture was growing, and both friends still had parts to do.
-   `Shot: medium shot. Scene: the hotel lobby's giant puzzle corner. Action: CAT gives a slow contented blink, while lamp reflections shimmer. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: holds still. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 17 — Big sister's cheer · day
 **Still:** `Tight view at straw height in the hotel lobby's giant puzzle corner: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TORI stands with her green straw tilted kindly. The lived-in setting includes a giant floor puzzle, picture trays, padded stools, an umbrella stand, a brass lamp. Window daylight and a warm practical lamp illuminate the scene, with saturated royal blue and copper accents. Lamp reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-36. **Narration:** Tori met Rosie beside the enormous umbrella stand and heard about Tang's careful corner-piece discovery.
+35. **Narration:** Tori met Rosie beside the enormous umbrella stand and heard about Tang's careful corner-piece discovery.
    `Shot: medium shot. Scene: the hotel lobby's giant puzzle corner. Action: ROSIE relaxes into a small pleased expression, while lamp reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-37. **Narration:** "You offered help and respected the amount. You've got this, little sip," she said with a proud nod.
+36. **Narration:** "You offered help and respected the amount. You've got this, little sip," she said with a proud nod.
    `Shot: medium close-up. Scene: the hotel lobby's giant puzzle corner. Action: TORI gives a thoughtful slow blink, while lamp reflections shimmer. Character: the tall golden lychee-tea cup with the green straw — attentive and gently encouraged. Camera: holds still. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-38. **Narration:** Rosie felt pleased. Helping could make someone else's turn easier without changing whose turn it was.
+37. **Narration:** Rosie felt pleased. Helping could make someone else's turn easier without changing whose turn it was.
    `Shot: medium shot. Scene: the hotel lobby's giant puzzle corner. Action: ROSIE relaxes into a small pleased expression, while lamp reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pushes in. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 18 — One step at a time · day
 **Still:** `Three-quarter view across the work surface in the hotel lobby's giant puzzle corner: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TORI stands with her green straw tilted kindly. The lived-in setting includes a giant floor puzzle, picture trays, padded stools, an umbrella stand, a brass lamp. Window daylight and a warm practical lamp illuminate the scene, with saturated royal blue and copper accents. Lamp reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-39. **Narration:** **加油** (jiāyóu) = go for it. "One step at a time, one sip at a time," said Rosie.
+38. **Narration:** **加油** (jiāyóu) = go for it. "One step at a time, one sip at a time," said Rosie.
    `Shot: medium shot. Scene: the hotel lobby's giant puzzle corner. Action: ROSIE gives one proud little bounce in place, while lamp reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 19 — Goodnight · night
 **Still:** `High oblique view across the bedroom pillow in Rosie's cozy bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, tucked beneath a quilt with lid and straw visible, eyes comfortably closed; CAT the little blue penguin asleep on a soft pillow, yellow scarf visible. The lived-in setting includes a large puzzle piece, a little keepsake picture, a quilt, a plain lamp, a soft pillow. A plain bedside lamp lights the cozy bedroom at night, with saturated rose pink and warm amber accents. Fairy lights twinkle in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-40. **Narration:** Goodnight, puzzle pieces finding their own places. Goodnight, helpful hints and patient hands.
+39. **Narration:** Goodnight, puzzle pieces finding their own places. Goodnight, helpful hints and patient hands.
    `Shot: medium shot. Scene: Rosie's cozy bedroom. Action: ROSIE's eyes soften above her quilt, while fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
-41. **Narration:** Goodnight, Cat, comfortable piece. May care leave room for your own discoveries.
-   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT gives a slow contented blink, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
+40. **Narration:** Goodnight, Cat, one steady helpful flipper. May care leave room for your own discoveries.
+   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT settles comfortably on her pillow, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
 
 1. **Key scene** — `High angle over the foreground props in the hotel lobby's giant puzzle corner: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TANG holds a gentle attentive pose; MOM holds a gentle attentive pose; BOBA holds a gentle attentive pose; ESTRELLA holds a gentle attentive pose. The lived-in setting includes a giant floor puzzle, picture trays, padded stools, an umbrella stand, a brass lamp. Window daylight and a warm practical lamp illuminate the scene, with saturated royal blue and copper accents. Lamp reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 2. **Character views** — generate each of these as a separate image:
    - `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
-   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
+   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Boba, a round glossy dark-brown tapioca pearl with bright eyes, rosy cheeks and tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`

@@ -3,6 +3,7 @@
 **Life skill:** Tell the truth about an accidental break and accept help repairing it.
 **Magic sentence:** "I did it, and I need help fixing it."
 **Coaches:** Aiyu 🇹🇼 + Niko Nigiri 🇯🇵
+**Cat’s role:** hip-hop dancer
 **Setting:** the sewing nook under the stairs (practice), then the neighborhood puppet theater workshop (real outing).
 
 ---
@@ -19,7 +20,7 @@ Aiyu's golden jelly glowed gently.
 
 Niko was a remarkably tidy salmon nigiri.
 
-Cat the penguin napped on a basket of soft fabric scraps.
+Cat the penguin tried a hip-hop heel tap. Her scarf performed an entirely different dance.
 
 Niko loosened a practice ribbon and told Aiyu, **"I did it, and I need help fixing it."**
 
@@ -49,7 +50,7 @@ Niko sorted the pretend repairs into tidy trays. "Everything has a place. Even m
 
 At the puppet workshop, Mom helped Rosie find a low table beneath bright hanging cloth puppets.
 
-Cat napped on a folded spare curtain, looking like a blue mountain in a very small landscape.
+Cat practiced a tiny heel tap in the clear floor space, safely away from the ribbons.
 
 Rosie chose a ribbon for a dragon puppet. Its enormous cloth eyebrows seemed delighted by the choice.
 
@@ -79,9 +80,9 @@ Step five: Rosie held the fabric steady as agreed, keeping her tiny hands away f
 
 Aiyu glowed warmly. Niko checked the finished tail. "Neatly repaired. The dragon may resume its spaghetti duties."
 
-Cat peeked from her curtain pile. "If this is a puppet show, my part is the quiet mountain."
+Cat held up her twisted scarf. "My dance needs work. That's the truth, with extra knots."
 
-The dragon's repaired ribbon swayed. Rosie felt lighter now that the true story had helped them fix it.
+Rosie laughed. An honest answer had made room for a repair.
 
 Tori joined Rosie at the theater's little ticket window, beneath a garland of cloth puppet shoes.
 
@@ -116,20 +117,20 @@ Rosie smiled. A mistake was easier to mend when she did not have to carry a secr
 
 Goodnight, truthful little voice and ribbon tails.
 Goodnight, dragon, ready for another show.
-Goodnight, Cat, our quiet mountain.
+Goodnight, Cat, scarf untangled at last.
 May honest words bring gentle helping hands.
 
 ---
 
 ## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~4:25 (est.) · **Narrated words:** 595 · **Stills:** 19 · **Beats:** 39
+**Runtime:** ~4:23 (est.) · **Narrated words:** 591 · **Stills:** 19 · **Beats:** 39
 **Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 **Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
 **Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: none.
 - `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf`
 - `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 - `MOM` → Mom, the tall rose-milk-tea mom cup with the pink lid · `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`
 - `AIYU` → Aiyu, the clear golden jelly cube with the lemon seeds · `Aiyu, a small wobbly cube of clear golden aiyu jelly with tiny lemon seeds floating inside, a shy gentle smile, soft eyes, tiny arms and legs, glowing faintly amber`
@@ -145,11 +146,11 @@ May honest words bring gentle helping hands.
    `Shot: medium shot. Scene: the sewing nook under the stairs. Action: ROSIE relaxes into a small pleased expression, while ribbon ends flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 2 — The visiting coaches · day
-**Still:** `Side view through the foreground in the sewing nook under the stairs: AIYU holds a gentle attentive pose; NIKO holds a gentle attentive pose; CAT the little blue penguin dozing on a basket of soft fabric scraps, yellow scarf visible. The lived-in setting includes ribbon reels, fabric scraps, a pincushion-shaped toy, a mending basket, blunt practice scissors. Window daylight and a warm practical lamp illuminate the scene, with saturated cranberry and cream accents. Ribbon ends flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Side view through the foreground in the sewing nook under the stairs: AIYU holds a gentle attentive pose; NIKO holds a gentle attentive pose; CAT the little blue penguin holding a playful hip-hop heel-tap pose in clear floor space, yellow scarf visible. The lived-in setting includes ribbon reels, fabric scraps, a pincushion-shaped toy, a mending basket, blunt practice scissors. Window daylight and a warm practical lamp illuminate the scene, with saturated cranberry and cream accents. Ribbon ends flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 4. **Narration:** Aiyu's golden jelly glowed gently. Niko was a remarkably tidy salmon nigiri.
    `Shot: medium shot. Scene: the sewing nook under the stairs. Action: AIYU gives a reassuring little nod, while ribbon ends flutter. Character: the clear golden jelly cube with the lemon seeds — attentive and gently encouraged. Camera: slowly pans right. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-5. **Narration:** Cat the penguin napped on a basket of soft fabric scraps.
-   `Shot: medium close-up. Scene: the sewing nook under the stairs. Action: CAT gives a slow contented blink, while ribbon ends flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+5. **Narration:** Cat the penguin tried a hip-hop heel tap. Her scarf performed an entirely different dance.
+   `Shot: medium close-up. Scene: the sewing nook under the stairs. Action: CAT makes one small heel tap, while ribbon ends flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 3 — A coach shows the way · day
 **Still:** `Tight view at straw height in the sewing nook under the stairs: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; AIYU holds a gentle attentive pose; NIKO holds a gentle attentive pose. The lived-in setting includes ribbon reels, fabric scraps, a pincushion-shaped toy, a mending basket, blunt practice scissors. Window daylight and a warm practical lamp illuminate the scene, with saturated cranberry and cream accents. Ribbon ends flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -195,11 +196,11 @@ May honest words bring gentle helping hands.
    `Shot: medium close-up. Scene: the sewing nook under the stairs. Action: NIKO gives a thoughtful slow blink, while ribbon ends flutter. Character: the salmon nigiri with the neat rice body — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 10 — The real outing · day
-**Still:** `Side view at cup height in the neighborhood puppet theater workshop: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin dozing on a folded puppet curtain, yellow scarf visible. The lived-in setting includes cloth puppets, ribbon tails, wooden stages, repair trays, curtain tassels. Window daylight and a warm practical lamp illuminate the scene, with saturated royal blue and tangerine accents. Fabric tassels sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Side view at cup height in the neighborhood puppet theater workshop: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin standing with one heel raised in a small hip-hop pose away from ribbon displays, yellow scarf visible. The lived-in setting includes cloth puppets, ribbon tails, wooden stages, repair trays, curtain tassels. Window daylight and a warm practical lamp illuminate the scene, with saturated royal blue and tangerine accents. Fabric tassels sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 17. **Narration:** At the puppet workshop, Mom helped Rosie find a low table beneath bright hanging cloth puppets.
    `Shot: medium shot. Scene: the neighborhood puppet theater workshop. Action: ROSIE lifts her straw with hopeful curiosity, while fabric tassels sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-18. **Narration:** Cat napped on a folded spare curtain, looking like a blue mountain in a very small landscape.
-   `Shot: medium close-up. Scene: the neighborhood puppet theater workshop. Action: CAT gives a slow contented blink, while fabric tassels sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+18. **Narration:** Cat practiced a tiny heel tap in the clear floor space, safely away from the ribbons.
+   `Shot: medium close-up. Scene: the neighborhood puppet theater workshop. Action: CAT makes one small heel tap, while fabric tassels sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 19. **Narration:** Rosie chose a ribbon for a dragon puppet. Its enormous cloth eyebrows seemed delighted by the choice.
    `Shot: medium shot. Scene: the neighborhood puppet theater workshop. Action: ROSIE relaxes into a small pleased expression, while fabric tassels sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
@@ -243,10 +244,10 @@ May honest words bring gentle helping hands.
    `Shot: medium shot. Scene: the neighborhood puppet theater workshop. Action: AIYU relaxes into a small pleased expression, while fabric tassels sway. Character: the clear golden jelly cube with the lemon seeds — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 16 — Cat's contribution · day
-**Still:** `Wide establishing view with deep perspective in the neighborhood puppet theater workshop: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin dozing on a folded puppet curtain, yellow scarf visible; MOM holds a gentle attentive pose. The lived-in setting includes cloth puppets, ribbon tails, wooden stages, repair trays, curtain tassels. Window daylight and a warm practical lamp illuminate the scene, with saturated royal blue and tangerine accents. Fabric tassels sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-32. **Narration:** Cat peeked from her curtain pile. "If this is a puppet show, my part is the quiet mountain."
-   `Shot: medium shot. Scene: the neighborhood puppet theater workshop. Action: CAT gives a slow contented blink, while fabric tassels sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-33. **Narration:** The dragon's repaired ribbon swayed. Rosie felt lighter now that the true story had helped them fix it.
+**Still:** `Wide establishing view with deep perspective in the neighborhood puppet theater workshop: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin standing with one heel raised in a small hip-hop pose away from ribbon displays, yellow scarf visible; MOM holds a gentle attentive pose. The lived-in setting includes cloth puppets, ribbon tails, wooden stages, repair trays, curtain tassels. Window daylight and a warm practical lamp illuminate the scene, with saturated royal blue and tangerine accents. Fabric tassels sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+32. **Narration:** Cat held up her twisted scarf. "My dance needs work. That's the truth, with extra knots."
+   `Shot: medium shot. Scene: the neighborhood puppet theater workshop. Action: CAT makes one small heel tap, while fabric tassels sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+33. **Narration:** Rosie laughed. An honest answer had made room for a repair.
    `Shot: medium close-up. Scene: the neighborhood puppet theater workshop. Action: ROSIE gives a thoughtful slow blink, while fabric tassels sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 17 — Big sister's cheer · day
@@ -267,15 +268,15 @@ May honest words bring gentle helping hands.
 **Still:** `High oblique view across the bedroom pillow in Rosie's cozy bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, tucked beneath a quilt with lid and straw visible, eyes comfortably closed; CAT the little blue penguin asleep on a soft pillow, yellow scarf visible. The lived-in setting includes a loose puppet ribbon, a little keepsake picture, a quilt, a plain lamp, a soft pillow. A plain bedside lamp lights the cozy bedroom at night, with saturated rose pink and warm amber accents. Fairy lights twinkle in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 38. **Narration:** Goodnight, truthful little voice and ribbon tails. Goodnight, dragon, ready for another show.
    `Shot: medium shot. Scene: Rosie's cozy bedroom. Action: ROSIE's eyes soften above her quilt, while fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
-39. **Narration:** Goodnight, Cat, our quiet mountain. May honest words bring gentle helping hands.
-   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT gives a slow contented blink, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
+39. **Narration:** Goodnight, Cat, scarf untangled at last. May honest words bring gentle helping hands.
+   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT settles comfortably on her pillow, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
 
 1. **Key scene** — `High oblique view across the scene in the neighborhood puppet theater workshop: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; AIYU holds a gentle attentive pose; NIKO holds a gentle attentive pose. The lived-in setting includes cloth puppets, ribbon tails, wooden stages, repair trays, curtain tassels. Window daylight and a warm practical lamp illuminate the scene, with saturated royal blue and tangerine accents. Fabric tassels sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 2. **Character views** — generate each of these as a separate image:
    - `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
-   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
+   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Aiyu, a small wobbly cube of clear golden aiyu jelly with tiny lemon seeds floating inside, a shy gentle smile, soft eyes, tiny arms and legs, glowing faintly amber; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`

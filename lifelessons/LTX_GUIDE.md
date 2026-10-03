@@ -15,7 +15,7 @@ Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 - **14–20 stills** ("shots"), **1–3 beats per still**, **36–48 beats** in all; the whole film ≤ 5:00 by `check_storyboard.py`'s estimate.
 - One beat = one clip ≈ its narration length (≤ 18 words, ~6–7 s). The narration is the master clock; clips are never slowed down to fill it.
 - A run of more than 3 beats on one still restarts the same pose at every cut (122) — split it into a new still with a different angle (wide → close on Rosie → close on the coach).
-- Day vs night: the pipeline picks the still look per shot. It goes **night** if the still prompt says night, moon, bedtime, stars, evening, dusk, asleep, sleep(s/ing) or night-light. **In a day shot, Cat is "napping" or "dozing", never "asleep"** — or the whole scene turns to lamplight.
+- Day vs night: the pipeline picks the still look per shot. It goes **night** if the still prompt says night, moon, bedtime, stars, evening, dusk, asleep, sleep(s/ing) or night-light. From story 08 onward, describe Cat's active story-specific task by day; use sleep words only in genuine bedtime scenes. The early nap stories retain "napping" or "dozing" by day, not "asleep". Evening outings can show an awake Cat: night lighting does not require sleeping characters.
 
 ## Image prompts (stills) — make them pop
 The pipeline prepends the "pop" look (rim light on every character, glowing highlights, saturated accents, depth, busy lived-in set dressing, bright airy daylight by day, lamplight and fairy lights by night). The shot's own prompt must give it something to light. Every still prompt has, in about 60–90 words:
@@ -51,7 +51,7 @@ Image-to-video from the still: say only **what changes**. Six parts, plain langu
 Rules:
 1. **Name only the characters who are in that still.** An off-screen name makes the model slide a new, off-model one in from the edge. Point looks at "the camera" or "someone beside her".
 2. **One action per beat**, and it should *show a feeling*: a straw that droops then springs up, eyes going wide, a happy wiggle, a proud little bounce, a slow nod, a gasp with both hands on the lid.
-3. **One ambient motion** keeps the frame alive: steam curls, petals drift, fairy lights twinkle, a curtain sways, bubbles rise in the tea, Cat's tummy rises and falls. Never people or vehicles passing — those are intruders.
+3. **One ambient motion** keeps the frame alive: steam curls, petals drift, fairy lights twinkle, a curtain sways, bubbles rise in the tea. Cat's active gesture is the primary character action, not an ambient motion; bedtime breathing can be her primary action when appropriate. Never people or vehicles passing — those are intruders.
 4. **Camera verbs only:** pushes in, pulls back, pans left/right, tilts up/down, tracks beside, holds still. Most beats move (a camera move is a crop of the still, so it's safe); use "holds still" for quiet moments like the Rose breath.
 5. **Exits and walk-aways are held poses** ("waves from the doorway"), not walking across the room.
 6. **No lip sync.** Narration is the voice-over; characters act with faces, straws, arms and wiggles.

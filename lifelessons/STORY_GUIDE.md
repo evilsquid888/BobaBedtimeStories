@@ -23,7 +23,7 @@ Skills already taught (do not repeat): see the Story Index in [README.md](README
 - **Bud** (little sister) — one or two words, always with the striped sock, usually somewhere unexpected. Optional; use when the family goes out.
 - **Mom / Dad** — kind, big, gentle; present when the skill needs a grown-up (bus, phone game, lost in a store). They stand back and let Rosie do the talking.
 - **Marcus** — the teen Inclusive Navigator next door. Dry, kind, "That's a step too." Use him for tricky-place skills (parties, crowds, phones, games).
-- **Cat the penguin** — in **every** story, ≥ 2 stills, **one laugh**, never teaching, never blocking the steps (story 11 is the one exception). The gag is always *where she fell asleep this time*: pick a spot that is warm or soft **and belongs to the new place** (hammock, water-tank lid, beach bag, bike basket, car hood, stone turtle, back seat over the bus engine, lead X-ray apron, prize pile, newspaper stack). First mention: "Cat the penguin". She says "Five more minutes" at most once.
+- **Cat the penguin** — in **every** story, ≥ 2 stills, **one laugh**. Keep stories 01–07's original portrayal. From 08 onward, vary her active role: hip-hop dancer, snowboarder, gentle kung fu practitioner, practical helper, quiet companion, or occasional direct coach. Match the role to the lesson and setting; do not replace every nap with a dance or let her do Rosie's task. Show real helping (supplies, preparation, tidying, asking permission), and actual modeling/explanation when she teaches. First mention: "Cat the penguin". She may sleep at bedtime, not throughout each outing.
 - **Coaches** — two or three guests from the Taiwan, Japan, and Costa Rica crews. Each gets **one setup line and one joke per scene**, built from their catchphrase and their physical gag (Slowy is slow, Flan wobbles, Mochi stretches, Tico is loud, Bīng wants more). A coach's personality should *fit the lesson*: Dai Daruma for bouncing back from a miss, Taro for waiting, Niko for neatness, Aiyu for being shy and new. Spread the crews around; check the Coaches column of the index so the same coach is not in back-to-back stories.
 - **New humans** (cashier, librarian, driver, dentist, teacher) are kind and ordinary. Each needs a token and a short design in the Cast list. **New kid friends** need a token, a design, and an entry in CHARACTER_GUIDE.md. Reuse friends when it helps (Lulu, Guagua, Tang) — recurring friends make the world feel real.
 
@@ -40,10 +40,10 @@ Every story has these movements, in this order. Word counts are a budget, not a 
 | Movement | What happens | Words |
 |---|---|---|
 | **Want + worry** | Rosie wants to do the thing. One line of worry. Straw droops. | 40–60 |
-| **Coaches arrive** | Two or three coaches enter with their physical gag. Cat is napping somewhere already. | 50–80 |
+| **Coaches arrive** | Two or three coaches enter with their physical gag. Cat has a place-appropriate task or activity. | 50–80 |
 | **Model** | A coach says "…has steps." **Rosie's Steps** list #1. One coach adds a why ("Sometimes kids say no. It is not about you."). | 80–110 |
 | **Practice** | A coach plays the other person (paper hat, paper name tag, napkin on head). **Rosie's Steps** list #2 as she practices. One practice joke. | 70–100 |
-| **Do** | The real place. Cat's nap spot. Rosie does the steps, numbered as she goes ("Step one…"). | 80–110 |
+| **Do** | The real place. Cat participates or helps without taking over. Rosie does the steps, numbered as she goes ("Step one…"). | 80–110 |
 | **Hiccup** | One realistic surprise. Name the feeling. Straw droops all the way. "That's okay." **Rose breath** (smell the rose — in, two, three, four; blow out the candle — out, two, three, four). Backup sentence. | 50–70 |
 | **Finish** | The remaining steps, done. The thing works. Cat's laugh line. | 40–60 |
 | **Tori + close** | Tori cheers. Rosie: "One step at a time, one sip at a time." | 30–50 |
@@ -125,7 +125,7 @@ Follow LTX_GUIDE.md exactly. Checklist before running the checker:
 - 14–20 stills, 36–48 beats, 1–3 beats per still, ≤ 18 words of narration per beat; the beats read the story and blessing back **word for word, in order**.
 - Every still: a camera angle, the place and its props, a named light source, two accents, one atmospheric touch, each character by ALL-CAPS token with a pose and a feeling.
 - Rosie stays a cup (stands, hops, holds things in front of her cup, sits on an edge, tucked in with lid and straw above the blanket). Spell her out in pose-risky stills.
-- "CAT the little blue penguin" in every still with Cat; "napping/dozing" by day, "asleep" only in night shots.
+- "CAT the little blue penguin" in every still with Cat. From 08 onward, show her actual active pose and scene-specific prop; retain sleepy day poses only in 01–07. Use "asleep" only at bedtime, not merely because an outing takes place at night.
 - No quoted text, signs or letters to draw; no negation words in stills; one place per character; screens are full-frame holds; round characters rock, never roll.
 - Each beat: one character action that shows a feeling + one ambient motion (never passing people or vehicles) + one camera verb; audio ends "no music, no voices, no speech"; name only tokens that are in that still.
 - Day/night: a shot marked "· night" needs a night word in its still; a day shot must not have one (night, moon, bedtime, star(s), evening, dusk, asleep, sleep(s/ing), night-light). Golden hour is "late golden sun", not "evening".
@@ -153,7 +153,8 @@ Steps (4–6, ≤ 14 words each): 1. ... 2. ... 3. ... 4. ... 5. ... 6. ...
 Hiccup (realistic, small): ...   Backup sentence: "..."
 Coaches (2–3, fit the lesson, one gag each): ...
 Grown-up present? ...   Friend? ...   New humans (token + design): ...
-Cat's nap spot (belongs to the real place): ...   Cat's laugh line: ...
+Cat's role (helper/participant/coach, varied from nearby stories): ...
+Cat's practice and real-outing actions/props: ...   Cat's laugh line: ...
 Practice place (new, fits the coaches): ... palette: ... atmosphere: ... props: ...
 Real place (new, fits the lesson): ... palette: ... atmosphere: ... props: ...
 Tori's moment (where): ...

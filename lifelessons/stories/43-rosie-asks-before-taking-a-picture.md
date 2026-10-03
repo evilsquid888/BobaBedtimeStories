@@ -3,6 +3,7 @@
 **Life skill:** Get permission before photographing someone and respect a changed answer.
 **Magic sentence:** "May I take your picture?"
 **Coaches:** Aiyu 🇹🇼 + Pock Ramune 🇯🇵
+**Cat’s role:** snowboarder
 **Setting:** the sunroom's camera shelf (practice), then the aquarium's kelp-window viewing bay (real outing).
 
 ---
@@ -19,7 +20,7 @@ Aiyu's golden jelly glowed gently.
 
 Pock was a soda bottle fizzing happily.
 
-Cat the penguin napped on an open padded camera case.
+Cat the penguin showed a snowboarding picture. "My friend asked before taking this," she explained, beaming.
 
 Pock checked with his pretend grown-up and asked Aiyu, **"May I take your picture?"** He waited for her answer.
 
@@ -49,7 +50,7 @@ Pock tried a serious portrait face. One bubble rose. "My enthusiasm appears to h
 
 Mom brought Rosie to the aquarium and agreed she could use Mom's phone for a private picture.
 
-Cat dozed on a cushion beside the kelp window, providing an exceptionally stationary blue audience.
+Cat studied the kelp beside Lulu, keeping her own camera tucked away while Rosie asked permission.
 
 Lulu stood near the glass, admiring the fish. Rosie kept the phone lowered in front of her little cup.
 
@@ -79,9 +80,9 @@ Step five: Mom explained that any sharing needed permission too. Nothing about a
 
 Aiyu nodded. Pock inspected the empty frame. "A portrait of nobody. Privacy has excellent lighting."
 
-Cat blinked beside the glass. "Please ask my scarf before photographing it. It is having a very quiet day."
+Cat pointed to her scarf. "It looks lovely in pictures, but the penguin inside still gets to choose."
 
-Rosie giggled. The aquarium visit still felt special, even with no picture of her friend to carry home.
+Rosie smiled. A happy visit did not require a friend's photograph.
 
 Tori met Rosie beneath the giant wooden fish sculpture, with Mom's phone safely tucked away.
 
@@ -116,20 +117,20 @@ Rosie felt proud of leaving the button alone, and of sharing a comfortable after
 
 Goodnight, kelp ribbons and quietly drifting fish.
 Goodnight, camera, resting in your case.
-Goodnight, Cat and your private scarf.
+Goodnight, Cat, camera safely put away.
 May care come before a picture.
 
 ---
 
 ## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~4:29 (est.) · **Narrated words:** 600 · **Stills:** 19 · **Beats:** 42
+**Runtime:** ~4:28 (est.) · **Narrated words:** 599 · **Stills:** 19 · **Beats:** 41
 **Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 **Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
 **Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: none.
 - `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf`
 - `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 - `MOM` → Mom, the tall rose-milk-tea mom cup with the pink lid · `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`
 - `AIYU` → Aiyu, the clear golden jelly cube with the lemon seeds · `Aiyu, a small wobbly cube of clear golden aiyu jelly with tiny lemon seeds floating inside, a shy gentle smile, soft eyes, tiny arms and legs, glowing faintly amber`
@@ -146,11 +147,11 @@ May care come before a picture.
    `Shot: medium shot. Scene: the sunroom's camera shelf. Action: ROSIE relaxes into a small pleased expression, while a sheer curtain sways. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 2 — The visiting coaches · day
-**Still:** `Low diagonal view with layered foreground in the sunroom's camera shelf: AIYU holds a gentle attentive pose; POCK holds a gentle attentive pose; CAT the little blue penguin dozing on an open padded camera case, yellow scarf visible. The lived-in setting includes a pretend camera, picture frames, a lens cloth, a padded case, a toy tripod. Window daylight and a warm practical lamp illuminate the scene, with saturated apricot and ocean blue accents. A sheer curtain sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Low diagonal view with layered foreground in the sunroom's camera shelf: AIYU holds a gentle attentive pose; POCK holds a gentle attentive pose; CAT the little blue penguin holding a picture of a blue penguin on a snowy slope, yellow scarf visible. The lived-in setting includes a pretend camera, picture frames, a lens cloth, a padded case, a toy tripod. Window daylight and a warm practical lamp illuminate the scene, with saturated apricot and ocean blue accents. A sheer curtain sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 4. **Narration:** Aiyu's golden jelly glowed gently. Pock was a soda bottle fizzing happily.
    `Shot: medium shot. Scene: the sunroom's camera shelf. Action: AIYU gives a reassuring little nod, while a sheer curtain sways. Character: the clear golden jelly cube with the lemon seeds — attentive and gently encouraged. Camera: slowly pans right. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-5. **Narration:** Cat the penguin napped on an open padded camera case.
-   `Shot: medium close-up. Scene: the sunroom's camera shelf. Action: CAT gives a slow contented blink, while a sheer curtain sways. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+5. **Narration:** Cat the penguin showed a snowboarding picture. "My friend asked before taking this," she explained, beaming.
+   `Shot: medium close-up. Scene: the sunroom's camera shelf. Action: CAT lifts the snowboarding picture, while a sheer curtain sways. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 3 — A coach shows the way · day
 **Still:** `Wide view framed by the doorway in the sunroom's camera shelf: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; AIYU holds a gentle attentive pose; POCK holds a gentle attentive pose. The lived-in setting includes a pretend camera, picture frames, a lens cloth, a padded case, a toy tripod. Window daylight and a warm practical lamp illuminate the scene, with saturated apricot and ocean blue accents. A sheer curtain sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -200,12 +201,12 @@ May care come before a picture.
    `Shot: medium shot. Scene: the sunroom's camera shelf. Action: AIYU relaxes into a small pleased expression, while a sheer curtain sways. Character: the clear golden jelly cube with the lemon seeds — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 10 — The real outing · day
-**Still:** `Low view looking up at the central figures in the aquarium's kelp-window viewing bay: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin dozing on a cushion beside the kelp window, yellow scarf visible; LULU holds a gentle attentive pose. The lived-in setting includes a broad aquarium window, kelp fronds, a low bench, picture frames, a camera-case cushion. Window daylight and a warm practical lamp illuminate the scene, with saturated kelp green and electric blue accents. Kelp fronds drift in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Low view looking up at the central figures in the aquarium's kelp-window viewing bay: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin standing beside the kelp window with a closed small camera case, yellow scarf visible; LULU holds a gentle attentive pose. The lived-in setting includes a broad aquarium window, kelp fronds, a low bench, picture frames, a camera-case cushion. Window daylight and a warm practical lamp illuminate the scene, with saturated kelp green and electric blue accents. Kelp fronds drift in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 19. **Narration:** Mom brought Rosie to the aquarium and agreed she could use Mom's phone for a private picture.
    `Shot: medium shot. Scene: the aquarium's kelp-window viewing bay. Action: ROSIE lifts her straw with hopeful curiosity, while kelp fronds drift. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-20. **Narration:** Cat dozed on a cushion beside the kelp window, providing an exceptionally stationary blue audience. Lulu stood
-   `Shot: medium close-up. Scene: the aquarium's kelp-window viewing bay. Action: CAT gives a slow contented blink, while kelp fronds drift. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-21. **Narration:** near the glass, admiring the fish. Rosie kept the phone lowered in front of her little cup.
+20. **Narration:** Cat studied the kelp beside Lulu, keeping her own camera tucked away while Rosie asked permission. Lulu
+   `Shot: medium close-up. Scene: the aquarium's kelp-window viewing bay. Action: CAT points gently at her yellow scarf, while kelp fronds drift. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
+21. **Narration:** stood near the glass, admiring the fish. Rosie kept the phone lowered in front of her little cup.
    `Shot: medium shot. Scene: the aquarium's kelp-window viewing bay. Action: ROSIE relaxes into a small pleased expression, while kelp fronds drift. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 11 — Trying the first steps · day
@@ -248,41 +249,39 @@ May care come before a picture.
    `Shot: medium shot. Scene: the aquarium's kelp-window viewing bay. Action: AIYU relaxes into a small pleased expression, while kelp fronds drift. Character: the clear golden jelly cube with the lemon seeds — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 16 — Cat's contribution · day
-**Still:** `Close view from the tabletop edge in the aquarium's kelp-window viewing bay: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin dozing on a cushion beside the kelp window, yellow scarf visible; LULU holds a gentle attentive pose. The lived-in setting includes a broad aquarium window, kelp fronds, a low bench, picture frames, a camera-case cushion. Window daylight and a warm practical lamp illuminate the scene, with saturated kelp green and electric blue accents. Kelp fronds drift in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-34. **Narration:** Cat blinked beside the glass. "Please ask my scarf before photographing it.
-   `Shot: medium shot. Scene: the aquarium's kelp-window viewing bay. Action: CAT gives a slow contented blink, while kelp fronds drift. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-35. **Narration:** It is having a very quiet day." Rosie giggled.
+**Still:** `Close view from the tabletop edge in the aquarium's kelp-window viewing bay: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin standing beside the kelp window with a closed small camera case, yellow scarf visible; LULU holds a gentle attentive pose. The lived-in setting includes a broad aquarium window, kelp fronds, a low bench, picture frames, a camera-case cushion. Window daylight and a warm practical lamp illuminate the scene, with saturated kelp green and electric blue accents. Kelp fronds drift in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+34. **Narration:** Cat pointed to her scarf. "It looks lovely in pictures, but the penguin inside still gets to choose."
+   `Shot: medium shot. Scene: the aquarium's kelp-window viewing bay. Action: CAT points gently at her yellow scarf, while kelp fronds drift. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
+35. **Narration:** Rosie smiled. A happy visit did not require a friend's photograph.
    `Shot: medium close-up. Scene: the aquarium's kelp-window viewing bay. Action: ROSIE gives a thoughtful slow blink, while kelp fronds drift. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-36. **Narration:** The aquarium visit still felt special, even with no picture of her friend to carry home.
-   `Shot: medium shot. Scene: the aquarium's kelp-window viewing bay. Action: CAT gives a slow contented blink, while kelp fronds drift. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: holds still. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 17 — Big sister's cheer · day
 **Still:** `High angle over the foreground props in the aquarium's kelp-window viewing bay: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TORI stands with her green straw tilted kindly. The lived-in setting includes a broad aquarium window, kelp fronds, a low bench, picture frames, a camera-case cushion. Window daylight and a warm practical lamp illuminate the scene, with saturated kelp green and electric blue accents. Kelp fronds drift in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-37. **Narration:** Tori met Rosie beneath the giant wooden fish sculpture, with Mom's phone safely tucked away.
+36. **Narration:** Tori met Rosie beneath the giant wooden fish sculpture, with Mom's phone safely tucked away.
    `Shot: medium shot. Scene: the aquarium's kelp-window viewing bay. Action: ROSIE relaxes into a small pleased expression, while kelp fronds drift. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-38. **Narration:** "You respected her changed answer. You've got this, little sip," she said, listening to Rosie's small story.
+37. **Narration:** "You respected her changed answer. You've got this, little sip," she said, listening to Rosie's small story.
    `Shot: medium close-up. Scene: the aquarium's kelp-window viewing bay. Action: ROSIE gives a thoughtful slow blink, while kelp fronds drift. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-39. **Narration:** Rosie felt proud of leaving the button alone, and of sharing a comfortable afternoon.
+38. **Narration:** Rosie felt proud of leaving the button alone, and of sharing a comfortable afternoon.
    `Shot: medium shot. Scene: the aquarium's kelp-window viewing bay. Action: ROSIE relaxes into a small pleased expression, while kelp fronds drift. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pushes in. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 18 — One step at a time · day
 **Still:** `Side view through the foreground in the aquarium's kelp-window viewing bay: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TORI stands with her green straw tilted kindly. The lived-in setting includes a broad aquarium window, kelp fronds, a low bench, picture frames, a camera-case cushion. Window daylight and a warm practical lamp illuminate the scene, with saturated kelp green and electric blue accents. Kelp fronds drift in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-40. **Narration:** **加油** (jiāyóu) = go for it. "One step at a time, one sip at a time," said Rosie.
+39. **Narration:** **加油** (jiāyóu) = go for it. "One step at a time, one sip at a time," said Rosie.
    `Shot: medium shot. Scene: the aquarium's kelp-window viewing bay. Action: ROSIE gives one proud little bounce in place, while kelp fronds drift. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 19 — Goodnight · night
 **Still:** `High oblique view across the bedroom pillow in Rosie's cozy bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, tucked beneath a quilt with lid and straw visible, eyes comfortably closed; CAT the little blue penguin asleep on a soft pillow, yellow scarf visible. The lived-in setting includes a small pretend camera, a little keepsake picture, a quilt, a plain lamp, a soft pillow. A plain bedside lamp lights the cozy bedroom at night, with saturated rose pink and warm amber accents. Fairy lights twinkle in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-41. **Narration:** Goodnight, kelp ribbons and quietly drifting fish. Goodnight, camera, resting in your case.
+40. **Narration:** Goodnight, kelp ribbons and quietly drifting fish. Goodnight, camera, resting in your case.
    `Shot: medium shot. Scene: Rosie's cozy bedroom. Action: ROSIE's eyes soften above her quilt, while fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
-42. **Narration:** Goodnight, Cat and your private scarf. May care come before a picture.
-   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT gives a slow contented blink, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
+41. **Narration:** Goodnight, Cat, camera safely put away. May care come before a picture.
+   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT settles comfortably on her pillow, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
 
 1. **Key scene** — `Over-the-shoulder view past ROSIE's lid in the aquarium's kelp-window viewing bay: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; LULU holds a gentle attentive pose; MOM holds a gentle attentive pose; AIYU holds a gentle attentive pose; POCK holds a gentle attentive pose. The lived-in setting includes a broad aquarium window, kelp fronds, a low bench, picture frames, a camera-case cushion. Window daylight and a warm practical lamp illuminate the scene, with saturated kelp green and electric blue accents. Kelp fronds drift in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 2. **Character views** — generate each of these as a separate image:
    - `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
-   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
+   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Aiyu, a small wobbly cube of clear golden aiyu jelly with tiny lemon seeds floating inside, a shy gentle smile, soft eyes, tiny arms and legs, glowing faintly amber; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`

@@ -24,6 +24,30 @@ def shingles(prose, size=5):
     return {tuple(tokens[i:i + size]) for i in range(len(tokens) - size + 1)}
 
 
+def cat_role_issues(md, number):
+    """Preserve early Cat stories; catch stale naps after the librarian chapter."""
+    if number <= 7:
+        return []
+    issues = []
+    if not re.search(r"^\*\*Cat[’']s role:\*\* .+", md, re.M):
+        issues.append("active Cat role is not declared")
+    rest = re.compile(r"\b(naps?|napped|napping|dozes?|dozed|dozing|snor\w*|asleep|sleep\w*|drowsy)\b", re.I)
+    for prompt in re.findall(r"`([^`]+)`", md):
+        if "CAT" not in prompt or re.search(r"\b(bedroom|bed|pillow|quilt)\b", prompt, re.I):
+            continue
+        # Reference designs and bedtime prompts are checked separately. Inspect
+        # Cat's own still clause or action, not another character's sleepy pose.
+        cat_clauses = re.findall(r"\bCAT the little blue penguin[^.;`]*", prompt)
+        action = re.search(r"Action: (.*?)\. Character:", prompt)
+        if action and re.search(r"\bCAT\b", action[1]):
+            cat_clauses.append(action[1])
+        if any(rest.search(clause) for clause in cat_clauses):
+            issues.append("Cat still sleeps during an outing in a visual prompt")
+    if re.search(r"- `CAT` →[^\n]*sleepy half-closed eyes", md):
+        issues.append("Cat reference design still defaults to sleepy eyes")
+    return issues
+
+
 def audit(folder):
     files = sorted(folder.glob("*.md"))
     failures, records, sets = [], [], {}
@@ -35,6 +59,7 @@ def audit(folder):
         board = md.split("## 🎬 Video Storyboard", 1)[-1]
         recap = section(md, r"## 🌹 Rosie's Steps \(Recap\)\n")
         number = int(path.name.split("-", 1)[0])
+        failures.extend(f"{path.name}: {issue}" for issue in cat_role_issues(md, number))
         for name in ("Cat the penguin", "Tori"):
             if name not in story:
                 failures.append(f"{path.name}: {name} missing from story")
@@ -146,7 +171,7 @@ def audit(folder):
     for failure in failures:
         print("FAIL:", failure)
     if not failures:
-        print("PASS: Cat, Tori, steps, magic sentences, cast, metadata, duplication, new places, coach rotation, index, and registry.")
+        print("PASS: Cat presence and active roles, Tori, steps, magic sentences, cast, metadata, duplication, new places, coach rotation, index, and registry.")
     return not failures
 
 

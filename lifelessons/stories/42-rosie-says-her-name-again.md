@@ -3,6 +3,7 @@
 **Life skill:** Correct a mistaken name clearly and ask for respectful use of your name.
 **Magic sentence:** "My name is Rosie. Please call me Rosie."
 **Coaches:** Neko-Pan 🇯🇵 + Flan 🇨🇷
+**Cat’s role:** hip-hop dancer
 **Setting:** the window alcove beside the coat pegs (practice), then the dance studio's ribbon reception (real outing).
 
 ---
@@ -19,7 +20,7 @@ Neko-Pan was a cream bun waving cheerfully.
 
 Flan arrived, coconut custard wobbling hopefully.
 
-Cat the penguin napped on a folded coat on the stool.
+Cat the penguin practiced a hip-hop two-step. Her scarf arrived at every turn fashionably late.
 
 Neko called his pretend guest Rosemary. Flan answered, **"My name is Rosie. Please call me Rosie."** Neko tried again.
 
@@ -49,7 +50,7 @@ Neko examined his own card. "Neko-Pan. Two parts, one bun. Please keep the filli
 
 Mom brought Rosie to the reception, where ribbon wands hung above baskets of dance shoes.
 
-Cat napped beside the shoe basket on a spare cushion, declining every opportunity to become a tap-dancing penguin.
+Cat warmed up in the clear studio corner, then waited while Rosie spoke to the host.
 
 The host looked at the register. "Welcome, Rosemary." Rosie knew it was her turn.
 
@@ -79,9 +80,9 @@ Rosie clipped the card to her cup sleeve, proud that a gentle correction could m
 
 Neko nodded while Flan checked his card. "Names and fillings deserve their proper owners."
 
-Cat opened one eye beside the shoes. "My name is Cat. My occupation is penguin. A complicated résumé."
+Cat introduced herself with a tiny two-step. "Cat. Penguin. Dancer. My name has a rather busy schedule." Rosie grinned.
 
-Rosie laughed softly. The host smiled too, and called her Rosie when she handed over the ribbon wand.
+The host smiled and called Rosie by her own lovely name.
 
 Tori met Rosie at the rainbow ribbon rack and admired her neatly clipped name card.
 
@@ -116,7 +117,7 @@ Rosie felt proud. Her name had its own small place in a comfortable greeting.
 
 Goodnight, Rosie, with your own lovely name.
 Goodnight, ribbons, resting in their basket.
-Goodnight, Cat, professionally penguin.
+Goodnight, Cat, dancing scarf now still.
 May your voice be heard with care.
 
 ---
@@ -129,7 +130,7 @@ May your voice be heard with care.
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
 **Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: DANCEHOST.
 - `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf`
 - `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 - `MOM` → Mom, the tall rose-milk-tea mom cup with the pink lid · `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`
 - `NEKO` → Neko-Pan, the cat-shaped cream bun with the waving paw · `Neko-Pan, a pale golden cat-shaped melon cream bun with rounded ears, a lucky waving paw, bright friendly eyes and tiny feet`
@@ -146,11 +147,11 @@ May your voice be heard with care.
    `Shot: medium shot. Scene: the window alcove beside the coat pegs. Action: ROSIE relaxes into a small pleased expression, while ribbon loops sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 2 — The visiting coaches · day
-**Still:** `Three-quarter view across the work surface in the window alcove beside the coat pegs: NEKO holds a gentle attentive pose; FLAN holds a gentle attentive pose; CAT the little blue penguin dozing on a folded coat on the stool, yellow scarf visible. The lived-in setting includes coat pegs, blank name cards, a toy microphone, ribbon loops, a low stool. Window daylight and a warm practical lamp illuminate the scene, with saturated violet and pale gold accents. Ribbon loops sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Three-quarter view across the work surface in the window alcove beside the coat pegs: NEKO holds a gentle attentive pose; FLAN holds a gentle attentive pose; CAT the little blue penguin holding a hip-hop two-step pose in a clear floor space, yellow scarf visible. The lived-in setting includes coat pegs, blank name cards, a toy microphone, ribbon loops, a low stool. Window daylight and a warm practical lamp illuminate the scene, with saturated violet and pale gold accents. Ribbon loops sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 4. **Narration:** Neko-Pan was a cream bun waving cheerfully. Flan arrived, coconut custard wobbling hopefully.
    `Shot: medium shot. Scene: the window alcove beside the coat pegs. Action: NEKO gives a reassuring little nod, while ribbon loops sway. Character: the cat-shaped cream bun with the waving paw — attentive and gently encouraged. Camera: slowly pans right. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-5. **Narration:** Cat the penguin napped on a folded coat on the stool.
-   `Shot: medium close-up. Scene: the window alcove beside the coat pegs. Action: CAT gives a slow contented blink, while ribbon loops sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+5. **Narration:** Cat the penguin practiced a hip-hop two-step. Her scarf arrived at every turn fashionably late.
+   `Shot: medium close-up. Scene: the window alcove beside the coat pegs. Action: CAT makes one small hip-hop side step, while ribbon loops sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 3 — A coach shows the way · day
 **Still:** `Low diagonal view with layered foreground in the window alcove beside the coat pegs: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; NEKO holds a gentle attentive pose; FLAN holds a gentle attentive pose. The lived-in setting includes coat pegs, blank name cards, a toy microphone, ribbon loops, a low stool. Window daylight and a warm practical lamp illuminate the scene, with saturated violet and pale gold accents. Ribbon loops sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -194,12 +195,12 @@ May your voice be heard with care.
    `Shot: medium close-up. Scene: the window alcove beside the coat pegs. Action: NEKO gives a thoughtful slow blink, while ribbon loops sway. Character: the cat-shaped cream bun with the waving paw — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 10 — The real outing · day
-**Still:** `Close view through soft foreground shapes in the dance studio's ribbon reception: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin dozing on a spare bench cushion beside the shoe basket, yellow scarf visible. The lived-in setting includes ribbon wands, a dance-shoe basket, blank name cards, a low reception desk, a cushioned bench. Window daylight and a warm practical lamp illuminate the scene, with saturated fuchsia and powder blue accents. Hanging ribbons flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Close view through soft foreground shapes in the dance studio's ribbon reception: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin standing in a small hip-hop two-step pose away from the reception doorway, yellow scarf visible. The lived-in setting includes ribbon wands, a dance-shoe basket, blank name cards, a low reception desk, a cushioned bench. Window daylight and a warm practical lamp illuminate the scene, with saturated fuchsia and powder blue accents. Hanging ribbons flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 16. **Narration:** Mom brought Rosie to the reception, where ribbon wands hung above baskets of dance shoes.
    `Shot: medium shot. Scene: the dance studio's ribbon reception. Action: ROSIE lifts her straw with hopeful curiosity, while hanging ribbons flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-17. **Narration:** Cat napped beside the shoe basket on a spare cushion, declining every opportunity to become a
-   `Shot: medium close-up. Scene: the dance studio's ribbon reception. Action: CAT gives a slow contented blink, while hanging ribbons flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-18. **Narration:** tap-dancing penguin. The host looked at the register. "Welcome, Rosemary." Rosie knew it was her turn.
+17. **Narration:** Cat warmed up in the clear studio corner, then waited while Rosie spoke to the host.
+   `Shot: medium close-up. Scene: the dance studio's ribbon reception. Action: CAT makes one small side step, while hanging ribbons flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+18. **Narration:** The host looked at the register. "Welcome, Rosemary." Rosie knew it was her turn.
    `Shot: medium shot. Scene: the dance studio's ribbon reception. Action: ROSIE relaxes into a small pleased expression, while hanging ribbons flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 11 — Trying the first steps · day
@@ -242,10 +243,10 @@ May your voice be heard with care.
    `Shot: medium shot. Scene: the dance studio's ribbon reception. Action: ROSIE relaxes into a small pleased expression, while hanging ribbons flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 16 — Cat's contribution · day
-**Still:** `Over-the-shoulder view past ROSIE's lid in the dance studio's ribbon reception: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin dozing on a spare bench cushion beside the shoe basket, yellow scarf visible; MOM holds a gentle attentive pose. The lived-in setting includes ribbon wands, a dance-shoe basket, blank name cards, a low reception desk, a cushioned bench. Window daylight and a warm practical lamp illuminate the scene, with saturated fuchsia and powder blue accents. Hanging ribbons flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-31. **Narration:** Cat opened one eye beside the shoes. "My name is Cat. My occupation is penguin. A complicated résumé."
-   `Shot: medium shot. Scene: the dance studio's ribbon reception. Action: CAT gives a slow contented blink, while hanging ribbons flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-32. **Narration:** Rosie laughed softly. The host smiled too, and called her Rosie when she handed over the ribbon wand.
+**Still:** `Over-the-shoulder view past ROSIE's lid in the dance studio's ribbon reception: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin standing in a small hip-hop two-step pose away from the reception doorway, yellow scarf visible; MOM holds a gentle attentive pose. The lived-in setting includes ribbon wands, a dance-shoe basket, blank name cards, a low reception desk, a cushioned bench. Window daylight and a warm practical lamp illuminate the scene, with saturated fuchsia and powder blue accents. Hanging ribbons flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+31. **Narration:** Cat introduced herself with a tiny two-step. "Cat. Penguin. Dancer. My name has a rather busy schedule."
+   `Shot: medium shot. Scene: the dance studio's ribbon reception. Action: CAT makes one small side step, while hanging ribbons flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+32. **Narration:** Rosie grinned. The host smiled and called Rosie by her own lovely name.
    `Shot: medium close-up. Scene: the dance studio's ribbon reception. Action: ROSIE gives a thoughtful slow blink, while hanging ribbons flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 17 — Big sister's cheer · day
@@ -266,15 +267,15 @@ May your voice be heard with care.
 **Still:** `High oblique view across the bedroom pillow in Rosie's cozy bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, tucked beneath a quilt with lid and straw visible, eyes comfortably closed; CAT the little blue penguin asleep on a soft pillow, yellow scarf visible. The lived-in setting includes a blank name card, a little keepsake picture, a quilt, a plain lamp, a soft pillow. A plain bedside lamp lights the cozy bedroom at night, with saturated rose pink and warm amber accents. Fairy lights twinkle in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 37. **Narration:** Goodnight, Rosie, with your own lovely name. Goodnight, ribbons, resting in their basket.
    `Shot: medium shot. Scene: Rosie's cozy bedroom. Action: ROSIE's eyes soften above her quilt, while fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
-38. **Narration:** Goodnight, Cat, professionally penguin. May your voice be heard with care.
-   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT gives a slow contented blink, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
+38. **Narration:** Goodnight, Cat, dancing scarf now still. May your voice be heard with care.
+   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT settles comfortably on her pillow, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
 
 1. **Key scene** — `Low angle at cup height in the dance studio's ribbon reception: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; NEKO holds a gentle attentive pose; FLAN holds a gentle attentive pose; DANCEHOST holds a gentle attentive pose. The lived-in setting includes ribbon wands, a dance-shoe basket, blank name cards, a low reception desk, a cushioned bench. Window daylight and a warm practical lamp illuminate the scene, with saturated fuchsia and powder blue accents. Hanging ribbons flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 2. **Character views** — generate each of these as a separate image:
    - `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
-   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
+   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Neko-Pan, a pale golden cat-shaped melon cream bun with rounded ears, a lucky waving paw, bright friendly eyes and tiny feet; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`

@@ -3,6 +3,7 @@
 **Life skill:** Make a clear invitation through grown-ups and accept a declined date.
 **Magic sentence:** "Would you like to bake with me on Saturday?"
 **Coaches:** Tama Onigiri 🇯🇵 + Tico the Toucan 🇨🇷
+**Cat’s role:** helper
 **Setting:** the garden pergola snack cart (practice), then the school pickup shelter (real outing).
 
 ---
@@ -19,7 +20,7 @@ Tama was a well-prepared triangular rice ball.
 
 Tico's rainbow beak was impressively large.
 
-Cat the penguin napped on a padded shelf on the snack cart.
+Cat the penguin sorted muffin cups. One stuck to her beak and became a very short chef's hat.
 
 Tama checked the pretend plan, then asked Tico, **"Would you like to bake with me on Saturday?"**
 
@@ -49,7 +50,7 @@ Tico removed his muffin hat. "Saturday is open. My headwear is already fully boo
 
 Mom accompanied Rosie to the school pickup shelter, where Guagua waited with his grown-up beneath the covered roof.
 
-Cat napped on a spare backpack cushion, correctly identifying the least complicated part of school pickup.
+Cat carried the recipe picture to school pickup, without assuming Guagua would accept the invitation.
 
 Rosie held a paper muffin cup beside her lid, remembering the baking plan Mom had approved.
 
@@ -79,9 +80,9 @@ She thanked Guagua for answering and saved an extra muffin cup for whichever day
 
 Tama packed the cups. Tico examined his hat. "Fortunately, this fashion works every day."
 
-Cat blinked from the backpack cushion. "Please send my invitation directly to the softest available seat."
+Cat held up the muffin cups. "They can wait until another day. My beak would appreciate a proper hat."
 
-Rosie giggled. Another day could still hold muffins, and today's conversation had left their friendship warm.
+Rosie giggled. Their friendship still had room for another day.
 
 Tori met Rosie beside the shelter's rain gutter planter, where a leaf held one bright leftover raindrop.
 
@@ -116,20 +117,20 @@ Rosie felt proud. A good invitation made room for the other person's life as wel
 
 Goodnight, little invitation and waiting muffin cups.
 Goodnight, calendars, keeping room for friends.
-Goodnight, Cat, guest of soft seats.
+Goodnight, Cat, muffin cups stacked for later.
 May kindness leave time for another day.
 
 ---
 
 ## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~4:25 (est.) · **Narrated words:** 597 · **Stills:** 19 · **Beats:** 39
+**Runtime:** ~4:27 (est.) · **Narrated words:** 600 · **Stills:** 19 · **Beats:** 39
 **Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 **Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
 **Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: none.
 - `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf`
 - `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 - `MOM` → Mom, the tall rose-milk-tea mom cup with the pink lid · `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`
 - `TAMA` → Tama Onigiri, the triangular rice ball with the seaweed jacket · `Tama Onigiri, a triangular white rice ball with a dark seaweed jacket, gentle eyes, rosy cheeks and tiny arms and legs`
@@ -146,11 +147,11 @@ May kindness leave time for another day.
    `Shot: medium shot. Scene: the garden pergola snack cart. Action: ROSIE relaxes into a small pleased expression, while pergola vines sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 2 — The visiting coaches · day
-**Still:** `High oblique view across the scene in the garden pergola snack cart: TAMA holds a gentle attentive pose; TICO holds a gentle attentive pose; CAT the little blue penguin dozing on a padded shelf on the snack cart, yellow scarf visible. The lived-in setting includes a pretend calendar with pictures, mixing spoons, paper muffin cups, a cart, a bowl. Window daylight and a warm practical lamp illuminate the scene, with saturated mint and cherry accents. Pergola vines sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `High oblique view across the scene in the garden pergola snack cart: TAMA holds a gentle attentive pose; TICO holds a gentle attentive pose; CAT the little blue penguin sorting empty paper muffin cups on a low table, yellow scarf visible. The lived-in setting includes a pretend calendar with pictures, mixing spoons, paper muffin cups, a cart, a bowl. Window daylight and a warm practical lamp illuminate the scene, with saturated mint and cherry accents. Pergola vines sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 4. **Narration:** Tama was a well-prepared triangular rice ball. Tico's rainbow beak was impressively large.
    `Shot: medium shot. Scene: the garden pergola snack cart. Action: TAMA gives a reassuring little nod, while pergola vines sway. Character: the triangular rice ball with the seaweed jacket — attentive and gently encouraged. Camera: slowly pans right. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-5. **Narration:** Cat the penguin napped on a padded shelf on the snack cart.
-   `Shot: medium close-up. Scene: the garden pergola snack cart. Action: CAT gives a slow contented blink, while pergola vines sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+5. **Narration:** Cat the penguin sorted muffin cups. One stuck to her beak and became a very short chef's hat.
+   `Shot: medium close-up. Scene: the garden pergola snack cart. Action: CAT stacks one muffin cup, while pergola vines sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 3 — A coach shows the way · day
 **Still:** `Wide establishing view with deep perspective in the garden pergola snack cart: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TAMA holds a gentle attentive pose; TICO holds a gentle attentive pose. The lived-in setting includes a pretend calendar with pictures, mixing spoons, paper muffin cups, a cart, a bowl. Window daylight and a warm practical lamp illuminate the scene, with saturated mint and cherry accents. Pergola vines sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -196,11 +197,11 @@ May kindness leave time for another day.
    `Shot: medium close-up. Scene: the garden pergola snack cart. Action: TICO gives a thoughtful slow blink, while pergola vines sway. Character: the black toucan with the rainbow beak — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 10 — The real outing · day
-**Still:** `Three-quarter view across the work surface in the school pickup shelter: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin dozing on a spare backpack cushion on the bench, yellow scarf visible; GUAGUA holds a gentle attentive pose. The lived-in setting includes backpack hooks, a covered bench, picture tiles, a rain gutter, a planter. Window daylight and a warm practical lamp illuminate the scene, with saturated cobalt and pumpkin orange accents. A hanging windsock flutters in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Three-quarter view across the work surface in the school pickup shelter: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin holding a short stack of empty muffin cups, yellow scarf visible; GUAGUA holds a gentle attentive pose. The lived-in setting includes backpack hooks, a covered bench, picture tiles, a rain gutter, a planter. Window daylight and a warm practical lamp illuminate the scene, with saturated cobalt and pumpkin orange accents. A hanging windsock flutters in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 17. **Narration:** Mom accompanied Rosie to the school pickup shelter, where Guagua waited with his grown-up beneath the
    `Shot: medium shot. Scene: the school pickup shelter. Action: ROSIE lifts her straw with hopeful curiosity, while a hanging windsock flutters. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-18. **Narration:** covered roof. Cat napped on a spare backpack cushion, correctly identifying the least complicated part of school pickup.
-   `Shot: medium close-up. Scene: the school pickup shelter. Action: CAT gives a slow contented blink, while a hanging windsock flutters. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
+18. **Narration:** covered roof. Cat carried the recipe picture to school pickup, without assuming Guagua would accept the invitation.
+   `Shot: medium close-up. Scene: the school pickup shelter. Action: CAT lifts one empty muffin cup, while a hanging windsock flutters. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 19. **Narration:** Rosie held a paper muffin cup beside her lid, remembering the baking plan Mom had approved.
    `Shot: medium shot. Scene: the school pickup shelter. Action: ROSIE relaxes into a small pleased expression, while a hanging windsock flutters. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
@@ -244,10 +245,10 @@ May kindness leave time for another day.
    `Shot: medium shot. Scene: the school pickup shelter. Action: TAMA relaxes into a small pleased expression, while a hanging windsock flutters. Character: the triangular rice ball with the seaweed jacket — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 16 — Cat's contribution · day
-**Still:** `Side view at cup height in the school pickup shelter: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin dozing on a spare backpack cushion on the bench, yellow scarf visible; GUAGUA holds a gentle attentive pose. The lived-in setting includes backpack hooks, a covered bench, picture tiles, a rain gutter, a planter. Window daylight and a warm practical lamp illuminate the scene, with saturated cobalt and pumpkin orange accents. A hanging windsock flutters in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-32. **Narration:** Cat blinked from the backpack cushion. "Please send my invitation directly to the softest available seat."
-   `Shot: medium shot. Scene: the school pickup shelter. Action: CAT gives a slow contented blink, while a hanging windsock flutters. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-33. **Narration:** Rosie giggled. Another day could still hold muffins, and today's conversation had left their friendship warm.
+**Still:** `Side view at cup height in the school pickup shelter: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin holding a short stack of empty muffin cups, yellow scarf visible; GUAGUA holds a gentle attentive pose. The lived-in setting includes backpack hooks, a covered bench, picture tiles, a rain gutter, a planter. Window daylight and a warm practical lamp illuminate the scene, with saturated cobalt and pumpkin orange accents. A hanging windsock flutters in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+32. **Narration:** Cat held up the muffin cups. "They can wait until another day.
+   `Shot: medium shot. Scene: the school pickup shelter. Action: CAT lifts one empty muffin cup, while a hanging windsock flutters. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
+33. **Narration:** My beak would appreciate a proper hat." Rosie giggled. Their friendship still had room for another day.
    `Shot: medium close-up. Scene: the school pickup shelter. Action: ROSIE gives a thoughtful slow blink, while a hanging windsock flutters. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 17 — Big sister's cheer · day
@@ -268,15 +269,15 @@ May kindness leave time for another day.
 **Still:** `High oblique view across the bedroom pillow in Rosie's cozy bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, tucked beneath a quilt with lid and straw visible, eyes comfortably closed; CAT the little blue penguin asleep on a soft pillow, yellow scarf visible. The lived-in setting includes a paper muffin cup, a little keepsake picture, a quilt, a plain lamp, a soft pillow. A plain bedside lamp lights the cozy bedroom at night, with saturated rose pink and warm amber accents. Fairy lights twinkle in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 38. **Narration:** Goodnight, little invitation and waiting muffin cups. Goodnight, calendars, keeping room for friends.
    `Shot: medium shot. Scene: Rosie's cozy bedroom. Action: ROSIE's eyes soften above her quilt, while fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
-39. **Narration:** Goodnight, Cat, guest of soft seats. May kindness leave time for another day.
-   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT gives a slow contented blink, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
+39. **Narration:** Goodnight, Cat, muffin cups stacked for later. May kindness leave time for another day.
+   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT settles comfortably on her pillow, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
 
 1. **Key scene** — `Close view with shallow depth in the school pickup shelter: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; GUAGUA holds a gentle attentive pose; MOM holds a gentle attentive pose; TAMA holds a gentle attentive pose; TICO holds a gentle attentive pose. The lived-in setting includes backpack hooks, a covered bench, picture tiles, a rain gutter, a planter. Window daylight and a warm practical lamp illuminate the scene, with saturated cobalt and pumpkin orange accents. A hanging windsock flutters in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 2. **Character views** — generate each of these as a separate image:
    - `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
-   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
+   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tama Onigiri, a triangular white rice ball with a dark seaweed jacket, gentle eyes, rosy cheeks and tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`

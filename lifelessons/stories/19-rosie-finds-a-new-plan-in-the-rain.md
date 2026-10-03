@@ -3,6 +3,7 @@
 **Life skill:** Handle a changed plan by choosing between realistic alternatives.
 **Magic sentence:** "What can we do instead?"
 **Coaches:** Bīng 🇹🇼 + Slowy the Sloth 🇨🇷
+**Cat’s role:** snowboarder
 **Setting:** a backyard camping tent (practice), then the lakeside visitor lodge (real outing).
 
 ---
@@ -19,7 +20,7 @@ Bīng arrived, shaved ice wearing enormous sunglasses.
 
 Slowy was a sloth taking his time.
 
-Cat the penguin napped on a rolled camping mat.
+Cat the penguin checked her snowboard bag. Her mitten had packed itself inside the other mitten.
 
 Slowy heard a pretend weather change and asked Bīng, **"What can we do instead?"** before choosing crafts.
 
@@ -49,7 +50,7 @@ Slowy folded one corner very slowly. "Puuura... viiida..." Bīng called it the w
 
 At the lakeside lodge, Mom explained that today's paddleboat rides were closed because of the weather.
 
-Lulu arrived with her own little hat. Outside, rain decorated the window with long silver racing stripes.
+Cat zipped her board bag under cover. Rain had changed her outing plan too.
 
 Cat claimed a padded boot-bench seat. Her scarf hung over the edge like a very sleepy flag.
 
@@ -79,9 +80,9 @@ Step five: they started folding. Mom helped with one tricky corner, while Rosie 
 
 Bīng made a boat with enormous paper sails. Slowy was still choosing a very thoughtful first corner.
 
-Cat peered over the boot bench. "If your boats need a captain, I can supervise from this cushion."
+Cat showed her dry mittens. "No snowboarding today. I'll make a paper mountain instead. Want to help?"
 
-Rosie sailed her boat across the tabletop. It had traveled nowhere and somehow still had an adventure.
+Rosie smiled. Their new plan still had an adventure inside it.
 
 Tori joined them beneath the lodge's model lighthouse, examining Rosie's new boat and slightly soggy captain's hat.
 
@@ -116,20 +117,20 @@ Rosie kept her wish for another paddleboat day, and let this rainy afternoon bec
 
 Goodnight, paper captain and little folded boat.
 Goodnight, rain, tapping gently on the roof.
-Goodnight, Cat, captain of cushions.
+Goodnight, Cat, dreaming of another mountain.
 May tomorrow hold room for another plan.
 
 ---
 
 ## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~4:18 (est.) · **Narrated words:** 582 · **Stills:** 19 · **Beats:** 37
+**Runtime:** ~4:17 (est.) · **Narrated words:** 580 · **Stills:** 19 · **Beats:** 37
 **Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 **Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
 **Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: none.
 - `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf`
 - `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 - `MOM` → Mom, the tall rose-milk-tea mom cup with the pink lid · `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`
 - `BING` → Bīng, the shaved ice mound with the sunglasses · `Bīng, a fluffy mound of shaved ice in a little bowl with colorful syrup ribbons, big sunglasses and tiny arms`
@@ -146,11 +147,11 @@ May tomorrow hold room for another plan.
    `Shot: medium shot. Scene: a backyard camping tent. Action: ROSIE relaxes into a small pleased expression, while tent fabric ripples. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 2 — The visiting coaches · day
-**Still:** `Close view from the tabletop edge in a backyard camping tent: BING holds a gentle attentive pose; SLOWY holds a gentle attentive pose; CAT the little blue penguin dozing on a rolled camping mat, yellow scarf visible. The lived-in setting includes tent pegs, a lantern-shaped toy, rolled mats, paper boats, zipped pockets. Window daylight and a warm practical lamp illuminate the scene, with saturated orange and violet accents. Tent fabric ripples in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Close view from the tabletop edge in a backyard camping tent: BING holds a gentle attentive pose; SLOWY holds a gentle attentive pose; CAT the little blue penguin checking mittens beside a zipped snowboard bag, yellow scarf visible. The lived-in setting includes tent pegs, a lantern-shaped toy, rolled mats, paper boats, zipped pockets. Window daylight and a warm practical lamp illuminate the scene, with saturated orange and violet accents. Tent fabric ripples in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 4. **Narration:** Bīng arrived, shaved ice wearing enormous sunglasses. Slowy was a sloth taking his time.
    `Shot: medium shot. Scene: a backyard camping tent. Action: BING gives a reassuring little nod, while tent fabric ripples. Character: the shaved ice mound with the sunglasses — attentive and gently encouraged. Camera: slowly pans right. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-5. **Narration:** Cat the penguin napped on a rolled camping mat.
-   `Shot: medium close-up. Scene: a backyard camping tent. Action: CAT gives a slow contented blink, while tent fabric ripples. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+5. **Narration:** Cat the penguin checked her snowboard bag. Her mitten had packed itself inside the other mitten.
+   `Shot: medium close-up. Scene: a backyard camping tent. Action: CAT checks one mitten, while tent fabric ripples. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 3 — A coach shows the way · day
 **Still:** `High angle over the foreground props in a backyard camping tent: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; BING holds a gentle attentive pose; SLOWY holds a gentle attentive pose. The lived-in setting includes tent pegs, a lantern-shaped toy, rolled mats, paper boats, zipped pockets. Window daylight and a warm practical lamp illuminate the scene, with saturated orange and violet accents. Tent fabric ripples in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -192,13 +193,13 @@ May tomorrow hold room for another plan.
    `Shot: medium close-up. Scene: a backyard camping tent. Action: SLOWY gives a thoughtful slow blink, while tent fabric ripples. Character: the soft brown sloth with the gentle smile — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 10 — The real outing · day
-**Still:** `Tight view of the central character in the lakeside visitor lodge: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin dozing on a padded boot-bench seat, yellow scarf visible; LULU holds a gentle attentive pose. The lived-in setting includes a rain-streaked window, model boats, map pictures, a craft table, boot trays. Window daylight and a warm practical lamp illuminate the scene, with saturated lake blue and mustard accents. Rain beads slide in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Tight view of the central character in the lakeside visitor lodge: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin holding folded paper beside a securely parked snowboard bag, yellow scarf visible; LULU holds a gentle attentive pose. The lived-in setting includes a rain-streaked window, model boats, map pictures, a craft table, boot trays. Window daylight and a warm practical lamp illuminate the scene, with saturated lake blue and mustard accents. Rain beads slide in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 15. **Narration:** At the lakeside lodge, Mom explained that today's paddleboat rides were closed because of the weather.
    `Shot: medium shot. Scene: the lakeside visitor lodge. Action: ROSIE lifts her straw with hopeful curiosity, while rain beads slide. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: rain pattering on the window, no music, no voices, no speech.`
-16. **Narration:** Lulu arrived with her own little hat. Outside, rain decorated the window with long silver racing stripes.
-   `Shot: medium close-up. Scene: the lakeside visitor lodge. Action: LULU gives a thoughtful slow blink, while rain beads slide. Character: the white almond jelly cube with the shy smile — attentive and gently encouraged. Camera: tracks beside. Audio: rain pattering on the window, no music, no voices, no speech.`
+16. **Narration:** Cat zipped her board bag under cover. Rain had changed her outing plan too.
+   `Shot: medium close-up. Scene: the lakeside visitor lodge. Action: CAT lifts one mitten from her gear bag, while rain beads slide. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: rain pattering on the window, no music, no voices, no speech.`
 17. **Narration:** Cat claimed a padded boot-bench seat. Her scarf hung over the edge like a very sleepy flag.
-   `Shot: medium shot. Scene: the lakeside visitor lodge. Action: CAT gives a slow contented blink, while rain beads slide. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: holds still. Audio: rain pattering on the window, no music, no voices, no speech.`
+   `Shot: medium shot. Scene: the lakeside visitor lodge. Action: CAT lifts one mitten from her gear bag, while rain beads slide. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: holds still. Audio: rain pattering on the window, no music, no voices, no speech.`
 
 ### Shot 11 — Trying the first steps · day
 **Still:** `Close view with shallow depth in the lakeside visitor lodge: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; LULU holds a gentle attentive pose; MOM holds a gentle attentive pose. The lived-in setting includes a rain-streaked window, model boats, map pictures, a craft table, boot trays. Window daylight and a warm practical lamp illuminate the scene, with saturated lake blue and mustard accents. Rain beads slide in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -240,10 +241,10 @@ May tomorrow hold room for another plan.
    `Shot: medium shot. Scene: the lakeside visitor lodge. Action: BING relaxes into a small pleased expression, while rain beads slide. Character: the shaved ice mound with the sunglasses — attentive and gently encouraged. Camera: tracks beside. Audio: rain pattering on the window, no music, no voices, no speech.`
 
 ### Shot 16 — Cat's contribution · day
-**Still:** `Medium view framed by the place's props in the lakeside visitor lodge: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin dozing on a padded boot-bench seat, yellow scarf visible; LULU holds a gentle attentive pose. The lived-in setting includes a rain-streaked window, model boats, map pictures, a craft table, boot trays. Window daylight and a warm practical lamp illuminate the scene, with saturated lake blue and mustard accents. Rain beads slide in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-30. **Narration:** Cat peered over the boot bench. "If your boats need a captain, I can supervise from this cushion."
-   `Shot: medium shot. Scene: the lakeside visitor lodge. Action: CAT gives a slow contented blink, while rain beads slide. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: rain pattering on the window, no music, no voices, no speech.`
-31. **Narration:** Rosie sailed her boat across the tabletop. It had traveled nowhere and somehow still had an adventure.
+**Still:** `Medium view framed by the place's props in the lakeside visitor lodge: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin holding folded paper beside a securely parked snowboard bag, yellow scarf visible; LULU holds a gentle attentive pose. The lived-in setting includes a rain-streaked window, model boats, map pictures, a craft table, boot trays. Window daylight and a warm practical lamp illuminate the scene, with saturated lake blue and mustard accents. Rain beads slide in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+30. **Narration:** Cat showed her dry mittens. "No snowboarding today. I'll make a paper mountain instead.
+   `Shot: medium shot. Scene: the lakeside visitor lodge. Action: CAT lifts one mitten from her gear bag, while rain beads slide. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: rain pattering on the window, no music, no voices, no speech.`
+31. **Narration:** Want to help?" Rosie smiled. Their new plan still had an adventure inside it.
    `Shot: medium close-up. Scene: the lakeside visitor lodge. Action: ROSIE gives a thoughtful slow blink, while rain beads slide. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: rain pattering on the window, no music, no voices, no speech.`
 
 ### Shot 17 — Big sister's cheer · day
@@ -264,15 +265,15 @@ May tomorrow hold room for another plan.
 **Still:** `High oblique view across the bedroom pillow in Rosie's cozy bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, tucked beneath a quilt with lid and straw visible, eyes comfortably closed; CAT the little blue penguin asleep on a soft pillow, yellow scarf visible. The lived-in setting includes a folded paper boat, a little keepsake picture, a quilt, a plain lamp, a soft pillow. A plain bedside lamp lights the cozy bedroom at night, with saturated rose pink and warm amber accents. Fairy lights twinkle in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 36. **Narration:** Goodnight, paper captain and little folded boat. Goodnight, rain, tapping gently on the roof.
    `Shot: medium shot. Scene: Rosie's cozy bedroom. Action: ROSIE's eyes soften above her quilt, while fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
-37. **Narration:** Goodnight, Cat, captain of cushions. May tomorrow hold room for another plan.
-   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT gives a slow contented blink, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
+37. **Narration:** Goodnight, Cat, dreaming of another mountain. May tomorrow hold room for another plan.
+   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT settles comfortably on her pillow, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
 
 1. **Key scene** — `Low view looking up at the central figures in the lakeside visitor lodge: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; LULU holds a gentle attentive pose; MOM holds a gentle attentive pose; BING holds a gentle attentive pose; SLOWY holds a gentle attentive pose. The lived-in setting includes a rain-streaked window, model boats, map pictures, a craft table, boot trays. Window daylight and a warm practical lamp illuminate the scene, with saturated lake blue and mustard accents. Rain beads slide in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 2. **Character views** — generate each of these as a separate image:
    - `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
-   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
+   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Bīng, a fluffy mound of shaved ice in a little bowl with colorful syrup ribbons, big sunglasses and tiny arms; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`

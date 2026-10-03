@@ -3,6 +3,7 @@
 **Life skill:** Notice sensory discomfort and request a supported quiet break.
 **Magic sentence:** "It's too loud for me. Can we take a quiet break?"
 **Coaches:** Caǎo 🇹🇼 + Don Café 🇨🇷
+**Cat’s role:** helper
 **Setting:** a music room's instrument alcove (practice), then the science museum sound gallery (real outing).
 
 ---
@@ -19,7 +20,7 @@ Caǎo arrived, grass jelly wearing a beanie.
 
 Don Café was a wise coffee bean.
 
-Cat the penguin napped on a padded instrument case.
+Cat the penguin made picture cards for quiet choices. Her ear-defender drawing looked suspiciously like waffles.
 
 Caǎo told Don Café, **"It's too loud for me. Can we take a quiet break?"** They moved together.
 
@@ -49,7 +50,7 @@ Caǎo tested a soft mallet against a felt pad. "Excellent concert. My beanie app
 
 Mom stayed beside Rosie in the sound gallery, where tubes curved above trays of gently vibrating grains.
 
-Cat was already dozing in the quiet alcove on its cushion, demonstrating her usual commitment to soft furniture.
+Cat pointed out the quiet corner to Mom, then carried their bag there without rushing Rosie.
 
 Rosie tried the first exhibit. The dancing grains looked like a tiny breakfast learning a new dance.
 
@@ -79,9 +80,9 @@ Step five: they decided to leave the sound gallery and visit the gentle light ex
 
 Caǎo nodded. Don Café straightened his hat. "Some afternoons brew better when we turn down the bubbles."
 
-Cat stretched on her cushion. "A quiet break? Finally, an activity for which I have years of training."
+Cat handed Rosie her bag. "Would you like company?" Rosie nodded. A helper could use a quiet voice.
 
-Rosie smiled, her straw relaxing. She had said what she needed, and Mom had listened to her.
+Rosie settled beside Cat. Her ears and her straw felt easier.
 
 Tori met them beside the museum's enormous glass prism, where lemon-colored light made patches on the floor.
 
@@ -116,20 +117,20 @@ Rosie felt proud. She could enjoy an outing and ask for a change when something 
 
 Goodnight, little listener. Let your shoulders soften.
 Goodnight, busy sounds, resting far away.
-Goodnight, Cat, expert at quiet.
+Goodnight, Cat, gentle keeper of bags.
 May your needs find kind listening ears.
 
 ---
 
 ## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~4:26 (est.) · **Narrated words:** 598 · **Stills:** 19 · **Beats:** 39
+**Runtime:** ~4:26 (est.) · **Narrated words:** 599 · **Stills:** 19 · **Beats:** 39
 **Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 **Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
 **Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: none.
 - `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf`
 - `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 - `MOM` → Mom, the tall rose-milk-tea mom cup with the pink lid · `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`
 - `CAO` → Caǎo, the dark grass jelly cube with the black beanie · `Caǎo, a glossy dark grass jelly cube with a black knitted beanie, relaxed eyes and tiny arms and legs`
@@ -145,11 +146,11 @@ May your needs find kind listening ears.
    `Shot: medium shot. Scene: a music room's instrument alcove. Action: ROSIE relaxes into a small pleased expression, while a curtain sways. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 2 — The visiting coaches · day
-**Still:** `High angle over the foreground props in a music room's instrument alcove: CAO holds a gentle attentive pose; CAFE holds a gentle attentive pose; CAT the little blue penguin dozing on a padded instrument case, yellow scarf visible. The lived-in setting includes a closed drum case, soft mallets, felt pads, a metronome, a padded chair. Window daylight and a warm practical lamp illuminate the scene, with saturated forest green and copper accents. A curtain sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `High angle over the foreground props in a music room's instrument alcove: CAO holds a gentle attentive pose; CAFE holds a gentle attentive pose; CAT the little blue penguin holding a picture card of ear defenders, yellow scarf visible. The lived-in setting includes a closed drum case, soft mallets, felt pads, a metronome, a padded chair. Window daylight and a warm practical lamp illuminate the scene, with saturated forest green and copper accents. A curtain sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 4. **Narration:** Caǎo arrived, grass jelly wearing a beanie. Don Café was a wise coffee bean.
    `Shot: medium shot. Scene: a music room's instrument alcove. Action: CAO gives a reassuring little nod, while a curtain sways. Character: the dark grass jelly cube with the black beanie — attentive and gently encouraged. Camera: slowly pans right. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-5. **Narration:** Cat the penguin napped on a padded instrument case.
-   `Shot: medium close-up. Scene: a music room's instrument alcove. Action: CAT gives a slow contented blink, while a curtain sways. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
+5. **Narration:** Cat the penguin made picture cards for quiet choices. Her ear-defender drawing looked suspiciously like waffles.
+   `Shot: medium close-up. Scene: a music room's instrument alcove. Action: CAT lifts one picture choice card, while a curtain sways. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 3 — A coach shows the way · day
 **Still:** `Side view through the foreground in a music room's instrument alcove: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAO holds a gentle attentive pose; CAFE holds a gentle attentive pose. The lived-in setting includes a closed drum case, soft mallets, felt pads, a metronome, a padded chair. Window daylight and a warm practical lamp illuminate the scene, with saturated forest green and copper accents. A curtain sways in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -195,11 +196,11 @@ May your needs find kind listening ears.
    `Shot: medium close-up. Scene: a music room's instrument alcove. Action: CAO gives a thoughtful slow blink, while a curtain sways. Character: the dark grass jelly cube with the black beanie — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 10 — The real outing · day
-**Still:** `Close view with shallow depth in the science museum sound gallery: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin dozing on a cushion in the quiet alcove, yellow scarf visible. The lived-in setting includes sound tubes, vibration trays, padded headphones, wave sculptures, a quiet alcove. Window daylight and a warm practical lamp illuminate the scene, with saturated electric purple and lemon accents. Reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Close view with shallow depth in the science museum sound gallery: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin holding a small carry bag beside the quiet corner seat, yellow scarf visible. The lived-in setting includes sound tubes, vibration trays, padded headphones, wave sculptures, a quiet alcove. Window daylight and a warm practical lamp illuminate the scene, with saturated electric purple and lemon accents. Reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 17. **Narration:** Mom stayed beside Rosie in the sound gallery, where tubes curved above trays of gently vibrating grains.
    `Shot: medium shot. Scene: the science museum sound gallery. Action: ROSIE lifts her straw with hopeful curiosity, while reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-18. **Narration:** Cat was already dozing in the quiet alcove on its cushion, demonstrating her usual commitment to soft furniture.
-   `Shot: medium close-up. Scene: the science museum sound gallery. Action: CAT gives a slow contented blink, while reflections shimmer. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
+18. **Narration:** Cat pointed out the quiet corner to Mom, then carried their bag there without rushing Rosie.
+   `Shot: medium close-up. Scene: the science museum sound gallery. Action: CAT lowers a small bag beside the seat, while reflections shimmer. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 19. **Narration:** Rosie tried the first exhibit. The dancing grains looked like a tiny breakfast learning a new dance.
    `Shot: medium shot. Scene: the science museum sound gallery. Action: ROSIE relaxes into a small pleased expression, while reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
@@ -243,11 +244,11 @@ May your needs find kind listening ears.
    `Shot: medium shot. Scene: the science museum sound gallery. Action: CAO relaxes into a small pleased expression, while reflections shimmer. Character: the dark grass jelly cube with the black beanie — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 16 — Cat's contribution · day
-**Still:** `High oblique view across the scene in the science museum sound gallery: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin dozing on a cushion in the quiet alcove, yellow scarf visible; MOM holds a gentle attentive pose. The lived-in setting includes sound tubes, vibration trays, padded headphones, wave sculptures, a quiet alcove. Window daylight and a warm practical lamp illuminate the scene, with saturated electric purple and lemon accents. Reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-32. **Narration:** Cat stretched on her cushion. "A quiet break? Finally, an activity for which I have years of training."
-   `Shot: medium shot. Scene: the science museum sound gallery. Action: CAT gives a slow contented blink, while reflections shimmer. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-33. **Narration:** Rosie smiled, her straw relaxing. She had said what she needed, and Mom had listened to her.
-   `Shot: medium close-up. Scene: the science museum sound gallery. Action: ROSIE gives a thoughtful slow blink, while reflections shimmer. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
+**Still:** `High oblique view across the scene in the science museum sound gallery: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin holding a small carry bag beside the quiet corner seat, yellow scarf visible; MOM holds a gentle attentive pose. The lived-in setting includes sound tubes, vibration trays, padded headphones, wave sculptures, a quiet alcove. Window daylight and a warm practical lamp illuminate the scene, with saturated electric purple and lemon accents. Reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+32. **Narration:** Cat handed Rosie her bag. "Would you like company?" Rosie nodded.
+   `Shot: medium shot. Scene: the science museum sound gallery. Action: CAT lowers a small bag beside the seat, while reflections shimmer. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
+33. **Narration:** A helper could use a quiet voice. Rosie settled beside Cat. Her ears and her straw felt easier.
+   `Shot: medium close-up. Scene: the science museum sound gallery. Action: CAT lowers a small bag beside the seat, while reflections shimmer. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 17 — Big sister's cheer · day
 **Still:** `Wide establishing view with deep perspective in the science museum sound gallery: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TORI stands with her green straw tilted kindly. The lived-in setting includes sound tubes, vibration trays, padded headphones, wave sculptures, a quiet alcove. Window daylight and a warm practical lamp illuminate the scene, with saturated electric purple and lemon accents. Reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -267,15 +268,15 @@ May your needs find kind listening ears.
 **Still:** `High oblique view across the bedroom pillow in Rosie's cozy bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, tucked beneath a quilt with lid and straw visible, eyes comfortably closed; CAT the little blue penguin asleep on a soft pillow, yellow scarf visible. The lived-in setting includes a pair of padded headphones, a little keepsake picture, a quilt, a plain lamp, a soft pillow. A plain bedside lamp lights the cozy bedroom at night, with saturated rose pink and warm amber accents. Fairy lights twinkle in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 38. **Narration:** Goodnight, little listener. Let your shoulders soften. Goodnight, busy sounds, resting far away.
    `Shot: medium shot. Scene: Rosie's cozy bedroom. Action: ROSIE's eyes soften above her quilt, while fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
-39. **Narration:** Goodnight, Cat, expert at quiet. May your needs find kind listening ears.
-   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT gives a slow contented blink, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
+39. **Narration:** Goodnight, Cat, gentle keeper of bags. May your needs find kind listening ears.
+   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT settles comfortably on her pillow, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
 
 1. **Key scene** — `Medium view framed by the place's props in the science museum sound gallery: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAO holds a gentle attentive pose; CAFE holds a gentle attentive pose. The lived-in setting includes sound tubes, vibration trays, padded headphones, wave sculptures, a quiet alcove. Window daylight and a warm practical lamp illuminate the scene, with saturated electric purple and lemon accents. Reflections shimmer in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 2. **Character views** — generate each of these as a separate image:
    - `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
-   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
+   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Caǎo, a glossy dark grass jelly cube with a black knitted beanie, relaxed eyes and tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`

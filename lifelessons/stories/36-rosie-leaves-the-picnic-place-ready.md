@@ -3,6 +3,7 @@
 **Life skill:** Care for a shared space by sorting and clearing personal belongings.
 **Magic sentence:** "What needs tidying before we go?"
 **Coaches:** Niko Nigiri 🇯🇵 + Slowy the Sloth 🇨🇷
+**Cat’s role:** helper
 **Setting:** the carport camping shelf (practice), then the orchard picnic clearing (real outing).
 
 ---
@@ -19,7 +20,7 @@ Niko was a remarkably tidy salmon nigiri.
 
 Slowy was a sloth taking his time.
 
-Cat the penguin napped on a folded picnic mat.
+Cat the penguin practiced sorting picnic things. She solemnly returned a pretend banana to its pretend owner.
 
 Niko checked the pretend picnic place. **"What needs tidying before we go?"** He sorted and returned their things.
 
@@ -49,7 +50,7 @@ Niko aligned the empty boxes. "A tidy picnic procession. Every lid has found its
 
 Mom and Rosie finished lunch in the orchard clearing, where a shade cloth fluttered above wooden picnic benches.
 
-Cat napped in a padded empty fruit crate, proving that some harvested items were considerably rounder than apples.
+Cat carried the empty fruit crate to the packing spot, keeping their picnic blanket clear.
 
 Rosie noticed her cloth napkin, an empty paper wrapper, and a serving tray borrowed from the picnic shelter.
 
@@ -79,9 +80,9 @@ Step five: she checked the space with Mom, who handled anything sharp or unfamil
 
 Niko admired the tabletop. Slowy finally folded his napkin. "The cloth has completed its farewell."
 
-Cat opened an eye from the fruit crate. "Before tidying the penguin, please consult the penguin's nap schedule."
+Cat collected their folded cloths. "My job is cloth patrol. This napkin was attempting to become a kite."
 
-Rosie laughed, and Mom gathered Cat gently once she was ready. The picnic place waited cleanly for somebody else.
+Rosie smiled. The picnic place was ready for its next visitors.
 
 Tori met Rosie beneath the orchard's little apple-weighing canopy, where their packed picnic bag stood ready.
 
@@ -116,20 +117,20 @@ Rosie felt proud of caring for the shared place, and looked forward to taking th
 
 Goodnight, picnic table, ready for new visitors.
 Goodnight, napkins, folded safely away.
-Goodnight, Cat, consulted before packing.
+Goodnight, Cat, cloth patrol finished.
 May your care leave kindness behind.
 
 ---
 
 ## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~4:28 (est.) · **Narrated words:** 602 · **Stills:** 19 · **Beats:** 40
+**Runtime:** ~4:26 (est.) · **Narrated words:** 599 · **Stills:** 19 · **Beats:** 39
 **Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 **Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
 **Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: none.
 - `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf`
 - `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 - `MOM` → Mom, the tall rose-milk-tea mom cup with the pink lid · `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`
 - `NIKO` → Niko Nigiri, the salmon nigiri with the neat rice body · `Niko Nigiri, a tidy little mound of white sushi rice topped with orange salmon, friendly eyes, a neat seaweed belt and tiny arms and legs`
@@ -145,11 +146,11 @@ May your care leave kindness behind.
    `Shot: medium shot. Scene: the carport camping shelf. Action: ROSIE relaxes into a small pleased expression, while cloth napkin corners flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 2 — The visiting coaches · day
-**Still:** `Low angle at cup height in the carport camping shelf: NIKO holds a gentle attentive pose; SLOWY holds a gentle attentive pose; CAT the little blue penguin dozing on a folded picnic mat, yellow scarf visible. The lived-in setting includes picnic boxes, sorting baskets, cloth napkins, a spare mat, stacked stools. Window daylight and a warm practical lamp illuminate the scene, with saturated terracotta and pale blue accents. Cloth napkin corners flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Low angle at cup height in the carport camping shelf: NIKO holds a gentle attentive pose; SLOWY holds a gentle attentive pose; CAT the little blue penguin sorting folded picnic cloths beside an empty fruit crate, yellow scarf visible. The lived-in setting includes picnic boxes, sorting baskets, cloth napkins, a spare mat, stacked stools. Window daylight and a warm practical lamp illuminate the scene, with saturated terracotta and pale blue accents. Cloth napkin corners flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 4. **Narration:** Niko was a remarkably tidy salmon nigiri. Slowy was a sloth taking his time.
    `Shot: medium shot. Scene: the carport camping shelf. Action: NIKO gives a reassuring little nod, while cloth napkin corners flutter. Character: the salmon nigiri with the neat rice body — attentive and gently encouraged. Camera: slowly pans right. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-5. **Narration:** Cat the penguin napped on a folded picnic mat.
-   `Shot: medium close-up. Scene: the carport camping shelf. Action: CAT gives a slow contented blink, while cloth napkin corners flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+5. **Narration:** Cat the penguin practiced sorting picnic things. She solemnly returned a pretend banana to its pretend owner.
+   `Shot: medium close-up. Scene: the carport camping shelf. Action: CAT folds one picnic cloth, while cloth napkin corners flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 3 — A coach shows the way · day
 **Still:** `Over-the-shoulder view past ROSIE's lid in the carport camping shelf: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; NIKO holds a gentle attentive pose; SLOWY holds a gentle attentive pose. The lived-in setting includes picnic boxes, sorting baskets, cloth napkins, a spare mat, stacked stools. Window daylight and a warm practical lamp illuminate the scene, with saturated terracotta and pale blue accents. Cloth napkin corners flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -195,11 +196,11 @@ May your care leave kindness behind.
    `Shot: medium close-up. Scene: the carport camping shelf. Action: NIKO gives a thoughtful slow blink, while cloth napkin corners flutter. Character: the salmon nigiri with the neat rice body — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 10 — The real outing · day
-**Still:** `Wide view framed by the doorway in the orchard picnic clearing: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin dozing on a padded empty fruit crate, yellow scarf visible. The lived-in setting includes picnic benches, marked sorting bins with pictures, fruit crates, a shared tray, shade cloth. Window daylight and a warm practical lamp illuminate the scene, with saturated apple red and grass green accents. Apple leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Wide view framed by the doorway in the orchard picnic clearing: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin carrying a small stack of folded picnic cloths, yellow scarf visible. The lived-in setting includes picnic benches, marked sorting bins with pictures, fruit crates, a shared tray, shade cloth. Window daylight and a warm practical lamp illuminate the scene, with saturated apple red and grass green accents. Apple leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 17. **Narration:** Mom and Rosie finished lunch in the orchard clearing, where a shade cloth fluttered above wooden picnic benches.
    `Shot: medium shot. Scene: the orchard picnic clearing. Action: ROSIE lifts her straw with hopeful curiosity, while apple leaves sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-18. **Narration:** Cat napped in a padded empty fruit crate, proving that some harvested items were considerably rounder than apples.
-   `Shot: medium close-up. Scene: the orchard picnic clearing. Action: CAT gives a slow contented blink, while apple leaves sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+18. **Narration:** Cat carried the empty fruit crate to the packing spot, keeping their picnic blanket clear.
+   `Shot: medium close-up. Scene: the orchard picnic clearing. Action: CAT places one folded cloth in the fruit crate, while apple leaves sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 19. **Narration:** Rosie noticed her cloth napkin, an empty paper wrapper, and a serving tray borrowed from the picnic shelter.
    `Shot: medium shot. Scene: the orchard picnic clearing. Action: ROSIE relaxes into a small pleased expression, while apple leaves sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
@@ -243,41 +244,39 @@ May your care leave kindness behind.
    `Shot: medium shot. Scene: the orchard picnic clearing. Action: ROSIE relaxes into a small pleased expression, while apple leaves sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 16 — Cat's contribution · day
-**Still:** `Close view through soft foreground shapes in the orchard picnic clearing: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin dozing on a padded empty fruit crate, yellow scarf visible; MOM holds a gentle attentive pose. The lived-in setting includes picnic benches, marked sorting bins with pictures, fruit crates, a shared tray, shade cloth. Window daylight and a warm practical lamp illuminate the scene, with saturated apple red and grass green accents. Apple leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-32. **Narration:** Cat opened an eye from the fruit crate. "Before tidying the penguin, please consult the penguin's nap schedule."
-   `Shot: medium shot. Scene: the orchard picnic clearing. Action: CAT gives a slow contented blink, while apple leaves sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-33. **Narration:** Rosie laughed, and Mom gathered Cat gently once she was ready.
-   `Shot: medium close-up. Scene: the orchard picnic clearing. Action: CAT gives a slow contented blink, while apple leaves sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-34. **Narration:** The picnic place waited cleanly for somebody else.
-   `Shot: medium shot. Scene: the orchard picnic clearing. Action: CAT gives a slow contented blink, while apple leaves sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: holds still. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+**Still:** `Close view through soft foreground shapes in the orchard picnic clearing: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin carrying a small stack of folded picnic cloths, yellow scarf visible; MOM holds a gentle attentive pose. The lived-in setting includes picnic benches, marked sorting bins with pictures, fruit crates, a shared tray, shade cloth. Window daylight and a warm practical lamp illuminate the scene, with saturated apple red and grass green accents. Apple leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+32. **Narration:** Cat collected their folded cloths. "My job is cloth patrol. This napkin was attempting to become a kite."
+   `Shot: medium shot. Scene: the orchard picnic clearing. Action: CAT places one folded cloth in the fruit crate, while apple leaves sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+33. **Narration:** Rosie smiled. The picnic place was ready for its next visitors.
+   `Shot: medium close-up. Scene: the orchard picnic clearing. Action: ROSIE gives a thoughtful slow blink, while apple leaves sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 17 — Big sister's cheer · day
 **Still:** `Low view looking up at the central figures in the orchard picnic clearing: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TORI stands with her green straw tilted kindly. The lived-in setting includes picnic benches, marked sorting bins with pictures, fruit crates, a shared tray, shade cloth. Window daylight and a warm practical lamp illuminate the scene, with saturated apple red and grass green accents. Apple leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-35. **Narration:** Tori met Rosie beneath the orchard's little apple-weighing canopy, where their packed picnic bag stood ready.
+34. **Narration:** Tori met Rosie beneath the orchard's little apple-weighing canopy, where their packed picnic bag stood ready.
    `Shot: medium shot. Scene: the orchard picnic clearing. Action: ROSIE relaxes into a small pleased expression, while apple leaves sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-36. **Narration:** "You left it ready for others. You've got this, little sip," she said, checking the little folded napkin.
+35. **Narration:** "You left it ready for others. You've got this, little sip," she said, checking the little folded napkin.
    `Shot: medium close-up. Scene: the orchard picnic clearing. Action: TORI gives a thoughtful slow blink, while apple leaves sway. Character: the tall golden lychee-tea cup with the green straw — attentive and gently encouraged. Camera: holds still. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-37. **Narration:** Rosie felt proud of caring for the shared place, and looked forward to taking their apples home.
+36. **Narration:** Rosie felt proud of caring for the shared place, and looked forward to taking their apples home.
    `Shot: medium shot. Scene: the orchard picnic clearing. Action: ROSIE relaxes into a small pleased expression, while apple leaves sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pushes in. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 18 — One step at a time · day
 **Still:** `Medium view framed by the place's props in the orchard picnic clearing: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TORI stands with her green straw tilted kindly. The lived-in setting includes picnic benches, marked sorting bins with pictures, fruit crates, a shared tray, shade cloth. Window daylight and a warm practical lamp illuminate the scene, with saturated apple red and grass green accents. Apple leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-38. **Narration:** **加油** (jiāyóu) = go for it. "One step at a time, one sip at a time," said Rosie.
+37. **Narration:** **加油** (jiāyóu) = go for it. "One step at a time, one sip at a time," said Rosie.
    `Shot: medium shot. Scene: the orchard picnic clearing. Action: ROSIE gives one proud little bounce in place, while apple leaves sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 19 — Goodnight · night
 **Still:** `High oblique view across the bedroom pillow in Rosie's cozy bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, tucked beneath a quilt with lid and straw visible, eyes comfortably closed; CAT the little blue penguin asleep on a soft pillow, yellow scarf visible. The lived-in setting includes a cloth picnic napkin, a little keepsake picture, a quilt, a plain lamp, a soft pillow. A plain bedside lamp lights the cozy bedroom at night, with saturated rose pink and warm amber accents. Fairy lights twinkle in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-39. **Narration:** Goodnight, picnic table, ready for new visitors. Goodnight, napkins, folded safely away.
+38. **Narration:** Goodnight, picnic table, ready for new visitors. Goodnight, napkins, folded safely away.
    `Shot: medium shot. Scene: Rosie's cozy bedroom. Action: ROSIE's eyes soften above her quilt, while fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
-40. **Narration:** Goodnight, Cat, consulted before packing. May your care leave kindness behind.
-   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT gives a slow contented blink, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
+39. **Narration:** Goodnight, Cat, cloth patrol finished. May your care leave kindness behind.
+   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT settles comfortably on her pillow, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
 
 1. **Key scene** — `High diagonal view across the task in the orchard picnic clearing: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; NIKO holds a gentle attentive pose; SLOWY holds a gentle attentive pose. The lived-in setting includes picnic benches, marked sorting bins with pictures, fruit crates, a shared tray, shade cloth. Window daylight and a warm practical lamp illuminate the scene, with saturated apple red and grass green accents. Apple leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 2. **Character views** — generate each of these as a separate image:
    - `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
-   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
+   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Niko Nigiri, a tidy little mound of white sushi rice topped with orange salmon, friendly eyes, a neat seaweed belt and tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`

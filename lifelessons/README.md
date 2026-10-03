@@ -1,6 +1,6 @@
 # 🌹 Life Lessons — Rosie's Step-by-Step Stories
 
-50 cozy bedtime stories that teach everyday social skills, one clear step at a time. **Rosie the Rose Milk Tea** is a sweet, slightly nervous little drink who gets brave once she knows the steps. Friends from the Taiwan, Japan, and Costa Rica collections coach her. Her big sister **Tori** is always there to cheer, her little sister **Bud** tags along (usually with a sock), and **Cat the penguin** — a sleepy little blue penguin from Frostpeak staying with Rosie's family — comes on every adventure and naps somewhere new each time.
+50 cozy bedtime stories that teach everyday social skills, one clear step at a time. **Rosie the Rose Milk Tea** is a sweet, slightly nervous little drink who gets brave once she knows the steps. Friends from the Taiwan, Japan, and Costa Rica collections coach her. Her big sister **Tori** is always there to cheer, her little sister **Bud** tags along (usually with a sock), and **Cat the penguin**, a little blue penguin from Frostpeak staying with the family, joins every adventure. After the librarian story (07), Cat has varied active roles: hip-hop dancer, snowboarder, gentle kung fu practitioner, practical helper, quiet companion, and occasional coach for Rosie. The first seven stories retain their original sleepy Cat moments.
 
 Written as a gentle social-skills guide (in the style of social stories), and useful for kids who do best with clear, literal, repeatable steps.
 
@@ -78,9 +78,10 @@ The collection grew from 16 original stories to 50 with additions 17–50. Each 
 ```bash
 python3 lifelessons/check_storyboard.py lifelessons/stories/*.md
 python3 lifelessons/check_collection.py
+python3 lifelessons/test_cat_roles.py
 ```
 
-The first command checks narration and storyboard timing. The second checks Cat and Tori, repeated steps and magic sentences, declared characters, word metadata, and duplicate prose across every story pair.
+The first command checks narration and storyboard timing. The second checks Cat's presence and active roles, Tori, repeated steps and magic sentences, declared characters, word metadata, and duplicate prose across every story pair. The third runs Cat-role regression tests.
 
 ## Making the videos (LTX-2.5)
 See **[LTX_GUIDE.md](LTX_GUIDE.md)** for the full guide; it follows the local pipeline in `bedtime-video-pipeline` (RUNBOOK "Current production path"). The short version:

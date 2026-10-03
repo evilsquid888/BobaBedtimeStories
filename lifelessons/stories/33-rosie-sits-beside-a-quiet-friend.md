@@ -3,6 +3,7 @@
 **Life skill:** Offer support to an upset friend without demanding details or touch.
 **Magic sentence:** "Would you like company or some space?"
 **Coaches:** Hóng Dòu 🇹🇼 + Estrella 🇨🇷
+**Cat’s role:** quiet companion
 **Setting:** the building's fern stairwell bench (practice), then the butterfly garden pavilion (real outing).
 
 ---
@@ -19,7 +20,7 @@ Hóng Dòu was a grandmotherly red bean.
 
 Estrella was a turtle with kind eyes.
 
-Cat the penguin napped on a fern-print cushion.
+Cat the penguin folded a small sitting cloth. Her usual hip-hop feet could take a quiet break.
 
 Estrella looked quiet. Hóng Dòu asked, **"Would you like company or some space?"** She listened and sat nearby.
 
@@ -49,7 +50,7 @@ Hóng Dòu placed her ladle down. "Even my soup advice is waiting for an invitat
 
 Mom took Rosie to the butterfly pavilion, where nectar pots stood beside mesh curtains and shaded benches.
 
-Cat settled onto a bench cushion, becoming the garden's only blue visitor with absolutely no plans to flutter.
+Cat chose the next bench, giving Lulu space instead of gathering a crowd around her.
 
 Lulu sat beneath a butterfly picture. She looked down, keeping her little hands together beside her jelly body.
 
@@ -79,9 +80,9 @@ Step five: when Lulu wanted Mom, Rosie called her over. Mom listened, and Rosie 
 
 Hóng Dòu nodded. Estrella rested her flippers. The ladle remained silent: a remarkable achievement for soup equipment.
 
-Cat opened one eye. "Quiet company is my specialty. My bench and I have an excellent understanding."
+Cat asked, "Would a sitting cloth help?" Lulu nodded. Cat passed it over, then quietly watched a butterfly.
 
-Lulu gave a small smile. Rosie stayed beside her, glad that helping could be gentle and unhurried.
+Rosie stayed beside Lulu. Gentle company could be helpful enough.
 
 Tori met Rosie beside the pavilion's butterfly mosaic, where one tiny blue tile looked rather like Cat.
 
@@ -116,7 +117,7 @@ Rosie felt proud of giving care without trying to rush her friend's feelings int
 
 Goodnight, kind company and comfortable spaces.
 Goodnight, butterflies, folding gentle wings.
-Goodnight, Cat, friend of the bench.
+Goodnight, Cat, quiet company beside you.
 May quiet care rest beside you tonight.
 
 ---
@@ -129,7 +130,7 @@ May quiet care rest beside you tonight.
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
 **Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: none.
 - `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf`
 - `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 - `MOM` → Mom, the tall rose-milk-tea mom cup with the pink lid · `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`
 - `HONG` → Hóng Dòu, the red bean grandmother with the tiny ladle · `Hóng Dòu, a plump reddish-brown bean grandmother with kind eyes, a little apron and a tiny wooden ladle`
@@ -146,11 +147,11 @@ May quiet care rest beside you tonight.
    `Shot: medium shot. Scene: the building's fern stairwell bench. Action: ROSIE relaxes into a small pleased expression, while fern tips sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 2 — The visiting coaches · day
-**Still:** `Medium view framed by the place's props in the building's fern stairwell bench: HONG holds a gentle attentive pose; ESTRELLA holds a gentle attentive pose; CAT the little blue penguin dozing on a fern-print cushion, yellow scarf visible. The lived-in setting includes fern pots, soft cushions, a little fan, a pebble dish, a picture book. Window daylight and a warm practical lamp illuminate the scene, with saturated moss green and peach accents. Fern tips sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Medium view framed by the place's props in the building's fern stairwell bench: HONG holds a gentle attentive pose; ESTRELLA holds a gentle attentive pose; CAT the little blue penguin holding a folded sitting cloth beside a bench, yellow scarf visible. The lived-in setting includes fern pots, soft cushions, a little fan, a pebble dish, a picture book. Window daylight and a warm practical lamp illuminate the scene, with saturated moss green and peach accents. Fern tips sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 4. **Narration:** Hóng Dòu was a grandmotherly red bean. Estrella was a turtle with kind eyes.
    `Shot: medium shot. Scene: the building's fern stairwell bench. Action: HONG gives a reassuring little nod, while fern tips sway. Character: the red bean grandmother with the tiny ladle — attentive and gently encouraged. Camera: slowly pans right. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-5. **Narration:** Cat the penguin napped on a fern-print cushion.
-   `Shot: medium close-up. Scene: the building's fern stairwell bench. Action: CAT gives a slow contented blink, while fern tips sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
+5. **Narration:** Cat the penguin folded a small sitting cloth. Her usual hip-hop feet could take a quiet break.
+   `Shot: medium close-up. Scene: the building's fern stairwell bench. Action: CAT folds one sitting cloth, while fern tips sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 3 — A coach shows the way · day
 **Still:** `High oblique view across the scene in the building's fern stairwell bench: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; HONG holds a gentle attentive pose; ESTRELLA holds a gentle attentive pose. The lived-in setting includes fern pots, soft cushions, a little fan, a pebble dish, a picture book. Window daylight and a warm practical lamp illuminate the scene, with saturated moss green and peach accents. Fern tips sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -192,11 +193,11 @@ May quiet care rest beside you tonight.
    `Shot: medium close-up. Scene: the building's fern stairwell bench. Action: HONG gives a thoughtful slow blink, while fern tips sway. Character: the red bean grandmother with the tiny ladle — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 10 — The real outing · day
-**Still:** `Tight view at straw height in the butterfly garden pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin dozing on a shaded bench cushion, yellow scarf visible; LULU holds a gentle attentive pose. The lived-in setting includes butterfly pictures, nectar pots, mesh curtains, shaded benches, a shallow planter. Window daylight and a warm practical lamp illuminate the scene, with saturated lavender and sunflower yellow accents. Mesh curtains ripple in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Tight view at straw height in the butterfly garden pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin sitting upright on the adjacent bench holding a folded cloth, yellow scarf visible; LULU holds a gentle attentive pose. The lived-in setting includes butterfly pictures, nectar pots, mesh curtains, shaded benches, a shallow planter. Window daylight and a warm practical lamp illuminate the scene, with saturated lavender and sunflower yellow accents. Mesh curtains ripple in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 15. **Narration:** Mom took Rosie to the butterfly pavilion, where nectar pots stood beside mesh curtains and shaded benches.
    `Shot: medium shot. Scene: the butterfly garden pavilion. Action: ROSIE lifts her straw with hopeful curiosity, while mesh curtains ripple. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
-16. **Narration:** Cat settled onto a bench cushion, becoming the garden's only blue visitor with absolutely no plans to flutter.
-   `Shot: medium close-up. Scene: the butterfly garden pavilion. Action: CAT gives a slow contented blink, while mesh curtains ripple. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
+16. **Narration:** Cat chose the next bench, giving Lulu space instead of gathering a crowd around her.
+   `Shot: medium close-up. Scene: the butterfly garden pavilion. Action: CAT offers one folded sitting cloth, while mesh curtains ripple. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
 17. **Narration:** Lulu sat beneath a butterfly picture. She looked down, keeping her little hands together beside her jelly body.
    `Shot: medium shot. Scene: the butterfly garden pavilion. Action: LULU relaxes into a small pleased expression, while mesh curtains ripple. Character: the white almond jelly cube with the shy smile — attentive and gently encouraged. Camera: holds still. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
 
@@ -240,10 +241,10 @@ May quiet care rest beside you tonight.
    `Shot: medium shot. Scene: the butterfly garden pavilion. Action: HONG relaxes into a small pleased expression, while mesh curtains ripple. Character: the red bean grandmother with the tiny ladle — attentive and gently encouraged. Camera: tracks beside. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
 
 ### Shot 16 — Cat's contribution · day
-**Still:** `Close view with shallow depth in the butterfly garden pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin dozing on a shaded bench cushion, yellow scarf visible; LULU holds a gentle attentive pose. The lived-in setting includes butterfly pictures, nectar pots, mesh curtains, shaded benches, a shallow planter. Window daylight and a warm practical lamp illuminate the scene, with saturated lavender and sunflower yellow accents. Mesh curtains ripple in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-30. **Narration:** Cat opened one eye. "Quiet company is my specialty. My bench and I have an excellent understanding."
-   `Shot: medium shot. Scene: the butterfly garden pavilion. Action: CAT gives a slow contented blink, while mesh curtains ripple. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
-31. **Narration:** Lulu gave a small smile. Rosie stayed beside her, glad that helping could be gentle and unhurried.
+**Still:** `Close view with shallow depth in the butterfly garden pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin sitting upright on the adjacent bench holding a folded cloth, yellow scarf visible; LULU holds a gentle attentive pose. The lived-in setting includes butterfly pictures, nectar pots, mesh curtains, shaded benches, a shallow planter. Window daylight and a warm practical lamp illuminate the scene, with saturated lavender and sunflower yellow accents. Mesh curtains ripple in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+30. **Narration:** Cat asked, "Would a sitting cloth help?" Lulu nodded. Cat passed it over,
+   `Shot: medium shot. Scene: the butterfly garden pavilion. Action: CAT offers one folded sitting cloth, while mesh curtains ripple. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
+31. **Narration:** then quietly watched a butterfly. Rosie stayed beside Lulu. Gentle company could be helpful enough.
    `Shot: medium close-up. Scene: the butterfly garden pavilion. Action: ROSIE gives a thoughtful slow blink, while mesh curtains ripple. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
 
 ### Shot 17 — Big sister's cheer · day
@@ -264,15 +265,15 @@ May quiet care rest beside you tonight.
 **Still:** `High oblique view across the bedroom pillow in Rosie's cozy bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, tucked beneath a quilt with lid and straw visible, eyes comfortably closed; CAT the little blue penguin asleep on a soft pillow, yellow scarf visible. The lived-in setting includes a small picture book, a little keepsake picture, a quilt, a plain lamp, a soft pillow. A plain bedside lamp lights the cozy bedroom at night, with saturated rose pink and warm amber accents. Fairy lights twinkle in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 36. **Narration:** Goodnight, kind company and comfortable spaces. Goodnight, butterflies, folding gentle wings.
    `Shot: medium shot. Scene: Rosie's cozy bedroom. Action: ROSIE's eyes soften above her quilt, while fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
-37. **Narration:** Goodnight, Cat, friend of the bench. May quiet care rest beside you tonight.
-   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT gives a slow contented blink, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
+37. **Narration:** Goodnight, Cat, quiet company beside you. May quiet care rest beside you tonight.
+   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT settles comfortably on her pillow, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
 
 1. **Key scene** — `Tight view of the central character in the butterfly garden pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; LULU holds a gentle attentive pose; MOM holds a gentle attentive pose; HONG holds a gentle attentive pose; ESTRELLA holds a gentle attentive pose. The lived-in setting includes butterfly pictures, nectar pots, mesh curtains, shaded benches, a shallow planter. Window daylight and a warm practical lamp illuminate the scene, with saturated lavender and sunflower yellow accents. Mesh curtains ripple in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 2. **Character views** — generate each of these as a separate image:
    - `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
-   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
+   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Hóng Dòu, a plump reddish-brown bean grandmother with kind eyes, a little apron and a tiny wooden ladle; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`

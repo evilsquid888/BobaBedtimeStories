@@ -3,6 +3,7 @@
 **Life skill:** Respond kindly when another person likes different food or activities.
 **Magic sentence:** "We can like different things and still be friends."
 **Coaches:** Bīng 🇹🇼 + Lala 🇨🇷
+**Cat’s role:** hip-hop dancer
 **Setting:** the pantry's picnic basket alcove (practice), then the fruit festival tasting pavilion (real outing).
 
 ---
@@ -19,7 +20,7 @@ Bīng arrived, shaved ice wearing enormous sunglasses.
 
 Lala was a soft cake wearing cream.
 
-Cat the penguin napped on a folded napkin pile.
+Cat the penguin picked a hip-hop practice rhythm. Bīng preferred a slower one; both could have a turn.
 
 Bīng heard Lala's different choice. **"We can like different things and still be friends,"** he said warmly.
 
@@ -49,7 +50,7 @@ Bīng examined his enormous picture tower. "More is more! Except agreement, whic
 
 Mom accompanied Rosie to the tasting pavilion, checking food choices and ingredients before any little bowls were offered.
 
-Cat settled into a spare picnic basket cushion, selecting comfort from the festival's impressive menu of activities.
+Cat used a tiny silent heel tap beside the picnic seat, leaving everyone's food choices alone.
 
 Guagua chose a fruit different from Rosie's mango. They sat at a shaded table with their own clean spoons.
 
@@ -79,9 +80,9 @@ They matched round shapes and long shapes, enjoying an activity that did not nee
 
 Lala admired the puzzle. Bīng inspected a card. "A wonderful topping. Unfortunately, cardboard is unsuitable for dessert."
 
-Cat lifted her head from the basket. "My favorite is this cushion. I welcome your differing fruit opinions."
+Cat stopped her heel tap. "Different rhythms, different fruit bowls. Still the same lovely afternoon." Guagua grinned.
 
-Rosie giggled, and Guagua grinned. Their bowls looked different, but their afternoon still had plenty to share.
+Rosie giggled. Their different bowls still belonged at the same picnic.
 
 Tori met Rosie beside the pavilion's giant painted fruit sculptures, asking which puzzle shape had been trickiest.
 
@@ -116,20 +117,20 @@ Rosie felt proud. Friendship had room for different favorites, including a pengu
 
 Goodnight, different favorites and friendly little bowls.
 Goodnight, spoons, resting side by side.
-Goodnight, Cat, loyal to cushions.
+Goodnight, Cat, dancing heels now quiet.
 May friendship leave room for your own taste.
 
 ---
 
 ## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~4:28 (est.) · **Narrated words:** 604 · **Stills:** 19 · **Beats:** 39
+**Runtime:** ~4:29 (est.) · **Narrated words:** 607 · **Stills:** 19 · **Beats:** 39
 **Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 **Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
 **Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: none.
 - `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf`
 - `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 - `MOM` → Mom, the tall rose-milk-tea mom cup with the pink lid · `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`
 - `BING` → Bīng, the shaved ice mound with the sunglasses · `Bīng, a fluffy mound of shaved ice in a little bowl with colorful syrup ribbons, big sunglasses and tiny arms`
@@ -146,11 +147,11 @@ May friendship leave room for your own taste.
    `Shot: medium shot. Scene: the pantry's picnic basket alcove. Action: ROSIE relaxes into a small pleased expression, while cloth ribbons flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 2 — The visiting coaches · day
-**Still:** `Side view through the foreground in the pantry's picnic basket alcove: BING holds a gentle attentive pose; LALA holds a gentle attentive pose; CAT the little blue penguin dozing on a folded napkin pile, yellow scarf visible. The lived-in setting includes picture food cards, picnic baskets, cloth napkins, empty bowls, a little tray. Window daylight and a warm practical lamp illuminate the scene, with saturated lemon and berry pink accents. Cloth ribbons flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-4. **Narration:** Bīng arrived, shaved ice wearing enormous sunglasses. Lala was a soft cake wearing cream.
-   `Shot: medium shot. Scene: the pantry's picnic basket alcove. Action: BING gives a reassuring little nod, while cloth ribbons flutter. Character: the shaved ice mound with the sunglasses — attentive and gently encouraged. Camera: slowly pans right. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-5. **Narration:** Cat the penguin napped on a folded napkin pile.
-   `Shot: medium close-up. Scene: the pantry's picnic basket alcove. Action: CAT gives a slow contented blink, while cloth ribbons flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+**Still:** `Side view through the foreground in the pantry's picnic basket alcove: BING holds a gentle attentive pose; LALA holds a gentle attentive pose; CAT the little blue penguin holding a small hip-hop heel-tap pose beside two picture rhythm cards, yellow scarf visible. The lived-in setting includes picture food cards, picnic baskets, cloth napkins, empty bowls, a little tray. Window daylight and a warm practical lamp illuminate the scene, with saturated lemon and berry pink accents. Cloth ribbons flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+4. **Narration:** Bīng arrived, shaved ice wearing enormous sunglasses. Lala was a soft cake wearing cream. Cat the
+   `Shot: medium shot. Scene: the pantry's picnic basket alcove. Action: CAT makes one small heel tap, while cloth ribbons flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pans right. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+5. **Narration:** penguin picked a hip-hop practice rhythm. Bīng preferred a slower one; both could have a turn.
+   `Shot: medium close-up. Scene: the pantry's picnic basket alcove. Action: BING gives a thoughtful slow blink, while cloth ribbons flutter. Character: the shaved ice mound with the sunglasses — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 3 — A coach shows the way · day
 **Still:** `Tight view at straw height in the pantry's picnic basket alcove: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; BING holds a gentle attentive pose; LALA holds a gentle attentive pose. The lived-in setting includes picture food cards, picnic baskets, cloth napkins, empty bowls, a little tray. Window daylight and a warm practical lamp illuminate the scene, with saturated lemon and berry pink accents. Cloth ribbons flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -194,11 +195,11 @@ May friendship leave room for your own taste.
    `Shot: medium close-up. Scene: the pantry's picnic basket alcove. Action: BING gives a thoughtful slow blink, while cloth ribbons flutter. Character: the shaved ice mound with the sunglasses — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 10 — The real outing · day
-**Still:** `Side view at cup height in the fruit festival tasting pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin dozing on a spare picnic basket cushion, yellow scarf visible; GUAGUA holds a gentle attentive pose. The lived-in setting includes fruit picture displays, small tasting bowls, clean spoons, handwashing supplies, shaded tables. Window daylight and a warm practical lamp illuminate the scene, with saturated mango orange and leafy green accents. Shade cloth ripples in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Side view at cup height in the fruit festival tasting pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin standing beside the picnic seat with one heel raised, yellow scarf visible; GUAGUA holds a gentle attentive pose. The lived-in setting includes fruit picture displays, small tasting bowls, clean spoons, handwashing supplies, shaded tables. Window daylight and a warm practical lamp illuminate the scene, with saturated mango orange and leafy green accents. Shade cloth ripples in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 16. **Narration:** Mom accompanied Rosie to the tasting pavilion, checking food choices and ingredients before any little bowls were offered.
    `Shot: medium shot. Scene: the fruit festival tasting pavilion. Action: ROSIE lifts her straw with hopeful curiosity, while shade cloth ripples. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-17. **Narration:** Cat settled into a spare picnic basket cushion, selecting comfort from the festival's impressive menu of activities. Guagua
-   `Shot: medium close-up. Scene: the fruit festival tasting pavilion. Action: CAT gives a slow contented blink, while shade cloth ripples. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
+17. **Narration:** Cat used a tiny silent heel tap beside the picnic seat, leaving everyone's food choices alone. Guagua
+   `Shot: medium close-up. Scene: the fruit festival tasting pavilion. Action: CAT makes one small heel tap, while shade cloth ripples. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 18. **Narration:** chose a fruit different from Rosie's mango. They sat at a shaded table with their own clean spoons.
    `Shot: medium shot. Scene: the fruit festival tasting pavilion. Action: ROSIE relaxes into a small pleased expression, while shade cloth ripples. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
@@ -244,10 +245,10 @@ May friendship leave room for your own taste.
    `Shot: medium shot. Scene: the fruit festival tasting pavilion. Action: LALA relaxes into a small pleased expression, while shade cloth ripples. Character: the milky cake square with the creamy frosting — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 16 — Cat's contribution · day
-**Still:** `Wide establishing view with deep perspective in the fruit festival tasting pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin dozing on a spare picnic basket cushion, yellow scarf visible; GUAGUA holds a gentle attentive pose. The lived-in setting includes fruit picture displays, small tasting bowls, clean spoons, handwashing supplies, shaded tables. Window daylight and a warm practical lamp illuminate the scene, with saturated mango orange and leafy green accents. Shade cloth ripples in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-32. **Narration:** Cat lifted her head from the basket. "My favorite is this cushion. I welcome your differing fruit opinions."
-   `Shot: medium shot. Scene: the fruit festival tasting pavilion. Action: CAT gives a slow contented blink, while shade cloth ripples. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-33. **Narration:** Rosie giggled, and Guagua grinned. Their bowls looked different, but their afternoon still had plenty to share.
+**Still:** `Wide establishing view with deep perspective in the fruit festival tasting pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin standing beside the picnic seat with one heel raised, yellow scarf visible; GUAGUA holds a gentle attentive pose. The lived-in setting includes fruit picture displays, small tasting bowls, clean spoons, handwashing supplies, shaded tables. Window daylight and a warm practical lamp illuminate the scene, with saturated mango orange and leafy green accents. Shade cloth ripples in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+32. **Narration:** Cat stopped her heel tap. "Different rhythms, different fruit bowls. Still the same lovely afternoon."
+   `Shot: medium shot. Scene: the fruit festival tasting pavilion. Action: CAT makes one small heel tap, while shade cloth ripples. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
+33. **Narration:** Guagua grinned. Rosie giggled. Their different bowls still belonged at the same picnic.
    `Shot: medium close-up. Scene: the fruit festival tasting pavilion. Action: ROSIE gives a thoughtful slow blink, while shade cloth ripples. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 17 — Big sister's cheer · day
@@ -268,15 +269,15 @@ May friendship leave room for your own taste.
 **Still:** `High oblique view across the bedroom pillow in Rosie's cozy bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, tucked beneath a quilt with lid and straw visible, eyes comfortably closed; CAT the little blue penguin asleep on a soft pillow, yellow scarf visible. The lived-in setting includes a small fruit picture card, a little keepsake picture, a quilt, a plain lamp, a soft pillow. A plain bedside lamp lights the cozy bedroom at night, with saturated rose pink and warm amber accents. Fairy lights twinkle in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 38. **Narration:** Goodnight, different favorites and friendly little bowls. Goodnight, spoons, resting side by side.
    `Shot: medium shot. Scene: Rosie's cozy bedroom. Action: ROSIE's eyes soften above her quilt, while fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
-39. **Narration:** Goodnight, Cat, loyal to cushions. May friendship leave room for your own taste.
-   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT gives a slow contented blink, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
+39. **Narration:** Goodnight, Cat, dancing heels now quiet. May friendship leave room for your own taste.
+   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT settles comfortably on her pillow, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
 
 1. **Key scene** — `High oblique view across the scene in the fruit festival tasting pavilion: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; GUAGUA holds a gentle attentive pose; MOM holds a gentle attentive pose; BING holds a gentle attentive pose; LALA holds a gentle attentive pose. The lived-in setting includes fruit picture displays, small tasting bowls, clean spoons, handwashing supplies, shaded tables. Window daylight and a warm practical lamp illuminate the scene, with saturated mango orange and leafy green accents. Shade cloth ripples in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 2. **Character views** — generate each of these as a separate image:
    - `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
-   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
+   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Bīng, a fluffy mound of shaved ice in a little bowl with colorful syrup ribbons, big sunglasses and tiny arms; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`

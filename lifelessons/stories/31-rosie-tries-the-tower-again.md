@@ -3,6 +3,7 @@
 **Life skill:** Respond to a frustrating task by pausing and trying one manageable change.
 **Magic sentence:** "Can we try one small change?"
 **Coaches:** Boba 🇹🇼 + Tato the Patacon 🇨🇷
+**Cat’s role:** snowboard coach
 **Setting:** the garden treehouse platform (practice), then the wooden toy maker's workshop (real outing).
 
 ---
@@ -19,11 +20,11 @@ Boba was a glossy pearl bouncing gently.
 
 Tato was a sturdy golden plantain patty.
 
-Cat the penguin napped on a rope-basket cushion.
+Cat the penguin balanced on a practice board laid flat on a mat. Her scarf tried surfing.
 
 Boba watched a pretend tower wobble. He paused and asked Tato, **"Can we try one small change?"**
 
-"Frustration is a feeling, not an instruction to throw," Tato explained. "We can make the next try smaller."
+Cat coached Rosie through a small retry. "Change one thing first, like finding your balance before riding." She steadied her feet.
 
 **Rosie's Steps**
 
@@ -49,7 +50,7 @@ Boba admired the acorn cup. "If the owl needs a swimming pool, this luxury build
 
 Mom took Rosie to the toy maker's workshop, where smooth wooden blocks waited on soft building mats.
 
-Cat claimed the carved-animal display bench, settling beside an owl considerably more alert than the visiting penguin.
+Cat parked her board bag beside Mom, then watched Rosie test the lowest blocks first.
 
 Guagua chose some blocks too. Their towers grew beside each other, above a tray of tiny wooden windows.
 
@@ -79,9 +80,9 @@ Step five: she tried again. The shorter tower stood steadily, with enough room f
 
 Tato nodded. Boba rocked proudly. "Strong downstairs. The owl's swimming pool can be an extension."
 
-Cat opened an eye beside the display owl. "My neighbor appears to own two houses. I request one pillow."
+Cat held her flippers wide. "Snowboarding took small tries too. First I practiced standing. The floor was very encouraging."
 
-Rosie giggled. Her tower was smaller than planned, but her hands were calm and the owl had a window.
+Rosie giggled. Her smaller tower still had a splendid owl window.
 
 Tori met Rosie beside the workshop's carved-door display, where she could see the finished tower on its mat.
 
@@ -116,20 +117,20 @@ Rosie felt proud. She could build something good without solving every wobble al
 
 Goodnight, little builder and sturdy lower blocks.
 Goodnight, owl, watching through your window.
-Goodnight, Cat, hoping for pillows.
+Goodnight, Cat, practice board safely parked.
 May tomorrow's tries begin with gentle hands.
 
 ---
 
 ## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~4:25 (est.) · **Narrated words:** 597 · **Stills:** 19 · **Beats:** 39
+**Runtime:** ~4:26 (est.) · **Narrated words:** 598 · **Stills:** 19 · **Beats:** 39
 **Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 **Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
 **Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: none.
 - `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf`
 - `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 - `MOM` → Mom, the tall rose-milk-tea mom cup with the pink lid · `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`
 - `BOBA` → Boba, the glossy brown tapioca pearl with the bright grin · `Boba, a round glossy dark-brown tapioca pearl with bright eyes, rosy cheeks and tiny arms and legs`
@@ -146,109 +147,109 @@ May tomorrow's tries begin with gentle hands.
    `Shot: medium shot. Scene: the garden treehouse platform. Action: ROSIE relaxes into a small pleased expression, while leaves sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
 
 ### Shot 2 — The visiting coaches · day
-**Still:** `Close view through soft foreground shapes in the garden treehouse platform: BOBA holds a gentle attentive pose; TATO holds a gentle attentive pose; CAT the little blue penguin dozing on a rope-basket cushion, yellow scarf visible. The lived-in setting includes wood blocks, a rope basket, a floor mat, a low rail, acorn cups. Window daylight and a warm practical lamp illuminate the scene, with saturated apple green and brick red accents. Leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Close view through soft foreground shapes in the garden treehouse platform: BOBA holds a gentle attentive pose; TATO holds a gentle attentive pose; CAT the little blue penguin balancing on a short snowboard laid flat on a padded floor mat, yellow scarf visible. The lived-in setting includes wood blocks, a rope basket, a floor mat, a low rail, acorn cups. Window daylight and a warm practical lamp illuminate the scene, with saturated apple green and brick red accents. Leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 4. **Narration:** Boba was a glossy pearl bouncing gently. Tato was a sturdy golden plantain patty.
    `Shot: medium shot. Scene: the garden treehouse platform. Action: BOBA gives a reassuring little nod, while leaves sway. Character: the glossy brown tapioca pearl with the bright grin — attentive and gently encouraged. Camera: slowly pans right. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
-5. **Narration:** Cat the penguin napped on a rope-basket cushion.
-   `Shot: medium close-up. Scene: the garden treehouse platform. Action: CAT gives a slow contented blink, while leaves sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
+5. **Narration:** Cat the penguin balanced on a practice board laid flat on a mat. Her scarf tried surfing.
+   `Shot: medium close-up. Scene: the garden treehouse platform. Action: CAT extends her flippers to find her balance, while leaves sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
 
 ### Shot 3 — A coach shows the way · day
-**Still:** `Low view looking up at the central figures in the garden treehouse platform: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; BOBA holds a gentle attentive pose; TATO holds a gentle attentive pose. The lived-in setting includes wood blocks, a rope basket, a floor mat, a low rail, acorn cups. Window daylight and a warm practical lamp illuminate the scene, with saturated apple green and brick red accents. Leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-6. **Narration:** Boba watched a pretend tower wobble. He paused and asked Tato, **"Can we try one small change?"**
+**Still:** `Low view looking up at the central figures in the garden treehouse platform: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; BOBA holds a gentle attentive pose; TATO holds a gentle attentive pose; CAT the little blue penguin balancing on a short snowboard laid flat on a padded floor mat, yellow scarf visible. The lived-in setting includes wood blocks, a rope basket, a floor mat, a low rail, acorn cups. Window daylight and a warm practical lamp illuminate the scene, with saturated apple green and brick red accents. Leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+6. **Narration:** Boba watched a pretend tower wobble. He paused and asked Tato,
    `Shot: medium shot. Scene: the garden treehouse platform. Action: BOBA presents a wide wooden building block with a patient smile, while leaves sway. Character: the glossy brown tapioca pearl with the bright grin — attentive and gently encouraged. Camera: slowly tilts down. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
-7. **Narration:** "Frustration is a feeling, not an instruction to throw," Tato explained. "We can make the next try smaller."
-   `Shot: medium close-up. Scene: the garden treehouse platform. Action: BOBA gives a thoughtful slow blink, while leaves sway. Character: the glossy brown tapioca pearl with the bright grin — attentive and gently encouraged. Camera: slowly pulls back. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
+7. **Narration:** **"Can we try one small change?"** Cat coached Rosie through a small retry.
+   `Shot: medium close-up. Scene: the garden treehouse platform. Action: CAT extends her flippers to find her balance, while leaves sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
+8. **Narration:** "Change one thing first, like finding your balance before riding." She steadied her feet.
+   `Shot: medium shot. Scene: the garden treehouse platform. Action: BOBA relaxes into a small pleased expression, while leaves sway. Character: the glossy brown tapioca pearl with the bright grin — attentive and gently encouraged. Camera: tracks beside. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
 
 ### Shot 4 — Rosie's Steps · day
 **Still:** `Medium view framed by the place's props in the garden treehouse platform: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; BOBA holds a gentle attentive pose. The lived-in setting includes wood blocks, a rope basket, a floor mat, a low rail, acorn cups. Window daylight and a warm practical lamp illuminate the scene, with saturated apple green and brick red accents. Leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-8. **Narration:** **Rosie's Steps** 1. Stop when you feel frustrated. 2. Name the feeling. 3. Pause before touching the pieces.
+9. **Narration:** **Rosie's Steps** 1. Stop when you feel frustrated. 2. Name the feeling. 3. Pause before touching the pieces.
    `Shot: medium shot. Scene: the garden treehouse platform. Action: ROSIE relaxes into a small pleased expression, while leaves sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
 
 ### Shot 5 — Finishing the model · day
 **Still:** `High oblique view across the scene in the garden treehouse platform: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TATO holds a gentle attentive pose. The lived-in setting includes wood blocks, a rope basket, a floor mat, a low rail, acorn cups. Window daylight and a warm practical lamp illuminate the scene, with saturated apple green and brick red accents. Leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-9. **Narration:** 4. Choose one small change. 5. Try again or choose a break.
+10. **Narration:** 4. Choose one small change. 5. Try again or choose a break.
    `Shot: medium shot. Scene: the garden treehouse platform. Action: ROSIE gives a thoughtful nod, while leaves sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
 
 ### Shot 6 — A pretend encounter · day
 **Still:** `Wide establishing view with deep perspective in the garden treehouse platform: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TATO holds a gentle attentive pose. The lived-in setting includes wood blocks, a rope basket, a floor mat, a low rail, acorn cups. Window daylight and a warm practical lamp illuminate the scene, with saturated apple green and brick red accents. Leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-10. **Narration:** **再試** (zài shì) = retrying. Rosie tried **"Can we try one small change?"** Tato the Patacon pretended.
+11. **Narration:** **再試** (zài shì) = retrying. Rosie tried **"Can we try one small change?"** Tato the Patacon pretended.
    `Shot: medium shot. Scene: the garden treehouse platform. Action: ROSIE holds a wide wooden building block carefully in front of her cup, while leaves sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
 
 ### Shot 7 — Rosie practices · day
 **Still:** `Low angle at cup height in the garden treehouse platform: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TATO holds a gentle attentive pose. The lived-in setting includes wood blocks, a rope basket, a floor mat, a low rail, acorn cups. Window daylight and a warm practical lamp illuminate the scene, with saturated apple green and brick red accents. Leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-11. **Narration:** 1. Stop when you feel frustrated. 2. Name the feeling. 3. Pause before touching the pieces.
+12. **Narration:** 1. Stop when you feel frustrated. 2. Name the feeling. 3. Pause before touching the pieces.
    `Shot: medium shot. Scene: the garden treehouse platform. Action: ROSIE gives a small confident nod, while leaves sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pushes in. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
 
 ### Shot 8 — The practice continues · day
 **Still:** `Over-the-shoulder view past ROSIE's lid in the garden treehouse platform: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TATO holds a gentle attentive pose. The lived-in setting includes wood blocks, a rope basket, a floor mat, a low rail, acorn cups. Window daylight and a warm practical lamp illuminate the scene, with saturated apple green and brick red accents. Leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-12. **Narration:** 4. Choose one small change. 5. Try again or choose a break.
+13. **Narration:** 4. Choose one small change. 5. Try again or choose a break.
    `Shot: medium shot. Scene: the garden treehouse platform. Action: TATO gives an encouraging nod, while leaves sway. Character: the golden plantain patty with the sturdy little feet — attentive and gently encouraged. Camera: slowly pans right. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
 
 ### Shot 9 — A little practice laughter · day
 **Still:** `Close view from the tabletop edge in the garden treehouse platform: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; BOBA holds a gentle attentive pose; TATO holds a gentle attentive pose. The lived-in setting includes wood blocks, a rope basket, a floor mat, a low rail, acorn cups. Window daylight and a warm practical lamp illuminate the scene, with saturated apple green and brick red accents. Leaves sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-13. **Narration:** Rosie practiced setting the pieces down when she felt cross,
+14. **Narration:** Rosie practiced setting the pieces down when she felt cross,
    `Shot: medium shot. Scene: the garden treehouse platform. Action: ROSIE relaxes into a small pleased expression, while leaves sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
-14. **Narration:** then chose a wider block for the bottom. Boba admired the acorn cup.
+15. **Narration:** then chose a wider block for the bottom. Boba admired the acorn cup.
    `Shot: medium close-up. Scene: the garden treehouse platform. Action: BOBA gives a thoughtful slow blink, while leaves sway. Character: the glossy brown tapioca pearl with the bright grin — attentive and gently encouraged. Camera: slowly pulls back. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
-15. **Narration:** "If the owl needs a swimming pool, this luxury building has thought of everything."
+16. **Narration:** "If the owl needs a swimming pool, this luxury building has thought of everything."
    `Shot: medium shot. Scene: the garden treehouse platform. Action: BOBA relaxes into a small pleased expression, while leaves sway. Character: the glossy brown tapioca pearl with the bright grin — attentive and gently encouraged. Camera: tracks beside. Audio: leaf rustles and distant birdsong, no music, no voices, no speech.`
 
 ### Shot 10 — The real outing · day
-**Still:** `High angle over the foreground props in the wooden toy maker's workshop: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin dozing on a padded carved-animal display bench, yellow scarf visible; GUAGUA holds a gentle attentive pose. The lived-in setting includes block trays, building mats, carved animals, a low workbench, wood shaving curls. Window daylight and a warm practical lamp illuminate the scene, with saturated turquoise and ochre accents. Paper mobiles sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-16. **Narration:** Mom took Rosie to the toy maker's workshop, where smooth wooden blocks waited on soft building mats.
+**Still:** `High angle over the foreground props in the wooden toy maker's workshop: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin standing with balanced feet beside a zipped snowboard bag, yellow scarf visible; GUAGUA holds a gentle attentive pose. The lived-in setting includes block trays, building mats, carved animals, a low workbench, wood shaving curls. Window daylight and a warm practical lamp illuminate the scene, with saturated turquoise and ochre accents. Paper mobiles sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+17. **Narration:** Mom took Rosie to the toy maker's workshop, where smooth wooden blocks waited on soft building mats.
    `Shot: medium shot. Scene: the wooden toy maker's workshop. Action: ROSIE lifts her straw with hopeful curiosity, while paper mobiles sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-17. **Narration:** Cat claimed the carved-animal display bench, settling beside an owl considerably more alert than the visiting penguin.
-   `Shot: medium close-up. Scene: the wooden toy maker's workshop. Action: CAT gives a slow contented blink, while paper mobiles sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-18. **Narration:** Guagua chose some blocks too. Their towers grew beside each other, above a tray of tiny wooden windows.
+18. **Narration:** Cat parked her board bag beside Mom, then watched Rosie test the lowest blocks first.
+   `Shot: medium close-up. Scene: the wooden toy maker's workshop. Action: CAT extends her flippers in a steady balanced pose, while paper mobiles sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
+19. **Narration:** Guagua chose some blocks too. Their towers grew beside each other, above a tray of tiny wooden windows.
    `Shot: medium shot. Scene: the wooden toy maker's workshop. Action: GUAGUA relaxes into a small pleased expression, while paper mobiles sway. Character: the golden sweet potato ball with the yellow backpack — attentive and gently encouraged. Camera: holds still. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 11 — Trying the first steps · day
 **Still:** `Side view through the foreground in the wooden toy maker's workshop: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; GUAGUA holds a gentle attentive pose; MOM holds a gentle attentive pose. The lived-in setting includes block trays, building mats, carved animals, a low workbench, wood shaving curls. Window daylight and a warm practical lamp illuminate the scene, with saturated turquoise and ochre accents. Paper mobiles sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-19. **Narration:** Rosie's top block slipped, and her tower tumbled onto the mat. Step one: she stopped reaching for pieces.
+20. **Narration:** Rosie's top block slipped, and her tower tumbled onto the mat. Step one: she stopped reaching for pieces.
    `Shot: medium shot. Scene: the wooden toy maker's workshop. Action: ROSIE holds her tiny hands calmly in front of her cup, while paper mobiles sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-20. **Narration:** Step two: "I feel frustrated," she told Mom. She had wanted a tall tower before the owl
+21. **Narration:** Step two: "I feel frustrated," she told Mom. She had wanted a tall tower before the owl
    `Shot: medium close-up. Scene: the wooden toy maker's workshop. Action: ROSIE gives a thoughtful slow blink, while paper mobiles sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-21. **Narration:** moved in. Step three: she paused, keeping the blocks on the mat. **"Can we try one small change?"**
+22. **Narration:** moved in. Step three: she paused, keeping the blocks on the mat. **"Can we try one small change?"**
    `Shot: medium shot. Scene: the wooden toy maker's workshop. Action: ROSIE relaxes into a small pleased expression, while paper mobiles sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pushes in. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 12 — One gentle surprise · day
 **Still:** `Tight view at straw height in the wooden toy maker's workshop: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands with her striped straw drooping and worried brown eyes; GUAGUA holds a gentle attentive pose; MOM holds a gentle attentive pose. The lived-in setting includes block trays, building mats, carved animals, a low workbench, wood shaving curls. Window daylight and a warm practical lamp illuminate the scene, with saturated turquoise and ochre accents. Paper mobiles sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-22. **Narration:** Guagua suggested rebuilding the whole tower differently, showing her several blocks at once. That felt like too much.
+23. **Narration:** Guagua suggested rebuilding the whole tower differently, showing her several blocks at once. That felt like too much.
    `Shot: medium shot. Scene: the wooden toy maker's workshop. Action: GUAGUA relaxes into a small pleased expression, while paper mobiles sway. Character: the golden sweet potato ball with the yellow backpack — uncertain and seeking reassurance. Camera: holds still. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-23. **Narration:** Rosie's straw drooped. She felt overwhelmed. That's okay; helpful suggestions could still need a smaller starting place.
+24. **Narration:** Rosie's straw drooped. She felt overwhelmed. That's okay; helpful suggestions could still need a smaller starting place.
    `Shot: medium close-up. Scene: the wooden toy maker's workshop. Action: ROSIE gives a thoughtful slow blink, while paper mobiles sway. Character: the little pink rose-milk-tea cup with the striped straw — uncertain and seeking reassurance. Camera: slowly pushes in. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 13 — The Rose breath · day
 **Still:** `Extreme close-up of the rose petal and striped straw in the wooden toy maker's workshop: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands with calm brown eyes and a gently rising straw. A glowing rose-shaped breathing picture and a candle-shaped light frame her face. The lived-in setting includes block trays, building mats, carved animals, a low workbench, wood shaving curls. Window daylight and a warm practical lamp illuminate the scene, with saturated turquoise and ochre accents. Paper mobiles sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-24. **Narration:** Rosie took a Rose breath. Smell the rose: in, two, three, four.
+25. **Narration:** Rosie took a Rose breath. Smell the rose: in, two, three, four.
    `Shot: extreme close-up. Scene: the wooden toy maker's workshop. Action: ROSIE's straw rises gently as she calms, while paper mobiles sway. Character: the little pink rose-milk-tea cup with the striped straw — settling into calm. Camera: holds still. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-25. **Narration:** Blow out the candle: out, two, three, four.
+26. **Narration:** Blow out the candle: out, two, three, four.
    `Shot: extreme close-up. Scene: the wooden toy maker's workshop. Action: ROSIE gives a thoughtful slow blink, while paper mobiles sway. Character: the little pink rose-milk-tea cup with the striped straw — settling into calm. Camera: holds still. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 14 — The backup sentence · day
 **Still:** `Low diagonal view with layered foreground in the wooden toy maker's workshop: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; GUAGUA holds a gentle attentive pose; MOM holds a gentle attentive pose. The lived-in setting includes block trays, building mats, carved animals, a low workbench, wood shaving curls. Window daylight and a warm practical lamp illuminate the scene, with saturated turquoise and ochre accents. Paper mobiles sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-26. **Narration:** "Please help me choose just one thing," Rosie said, looking at the two blocks nearest her cup. Mom
+27. **Narration:** "Please help me choose just one thing," Rosie said, looking at the two blocks nearest her cup. Mom
    `Shot: medium shot. Scene: the wooden toy maker's workshop. Action: ROSIE gives a small hopeful nod, while paper mobiles sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pans right. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-27. **Narration:** and Guagua showed her a wide bottom block. Rosie compared it with the narrow one she had used.
+28. **Narration:** and Guagua showed her a wide bottom block. Rosie compared it with the narrow one she had used.
    `Shot: medium close-up. Scene: the wooden toy maker's workshop. Action: ROSIE gives a thoughtful slow blink, while paper mobiles sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 15 — Finishing the task · day
 **Still:** `Wide view framed by the doorway in the wooden toy maker's workshop: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; GUAGUA holds a gentle attentive pose; MOM holds a gentle attentive pose; BOBA holds a gentle attentive pose; TATO holds a gentle attentive pose. The lived-in setting includes block trays, building mats, carved animals, a low workbench, wood shaving curls. Window daylight and a warm practical lamp illuminate the scene, with saturated turquoise and ochre accents. Paper mobiles sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-28. **Narration:** Step four: Rosie chose the wider base, leaving the other changes for later instead of changing everything
+29. **Narration:** Step four: Rosie chose the wider base, leaving the other changes for later instead of changing everything
    `Shot: medium shot. Scene: the wooden toy maker's workshop. Action: ROSIE lifts her straw with quiet pride, while paper mobiles sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-29. **Narration:** at once. Step five: she tried again. The shorter tower stood steadily, with enough room for the
+30. **Narration:** at once. Step five: she tried again. The shorter tower stood steadily, with enough room for the
    `Shot: medium close-up. Scene: the wooden toy maker's workshop. Action: ROSIE gives a thoughtful slow blink, while paper mobiles sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-30. **Narration:** little carved owl. Tato nodded. Boba rocked proudly. "Strong downstairs. The owl's swimming pool can be an extension."
+31. **Narration:** little carved owl. Tato nodded. Boba rocked proudly. "Strong downstairs. The owl's swimming pool can be an extension."
    `Shot: medium shot. Scene: the wooden toy maker's workshop. Action: ROSIE relaxes into a small pleased expression, while paper mobiles sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 16 — Cat's contribution · day
-**Still:** `Diagonal view at cup height in the wooden toy maker's workshop: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin dozing on a padded carved-animal display bench, yellow scarf visible; GUAGUA holds a gentle attentive pose. The lived-in setting includes block trays, building mats, carved animals, a low workbench, wood shaving curls. Window daylight and a warm practical lamp illuminate the scene, with saturated turquoise and ochre accents. Paper mobiles sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-31. **Narration:** Cat opened an eye beside the display owl.
-   `Shot: medium shot. Scene: the wooden toy maker's workshop. Action: CAT gives a slow contented blink, while paper mobiles sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-32. **Narration:** "My neighbor appears to own two houses. I request one pillow." Rosie giggled.
+**Still:** `Diagonal view at cup height in the wooden toy maker's workshop: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin standing with balanced feet beside a zipped snowboard bag, yellow scarf visible; GUAGUA holds a gentle attentive pose. The lived-in setting includes block trays, building mats, carved animals, a low workbench, wood shaving curls. Window daylight and a warm practical lamp illuminate the scene, with saturated turquoise and ochre accents. Paper mobiles sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+32. **Narration:** Cat held her flippers wide. "Snowboarding took small tries too. First I practiced standing.
+   `Shot: medium shot. Scene: the wooden toy maker's workshop. Action: CAT extends her flippers in a steady balanced pose, while paper mobiles sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
+33. **Narration:** The floor was very encouraging." Rosie giggled. Her smaller tower still had a splendid owl window.
    `Shot: medium close-up. Scene: the wooden toy maker's workshop. Action: ROSIE gives a thoughtful slow blink, while paper mobiles sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
-33. **Narration:** Her tower was smaller than planned, but her hands were calm and the owl had a window.
-   `Shot: medium shot. Scene: the wooden toy maker's workshop. Action: CAT gives a slow contented blink, while paper mobiles sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: holds still. Audio: light wooden prop clacks and a soft surface rustle, no music, no voices, no speech.`
 
 ### Shot 17 — Big sister's cheer · day
 **Still:** `Tight view of the central character in the wooden toy maker's workshop: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TORI stands with her green straw tilted kindly. The lived-in setting includes block trays, building mats, carved animals, a low workbench, wood shaving curls. Window daylight and a warm practical lamp illuminate the scene, with saturated turquoise and ochre accents. Paper mobiles sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -268,15 +269,15 @@ May tomorrow's tries begin with gentle hands.
 **Still:** `High oblique view across the bedroom pillow in Rosie's cozy bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, tucked beneath a quilt with lid and straw visible, eyes comfortably closed; CAT the little blue penguin asleep on a soft pillow, yellow scarf visible. The lived-in setting includes a wide wooden building block, a little keepsake picture, a quilt, a plain lamp, a soft pillow. A plain bedside lamp lights the cozy bedroom at night, with saturated rose pink and warm amber accents. Fairy lights twinkle in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 38. **Narration:** Goodnight, little builder and sturdy lower blocks. Goodnight, owl, watching through your window.
    `Shot: medium shot. Scene: Rosie's cozy bedroom. Action: ROSIE's eyes soften above her quilt, while fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
-39. **Narration:** Goodnight, Cat, hoping for pillows. May tomorrow's tries begin with gentle hands.
-   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT gives a slow contented blink, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
+39. **Narration:** Goodnight, Cat, practice board safely parked. May tomorrow's tries begin with gentle hands.
+   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT settles comfortably on her pillow, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
 
 1. **Key scene** — `Wide view framed by the doorway in the wooden toy maker's workshop: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; GUAGUA holds a gentle attentive pose; MOM holds a gentle attentive pose; BOBA holds a gentle attentive pose; TATO holds a gentle attentive pose. The lived-in setting includes block trays, building mats, carved animals, a low workbench, wood shaving curls. Window daylight and a warm practical lamp illuminate the scene, with saturated turquoise and ochre accents. Paper mobiles sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 2. **Character views** — generate each of these as a separate image:
    - `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
-   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
+   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Boba, a round glossy dark-brown tapioca pearl with bright eyes, rosy cheeks and tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`

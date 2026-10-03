@@ -3,6 +3,7 @@
 **Life skill:** Express a personal boundary and choose whether to offer another greeting.
 **Magic sentence:** "No hug, thank you. I'd like to wave."
 **Coaches:** Mochi 🇹🇼 + Estrella 🇨🇷
+**Cat’s role:** hip-hop dancer
 **Setting:** the balcony hammock corner (practice), then the family reunion courtyard (real outing).
 
 ---
@@ -19,7 +20,7 @@ Mochi was a white mochi stretching gently.
 
 Estrella was a turtle with kind eyes.
 
-Cat the penguin napped on a woven hammock cushion.
+Cat the penguin invented a hip-hop greeting wave. Her scarf nearly waved her straight back.
 
 Estrella asked about a hug. Mochi replied, **"No hug, thank you. I'd like to wave."** She waved back.
 
@@ -49,7 +50,7 @@ Mochi waved so enthusiastically that his arm resembled a noodle. "My hello comes
 
 Mom brought Rosie to the reunion courtyard, where family photographs stood beside paper fans and round tables.
 
-Cat napped beneath the greeting arch on a bench cushion, greeting everybody with impressive stillness.
+Cat greeted everyone with her dance-wave, then left space for Rosie to choose her own greeting.
 
 A visiting auntie opened her arms toward Rosie, smiling warmly. Mom stayed nearby and let Rosie answer.
 
@@ -79,9 +80,9 @@ She joined the picture table, choosing where to stand while Mom stayed close and
 
 Estrella waved. Mochi folded his arms. "Today my noodles are practicing excellent manners."
 
-Someone offered Cat a cuddle. She blinked and tucked her scarf closer. "A respectful wave suits this cushion."
+Cat offered a dance-wave. "Wave, watch, or neither?" Rosie waved. Cat kept a comfortable distance.
 
-Rosie laughed softly. The courtyard felt friendly, and she could greet people while keeping her own comfortable space.
+Rosie smiled. She could choose a greeting that felt comfortable.
 
 Tori met Rosie beside the reunion's paper-fan rack, offering a choice between a wave and a side hug.
 
@@ -116,20 +117,20 @@ Rosie felt proud. Her voice could name her choice, and her family could listen.
 
 Goodnight, little voice and comfortable space.
 Goodnight, waving hands and thoughtful greetings.
-Goodnight, Cat, snug in your scarf.
+Goodnight, Cat, friendly waving flippers.
 May your choices be heard with care.
 
 ---
 
 ## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~4:29 (est.) · **Narrated words:** 605 · **Stills:** 19 · **Beats:** 39
+**Runtime:** ~4:28 (est.) · **Narrated words:** 603 · **Stills:** 19 · **Beats:** 39
 **Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 **Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
 **Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: AUNTIE.
 - `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf`
 - `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 - `MOM` → Mom, the tall rose-milk-tea mom cup with the pink lid · `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`
 - `MOCHI` → Mochi, the stretchy white mochi with the rosy cheeks · `Mochi, a soft stretchy white mochi with rosy cheeks, warm eyes and tiny arms and legs`
@@ -146,11 +147,11 @@ May your choices be heard with care.
    `Shot: medium shot. Scene: the balcony hammock corner. Action: ROSIE relaxes into a small pleased expression, while hammock tassels sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 2 — The visiting coaches · day
-**Still:** `Wide view framed by the doorway in the balcony hammock corner: MOCHI holds a gentle attentive pose; ESTRELLA holds a gentle attentive pose; CAT the little blue penguin dozing on a woven hammock cushion, yellow scarf visible. The lived-in setting includes a hammock, greeting puppets, woven cushions, herb pots, a folding screen. Window daylight and a warm practical lamp illuminate the scene, with saturated lavender and pistachio accents. Hammock tassels sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Wide view framed by the doorway in the balcony hammock corner: MOCHI holds a gentle attentive pose; ESTRELLA holds a gentle attentive pose; CAT the little blue penguin holding one flipper raised in a playful hip-hop greeting pose, yellow scarf visible. The lived-in setting includes a hammock, greeting puppets, woven cushions, herb pots, a folding screen. Window daylight and a warm practical lamp illuminate the scene, with saturated lavender and pistachio accents. Hammock tassels sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 4. **Narration:** Mochi was a white mochi stretching gently. Estrella was a turtle with kind eyes.
    `Shot: medium shot. Scene: the balcony hammock corner. Action: MOCHI gives a reassuring little nod, while hammock tassels sway. Character: the stretchy white mochi with the rosy cheeks — attentive and gently encouraged. Camera: slowly pans right. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-5. **Narration:** Cat the penguin napped on a woven hammock cushion.
-   `Shot: medium close-up. Scene: the balcony hammock corner. Action: CAT gives a slow contented blink, while hammock tassels sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+5. **Narration:** Cat the penguin invented a hip-hop greeting wave. Her scarf nearly waved her straight back.
+   `Shot: medium close-up. Scene: the balcony hammock corner. Action: CAT gives one small dance-wave, while hammock tassels sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 3 — A coach shows the way · day
 **Still:** `Diagonal view at cup height in the balcony hammock corner: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOCHI holds a gentle attentive pose; ESTRELLA holds a gentle attentive pose. The lived-in setting includes a hammock, greeting puppets, woven cushions, herb pots, a folding screen. Window daylight and a warm practical lamp illuminate the scene, with saturated lavender and pistachio accents. Hammock tassels sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -196,11 +197,11 @@ May your choices be heard with care.
    `Shot: medium close-up. Scene: the balcony hammock corner. Action: MOCHI gives a thoughtful slow blink, while hammock tassels sway. Character: the stretchy white mochi with the rosy cheeks — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 10 — The real outing · day
-**Still:** `Medium view framed by the place's props in the family reunion courtyard: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin dozing on a spare bench cushion under the greeting arch, yellow scarf visible. The lived-in setting includes round tables, family pictures, a greeting arch, paper fans, cushioned benches. Window daylight and a warm practical lamp illuminate the scene, with saturated poppy red and warm gold accents. Paper fans flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Medium view framed by the place's props in the family reunion courtyard: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin standing a comfortable distance away with one flipper lifted, yellow scarf visible. The lived-in setting includes round tables, family pictures, a greeting arch, paper fans, cushioned benches. Window daylight and a warm practical lamp illuminate the scene, with saturated poppy red and warm gold accents. Paper fans flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 17. **Narration:** Mom brought Rosie to the reunion courtyard, where family photographs stood beside paper fans and round tables.
    `Shot: medium shot. Scene: the family reunion courtyard. Action: ROSIE lifts her straw with hopeful curiosity, while paper fans flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-18. **Narration:** Cat napped beneath the greeting arch on a bench cushion, greeting everybody with impressive stillness.
-   `Shot: medium close-up. Scene: the family reunion courtyard. Action: CAT gives a slow contented blink, while paper fans flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+18. **Narration:** Cat greeted everyone with her dance-wave, then left space for Rosie to choose her own greeting.
+   `Shot: medium close-up. Scene: the family reunion courtyard. Action: CAT gives one small greeting wave, while paper fans flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 19. **Narration:** A visiting auntie opened her arms toward Rosie, smiling warmly. Mom stayed nearby and let Rosie answer.
    `Shot: medium shot. Scene: the family reunion courtyard. Action: ROSIE relaxes into a small pleased expression, while paper fans flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
@@ -244,11 +245,11 @@ May your choices be heard with care.
    `Shot: medium shot. Scene: the family reunion courtyard. Action: ROSIE relaxes into a small pleased expression, while paper fans flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 16 — Cat's contribution · day
-**Still:** `High angle over the foreground props in the family reunion courtyard: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin dozing on a spare bench cushion under the greeting arch, yellow scarf visible; MOM holds a gentle attentive pose. The lived-in setting includes round tables, family pictures, a greeting arch, paper fans, cushioned benches. Window daylight and a warm practical lamp illuminate the scene, with saturated poppy red and warm gold accents. Paper fans flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-32. **Narration:** Someone offered Cat a cuddle. She blinked and tucked her scarf closer. "A respectful wave suits this cushion."
-   `Shot: medium shot. Scene: the family reunion courtyard. Action: CAT gives a slow contented blink, while paper fans flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-33. **Narration:** Rosie laughed softly. The courtyard felt friendly, and she could greet people while keeping her own comfortable space.
-   `Shot: medium close-up. Scene: the family reunion courtyard. Action: ROSIE gives a thoughtful slow blink, while paper fans flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+**Still:** `High angle over the foreground props in the family reunion courtyard: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin standing a comfortable distance away with one flipper lifted, yellow scarf visible; MOM holds a gentle attentive pose. The lived-in setting includes round tables, family pictures, a greeting arch, paper fans, cushioned benches. Window daylight and a warm practical lamp illuminate the scene, with saturated poppy red and warm gold accents. Paper fans flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+32. **Narration:** Cat offered a dance-wave. "Wave, watch, or neither?" Rosie waved.
+   `Shot: medium shot. Scene: the family reunion courtyard. Action: CAT gives one small greeting wave, while paper fans flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+33. **Narration:** Cat kept a comfortable distance. Rosie smiled. She could choose a greeting that felt comfortable.
+   `Shot: medium close-up. Scene: the family reunion courtyard. Action: CAT gives one small greeting wave, while paper fans flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 17 — Big sister's cheer · day
 **Still:** `Side view through the foreground in the family reunion courtyard: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TORI stands with her green straw tilted kindly. The lived-in setting includes round tables, family pictures, a greeting arch, paper fans, cushioned benches. Window daylight and a warm practical lamp illuminate the scene, with saturated poppy red and warm gold accents. Paper fans flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -268,15 +269,15 @@ May your choices be heard with care.
 **Still:** `High oblique view across the bedroom pillow in Rosie's cozy bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, tucked beneath a quilt with lid and straw visible, eyes comfortably closed; CAT the little blue penguin asleep on a soft pillow, yellow scarf visible. The lived-in setting includes a little greeting puppet, a little keepsake picture, a quilt, a plain lamp, a soft pillow. A plain bedside lamp lights the cozy bedroom at night, with saturated rose pink and warm amber accents. Fairy lights twinkle in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 38. **Narration:** Goodnight, little voice and comfortable space. Goodnight, waving hands and thoughtful greetings.
    `Shot: medium shot. Scene: Rosie's cozy bedroom. Action: ROSIE's eyes soften above her quilt, while fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
-39. **Narration:** Goodnight, Cat, snug in your scarf. May your choices be heard with care.
-   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT gives a slow contented blink, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
+39. **Narration:** Goodnight, Cat, friendly waving flippers. May your choices be heard with care.
+   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT settles comfortably on her pillow, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
 
 1. **Key scene** — `Close view from the tabletop edge in the family reunion courtyard: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; MOCHI holds a gentle attentive pose; ESTRELLA holds a gentle attentive pose; AUNTIE holds a gentle attentive pose. The lived-in setting includes round tables, family pictures, a greeting arch, paper fans, cushioned benches. Window daylight and a warm practical lamp illuminate the scene, with saturated poppy red and warm gold accents. Paper fans flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 2. **Character views** — generate each of these as a separate image:
    - `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
-   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
+   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mochi, a soft stretchy white mochi with rosy cheeks, warm eyes and tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`

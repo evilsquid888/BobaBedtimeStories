@@ -3,6 +3,7 @@
 **Life skill:** Accept praise and recognize personal effort without comparing achievements.
 **Magic sentence:** "Thank you. I practiced, and I'm proud."
 **Coaches:** Dai Daruma 🇯🇵 + Lala 🇨🇷
+**Cat’s role:** kung fu practitioner
 **Setting:** the family keepsake chest alcove (practice), then the neighborhood small-steps celebration gallery (real outing).
 
 ---
@@ -19,7 +20,7 @@ Dai was a determined red daruma bun.
 
 Lala was a soft cake wearing cream.
 
-Cat the penguin napped on a velvet mat beside the keepsake chest.
+Cat the penguin practiced her gentle kung fu bow. This time, her scarf stayed neatly out of her beak.
 
 Lala praised Dai's practice. He listened and replied, **"Thank you. I practiced, and I'm proud."** Then named his effort.
 
@@ -49,7 +50,7 @@ Dai inspected the ribbon. "My achievement is staying upright. The ribbon's achie
 
 Mom took Rosie to the gallery, where bright rosettes surrounded picture frames and little keepsake tables.
 
-Cat napped on a cushion stool beside the frames, displaying an achievement with many years of dedicated preparation.
+Cat hung her practice picture beside the frames, proud of learning balance without comparing it to Rosie's work.
 
 Lulu admired Rosie's picture. "You practiced that question and used it for real," she said, smiling warmly.
 
@@ -79,9 +80,9 @@ They listened to each other's little stories, leaving room for different efforts
 
 Dai nodded. "Fall down seven, bounce up eight. Occasionally celebrate standing on a very nice mat."
 
-Cat opened one eye beneath a paper rosette. "I practiced this nap, and I'm proud. Consistency deserves recognition."
+Cat bowed beside her picture. "I practiced keeping steady, and I'm proud. My scarf finally learned the bow too."
 
-Rosie laughed, then set her picture beside Lulu's. Both belonged there, and neither had to become the biggest.
+Rosie put her picture beside Lulu's. Both belonged in the display.
 
 Tori met Rosie beneath the ribbon arch, where their family admired her little keepsake picture.
 
@@ -116,20 +117,20 @@ Rosie felt proud of learning and asking. Tomorrow's steps would have room to hap
 
 Goodnight, little sip and all your small steps.
 Goodnight, pictures, keeping warm memories.
-Goodnight, Cat, consistently proud.
+Goodnight, Cat, proud of your steady practice.
 May you rest knowing your effort matters.
 
 ---
 
 ## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~4:26 (est.) · **Narrated words:** 598 · **Stills:** 19 · **Beats:** 39
+**Runtime:** ~4:27 (est.) · **Narrated words:** 602 · **Stills:** 19 · **Beats:** 39
 **Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 **Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
 **Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: none.
 - `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf`
 - `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 - `MOM` → Mom, the tall rose-milk-tea mom cup with the pink lid · `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`
 - `DAI` → Dai Daruma, the red daruma bun with the determined eyebrows · `Dai Daruma, a round red daruma-shaped bun with bold eyebrows, kind determined eyes, a golden belly motif and tiny arms`
@@ -146,11 +147,11 @@ May you rest knowing your effort matters.
    `Shot: medium shot. Scene: the family keepsake chest alcove. Action: ROSIE relaxes into a small pleased expression, while ribbon tails flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 2 — The visiting coaches · day
-**Still:** `Close view through soft foreground shapes in the family keepsake chest alcove: DAI holds a gentle attentive pose; LALA holds a gentle attentive pose; CAT the little blue penguin dozing on a velvet mat beside the keepsake chest, yellow scarf visible. The lived-in setting includes a keepsake chest, little picture cards, a velvet mat, a soft ribbon, a low stool. Window daylight and a warm practical lamp illuminate the scene, with saturated rose pink and midnight blue accents. Ribbon tails flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-4. **Narration:** Dai was a determined red daruma bun. Lala was a soft cake wearing cream.
-   `Shot: medium shot. Scene: the family keepsake chest alcove. Action: DAI gives a reassuring little nod, while ribbon tails flutter. Character: the red daruma bun with the determined eyebrows — attentive and gently encouraged. Camera: slowly pans right. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-5. **Narration:** Cat the penguin napped on a velvet mat beside the keepsake chest.
-   `Shot: medium close-up. Scene: the family keepsake chest alcove. Action: CAT gives a slow contented blink, while ribbon tails flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+**Still:** `Close view through soft foreground shapes in the family keepsake chest alcove: DAI holds a gentle attentive pose; LALA holds a gentle attentive pose; CAT the little blue penguin standing in a gentle respectful kung fu bow, yellow scarf visible. The lived-in setting includes a keepsake chest, little picture cards, a velvet mat, a soft ribbon, a low stool. Window daylight and a warm practical lamp illuminate the scene, with saturated rose pink and midnight blue accents. Ribbon tails flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+4. **Narration:** Dai was a determined red daruma bun. Lala was a soft cake wearing cream. Cat the
+   `Shot: medium shot. Scene: the family keepsake chest alcove. Action: CAT gives a small respectful bow, while ribbon tails flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pans right. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+5. **Narration:** penguin practiced her gentle kung fu bow. This time, her scarf stayed neatly out of her beak.
+   `Shot: medium close-up. Scene: the family keepsake chest alcove. Action: DAI gives a thoughtful slow blink, while ribbon tails flutter. Character: the red daruma bun with the determined eyebrows — attentive and gently encouraged. Camera: slowly tilts down. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 3 — A coach shows the way · day
 **Still:** `Low view looking up at the central figures in the family keepsake chest alcove: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; DAI holds a gentle attentive pose; LALA holds a gentle attentive pose. The lived-in setting includes a keepsake chest, little picture cards, a velvet mat, a soft ribbon, a low stool. Window daylight and a warm practical lamp illuminate the scene, with saturated rose pink and midnight blue accents. Ribbon tails flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -194,11 +195,11 @@ May you rest knowing your effort matters.
    `Shot: medium close-up. Scene: the family keepsake chest alcove. Action: DAI gives a thoughtful slow blink, while ribbon tails flutter. Character: the red daruma bun with the determined eyebrows — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 10 — The real outing · day
-**Still:** `High angle over the foreground props in the neighborhood small-steps celebration gallery: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin dozing on a cushion stool beside the picture frames, yellow scarf visible; LULU holds a gentle attentive pose. The lived-in setting includes picture displays, a ribbon arch, keepsake tables, cushion stools, blank picture frames. Window daylight and a warm practical lamp illuminate the scene, with saturated lemon yellow and plum accents. Paper rosettes sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `High angle over the foreground props in the neighborhood small-steps celebration gallery: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin holding a small picture of a penguin balancing on a mat, yellow scarf visible; LULU holds a gentle attentive pose. The lived-in setting includes picture displays, a ribbon arch, keepsake tables, cushion stools, blank picture frames. Window daylight and a warm practical lamp illuminate the scene, with saturated lemon yellow and plum accents. Paper rosettes sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 16. **Narration:** Mom took Rosie to the gallery, where bright rosettes surrounded picture frames and little keepsake tables.
    `Shot: medium shot. Scene: the neighborhood small-steps celebration gallery. Action: ROSIE lifts her straw with hopeful curiosity, while paper rosettes sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-17. **Narration:** Cat napped on a cushion stool beside the frames, displaying an achievement with many years of dedicated preparation.
-   `Shot: medium close-up. Scene: the neighborhood small-steps celebration gallery. Action: CAT gives a slow contented blink, while paper rosettes sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+17. **Narration:** Cat hung her practice picture beside the frames, proud of learning balance without comparing it to Rosie's work.
+   `Shot: medium close-up. Scene: the neighborhood small-steps celebration gallery. Action: CAT gives a small respectful bow, while paper rosettes sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 18. **Narration:** Lulu admired Rosie's picture. "You practiced that question and used it for real," she said, smiling warmly.
    `Shot: medium shot. Scene: the neighborhood small-steps celebration gallery. Action: ROSIE relaxes into a small pleased expression, while paper rosettes sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
@@ -244,10 +245,10 @@ May you rest knowing your effort matters.
    `Shot: medium shot. Scene: the neighborhood small-steps celebration gallery. Action: DAI relaxes into a small pleased expression, while paper rosettes sway. Character: the red daruma bun with the determined eyebrows — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 16 — Cat's contribution · day
-**Still:** `Diagonal view at cup height in the neighborhood small-steps celebration gallery: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin dozing on a cushion stool beside the picture frames, yellow scarf visible; LULU holds a gentle attentive pose. The lived-in setting includes picture displays, a ribbon arch, keepsake tables, cushion stools, blank picture frames. Window daylight and a warm practical lamp illuminate the scene, with saturated lemon yellow and plum accents. Paper rosettes sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-32. **Narration:** Cat opened one eye beneath a paper rosette. "I practiced this nap, and I'm proud. Consistency deserves recognition."
-   `Shot: medium shot. Scene: the neighborhood small-steps celebration gallery. Action: CAT gives a slow contented blink, while paper rosettes sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-33. **Narration:** Rosie laughed, then set her picture beside Lulu's. Both belonged there, and neither had to become the biggest.
+**Still:** `Diagonal view at cup height in the neighborhood small-steps celebration gallery: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin holding a small picture of a penguin balancing on a mat, yellow scarf visible; LULU holds a gentle attentive pose. The lived-in setting includes picture displays, a ribbon arch, keepsake tables, cushion stools, blank picture frames. Window daylight and a warm practical lamp illuminate the scene, with saturated lemon yellow and plum accents. Paper rosettes sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+32. **Narration:** Cat bowed beside her picture. "I practiced keeping steady, and I'm proud.
+   `Shot: medium shot. Scene: the neighborhood small-steps celebration gallery. Action: CAT gives a small respectful bow, while paper rosettes sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+33. **Narration:** My scarf finally learned the bow too." Rosie put her picture beside Lulu's. Both belonged in the display.
    `Shot: medium close-up. Scene: the neighborhood small-steps celebration gallery. Action: ROSIE gives a thoughtful slow blink, while paper rosettes sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 17 — Big sister's cheer · day
@@ -268,15 +269,15 @@ May you rest knowing your effort matters.
 **Still:** `High oblique view across the bedroom pillow in Rosie's cozy bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, tucked beneath a quilt with lid and straw visible, eyes comfortably closed; CAT the little blue penguin asleep on a soft pillow, yellow scarf visible. The lived-in setting includes a little keepsake picture, a little keepsake picture, a quilt, a plain lamp, a soft pillow. A plain bedside lamp lights the cozy bedroom at night, with saturated rose pink and warm amber accents. Fairy lights twinkle in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 38. **Narration:** Goodnight, little sip and all your small steps. Goodnight, pictures, keeping warm memories.
    `Shot: medium shot. Scene: Rosie's cozy bedroom. Action: ROSIE's eyes soften above her quilt, while fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
-39. **Narration:** Goodnight, Cat, consistently proud. May you rest knowing your effort matters.
-   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT gives a slow contented blink, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
+39. **Narration:** Goodnight, Cat, proud of your steady practice. May you rest knowing your effort matters.
+   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT settles comfortably on her pillow, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
 
 1. **Key scene** — `Wide view framed by the doorway in the neighborhood small-steps celebration gallery: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; LULU holds a gentle attentive pose; MOM holds a gentle attentive pose; DAI holds a gentle attentive pose; LALA holds a gentle attentive pose. The lived-in setting includes picture displays, a ribbon arch, keepsake tables, cushion stools, blank picture frames. Window daylight and a warm practical lamp illuminate the scene, with saturated lemon yellow and plum accents. Paper rosettes sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 2. **Character views** — generate each of these as a separate image:
    - `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
-   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
+   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Dai Daruma, a round red daruma-shaped bun with bold eyebrows, kind determined eyes, a golden belly motif and tiny arms; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`

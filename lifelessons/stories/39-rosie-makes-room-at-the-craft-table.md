@@ -3,6 +3,7 @@
 **Life skill:** Include a newcomer by offering an accessible space and a real choice.
 **Magic sentence:** "Would you like a place beside us?"
 **Coaches:** Mochi 🇹🇼 + Flan 🇨🇷
+**Cat’s role:** helper
 **Setting:** the spare dining alcove puzzle table (practice), then the community paper-flower fair (real outing).
 
 ---
@@ -19,7 +20,7 @@ Mochi was a white mochi stretching gently.
 
 Flan arrived, coconut custard wobbling hopefully.
 
-Cat the penguin napped on a spare stool cushion.
+Cat the penguin set out spare craft mats. A paper flower clung to her scarf like a tiny passenger.
 
 Mochi noticed Flan standing nearby. **"Would you like a place beside us?"** He checked the spare stool.
 
@@ -49,7 +50,7 @@ Mochi folded his arms. "My elbows have booked one seat today. An improvement for
 
 Mom brought Rosie to the paper-flower fair, where petals waited in trays beside low tables and spare cushions.
 
-Cat napped beside the supplies on a soft cushion, resembling the fair's only flower that preferred horizontal petals.
+Cat moved her own supplies to a smaller mat, leaving space without deciding what Lulu should make.
 
 Lulu looked toward the table. Rosie put her supplies close to her cup, leaving a clear space.
 
@@ -79,9 +80,9 @@ After a while, Lulu chose to arrange blue petals. Rosie offered the tray and let
 
 Flan wobbled happily. Mochi folded his elbows. "Enough room for friendship and remarkably well-behaved mochi arms."
 
-Cat opened an eye beside the supplies. "I have joined the flower fair as an expert in soft centers."
+Cat offered a spare mat. "This passenger flower can move too. It has excellent manners and very little luggage."
 
-Lulu smiled, arranging her blue petals. Rosie felt pleased that their table could welcome different ways of taking part.
+Lulu arranged her blue petals. There was room to join comfortably.
 
 Tori met Rosie beneath the fair's arch of giant paper leaves, admiring the flower Rosie had made.
 
@@ -116,20 +117,20 @@ Rosie felt proud. A welcome could offer space without making everyone begin the 
 
 Goodnight, welcoming table and folded paper flowers.
 Goodnight, choices with room to grow.
-Goodnight, Cat, our soft center.
+Goodnight, Cat, flower passenger tucked away.
 May you find a place that welcomes you.
 
 ---
 
 ## 🎬 Video Storyboard (LTX-2.5)
 
-**Runtime:** ~4:29 (est.) · **Narrated words:** 602 · **Stills:** 19 · **Beats:** 41
+**Runtime:** ~4:29 (est.) · **Narrated words:** 604 · **Stills:** 19 · **Beats:** 40
 **Pipeline:** Qwen-Image-2.1 stills at 1792×1024, one reference view per character (Sample Images → Character views), day/night "pop" still look · camera_pins.py --motion --hold-end · LTX-2.5 two-stage --hires (native 1920×1088), --end --end-strength 0.35 · Kokoro jf_alpha,af_heart, speed 0.92, gap 0.8 · assemble_mp4.py --tail-hold 2.5
 **Video style anchor (every beat):** `rich storybook animation, Pixar-meets-picture-book, warm rose pink, cream and honey gold with saturated teal and coral accents, gentle rim light, glowing highlights, deep layered depth, lively gentle character animation, expressive faces, blinking, small natural gestures`
 **Negative prompt:** `blurry, jpeg artifacts, distorted hands, extra fingers, watermark, text overlay, photorealistic, flicker, character morphing, identity drift`
 **Cast** (TOKEN → ID phrase · design for the reference view). Humans in this story: none.
 - `ROSIE` → Rosie, the little pink rose-milk-tea cup with the striped straw · `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw`
-- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf`
+- `CAT` → Cat, the little blue penguin with the yellow scarf · `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf`
 - `TORI` → Tori, the tall golden lychee-tea cup with the green straw · `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs`
 - `MOM` → Mom, the tall rose-milk-tea mom cup with the pink lid · `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`
 - `MOCHI` → Mochi, the stretchy white mochi with the rosy cheeks · `Mochi, a soft stretchy white mochi with rosy cheeks, warm eyes and tiny arms and legs`
@@ -146,11 +147,11 @@ May you find a place that welcomes you.
    `Shot: medium shot. Scene: the spare dining alcove puzzle table. Action: ROSIE relaxes into a small pleased expression, while paper chains sway. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly tilts down. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 2 — The visiting coaches · day
-**Still:** `High angle over the foreground props in the spare dining alcove puzzle table: MOCHI holds a gentle attentive pose; FLAN holds a gentle attentive pose; CAT the little blue penguin dozing on a spare stool cushion, yellow scarf visible. The lived-in setting includes a folding table, felt shapes, spare stools, picture cards, a storage basket. Window daylight and a warm practical lamp illuminate the scene, with saturated grape purple and mint accents. Paper chains sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-4. **Narration:** Mochi was a white mochi stretching gently. Flan arrived, coconut custard wobbling hopefully.
-   `Shot: medium shot. Scene: the spare dining alcove puzzle table. Action: MOCHI gives a reassuring little nod, while paper chains sway. Character: the stretchy white mochi with the rosy cheeks — attentive and gently encouraged. Camera: slowly pans right. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
-5. **Narration:** Cat the penguin napped on a spare stool cushion.
-   `Shot: medium close-up. Scene: the spare dining alcove puzzle table. Action: CAT gives a slow contented blink, while paper chains sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly tilts down. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
+**Still:** `High angle over the foreground props in the spare dining alcove puzzle table: MOCHI holds a gentle attentive pose; FLAN holds a gentle attentive pose; CAT the little blue penguin holding a spare craft mat with a paper flower on her scarf, yellow scarf visible. The lived-in setting includes a folding table, felt shapes, spare stools, picture cards, a storage basket. Window daylight and a warm practical lamp illuminate the scene, with saturated grape purple and mint accents. Paper chains sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+4. **Narration:** Mochi was a white mochi stretching gently. Flan arrived, coconut custard wobbling hopefully. Cat the penguin
+   `Shot: medium shot. Scene: the spare dining alcove puzzle table. Action: CAT holds out one spare craft mat, while paper chains sway. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pans right. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
+5. **Narration:** set out spare craft mats. A paper flower clung to her scarf like a tiny passenger.
+   `Shot: medium close-up. Scene: the spare dining alcove puzzle table. Action: MOCHI gives a thoughtful slow blink, while paper chains sway. Character: the stretchy white mochi with the rosy cheeks — attentive and gently encouraged. Camera: slowly tilts down. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 3 — A coach shows the way · day
 **Still:** `Side view through the foreground in the spare dining alcove puzzle table: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOCHI holds a gentle attentive pose; FLAN holds a gentle attentive pose. The lived-in setting includes a folding table, felt shapes, spare stools, picture cards, a storage basket. Window daylight and a warm practical lamp illuminate the scene, with saturated grape purple and mint accents. Paper chains sway in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
@@ -196,12 +197,12 @@ May you find a place that welcomes you.
    `Shot: medium close-up. Scene: the spare dining alcove puzzle table. Action: MOCHI gives a thoughtful slow blink, while paper chains sway. Character: the stretchy white mochi with the rosy cheeks — attentive and gently encouraged. Camera: slowly pulls back. Audio: a quiet building hum and gentle prop rustle, no music, no voices, no speech.`
 
 ### Shot 10 — The real outing · day
-**Still:** `Close view with shallow depth in the community paper-flower fair: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin dozing on a soft cushion beside the supply tray, yellow scarf visible; LULU holds a gentle attentive pose. The lived-in setting includes paper petals, safe glue sticks, low tables, spare cushions, shallow supply trays. Window daylight and a warm practical lamp illuminate the scene, with saturated poppy red and peacock blue accents. Paper flower garlands flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+**Still:** `Close view with shallow depth in the community paper-flower fair: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; MOM holds a gentle attentive pose; CAT the little blue penguin offering a small empty craft mat beside the shared table, yellow scarf visible; LULU holds a gentle attentive pose. The lived-in setting includes paper petals, safe glue sticks, low tables, spare cushions, shallow supply trays. Window daylight and a warm practical lamp illuminate the scene, with saturated poppy red and peacock blue accents. Paper flower garlands flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 17. **Narration:** Mom brought Rosie to the paper-flower fair, where petals waited in trays beside low tables and spare
    `Shot: medium shot. Scene: the community paper-flower fair. Action: ROSIE lifts her straw with hopeful curiosity, while paper flower garlands flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-18. **Narration:** cushions. Cat napped beside the supplies on a soft cushion, resembling the fair's only flower that preferred horizontal
-   `Shot: medium close-up. Scene: the community paper-flower fair. Action: CAT gives a slow contented blink, while paper flower garlands flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-19. **Narration:** petals. Lulu looked toward the table. Rosie put her supplies close to her cup, leaving a clear space.
+18. **Narration:** cushions. Cat moved her own supplies to a smaller mat, leaving space without deciding what Lulu should make.
+   `Shot: medium close-up. Scene: the community paper-flower fair. Action: CAT slides one spare craft mat into the open place, while paper flower garlands flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+19. **Narration:** Lulu looked toward the table. Rosie put her supplies close to her cup, leaving a clear space.
    `Shot: medium shot. Scene: the community paper-flower fair. Action: ROSIE relaxes into a small pleased expression, while paper flower garlands flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 11 — Trying the first steps · day
@@ -246,41 +247,39 @@ May you find a place that welcomes you.
    `Shot: medium shot. Scene: the community paper-flower fair. Action: ROSIE relaxes into a small pleased expression, while paper flower garlands flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 16 — Cat's contribution · day
-**Still:** `High oblique view across the scene in the community paper-flower fair: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin dozing on a soft cushion beside the supply tray, yellow scarf visible; LULU holds a gentle attentive pose. The lived-in setting includes paper petals, safe glue sticks, low tables, spare cushions, shallow supply trays. Window daylight and a warm practical lamp illuminate the scene, with saturated poppy red and peacock blue accents. Paper flower garlands flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-33. **Narration:** Cat opened an eye beside the supplies.
-   `Shot: medium shot. Scene: the community paper-flower fair. Action: CAT gives a slow contented blink, while paper flower garlands flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-34. **Narration:** "I have joined the flower fair as an expert in soft centers." Lulu smiled, arranging her blue petals.
-   `Shot: medium close-up. Scene: the community paper-flower fair. Action: CAT gives a slow contented blink, while paper flower garlands flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-35. **Narration:** Rosie felt pleased that their table could welcome different ways of taking part.
-   `Shot: medium shot. Scene: the community paper-flower fair. Action: ROSIE relaxes into a small pleased expression, while paper flower garlands flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+**Still:** `High oblique view across the scene in the community paper-flower fair: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; CAT the little blue penguin offering a small empty craft mat beside the shared table, yellow scarf visible; LULU holds a gentle attentive pose. The lived-in setting includes paper petals, safe glue sticks, low tables, spare cushions, shallow supply trays. Window daylight and a warm practical lamp illuminate the scene, with saturated poppy red and peacock blue accents. Paper flower garlands flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
+33. **Narration:** Cat offered a spare mat. "This passenger flower can move too. It has excellent manners
+   `Shot: medium shot. Scene: the community paper-flower fair. Action: CAT slides one spare craft mat into the open place, while paper flower garlands flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: slowly pulls back. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
+34. **Narration:** and very little luggage." Lulu arranged her blue petals. There was room to join comfortably.
+   `Shot: medium close-up. Scene: the community paper-flower fair. Action: CAT slides one spare craft mat into the open place, while paper flower garlands flutter. Character: the little blue penguin with the yellow scarf — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 17 — Big sister's cheer · day
 **Still:** `Wide establishing view with deep perspective in the community paper-flower fair: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TORI stands with her green straw tilted kindly. The lived-in setting includes paper petals, safe glue sticks, low tables, spare cushions, shallow supply trays. Window daylight and a warm practical lamp illuminate the scene, with saturated poppy red and peacock blue accents. Paper flower garlands flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-36. **Narration:** Tori met Rosie beneath the fair's arch of giant paper leaves, admiring the flower Rosie had made.
+35. **Narration:** Tori met Rosie beneath the fair's arch of giant paper leaves, admiring the flower Rosie had made.
    `Shot: medium shot. Scene: the community paper-flower fair. Action: ROSIE relaxes into a small pleased expression, while paper flower garlands flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: tracks beside. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-37. **Narration:** "You offered room and a choice. You've got this, little sip," she said, looking at Lulu's blue petals.
+36. **Narration:** "You offered room and a choice. You've got this, little sip," she said, looking at Lulu's blue petals.
    `Shot: medium close-up. Scene: the community paper-flower fair. Action: TORI gives a thoughtful slow blink, while paper flower garlands flutter. Character: the tall golden lychee-tea cup with the green straw — attentive and gently encouraged. Camera: holds still. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
-38. **Narration:** Rosie felt proud. A welcome could offer space without making everyone begin the same way.
+37. **Narration:** Rosie felt proud. A welcome could offer space without making everyone begin the same way.
    `Shot: medium shot. Scene: the community paper-flower fair. Action: ROSIE relaxes into a small pleased expression, while paper flower garlands flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: slowly pushes in. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 18 — One step at a time · day
 **Still:** `Low angle at cup height in the community paper-flower fair: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; TORI stands with her green straw tilted kindly. The lived-in setting includes paper petals, safe glue sticks, low tables, spare cushions, shallow supply trays. Window daylight and a warm practical lamp illuminate the scene, with saturated poppy red and peacock blue accents. Paper flower garlands flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-39. **Narration:** **加油** (jiāyóu) = go for it. "One step at a time, one sip at a time," said Rosie.
+38. **Narration:** **加油** (jiāyóu) = go for it. "One step at a time, one sip at a time," said Rosie.
    `Shot: medium shot. Scene: the community paper-flower fair. Action: ROSIE gives one proud little bounce in place, while paper flower garlands flutter. Character: the little pink rose-milk-tea cup with the striped straw — attentive and gently encouraged. Camera: holds still. Audio: a soft paper flutter and fabric rustle, no music, no voices, no speech.`
 
 ### Shot 19 — Goodnight · night
 **Still:** `High oblique view across the bedroom pillow in Rosie's cozy bedroom: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, tucked beneath a quilt with lid and straw visible, eyes comfortably closed; CAT the little blue penguin asleep on a soft pillow, yellow scarf visible. The lived-in setting includes a folded paper flower, a little keepsake picture, a quilt, a plain lamp, a soft pillow. A plain bedside lamp lights the cozy bedroom at night, with saturated rose pink and warm amber accents. Fairy lights twinkle in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
-40. **Narration:** Goodnight, welcoming table and folded paper flowers. Goodnight, choices with room to grow.
+39. **Narration:** Goodnight, welcoming table and folded paper flowers. Goodnight, choices with room to grow.
    `Shot: medium shot. Scene: Rosie's cozy bedroom. Action: ROSIE's eyes soften above her quilt, while fairy lights twinkle. Character: the little pink rose-milk-tea cup with the striped straw — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
-41. **Narration:** Goodnight, Cat, our soft center. May you find a place that welcomes you.
-   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT gives a slow contented blink, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
+40. **Narration:** Goodnight, Cat, flower passenger tucked away. May you find a place that welcomes you.
+   `Shot: medium close-up. Scene: Rosie's cozy bedroom. Action: CAT settles comfortably on her pillow, while fairy lights twinkle. Character: the little blue penguin with the yellow scarf — comfortable and drowsy. Camera: holds still. Audio: a soft quilt rustle, no music, no voices, no speech.`
 
 ### 🖼️ Sample Images (to generate first)
 
 1. **Key scene** — `Medium view framed by the place's props in the community paper-flower fair: ROSIE, a small clear cup of pink milk tea with a dome lid and striped straw, stands on her tiny legs with attentive brown eyes; LULU holds a gentle attentive pose; MOM holds a gentle attentive pose; MOCHI holds a gentle attentive pose; FLAN holds a gentle attentive pose. The lived-in setting includes paper petals, safe glue sticks, low tables, spare cushions, shallow supply trays. Window daylight and a warm practical lamp illuminate the scene, with saturated poppy red and peacock blue accents. Paper flower garlands flutter in layered depth; rounded storybook forms, gentle rim light, expressive faces, clear silhouettes.`
 2. **Character views** — generate each of these as a separate image:
    - `Rosie, a small cute cup of pale-pink rose milk tea with a clear dome lid, creamy pink swirls, three tiny dark tapioca pearls at the bottom, a pink rose petal clip on her lid, big warm brown eyes, rosy cheeks, tiny arms and legs, and a pink-striped straw; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
-   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, sleepy half-closed eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
+   - `Cat, a small round little blue penguin with glossy slate-blue feathers, a soft white tummy, a tiny orange beak, little pink feet, bright playful eyes, and a tiny knitted yellow scarf; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Tori, a taller cup of golden-amber rose lychee oolong tea with white lychee jelly cubes, a dark-red rose petal on her lid, a tall green straw, and a tiny phone clipped to her cup sleeve, big kind eyes, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
    - `Mochi, a soft stretchy white mochi with rosy cheeks, warm eyes and tiny arms and legs; single full-body front view on a clean cream background, clear silhouette, consistent storybook proportions`
