@@ -1,199 +1,143 @@
 # Story 91: Tako and Yaki and the Time-Attack Circuit
 
 **Main Character:** Tako and Yaki (takoyaki twins)
-**Guest Characters:** Kei the kei-truck
+**Guest Characters:** Kei the kei-truck; Old Gori, the shaved-ice lantern-keeper
 **Setting:** A tidy little go-kart-style circuit under the evening lights
 **Theme:** Finishing together beats finishing first
 **Japanese Spotlight:** **hayai** (hah-YAH-ee) — fast
 
 ---
 
-The trouble with being two golden batter-balls connected by a wobbly little wave of bonito flakes is that you can never, ever do anything halfway. If Tako wanted to roll left, Yaki rolled left. If Yaki sneezed, Tako bounced. And on this particular cozy evening, when a glowing sign blinked on at the edge of the night market — **Taimu Atakku!** (TIE-moo ah-TAHK-koo) — TIME ATTACK! — both of them gasped at exactly the same moment, which made one very loud double-gasp.
+Behind the market curled the tidiest, cutest racetrack you ever saw, lined with warm orange lanterns.
+
+One little hill, one swooshy S-bend, and a checkered finish line. Tako and Yaki gasped one double-gasp.
 
 "Did you SEE that?" said Tako.
 
 "I saw it before you saw it," said Yaki.
 
-"You did NOT, we have the same eyes—"
+"We have the SAME EYES." Tako bounced so hard his sauce zig-zag flew clean off.
 
-"ROLL US ONCE," they shouted together, bouncing in unison, "WE COME AS TWO!"
+"Tonight," said Yaki, "we become the FASTEST snack in the whole entire market."
 
-And just like that, drizzled in sauce and trailing a happy zig-zag, the takoyaki twins wobbled toward the little race circuit before anyone could remind them to slow down.
+Parked at the starting gate, bouncing on her springs, was a butter-yellow truck in a knitted sweater.
 
----
-
-The circuit was the tidiest, cutest racetrack you ever did see. It curled around the back of the market like a sleepy ribbon of smooth gray track, lined with tiny paper lanterns that glowed warm orange. There were gentle curves, one little hill no taller than a melon bun, a swooshy S-bend that wiggled like a happy noodle, and a finish line painted in cheerful checkered squares. Little flags fluttered along the railings, and somewhere a tiny speaker played soft, bouncy music that made everyone's wheels want to tap along. A banner overhead read: *Friendly Time-Attack — Go Smooth, Go Safe, Go Together!*
-
-It was, all in all, the kind of place that practically begged two giggly batter-balls to come and have an adventure. Which is exactly what they intended to do.
-
-Parked at the starting gate, humming and bouncing on her springs, was a teeny butter-yellow mini-truck with big round headlight eyes and a knitted seat-cover sweater.
-
-"Putt-putt!" beeped Kei the kei-truck happily. "You two are racing? Oh, this is going to be FUN. Hop on the flatbed, I'll be your race-car for the night!"
-
-Tako and Yaki rolled up the little ramp and plopped onto Kei's stubby flatbed, snug as two eggs in a nest.
-
-"Now here's how the time-attack works," Kei explained, headlights twinkling. "It's not about beating other racers. There aren't even any other racers tonight! It's just you, me, the track, and the clock. We do one smooth lap, and the timer tells us how **hayai** (hah-YAH-ee) — fast — we went. Fast is fun! But smooth is the secret."
-
-"Smooth," repeated Tako, in the unconvinced way one says a word they've already decided to ignore.
-
-"Smooth," repeated Yaki, in the exact same unconvinced way, because of course he did.
-
-"We're going to be SO fast," said Tako.
-
-"We're going to be the FASTEST," said Yaki.
-
-"That," said Kei gently, her little engine going *putt-putt-putt*, "is exactly what every racer says right before the puddle."
-
-"What puddle?" asked the twins.
-
-Kei just smiled her round headlight smile and didn't answer, which is the most suspicious thing a kei-truck can do.
+"Putt-putt! Hop on," beeped Kei. "I'll be your race-car. One smooth lap, and the clock does the rest."
 
 ---
 
-The starting light blinked green. Kei's engine went *VROOM* — well, more of a polite *vroooom*, because she was a very small truck — and off they zipped down the first straightaway.
+Above the finish line stood a big round clock with one red arrow.
 
-"WHEEEE!" cried the twins, bonito wave flapping in the wind. The lanterns blurred into ribbons of gold. The little hill rose up ahead.
+"A short trip for the arrow means **hayai** (hah-YAH-ee) — fast," said Kei. "But smooth is the secret."
 
-"Lean left for the curve!" Kei called.
+"Smooth," repeated Tako, in the voice of someone already ignoring the word.
+
+"Smooth," repeated Yaki, in exactly the same voice, because of course he did.
+
+"That," said Kei, "is what every racer says right before the puddle."
+
+"What puddle?" asked Tako.
+
+Kei just smiled her headlight smile, which is the most suspicious thing a truck can do.
+
+---
+
+Green light. Vroooom, politely. Off they zipped, lanterns blurring into ribbons of gold.
+
+"Lean left for the curve!" called Kei.
 
 "LEFT!" yelled Tako, leaning left.
 
 "RIGHT!" yelled Yaki, leaning right.
 
-You can probably guess what happens when one twin leans left and the other leans right while stuck together by a wobbly wave. They spun. Round and round and round, a dizzy spinning takoyaki top, sauce flying in spirals.
+The twins wobbled off the flatbed, bounced over the little hill, and boinged into the hay bales.
 
-"I SAID LEFT," wobbled Tako.
+"I SAID left," said Tako, upside down.
 
-"I HEARD RIGHT," wobbled Yaki.
+"I HEARD right," said Yaki, also upside down. "We have the same EARS."
 
-"You never listen!"
-
-"We have the SAME EARS!"
-
-"Then why are you so WRONG with them?!"
-
-Kei wiggled her wheels and gently bumped them back into the center of the flatbed before they could spin themselves into butter. "Okay, okay! Little wobble. We're fine! Nobody's hurt, nobody's a smoothie." She chuckled, *putt-putt*, and rolled them carefully the rest of the way around the track and across the finish line. A friendly buzzer went *beep-boop*, and the timer on the big board lit up.
-
-The twins squinted. "That's... a very BIG number."
-
-"That," said Kei kindly, "was our slowest possible lap. We spun for eleven whole seconds."
-
-Tako and Yaki looked at each other, which, since they shared a wobble, meant they basically looked at themselves.
-
-"We can do better," said Tako.
-
-"WAY better," said Yaki. "We just have to go FASTER."
-
-Kei opened her little headlight eyes very wide. "Ohhh," she said. "Here comes the puddle."
+Kei scooped them up and finished the lap. The red arrow had gone nearly all the way round.
 
 ---
 
-So they tried again. And this time, the twins decided that the way to go fast was to go *faster than fast*. The second the light blinked green, they leaned ALL their weight forward, urging Kei to zoom.
+"We just have to go FASTER," said Tako.
 
-"Faster, Kei!"
+"Ohhh," said Kei. "Here comes the puddle."
 
-"Even faster, Kei!"
+Green light. The twins leaned all their weight forward. "Hayai-hayai-HAYAI!"
 
-"Hayai-hayai-HAYAI!"
+Kei hit the hill at top speed, boinged off the top like a grasshopper, and landed. SPLOSH.
 
-Poor Kei rattled and bounced, her knitted sweater nearly flying off. She hit the little hill at top speed, went *boing* off the top like a tiny yellow grasshopper, and landed — *splash!* — right in the middle of a shallow puddle the lantern-keeper had made when watering the flowerpots.
+A fan of water rose, caught the lantern-light like a thousand tiny diamonds, and came back down. Splat.
 
-A gentle, polite, very wet puddle.
-
-*Splosh.*
-
-Water arced up in a beautiful glittering fan, caught the lantern-light like a thousand tiny diamonds, and came right back down — *splat* — all over two surprised takoyaki.
-
-Kei's wheels spun. Her headlights blinked. A single dignified drop of water rolled off her mud-flap and went *plip*. "Told you," she beeped, "about the puddle."
-
-Tako and Yaki sat in stunned, soggy silence. Their sauce had gone all swirly. Their bonito wave drooped like a wet noodle.
-
-And then — because they were nine-year-old-at-heart takoyaki twins and not grumpy ones — they burst out laughing. Big, bouncy, snorting giggles that echoed across the empty track and made all the lanterns seem to giggle too.
+Two soggy takoyaki sat in stunned silence, bonito wave drooping like a wet noodle.
 
 "Your FACE!" howled Tako.
 
-"Your face is MY face, we look the SAME!" howled Yaki, and that made them laugh even harder, until they were two damp golden balls hiccupping on a damp yellow truck.
-
-When the giggles finally settled into warm little wheezes, Kei rolled them out of the puddle and shook herself dry like a happy dog. "You know," she said thoughtfully, "you two are the funnest racers I've ever carried. You're just not the smoothest. Yet."
-
-"How do we get smooth?" asked the twins.
-
-"Well," said Kei, "you've been trying to go fast by pulling against each other. Every time, one of you yanks left and one of you yanks right, and all that yanking has to go *somewhere*. So it turns into spinning. And puddles." She tilted her headlights thoughtfully toward the wobbly bonito wave that joined them. "But here's a kei-truck secret." She lowered her voice to a cozy little hum. "**Issho ni** (EE-shoh nee) — together. The fastest cars in the whole wide world don't have wheels that fight. Four wheels, one direction — that's all it is. Smoothness isn't slow. Smoothness is just *fast with no fighting*. So stop racing *each other*. Start racing *with* each other."
-
-She gave a gentle bounce on her springs. "You're already attached, you silly snacks. You came as two before you ever got here. You just forgot to act like it."
-
-Tako blinked. Yaki blinked. They blinked the same blink.
-
-"Sooo..." said Tako slowly, "if I say left..."
-
-"...I lean left too," finished Yaki, "even if I *thought* it was right."
-
-"Roll us once," they whispered together, and for the first time all night they didn't shout it — "we come as two."
+"Your face is MY face!" howled Yaki, and they laughed until they hiccuped.
 
 ---
 
-They lined up at the start again. The lanterns glowed soft and orange. The night smelled of vinegared rice and warm batter and a little bit of puddle.
+Kei shook herself dry like a happy dog. "Funnest racers I've ever carried. Just not the smoothest. Yet."
 
-"This time," said Kei, "we don't go fast. We go *smooth*. Trust your wave."
+"Every lap, one of you yanks left and one yanks right. All that yanking has to go somewhere."
 
-The light blinked green.
+"**Issho ni** (EE-shoh nee) — together," said Kei. "Four wheels, one direction. Smooth is just fast with no fighting."
 
-Kei rolled forward — gently, gently — and the twins felt the curve coming the way you feel a yawn coming. Soft. Sure. Together.
+Tako blinked. Yaki blinked the very same blink.
 
-"Leeean left," murmured Tako.
+"Roll us once," whispered Tako.
 
-"Leaning left," hummed Yaki, and they tipped as one, like a single egg rolling around a warm bowl. The wobbly bonito wave between them didn't fight — it *flowed*, curling like a tiny river, steering them sweet and true around the bend.
+"We come as two," whispered Yaki.
 
-Up the little hill they went, not *boinging* but *gliding*, just touching the top before easing down the other side.
+---
 
-"Curve coming, riiight," said Yaki.
+Green light. Kei rolled forward gently. The twins felt the curve coming the way you feel a yawn.
 
-"Riiight," agreed Tako, and they leaned right together, smooth as condensed milk pouring over shaved ice.
+"Leeean left," murmured Tako, and they tipped as one, like a single egg in a warm bowl.
 
-Then came the swooshy S-bend, the wiggly noodle of a turn that had tripped up many a racer. But the twins didn't tense up. They breathed. They felt the wave between them and let it lead, left-then-right-then-left, smooth as a ribbon unspooling, and the S-bend simply melted away beneath them as though it had been waiting all evening for someone gentle enough to dance it properly.
+The S-bend melted away beneath them, left-right-left, smooth as condensed milk over shaved ice.
 
-It didn't feel fast at all. It felt like dancing. It felt like two friends humming the same song. The lanterns slid past, warm and golden, and Kei's little engine purred its happiest *putt-putt-putt-putt*, and the twins were laughing again — but soft this time, the gentle giggle of two people doing something perfectly together. No yelling. No yanking. Just one wave, one direction, one wonderful glide.
+Across the finish. Beep-boop. The twins covered their eyes.
 
-They crossed the finish line.
+The red arrow had barely moved at all. The fastest lap of the whole evening.
 
-*Beep-boop!*
+"But we went SLOW!" said Tako.
 
-The big board lit up.
+"Together is the hayai you were chasing," said Kei, "you wobbly, wonderful weirdos."
 
-The twins covered their eyes. "Is it bad? It felt slow. We didn't even rush."
+---
 
-Kei looked up at the number. Her headlights got very, very wide. "Oh," she whispered. "Oh, my springs."
+Old Gori, the slushy old shaved-ice lantern-keeper, waddled over with a plate of hot, sizzling takoyaki.
 
-It was the fastest lap of the entire night.
+"To being eaten one day," said Tako, "as the FASTEST snack in town!"
 
-"But — we went SLOW!" said Tako.
+"Together," said Yaki, "or not at all."
 
-"We barely tried!" said Yaki.
-
-"You didn't waste a single second fighting each other," said Kei, beaming all over her butter-yellow face. "No spins. No puddles. No arguing about left and right. Just *issho ni*. Together is the hayai you were chasing the whole time, you wobbly wonderful weirdos."
-
-Tako and Yaki looked at the glowing number, then at each other, then bounced so high that Kei beeped with surprise.
-
-"We're FAST!" cried Tako.
-
-"Because we're TOGETHER!" cried Yaki.
-
-And the best part — the very best part — was that they hadn't beaten anybody at all. There was no other racer to beat. There was just a clock, a track, a tiny truck, and two friends who'd finally learned that the finish line tastes sweetest when you cross it side by side.
-
-The lantern-keeper, a kindly old shaved-ice fellow, rolled out a paper plate of fresh, hot, sizzling takoyaki to celebrate — and Tako and Yaki cheered the loudest of all, because being a takoyaki and *cheering* for takoyaki is the most joyful, giggly, deliciously silly thing in the whole entire market.
-
-"To being eaten one day," said Tako proudly, "as the FASTEST snack in town!"
-
-"Together," said Yaki, "or not at all!"
-
-Kei beeped her agreement, the lanterns glowed, and somewhere a tiny timer ticked on, just waiting for the next pair of friends brave enough to go slow enough to be fast.
+Kei's engine purred its sleepiest putt-putt, and the lanterns glowed soft along the empty track.
 
 ---
 
 ## Goodnight Blessing
-Little one, the world will sometimes whisper that you must be first, and fastest, and ahead of everyone else — but the takoyaki twins learned the cozy truth: the smoothest, happiest, *speediest* journeys are the ones you take hand-in-hand with someone you love. Tonight, let your breathing slow like a truck rolling gently home, *putt-putt-putt*, around one last warm and lantern-lit curve. There is no race here in your soft, snug bed. There is only you, and the quiet, and a whole night of dreams curling around you like a wobbly little wave. Lean into the dark the way friends lean into a turn — together, unafraid, and giggling just a little. Goodnight.
+The world may whisper that you must be first. The twins know better: the smoothest journeys are the ones you take side by side. Breathe slow, like a truck putt-putting home. Lean into the dark together. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration, soft glowing palette of butter-yellow, golden-brown, and lantern-orange: two cheerful round takoyaki balls (golden batter, sauce zig-zags, a wobbly bonito-flake wave connecting them) riding on the stubby flatbed of a teeny butter-yellow kei-truck with big round headlight eyes and a knitted seat-cover sweater, zooming smoothly around a tidy go-kart circuit lined with tiny paper lanterns at dusk; motion-blur ribbons of golden light, gentle curve in the track, checkered finish line ahead, cozy joyful mood, twinkling evening sky.
-2. Character portrait, kawaii storybook style: the takoyaki twins Tako and Yaki — two plump golden batter-balls joined by a wobbly bonito-flake wave on top, drizzled with sauce zig-zags, bright round eyes, mid-bounce and high-fiving with stretchy little arms, beaming identical grins; soft warm lighting, creamy background with a faint racing-stripe motif.
-3. Cozy closing scene: the takoyaki twins crossing a checkered finish line side by side aboard the smiling yellow kei-truck, a glowing timer board above showing a happy "FASTEST LAP!" number, paper lanterns casting warm orange light, a kindly shaved-ice lantern-keeper offering a steaming plate of fresh takoyaki nearby; tender, celebratory, sleepy-warm storybook atmosphere with soft golden glow and a starry night above.
+1. Key scene — warm whimsical storybook illustration in butter-yellow, golden-brown and lantern-orange: a teeny butter-yellow kei-truck with big headlight eyes and a knitted seat-cover sweater landing in a shallow puddle on a tidy little go-kart circuit at evening, a glittering fan of water rising into the lantern-light like diamonds, two round golden takoyaki balls (joined by a wobbly bonito-flake wave) on her flatbed with eyes wide and sauce swirling; paper lanterns along the railings, a little hill behind; silly, joyful, cozy.
+2. Character portrait — the takoyaki twins Tako and Yaki: two plump golden batter-balls joined by a wobbly bonito-flake wave on top, drizzled with sauce zig-zags, bright round eyes, slightly damp and giggling, mid-bounce and high-fiving with stretchy little arms; soft warm lighting, creamy background with a faint racing-stripe motif.
+3. Closing scene — the checkered finish line of the little circuit at evening under glowing paper lanterns: the twins side by side on the smiling yellow kei-truck, a big round clock with one red arrow above them, a slushy old shaved-ice lantern-keeper offering a steaming plate of fresh takoyaki; tender, celebratory, sleepy-warm storybook glow.
+
+## Animation Notes
+- **Cast:**
+  - `TAKO` — Tako: the left golden takoyaki ball of a joined pair, sauce zig-zag on top, bonito-flake wave shared with Yaki, big round giggly eyes; voice: fast, bouncy, boyish.
+  - `YAKI` — Yaki: the right golden takoyaki ball of the pair, same sauce zig-zag, same giggly eyes, a stretchy little arm always ready to high-five; voice: fast, bouncy, echoing.
+  - `KEI` — Kei the kei-truck: a teeny round butter-yellow mini-truck with big headlight eyes, a stubby flatbed, tidy mud-flaps and a knitted seat-cover sweater; voice: eager, putt-putt, beepy.
+  - `GORI` — Old Gori: an elderly shaved-ice fellow, a slumped cone of pale snow with a faded strawberry-syrup top, a little lantern on a pole, droopy kind eyes; no lines.
+- **Scenes:**
+  1. The entrance to a tidy little go-kart circuit behind the market at evening: smooth gray track, warm orange paper lanterns on the railings, a little hill, a swooshy S-bend, a checkered finish line, a yellow kei-truck at the starting gate.
+  2. The starting gate and finish line at evening: a big round clock with one red arrow above the finish, a green starting light.
+  3. The first curve and the little hill at evening: lanterns blurring, hay bales beside the track.
+  4. The little hill and a shallow puddle beside the flowerpots at evening: water fanning up into lantern-light.
+  5. The side of the track at evening, the kei-truck shaking dry, two damp takoyaki on her flatbed.
+  6. The swooshy S-bend and the finish line at evening: the clock with its red arrow barely moved, lanterns glowing soft.
+  7. The finish line at evening, lanterns low, an old shaved-ice lantern-keeper with a steaming plate of takoyaki, the empty track behind.
+- **Budget:** 627 narrated words · 48 beats · 7 scenes · est. 4:44

@@ -1,183 +1,136 @@
 # Story 28: Pock Ramune and the Festival Goldfish Scoop
 
 **Main Character:** Pock Ramune
-**Guest Characters:** None
+**Guest Characters:** Chochin-san, an old paper lantern who runs the stall; Lulu, a tiny soda-candy drop; Hoshi, a fat goldfish with a ballgown tail
 **Setting:** A festival goldfish-scooping (kingyo-sukui) game stall
 **Theme:** Gentle hands win more than grabby ones
 **Japanese Spotlight:** **kingyo** (keen-gyoh) — goldfish
 
 ---
 
-POP! went the marble, and off went Pock.
+POP went the marble, and off went Pock.
 
-Pock Ramune zipped through the summer festival like a fizzy little comet, leaving a sparkly trail of happy bubbles behind him. His frosty pale-blue glass body bonked gently off a lantern — *bonk!* — and he giggled so hard the bubbles in his neck did a tiny dance.
+Pock Ramune zipped through the night festival like a fizzy comet, bonked off a lantern, and giggled.
 
-"Pop pop POP!" he sang. "Goldfish, here I come!"
+"Pop pop POP! Goldfish, here I come!" he sang, bubbles streaming behind him.
 
-Because tonight — oh, tonight — there was a brand new game at the **matsuri** (mah-tsoo-ree) — festival, and it was the most wonderful, most *splashy* thing Pock had ever seen. A long shallow tank glowed under paper lanterns, and inside it, dozens of tiny orange **kingyo** (keen-gyoh) — goldfish — flicked their fins like little swimming flames.
+There it was: a long shallow tank glowing under lanterns, full of **kingyo** (keen-gyoh) — goldfish.
 
-Pock pressed his fizzy freckled face right up against the glass, fogging it with little excited puffs. The goldfish blinked at him. He blinked back. One of them swam in a slow circle. Pock zipped in a fast one, just to show off.
+Pock pressed his fizzy face to the glass and fogged it with excited puffs. The goldfish blinked.
 
-"I," announced Pock, "am going to scoop ALL of you. Pop! Every last one! I'll need a wheelbarrow! A goldfish PARADE!"
-
-A passing cotton-candy friend gave him a worried look and floated quickly away.
-
-He had no idea how very wrong — and how very *fun* — that idea was about to be.
+"I'm going to scoop ALL of you," announced Pock. "I'll need a wheelbarrow. A goldfish PARADE!"
 
 ---
 
-The stall was run by a wobbly, kindly old paper lantern named Chochin-san, who hung from a string above the tank and glowed a warm pumpkin-orange.
+Above the tank swung Chochin-san, a wobbly old paper lantern glowing pumpkin-orange.
 
-"Welcome, welcome," Chochin-san said sleepily. "One **poi** (poy) — paper scoop — please. And remember—"
+"One **poi** (poy) — paper scoop," he said sleepily. "And remember—" But Pock had already grabbed one.
 
-But Pock had already grabbed a poi.
+A hoop with paper stretched across it, thin as a moth's wing. Scoop before it tears.
 
-It was the silliest little tool Pock had ever held: a small round hoop with a thin sheet of paper stretched across it, soft as a moth's wing. You were supposed to scoop a goldfish out of the water and plop it into a bowl — *before the wet paper tore.*
+The fattest goldfish swished past, tail like a tiny ballgown. Her face said: catch me, bubbly.
 
-"Easy peasy fizzy!" said Pock, who never once in his life had done anything slowly.
+"GOTCHA!" yelled Pock, and plunged the poi in with a BASHA you could hear three stalls away.
 
-He spotted the fattest, shiniest goldfish in the whole tank. She had a swishy tail like a tiny ballgown and a face that seemed to say, *catch me if you can, bubbly.*
+Rrrrip. The goldfish swam out through the hole, somersaulted, and, Pock was certain, winked.
 
-"GOTCHA!" yelled Pock, and he plunged the poi into the water with a giant *basha!* — a splash so big you could hear it three stalls away.
-
-*Rrrrip.*
-
-The paper tore clean through. The goldfish swam right out the hole, did a little flippy somersault, and — Pock was almost certain — *winked* at him.
-
-"Hey!" said Pock. "Pop! That doesn't count!"
-
-"That," yawned Chochin-san, "is your first lesson. The kingyo is faster than your hurry."
-
-Pock got a new poi. He tried again. *Basha!* — RIP. And again. *Basha!* — RIP. Each time he jabbed and grabbed and splashed, the goldfish scattered like orange sparks, and the wet paper gave up instantly, dribbling sad little drips.
-
-By his fourth torn scoop, a small crowd of festival snacks had gathered to watch, the way crowds always gather when someone is splashing dramatically. A skewer of dango leaned in. A candy apple gasped politely. Pock, who normally LOVED an audience, only splashed harder.
-
-*Basha!* — RIP. *Basha!* — RIP.
-
-By his seventh torn scoop, Pock's bubbles had gone all flat and grumpy, and there was a small puddle around him that he was fairly sure was half water and half wounded pride.
-
-"It's broken," he sulked, slumping against the tank with a soggy *squelch.* "The poi is broken. The water is broken. The goldfish are EXTRA broken. And I'm pretty sure," he added darkly, "that they're LAUGHING at me."
-
-The fat swishy-tailed goldfish blew a single bubble in his direction. It was, Pock felt, a very smug bubble.
-
-"Fall down seven, try a softer eight," said Chochin-san, who had clearly been talking to a certain daruma at some point.
+"The kingyo is faster than your hurry," yawned Chochin-san.
 
 ---
 
-That was when Pock noticed the smallest sniffle in the world.
+New poi. BASHA. Rip. New poi. BASHA. Rip. The goldfish scattered like orange sparks.
 
-Beside him at the tank stood a teeny, trembly friend Pock had never met — a little soda-candy drop named Lulu, no bigger than a button, fizzing very quietly. Lulu held a poi in both paws and stared at the goldfish with enormous, hopeful eyes.
+By the seventh, the wave sloshed clean over the rim, and the fat goldfish rode it out.
 
-"I've never won one," Lulu whispered. "Not ever. I just want one little kingyo to take home. But everyone scoops so fast and splashy, and I'm so small, and—" Lulu's tiny fizz wilted. "I'll probably tear my paper too."
+Flop. Flip. Flop. She bounced down the lane like a wet orange coin.
 
-Now, here is a thing about Pock Ramune. He could be grabby. He could be much too fast. But underneath all that fizz was the biggest, bubbliest heart at the whole festival — and the moment he saw Lulu's wobbly chin, his own grumpiness popped like a soap bubble.
-
-"Hey, hey, no sniffles at a festival!" Pock said gently — well, gently *for him.* "Pop. We'll figure it out. Together."
-
-But how? Pock had torn seven scoops doing it the loud, grabby way. If grabby didn't work for *him,* it definitely wouldn't work for tiny Lulu.
-
-So Pock did something he almost never did. Something so unusual that Chochin-san's flame flickered in surprise. Something so rare that the fat goldfish actually stopped swimming to stare.
-
-He stopped.
-
-He went still. He stopped fizzing so hard. He stopped zipping and looping and popping. He just... floated there, quiet as a frosty little moon, and watched the goldfish swim.
-
-It was, honestly, the hardest thing Pock had ever done. His bubbles itched. His marble wanted to rattle a happy song. Standing still felt to Pock the way holding a sneeze feels to everyone else. But he held it. For Lulu, he held it.
+"Pop! COME BACK!" Pock zipped after her and bonked straight into a candy-apple stall.
 
 ---
 
-And when Pock watched — really watched — he started to *notice* things.
+The goldfish flopped under the shaved-ice cart. Pock dove. An avalanche of crushed ice, all over Pock.
 
-He noticed the goldfish weren't scared when no one splashed. They drifted slow and curious, fins barely moving.
+She flopped toward the yakisoba stall. Pock lunged. Noodles. Everywhere. One in his marble.
 
-He noticed that when a scoop went in *flat* — sliding under the water sideways, smooth as a whisper — the paper didn't fight the water. It just... rested in it.
+Then a teeny soda-candy drop, no bigger than a button, knelt down in the goldfish's path.
 
-He noticed that the goldfish would actually *swim over* a still, quiet poi all by themselves, the way a sleepy cat finds a warm sunbeam.
+She held out her paws, cupped and still, and did nothing at all.
 
-"Lulu," Pock breathed, his bubbles tingling with a brand new idea. "I think... I think the goldfish don't want to be *grabbed.* I think they want to be *invited.*"
+The goldfish flopped once more and landed in them, flapping. Then calm.
 
-He remembered something Maru Matcha always said back home: *Whisk slow. Feel calm.* Pock had never been very good at slow. But for Lulu, he would try.
-
-"Okay," Pock whispered. "New rules. Soft and slow wins the show. Watch."
-
-He lowered a fresh poi into the water — not with a *basha!* but with a hush, tilting it so the paper slipped in edge-first, sideways, hardly a ripple. He held it dead still beneath the water, patient as a lily pad.
-
-And he waited.
-
-His fizzy freckles wanted to pop. His marble wanted to rattle. Every single bubble in his body was screaming *GRAB IT GRAB IT GO GO GO* — but Pock breathed, and stayed soft, and let the goldfish come to *him.*
-
-A small kingyo drifted over. Closer. Closer. It floated right above the paper, calm as a cloud.
-
-"Now," Pock whispered, "lift like you're tucking a baby into bed."
-
-He raised the poi up *slow,* straight up, smooth as the moon rising — and the little goldfish rose with it, cradled gently in a shallow dimple of paper and water.
-
-*Plop.* Into the bowl. Safe. Happy. Swishing.
-
-"POP!" Pock shrieked, then clapped both fizzy hands over his own mouth. "I mean — pop," he whispered. "Sorry. Indoor bubbles."
-
-Chochin-san glowed brighter, beaming. "*Now* you understand. The poi tears when you fight the water. But hold it gentle, and the water holds *you.*"
+"I'm Lulu," whispered the tiny drop. "She was scared. You just have to be still."
 
 ---
 
-Pock turned to Lulu, who was staring like she'd just watched a magic trick.
+Lulu slid the goldfish home with a plop. Chochin-san glowed with relief.
 
-"Your turn," Pock said softly. "But this is YOUR goldfish to win, okay? I'll only help your hands stay calm."
+"I've never won one," said Lulu. "Everyone scoops so fast and splashy. I'd tear my paper too."
 
-Lulu's whole tiny body trembled. "What if I tear it?"
+Pock looked at the noodle on his head. Then at Lulu's still little paws.
 
-"Then we get another paper, and we try a gentler eight," said Pock. "That's the whole secret, Lulu. Pop. It was never about being *strong.* It's about being *soft.* Grabby hands scare everything away. But gentle hands?" He grinned his fizzy pop-grin. "Gentle hands get invited."
+Then Pock did the hardest thing he had ever done. He stopped.
 
-So Lulu took a deep, brave breath. Pock floated beside her, bubbling so quietly you could barely hear him — just a tiny *fzz... fzz...* like a lullaby made of soda.
+No zipping. No popping. He floated, quiet as a frosty little moon, and watched.
 
-"Slide it in sideways," Pock murmured. "Hush. No splash."
-
-Lulu slipped the poi in edge-first. Hardly a ripple.
-
-"Now hold still. Let the kingyo come."
-
-Lulu held still. Her little arms shook, but she held still, still, still. And a goldfish — the swishy fat one with the ballgown tail, the very one who'd winked at Pock — drifted over and settled right above Lulu's paper, as if she'd been waiting for someone soft enough all night long.
-
-"Lift like a goodnight tuck-in," Pock whispered.
-
-Lulu lifted. Slow as moonrise. Smooth as a lullaby.
-
-*Plop.*
-
-The goldfish swirled happily into Lulu's bowl, fins glowing orange under the lanterns.
-
-For one heartbeat, the whole festival seemed to hold its breath. Then Lulu burst into the brightest, fizziest, most overflowing little cheer anyone had ever heard, bubbles shooting up like fireworks.
-
-"I DID IT! I WON A KINGYO! SHE'S MINE! POCK, SHE'S *MINE!*"
-
-"You DID it!" Pock cheered, doing seven loop-the-loops in a row. "And you did it your own self! Pop pop POP!"
-
-Lulu hugged her bowl to her chest, gazing at her shimmering new friend. "I'm going to name her Hoshi," she whispered. "Because she shines like a star."
-
-"Hoshi," Pock repeated, and felt his own bubbles go warm and tingly. "Best name at the whole festival. Pop."
-
-The watching crowd of festival snacks broke into delighted cheers. The dango skewer wobbled with joy. The candy apple sniffled happily into a napkin. Even the fat smug goldfish in the tank did a little celebratory flip — though she made very sure to flip *just* out of poi-reach, because some things never change.
+"Lulu," he breathed, "they don't want to be grabbed. They want to be invited."
 
 ---
 
-Chochin-san glowed so warm and proud that the whole stall went golden. "Two scoops won tonight," the old lantern said, "and both with the same gentle hands. The festival rewards the soft heart, little fizzers. It always has."
+He slid a fresh poi in sideways, hardly a ripple, and held it still as a lily pad.
 
-Pock looked down at his own goldfish, swishing happily in her bowl, and then over at Lulu cuddling Hoshi, and he felt a warmth bubble up inside him that was even better than winning. It was the cozy, glowy feeling of helping someone else win *first.*
+Every bubble in him screamed GRAB IT. He breathed. A small kingyo drifted over the paper.
 
-They bought two paper cones of shaved ice to share, and Chochin-san waved them off with his warmest glow, calling, "Come back next year, soft-handed fizzers! The kingyo will remember you!"
+"Lift like you're tucking a baby into bed," he whispered, and raised it slow.
 
-"You know what, Lulu?" Pock said, as they wandered off together under the lanterns, two little glass friends and two little goldfish, bubbles drifting up toward the warm summer stars. "Best festival ever. Pop. And I didn't even grab a single thing. Well—" he considered, "—except the shaved ice. But that doesn't count. The shaved ice WANTED to be grabbed."
+Plop. Into the bowl. "POP!" he shrieked, then clapped both arms over his mouth. "Sorry. Indoor bubbles."
 
-Lulu giggled so hard her own little bubbles fizzed over. "Soft hands, Pock."
+---
 
-"Soft hands," Pock agreed, and he meant it all the way down to his marble. Then — for once in his whole zippy, splashy, never-once-slowed-down life — Pock Ramune floated home slow. He let his bubbles rise gently instead of popping. He matched his pace to tiny Lulu's tiny steps. And he discovered something wonderful that he never could have noticed at full speed: that the lanterns swayed like a lullaby, that the night smelled of sugar and river-cool air, and that going slow, sometimes, lets you keep the good things just a little bit longer.
+"Your turn," said Pock softly. "Slide it in sideways. Hush. Let the kingyo come."
+
+Lulu held still. Her arms shook, but she held still, still, still.
+
+And the fat ballgown goldfish drifted over and settled on Lulu's paper, as if she'd been waiting.
+
+Lift. Slow as moonrise. Plop.
+
+"I WON A KINGYO!" Lulu's bubbles shot up like fireworks. "Her name's Hoshi. She shines like a star."
+
+"Soft wins," said Pock, doing seven loop-the-loops. "Grabby scares everything away. Soft gets invited."
+
+---
+
+Chochin-san glowed so proud the whole stall went gold. "The festival rewards the soft heart, little fizzers."
+
+"Best festival ever," said Pock. "And I didn't grab a single thing. Except the shaved ice."
+
+"The shaved ice WANTED to be grabbed," he added. Lulu giggled her fizziest giggle.
+
+And for once, Pock Ramune floated home slow, bubbles rising gently instead of popping.
 
 ---
 
 ## Goodnight Blessing
-May your hands always be gentle, little one, and may the things you love most swim softly toward you when you stop trying to grab and simply wait with an open, kind heart. May you cheer the loudest for someone else's happy moment, the way Pock cheered for Lulu. May your dreams glow orange and gold like festival lanterns, soft and warm and never in a hurry. Rest now, soft as paper on still water. Goodnight.
+May your paws be gentle, and may the things you love swim softly toward you when you stop grabbing and simply wait. Dream in lantern orange and goldfish gold. Rest now, soft as paper on still water. Goodnight.
 
 ## AI Image Prompts
-1. Key scene — warm whimsical Japanese storybook illustration, glowing summer festival night with paper lanterns. A frosty pale-blue Ramune soda bottle character (fizzy bubble freckles, marble in its neck, happy pop-grin) gently holds a delicate paper poi scoop sideways under the water of a shallow glowing goldfish tank, staying very still as a small orange goldfish drifts toward it. Soft golden lantern light, dozens of tiny orange kingyo, warm oranges and cozy blues, peaceful patient mood, gentle reflections on the water.
-2. Character portrait — Pock Ramune, a cheerful frosty pale-blue glass soda bottle with a marble in its neck, fizzy bubble freckles across its cheeks, big bright eyes and a wide "pop!" grin, holding a tiny round paper goldfish scoop in both hands. A sparkly trail of happy bubbles swirls around him. Whimsical storybook style, soft warm lighting, kawaii and cozy.
-3. Closing scene — twilight festival path lit by lanterns; the little Ramune bottle and a teeny soda-candy friend (Lulu) walking slowly side by side, each cradling a small bowl with a glowing orange goldfish inside. Bubbles drift gently up toward warm summer stars. Tender, peaceful, golden-hour glow, a quiet happy ending, soft pastel palette.
+1. Key scene — warm whimsical Japanese storybook illustration, summer festival night under paper lanterns: a long shallow glowing goldfish tank, dozens of tiny orange kingyo, and a frosty pale-blue Ramune soda-bottle character with a marble in his neck and bubble freckles holding a delicate paper poi scoop perfectly still under the water while a small orange goldfish drifts toward it; beside him a teeny soda-candy drop watches with huge eyes; an old pumpkin-orange paper lantern swings above, glowing. Soft golden light, oranges and cozy blues, patient peaceful mood.
+2. Character portrait — Pock Ramune: a cheerful frosty pale-blue glass soda bottle with a marble in his neck, fizzy bubble freckles across his cheeks, big bright eyes, a wide "pop!" grin, a single stray noodle draped over his cap, holding a round paper goldfish scoop in both arms, a trail of happy bubbles swirling around him. Whimsical storybook style, warm lantern lighting, kawaii.
+3. Closing scene — lantern-lit festival path at night, the little Ramune bottle and a teeny soda-candy drop floating slowly side by side, each cradling a small bowl with a glowing orange goldfish inside, one with a swishy ballgown tail. Bubbles drift gently up toward warm summer stars. Tender, peaceful golden glow, soft pastel palette, quiet happy ending.
+
+## Animation Notes
+- **Cast:**
+  - `POCK` — Pock Ramune: a frosty pale-blue glass soda bottle with a marble in his neck, fizzy bubble freckles, a "pop!" grin, stubby arms; voice: zippy, giggly, popping.
+  - `LULU` — Lulu: a tiny round soda-candy drop, pale pink and translucent, no bigger than a button, with enormous hopeful eyes; voice: tiny, trembly, sweet.
+  - `CHOCHIN` — Chochin-san: a wobbly old pumpkin-orange paper lantern hanging from a string, a kindly sleepy face glowing on its side; voice: slow, warm, yawning.
+  - `HOSHI` — Hoshi: a fat glossy orange goldfish with a swishy ballgown tail and a smug little face; no lines.
+- **Scenes:**
+  1. The festival lane at night, paper lanterns, the glowing goldfish tank at the end of the lane, bubbles in the air.
+  2. The goldfish-scooping stall: a long shallow tank lit from above by the old orange lantern, paper poi scoops and little bowls on the counter.
+  3. The same stall, water sloshing over the rim, a ring of festival treats watching, a candy-apple stall beside it.
+  4. The festival lane beyond the stall: a shaved-ice cart, a yakisoba stall, the goldfish flopping along the ground, lanterns above.
+  5. Back at the goldfish stall, calm water, Pock floating perfectly still beside the tank.
+  6. Close on the tank: a paper poi held flat under the water, one small goldfish drifting over it.
+  7. The tank with Lulu at the edge, the fat ballgown goldfish settling onto her poi, lantern light golden.
+  8. The lantern-lit festival path home at night, two bowls, bubbles rising toward the stars.
+- **Budget:** 658 narrated words · 43 beats · 8 scenes · est. 4:52

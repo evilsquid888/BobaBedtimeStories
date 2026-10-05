@@ -1,149 +1,132 @@
 # Story 52: Kuma Kuri and the Nara Deer Bows
 
 **Main Character:** Kuma the Kuri (roasted chestnut / kuri kinton sweet)
-**Guest Characters:** None
+**Guest Characters:** Momiji, a young deer with cinnamon-stick antlers; Okaki, a crusty old rice-cracker with a cracker cart
 **Setting:** Nara Park, where polite wild deer bow for treats
 **Theme:** Good manners are a language everyone understands
-**Japanese Spotlight:** shika (shee-kah) — deer
+**Japanese Spotlight:** **shika** (shee-kah) — deer
 
 ---
 
-Kuma the Kuri rolled into Nara Park hidden inside his autumn-leaf scarf, which is exactly the wrong size for hiding and exactly the right size for tripping over. He was a glossy mahogany chestnut, round and roasty-warm, with a fuzzy little cap pulled down low — because today Kuma had decided to be brave, and being brave made him want to fold himself up like a tiny acorn-knight and disappear.
+Nara Park in autumn was full of deer. Big ones, small ones, fluffy-bottomed ones nibbling leaves.
 
-"Small and roasty, ready and toasty," he whispered, which was his courage-spell. It usually worked. Today it wobbled.
+Into it hopped a glossy mahogany chestnut, wrapped in an autumn-leaf scarf three sizes too big.
 
-Because Nara Park was FULL of deer. Big ones, small ones, fluffy-bottomed ones nibbling maple leaves, ears flicking like little sails. They wandered the paths as if they owned every lantern and every cobblestone, which — Kuma suspected — they probably did.
+Kuma the Kuri tripped on it, bounced twice, and landed cap-first in the leaves.
 
-And one of them was looking right at him.
+"Small and roasty, ready and toasty," he whispered. His courage-spell. Today it wobbled.
 
-Kuma squeaked and rolled behind a stone lantern so fast his cap nearly flew off.
+"Today," Kuma told the leaves, "I will say ONE brave hello. To one **shika** (shee-kah) — deer."
 
----
+One deer was looking right at him. Kuma squeaked and hopped behind a stone lantern.
 
-The deer kept looking. It had soft brown eyes, a velvety nose, and tiny new antlers like two cinnamon sticks. It tilted its head at the stone lantern, then at the chestnut peeking around it, then back at the lantern, plainly thinking: *Why is the chestnut hiding? I can see the whole chestnut.*
-
-(The narrator would like to point out, gently, that a stone lantern is not actually a good hiding spot for a round brown chestnut. It is, in fact, the *worst* hiding spot, on account of stone lanterns being skinny and chestnuts being round. But Kuma did not know this, and we love him for trying.)
-
-"Hello," Kuma managed. His voice came out the size of a sesame seed.
-
-The deer did the most astonishing thing. It bent its front legs, dipped its head, and **bowed** — a slow, neat, polite little bow, the way you might greet a grandmother or a king.
-
-Kuma blinked. "Oh," he breathed. "Oh, that's — that's very nice manners."
-
-A passing breeze carried the giggle of a tour guide nearby. "The famous bowing **shika** (shee-kah) — the deer — of Nara!" she was telling a cluster of visitors. "Bow to them, and they bow right back. It's the politest hello in all of Japan."
-
-Kuma's roasty heart did a small happy flip. A polite hello! That he could do. Kuma was many things — shy, round, prone to hiding behind lanterns — but he was *excellent* at polite. So he tucked in his scarf, took a breath, and bowed back.
-
-It was not a graceful bow. Chestnuts are not built for bowing; they are built for rolling. Kuma tipped forward, kept tipping, and rolled head-over-cap straight into the deer's hooves with a soft *bonk*.
-
-"Sorry! So sorry! That was meant to be dignified!" Kuma squeaked, muffled, from somewhere near the deer's ankle.
-
-The deer lowered its nose and gave him a gentle sniff. Then — and Kuma would tell this part of the story for years — it bowed *again*. As if to say: *Nice try. Let's both pretend that was on purpose.*
-
-And just like that, Kuma had a friend. A tall, four-legged, leaf-munching friend who, the moment Kuma sat up, started looking at his scarf with great interest.
+A stone lantern is skinny. A chestnut is round. The deer could see the whole chestnut.
 
 ---
 
-"This?" said Kuma, holding up a corner. "This is my scarf. It is not for eating."
+It had velvet ears, soft brown eyes, and tiny new antlers like two cinnamon sticks.
 
-The deer bowed.
+"Hello," managed Kuma. The word came out the size of a sesame seed.
 
-"That's a very polite way to ask for something you cannot have," Kuma said, a little sternly, which made the deer bow *twice more*, because it had clearly learned that bowing got results, and Kuma was the easiest fellow in all of Nara to soften up.
+The deer bent its front legs, dipped its head, and bowed. Slow. Neat. Perfectly polite.
 
-They walked a little way together — well, the deer walked, and Kuma rolled alongside in short brave hops, his cap bobbing. They passed mossy stone steps and a thousand-year-old shrine gate and a puddle that reflected the whole orange sky. A few other deer looked up as they went, and each one bowed, and each time Kuma stopped to bow back, even when bowing made him tip over, which was most times. By the fourth tip-over the cinnamon-antlered deer had begun, very subtly, to lean its shoulder against Kuma whenever he bent forward — a soft, warm wall to catch him.
+"Oh," breathed Kuma. "That's very nice manners. I can do manners."
 
-"You're helping me bow," Kuma realized, looking up. "That's the kindest thing. Thank you, friend."
+He bowed back. Chestnuts are not built for bowing. They are built for tipping over.
 
-The deer's ears flicked happily. Kuma did not yet have a name for it, so in his roasty little heart he simply called it *Friend*, with a capital F, the way you do for the important ones.
+Kuma tipped, kept tipping, and bonked into the deer's hooves. "That was meant to be dignified," he squeaked.
 
-Now, here is a thing about the shika: in Nara they have learned that humans carry little crackers called **shika senbei** (shee-kah sen-bay) — deer crackers, flat and crunchy and made just for them. And the deer have learned that if you bow — politely, sweetly, with your big brown eyes turned all the way up — the crackers tend to appear.
-
-The deer thought Kuma might have crackers.
-
-The deer was wrong. Kuma had no crackers. But what Kuma DID have was a problem, and the problem arrived with a clatter and a wail from the far end of the path.
+The deer sniffed him. Then it bowed again, as if to say: let's pretend that was on purpose.
 
 ---
 
-A vendor's cart had tipped. A whole tray of shika senbei lay scattered across the cobblestones, and the vendor — a flustered, kind-faced woman with flour on her apron — was on her knees trying to gather them while a growing crowd of deer closed in like a polite, fuzzy tide.
+Kuma named it Momiji, and off they went, Momiji walking, Kuma hopping bravely.
 
-"Please — please wait your turn —" she was saying, but there were so MANY of them, all bowing at once, all bowing FASTER, a hundred velvet heads dipping and rising, and the more they bowed the more crackers they expected, and the crackers were everywhere, and oh, it was going to be a stampede of good manners.
+Every deer they passed bowed. Kuma bowed back and tipped over. By the fourth, Momiji was catching him.
 
-Kuma's tummy went cold and roasty all at once. *I should hide,* said the shy part of him. *This is a crowd. Crowds are big and loud and full of hooves.*
+Momiji bowed at the scarf. "This is my scarf," said Kuma. "Not for eating." Momiji bowed twice more.
 
-But the kind part of him — the part that loved cozy fires and friends with full tummies — said something quieter. *That nice lady needs help. And nobody here speaks deer.*
-
-Except.
-
-Kuma looked at his new friend, who bowed at him hopefully.
-
-"I think," Kuma said slowly, "I might speak just a little."
+Then, from the far end of the path, came a clatter and a wail.
 
 ---
 
-Now, Kuma was a small chestnut, and he could not shout, and he could not gather a hundred crackers, and he certainly could not out-bow a deer (he'd proven that already, by rolling into one).
+Okaki, a crusty old rice-cracker, had tipped her cart. **Shika senbei** (shee-kah sen-bay) — deer crackers everywhere.
 
-But he had noticed something. The deer did not bow because they wanted to be *first*. They bowed because bowing was their way of saying *please*. And a polite *please* deserves a polite *order* — first one, then the next, then the next.
+The deer came. From the grass, the shrine steps, the trees. A fuzzy, polite tide.
 
-So Kuma rolled to the very center of the cobblestones, right into the middle of the fuzzy tide, and he did the bravest thing a shy chestnut has ever done. He bowed.
+"Wait your turn," wailed Okaki. The tide kept coming, bowing faster and faster.
 
-He bowed to the first deer.
+A hundred velvet heads dipping, a hundred hooves closing in. A stampede of good manners.
 
-The first deer stopped pushing — startled to be *greeted* — and bowed back.
+Kuma's tummy went cold. Herds are big. Herds have hooves. He hid behind the lantern. Again.
 
-"You," Kuma said gently, and rolled it a single cracker. "Thank you for your manners."
-
-Then he turned and bowed to the next deer. That deer, watching, bowed too, and waited. Kuma rolled it a cracker. "And thank you for yours."
-
-A funny thing happened. Bowing, it turns out, is contagious in the very best way. One by one the deer saw what was happening — that the round little chestnut was bowing to *each of them*, one at a time, and that each polite bow earned a polite cracker — and one by one they stopped jostling and started *lining up*. An actual line. A wobbly, antler-y, ear-flicking line of the politest deer in Japan, each waiting its turn to be bowed to.
-
-"Squish — er — *bow* together, stay together," Kuma murmured, borrowing courage from a mochi friend far away.
+Momiji found him instantly and bowed, hopefully. "Nobody here speaks deer," said Kuma. "Except maybe me."
 
 ---
 
-Once, a big bold deer near the back grew impatient and tried to skip ahead, shouldering toward the crackers without bowing at all. Kuma rolled right up to it, looked up its very long nose, and waited. He did not scold. He did not shout. He simply bowed — slow and patient and polite — and waited for the bow to come back. The big deer hesitated. It looked at the orderly line. It looked at the small, stubbornly courteous chestnut. And then, a little sheepishly, it bowed too, and went to the back of the line to wait its turn like everyone else.
+He hopped into the middle and shouted "STOP!" It came out sesame-seed sized. Nobody stopped.
 
-"Manners are catching," Kuma whispered, pleased. "Like a yawn. But nicer."
+He tried bowing to everyone at once, tipped, and bounced across the crackers, bonk bonk bonk.
 
-The vendor woman watched, flour-dusted and amazed, as the chestnut bowed and the deer bowed and the crackers went out one tidy cracker at a time, no stampede, no scramble, just a hundred small hellos. She began to laugh — the helpless, delighted laugh of someone watching the impossible become orderly.
+Upside down, Kuma watched. The deer weren't pushing to be first. They were saying please.
 
-"You speak their language!" she said.
+"Please deserves a turn," said Kuma, and hopped upright, scarf and all.
 
-Kuma, who had never thought of himself as speaking anything except *quiet*, considered this. He bowed to the next deer. The deer bowed back. He rolled it a cracker.
+He faced the nearest deer and bowed. Slow. Patient. The deer stopped, startled to be greeted.
 
-"I think," he said, a little breathless, a little proud, "everyone speaks this language. It's just *please* and *thank you*. With your whole body." He paused. "Deer say it with their heads. I say it by rolling over a lot."
+It bowed back. Kuma nudged over one cracker. Then the next deer. Bow, bow, cracker.
 
-The deer with the cinnamon-stick antlers — his very first friend — pushed gently to the front of the line. It bowed. Kuma bowed. And instead of a cracker, the deer leaned in and, very softly, *boop*ed its velvet nose right against Kuma's fuzzy cap.
-
-"Oh," said Kuma, going pink as kuri kinton. "Oh, you're welcome."
+One by one, the fuzzy tide stopped jostling and became a line. A wobbly, antler-y, ear-flicking line.
 
 ---
 
-By the time the last cracker was handed out, the sun was sliding low and gold over Nara, and the lanterns were beginning to glow. The deer drifted off across the grass, full and content, each one — Kuma noticed — giving a little farewell dip of the head as it went. *Goodbye. Thank you. Goodbye.*
+A big bold deer shouldered toward the front without bowing at all.
 
-The vendor pressed a single warm cracker into Kuma's care. "For the bravest, politest helper in the park," she said.
+Kuma hopped up to it, looked up its very long nose, bowed, and waited.
 
-Kuma looked at it. Then he looked at his first friend, the deer with the new antlers, who had stayed behind, lingering by the stone lantern where it all began.
+The big deer looked at the line. Looked at the chestnut. Bowed, sheepishly, and went to the back.
 
-Kuma rolled over. He bowed. The deer bowed. And Kuma set the cracker down right between its hooves.
+"Manners are catching," whispered Kuma. "Like a yawn. But nicer."
 
-"For your excellent manners," he said. "You taught me the friendliest hello of all."
+"You speak deer!" laughed Okaki, righting her cart.
 
-The deer ate the cracker in one happy crunch, then folded its long legs and lay down in the warm grass, and — to Kuma's enormous delight — let one small roasty chestnut lean against its soft, breathing side as the stars came out over Nara.
+"Everyone speaks this one," said Kuma. "Please and thank you, with your whole body."
 
-A shy little chestnut who'd come to the park wanting to hide had, instead, made a hundred friends. All because he knew how to say *please*. All because he learned to say *thank you*. All because, when it mattered most, he was brave enough to bow.
+Momiji stepped to the front, bowed, and booped a velvet nose against Kuma's fuzzy cap.
 
-Small and roasty. Ready and toasty. And, at last, not alone.
+---
+
+The sun slid low and gold over Nara, and the stone lanterns began to glow.
+
+The deer drifted across the dusky grass, full and content, each dipping its head goodbye.
+
+Okaki pressed one warm cracker into Kuma's arms. Kuma set it between Momiji's hooves.
+
+Momiji folded its legs into the grass, and one small roasty chestnut leaned against its warm side.
+
+"Small and roasty," yawned Kuma. "Ready and toasty. And not alone."
 
 ---
 
 ## Goodnight Blessing
-
-Sleepy little one, the deer of Nara are curling up in the cool grass now, noses tucked, antlers like tiny branches against the stars. Somewhere among them, a brave roasted chestnut is leaning against a warm and breathing friend, dreaming chestnut dreams. Remember, my dear: a bow, a *please*, a *thank you* — these are gifts you can give to anyone, in any language, anywhere in the world, and they always come back to you twice as warm. You were polite today, and brave today, and that is more than enough. Now tuck in your scarf and let your eyes go soft and slow. Goodnight.
+The deer of Nara are curling up in the cool grass now, noses tucked. A please and a thank you fit in any language, and always come back twice as warm. Tuck in your scarf, little one. Goodnight.
 
 ## AI Image Prompts
+1. Key scene — warm whimsical storybook style, soft golden afternoon light in Nara Park: a tiny glossy mahogany roasted-chestnut character with a fuzzy cap and an oversized autumn-leaf scarf stands on cobblestones bowing to a long wobbly line of gentle brown deer who each bow back, flat round crackers scattered around a tipped wooden cart, a crusty round rice-cracker auntie laughing beside it, stone lanterns and red maples; palette of amber, russet, deer-brown and lantern gold.
+2. Character portrait — Kuma the Kuri, a round glossy mahogany chestnut with a fuzzy little cap and a cozy autumn-leaf scarf, mid-wobbly-bow, tipping forward with an earnest determined face and a rosy roasted glow; soft storybook illustration, creamy background, gentle rim light, sturdy and kawaii like a tiny acorn-knight.
+3. Closing scene — dusk in Nara Park, stone lanterns glowing gold, a small contented chestnut leaning against the warm fluffy side of a resting young deer with tiny cinnamon-stick antlers, both with eyes half-closed, cool grass and a soft purple-blue sky with amber lantern accents; tender, sleepy, deeply cozy.
 
-1. Key scene — warm whimsical storybook style, soft golden-hour lighting over Nara Park: a tiny glossy mahogany roasted-chestnut character with a fuzzy little cap and an autumn-leaf scarf stands at the center of cobblestones, bowing to a long orderly line of gentle brown deer who each bow back, scattered crackers around them, stone lanterns glowing, a flour-dusted vendor laughing kindly in the background; palette of amber, russet, deer-brown, and lantern gold; cozy, joyful, dignified mood.
-
-2. Character portrait — Kuma the Kuri, a round glossy mahogany chestnut with a fuzzy cap and a cozy autumn-leaf scarf, mid-wobbly-bow, tipping slightly forward with an earnest determined little face and rosy roasted glow; warm soft storybook illustration, creamy background, gentle rim light, kawaii and sturdy like a tiny acorn-knight.
-
-3. Closing scene — twilight in Nara Park under emerging stars and glowing paper lanterns, a small contented chestnut leaning against the warm fluffy side of a resting deer with new cinnamon-stick antlers, both with eyes half-closed and peaceful, cool grass and soft purple-blue evening palette with golden lantern accents; tender, sleepy, deeply cozy mood.
+## Animation Notes
+- **Cast:**
+  - `KUMA` — Kuma the Kuri: a round glossy mahogany chestnut with a fuzzy pale cap, an oversized autumn-leaf scarf, small earnest eyes, a warm roasted glow; voice: soft, shy, brave.
+  - `MOMIJI` — Momiji: a young Nara deer, tan with white spots, velvet ears, big soft brown eyes, tiny new antlers like two cinnamon sticks; no lines.
+  - `OKAKI` — Okaki: a crusty round golden rice-cracker with a crinkly face, a cloth headband and a little wooden cracker cart; voice: raspy, flustered, warm.
+- **Scenes:**
+  1. The entrance path of Nara Park in autumn, bright afternoon, red maples, a stone lantern, deer grazing in the distance, drifts of leaves.
+  2. Beside the stone lantern, one young deer close up, dappled gold light.
+  3. A mossy park path past shrine steps and a reflecting puddle, deer bowing along the way, afternoon.
+  4. The far end of the path: a tipped wooden cracker cart, flat crackers scattered on cobblestones, deer converging from every side.
+  5. The middle of the cobblestones among the crackers, a tight ring of deer heads and hooves, bright afternoon.
+  6. The same cobblestones, now a long tidy line of deer winding back along the path, the cart righted.
+  7. Nara Park at dusk, stone lanterns glowing gold, deer drifting across the grass, purple-blue sky.
+- **Budget:** 672 narrated words · 43 beats · 7 scenes · est. 4:58

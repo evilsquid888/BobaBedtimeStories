@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A snug Tokyo apartment with a warm kotatsu table on a snowy winter night
 **Theme:** The coziest adventures happen close to home
-**Japanese Spotlight:** **Kotatsu** (koh-tah-tsoo) — heated blanket-table
+**Japanese Spotlight:** **kotatsu** (koh-tah-tsoo) — heated blanket-table
 
 ---
 
@@ -30,7 +30,7 @@ In tumbled Rin Ramen, steaming and slurpy, golden broth swirling with excitement
 
 "FEEL TOASTY!" boomed Rin, who was already burrowing under the blanket. "Everything's better warm and bubbly!"
 
-Soon the kotatsu was packed wall to wall with friends, blanket pulled up to their chins, ten pairs of legs toasting in the golden warmth below. Momo Mochi sat in the very middle, beaming so wide her hidden sweet filling nearly peeked out through her dimple.
+Soon the kotatsu was packed wall to wall with friends, blanket pulled up to their chins, six pairs of legs toasting in the golden warmth below. Momo Mochi sat in the very middle, beaming so wide her hidden sweet filling nearly peeked out through her dimple.
 
 "Welcome," she announced grandly, "to the very first meeting of the Kotatsu Club! The rules are simple. Rule one: be cozy. Rule two: there is no rule two. Rule three—"
 

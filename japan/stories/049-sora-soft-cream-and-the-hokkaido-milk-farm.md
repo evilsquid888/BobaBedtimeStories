@@ -1,159 +1,138 @@
 # Story 49: Sora Soft-Cream and the Hokkaido Milk Farm
 
 **Main Character:** Sora the Soft-Cream
-**Guest Characters:** None
+**Guest Characters:** Ushiko, a gentle dairy cow; Daikon, the laziest snow-rabbit in Hokkaido; Chibi, a brand-new baby swirl
 **Setting:** A wide-open dairy farm in snowy Hokkaido
 **Theme:** Home is wherever your gentle heart feels full
 **Japanese Spotlight:** **gyuunyuu** (gyoo-nyoo) — milk
 
 ---
 
-Sora the Soft-Cream had never, in all her swirly life, gone QUITE this far north. She was a tall, pale-gold curl of creamy soft-serve perched in a crisp cone, with sleepy dreamy eyes and a tiny drip-curl at her tip that wobbled like a happy little wave. And right now, that drip-curl was wobbling extra fast, because the train doors had just whooshed open onto a platform made entirely of SNOW.
+The train doors whooshed open onto a platform made entirely of snow.
 
-"Soft swirls," Sora whispered, blinking at the white world. "Slow smiles."
+Out stepped Sora the Soft-Cream, a tall pale-gold swirl in a crisp cone, blinking at the white.
 
-A frosty wind puffed past, and — wonderfully — Sora did not melt one tiny bit. Back in the warm southern stalls, a breeze like that would have sent her dripping in a panic, hollering for a freezer. But up HERE? She got firmer. Crisper. Curlier on top. Her drip-curl stood up tall and proud instead of sagging.
+A frosty wind puffed past. Sora braced to melt. Instead, her drip-curl stood up tall and proud.
 
-"Ohhh," she breathed, wiggling with delight. "So THIS is where I come from. A place where I get MORE swirly, not less!"
+"Ohhh," she breathed. "I get MORE swirly here, not less. So THIS is where I come from."
 
-For Sora had a secret she had carried all the way across Japan: she had been born here, somewhere among these wide Hokkaido fields, made from the milkiest milk in all the land. And today, at long, slow last, she had come home to see it.
+Sora had been born somewhere in these fields, and she wanted one thing: to find the exact spot.
 
-She waddled down the snowy lane, leaving the teeniest swirl-prints behind her.
+Down the snowy lane she wobbled, leaving tiny swirl-prints, until the whole world opened WIDE.
 
-The lane curved past frosty pines and tinkling icicles, and then — all at once — the whole world opened WIDE. Sora stopped. Her sleepy eyes went round.
+---
 
-Before her stretched the biggest, widest, most enormous-est field she had ever seen. Snow rolled to the edge of the sky in soft scoops, like someone had served the whole world a giant helping of vanilla. A red barn sat in the middle like a cozy strawberry on top. And the sky — oh, the sky! — was the palest blue, so big and so quiet that it made Sora's creamy heart feel impossibly full.
-
-"It's so... BIG," she said softly. "And so... slow."
+Snow rolled to the sky in soft scoops. A red barn sat in the middle like a strawberry.
 
 "MOOOO," said a voice.
 
-Sora spun her swirl around. Standing in the snow, chewing very thoughtfully, was a cow. A big, gentle, black-and-white cow with frosty breath and the kindest, sleepiest eyes Sora had ever seen — eyes almost exactly like her own.
+A big gentle black-and-white cow stood chewing, with the kindest, sleepiest eyes Sora had ever seen.
 
-"Hello," said the cow, in no hurry at all — in fact, she finished chewing one whole mouthful of hay before she went on. "I am Ushiko. You smell like home."
+"I am Ushiko," said the cow, finishing her whole mouthful first. "You smell like home."
 
-"I smell like home?" Sora blinked. "What does home smell like?"
+"I'm made of **gyuunyuu** (gyoo-nyoo) — milk," said Sora. "Maybe yours. I came to see where I began."
 
-"Cream," said Ushiko, with great certainty. "Cream and snow and a little bit of hay." She gave a slow sniff. "Mostly cream, though. You are VERY creamy. It's lovely."
+"Then follow me," said Ushiko, swishing her tail slowly. "But don't rush. Nobody rushes here."
 
-"I... I think I AM from home," said Sora. "I'm made of **gyuunyuu** (gyoo-nyoo) — milk. YOUR milk, maybe! I came all this way to see the place I was born."
-
-Ushiko blinked one slow, friendly blink. "Then you have come to the right pasture. Welcome to the farm, little swirl. Welcome to where the gyuunyuu begins."
-
-And she swished her tail, very slowly, as if to say: *follow me, but don't rush — we never rush here.*
-
-Sora waddled after her, and that is how the slowest, coziest, creamiest adventure of her life began.
+A fat snow-rabbit named Daikon blinked once. That was his whole morning. Ushiko was very proud.
 
 ---
 
-The farm did everything s-l-o-w-l-y, and Sora loved it immediately.
+In the barn, a big silver pail of fresh gyuunyuu sat frothing on a wooden sled.
 
-The cows ambled. The wind drifted. Even the snow seemed to fall in slow motion, each flake taking its sweet time. Sora, who came from a busy world of bright food stalls and zippy friends, felt her whole swirl relax.
+"This pail goes up to the churn on the hill," said Ushiko. "Slowly. Pails are shy."
 
-Ushiko showed her the frosty pasture where the cows munched sweet winter hay. There were quite a lot of cows, and every single one of them said "Moo" to Sora, very slowly, one after another, so that by the time the last cow had finished mooing, the first cow had nearly forgotten and started mooing all over again. It took half the morning to say hello. Sora loved every second of it.
+Sora leaned in to sniff it. Her cone nudged the sled. The sled slid one inch. Then two.
 
-Then Ushiko showed her the little spring where the water ran clear and cold, and a fat snow-rabbit who lived nearby and did absolutely nothing but blink. ("That's Daikon," said Ushiko. "He is the laziest rabbit in Hokkaido. We are very proud of him.")
+Then the sled shot out the barn door and down the long white hill, Sora riding on top.
 
-And finally she showed her, with great pride, the warm red barn where, every morning, the farmer collected the fresh, frothy, fabulous gyuunyuu.
-
-"This," said Ushiko, "is the secret. Cold air outside. Warm hearts inside. Slow days, wide skies, happy cows. THAT is what makes the creamiest cream in the world."
-
-Sora's drip-curl quivered. "So I'm made of... happy?"
-
-"Mostly," said Ushiko kindly. "And a little hay."
-
-Sora giggled — a soft, melty little giggle. But then, slowly (everything was slow here), a worry crept up her cone.
-
-"Ushiko," she said, "if THIS is my real home — the wide skies, the slow days, the happy cows — then maybe..." Her drip-curl drooped the teensiest bit. "Maybe I belong here. Maybe I never should have left at all. My friends are so far away now. And they're all so... so FAST. And bright. And bubbly. And I'm just... slow."
-
-Ushiko chewed on this for a good, long while. (Everything here, remember, took a good, long while.)
-
-"Hmm," she said at last. "Let me show you one more thing."
+"Soft swirls!" wailed Sora, hugging the pail. "SLOW SMIIIILES!"
 
 ---
 
-She led Sora up a gentle white hill, past a snowman the cows had built. It had a hay nose, two pebble eyes set just slightly too far apart, and it looked rather pleased with itself for a fellow made entirely of snow.
+Ushiko ambled after her. Ambling was the fastest thing Ushiko knew how to do.
 
-"The cows built him last winter," Ushiko explained. "His name is Mister Frostbottom. He is an excellent listener and gives terrible advice."
+The sled bounced over a drift and clipped Mister Frostbottom, the snowman the cows had built.
 
-"What advice does he give?" Sora asked.
+His head plopped onto Sora's swirl like a hat. His pebble eyes looked rather pleased about it.
 
-"He doesn't," said Ushiko. "He's a snowman. That's the terrible part."
+The sled went faster. Milk sloshed. Sora's drip-curl streamed behind her like a flag.
 
-Sora giggled the whole rest of the way up to the very tip-top.
-
-And from the top, the whole farm spread out below them — but so did something ELSE. Because beyond the farm, way out past the field's edge, Sora could see the silver thread of the train tracks. The tracks that led south. The tracks that led to bright stalls and bubbly friends and warm bowls of ramen and giggly takoyaki and a soft pink mochi named Momo who gave the very best squishes.
-
-"When you look out there," said Ushiko, "what does your heart do?"
-
-Sora looked. And her creamy heart did a funny thing. It got full — full like the wide sky, full like fresh gyuunyuu, full to the very tip of her drip-curl.
-
-"It... feels full," she whispered, surprised. "But it felt full HERE, too. With you. And the cows. And the snow."
-
-Ushiko nodded slowly. "Then you have learned the creamiest secret of all, little swirl. Home is not one field. Home is not one place. Home is wherever your gentle heart feels full." She swished her tail. "You can be from the wide skies AND belong with your bubbly friends. A swirl can have two homes. That is the lucky part of being made of love and a little hay."
-
-Sora was quiet for a long, slow moment. A snowflake landed on her tip and did not melt.
-
-"Ushiko," she said, "that is the nicest thing a cow has ever told me."
-
-"It is," agreed Ushiko, "the only thing a cow has ever told you."
-
-And they both laughed — one a slow, melty giggle, the other a great rumbly "MOO" — until snow shook gently from the pine branches.
+And right in the sled's path, on the snow, sat Daikon the rabbit. Blinking.
 
 ---
 
-That afternoon, the farmer came out to the barn, and Sora got to watch the whole wonderful thing.
+"DAIKON!" cried Sora. "MOVE!"
 
-The fresh gyuunyuu came out frothy and warm and white as the snow. It swirled into the churning machine. It spun and spun, slow and steady, getting colder and softer and curlier — and Sora watched with her sleepy eyes wide, because this was the very recipe that had made HER.
+Daikon considered this. Daikon had never moved for anyone. Daikon blinked twice, which was unheard of.
 
-"Oh," she breathed. "I'm watching myself be born."
+Then, with one enormous lazy hop, he landed square on the front of the sled.
 
-"Spookiest thing I've ever seen," said Ushiko, who did not look spooked at all, only fond.
+The sled plowed into a drift and stopped, soft as a pillow. Not one drop spilled.
 
-She watched the gyuunyuu thicken. She watched it whip. She watched it climb the cone, round and round, building up into a tall proud curl, and she felt a happy shiver run all the way down to her cone-tip.
+Daikon yawned, exhausted, and went back to blinking.
 
-"Was I that small once?" she whispered.
+"The laziest rabbit in Hokkaido," said Ushiko, arriving at last. "We are very proud of him."
 
-"Smaller," said Ushiko. "You were barely a dollop. Now look at you — a whole magnificent swirl, all the way from here to the southern stalls and back. The gyuunyuu is proud of you. So am I."
-
-Sora's drip-curl wobbled happily. And just then, the machine pulled the lever — *swoosh!* — and out came a brand-new little swirl of soft-serve, pale gold and proud, with its own teeny drip-curl. It blinked up at Sora.
-
-"Hello," said the tiny new swirl. "Soft swirls?"
-
-"Slow smiles," Sora answered, and her heart felt so full she thought she might curl right over. "Welcome to the world, little one. You're made of wide skies and happy cows and a little hay. And one day you can go anywhere your heart feels full."
-
-The tiny swirl wobbled its curl happily.
-
-And that — though Sora did not know it yet — was the moment she stopped feeling far from home. Because she realized she carried home WITH her. In every swirl. In every drop of gyuunyuu. In the slow, snowy, sky-wide feeling she'd tuck into her cone and bring all the way back south.
+Sora lifted the snowman's head off her swirl and set it gently back on Mister Frostbottom.
 
 ---
 
-When it was time to go, Ushiko walked Sora all the way to the snowy lane (slowly, of course).
+On the hilltop stood the old wooden churn. Ushiko nudged the pail in with her nose.
 
-"Will you come back?" asked the cow.
+The milk swirled, slow and steady, growing colder and softer and curlier. Sora watched, wide-eyed.
 
-"Slowly," promised Sora, "but surely."
+"Oh," she whispered. "I'm watching myself be born."
 
-"Tell Mister Frostbottom goodbye for me," Sora added. "And give Daikon the rabbit a blink from me, if he ever wakes up."
+"Spookiest thing I've ever seen," said Ushiko, looking not spooked at all, only fond.
 
-"He won't," said Ushiko fondly. "But I'll tell him anyway."
+Swoosh! Out came a brand-new baby swirl, pale gold, with its own teeny drip-curl. It blinked.
 
-Sora gave Ushiko the gentlest, melty-est hug a soft-serve can give, which is very gentle indeed — just a soft cool press of swirl against warm woolly cow, the kind of hug that says *thank you* better than any words. Then she waddled down the lane, leaving little swirl-prints behind her, her drip-curl waving a happy goodbye.
+"Hello," said the little swirl. "Soft swirls?"
 
-At the snowy platform, the train hummed and waited. Sora climbed aboard and pressed her swirl to the window. The wide white fields drifted past — slow, calm, full of sleepy cows and big quiet sky.
+"Slow smiles," said Sora, and her heart filled up to the very tip of her curl.
 
-"Home," she said softly to the snow. "And also... home." She pointed her drip-curl south, toward her friends. "Both. How lucky."
+---
 
-And as the train carried her away from one home and toward the other, Sora the Soft-Cream felt the creamiest, fullest, most peaceful she had ever felt — because she finally understood that a gentle heart is never really far from anywhere it loves.
+From the hilltop Sora could see the train tracks running south, toward her bubbly friends.
 
-She tucked the wide Hokkaido sky deep into her swirl, closed her sleepy eyes, and smiled a slow, soft smile all the way down the silver tracks.
+She gave Ushiko the gentlest hug a soft-serve can give, cool swirl against warm woolly cow.
+
+"Home isn't one field," said Ushiko. "Home is wherever your gentle heart feels full."
+
+"That's the nicest thing a cow has ever told me," said Sora.
+
+"It's the only thing a cow has ever told you," said Ushiko.
+
+---
+
+On the train, Sora pressed her swirl to the window. A snowflake landed on her tip and stayed.
+
+"Home," she said softly to the snow. "And also home. Both. How lucky."
 
 ---
 
 ## Goodnight Blessing
-May your dreams be as wide and soft as a snowy Hokkaido sky, little one. May you carry your homes — all of them — gently inside you, full and warm and sweet as fresh **gyuunyuu**. May you learn, like Sora, that you can belong to the slow snowy fields AND to the friends who squish you tight, both at once, with no rushing at all. Snuggle close now; let your heart feel full and your smile go soft and slow. Wherever you wander, your gentle heart will always know the way back to where the love is. Goodnight.
+May your dreams be as wide and soft as a snowy Hokkaido sky. Carry your homes, all of them, gently inside you, full and warm as fresh milk. Let your smile go soft and slow. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration: a tall pale-gold swirl of soft-serve ice cream with sleepy dreamy eyes and a tiny drip-curl, standing at the edge of an enormous snowy Hokkaido dairy field that rolls to a pale-blue sky; a gentle black-and-white cow with frosty breath and kind sleepy eyes stands beside her; a cozy red barn in the distance, soft falling snow, palette of cream, snow-white, sky-blue and barn-red, peaceful golden-hour light, cozy and full of wonder.
-2. Character portrait: Sora the Soft-Cream, a tall creamy pale-gold soft-serve swirl in a crisp golden cone, gentle half-closed sleepy eyes, a little drip-curl at the tip waving like a happy wave, dusted with one un-melting snowflake, soft pastel background, kawaii cozy storybook style, calm dreamy smile.
-3. Closing cozy scene: Sora pressed against a train window inside a warm-lit carriage, looking out at wide white snowy fields and sleepy cows drifting past under a big quiet pale-blue sky, her drip-curl pointing south with a soft peaceful smile, warm interior glow against cool snowy blues, tender and full-hearted bedtime mood.
+1. Key scene — warm whimsical storybook illustration: a wooden sled carrying a big silver milk pail racing down a wide snowy Hokkaido hill, Sora the Soft-Cream (a tall pale-gold soft-serve swirl in a crisp cone with sleepy eyes) riding on top hugging the pail, a snowman's head perched on her swirl like a hat, a fat white snow-rabbit sitting calmly in the sled's path, a gentle black-and-white cow ambling far behind, a red barn and frosty pines in the distance under a pale-blue sky. Palette of cream, snow-white, sky-blue and barn-red; cozy, funny, wide and bright.
+2. Character portrait — Sora the Soft-Cream: a tall creamy pale-gold soft-serve swirl in a crisp golden cone, gentle half-closed sleepy eyes, a little drip-curl at the tip standing up tall and proud, one unmelting snowflake on her swirl, soft pastel snowy background, calm dreamy smile, kawaii cozy storybook style.
+3. Closing scene — Sora pressed against a train window inside a warm-lit carriage, looking out at wide white snowy fields, a red barn and slow cows drifting past under a big quiet pale-blue sky, a single snowflake resting on her tip, soft peaceful smile; warm interior glow against cool snowy blues, tender and full-hearted.
+
+## Animation Notes
+- **Cast:**
+  - `SORA` — Sora the Soft-Cream: a tall swirl of creamy pale-gold soft-serve in a crisp cone, gentle sleepy eyes, a little drip-curl at the tip; voice: gentle, dreamy, melty.
+  - `USHIKO` — Ushiko: a big gentle black-and-white dairy cow with frosty breath, kind sleepy eyes and a slow swishing tail; voice: slow, deep, fond.
+  - `DAIKON` — Daikon: a fat round white snow-rabbit with pink ears, who mostly blinks; no lines.
+  - `CHIBI` — Chibi: a tiny brand-new pale-gold soft-serve swirl in a mini cone with a teeny drip-curl and big new eyes; voice: tiny, bright, sweet.
+- **Scenes:**
+  1. A snow-covered country train platform and a snowy lane between frosty pines, pale winter morning light.
+  2. A vast rolling snowfield under a pale-blue sky, a red barn in the middle, cows in the distance.
+  3. Inside the warm red barn: hay, a big silver milk pail on a wooden sled by the open door.
+  4. The long white hillside below the barn: a sled racing down, a snowman with a hay nose, a frozen spring and a fence far ahead.
+  5. A snowdrift near the frozen spring, the sled nose-down in it, the snowman nearby.
+  6. The hilltop by an old wooden churn, snow sparkling, bright day.
+  7. The hilltop looking out over the farm, silver train tracks threading away south.
+  8. Inside a warm train carriage, a window onto snowy fields and the red barn sliding by.
+- **Budget:** 668 narrated words · 44 beats · 8 scenes · est. 4:57

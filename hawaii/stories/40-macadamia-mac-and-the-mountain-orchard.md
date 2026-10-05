@@ -1,133 +1,130 @@
 # Story 40: Macadamia Mac and the Mountain Orchard
 
 **Main Character:** Mac the Macadamia
-**Guest Characters:** Poi Popo
+**Guest Characters:** Poi Popo; Tutu Tree, the oldest macadamia tree in the orchard; Kona, a bouncy red coffee cherry
 **Setting:** A macadamia and coffee orchard on the mauka slopes of the Big Island
 **Theme:** Good things grow slowly, and that's okay.
 **Hawaiian Spotlight:** **mauka** (MOW-kah) = toward the mountains / inland
 
 ---
 
-Mac the Macadamia had a worry the size of a whole coconut, and he was a very small nut.
+Mac the Macadamia had a worry the size of a coconut, and he was a very small nut.
 
-He sat in Poi Popo's flower-petal basket as it bumped up the mountain road, and he popped his glossy shell shut — *click* — then open again — *clack* — then shut, then open, the way some folks bite their nails when they get nervous.
+He rode up the mountain in Poi Popo's petal basket, popping his shell shut, click, open, clack.
 
-"Click-clack, click-clack," chuckled Poi Popo, the soft lavender-grey mound of pounded taro who was carrying him. Her flower lei swayed. "You sound like a tiny door that cannot decide."
+Click-clack. Click-clack. A bump in the road, and CLACK, he shut it on his own nose.
 
-"I can't decide," Mac admitted in his quiet little voice. "Everybody else grew up so *fast*, Popo. The malasadas puff in minutes. The shave ice piles up in seconds. And me?" He sighed a very small sigh. "I took forever."
+"You sound like a tiny door that cannot decide," chuckled Poi Popo, lei swaying.
 
-"Mmm," said Poi Popo, smiling her ancient smile. "Then up the mountain we go, keiki. **Mauka** (MOW-kah) — toward the mountains. The orchard where you began is waiting to tell you a secret."
+"Everybody grows up so FAST, Popo," said Mac. "Malasadas puff in minutes. Shave ice piles in seconds."
 
----
+"I took seven whole months," he sighed. "I want to be fast. Done growing by lunchtime."
 
-Up and up they climbed, mauka, away from the bright blue ocean and into the cool green mist. The air smelled of earth and rain and something warm and roasty that made Mac's little nose twitch.
-
-When the basket finally stopped, Mac peeked out — and gasped so hard he nearly rolled right out.
-
-The orchard spread up the slope in long, mossy rows. There were tall macadamia trees with leaves like dark green ribbons, and shorter, shinier coffee trees dotted all over with little red cherries, glowing like a thousand tiny lanterns in the mist. Soft clouds drifted right through the branches as if the trees were too tall and the sky had simply decided to come visit.
-
-"Oh," whispered Mac. "Oh, it's *beautiful*."
-
-"This is your home soil, little one," said Poi Popo. "Aloha aina — love of the land. The land remembers you."
-
-And then the orchard began to *talk*.
-
-It started with a low, creaky rumble, like a very old grandfather clearing his throat. The biggest macadamia tree leaned down — *creeeak* — branches bowing politely, and a deep, slow voice said, "Well, well. A little macadamia, come back to the mauka mountainside. Welcome home, keiki."
-
-Mac was so startled he popped his shell shut and disappeared inside it completely.
-
-"Small but mighty, shell to heart," he squeaked from inside, which was the brave thing he always said, even when he did not feel brave.
-
-The old tree laughed, and all its leaves shivered like rain. "Brave words from a closed door. Come out, come out. We grow nuts here. We have never once frightened one."
-
-Slowly — *creeeeak* — Mac's shell peeped open. One eye. Then two.
+"Up we go, keiki," said Poi Popo. "**Mauka** (MOW-kah) = toward the mountains / inland. Your orchard has a secret."
 
 ---
 
-"I came to ask you something," said Mac, gathering up all the courage in his tiny round body. "I grew so *slowly*. Months and months on the branch. Everyone else is quick and I'm... I'm just *late*. Did I do it wrong, Mr. Tree?"
+The basket stopped. Mac peeked out and gasped so hard he nearly tumbled out.
 
-A hush fell over the whole orchard. Even the mist seemed to hold its breath.
+Mossy rows of tall trees, shiny coffee bushes dotted with red cherries, clouds drifting through the branches.
 
-Then every tree on the mountain began to laugh at once — not a mean laugh, a *warm* one, a great rustling whoosh like the world's gentlest wind.
+Then the biggest tree leaned down, creeeak, and spoke. "Well, well. A little nut, come home."
 
-"Wrong?" boomed the old macadamia tree. "Oh, keiki. Let me show you wrong's opposite."
+Mac popped his shell shut and vanished inside it completely.
 
-The branches shook, very softly, and *plink* — a single macadamia nut dropped into Mac's lap. It was glossy and round and heavy, far heavier than it looked.
+"Small but mighty, shell to heart," he squeaked from inside, which is brave for a closed door.
 
-"Hold that," said the tree. "Feel how dense? How rich? You know why a macadamia is the buttery-est, creamiest, most melt-on-your-tongue nut in all the islands?"
+"I'm Tutu Tree," said the old macadamia. "**Tutu** (TOO-too) = grandparent. We grow nuts here. We've never frightened one."
 
-"Why?" asked Mac.
-
-"Because we took our *time*," the tree rumbled proudly. "Seven months, sometimes more, hanging in the mountain mist. We don't rush. We can't rush. Slow and patient, we soak up the rain and the sun and the cool mauka air, and we pack every drop of it deep, deep inside. The slow ones are the rich ones, keiki. That's the whole secret. Quick is fine. But *slow* — slow is delicious."
-
-Mac looked down at the nut in his lap. Then at his own glossy little shell. "Slow is... delicious?" he repeated, very quietly.
-
-"The richest treats on this earth," said a brand-new voice, "are never the rushed ones."
+One eye peeped out. "Tutu Tree, how do I grow FASTER? I have a plan. Three plans."
 
 ---
 
-It was the coffee trees, all whispering together in a bright, bubbly chorus, their red cherries bobbing.
+Plan one: a hot rock in a sunbeam. "Roast quicker," said Mac, and sat down.
 
-"Hello, hello, hello, little nut!" they chimed. "We know slow! Oh, do we know slow!"
+Ten seconds later his shell popped open like a kettle lid. "HOT! Hot hot hot!"
 
-A round red coffee cherry leaned right down toward Mac, beaming. "Guess how long *we* take? Months and months and months to ripen, up here in the misty mauka cool. Folks come from all over the wide blue world for Kona coffee, did you know? They sip it and sigh and say *mmmmm.* And you know what makes it taste like that?"
-
-"Taking your time?" guessed Mac.
-
-"TAKING YOUR TIME!" cheered all the coffee cherries, bouncing so hard that a little shower of cool mist sprinkled down. "Fast beans taste like nothing! But slow beans, mountain beans, patient beans — we taste like *sunrise in a cup!*"
-
-Poi Popo wobbled with a deep, happy laugh. "You hear that, Mac? The mountain has never met a treat worth rushing."
-
-Mac felt something warm and fizzy start to grow in his chest — slowly, of course. "But," he said, because he was a thoughtful nut and thoughtful nuts always have a *but*, "isn't it boring? Waiting all that time? Don't you ever wish you'd just hurry up and be done?"
-
-The old macadamia tree went quiet. The mist swirled. And then, from somewhere deep in the heart of the orchard, came a soft, glowing light.
+Poi Popo fanned him with her lei. "Keiki, that's not growing. That's lunch."
 
 ---
 
-It was a tiny ember, warm and orange-gold, flickering gently like a little campfire that had decided to go for a walk. It floated up the slope and settled right beside Mac, glowing cozy and bright.
+Plan two: the rain barrel. "Seven months of rain in one gulp!" He cannonballed in. SPLOOSH.
 
-"That," rumbled the old tree fondly, "is Pele's Glow. The land's own warm heart. Listen to what *she* knows about slow."
+He bobbed up like a cork, sloshing. Nuts float. Mac had forgotten that nuts float.
 
-The little ember twinkled like a sunset. When it spoke, its voice was warm and ancient and not one bit scary — like the last cozy crackle of a fire just before you fall asleep.
+"I'm Kona!" said a red coffee cherry, bouncing onto the rim. "Ooh, is it swim day? Hello, hello!"
 
-"Little nut," said Pele's Glow, "do you know how this whole island was made?"
-
-Mac shook his round head.
-
-"Slowly," the ember glowed, soft and proud. "Drop by drop. New land, new light, every night. The mountain you sit on did not appear in a flash. It grew up out of the deep, patient and warm, one gentle layer at a time, for longer than anyone can count. Every tree here, every red cherry, every nut — all of you grow on land that took its sweet, slow time to become a mountain at all." The ember flickered a tiny laugh. "If the *island* can be patient, surely one small macadamia can be too."
-
-Mac stared. He thought about the whole enormous mountain underneath him, built slow and steady out of warmth and time. And his worry — the one the size of a coconut — began to shrink. Shrink, shrink, shrink, until it was no bigger than a sesame seed, and then it simply rolled away into the mist.
+"Nothing grows faster wet," said Kona. "Trust me. I'm a cherry. I've been rained on a LOT."
 
 ---
 
-"I'm not *late*," Mac said slowly, and a grin spread across his little round face. "I'm... I'm *finished cooking*. Like the coffee. Like the mountain." He sat up tall — well, as tall as a small smooth nut can sit. "All those months I was hanging here, I wasn't being slow. I was getting *rich*."
+Plan three: the tallest branch. "Shake myself ripe!" Mac climbed, hopped, and bounced on the springy tip.
 
-"THERE he is!" boomed the old macadamia tree, and the whole orchard burst into rustling applause, leaves clapping, cherries bobbing, mist dancing.
+Boing. Boing. BOING. The branch bent back like a slingshot, and... TWANG.
 
-Pele's Glow flickered brightly. "And do you know the most wonderful part, little one? When a macadamia is finally, perfectly, slowly ready — when someone roasts it golden and bites down with a happy *crunch* — that is the proudest moment of all. Not scary. *Joyful*. Like a firework that waited and waited all year, just so it could finally light up the whole sky."
+Mac sailed over the orchard, bounced clack-clack-clack down the rows, straight into Kona's picking basket.
 
-Mac's huge sparkly eyes shone. "A firework," he whispered. "I'm a slow little firework."
+The basket tipped. It rolled. Down the mountain road it went, Mac inside, cherries pouring out behind.
 
-"The very best kind," said Poi Popo, scooping him gently back into her petal basket. "From the land, with aloha."
+"Slow and steady!" called Poi Popo, gliding after it. "Possibly TOO slow and steady!"
+
+At the last bend, a long branch swept down, creeeak, and scooped the basket up like a spoon.
 
 ---
 
-As the basket bumped its way back down the mountain — makai now, toward the sea — Mac did not pop his shell open and shut, *click-clack, click-clack*, the way he had on the way up.
+"Three plans," rumbled Tutu Tree, setting Mac down dizzy in the leaves. "Roasted, soaked, flung. Now hold this."
 
-Instead he sat with his shell open wide, breathing the cool mauka air, watching the misty orchard grow small and green behind him. He held the glossy macadamia the old tree had given him, heavy and rich and patient in his hands.
+Plink. A nut dropped into Mac's lap, far heavier than it looked. His arms wobbled.
 
-"Thank you, mountain," he called softly. "Thank you for taking your time on me."
+"Seven months of mist and rain packed inside," said Tutu Tree. "The slow ones are the rich ones."
 
-And far up the slope, in a whisper of leaves and a sprinkle of cool mist, the orchard called back: *"Slow is delicious, keiki. Come home anytime."*
+"Fast beans taste like nothing," said Kona, bobbing. "Slow mountain beans taste like sunrise in a cup!"
 
-Mac smiled his small, mighty smile, and held that warmth all the way down to the sea.
+Mac looked at the nut. Then at his own glossy shell. "Slow is... delicious?"
+
+---
+
+The mist rolled back, and OH. The whole mountain fell away below, shoulder after shoulder, to the sea.
+
+"This mountain grew one layer at a time," said Poi Popo. "If an island can be patient, keiki..."
+
+Mac's worry shrank. Shrink, shrink, shrink, to a sesame seed, and the breeze took it.
+
+"I'm not late," said Mac, sitting up tall as a small nut can sit. "I'm finished cooking."
+
+"THERE he is!" boomed Tutu Tree, and the whole orchard rustled applause, leaves clapping, cherries bobbing.
+
+---
+
+Back down the road the basket bumped, and Mac's shell stayed open wide. No click. No clack.
+
+He hugged the heavy nut. "Thank you, mountain. Thank you for taking your time on me."
+
+Far up the slope, leaves whispered back. "Slow is delicious, keiki. Come home anytime."
 
 ---
 
 ## Goodnight Blessing
-Little one, you do not have to hurry to be wonderful. The richest, warmest, most delicious things in all the world grew up slow and patient, just like a mountain made of light. So tonight, take your sweet time. Let your dreams soak up the quiet the way a macadamia soaks up the mist. You are growing exactly as you should, exactly as slow as you need, into something golden and good. Goodnight.
+Little one, you do not have to hurry to be wonderful. The richest things in the world grew up slow and patient, like a mountain made of light. Take your time tonight. You are growing exactly as you should. Goodnight.
 
 ## AI Image Prompts
-1. Key scene — warm whimsical storybook illustration: a tiny round cream-colored macadamia nut character with a glossy openable shell and huge sparkly eyes, sitting in a flower-petal basket held by Poi Popo (a soft lavender-grey mound of taro paste wearing a flower lei). They sit in a misty mountain orchard on the Big Island, surrounded by tall green macadamia trees and shorter coffee trees dotted with glowing red cherries. Soft clouds drift through the branches; a tiny glowing orange-gold ember (Pele's Glow) floats nearby. Palette of cool greens, misty silvers, warm golden ember-light. Cozy, awe-filled, gentle dawn mood.
-2. Character portrait — Mac the Macadamia: a small smooth round cream-colored nut with a glossy brown shell flipped open like a helmet behind his head, big sparkly hopeful eyes, a shy proud little smile, holding one heavy glossy macadamia nut in his tiny hands. Soft misty mountain background. Warm storybook style, tender and bright.
-3. Closing scene — the flower-petal basket bumping gently down the green mountain road toward a distant sparkling blue ocean, Mac sitting with his shell open wide and a peaceful smile, breathing the cool air, the misty orchard glowing softly behind him. Golden late-afternoon light, cozy and content, warm whimsical storybook style.
+1. Key scene — warm whimsical storybook illustration on a misty Big Island mountain orchard: a tiny round cream-colored macadamia nut (Mac, glossy shell flung open like a helmet, eyes huge) tumbling inside a woven picking basket as it rolls down a mossy mountain road, red coffee cherries pouring out behind, a bouncy grinning red coffee cherry (Kona) hopping alongside, a soft lavender-grey mound of taro with a flower lei (Poi Popo) gliding after at a stately pace, and the long creaking branch of an enormous old macadamia tree sweeping down to scoop the basket like a spoon. Cool greens, misty silver, warm red cherry accents.
+2. Character portrait — Mac the Macadamia: a small smooth round cream-colored nut with a glossy brown shell flipped open like a helmet behind his head, big sparkly hopeful eyes, a shy proud little smile, hugging one heavy glossy macadamia nut with both tiny arms, mossy orchard rows and drifting cloud behind him. Warm storybook style, tender and bright, soft mountain daylight.
+3. Closing scene — a flower-petal basket bumping gently down a green mountain road toward a distant sparkling blue sea, the little macadamia sitting with his shell open wide and a peaceful smile, holding his heavy nut, the misty orchard and its great old tree glowing soft green behind him. Golden late-afternoon light, cozy and content, whimsical storybook style.
+
+## Animation Notes
+- **Cast:**
+  - `MAC` — Mac the Macadamia: a small smooth round cream-colored nut in a glossy brown shell that pops open and shut like a helmet, big sparkly nervous eyes, tiny arms; voice: quiet, shy, earnest.
+  - `POPO` — Poi Popo: a soft smooth lavender-grey mound of pounded taro with a flower lei, gentle old eyes, moves like a slow cloud, carries a flower-petal basket; voice: slow, warm, grandmotherly.
+  - `TUTU` — Tutu Tree: an enormous old macadamia tree with a kind wrinkled bark face, long ribbon-leafed branches that creak when he leans down, moss on his shoulders; voice: deep, creaky, fond.
+  - `KONA` — Kona: a round glossy red coffee cherry with a tiny green stem, rosy cheeks and a huge grin, bounces everywhere; voice: bright, bubbly, quick.
+- **Scenes:**
+  1. A winding mountain road climbing from blue sea into green mist on the Big Island, soft daylight, a petal basket bumping along.
+  2. A misty orchard on the slope: long mossy rows of tall macadamia trees, shorter shiny coffee trees dotted with red cherries, clouds drifting through branches, one enormous old tree with a bark face.
+  3. A sunny patch at the orchard edge, a flat hot rock in a sunbeam, mist thinning around it.
+  4. A wooden rain barrel under the coffee trees, full of cool water, red cherries on the rim.
+  5. The tallest macadamia tree and its long springy top branch, then the mossy rows and the steep mountain road below, a woven picking basket rolling.
+  6. Under the old tree: a soft heap of fallen leaves between its roots, dappled light, one glossy nut.
+  7. The orchard edge as the mist rolls back: the whole green mountain falling away in shoulders to a bright distant sea.
+  8. The mountain road heading down in golden late-afternoon light, the orchard small and green behind, the sea ahead.
+- **Budget:** 680 narrated words · 40 beats · 8 scenes · est. 4:59

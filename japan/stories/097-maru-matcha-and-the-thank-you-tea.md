@@ -1,169 +1,133 @@
 # Story 97: Maru Matcha and the Thank-You Tea
 
 **Main Character:** Maru Matcha
-**Guest Characters:** Kei the kei-truck, Momo Mochi, Niko Nigiri, Dora the Dorayaki, Tama Onigiri (plus the gathered friends)
+**Guest Characters:** Kei the kei-truck, Momo Mochi, Niko Nigiri; a polite pond frog
 **Setting:** A peaceful garden tea gathering to say thanks to everyone
 **Theme:** The quietest helper deserves the loudest thank-you
 **Japanese Spotlight:** **arigatou** (ah-ree-gah-toh) — thank you
 
 ---
 
-On the very last morning of the very long journey, Maru Matcha woke before the sun, carried her tea things into the old garden behind the night market, and began to count cups.
+On the last morning of the long journey, Maru Matcha carried her tea things into the old garden.
 
-This was her plan: one quiet thank-you tea, for every friend, before everyone went home tomorrow. No speeches. No banners. Absolutely no one shouting "SURPRISE." Just steam, cushions, and the warmest word she knew.
+Her plan: one quiet thank-you tea for every friend. No speeches. Nobody shouting SURPRISE.
 
-She set the cups in a circle on the moss. "One, two, three..." she counted, in her calm, deadpan way. "...nineteen, twenty. Twenty friends. Twenty cups." She nodded at the frog on the lily pond. "You may share."
+She set twenty cups in a circle on the moss. "Twenty friends. Twenty cups."
 
-The frog looked honored.
+She nodded to the frog on the lily pond. "You may share." The frog looked honored.
 
-Then Maru Matcha looked at her circle again. Twenty cups, tidy as pebbles. Twenty cushions. Twenty names in her head.
+Then she saw it: tire tracks in the dew, arriving at the gate and turning away. Again.
 
-And her frothy matcha-cream swirl went very, very still — because curving through the dew at the garden gate were two thin tire tracks, arriving and turning around and leaving again, the way they had arrived and turned around and left at every single stop of the entire journey.
-
-Maru Matcha set down her **bamboo whisk**.
-
-"Oh no," she said quietly. "I forgot the one who carried us all."
+Maru set down her whisk. "Oh no. I forgot the one who carried us all."
 
 ---
 
-She found Niko Nigiri by the gate, straightening his nori belt and triple-checking a seating chart.
+Niko Nigiri was at the gate, counting cushions. "Niko," said Maru. "Who is missing?"
 
-"Niko. Count my list." She handed it over. "Tell me who is missing."
+Niko counted. His salmon cape sagged like a flag with no wind. "Kei. I planned no parking."
 
-Niko's bright eyes went down the page, very fast, very neatly. Then his salmon cape sagged like a flag with no wind. "Kei," he whispered, horrified. "The seating chart has *no parking.* I planned cushions, I planned cup spacing, I planned a backup frog — and I never once planned for the friend with *wheels.*" He pressed the chart to his chest. "This is the messiest thing I have ever done, and I once watched a takoyaki destroy my dish rows."
-
-"It is not only you," said Maru. "Think. Who pulled Mero out of the mud in Osaka? Who drove all night so we could see the snow monkeys by morning? Who waited outside the tea house, outside the festival, outside the ramen alley, in the rain, with her engine humming so it would be warm when we climbed in?"
-
-"Kei," said Niko. "Always Kei."
-
-"And how many of us have ever said thank you to her?"
+"Who waited outside every tea house and festival, engine humming so we'd climb in warm?" said Maru.
 
 There was a silence so big you could have parked a truck in it.
 
-"Then today," said Maru Matcha, picking up her whisk like a tiny green knight drawing a tiny green sword, "the quietest helper gets the loudest thank-you. Come. Bring Momo. We are going to find a truck."
+"Today," said Maru, raising her whisk like a tiny green sword, "the quietest helper gets the loudest thank-you."
 
 ---
 
-They found Kei exactly where Kei always was: in the gravel lane outside the garden, parked perfectly straight, polishing her own butter-yellow bumper with one of her mud-flaps.
+Kei was in the gravel lane, parked perfectly straight, polishing her own bumper with a mud-flap.
 
-"Good morning, Kei," said Maru.
-
-"Putt-putt, let's GO!" beeped Kei happily, bouncing on her springs. "Where to? Mountain? Market? I have a full tank and a fresh seat-cover!"
+"Putt-putt, let's GO!" beeped Kei. "Mountain? Market? Full tank, fresh seat-cover!"
 
 "Nowhere," said Maru. "We came to invite you to the tea."
 
-Kei's wipers gave one confused little swish. "Oh — no, no," she said, in her cheerful putt-putt voice. "Trucks wait outside. That's the rule. Gardens are for friends. Lanes are for trucks." She buffed a spot on her bumper that was already gleaming. "Don't worry about me! I'll just sit here and... listen to the nice steam."
+Kei's wipers gave one confused swish. "Trucks wait outside. That's the rule."
 
-Momo Mochi gasped so hard her peach cheeks wobbled. "Listen to the — *Kei.* That is the saddest sentence I have ever heard, and I once heard Mero say 'no more naps.'" She flung her taffy arms around the entire truck, hood to tailgate, which is the sort of thing only a mochi can do. "Squish together, stay together — and that means trucks!"
+Momo Mochi gasped and flung her taffy arms around the whole truck, hood to tailgate.
 
-"Careful," beeped Kei, very touched and very flustered, "I'm dusty —"
+"Squish together, stay together!" said Momo into the windshield. "And that means TRUCKS."
 
-"You're *family,*" said Momo, into the windshield.
+"But how," beeped Kei shyly, headlights down, "does a truck even drink tea?"
 
-"Kei," said Maru Matcha calmly. "You carried every one of us, every day, and asked for nothing but a road. You will have a cup of thank-you tea this morning if I have to whisk it on your dashboard."
-
-Kei's headlights flicked shyly down at the gravel. "But... how does a truck even *drink* tea?"
-
-Maru paused.
-
-"That," she admitted, "is an excellent engineering question."
+Maru paused. "That," she admitted, "is an excellent engineering question."
 
 ---
 
-The first attempt was the hood.
+Attempt one: the hood. Maru set a frothy green cup on it. The hood sloped.
 
-Maru whisked a beautiful, frothy, jade-green cup and set it gently on Kei's hood. The hood, being a hood, sloped. The cup, being a cup, slid — slowly, majestically, like a tiny green sled — down the slope, off the edge, and into Niko's waiting hands.
+The cup slid down like a tiny green sled, off the edge, into Niko's arms.
 
-"Caught it! Let's do this neatly... or deliciously!" he announced, then realized he now simply owned a cup of tea, and put it back.
+"Caught it! Neatly!" said Niko. He put it back. It slid again. He caught it again.
 
-It slid again. He caught it again. This could have gone on all morning.
+Attempt two: the flatbed. "It's like a party behind my own head," beeped Kei.
 
-The second attempt was worse, because Dora the Dorayaki arrived to help, and Dora arrived with facts.
+Attempt three: Momo held the cup to Kei's grille. Steam fogged both headlights. "No pressure," whispered Momo.
 
-"Did you know," said Dora warmly, adjusting his beret, "that a truck's radiator holds water? It's practically a kettle. We could simply pour the tea —"
+Maru sat down on the gravel. "Whisk slow," she murmured. "Feel calm."
 
-"Dora," said Maru.
-
-"— into the radiator, where —"
-
-"Dora. A radiator is not a teapot."
-
-"It's *shaped* like commitment," said Dora.
-
-"It is shaped like a five-hundred-coin repair," beeped Kei, politely but firmly, and everyone agreed to move on.
-
-They tried the side mirror (too small). They tried the flatbed (Kei couldn't see it back there; "it's like a party behind my own head"). They tried balancing the cup on a windshield wiper, which went exactly as well as you are imagining, except wetter. Momo even tried holding the cup up to Kei's grille, which mostly resulted in steam fogging Kei's headlights and Momo whispering, "Drink? No? Okay. No pressure."
-
-At last Maru Matcha sat down on the gravel, looked at her whisk, and did what she always did when the world got tangled.
-
-"Whisk slow," she murmured. "Feel calm."
-
-And in the calm, the answer came — simple as steam.
-
-"We have been doing this backward," she said, standing up. "We keep trying to bring the tea out to the truck. Friends do not hand kindness over a fence." She turned to the garden gate — the narrow, mossy, friend-sized gate that every wheel-less guest had strolled through all morning.
-
-"We are not bringing the tea to Kei," said Maru Matcha. "We are bringing Kei to the tea. Niko — measure the gate. Momo — stretch. Everyone else — *lift.*"
+"Backward," said Maru, standing up. "Friends don't pass kindness over a fence. We bring Kei to the tea."
 
 ---
 
-What happened next was the gentlest demolition in the history of gardens.
+Niko measured the gate with his nori belt. "One truck too narrow. Precisely."
 
-Niko measured the gate and declared it "one truck too narrow, precisely." Momo gripped the old bamboo gateposts and s-t-r-e-t-c-h-e-d the opening wide, the way only taffy arms can. Dora narrated ("Did you know bamboo bends and doesn't break? Like friends!"). And the whole gathered cast — bouncing, wobbling, fizzing, half-asleep — lifted the fence section beside the gate and set it tenderly aside, until the garden held its arms open wide enough for wheels.
+Momo gripped the old bamboo gateposts and s-t-r-e-t-c-h-e-d the opening wide, the way only taffy arms can.
 
-Tama Onigiri, naturally, had packed cushions. Big flat ones. Four of them. "Just in case," Tama said, placing one under the spot where each tire would rest, "a truck ever needed a seat."
+"Kei," called Maru. "The garden is ready for you now."
 
-"Kei," called Maru Matcha. "The garden is ready for you now."
-
-Kei sat in the lane a moment longer. Her engine went quiet. Then, very slowly — slower than she had driven on the whole entire journey — the little butter-yellow truck rolled through the widened gate, over the moss, and into the circle of friends, and settled onto four cushions with the softest *creak* of springs, like a sigh she'd been holding for a hundred days.
-
-Maru whisked one final cup — the greenest, frothiest, most patient cup of the whole morning — and set it on a flat stone right in front of Kei's grille, where the steam could curl up warm against her hood.
-
-Then Maru bowed her little bowl-head.
-
-"Kei. You carried us over mountains and through rain. You waited in every lane while we laughed in every garden. You never asked to be thanked, so you never were, and that was our mistake — because the quietest helper deserves the *loudest* thank-you." She lifted her whisk like a conductor. "Everyone. Loud as you've got."
-
-"**Arigatou** (ah-ree-gah-toh) — thank you, KEI!" roared twenty friends and one frog, so loud the lily pond rippled and three sparrows filed a complaint.
-
-And steady little Kei — who had never once wobbled on a mountain road — went misty in both headlights. Her wipers swished, *swish-swish*, the way you wipe your eyes when you are a truck.
-
-"Putt-putt," she said, in the smallest, fullest voice. "Nobody ever... I always thought waiting outside *was* the job."
-
-"The job," said Maru Matcha, "was never outside. **Otsukaresama** (oh-tsoo-kah-reh-sah-mah) — thank you for your hard work. All of it. Every mile."
-
-The steam curled up over Kei's hood, and Kei breathed it in through her grille, and everyone agreed afterward that this is precisely how a truck drinks tea: surrounded.
+Slower than she had ever driven, Kei rolled through the gate and over the moss.
 
 ---
 
-The tea went round the circle then, cup after cup, story after story, until the sun leaned low and golden through the widened gate.
+She settled into the circle with a creak of springs, like a sigh held for a hundred days.
 
-And that was when Maru Matcha, gathering empty cups, realized something was set in front of *her*. A cushion. A flat stone. And on the stone — a cup of matcha, frothy and green and very nearly perfect.
+Maru set the frothiest cup on a flat stone before Kei's grille. Steam curled up her hood.
 
-"I watched how you did it," said Niko Nigiri, standing very straight and a little shy. "All morning. Slow. Calm. I only whisked it eleven times to be safe."
+"**Arigatou** (ah-ree-gah-toh) — thank you, KEI!" roared everyone, and the frog, so loud the lily pond rippled.
 
-"We all guarded it," said Momo.
+Kei went misty in both headlights. Swish-swish went her wipers, the way a truck wipes its eyes.
 
-"I contributed facts," said Dora.
+"I always thought waiting outside WAS the job," beeped Kei, in the smallest, fullest voice.
 
-"I honked at a sparrow that got too close," said Kei.
+"The job," said Maru, "was never outside. **Otsukaresama** (oh-tsoo-kah-reh-sah-mah) — thank you for your hard work."
 
-Maru Matcha held the cup that no one had ever thought to make her, on the morning she had learned how that felt. Her calm half-moon eyes did not stay calm. They went warm, and then they went blurry, and for once the steadiest friend in all of Japan needed a moment.
+---
 
-"Well," she said at last, wiping her eye with her tiny whisk. "It seems even the tea-maker forgets herself. Thank you for counting me."
+When the sun leaned low, Maru found a cup set in front of HER. Frothy. Nearly perfect.
 
-"Arigatou, Maru," said everyone — quietly this time, which somehow was just as loud.
+"I watched how you did it," said Niko, standing straight. "I whisked it eleven times, to be safe."
 
-The evening settled in soft around them. Crickets began their small green music. Mero Melonpan was asleep before the last cup cooled, and then Tama, and then the frog. One by one the friends leaned against each other in the dusk, drowsy and warm and full of tea, and at the center of the circle Kei's engine ticked gently as it cooled — *tick... tick... tick* — the coziest lullaby a garden ever had.
+"I honked at a sparrow that got too close," beeped Kei.
 
-"Putt-putt," Kei murmured, headlights dimming sleepily inside the circle of everyone she'd ever carried. "Let's stay."
+Maru's calm half-moon eyes went warm, then blurry. She wiped one with her whisk.
 
-And they did, just a little longer.
+"Even the tea-maker forgets herself," she said. "Thank you for counting me."
+
+Evening settled in. Kei's engine ticked as it cooled, the coziest lullaby a garden ever had.
+
+"Putt-putt," murmured Kei, headlights dimming. "Let's stay."
 
 ---
 
 ## Goodnight Blessing
-The cups are empty now, little one, and the garden gate is open wide enough for everybody. The steam has gone up to keep the stars company, the crickets are whisking the night nice and slow, and somewhere a little yellow truck is dreaming on four soft cushions, thanked at last. Before you sleep, think of your own quiet helper — the one who carries and waits and never asks — and tuck a thank-you away to give them in the morning, the loudest one you've got. You are carried, you are counted, and you are loved. Goodnight.
+The cups are empty now, and the garden gate is open wide enough for everybody. Save a loud thank-you for your own quiet helper. You are carried, counted, and loved. Goodnight.
 
 ## AI Image Prompts
-1. A warm whimsical storybook illustration of a Japanese garden at golden hour, its old bamboo gate stretched wide open, where a tiny round butter-yellow kei-truck with big misty headlight eyes sits parked on four plump cushions in the middle of a circle of adorable kawaii food characters. In front of the truck's grille, Maru Matcha — a small jade-green bowl-headed friend with a frothy matcha-cream swirl and calm half-moon eyes — bows and offers a steaming cup of green tea on a flat stone, the steam curling up against the truck's hood. Mossy greens, butter yellow, honey-gold light. Mood: tender, triumphant, cozy.
-2. A character portrait of Maru Matcha mid-quest — her little jade bowl-head topped with a soft-serve swirl of matcha cream, half-moon eyes determined and gently amused, holding her tiny bamboo whisk aloft like a tiny green sword, a wobbling cup of frothy matcha balanced on a sloped truck hood beside her. Soft green and cream tones, gentle storybook shading, a single curl of steam.
-3. A cozy closing scene at dusk: the garden circle gone sleepy — kawaii food friends leaning on each other, drowsy and tea-warm, crickets implied in the soft blue evening, while the little yellow kei-truck dozes at the center of the circle with dimming headlight eyes, and Maru Matcha sits against her front tire holding her own frothy cup, a happy tear and a small smile on her face. Fireflies of steam, deep green-and-gold twilight, deeply heartwarming and calm.
+1. Key scene — warm whimsical storybook illustration of an old Japanese garden in morning light: a tiny round butter-yellow kei-truck with big shy headlight eyes parked in a gravel lane, a frothy green cup of matcha sliding down her sloped hood like a sled into the arms of a tidy nigiri sushi in a glossy salmon cape, a snow-white mochi with stretchy arms holding another cup to the truck's grille, and Maru Matcha (a small jade-green bowl-headed friend with a matcha-cream swirl and a tiny bamboo whisk) sitting calmly on the gravel. Mossy greens, butter yellow, honey-gold light, cozy and funny.
+2. Character portrait — Maru Matcha: a small jade-green bowl-headed friend topped with a soft swirl of matcha cream, calm half-moon eyes gently amused, holding her tiny bamboo whisk aloft like a tiny green sword, a curl of steam rising from a frothy cup beside her. Soft green and cream tones, gentle storybook shading.
+3. Closing scene — evening in the garden, its bamboo gate stretched wide open: the little yellow kei-truck resting at the center of a mossy circle of cups with dimming headlight eyes, a mochi and a nigiri leaning sleepily against her tires, Maru Matcha sitting against the front bumper holding her own frothy cup with a small smile, a frog on a lily pad, fireflies of steam, deep green-and-gold twilight, calm and heartwarming.
+
+## Animation Notes
+- **Cast:**
+  - `MARU` — Maru Matcha: a small jade-green bowl-headed friend with a frothy matcha-cream swirl on top, calm half-moon eyes, a tiny bamboo whisk; voice: calm, deadpan, gentle.
+  - `KEI` — Kei the kei-truck: a teeny round butter-yellow mini-truck with big headlight eyes, a stubby flatbed, tidy mud-flaps and a knitted seat-cover like a sweater; voice: eager, beepy, shy.
+  - `MOMO` — Momo Mochi: a soft pillowy snow-white rice cake dusted with starch, rosy peach cheeks, arms that stretch like warm taffy; voice: warm, bouncy, affectionate.
+  - `NIKO` — Niko Nigiri: a tidy oval pillow of pearly white rice in a glossy coral-orange salmon cape with a neat black nori belt, standing very straight; voice: polite, precise, kind.
+- **Scenes:**
+  1. An old mossy Japanese garden in early morning light: twenty tea cups in a circle on the moss, a lily pond with a frog, dew, a narrow bamboo gate with tire tracks outside.
+  2. The garden's bamboo gate from inside, cushions stacked, morning light.
+  3. The gravel lane outside the garden gate, the kei-truck parked perfectly straight, hedges and a bamboo fence.
+  4. The gravel lane: the kei-truck's sloped hood, flatbed and grille, a frothy green cup, puddles of spilled tea.
+  5. The bamboo gate being stretched wide, a fence section lifted aside, moss beyond, the kei-truck inching through.
+  6. The garden circle: the kei-truck resting on the moss among the cups, a flat stone with a steaming cup before her grille, the lily pond.
+  7. Evening in the garden: low golden light fading to dusk, a cup on a flat stone before Maru, the kei-truck's headlights dimming, a frog on a lily pad.
+- **Budget:** 661 narrated words · 43 beats · 7 scenes · est. 4:54

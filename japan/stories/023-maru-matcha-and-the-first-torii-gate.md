@@ -20,7 +20,7 @@ Maru Matcha had planned to explain all of that. She did not get the chance.
 
 "NOBODY calls me soggy!" boomed Rin Ramen, thundering after him, broth sloshing like a tiny stormy sea.
 
-"COMING THROUGH!" bellowed Dai Daruma, who could not run, exactly, but could roll like a small crimson boulder with eyebrows. Tucked under his arm was his most precious thing in the world: an **ema** (EH-mah) — a small wooden wish tablet, his biggest wish painted on it in wobbly brushstrokes. Dai had carried that tablet for three days. He slept hugging it. He had, reportedly, given it a bedtime story.
+"COMING THROUGH!" bellowed Dai Daruma, who could not run, exactly, but could roll like a small crimson boulder with eyebrows. Tucked under his arm was his most precious thing in the world: an **ema** (eh-mah) — a small wooden wish tablet, his biggest wish painted on it in wobbly brushstrokes. Dai had carried that tablet for three days. He slept hugging it. He had, reportedly, given it a bedtime story.
 
 He had come all this way to hang it at this very shrine.
 

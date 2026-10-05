@@ -1,123 +1,123 @@
 # Story 70: The Dango Three and the Doll Festival
 
 **Main Character:** The Dango Three (Pinku, Shiro, Cha)
-**Guest Characters:** None
+**Guest Characters:** A tiny forgotten doll, dusty and faded, found under the bottom step
 **Setting:** A cozy home decorated for Hinamatsuri, the Doll Festival, in spring
 **Theme:** Everyone deserves a place on the shelf
-**Japanese Spotlight:** hina-matsuri (hee-nah-mah-tsoo-ree) — doll festival
+**Japanese Spotlight:** **hina-matsuri** (hee-nah-mah-tsoo-ree) — doll festival
 
 ---
 
-It was the kind of spring morning where the windows fogged up just enough to draw smiley faces on, and the whole house smelled like warm rice and peach blossoms. Three little dumplings rolled in on their single wooden stick, spinning to a stop in the middle of the living room like a tiny pink-white-green merry-go-round.
+On a foggy-windowed spring morning, three little dumplings on one stick hopped in and tipped to a stop.
 
-"WHOA," said Pinku, the bold pink one on top, her eyes going wide. "Look at ALL these dolls!"
+"WHOA," said Pinku, the bold pink one on top. "Look at ALL these dolls!"
 
-"Too many dolls," whispered Shiro, the shy white one in the middle, trying to hide behind nobody, because there was nobody to hide behind. "What if we sit on one by accident? What if a doll *looks* at me?"
+"Too many dolls," whispered Shiro, the shy white middle, hiding behind nobody, as nobody was there.
 
-"Dolls don't look," said Cha, the clever green matcha one on the bottom, calmly. "They can't even blink. Although," he added, squinting thoughtfully, "that would actually be a very good blinking record."
+"Dolls can't blink," said Cha, the clever green bottom one. "Which is a very good blinking record."
 
-And that, dear reader, is how the three little dango discovered it was almost time for **hina-matsuri** (hee-nah-mah-tsoo-ree) — the doll festival.
+It was the morning before **hina-matsuri** (hee-nah-mah-tsoo-ree) — the doll festival, and the seven-step shelf stood empty.
 
-It was the morning before the festival, and a great big empty shelf stood against the wall — seven steps tall, covered in a cloth the color of strawberry milk, waiting to be filled.
+"We set up the whole shelf before the rice is steamed," said Pinku. "Top to bottom. Let's HOP."
 
-"Our job," Pinku announced, twirling so the whole stick swiveled like a compass needle, "is to set up the *whole entire doll display*. Top to bottom. The grown-ups are busy steaming sticky rice."
+---
 
-Cha read the little instruction card propped against the shelf. "It says the dolls go in order. Emperor and Empress on top. Then court ladies. Then musicians. Then the helpers, and the snacks, and the tiny furniture all the way at the bottom."
+A picture-chart leaned on the shelf: a drawing of where every doll goes. "I love order," sighed Shiro.
 
-Shiro peeked out from his own middle. "That's a lot of order. I love order. Order is the opposite of scary."
+"Bottom first, so nothing topples," said Cha. "Three on a stick, stuck together for good."
 
-"Then let's get rolling," said Pinku, "literally, because that's the only way we move!"
+Hop, tip, hop. Up the steps they went, hauling teeny tables, teeny chests, a teeny ox-cart.
 
-The three dango bickered, as the three dango always did — but it was the loving kind of bickering, the kind that finishes one thought in three pieces. Pinku wanted to start at the *top* because the top was the most exciting. Shiro wanted to start at the *bottom* because the bottom felt the safest. Cha wanted to start by making a *plan*, because Cha was Cha.
+"**Kawaii** (ka-wa-ii) — cute," sighed Shiro. "A little cart for little errands." He forgot to be scared.
 
-"We'll start at the bottom," Cha decided, "and build UP, so nothing topples. Three on a stick, stuck together for good — and a wobbly shelf is good for nobody."
+Three tiny musicians went on the middle step. "Three!" cheered Pinku. "They GET us!"
 
-So up the stair-step shelf they went, dumpling by dumpling, doing the only dance a skewer of dango can do: a hop, a tip, and a roll.
+The tiny drum slipped off the step and bounced down, boing, boing, with the dango hopping after it.
 
-They placed the tiny lacquered furniture on the bottom step — teeny tables and teeny chests and a teeny ox-cart no bigger than a button. "**Kawaii** (ka-wa-ii) — cute," sighed Shiro, completely forgetting to be scared. "Look, it's a little cart for little errands."
+Pinku caught it in her teeth. "Mmf," said Pinku. "Nobody saw that."
 
-They placed the helpers and the lanterns and the round rice-cake offerings on the middle steps, lining everything up so neatly that Cha actually got a little misty about how nicely the spacing worked out.
+---
 
-They placed the musicians — three of them, naturally, which made the dango feel an instant kinship. "Three musicians!" cheered Pinku. "On a stick of their own, basically! They GET us."
+Last came the Emperor and Empress, silk robes flowing, balanced on top of the dango like hats.
 
-And finally, on the very top step, beneath a golden folding screen, they placed the Emperor doll and the Empress doll in their flowing silk robes, side by side, calm and grand and glittering in the morning light.
+Step five. Step six. The stick wobbled. "Don't look down," said Cha. "Specifically you, Shiro."
 
-The dango rolled back to admire it.
+Step seven. They set the two dolls under the golden panel. Grand. Glittering. Perfect.
 
-"Done," breathed Shiro. "It's perfect. It's so perfect I might cry happy dumpling tears."
+Then the stick tipped backwards, and three dango bounced down seven steps into the strawberry-milk cloth.
 
-"It's the COOLEST shelf in the entire history of shelves," said Pinku.
+The cloth flipped up. Beneath the bottom step sat one more doll. Tiny, dusty, cobwebbed.
 
-But Cha, who noticed things, was frowning his small green frown. He rolled the stick sideways and peered into the dark gap beneath the very bottom step.
+"Oh," said Shiro softly. "She's been down here all alone."
 
-"Wait," said Cha. "There's one more."
+---
 
-There, tucked in the shadows where the cloth folded over, sat a tiny doll. She was the smallest of them all — small enough to balance on a single dango — and she was *dusty*. Not a little dusty. *Forgotten*-dusty. Her paint was faded to the soft color of old peaches, one of her painted eyes had gone faint, and a cobweb hung off her sleeve like a sad little scarf.
+"She isn't on the chart," said Cha, checking twice. "Not an Empress, not a musician. Not anybody official."
 
-"Oh," said Shiro softly. "Oh, she's been down here all alone."
+"Why are you down in the dust?" asked Pinku. The doll's silence said: no place for me.
 
-"There's no spot for her on the card," said Cha, checking twice. "She's not the Emperor or the Empress or a lady or a musician. She's not... anybody official."
+"I know that feeling," said Shiro, very small. "Everybody has their spot, and I'm the extra one."
 
-Pinku rolled right up to the little doll and looked her square in her faded eye. "Hello," Pinku said. "Why are you all the way down here in the dust?"
+"You're NOT extra," said Pinku, so loudly the whole stick jumped.
 
-The little doll, of course, did not answer, because she was a doll. But the dango were the kind of friends who could feel an answer even when nobody said it out loud. And the answer they felt was this: *I don't think there's a place for me.*
+---
 
-Shiro's voice came out very small. "I know that feeling. I feel it every time we go somewhere new. Like maybe everybody already has their spot, and I'm the extra one."
+Top step: the Emperor and Empress leaned together, happy. "No squeezing between THEM," said Pinku.
 
-"You're not extra," said Pinku and Cha at exactly the same time, and then they all swiveled to look at each other, surprised, because that had come out as one voice in three parts.
+Middle step: the drum rolled off again. Cha caught it this time. "Full," said Cha. "Clearly."
 
-Cha cleared his throat. "Right. Well. The card doesn't have a place for her. So we'll have to *make* one."
+Bottom step: Pinku nudged the ox-cart, and the whole row of teeny furniture tipped over like dominoes.
 
-"But the shelf is FULL," said Pinku. "Every step is perfect. If we add her, we have to move things. And if we move things, it won't match the card."
+Then Cha, orderly Cha, hopped onto the chart and sat. "The chart isn't a law," said Cha.
 
-"Then it won't match the card," said Cha simply.
+"It's somebody's idea of where things go," said Cha. "No good idea leaves a friend in the dust."
 
-Shiro gasped. Cha — *clever, orderly, do-it-the-right-way* Cha — choosing *not* to follow the instructions? It was like the sun deciding to rise in the west, but cozier.
+---
 
-"A card," said Cha, rolling up beside the dusty little doll, "is just somebody's idea of where things go. It's not a law. And no good idea ever left a friend in the dust."
+"What if she doesn't squeeze onto somebody's step?" said Shiro slowly. "What if she gets her own?"
 
-So the three dango got to work all over again.
+Shiro dabbed the dust away with a corner of cloth, so gently, until her soft colors woke up.
 
-First came the cleaning. Shiro, gentlest of the three, dabbed at the little doll's faded robes with the corner of the strawberry-milk cloth, *so* carefully, brushing away the dust and the cobweb-scarf until her colors woke up just a little. They weren't bright. But they were *hers*, and they were lovely in the soft, gone-pale way that very old, very loved things are lovely.
+They found a little wooden box and set it out front, where the light pooled warmest.
 
-"There," whispered Shiro. "You look beautiful. You always did. You were just hiding under a year of dust."
+They lined it with cloth, set the smallest lantern beside it, and placed her inside, facing out.
 
-Then came the Big Decision: where does she go?
+"Not the bottom, not the top," said Cha. "Out front. She's the welcome."
 
-"Top step's taken," said Pinku, hopping up to check. "Emperor and Empress. Can't bump *them* — they look so happy together."
+"The one who says come in, there's room for everyone," said Shiro, and his voice never wobbled.
 
-"Bottom step's full of furniture," said Cha.
+---
 
-They rolled up and down the seven steps three times, the whole stick pivoting like a tiny carousel, measuring and muttering and bickering in the loving way. And it was *Shiro* — quiet, worried Shiro, who knew exactly what it felt like to be the extra one — who finally figured it out.
+That evening the house filled with music, and trays of festival treats floated in on many little arms.
 
-"What if," Shiro said slowly, "she doesn't have to squeeze onto a step that's already somebody's? What if she gets... her own?"
+Diamond rice cakes in pink, white and green. "They made SNACKS of us," gasped Pinku. "We're extremely seen."
 
-So they built her a place of honor.
+Every guest through the door met the tiny doll first, glowing in her own lantern light.
 
-They found a small wooden box — a little jewelry box with a lid that opened flat — and they set it right at the *front* of the display, on the floor before the bottom step, where the morning light pooled warmest and where every single person who walked by would see her *first*. They lined it with a square of soft cloth. They set the smallest lantern beside it so she'd never be in shadow again. And they placed the little doll right in the center, facing out, where she could see the whole bright room.
-
-"Now she's not at the bottom," said Cha, satisfied. "And she's not at the top either. She's out front. She's the *welcome*."
-
-"The first doll you meet," said Pinku.
-
-"The one who says *come in, there's room for everyone here*," said Shiro, and his shy voice didn't wobble even a little.
-
-Just then the grown-ups came in carrying trays of festival treats — diamond-shaped rice cakes in pink and white and green (which made the dango feel *extremely* seen), and sweet white **amazake** (a-ma-za-ke) — sweet rice drink steaming in little cups. They stopped. They looked at the great seven-stepped shelf, glowing and perfect. And then they looked at the tiny welcoming doll out front in her pool of warm light, with her own lantern and her own square of soft cloth.
-
-"Now *that*," one of them said gently, "is exactly where she belongs. We'd nearly forgotten her. Thank goodness somebody didn't."
-
-The three dango glowed pinker, whiter, and greener than they ever had.
-
-When the festival came, the house filled with music and laughter and the clink of little cups, and every single guest who walked through the door was greeted *first* by one small, soft-colored, dust-free doll, sitting proudly in her place of honor, the very heart of hina-matsuri.
-
-And the three dango sat right beside her on their stick — pink, white, and green — three friends who had learned that a shelf, like a family, like a festival, like a heart, always, *always* has room for one more.
+The dango settled beside her on their stick. A shelf, like a heart, has room for one more.
 
 ---
 
 ## Goodnight Blessing
-May your shelf always have a soft spot saved just for you, little one, even on the days you feel like the extra one. May someone gentle wipe away your dust and set a small lantern by your side, so you are never, ever in the shadows. Remember that the welcome at the door matters just as much as the crown at the top. Snuggle in now, warm and pink and white and green, knowing there is always, always room for one more. Goodnight.
+May your shelf always have a soft spot saved just for you, even on days you feel like the extra one. May someone gentle wipe away your dust and set a lantern beside you. Always room for one more. Goodnight.
 
 ## AI Image Prompts
-1. Key scene: warm whimsical storybook illustration, soft spring morning light through a foggy window. Three tiny round dumplings on a single wooden skewer — Pinku (pink), Shiro (white), Cha (green) — gathered tenderly around a very small, faded, slightly dusty antique doll they've placed in a little open jewelry box at the front of a seven-tiered red-clothed Hinamatsuri display. Tiny lantern glowing beside her. Palette of strawberry-milk pink, peach-blossom, jade green, and soft gold. Mood: gentle, tender, hopeful.
-2. Character portrait: the Dango Three — three round dumplings (bold pink Pinku on top, shy white Shiro in the middle, clever green matcha Cha on the bottom) skewered on one wooden stick, pivoting together like a tiny carousel, bright cheerful kawaii faces, dusted with a soft glow. Simple cream background, cozy children's-book style.
-3. Closing scene: the festival in full swing, warm golden evening light, diamond-shaped pink-white-green rice cakes and steaming cups of sweet amazake on a low table. The freshly cleaned little welcome doll sits proudly in her own pool of lantern light at the front of the grand tiered display, with the three dango nestled beside her, all glowing happily. Soft, joyful, cozy mood.
+1. Key scene — warm whimsical storybook illustration in soft spring morning light: three round dumplings on one wooden skewer (bold pink Pinku on top, shy white Shiro in the middle, clever green Cha at the bottom) tumbling backwards off the top step of a seven-tiered Hinamatsuri display draped in strawberry-milk cloth, the Emperor and Empress dolls safe under a golden folding panel above, tiny lacquered furniture and three tiny musicians on the lower steps, the bottom cloth flipping up to reveal a small dusty doll in the shadows, palette of peach-blossom pink, cream, jade green and soft gold.
+2. Character portrait — the Dango Three: three round dumplings (bold pink Pinku on top, shy white Shiro in the middle, clever green matcha Cha at the bottom) skewered on one wooden stick, tipped at a jaunty angle with little motion lines, bright cheerful kawaii faces, Pinku holding a tiny toy drum in her teeth, simple cream background, cozy storybook style.
+3. Closing scene — the festival in full swing at evening, warm golden lantern light: the freshly cleaned little doll sitting proudly in her own small wooden box at the front of the grand tiered display with a tiny lantern beside her, the three dango nestled next to her on their stick, diamond-shaped pink-white-green rice cakes and steaming cups on a low table, soft joyful sleepy mood.
+
+## Animation Notes
+- **Cast:**
+  - `PINKU` — Pinku: the bold pink dumpling on top of the shared wooden stick, round and glossy with bright wide eyes and a big grin; voice: bold, loud, bouncy.
+  - `SHIRO` — Shiro: the shy snow-white dumpling in the middle of the stick, soft round cheeks and worried little eyebrows; voice: soft, nervous, sweet.
+  - `CHA` — Cha: the clever matcha-green dumpling at the bottom of the stick, calm half-closed eyes and a small thoughtful frown; voice: calm, dry, precise.
+  - `DOLL` — the little doll: a tiny antique hina doll small enough to sit on one dango, paint faded to old peach, one eye gone faint, a cobweb on her sleeve, later cleaned and glowing softly; no lines.
+- **Scenes:**
+  1. A cozy Japanese living room on a foggy spring morning, peach blossoms in a vase, an empty seven-step shelf draped in strawberry-milk pink cloth, boxes of dolls on the tatami.
+  2. The lower steps of the shelf in morning light: a picture-chart leaning on the side, tiny lacquered furniture, a button-sized ox-cart, three tiny musicians with a tiny drum.
+  3. The top of the shelf: a golden folding panel, the Emperor and Empress dolls in silk robes, the steps below, the cloth at the bottom flipped up to show a dusty gap.
+  4. The dark gap beneath the bottom step, a tiny faded doll with a cobweb on her sleeve, soft morning light at the edge.
+  5. Up and down the full seven-step display, every step crowded with dolls and furniture, the picture-chart on the floor.
+  6. The floor in front of the shelf: a small wooden box lined with cloth, the smallest lantern beside it, warm pooled light.
+  7. The living room at evening for the festival, lanterns lit, trays of diamond-shaped rice cakes and steaming cups, the little doll glowing out front of the full display.
+- **Budget:** 649 narrated words · 38 beats · 7 scenes · est. 4:45

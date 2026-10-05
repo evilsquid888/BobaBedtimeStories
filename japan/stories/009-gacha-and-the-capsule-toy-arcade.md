@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A wall of gachapon capsule machines in a glowing Tokyo arcade
 **Theme:** The surprise you get is sometimes better than the one you wanted
-**Japanese Spotlight:** **Gachapon** (gah-chah-pohn) — capsule toy
+**Japanese Spotlight:** **gachapon** (gah-chah-pohn) — capsule toy
 
 ---
 
@@ -92,7 +92,7 @@ Gacha, still upside down, considered the little doll's brave eyebrows. "Hm. He l
 
 "...I like him," Gacha admitted, flipping right-side up. "But he is STILL not the Golden Mochi Prince. To the next machine!"
 
-The twins cheered. Pippa tucked the duck and the daruma somewhere safe. And on they rolled.
+The twins cheered. Pippa checked that the duck was snug on Gacha's head and the daruma was bouncing safe beside him. And on they rolled.
 
 ---
 

@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A friendly anime fan convention hall full of costumes and booths
 **Theme:** Loving something is more fun when you find your people
-**Japanese Spotlight:** **Otaku** (oh-tah-koo) — a passionate fan, hobbyist
+**Japanese Spotlight:** **otaku** (oh-tah-koo) — a passionate fan, hobbyist
 
 ---
 
@@ -32,7 +32,7 @@ Dora picked it up with a trembling pancake-hand. A whole hall full of people who
 
 The convention hall was the size of a hundred night markets stacked together, and *oh*, it was a marvel. There were booths draped in glittering cloth. There were friends dressed as their favorite heroes — a melon-pan in a cape, three little dango on a stick all wearing matching wizard hats, a soft-serve swirl carrying a foam sword nearly as tall as itself. Everywhere Dora looked, somebody was laughing, hugging, or pointing excitedly at a drawing.
 
-"Welcome, welcome!" beeped a tiny butter-yellow voice. It was Kei the kei-truck, putt-putting along as the convention shuttle, her knitted seat-cover today knitted into the shape of a superhero's chest emblem. "Putt-putt — what are you here to celebrate?"
+"Welcome, welcome!" beeped a tiny butter-yellow voice. It was Kei the kei-truck, putt-putting along as the convention shuttle, her knitted seat-cover today stitched into the shape of a superhero's chest emblem. "Putt-putt — what are you here to celebrate?"
 
 And Dora — brave, bold, here-on-purpose Dora — pulled his beret down over his eyes and squeaked, "Dragons. Probably."
 

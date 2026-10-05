@@ -4,116 +4,128 @@
 **Guest Characters:** Dole Whip Dani, Kai the Shave Ice, Malia the Malasada, Musubi Manu, Poke Pua, Kalua the Pig, Niu the Coconut, Pua the Pineapple, Lilikoi Lani, Mac the Macadamia, Poi Popo, Manapua Mano, Lani the Loco Moco, Pele's Glow, Boba
 **Setting:** A sweeping sunset beach gathering of every friend from all the islands
 **Theme:** Aloha is the thread that ties every island and every friend together.
-**Hawaiian Spotlight:** a hui hou (ah HOO-ee HOH) = until we meet again
+**Hawaiian Spotlight:** **a hui hou** (ah HOO-ee HOH) = until we meet again
 
 ---
 
-The biggest beach on all the islands had never seen anything like it. The sand was warm and golden, the waves went *shhhh* like a giant whispering a secret, and the whole sky was turning the color of a melted creamsicle. And waddling, bouncing, rolling, and sloshing toward that beach came every single friend from every single island.
+The biggest beach on all the islands had never seen anything like it.
 
-"WE'RE HERE!" hollered Manapua Mano, a pillowy steamed bun who was so excited he bounced right over a sandcastle, *boing*, and landed bottom-first in a tide pool. "Cool! Now I'm a soup!"
+Warm gold sand, waves going shhhh like a giant whispering a secret, a sky turning creamsicle orange.
 
-A wobbly snow-white sea turtle made of coconut pudding glided across the sand to meet him, her shell jiggling like the world's gentlest jello. This was **Honu Haupia** (HOH-noo HOW-pee-ah) = the coconut-pudding sea turtle, oldest and calmest of all the friends.
+"WE'RE HERE!" hollered Manapua Mano, bouncing over a sandcastle, boing, and bottom-first into a tide pool.
 
-"Slow flippers, far journeys," Honu said warmly. "Welcome, little bun. Tonight we are all home."
+"Cool," said Manu, steaming. "Now I'm a soup."
 
----
+Honu Haupia glided across the sand to meet him, shell jiggling like the world's gentlest jello.
 
-It was the Grand Aloha Reunion — one big sunset gathering of everyone, from every island, all at once. Honu Haupia had called them together, and nobody, *nobody*, would miss it.
+"Slow flippers, far journeys," said Honu. "Every friend, one beach, one sunset. That's all I wanted."
 
-Down the beach swirled Dole Whip Dani, a golden soft-serve peak with a curl on top and a pineapple-leaf tuft for hair. "Honu! Honu! This is the BEST plan you have ever planned!" she squealed, melting a little at the edges from pure joy. "Stay cool and swirl on, everybody!"
+And here they came. Over the dunes bounced, wobbled and sloshed the whole gang, from every island.
 
-Behind her surfed Kai the Shave Ice, a fluffy rainbow-striped mountain in a paper cone, his little umbrella hat tipped just so. "Whoa," he breathed, gazing at the sunset. "That sky is doing lilikoi *and* strawberry *and* blue coconut all at once. Chill out and rainbow on, friends. Nature's showing off tonight."
-
-Malia the Malasada came giggling across the sand, scattering sugar crystals with every step. "I brought hugs! And sugar! And more hugs!" she said, leaving a sparkly, twinkly trail behind her like a sweet little comet. "Fresh, warm, and never alone!"
-
-Musubi Manu marched up beside her, neat and tidy, his nori seatbelt snug and his bento backpack packed for anything. "I brought a checklist," he announced proudly. "Step one: arrive. Step two—" He paused. "Okay, I only got to step two. But I'm wrapped up and ready!"
-
-They came and they came. Poke Pua arranged the picnic blankets *just so*, her kelp-strand hair flowing. Niu the Coconut sloshed in importantly, adjusting his tiny woven hat. Pua the Pineapple swept down the beach with her leaf-crown held high. Lilikoi Lani zipped between everyone's feet, leaving a tangy-sweet zing in the air and giggling at her own secrets. Shy little Mac the Macadamia peeked out of his glossy shell, then ducked back in, then peeked again.
-
-And rolling slowest of all, but loved most of all, came Poi Popo, the soft lavender-grey elder in her flower lei, moving like a gentle purple cloud. "From the land, with aloha," she murmured, and the whole beach seemed to hush and smile.
-
-Even Kalua the Pig was there, that big smoky-golden roly-poly fellow wrapped in ti leaves, with a curl of warm fragrant smoke rising off his back. He let out his famous belly-laugh — "HO-HO-HOOO!" — and three seabirds fell off a rock laughing with him.
-
-By the campfire-driftwood, a tiny warm glow flickered awake. It was Pele's Glow, the gentle ember-spirit, cozy as a sunset in a jar. "New land, new light, every night," she twinkled.
-
-It was, everyone agreed, the happiest beach in the history of beaches.
+A colorful parade of little treat-friends, sweet and salty, steaming and frosty, filling the beach like confetti.
 
 ---
 
-But then, somewhere near the cooler of fruit punch, came a small sad sniffle.
+Dole Whip Dani swirled down the beach, melting a little from joy. "Honu! Best plan you ever planned!"
 
-Everyone turned. There, on the sand, sat a round little fellow — dark and chewy and bouncy, with three pearly tapioca friends huddled at his side and a wide bubble-tea-straw poking up like a periscope. It was Boba, all the way from the faraway night markets, visiting for the very first time.
+Near the punch cooler sat Boba, straw up like a periscope, three pearls beside him. Sniffle.
 
-"Boba!" cried Honu Haupia, gliding over. "You made it across the whole ocean! What's the matter, keiki?"
+"You came across the whole ocean!" said Honu. "What's the matter, keiki?"
 
-Boba sniffled and squished. "I came so far to be here," he said quietly. "And it's so beautiful. But the sun is going down. And when the sun goes down, the party ends. And when the party ends... everyone goes back to their own islands. I just got here, and already I have to think about goodbye." A tiny tapioca tear plinked into the sand. "I *hate* goodbye."
+"The sun's going down," sniffled Boba. "Then the party ends and everybody goes home. I HATE goodbye."
 
-The whole beach went soft and quiet. Because — well. Boba had a point. The sun *was* sinking. Pretty soon it would be time for everyone to paddle home to their own corners of the sea.
+A tiny tapioca tear plinked into the sand.
 
-Manapua Mano sniffled. "Now I'M gonna cry, and I cry SO loud—"
-
-"Then nobody can eat the snacks because they'll be too wet," added Lani the Loco Moco sleepily, his fried-egg hat wobbling. "Pile it high, sleepy guy — but, you know. Not with tears."
-
-Lilikoi Lani, who *never* sat still, sat very still. "Sour first," she said in a small voice. "...but I forgot the sweet part."
+"Now I'M gonna cry," said Manu, "and I cry SO loud. Soup-loud."
 
 ---
 
-Honu Haupia did not hurry. Honu Haupia *never* hurried. She settled herself in the center of the beach, her coconut shell shimmering pale in the fading light, and she gathered every friend close with one slow sweep of her flipper.
+Right then a big playful wave rushed up the beach, SHHLOOP, and swept Boba's pearls out to sea.
 
-"Come, come," she said gently. "Sit by old Honu. Let me tell you a thing the ocean taught me, long, long before any of you were even a little bit hungry."
+"MY FRIENDS!" cried Boba, bouncing after them. The next wave bounced him right back.
 
-Everyone scooched in. Even Boba, sniffly and round, bounced a little closer.
+Manu dove in. "I'll get them!" He floated, bun-up, and drifted the wrong way. "Soup again!"
 
-"When I was a young turtle," Honu began, "I thought the ocean separated the islands. I thought all that water *kept us apart*. But one day I swam, and I swam, and I swam — and do you know what I learned?" Her ancient eyes sparkled. "The ocean does not keep the islands apart. The ocean *connects* them. Every island is touching the very same sea. Pull on the water by one island..." — she dipped a flipper, and a tiny ripple ran out across the wet sand — "...and the water by every *other* island feels it too."
+Dani stretched for the pearls with one long golden arm. Her arm drooped. Then dripped. Then wobbled.
 
-She looked around at all of them — the soft-serve and the shave ice, the doughnut and the bun, the proud pineapple and the shy little nut, the smoky pig and the glowing ember and the round, worried Boba.
+"Stay cool and... oh no, I'm going warm," said Dani, sagging.
 
-"Aloha is just like that ocean," Honu said. "It is the thread that ties every island and every friend together. When you love someone, a little ribbon of aloha stretches from your heart to theirs. And here is the secret, keiki: that ribbon does not break when you sail home. It only stretches. You could go to the farthest island in the whole wide world, and the ribbon would simply go *stretchhh* — and still hold."
+The pearls bobbed farther out, three tiny dots, plip, plip, plip, on the orange water.
 
-Poi Popo nodded slowly, her lei rustling. "True, true," the elder murmured. "I have loved this land my whole long life. The land changes. The friends sail away. But the aloha?" She patted her own soft chest. "It stays. From the land, with aloha — always."
-
-Pele's Glow flickered brighter, warming all their faces. "I have watched islands be *born* from the sea," she said softly. "New land, new light, every night. Nothing that is made of love is ever truly gone. It only waits, glowing, for the next time."
-
-Boba's straw drooped. "But... what do we even *say*? When we go? 'Goodbye' feels so... heavy."
-
-And here Honu Haupia smiled the warmest, slowest, oldest smile on all the islands.
-
-"We don't say goodbye," she said. "On these islands, we say **a hui hou** (ah HOO-ee HOH) = until we meet again. You see? It is not an ending at all. It is a *promise*. It says: I am not done loving you. I am only pausing. I will see you when the tides bring us back together."
-
-She let the words settle like sand.
-
-"A... hui... hou," Boba repeated slowly. And — *boing!* — he bounced up, lighter than before. "It's not goodbye! It's *see you soon*!"
-
-"It's see you soon!" cheered Dole Whip Dani, swirling so fast her curl wobbled. "Oh, I love that! Stay cool and SWIRL ON!"
+Honu Haupia did not hurry. Honu never hurried. She slid into the surf. "Hold my flipper, keiki."
 
 ---
 
-And so, as the last sliver of sun melted into the sea like a scoop of Dani herself, the friends did not cry.
+Boba grabbed her flipper. Manu grabbed Boba. Dani grabbed Manu, melty but holding.
 
-Instead, they threw the happiest party the beach had ever held. Kalua's belly-laugh rolled across the water. Manapua bounced so high he high-fived a passing pelican. Malia handed out warm sugary hugs until every single friend sparkled. Mac the Macadamia even came all the way out of his shell to dance — just a tiny wiggle, but everyone cheered like he'd won a hula contest. "Small but mighty!" he squeaked, and ducked back in, glowing.
+"Everybody!" called Honu. "Flipper to fin to curl to crown!"
 
-Pua the Pineapple lent Boba her royal leaf-crown for one whole minute ("Crown up, sweetheart — but I want it back"). Kai stacked everyone into a rainbow pyramid for a picture. Pele's Glow turned the whole circle warm and golden, like sitting inside a hug made of sunset.
+And the whole gang linked up, a long wobbling, sloshing, giggling chain from the dunes into the sea.
 
-And when at last the stars came out and the friends gathered their things to paddle home to their islands, nobody said the heavy word. Instead, flipper to fin to curl to crown, they all said it together, soft and sure as the tide:
+Out and out Honu swam, the chain stretching behind her, taut as a lei.
 
-"**A hui hou!**"
+"It's stretching!" cried Boba. "It's stretching but it's HOLDING!"
 
-Until we meet again.
+Honu scooped one pearl. Then two. The third hid in a curl of foam.
 
-Boba bounced into the gentle waves toward the faraway markets, his three pearly friends bobbing behind him. He looked back once — and saw every friend on the beach waving, glowing in Pele's warm light, the ribbons of aloha stretching out across the water toward him, holding tight, never breaking.
+Then a wave lifted it, carried it in, and plopped it, plink, straight into Boba's cup.
 
-He smiled the biggest bubble-tea smile in the world.
+"Soup rescue complete," said Manu, soggy and proud. "Soup saves the day."
 
-He wasn't sailing away from his friends, he realized.
+---
 
-He was simply carrying every one of them with him — all the way home.
+Back on the sand, everyone flopped in a heap. "See?" said Honu. "The ocean brought your friends back."
+
+"I thought the sea kept islands apart," said Honu. "It connects them. Every island touches the same water."
+
+"Aloha is like that chain," said Honu. "Sail to the farthest island and it goes stretchhh. And holds."
+
+Boba hugged his cup of pearls. "But what do we SAY? Goodbye feels so heavy."
+
+"We don't say goodbye," said Honu. "We say **a hui hou** (ah HOO-ee HOH) = until we meet again."
+
+"A... hui... hou," said Boba. BOING. He bounced up, lighter. "It's not goodbye! It's see you soon!"
+
+---
+
+As the last sliver of sun melted into the sea, the whole gang threw the happiest party ever.
+
+Manu bounced so high he high-fived a passing pelican.
+
+Dani swirled so fast her curl went sideways. "Stay cool and SWIRL ON, everybody!"
+
+---
+
+When the sky went lilac, flipper to fin to crown, they said it together. "A hui hou!"
+
+Boba bounced into the gentle waves, pearls bobbing behind him, and looked back once.
+
+Every friend on the beach was waving, and the ribbon between them stretched, and stretched, and held.
+
+"Not sailing away," said Boba, smiling his biggest bubble-tea smile. "Carrying everybody home."
 
 ---
 
 ## Goodnight Blessing
-Little one, the ocean is wide, but love is wider still. When the people you cherish sail off to sleep tonight, do not feel the heavy weight of goodbye — feel instead the soft warm ribbon of aloha, stretching gently from your heart to theirs and holding fast across every mile. You are never truly apart from anyone you love; you are only waiting for the tide to bring you back together. So close your sleepy eyes, snug as a turtle in her shell, and whisper it to the stars: a hui hou. Until we meet again. Goodnight.
+Little one, the ocean is wide, but love is wider. When the ones you cherish sail home tonight, feel the ribbon of aloha stretching from your heart to theirs, holding fast. Whisper it: a hui hou. Goodnight.
 
 ## AI Image Prompts
-1. A sweeping golden-hour beach scene in warm whimsical storybook style, every island friend gathered in a loving circle on glowing sand — a wobbly snow-white coconut-pudding sea turtle (Honu Haupia) at the center mid-story, flipper raised, surrounded by a rainbow shave ice, a golden pineapple soft-serve, a sugar-dusted malasada doughnut, a tidy spam musubi, a smoky roly-poly pig in ti leaves, a lavender taro elder in a flower lei, and a round bouncy boba pearl with a straw; palette of melted-creamsicle orange, soft pink, lavender, and warm gold; the sky striped like sunset syrup; mood tender, cozy, and joyful, soft rim-lighting from a tiny glowing ember nearby.
-2. Character portrait of Honu Haupia, a gentle snow-white sea turtle made of jiggly coconut pudding, her shell patterned in soft haupia squares with a faint coconut shimmer, ancient kind eyes, slow graceful flippers, gliding as if underwater across warm golden sand at sunset; warm whimsical storybook style, soft glowing light, serene and wise expression.
-3. The cozy closing moment in warm whimsical storybook style: a starry twilight beach, the friends standing flipper-to-fin waving goodbye as a small round boba pearl with a bubble-tea straw bobs out into calm moonlit waves toward the horizon; faint golden ribbons of light (aloha) stretching from every friend's heart across the water to him; a tiny ember-spirit glowing warm in the foreground; palette of deep indigo, soft gold, and gentle starlight; mood peaceful, hopeful, full of love.
+1. Key scene — sweeping golden-hour beach in warm whimsical storybook style: a long wobbling chain of little treat-friends from every island linked flipper to fin to curl to crown, stretching from the dunes into orange surf, with a snow-white coconut-pudding sea turtle (Honu Haupia) swimming at the far end scooping tiny tapioca pearls from the foam, a round dark chewy boba pearl with a bubble-tea straw (Boba) holding her flipper, a pillowy white steamed bun (Manapua Mano) and a melty golden soft-serve swirl (Dole Whip Dani) next in line; palette of creamsicle orange, soft pink, lavender and warm gold; mood joyful, tender and big.
+2. Character portrait — Honu Haupia: a gentle snow-white sea turtle made of jiggly coconut pudding, her shell patterned in soft haupia squares with a faint coconut shimmer, ancient kind eyes, slow graceful flippers, gliding across warm golden sand at sunset with sea foam at her edges; warm whimsical storybook style, soft glowing light, serene and wise.
+3. Closing scene — a lilac twilight beach just after sunset, a colorful parade of little treat-friends standing together waving, as a small round boba pearl with a bubble-tea straw bobs out into calm gentle waves with three tiny pearls behind him, faint golden ribbons of light stretching from every friend across the water to him; palette of deep lavender, soft gold and sea-glass blue; peaceful, hopeful, full of love.
+
+## Animation Notes
+- **Cast:**
+  - `HONU` — Honu Haupia: a wobbly snow-white coconut-pudding sea turtle with a softly jiggling shell patterned in haupia squares, gentle ancient eyes, slow flippers, glides as if underwater; voice: slow, calm, grandmotherly.
+  - `BOBA` — Boba: a round, dark, chewy tapioca pearl with big shiny eyes, a wide bubble-tea straw poking up like a periscope, and a little cup he carries with three tiny pearls in it; voice: small, bouncy, earnest.
+  - `MANU` — Manapua Mano: a round pillowy white steamed bun with a rosy steam-blush, a swirl-knot on top and wisps of steam, loves to bounce; voice: loud, goofy, big-hearted.
+  - `DANI` — Dole Whip Dani: a swirly golden-yellow soft-serve peak with a glossy curl, set in a little cup-body, a tiny pineapple-leaf tuft and huge sparkly eyes, melty at the edges; voice: sunny, bubbly, fast.
+- **Scenes:**
+  1. A huge golden beach at late golden hour, warm sand, gentle surf, a sandcastle and a tide pool, dunes behind, a creamsicle-orange sky, a colorful parade of little treat-friends pouring over the dunes.
+  2. The party on the sand at sunset: picnic blankets, a punch cooler, treat-friends everywhere, the sun low and orange over the sea.
+  3. The water's edge at sunset: a big playful wave rushing up the sand, orange water, three tiny pearls bobbing out past the foam.
+  4. The surf at sunset: a long chain of treat-friends from the dunes into the waves, a white pudding turtle swimming at the far end, foam curling.
+  5. The wet sand at the water's edge as the sun touches the sea, the gang flopped in a happy heap, a boba cup with three pearls.
+  6. The beach as the last sliver of sun melts into the sea, torches of warm light, treats bouncing and dancing, a pelican gliding past.
+  7. The beach at lilac dusk just after sunset, the whole gang waving at the water's edge, one small boba pearl bobbing out on calm gentle waves, faint gold ribbons of light over the water.
+- **Budget:** 660 narrated words · 42 beats · 7 scenes · est. 4:52

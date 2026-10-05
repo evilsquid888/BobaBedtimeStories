@@ -1,195 +1,135 @@
 # Story 45: Musubi Manu and the First Day of School
 
 **Main Character:** Musubi Manu
-**Guest Characters:** Mac the Macadamia
+**Guest Characters:** Mac the Macadamia; Poi Popo, the kumu of Room One
 **Setting:** A friendly island elementary school on Oahu
 **Theme:** New beginnings are easier with a friend by your side.
 **Hawaiian Spotlight:** **hoa** (HOH-ah) = friend / companion
 
 ---
 
-On the very first morning of school, Musubi Manu woke up so early that the roosters were still snoring. He hopped out of bed, straightened his crisp black **nori** (NOH-ree) = seaweed seatbelt, smoothed his pink spam blanket flat, and zipped up his tiny bento backpack with a satisfying *zzzip*.
+On the first morning of school, Musubi Manu woke so early the roosters were still snoring.
 
 "Wrapped up and ready!" he announced to the empty room.
 
 The room did not answer. The room was a room.
 
-Manu checked his backpack for the fourth time. Inside he had: one sharpened pencil, one eraser shaped like a tiny pineapple, two snacks (in case the first snack got lonely), and a folded map of the school he had drawn himself, with arrows and labels and a little compass rose in the corner that said *THIS WAY, PROBABLY.*
-
-Manu liked plans. Plans were tidy, like him. And today's plan was simple.
-
-Step one: walk to school.
-
-Step two: do not trip over anything.
-
-That was the whole plan, and he felt very good about it. So good that on step one, walking to school, he immediately tripped over something.
+"Step one: walk to school," said Manu. "Step two: do not trip." On step one, he tripped.
 
 ---
 
-The something said, "Ow," very quietly. Then it shut.
+The something said "Ow," very quietly. Then it shut. Click.
 
-Manu blinked down. Sitting in the middle of the sandy path was a small, smooth, cream-colored nut in a glossy brown shell — and the shell had just snapped closed like a tiny helmet, *click*, hiding whoever was inside.
+In the sandy path sat a small cream-colored nut, its glossy brown shell snapped tight like a helmet.
 
-"Oh! Sorry, sorry!" said Manu, crouching. "I didn't see you. Are you okay in there?"
+"Sorry, sorry!" said Manu, crouching. "I didn't see you. Are you okay in there?"
 
-Silence.
+The shell opened a crack. One shy eye peeked out. "Maybe," whispered a small voice.
 
-"My name's Musubi Manu," he tried. "I'm going to school. Are *you* going to school?"
+"I'm Mac," said the voice. "Mac the Macadamia. First day. We just moved here. I don't know anybody."
 
-The shell opened a crack. One shy eye peeked out. "...Maybe," whispered a small voice.
+Manu stuck out one corner of himself like a handshake. "Now you know one anybody. You know me."
 
-"Maybe?"
-
-"Today's my first day," the voice said. "I'm new. We just moved here. I'm Mac." The shell opened a little wider, showing a round, smooth, worried little face. "Mac the Macadamia. And I — I don't know anybody. Not one single anybody."
-
-Now, Manu was *also* new today — it was everybody's first day at the start of the year. But Manu had grown up on this island. He knew which **honu** (HOH-noo) = sea turtle slept on which rock, and where the **plumeria** flowers smelled the sweetest, and that the cafeteria served extra-good musubi on Tuesdays. Mac knew none of that.
-
-Manu looked at Mac, all curled up small in his shell on the side of the road. And something warm happened in Manu's rice-block heart.
-
-"Well," said Manu, sticking out one corner of himself like a handshake, "now you know one anybody. You know me."
-
-Mac peeked higher. "I do?"
-
-"You do. Come on. We can walk together. I even made a map." Manu pulled it out and unfolded it with a flourish. The compass rose said *THIS WAY, PROBABLY.*
-
-Mac stared at it. "...That arrow is pointing at the ocean."
-
-"Is it?" Manu turned the map around. "Ah. Fixed."
-
-For the first time, a tiny, crinkly smile cracked across Mac's shell. And that smile felt to Manu like the best thing he had done all morning. Maybe all week.
-
-"See?" said Manu. "The map is *fine.* I just have to hold it the way the world is holding *us.*"
-
-"That doesn't make any sense," said Mac.
-
-"It will by lunchtime," said Manu confidently, and he refolded the map with a crisp little snap, very pleased with himself.
-
-Mac rolled a tiny bit closer, the way you do when you've decided someone might be safe. "Do you really know the way?"
-
-"I know *a* way," said Manu. "Which is almost the same thing as *the* way, if you walk it with enough confidence." He stood up tall, nori seatbelt gleaming, and pointed down the path. "Forward, hoa!"
+"Forward, hoa!" said Manu, pointing confidently down the path. He was pointing at the ocean. "Other way."
 
 ---
 
-They walked to school together, Manu marching steady and proud, Mac rolling alongside in little nervous wobbles. Every few steps Mac would start to curl back into his shell, and every few steps Manu would say something cheerful to coax him out.
+They walked together, Manu marching steady, Mac hopping alongside in nervous little wobbles.
 
-"That's a mango tree."
+"That's a mango tree," said Manu. Wobble. "That's the bus. It honks like a sad goose." Wobble.
 
-*Wobble.*
+"That's the school! Big and yellow, like a giant slice of cornbread."
 
-"That's the bus. It honks like a sad goose, you'll love it."
+The schoolyard was LOUD. Buns bouncing, lilikoi zipping, a knot of shave-ice domes giggling in rainbow stripes.
 
-*Wobble.*
+Mac's shell snapped shut. Click.
 
-"That's the school! See? Big and yellow, like a giant slice of cornbread."
-
-Mac stopped wobbling. He looked at the school — big and yellow and *loud,* full of laughing, bouncing, chattering snacks of every kind streaming through the gates. Manapua buns bounced. Lilikoi zipped. A whole knot of shave ice domes giggled in rainbow stripes.
-
-Mac's shell snapped shut. *Click.*
-
-"Mac?" said Manu gently.
-
-"It's *so big,*" came the muffled voice. "And everyone already has friends. Everyone's laughing. What if — what if I do everything wrong? What if I can't find my class? What if nobody wants to sit by a nut?"
-
-Manu sat down right there beside the little closed shell, not minding the bell, not minding the crowd.
-
-"Mac," he said, "do you know what a **hoa** (HOH-ah) = friend is?"
-
-The shell opened the tiniest sliver. "...A friend?"
-
-"A hoa," said Manu, "is somebody who walks in *with* you. So you don't have to walk in alone." He nudged a little closer. "You've already got one. I'm not going anywhere. Wherever your class is, we find it together. If you trip, I trip too, so you don't feel silly. Deal?"
-
-The shell opened all the way. Mac's smooth little face came out, eyes shiny. "You'd trip *on purpose?*"
-
-"For a hoa?" Manu grinned. "I'd trip *twice.*"
+Now, a shut macadamia is simply a nut, and the path was a hill, and nuts roll.
 
 ---
 
-So they walked through the big yellow gates side by side.
+The nut rolled. Down the path, faster and faster, with Manu sprinting behind, backpack bouncing.
 
-It was not, in fact, easy. New things rarely are. Manu's careful map was no help at all once they got inside, because Manu had drawn the hallways from memory and his memory had put the library where the bathrooms were. They wandered past the cafeteria (smelling gloriously of Tuesday musubi, even though it was Monday — a mystery for another day). They wandered past the music room, where someone was teaching a class of mochi to play the ukulele, mostly by bouncing on it. They wandered past the art room, where a poke bowl was arranging her sesame seeds into a perfect spiral and frowning because one seed was crooked. They wandered past a closet that turned out to be, indeed, a closet, full of brooms and one very surprised mop.
+It shot under the school bus, which honked like a sad goose, and out the other side.
 
-"This is not Room One," Manu admitted to the mop.
+It bounced off a lunch bench, zinged through the shave-ice domes, and scattered them like rainbow bowling pins.
 
-The mop said nothing. Mops are even quieter than rooms.
+Straight ahead lay the schoolyard fishpond, deep and green and full of very interested koi.
 
-"I think," said Manu, frowning at his upside-down map, "that we are extremely lost."
+Manu unwrapped his nori seatbelt, flung it like a lasso, and snagged the nut at the water's edge.
 
-"You said you knew the island," Mac whispered.
-
-"I know the *island,*" said Manu with great dignity. "The island does not have this many doors."
-
-A round, pillowy steamed bun came bouncing past — *boing, boing* — leaving little wisps of steam. "You two lost?" he called cheerfully. "First-day class is THAT way! Soft on the outside, full of love inside — follow the steam!" And *boing boing boing,* off he went, leaving a trail of fog like a friendly little train.
-
-They followed the steam right to a door marked **KEIKI** (KAY-kee) = children — ROOM ONE.
-
-Manu's heart did a flip. This was it. The moment Mac had been dreading. The full, loud, crowded classroom.
-
-He felt Mac's shell begin to close beside him. *Click —*
-
-"Wait," said Manu softly. "Remember. You don't walk in alone." He held out his corner. "Together?"
-
-A long pause. Then a small smooth paw reached out from the shell and gripped Manu's corner tight.
-
-"Together," whispered Mac.
-
-And in they walked.
+"Wrapped up," he gasped, reeling Mac in, "and ready."
 
 ---
 
-The classroom turned and looked at them. Two new faces. The whole room went quiet, the way rooms do, and Manu felt Mac trembling beside him, ready to vanish into his shell forever.
+The shell opened. Mac blinked at the nori wrapped snugly around him. "You caught me."
 
-So Manu did the bravest thing a tidy, careful, plan-loving musubi could do.
+"That's what a **hoa** (HOH-ah) = friend is," said Manu. "Somebody who walks in with you."
 
-He tripped.
+"If you trip, I trip too," said Manu. "So you don't feel silly. Deal?"
 
-On *purpose.* A big, dramatic, totally fake trip — *whooooops!* — landing softly on his rice bottom with his bento backpack flying open and his little pineapple eraser bouncing across the floor.
+"You'd trip on purpose?" whispered Mac.
 
-"I MEANT to do that," he announced.
+"For a hoa?" Manu grinned. "I'd trip twice."
 
-The whole classroom burst out laughing — not mean laughing, the *good* kind, the warm kind, the kind that makes a stranger feel like they just got hugged by everyone at once. The pineapple eraser rolled to a stop at a kind-faced taro kid, who picked it up and rolled it back, giggling.
-
-And in all that laughing, nobody was staring at Mac anymore. Nobody was nervous. Everybody was just *happy.*
-
-Mac looked at Manu — flat on his bottom, eraser-less, beaming up at him.
-
-"You did that for me," Mac said quietly. "So they'd laugh *with* us instead of *at* me."
-
-"Small but mighty, shell to heart," said Manu, then caught himself. "Wait, that's *your* line."
-
-"You can borrow it," said Mac. And he *grinned* — a big, whole, un-shy grin, shell wide open, brave as anything. "Hoa share, right?"
-
-"Hoa share," Manu agreed.
-
-They found two desks side by side. And do you know — Mac never once snapped his shell shut for the rest of the day. Not when they did math. Not when they sang. Not even when the ukulele mochi bounced clear out the window (he was fine, he landed on a malasada).
-
-At lunchtime, when the cafeteria filled up loud and crowded again, Mac reached over and tapped Manu's shoulder. "I figured it out," he whispered.
-
-"Figured what out?"
-
-"The big room. The loud room. It's not scary anymore." Mac looked around at all the laughing snacks, the bouncing buns, the rainbow shave ice domes giggling in the lunch line. "It's just full of *more* people who could be hoa. I was scared of the wrong thing. There's nothing scary about a room full of friends-you-haven't-met-yet."
-
-Manu felt his rice-block heart swell so big he thought his nori seatbelt might pop. "See?" he said softly. "I told you it'd make sense by lunchtime."
-
-And it did. It made the very best kind of sense.
+Mac took one breath. Then two. Then he hopped out of the nori toward the big yellow gates.
 
 ---
 
-That night, walking home together under a sky full of warm sleepy stars, Mac said, "Manu? Thank you for being my first hoa. That was the best first day. I thought it would be the scariest day of my whole life."
+Room One had a plain brass bell, a blank chalkboard, and rows of little treat-friends, all staring.
 
-Manu thought about that. He had spent all morning worrying about his plan, his map, his snacks, his arrows. But none of those were the part that mattered.
+At the front floated the **kumu** (KOO-moo) = teacher, Poi Popo, a soft lavender cloud in a flower lei.
 
-"You know what?" he said. "I always thought my best job was being dependable. Being ready. Wrapped up and ready, that's me." He looked at Mac, rolling happily beside him in the starlight, brave and open and unafraid. "But I think being somebody's *first hoa* — that might be the best job of all."
+Mac trembled beside him. So Manu did the bravest thing a plan-loving musubi could do.
 
-Mac bumped him gently, shell to rice. "Then you're very good at your job."
+He tripped. On purpose. Whooooops! Rice bottom down, backpack open, pineapple eraser bouncing across the floor.
 
-And the two of them — the tidy little musubi and the once-shy little nut — walked the whole way home side by side, already planning tomorrow. Together.
+"I MEANT to do that," announced Manu.
+
+The whole room burst out laughing, the warm kind, the kind that hugs a stranger.
+
+The eraser bounced toward the door. A small smooth paw shot out and caught it. Mac's paw.
+
+"Small but mighty, shell to heart," said Mac, out of his shell, grinning at everybody.
+
+---
+
+"Two new hoa," said Poi Popo warmly. "Sit together." Mac never shut his shell once all day.
+
+---
+
+That afternoon they walked home past the mango tree, the sad-goose bus, and the slice of cornbread.
+
+"Thank you for being my first hoa," said Mac, shell wide open. "Best first day ever."
+
+"Being somebody's first hoa," said Manu, "might be the best job of all."
+
+Mac bumped him gently, shell to rice. "Tomorrow, step one: do not trip."
+
+"No promises," said Manu.
 
 ---
 
 ## Goodnight Blessing
-Little one, somewhere out there is someone waiting to be your hoa, and somewhere out there, you are the friend someone needs too. New days can feel big and yellow and loud — but they grow small and cozy the moment a friend walks in beside you. So tonight, rest easy and brave, knowing you never have to walk in alone. May your dreams be wrapped warm as a nori blanket, and may a friendly hand always be reaching for yours. Sleep now, sweet keiki, soft and safe and never, ever alone. Goodnight.
+New days can feel big and yellow and loud, but they grow small and cozy the moment a friend walks in beside you. Rest easy, brave one. You never have to walk in alone. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration, soft golden morning light: a tidy spam-musubi character (rice-block body, pink spam blanket, crisp black nori seatbelt, tiny bento backpack) crouching kindly beside a small cream-colored macadamia nut peeking shyly from its glossy brown shell, on a sandy island path lined with plumeria, a hand-drawn map unfolding between them; palette of soft yellows, warm browns, ocean blues; mood gentle, hopeful, the start of a friendship.
-2. Character portrait of Musubi Manu: a neat, sturdy spam-musubi standing tall and proud with a surfer's tan line where the nori wraps, tiny bento backpack on his back, one corner extended like a friendly handshake, sparkly confident eyes, warm island background blurred soft; cozy storybook style, cheerful and dependable.
-3. Cozy closing scene under a starry violet-and-gold night sky: Musubi Manu and Mac the Macadamia (shell wide open, smiling and brave) walking home side by side along a quiet island road, fireflies and warm window lights glowing, both casting one shared shadow; tender, sleepy, deeply warm storybook mood.
+1. Key scene — warm whimsical storybook illustration, bright island morning: Musubi Manu, a neat spam-musubi with a rice-block body and pink spam blanket, sprinting down a sandy school path with his black nori band unwrapped and flung out like a lasso, snagging a small glossy brown macadamia shell at the very edge of a green schoolyard fishpond full of curious koi, rainbow shave-ice domes scattered like bowling pins behind him, a big yellow school like a slice of cornbread in the background; palette of soft yellows, warm browns, ocean blues.
+2. Character portrait — Musubi Manu: a sturdy tidy spam musubi standing tall, rice-block body, pink spam blanket on top, crisp black nori seatbelt around the middle, a surfer's tan line where the nori wraps, tiny bento backpack, one corner extended like a friendly handshake, sparkly confident eyes; cozy storybook style, cheerful and dependable, blurred warm schoolyard behind him.
+3. Closing scene — a quiet island road in warm late-afternoon gold: Musubi Manu and Mac the Macadamia, a small cream-colored nut with his glossy brown shell wide open and a huge brave grin, walking home side by side past a mango tree and a yellow school bus, casting one shared shadow; tender, sleepy, deeply warm storybook mood.
+
+## Animation Notes
+- **Cast:**
+  - `MANU` — Musubi Manu: a neat square rice-block body with a pink spam blanket on top and a crisp black nori band around the middle, tiny bento backpack, sparkly eyes; voice: tidy, loyal, brisk.
+  - `MAC` — Mac the Macadamia: a small smooth cream-colored nut with a glossy brown shell he snaps open and shut like a helmet, big shy eyes, tiny paws; voice: quiet, shy, brave.
+  - `POPO` — Poi Popo: a soft smooth lavender-grey mound of pounded taro, gentle old eyes, a bright flower lei, drifting like a slow purple cloud; voice: ancient, loving, patient.
+- **Scenes:**
+  1. Manu's small tidy bedroom at early morning, a bento backpack on the bed, a window with a snoring rooster outside.
+  2. A sandy island path lined with plumeria in morning sun, a small macadamia shell sitting in the middle of it.
+  3. The path down a gentle hill toward a big yellow school: a mango tree, a yellow school bus, a loud schoolyard full of little treat-friends.
+  4. The hill path, under the school bus, a lunch bench, a scatter of rainbow shave-ice domes, and a green schoolyard fishpond with koi.
+  5. The edge of the fishpond by the big yellow gates, Mac wrapped in Manu's nori band.
+  6. Room One: a plain brass bell, a blank green chalkboard, rows of small desks full of little treat-friends, Poi Popo floating at the front.
+  7. Two desks side by side in Room One, afternoon light through the windows.
+  8. A quiet island road in warm late-afternoon gold, a mango tree and the yellow bus in the distance.
+- **Budget:** 647 narrated words · 43 beats · 8 scenes · est. 4:48

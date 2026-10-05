@@ -1,163 +1,130 @@
 # Story 47: Manapua Mano and the Quietest Question
 
 **Main Character:** Manapua Mano (a big soft steamed bun)
-**Guest Characters:** None
+**Guest Characters:** Boba, a cup of tapioca pearls from Taiwan; Mango, a small frosted mango cube from Taiwan
 **Setting:** A backyard welcome-table in Waikiki for the Taiwan dessert visitors (Boba, Mango, Yeguo)
 **Theme:** A good host listens to learn, instead of showing off.
-**Hawaiian Spotlight:** hoaloha (hoh-ah-LOH-hah) = friend
+**Hawaiian Spotlight:** **hoaloha** (hoh-ah-LOH-hah) = friend
 
 ---
 
-Manapua Mano had not slept a wink, because at exactly midnight he had decided that this would be the LOUDEST, BIGGEST, most ENORMOUS welcome party in the entire history of welcoming.
+Manapua Mano had not dozed a wink. This would be the LOUDEST welcome in history.
 
-"Visitors are coming!" he announced to the empty backyard, bouncing so hard a little wisp of steam puffed off his swirl-knot. Mano was a big, soft, pillowy steamed bun, white as a cloud that had eaten another cloud, with a rosy steam-blush on both round cheeks and two stubby arms he loved to fling WIDE. "All the way from Taiwan! Three little snacks on a great big plane! And when they land — *POW* — they will meet the most amazing host who ever buttered a bun. ME."
+"Guests are coming!" he bounced, puffing steam off his swirl-knot. "From Taiwan! On a great big plane!"
 
-He cracked his knuckles, which on a steamed bun makes no sound at all, which did not stop him from doing it dramatically.
+He cracked his knuckles, which on a steamed bun makes no sound, and did it dramatically anyway.
 
-"Bigger," he whispered to himself, eyes huge. "Everything must be BIGGER."
+He hauled in a bathtub-sized drum, a hose on a ladder, and one glowing-red pepper.
 
-So he wrote a list, and the list was very long. A drum the size of a bathtub: check. A garden hose that could make a pretend wave: check. The spiciest pepper on the whole island: check, check, double check. He polished the welcome-table until it shone. He practiced his hula until his swirl-knot was dizzy. He even rehearsed the booming way he would say *aloha,* trying it forty different ways, each one louder than the last, until a startled gecko fell off the fence.
+He practiced "aloha" forty ways, each louder than the last, until a startled gecko fell off the fence.
 
-"Perfect," Mano declared, beaming at his reflection in a spoon. "When they see all this, they will know — instantly — that I am the BEST host in the Pacific Ocean."
-
-This, dear reader, was the beginning of a tiny, fluffy mistake.
+"Bigger," he told his reflection in a spoon. "They'll know I'm the BEST host in the Pacific."
 
 ---
 
-By the time the three travelers shuffled into the Waikiki backyard, the sun was sliding low and golden over the palms. They were small. They were tired. They were wonderful.
+Two small, tired travelers shuffled through the gate in the golden afternoon.
 
-There was Boba, a little cluster of glossy black tapioca pearls bundled in a cup, blinking slowly. There was Mango, a soft golden cube wearing a sleepy sugar-frost like a blanket. And there was Yeguo — **椰果** (yē guǒ) = coconut jelly — a wobbly, see-through little square who jiggled with every small breath.
+Boba, a cup of glossy black pearls with a periscope straw. Mango, a golden cube in sugar-frost.
 
-"**Aloha** (ah-LOH-hah) = hello!" Mano boomed, and I do mean BOOMED. He had borrowed a drum the size of a bathtub, and he hit it. *BOOM-BOOM-BA-BOOM!*
+"**Aloha** (ah-LOH-hah) = hello!" boomed Mano, and he hit the drum. BOOM-BOOM-BA-BOOM!
 
-The three travelers jumped a full inch into the air. Yeguo jiggled so hard he nearly turned inside out.
+Both travelers jumped a full inch. Mango pulled his frost blanket up to his eyes.
 
-"WELCOME!" Mano hollered over the drum. "Don't be shy! I made the table EXTRA long so it could hold EXTRA fun! Watch THIS!"
+"Maybe," said Boba, in the smallest pearl-voice, "we could just sit? For a moment?"
 
-He pressed a button. A garden hose strapped to a ladder unleashed a GIANT wave of water across the lawn — *WHOOOSH* — meant to look like the famous Waikiki surf. It mostly looked like a flood. Boba's cup tipped sideways. A pearl rolled under a chair and had to be rescued.
-
-"Oops! That's just the welcome ocean!" Mano beamed, completely missing the way Mango pulled his sugar-frost blanket up to his eyes. "There's MORE!"
-
-"Maybe," said Boba, very softly, in the smallest pearl-voice you ever heard, "maybe we could just — sit? For a moment? We have been traveling for —"
-
-"SIT?" cried Mano, scandalized, as if Boba had suggested they all take a nap inside a volcano. "Nobody flew across an entire ocean to SIT! You flew here for FUN, and fun is what you shall HAVE, by the bucketful, until it comes out your ears!"
-
-Boba did not have ears. Boba decided not to mention this. Boba just sank a little lower in his cup.
+"SIT?" cried Mano. "Nobody flew across an ocean to SIT! Watch THIS!"
 
 ---
 
-There was, sadly, much more.
+He pressed a button. The hose on the ladder unleashed a giant wave across the lawn. WHOOOSH.
 
-Mano had planned the afternoon like a parade with no parking. He juggled three coconuts and dropped all three (one landed in the poi). He performed a hula so vigorous that his swirl-knot spun like a propeller. He played a ukulele he did not know how to play, which sounds exactly like a ukulele being interviewed by a startled cat.
+Boba's cup tipped sideways. One shiny pearl bounced free and went skittering across the wet grass.
 
-"And NOW," he announced, dragging out a frosted cake shaped like a volcano, "watch it ERUPT!" He poured in a fizzy fountain mixture. The cake gurgled. The cake hissed. The cake then sneezed a great gloop of pink frosting clean across the table and onto Yeguo, who now wore a small, sad frosting hat and looked exactly like a coconut jelly who would like to go home, please.
+"I'll get it!" hollered Mano, and belly-slid after it like a pillow on a water slide.
 
-"TA-DA!" said Mano, arms flung wide. Nobody clapped. A single drop of frosting slid off Yeguo's chin.
+He caught the pearl on his swirl-knot, slid under the table, and came out wearing the tablecloth.
 
-And then came the dares.
-
-"You HAVE to try the spiciest chili on the island!" Mano cried, waving a pepper so red it practically glowed. "It's a welcome tradition! Sort of! I made it up just now, but it's GREAT!"
-
-Little Mango shook from corner to corner so fast his frost shivered off in flakes. Yeguo hid behind the soy-sauce bottle. Boba's pearls clumped together in one nervous, shiny huddle.
-
-"No? Okay, BIGGER dare!" Mano hollered, not noticing. "Who can yell ALOHA the loudest? I'll start! ALOOOHAAA—"
-
-That was when he saw it.
-
-Mango's sleepy golden eyes had gone shimmery. Wet, even. The littlest cube of fruit at the table was about to cry, right there at the welcome-table, on the very first day, in the very loud backyard.
-
-Mano's swirl-knot stopped spinning.
-
-The drum went silent.
-
-And for the first time all day, Manapua Mano was quiet.
+"That's just the welcome ocean!" Mano beamed, dripping. "There's MORE!"
 
 ---
 
-He sat down on the grass with a soft *pomf,* like a pillow giving up. The wave-hose dripped. A rescued pearl rolled gently back to its cup. Somewhere a real, faraway ocean made the soft hushing sound that Mano had been trying — and totally failing — to copy with a garden hose.
+He juggled three coconuts. One landed in the poi. One landed in the drum. BONG.
 
-In the quiet, Mano heard something he had not heard all day.
+"And NOW," said Mano, dragging out a frosted volcano cake, "watch it ERUPT!"
 
-He heard his guests.
+The cake gurgled, hissed, and sneezed pink frosting across the table. Mango now wore a sad frosting hat.
 
-"...at home, the welcome is so small," Mango was whispering to Boba, his voice tiny. "Auntie just sits you down. She asks how you slept. She asks if you are hungry. She asks about your mother." He sniffled. "Nobody yells. Nobody throws coconuts."
+"TA-DA!" said Mano, arms wide. Nobody clapped. One drop of frosting slid slowly off Mango's chin.
 
-"I miss the questions," Boba whispered back, pearls trembling. "Here, nobody asked us anything. They just... performed AT us."
+"Now the spiciest pepper on the island!" Mano cried. "It's a tradition! I just made it up!"
 
-Yeguo wobbled sadly. "I do not even know our host's name," he said. "He never stopped to ask ours."
+Mango shook so hard his frost shivered off in flakes. His golden eyes went shimmery and wet.
 
-Oh.
-
-Oh, no.
-
-Manapua Mano felt his big soft heart fold up small. He had done a hundred loud things and not one quiet one. He had shown and shown and shown — and never once *asked.* He had thrown an entire ocean at three tired travelers without ever finding out if they liked the sea.
-
-A good host, he realized, with a *pomf* deep in his pork-sweet center, is not the most exciting person at the table.
-
-A good host is the best *listener* at the table.
-
-He thought about the whole loud day. The drum. The hose. The pepper that nobody wanted. The volcano cake that had frosted a guest's whole face. Every single thing on his very long list had been about *Mano* — Mano being big, Mano being fun, Mano being amazing. Not one single thing on the list had been a question. Not one thing had been about *them.*
-
-A welcome, he understood at last, is not a thing you perform. It is a thing you offer — quietly — with both hands open and both ears wide.
+The drum went silent. For the first time all day, Manapua Mano was quiet.
 
 ---
 
-So Mano did the bravest thing a loud bun can do.
+He sat down on the wet grass with a soft pomf. In the quiet, he heard his guests.
 
-He made himself smaller. He scooted close, gentle as a slipper. He set the drum down in the grass where it could nap. And then — softly, softly, softer than a steam-puff — he asked his very first question of the entire day.
+"At home, Auntie just sits you down," Mango was whispering. "Asks how you slept. Nobody throws coconuts."
 
-"How did you sleep?" Mano said.
+"Nobody asked us anything," Boba whispered back, pearls trembling. "They just performed AT us."
 
-That was all. Four little words. The quietest question in the whole backyard.
-
-Mango blinked. The shimmer in his eyes turned into something else — surprise, then a small, melting smile. "On the plane?" he said. "Not very well. I am scared of the bumpy parts."
-
-"The bumpy parts ARE scary," Mano agreed, and he did not boom it. He just said it. "What helps?"
-
-And — would you believe it — Mango told him. He told him about the song his auntie hummed. Boba leaned in and told Mano about the night market back home, the quiet kind, where you sit knee to knee and talk low. Yeguo wobbled forward and explained that **椰果** is made from coconut water, set soft and clear, and that he likes calm the way Mano liked noise.
-
-"I had it backwards all day," Mano whispered. "I thought welcome meant being the biggest thing in the yard."
-
-"It means making *us* feel big," Boba said gently. "By being curious about us."
-
-Mano's cheeks went rosier than ever. "Then I have about nine hundred questions," he said. "May I ask them slowly?"
-
-"Slowly," said Yeguo, settling into the grass, "is the best way."
+Oh. Oh, no. Mano's big soft heart folded up small.
 
 ---
 
-So the loud backyard turned into the coziest afternoon Waikiki had ever seen.
+He set the drum down to nap in the grass and scooted close, gentle as a slipper.
 
-They did not yell. They did not surf the garden hose. The spicy pepper was sent to bed early, all by itself.
+"How did you sleep?" asked Mano, softer than a steam-puff.
 
-Instead, Mano asked. He asked what made each traveler laugh, and what each one missed from home, and which star they liked best when they looked up. He learned that Boba bounced when he was happy, that Mango told jokes only once he felt safe (and they were terrible, perfect jokes), and that Yeguo could wobble in a way that meant *yes,* a way that meant *maybe,* and a way that meant *please tell me more.*
+Mango blinked. "On the plane? Not well. I'm scared of the bumpy parts."
 
-He learned that on cold nights, Boba's pearls liked to be warm and close together, and on hot nights they liked to swim in iced milk-tea. He learned that Mango came from a tree taller than Mano's whole house, and that the best mangoes always grew on the highest branch where only the bravest birds could reach. He learned that Yeguo's name, **椰果**, meant *coconut fruit,* and that back home he was famous for being the quietest one in the room — and the kindest. Each new thing felt, to Mano, like a tiny present he had not known he was being given.
+"The bumpy parts ARE scary," said Mano, and he did not boom it. "What helps?"
 
-And the best part was this: not one of these things had been on his list. Not one of them could be. You cannot put a friend's whole heart on a list. You can only ask, and wait, and listen, and be amazed.
+Mango told him about his auntie's song. Boba leaned in about the quiet night market back home.
 
-And the more Mano listened, the more his guests grew. Not bigger in size — bigger in glow. Mango's frost came back, sparkling. Boba's pearls un-huddled, loose and shiny and giggling. Yeguo wobbled the *please-tell-me-more* wobble until the stars came out.
+"I had it backwards," said Mano. "I thought welcome meant being the biggest thing in the yard."
 
-"Tell me one more thing," Mano whispered as the sky turned to peach. "What is *your* word for a person you are glad to have met?"
+"It means making us feel big," said Boba. "By being curious about us."
 
-The three travelers thought about it. Then Boba taught him a soft Mandarin word, and Mano taught them his.
+---
 
-When at last the sky went deep and purple, Mango reached up his small golden corner and patted Mano's pillowy side.
+So the loud backyard became the coziest afternoon Waikiki had ever seen.
 
-"You," he said sleepily, "are a true **hoaloha** (hoh-ah-LOH-hah) = friend."
+Boba, it turned out, bounced when happy. He bounced right into the drum. BONG.
 
-Mano's whole bun went warm clear through. He had wanted, all day, to be impressive. But *hoaloha* was so much better than impressive. Hoaloha you only earned the quiet way — one gentle question at a time.
+Mango told a terrible joke about a mango that wasn't peeling well. Mano laughed anyway.
 
-"I think," Mano said, tucking a blanket around three small, happy desserts, "the quietest question was the warmest welcome of all."
+"**朋友** (péngyǒu) = friend," said Boba, teaching Mano the word for somebody you're glad you met.
 
-And nobody — not one wobbly, frosty, pearly traveler — disagreed.
+"You," said Mango sleepily, patting Mano's pillowy side, "are a true **hoaloha** (hoh-ah-LOH-hah) = friend."
+
+The sky turned peach. Mano tucked a blanket around two small, dozing desserts.
+
+"The quietest question," he whispered, "was the warmest welcome of all."
 
 ---
 
 ## Goodnight Blessing
-May your loudest day end in the softest hush, little one. May you find the friends who ask how you slept — and may you remember to ask them, too. When the world wants you to be big and bright and booming, may you also be brave enough to be small and curious and kind. Tonight, let your questions rest. Let your wonder fold up soft as a steamed bun, and let your heart go warm clear through. You are welcome here. You are listened to here. You are, and always will be, a true hoaloha. Goodnight.
+May your loudest day end in the softest hush. May you find the friends who ask how you slept, and may you remember to ask them, too. You are welcome here. You are listened to. Goodnight.
 
 ## AI Image Prompts
-1. A pillowy white steamed bun with a swirl-knot on top sits suddenly quiet on a Waikiki lawn at golden hour, a giant drum resting in the grass beside him, while three tiny tired Taiwanese desserts — a cup of glossy black tapioca pearls, a frosted golden mango cube, and a clear wobbly coconut-jelly square — huddle together at a long welcome-table; warm storybook illustration, soft light, gentle emotion.
-2. Character portrait of Manapua Mano: a big soft round steamed bun, cloud-white and pillowy, with a little spiral swirl-knot on top, rosy steam-blush on both cheeks, two stubby flung-wide arms, a wisp of steam puffing off his head, kind huge eyes; cozy children's book style, tropical backyard background.
-3. Closing scene at dusk: the same backyard now calm and purple-skied, fairy lights and palm silhouettes, Manapua Mano leaning in close and listening as the three small desserts — pearls un-huddled and giggling, mango glowing with its frost back, coconut jelly wobbling happily — talk knee to knee under the first stars; tender, sleepy, glowing storybook illustration.
+1. Key scene — warm whimsical storybook illustration, bright Waikiki backyard: Manapua Mano, a big pillowy white steamed bun with a swirl-knot, belly-sliding across a flooded lawn after a single shiny black tapioca pearl, a garden hose strapped to a ladder spraying a giant wave behind him, a tipped bubble-tea cup of pearls and a small golden mango cube with a frosting hat watching from a long table under palms, a bathtub-sized drum in the grass; soft golden light, gentle humor.
+2. Character portrait — Manapua Mano: a big soft round steamed bun, cloud-white and pillowy, a spiral swirl-knot on top, rosy steam-blush on both cheeks, two stubby arms flung wide, a wisp of steam puffing off his head, kind huge eyes; cozy children's-book style, tropical backyard background.
+3. Closing scene — the same backyard under a peach late-afternoon sky, palm silhouettes, the drum napping in the grass: Manapua Mano leaning in close, listening, while Boba (a cup of glossy black pearls with a periscope straw) and Mango (a golden cube with sparkling sugar-frost) sit knee to knee under one blanket; tender, sleepy, glowing storybook illustration.
+
+## Animation Notes
+- **Cast:**
+  - `MANO` — Manapua Mano: a big round pillowy white steamed bun with a swirl-knot on top, rosy steam-blush cheeks, stubby arms, wisps of steam; voice: bouncy, loud, big-hearted.
+  - `BOBA` — Boba: a clear cup of glossy black tapioca pearls with a wide straw poking up like a periscope, small round shiny eyes on the front pearl; voice: small, soft, gentle.
+  - `MANGO` — Mango: a soft golden mango cube wrapped in a sparkly sugar-frost blanket, sleepy golden eyes, tiny corners for arms; voice: tiny, sleepy, sweet.
+- **Scenes:**
+  1. A Waikiki backyard in early morning: a long polished welcome-table under palms, a drum the size of a bathtub, a garden hose strapped to a ladder, a glowing-red pepper, a gecko on the fence.
+  2. The backyard gate in golden afternoon light, two small tired travelers arriving.
+  3. The lawn flooded by the hose wave, a tipped bubble-tea cup, one pearl skittering across wet grass, the table and tablecloth.
+  4. The welcome-table close up: three coconuts, a bowl of poi, a frosted volcano cake sneezing pink frosting, the drum.
+  5. The wet lawn beside the table, Mano sitting on the grass, the two travelers whispering together.
+  6. The grass beside the napping drum, Mano scooted close to the two travelers.
+  7. The backyard under a peach late-afternoon sky, palm silhouettes, one blanket over two small desserts.
+- **Budget:** 657 narrated words · 42 beats · 7 scenes · est. 4:51

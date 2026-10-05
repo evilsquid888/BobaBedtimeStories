@@ -4,7 +4,7 @@
 **Guest Characters:** Kori Kakigori, Momo Mochi, Rin Ramen, Maru Matcha, Tako & Yaki, Tama Onigiri, Dora the Dorayaki, Pock Ramune
 **Setting:** The observation deck atop Tokyo Skytree, clouds drifting below
 **Theme:** Looking down from high up makes worries feel small
-**Japanese Spotlight:** **Takai** (tah-kye) — tall, high
+**Japanese Spotlight:** **takai** (tah-kye) — tall, high
 
 ---
 

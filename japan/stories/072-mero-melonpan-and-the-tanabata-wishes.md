@@ -8,134 +8,119 @@
 
 ---
 
-Mero Melonpan was asleep on a bamboo branch.
+Mero Melonpan was dozing on a bamboo branch. Not under it. ON it, like a crackly blanket.
 
-Not on the ground beneath the bamboo branch — *on* it, draped across the swaying green pole like a warm, crackly-crusted blanket, snoring tiny puffs of melon-scented air. His golden cross-hatched crust caught the late afternoon light, and crumbs sparkled off him in slow, glittery drifts, like sleepy fireflies who had decided to retire early.
+"Meeero," hummed the breeze. "It's **Tanabata** (tah-nah-bah-tah) — the star festival. Everyone's coming."
 
-"Mero," whispered the breeze. "Meeero. It's **Tanabata** (tah-nah-bah-tah) — the star festival. Everyone's coming."
+"Five more minutes," murmured Mero. "There's a marshmallow staircase to a custard cloud, and the cloud's a hammock."
 
-"Five more minutes," Mero murmured. "I'm in the middle of the best dream. There's a marshmallow staircase, and it leads to a cloud made of custard, and the cloud is *also* a hammock—"
+The bamboo bent politely, and Mero tipped off, landing in a puffy heap on the warm street.
 
-The bamboo gave a polite little bend, and Mero rolled off it, landing in a puffy heap on the warm summer street.
+All down the street, bamboo poles fluttered with **tanzaku** (tahn-zah-koo) — wish-strips in pink, green, blue and yellow.
 
-"Crackle on the outside," he yawned, sitting up, "dreams on the inside."
-
-Then he looked around — and his sleepy eyes went perfectly round.
-
-The whole street was getting dressed up for the festival.
-
-Tall stalks of bamboo lined both sides of the road, swaying gently, and from their leaves dangled hundreds of **tanzaku** (tahn-zah-koo) — wish-papers — little rectangles in strawberry pink, melon green, soda blue, and sunshine yellow, each one waiting for a wish. Paper streamers spun lazily. Somewhere a lantern hummed awake. And above it all, where the sky was just beginning to deepen into evening blue, you could almost — *almost* — see the faintest dusting of stars getting ready to become the **ama-no-gawa** (ah-mah-no-gah-wah) — the Milky Way.
-
-"Oh," Mero breathed. "Oh, that's the best kind of awake."
+"Everybody's wish up on the bamboo before the first star," yawned Mero. "That's my job. After a nap."
 
 ---
 
-A worried little voice piped up near his elbow.
+A worried voice piped up. Manny, the smallest steamed bun, held a blank green strip.
 
-It was the smallest, shyest bun on the street — a plain steamed friend named Manny, round as a marshmallow and twice as nervous. Manny was holding a blank green wish-paper and a tiny brush, and his hands were shaking so hard the paper rustled like a leaf in a typhoon.
+"I can't," whispered Manny, strip rattling. "What if my wish is silly? What if the stars laugh?"
 
-"Mero," Manny whispered. "I can't do it."
+"Stars don't laugh," said Mero, flopping down beanbag-style. "They twinkle. That's a smile from far away."
 
-"Can't do what?" Mero blinked slowly, the way he did when he was waking a thought up gently.
+"What's the big quiet dream?" said Mero. "The one tucked in your soft middle, like filling."
 
-"The wish. On Tanabata you write your wish and tie it to the bamboo so the stars can read it. Everyone says the stars *grant* the ones they like best." Manny stared at the empty green paper as though it might bite him. "But what if I write it down and it's a silly wish? What if everyone *sees* it? What if the stars laugh?"
+"Bread," whispered Manny. "I want to bake bread for everyone, so nobody is ever hungry."
 
-Mero gave a long, dreamy hum. Then he flopped down beside Manny, comfy as a beanbag.
+"That's not silly," said Mero, eyes shimmering. "That's a wish with a warm crust and a soft heart."
 
-"You know," he said, "I have it on very good authority that stars do not laugh. They twinkle. Twinkling is just a star smiling so far away that it looks tiny. And a smile is exactly what you want a wish to land in."
-
-Manny sniffled. "But what should I even wish for?"
-
-"What do you dream about? The big quiet dream. The one you keep tucked in the soft middle, like filling."
-
-Manny was quiet for a long moment. Then, so softly Mero had to lean his whole crusty self in: "I want to learn to bake bread. For everyone. So nobody's ever hungry at bedtime."
-
-Mero's sleepy eyes shimmered. "Manny," he said warmly, "that is not a silly wish. That is a *delicious* wish. That is a wish with a warm crust and a soft heart, just like a really good melonpan." He passed the little brush back. "A written wish is just a dream you've decided to be brave enough to share. Write it. The stars love being trusted."
-
-Manny took a shaky breath. He dipped the brush. And in wobbly, careful letters, he wrote: *I wish to bake bread so no one is hungry.*
-
-When he finished, he looked up — and for the first time all evening, he was smiling.
-
-"There," said Mero. "Now let's hang it where the stars can find it."
+Manny dipped the brush and drew a wobbly loaf with steam curls. He smiled. First time all day.
 
 ---
 
-But here was the trouble, and it was the kind of trouble that arrives quietly and then waves a lot.
+Once Manny's loaf hung on the bamboo, everybody wanted one. And everybody was nervous.
 
-Once Manny tied his green wish-paper to the bamboo, *everyone* wanted to write one. And everyone, it turned out, was a little bit nervous about it, just like Manny had been.
+"Then we open the Melonpan Wish Workshop," announced Mero. "No wish too big. No laughing stars. I checked."
 
-A row of plump red-bean buns shuffled up, all of them holding blank papers and looking at their feet.
+Pock Ramune zipped up, fizzing. "My wish is ENORMOUS — pop! — and the strip is tiny!"
 
-"We don't know what to wish," they said together.
+"Big wishes are dreams that grew up strong," said Mero. "We'll make a bigger strip."
 
-Pock Ramune, a tall fizzy bottle of soda, zipped over, bubbles popping anxiously. "I have a wish but it's enormous and I'm worried the paper's too small — *pop!*"
-
-A tiny dumpling tugged Mero's crust. "I can't reach the high branches and my wish wants to go *high*."
-
-Mero looked at the growing crowd of nervous, paper-clutching friends, and then up at the bamboo, which was tall and swaying and full of empty branches reaching toward the sky.
-
-A lazier bun might have gone back to sleep.
-
-But Mero Melonpan, you should know, had a secret. Underneath all that drowsy dreaminess was a friend who *believed* in wishes the way other people believe in lunch. And so he stretched, cracked his sparkly crust, and announced in his soft, slow, half-dreaming voice:
-
-"Then we shall open the Melonpan Wish Workshop. Step right up. No wish too big, no wisher too small, and absolutely no laughing stars — I checked."
+They taped three blue strips into a long ribbon, and Pock drew a whale. A very big whale.
 
 ---
 
-The Wish Workshop was, frankly, the coziest chaos the street had ever seen.
+Then the evening wind came down the street in one warm WHOOSH.
 
-Mero set himself up beneath the tallest bamboo, dusting everyone lightly with sparkly crumbs (which he insisted were "good-luck glitter, perfectly safe, possibly delicious"). One by one, the nervous friends came forward.
+Pock's ribbon snapped taut, swooped up like a kite, and dragged Pock off his feet. "POP! WHEEE!"
 
-To the red-bean buns who didn't know what to wish, Mero said, "Don't *think* of a wish. Think of a feeling. What do you want *more* of?" The buns thought hard. "Friends," said one. "Naps," said another. "Sunday mornings that last all day," said a third, and everyone agreed that was an exceptionally good one. They wrote them down, every single one, and not a single wish was silly.
+The whale-kite swung through the bamboo and swept every wish-strip off the branches like confetti.
 
-To Pock Ramune, who worried his wish was too big, Mero said, "Big wishes are the best kind — they're just dreams that grew up strong. Write the whole thing. We'll find a bigger paper." And they did, taping three blue papers together into one long ribbon, so Pock's wish to *travel to the bottom of the sea and meet a whale* could fit, every fizzy word of it.
+Pink, green, blue, yellow, tumbling down the street. "MY LOAF!" wailed Manny, bouncing after it.
 
-And to the tiny dumpling who couldn't reach the high branches, Mero did something marvelous.
+Pock swooped, caught six strips in his bubbles, and crashed into the fountain. Fizz everywhere.
 
-He stretched.
+Manny caught his loaf on his head, lost it to a gust, and caught it in his mouth.
 
-Now, melonpan are not famous stretchers — that's more of a mochi thing — but Mero was so dreamily relaxed, so completely un-tense about the whole business, that when he reeeeached up toward the tallest branch, his soft body went *looong* like warm dough, and he lifted the little dumpling all the way up to where the highest leaves brushed the first evening stars.
-
-"Tie it there," Mero said, swaying gently. "Right where the sky can lean down and read it."
-
-The dumpling tied its wish to the very top. And just then — *just* then — the first true star of the night blinked on, right above the paper, as if it had been waiting.
-
-The whole street gasped a soft, happy gasp.
-
-"See?" Mero whispered, drifting back down to bun-shape. "The stars come closer when you're brave enough to write."
+The whale-kite snagged on the tip of the tallest bamboo, Manny's loaf fluttering beside it.
 
 ---
 
-By the time the sky was fully dark, the bamboo was *glowing*.
+Pock popped his marble and fizz-rocketed straight up. Past the top. Past the roof. "Too much pop!"
 
-Every branch fluttered with wish-papers — pink and green and blue and gold — and they rustled together in the warm summer breeze like the bamboo itself was whispering everyone's dreams up, up, up toward the great silver river of the ama-no-gawa, which now poured across the sky in a hush of stars.
+Manny hopped onto Pock's shoulders. Pock wobbled. Both tumbled into Mero, who was, somehow, dozing again.
 
-The friends gathered close at the foot of the bamboo, sleepy and proud, gazing up at their hopes hanging in the dark.
+"Mero," panted Manny, "the stars can't see our wishes from the gutter."
 
-"Mero," said little Manny, leaning against the warm bun's side. "You never wrote your own wish."
+Mero stood, yawned, and stretched. Melonpan aren't famous stretchers. But Mero was so relaxed. So un-tense.
 
-Mero smiled the slowest, softest smile. "Mm. I suppose I didn't."
+His soft body went looong like warm dough, up, up, lifting Manny to the highest leaves.
 
-He took the very last paper — a melon-green one, of course — and the tiny brush. And he thought, the way only a true dreamer thinks, with his whole cozy heart.
+Manny tied the loaf and the whale-ribbon to the very top, swaying.
 
-Then he wrote: *I wish everyone here learns that their dreams are worth sharing.*
+Just then the first star blinked on, right above the loaf, as if it had been waiting.
 
-He stretched up one last time and tied it to the branch, right in the middle, where all the others could see it. And the strangest, sweetest thing happened — every wish-paper on the bamboo seemed to rustle toward his, like leaves turning to the sun, as if all those brave little dreams had found their warm, crackly center at last.
+---
 
-"Crackle on the outside," Mero yawned happily, "dreams on the inside. And tonight — dreams on the *outside* too, hung up where the whole sky can see."
+The whole street gasped a soft, happy gasp, then hung every rescued wish back, higher than before.
 
-The friends cuddled close beneath the glowing bamboo, the stars wheeling slow and silver overhead, and one by one — beginning, naturally, with Mero — they drifted off to sleep right there on the warm summer street, dreaming dreams they were no longer afraid to share.
+"A wish you draw," said Mero, drifting back to bun-shape, "is a dream you dared to share."
+
+---
+
+By full dark the bamboo glowed, rustling dreams up toward the **ama-no-gawa** (ah-mah-no-gah-wah) — the Milky Way.
+
+"Mero," said Manny, leaning on his warm side. "You never drew your own wish."
+
+Mero took the last green strip and drew everyone, cuddled under the bamboo, with a star on top.
+
+He tied it in the middle. Every wish-strip rustled toward it, like leaves turning to the sun.
+
+"Crackle on the outside," yawned Mero, "dreams on the inside. And tonight, dreams on the outside too."
+
+Pock fizzed one last sleepy pop. Under the stars, one by one, beginning with Mero, they drifted off.
 
 ---
 
 ## Goodnight Blessing
-
-May your bravest little wish find its way onto a paper, and may that paper find its way up to the stars. May the night lean down close and read your heart, and twinkle back to say *I heard you.* Wherever your dreams hang glowing in the dark, may a warm and crackly friend always be near to lift you to the highest branch. Crackle softly, dream sweetly, and rest knowing every hope you dare to share is already halfway to coming true. Goodnight.
+May your bravest little wish find its way onto a paper strip, and may that strip find its way up to the stars. May the night lean down close and twinkle back: I heard you. Crackle softly, dream sweetly. Goodnight.
 
 ## AI Image Prompts
+1. Key scene — warm whimsical storybook illustration at summer dusk: a cozy street lined with tall swaying bamboo, a long ribbon of three blue paper strips with a huge doodled whale swooping through the air like a kite, dragging Pock Ramune (a frosty pale-blue glass soda bottle with a marble in its neck and bubble freckles) off his feet, hundreds of pink, green, blue and yellow wish-strips swept off the branches and tumbling down the street like confetti, a tiny round steamed bun bouncing after one with a doodled loaf on it, Mero Melonpan (a puffy domed bun with a crackly golden-green cross-hatched crust and sleepy eyes) dozing against the base of the tallest bamboo, lantern glow, palette of evening indigo, strawberry pink, melon green and warm gold.
+2. Character portrait — Mero Melonpan: a soft puffy domed bun with a crackly golden-green cross-hatched sugar crust, sleepy half-dreaming happy eyes, faintly smiling, his body stretched tall and soft like warm dough as he lifts a tiny steamed bun up toward the highest bamboo leaves, sparkly sugar crumbs drifting around him, warm cozy storybook style, dusky blue background with one bright friendly star.
+3. Closing scene — night on the summer street, a tall bamboo glowing with hundreds of pink, green, blue and gold wish-strips covered in little drawings under a deep sky brimming with the silver Milky Way, Mero Melonpan, a small round steamed bun and a pale-blue ramune bottle cuddled together in a cozy pile at its foot, eyes closed, soft lantern light, peaceful dreamy storybook mood.
 
-1. Key scene — Warm whimsical storybook illustration, soft watercolor-and-gouache style in a palette of evening indigo, strawberry pink, melon green, and warm lantern gold. A cozy summer street at dusk lined with tall swaying bamboo, hundreds of colorful tanzaku wish-papers fluttering from the branches. Mero Melonpan, a puffy domed bun with a crackly golden-green cross-hatched crust and sleepy happy eyes, stretches his soft body upward like warm dough to lift a tiny round dumpling toward the highest branch, where the very first star of the night is blinking on. Sparkly crumbs drift like fireflies. Gentle glowing lantern light, the faint Milky Way beginning above. Mood: tender, magical, hushed wonder.
-
-2. Character portrait — Mero Melonpan in a characteristic pose: a soft puffy domed bun with a crackly golden-green cross-hatched sugar crust, sleepy half-dreaming happy eyes, faintly smiling, holding a tiny brush and a melon-green wish-paper. A few sparkly sugar crumbs glittering around him. Warm cozy storybook style, soft rim-light, dusky blue background with one bright friendly star. He looks gentle, drowsy, and kind.
-
-3. Closing scene — A tall bamboo glowing with hundreds of pink, green, blue, and gold wish-papers under a deep night sky brimming with the silver Milky Way. At the foot of the bamboo, a little cluster of cute food-friends — buns, a fizzy soda bottle, a tiny dumpling — and Mero Melonpan all cuddled together, fast asleep in a cozy pile on the warm summer street. Soft lantern light, peaceful, dreamy, snug. Warm whimsical storybook palette, the whole scene wrapped in gentle starlight. Mood: deeply cozy, safe, and sleepy.
+## Animation Notes
+- **Cast:**
+  - `MERO` — Mero Melonpan: a puffy domed bun with a crackly golden-green cross-hatched crust, sleepy happy eyes, crumbs that sparkle, soft enough to stretch like warm dough; voice: soft, sleepy, dreamy.
+  - `MANNY` — Manny: the smallest plain steamed bun, round as a marshmallow, pale and smooth with a little pinched fold on top, big nervous eyes, holding a tiny brush; voice: small, shaky, hopeful.
+  - `POCK` — Pock Ramune: a frosty pale-blue glass ramune bottle with the marble in its neck, fizzy bubble freckles, a pop grin, zips about leaving a trail of bubbles; voice: zippy, giggly, fizzy.
+- **Scenes:**
+  1. A summer street in late golden afternoon, tall bamboo poles along both sides fluttering with colored paper strips, a few paper streamers, lanterns not yet lit.
+  2. The foot of a bamboo pole on the street, late afternoon light, a small table with brushes and ink and a pile of blank colored strips.
+  3. The same street as dusk begins, more treat-folk gathered with strips, Mero under the tallest bamboo, sparkly crumbs drifting.
+  4. The street at dusk in a warm wind: a long blue ribbon-kite swooping, wish-strips flying off the branches, a small stone fountain, rooftops.
+  5. The tallest bamboo pole at deep dusk, its tip far above the rooftops, a gutter at its base, the first star appearing in the darkening sky.
+  6. The street at blue dusk, wish-strips being hung back on the branches, lanterns coming on.
+  7. The street at night: the bamboo glowing with wish-strips, paper lanterns, the Milky Way spilled across a deep indigo sky, friends in a sleepy pile at its foot.
+- **Budget:** 681 narrated words · 40 beats · 7 scenes · est. 4:59

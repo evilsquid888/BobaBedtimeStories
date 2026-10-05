@@ -1,149 +1,133 @@
 # Story 95: Rin Ramen and the Farewell Feast
 
 **Main Character:** Rin Ramen
-**Guest Characters:** None
+**Guest Characters:** Maru Matcha, Momo Mochi, Dai Daruma, and the whole gang (Tama Onigiri, Niko Nigiri, Tako & Yaki, Kori Kakigori, Sora the Soft-Cream, Mero Melonpan, Dora the Dorayaki, Pock Ramune)
 **Setting:** A big communal table set for a grand farewell dinner
 **Theme:** A shared meal holds a whole friendship inside it
 **Japanese Spotlight:** **itadakimasu** (ee-tah-dah-kee-MAHS) — let's eat (thanks for the food)
 
 ---
 
-The longest table in the whole world had been set up under the stars, and Rin Ramen was standing on a stool in the middle of it, waving a wooden ladle like a tiny conductor with a very big orchestra.
+The longest table in the world had been set under the stars, lantern to lantern.
 
-"More steam!" Rin called, golden broth bubbling so hard that little puffs rose off the top of the bowl. "We need MORE STEAM, sweeties, this is a FAREWELL FEAST, not a Tuesday lunch!"
+In the middle, on a stool, stood Rin Ramen, waving a ladle like a tiny conductor.
 
-Rin was a steaming ceramic bowl on two stubby legs, with noodle-curl hair that bounced when excited, a soft-boiled egg for one cheek, a single corn freckle, and a little nori name-tag that read *Rin* in wobbly letters. When Rin felt big feelings — and tonight was the BIGGEST of feelings — actual steam curled off the top like happy little ghosts.
+"MORE STEAM!" he called, broth bubbling. "This is a FAREWELL FEAST, not a Tuesday lunch!"
 
-Because tonight was the night before everyone went home. The whole journey, all of it, was ending. And Rin had decided there was only one proper way to say goodbye.
+The table was six tables pushed together, and one wobbly one that was "basically fine."
 
-You cook.
-
----
-
-The table stretched longer than any table had a right to. It had been made by pushing together every table the friends could find — a market table, a picnic table, three little tea tables, and one very wobbly table that Tako and Yaki swore was "basically fine" right before it tipped a soy-sauce dish into Dai Daruma's lap.
+It tipped a soy dish straight into Dai Daruma's lap.
 
 "Fall down seven, bounce up eight!" said Dai, righting himself and the soy sauce both.
 
-Rin had been cooking since the afternoon. There was a pot of broth so big that Mero Melonpan had fallen asleep in the warm steam beside it twice, sighing, "Crackle on the outside... dreams on the inside..."
-
-There were noodles. Oh, there were *noodles.* Rin had made enough noodles to wrap around the moon and tuck it in.
-
-"Rin," said Maru Matcha, drifting over with her tiny bamboo whisk and her calm half-moon eyes. "You have been cooking for six hours. Whisk slow. Feel calm."
-
-"I CAN'T feel calm, Maru!" Rin slurp-laughed, and a noodle-curl bounced right into the broth. "This is the last supper of the whole adventure! Everything has to be PERFECT. Warm and bubbly and perfect!"
-
-Maru looked at the steam coming off Rin's head, which had begun to whistle very faintly, like a kettle that was thinking too hard.
-
-"Mm," she said gently. "Even the calmest tea was once boiling water."
-
-Rin had no idea what that meant, but it sounded nice, so Rin slurped happily and went back to stirring.
+Tomorrow everyone went home. Rin had a plan: make the feast so big the goodbye could never arrive.
 
 ---
 
-By the time the stars came out properly, the table was a wonder.
+His broth pot was taller than he was. He stirred it from a ladder.
 
-Tama Onigiri had packed little rice balls down the whole length of it. "I packed a little extra," Tama said, setting out the seventeenth tray. "Just in case." There was always a "just in case" with Tama. The "just in case" was usually the size of a small mountain.
+"Rin," said Maru Matcha, drifting over with her whisk. "Six hours of cooking. Whisk slow. Feel calm."
 
-Niko Nigiri arranged the dishes into tidy, perfect rows, his glossy salmon cape gleaming. "Let's do this neatly," he said, nudging a chopstick exactly one centimeter to the left, "...or deliciously!" Then a takoyaki rolled across the table and knocked all his tidy rows into a happy mess, and Niko had to take a deep breath and decide, for the hundredth time on this journey, to roll with it.
+"I CAN'T feel calm!" slurp-laughed Rin. A noodle-curl bounced off his head into the broth.
 
-"Roll us once," giggled Tako.
+"Even the calmest tea," said Maru, "was once boiling water."
 
-"—we come as two!" finished Yaki.
+Rin had no idea what that meant, but it sounded nice, so he kept stirring.
 
-Momo Mochi stretched her warm taffy arms all the way down the table to hug as many friends as she could reach at once. "Squish together," she said, rosy peach cheeks glowing, "stay together!"
-
-Kori Kakigori arrived last, of course, wearing tiny sunglasses even though it was nighttime. "Darlings," Kori announced, "I have arrived. You may relax." Then Kori sat one inch too close to the broth pot and immediately yelped, "TOO WARM, too warm, this is a MELTDOWN," and scooted three seats down to where Sora the Soft-Cream was sitting in the cool evening air going, "Soft swirls... slow smiles..."
-
-Everyone was there. Every single friend from the whole long journey. Rin looked down the table at all of them — laughing, squishing, bickering, bouncing — and the steam off Rin's head went very quiet and very thick all at once.
+Steam whistled faintly off his head, like a kettle thinking too hard.
 
 ---
 
-That was when something went wrong.
+Then down the lantern lane came the whole gang: a bouncing, fizzing, wobbling wave of little treat-friends.
 
-Rin lifted the giant ladle to serve the very first bowl... and froze.
+Momo Mochi stretched her taffy arms the entire length of the table and hugged everybody at once.
 
-The steam stopped rising.
+"Squish together, stay together!" she said, peach cheeks glowing.
 
-"Rin?" said Tama, gently. "You okay?"
+Rin made enough noodles to wrap around the moon and tuck it in. The table groaned softly.
 
-"I—" Rin's noodle-curls drooped. The bubbling broth went still and flat. "I don't want to serve it."
-
-The whole table went quiet.
-
-"If I serve it," Rin said, in a wobbly, un-bubbly voice, "then we eat it. And if we eat it, then dinner ends. And if dinner ends, then... then *everything* ends. And tomorrow everybody goes home." A single tear sizzled on Rin's warm cheek. "I made the feast so big I thought maybe it would never finish. Maybe if the bowl was big enough, the goodbye would never come."
-
-For a long moment nobody said anything. Even Pock Ramune, who literally could not sit still, went *(pop)* and then quiet.
-
-Then Maru Matcha set down her whisk.
-
-"Rin," she said softly. "May I tell you something I learned about tea?"
-
-Rin sniffed. "Okay."
-
-"When you make tea, you don't keep it forever. You drink it." Maru smiled her gentle half-moon smile. "The whole point of the warm cup is to share it while it's warm. That's not the sad part. That's the *best* part."
-
-"But then it's gone," Rin whispered.
-
-"Then it's *inside* us," said Maru. "Warm, all the way home."
+Rin looked down the table at every friend from the whole journey. His steam went thick and quiet.
 
 ---
 
-Dora the Dorayaki adjusted his cozy beret and leaned forward, red-bean smile soft. "You know, Rin," he said, in his best storyteller voice, "a good story is the best filling. And the thing about a story is — it doesn't end when you stop telling it. It keeps going inside the person who heard it."
+Rin lifted the giant ladle to serve the first bowl. And froze. The steam stopped.
 
-"That's exactly right," said Niko, standing very straight and proud. "A meal is the same. We won't be carrying *bowls* home tomorrow. We'll be carrying *this.*" He gestured down the whole laughing table. "Every slurp. Every silly noodle. Every soy sauce in Dai's lap."
+"If I serve it," said Rin, wobbly, "we eat it. Then dinner ends. Then everybody goes home."
 
-"Hey," said Dai, but he was grinning under his big determined eyebrows.
+A tear sizzled on his warm cheek. He plopped another mountain of noodles on the table instead.
 
-Tako and Yaki bounced up together. "A feast isn't a thing—"
+CREAK. The wobbly table folded like a tired knee.
 
-"—it's a *memory* with sauce on it!"
+Rice balls, dumplings and seventeen trays slid down the long table like a toboggan run.
 
-Momo Mochi stretched both arms the whole length of the table — *boing* — and gathered every single friend into one enormous, impossible, wobbling group squish, broth pot and all.
+Dai bounced under the broken leg and held it up with his head. "Bounce up EIGHT!"
 
-"Squish together," she said, "stay together. Even when we're far apart, we're still squished. Right *here.*" And she patted where a heart would be, which on a mochi is mostly just squish, but you know what she meant.
+Momo stretched both arms wide and caught the trays, flump flump flump, like a mochi net.
 
-Rin's steam came back. First a little curl. Then a big happy plume.
-
-"You're right," Rin sniffed, and slurp-laughed, the broth bubbling joyfully again. "You're ALL right. A meal isn't the end of a friendship. A meal is the friendship — the whole thing — in one bowl. And the only way to keep it..." Rin lifted the giant ladle high, steam streaming like a banner. "...is to share it!"
-
-"YES," roared the whole table.
-
-"So!" Rin filled the very first bowl to the brim, golden and steaming and perfect, and passed it down with both stubby arms. "Everybody, hands together! On the count of three, we say it loud, the way we always do before something wonderful!"
-
-Every friend pressed their hands (and paws and fins and stubby legs) together. Even Kori took off the sunglasses. Even Mero woke up.
-
-"One... two... three..."
-
-"**Itadakimasu!** (ee-tah-dah-kee-MAHS) — let's eat, thank you for the food!" the whole table shouted, so loud the stars seemed to lean in closer.
-
-And then — *slurp.*
+Then the great pot tipped. It slid, slow and enormous, toward the end of the table. Toward Rin.
 
 ---
 
-What a feast it was.
+Maru stepped up, raised her whisk, and tapped the pot once. It stopped, teetering over Rin's head.
 
-It was loud and warm and gloriously messy. Tama kept finding "just in case" extras under the table. Niko gave up on neat rows entirely and started a noodle-tower contest with Tako and Yaki, which he lost spectacularly and laughed harder than anyone. Pock Ramune fizzed so much from joy that bubbles drifted up and popped against the stars. Kori dramatically declared each bite "the COOLEST" while sitting as far from the broth as possible. Mero fell asleep mid-noodle and dreamed, he said later, of a bowl big enough to hug.
+Golden broth sloshed over the rim and dripped on his noodle-curls.
 
-And Rin Ramen sat at the very center, steaming gently, watching everybody eat the feast that had taken all day to make.
+"Rin," said Maru calmly. "Serve it, or wear it."
 
-Because here is the secret Rin finally understood, the one Maru had been whisking toward all along:
+Rin looked up at the whole wobbling feast he had tried to keep forever.
 
-The feast didn't make the goodbye sad.
+He lifted the ladle high and scooped the first bowl, straight out of the tipping pot.
 
-The feast made the goodbye *full.*
+The pot, lighter now, settled back with a sigh. Rin's steam came back in one happy plume.
 
-Down to the very last warm, slurpy, perfect drop — they finished it together. And not one single bit of it was lost. Every bowl was just one more thing they'd carry home, tucked warm inside them, all the long way back.
+"A feast isn't the end of a friendship," said Rin. "It IS the friendship. So share it!"
 
-"Everything's better warm and bubbly," Rin said softly, watching the last of the steam rise toward the stars.
+---
 
-And it was.
+"Everybody! Paws together!" called Rin. Paws, fins, arms and stubby legs pressed together down the table.
+
+"**Itadakimasu** (ee-tah-dah-kee-MAHS) — let's eat, thanks for the food!" roared the whole table, so loud the stars leaned in.
+
+And then: slurp.
+
+Dai challenged Momo to a noodle-tower contest and lost spectacularly, buried to the eyebrows.
+
+Bubbles drifted up from the fizzy end of the table and popped against the stars.
+
+Rin sat at the center, steaming gently, watching everyone eat the feast that took all day.
+
+---
+
+The last bowl emptied. The last steam curled up toward the moon.
+
+The feast hadn't made the goodbye sad. It had made the goodbye full.
+
+Friends leaned against friends down the whole long table, yawning, warm to the brim.
+
+"Everything's better warm and bubbly," said Rin softly. And it was.
 
 ---
 
 ## Goodnight Blessing
-May your day end the way a good meal ends — warm, full, and shared with someone who loves you. May every goodbye you ever say be less like a door closing and more like a bowl you carry home, still warm in your hands. Remember that the people you love don't leave you when they go; they tuck themselves somewhere soft inside, and stay. So close your sleepy eyes, little one, and feel how full your heart already is. The steam is settling. The table is quiet. The journey is done, and it was good. Goodnight.
+May your day end the way a good meal ends: warm, full, and shared. The people you love tuck themselves somewhere soft inside you and stay. The steam is settling. The table is quiet. Goodnight.
 
 ## AI Image Prompts
-1. A warm whimsical storybook scene at night under a sky of soft glowing stars: an impossibly long communal table made of mismatched smaller tables pushed together, piled with steaming ramen bowls, rice balls, and tiny dishes. At the center stands Rin Ramen — a cheerful ceramic ramen bowl with stubby legs, bouncy noodle-curl hair, a soft-boiled-egg cheek, and a nori name-tag — holding a giant wooden ladle high with happy steam streaming like a banner. Around the table, a whole cast of cute Japanese-food friends press their hands together joyfully. Palette of golden broth-amber, soft lantern-orange, and deep cozy night-blue. Mood: tender, celebratory, glowing. Kawaii storybook illustration style.
-2. Character portrait of Rin Ramen: a plump steaming ceramic ramen bowl on two short legs, golden broth swirling inside, curly noodle "hair" that bounces, one soft-boiled-egg cheek, a single corn freckle, and a little nori name-tag reading "Rin." Posed mid-slurp-laugh with a wooden ladle in one stubby arm and gentle puffs of happy steam curling off the top. Warm, hearty, big-feelings expression. Soft watercolor kawaii style, cream background.
-3. Cozy closing scene: the long table now quiet and nearly empty, dishes happily scattered, the last wisps of steam drifting up toward the stars. Rin Ramen sits peacefully at the center, eyes soft and content, surrounded by sleepy, full, contented food-friends leaning on each other — Momo Mochi mid-squish-hug, Mero Melonpan dozing, Maru Matcha smiling calmly with her little whisk. Warm dim lantern light, deep blue night, a feeling of fullness and gentle goodbye. Tender kawaii storybook illustration.
+1. Key scene — warm whimsical storybook illustration at night under soft glowing stars: an impossibly long table of mismatched tables under paper lanterns, one end collapsing, trays of rice balls sliding down it like a toboggan run, a giant steaming broth pot teetering at the edge above Rin Ramen (a ceramic ramen bowl on stubby legs with noodle-curl hair and an egg cheek), a jade-green matcha friend calmly tapping the pot with a tiny whisk, a snow-white mochi with stretched taffy arms catching trays, a round crimson daruma holding up a table leg with his head. Palette of broth-amber, lantern-orange and deep night-blue.
+2. Character portrait — Rin Ramen: a plump steaming ceramic ramen bowl on two short legs, golden broth swirling inside, curly noodle hair, one soft-boiled-egg cheek, a single corn freckle, a small plain nori tag, mid-slurp-laugh with a wooden ladle held high and happy steam curling off the top. Soft watercolor kawaii style, cream background.
+3. Closing scene — the long table now quiet under the moon and stars, bowls happily emptied, the last wisps of steam drifting up, Rin Ramen at the center with soft content eyes, a mochi, a matcha friend and a daruma leaning on him, and a colorful row of sleepy little treat-friends leaning on each other down the table. Warm dim lantern light, deep blue night, tender and full.
+
+## Animation Notes
+- **Cast:**
+  - `RIN` — Rin Ramen: a steaming ceramic ramen bowl on stubby legs, golden broth, noodle-curl hair, a soft-boiled-egg cheek, a corn freckle, a wooden ladle; voice: hearty, slurpy, dramatic.
+  - `MARU` — Maru Matcha: a small jade-green bowl-headed friend with a frothy matcha-cream swirl on top, calm half-moon eyes, a tiny bamboo whisk; voice: calm, deadpan, gentle.
+  - `MOMO` — Momo Mochi: a soft pillowy snow-white rice cake dusted with starch, rosy peach cheeks, arms that stretch like warm taffy; voice: warm, bouncy, affectionate.
+  - `DAI` — Dai Daruma: a round crimson dome-shaped daruma bun, big determined black eyebrows, one big painted eye and one blank cheek, tiny stubby arms; voice: peppy coach, bouncy.
+- **Scenes:**
+  1. Night: an enormously long table of mismatched tables under strings of paper lanterns and a starry sky, a stool in the middle, a soy dish, bowls and chopsticks.
+  2. Night, beside the table: a giant steaming broth pot with a ladder leaning on it, lantern glow, steam curling up.
+  3. Night: the lantern lane leading to the table, a colorful wave of little treat-friends arriving, heaps of noodles on the table.
+  4. Night: the table's wobbly end folding, trays sliding, the great pot tipping, lanterns swinging.
+  5. Night: the end of the table, the pot teetering over Rin, broth sloshing, a ladle lifting the first bowl.
+  6. Night: the full table at the feast, paws together, bowls steaming, a noodle tower, bubbles rising toward the stars.
+  7. Night: the quiet emptied table under the moon, lanterns dimmed, friends leaning together.
+- **Budget:** 656 narrated words · 43 beats · 7 scenes · est. 4:52

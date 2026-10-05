@@ -1,163 +1,135 @@
 # Story 98: Dai Daruma and the Second Painted Eye
 
 **Main Character:** Dai Daruma (daruma sweet-bean-paste manju)
-**Guest Characters:** None
+**Guest Characters:** Momo Mochi, Maru Matcha, Tama Onigiri, and the whole gang singing up the hill
 **Setting:** A little shrine at journey's end, where wishes are completed
 **Theme:** You finish a wish by finishing the work
 **Japanese Spotlight:** **yakusoku** (yah-koo-SOH-koo) — promise
 
 ---
 
-At the very top of a hill stitched with maple trees stood a tiny wooden shrine, no bigger than a candy stall, and rolling up the steps toward it came the roundest, reddest, most determined little bun in all the world.
+At the top of a hill stitched with maple trees stood a tiny wooden shrine.
 
-"Fall down seven," huffed Dai Daruma, wobbling up another stone step, "BOUNCE UP eight!"
+Up its stone steps came the roundest, reddest, most determined bun in the world.
 
-He bounced. He bonked his crimson dome on a lantern. He bounced anyway. You see, a daruma cannot really walk — he can only tip and tumble and right himself again, which makes climbing a hill rather like teaching a marble to march. But Dai had been marching all the same, all the way from the start of his long, long journey, and he was NOT going to stop one step from the end.
+"Fall down seven," huffed Dai Daruma, "BOUNCE UP eight!" He bonked his dome on a lantern.
 
-Tucked under his nubbin of an arm he carried a single thing: a small bottle of black ink and a brush no thicker than a noodle. And one of his two big determined eyes was still bare white. Empty. Waiting.
+Under his nubbin of an arm: a bottle of black ink and a noodle-thin brush.
 
-"Almost there," he wheezed. "Almost, almost, ALMOST—"
+One of his eyes was painted. The other was bare white. Today, he wanted it painted.
 
-He hit the top step and rolled clean across the shrine yard into a flowerpot.
-
-*Boink.*
+He hit the top step and tumbled across the yard into a flowerpot. Boink.
 
 ---
 
-It was, if you must know, a very small flowerpot, and Dai Daruma fit inside it like an egg in a cup, his stubby arms waving and his eyebrows scrunched into the bossiest frown a bun has ever frowned.
+He fit the flowerpot like an egg in a cup, arms waving.
 
-"This," he announced to the flowerpot, "is NOT how a hero arrives."
+"This," he told the flowerpot, "is NOT how a hero arrives."
 
-But nobody minded, because that is exactly how heroes arrive — upside down, out of breath, and slightly planted. The warm narrator would like you to know this is true of most heroes, and possibly your grandfather.
+Long ago, Dai had made a **yakusoku** (yah-koo-SOH-koo) — promise. Bring every friend safely home.
 
-A breeze tinkled the shrine bell. *Ting.* Dai wriggled free, brushed the soil off his dome, and looked up at the little shrine with its faded red gate.
+One eye painted when the promise begins. The other painted when the work is done.
 
-Long, long ago, when his journey first began, Dai had made a **yakusoku** (yah-koo-SOH-koo) — a promise. A daruma always does. You whisper your bravest wish, you paint in ONE eye to show the wish has begun — and you leave the OTHER eye blank. White. Empty. A patient little reminder that the work is not done yet.
+The friends were safe down the hill, arguing about snacks. The work was done.
 
-"One eye open to see the road," Dai liked to say, in his coach-voice. "One eye saved for the finish line."
-
-And here, at last, was the finish line.
-
-His wish had been a big one. The biggest. He had wished to journey all the way home — across markets and mountains, through rainstorms and ramen stalls — and to bring every one of his friends safely along, never leaving a single crumb of them behind. A whole adventure's worth of friends. A whole sticker-book of close calls.
-
-It had taken so long that Dai had nearly worn his roll-spot flat. There had been the night the bridge washed out and he'd bounced everyone across on his own round belly, one wobble at a time. There had been the foggy mountain pass where he'd kept the whole sleepy group marching by chanting "bounce up eight" until even the owls joined in. There had been a hundred small mornings of "just one more step, friends, just ONE more" — the unglamorous, undramatic, deeply daruma sort of bravery that nobody writes songs about but everybody quietly needs.
-
-He had done it.
-
-They were all here now, somewhere down the hill, setting out picnic mats and arguing cheerfully about snacks. And he, Dai Daruma, had rolled up alone to keep the last, quiet part of his promise.
-
-He uncorked the ink. He dipped the brush. He lifted it toward his blank eye.
-
-And his little arm froze.
+He uncorked the ink. He dipped the brush. He lifted it to his blank eye. And froze.
 
 ---
 
-"Hm," said Dai.
+"Paint the eye, you roly old bun!" he scolded himself. The brush would not come down.
 
-The brush wobbled. His painted eye stared bravely ahead. His blank eye stared at nothing, the way blank things do.
+Because finishing was scary. What is a daruma when his biggest wish is done?
 
-"What's the matter, you roly old bun?" he scolded himself, because scolding himself was his favorite hobby. "You climbed the whole hill! Paint the eye! Finish the wish! Fall down seven, bounce up—"
+"I just need a run-up," he told the shrine, and tipped into a frustrated circle.
 
-But the brush would not come down.
+He bonked the gate. The gate shook. The ink bottle wobbled, tipped, and rolled for the steps.
 
-Because — and Dai Daruma had not expected this — finishing was *scary.* Not monster-scary. Not dark-scary. Just that wobbly, tippy, top-of-the-hill feeling you get when a thing you've been doing for SO long is about to be done forever. What does a daruma do when his big wish is finished? Who is he then? Just a round red bun with two eyes and an empty ink bottle?
+"NO NO NO!" Dai bounced after it, eyebrows first.
 
-He set the brush down with a tiny *clack.*
+The bottle hopped down the steps. Dai bounced down the steps. The bottle was winning.
 
-"I'll finish it," he told the shrine. "I just need... a run-up."
+It vanished into a leaf drift. Dai dove in and came up wearing a leaf hat.
 
-So he did what darumas do best. He tipped over and rolled in a small frustrated circle. He bonked the gate. He bounced back up. He gave himself a stern pep talk in three voices. None of it helped one wobble.
-
-The bell went *ting* again, as if the shrine were politely clearing its throat.
+It shot between the legs of a stone lantern. Dai got wedged. BOING. Un-wedged.
 
 ---
 
-And that is when he heard the singing.
+At the bottom, the bottle clonked to a stop on the high ledge of the offering box.
 
-It came drifting up the hill — wobbly, off-key, joyful singing, the kind made by friends who have stopped caring whether they hit the notes. Pock Ramune was fizzing the chorus with little *pop!*s in all the wrong places. Kori Kakigori was holding a dramatic high note far too long and declaring it "the COOLEST note ever sung." Rin Ramen was steaming so hard with feeling that you could hear him bubble.
+Dai bounced for it. Short. Again. Shorter. A third time, and landed in a bucket.
 
-Up the steps they came, one by one, looking for their friend.
+Then came singing up the hill: wobbly, off-key, joyful. The whole gang, looking for him.
 
-Momo Mochi arrived first, pillowy and pink-cheeked, arms already stretching like warm taffy. "Dai! There you are, you brave little dumpling! Why'd you run off all alone? Squish together, stay together!"
+A taffy arm stretched up the whole hill and plucked the bottle off the ledge.
 
-"I had to keep my promise," said Dai, very seriously, sitting beside his ink and his brush and his unfinished eye. "Alone. It's a daruma thing. Very solemn. Very heroic. I—" He paused. "I have been stuck for twenty minutes."
+"Dai!" said Momo Mochi. "Why'd you run off alone, you brave little dumpling?"
 
-Maru Matcha drifted up the last step, calm as a still pond, her little bamboo whisk tucked behind her swirl of matcha-cream hair. She looked at the brush. She looked at the blank eye. She looked at Dai's scrunched, frightened eyebrows, and she understood the whole thing at once, the way she always did.
-
-"Whisk slow," she said gently. "Feel calm. What are you afraid of, little bun?"
-
-Dai's lip wobbled. "If I paint the eye," he whispered, "the wish is over. And then... what was it all FOR? What do I do when the bravest thing I ever wished is just... done?"
-
-For a moment nobody spoke. Even Pock Ramune stopped fizzing.
-
-Then Tama Onigiri, the comfy rice-ball with the pickled-plum blush, set down her little backpack and pulled out — what else — a snack. "I packed a little extra, just in case," she said, handing Dai a warm bun. "And here's a thing I think about every picnic: a promise isn't a cage you live in. It's a gift you give. You don't finish a gift and lose it. You finish it and you get to *hand it over.*"
-
-Dai blinked his one painted eye.
+"It's a solemn daruma thing," said Dai from the bucket. "I've been stuck for twenty minutes."
 
 ---
 
-"Look around, you wonderful worrywart," said Tako and Yaki together, bouncing in unison. "You wished us all home—"
+Maru Matcha looked at the brush, the blank eye, the frightened eyebrows, and understood.
 
-"—and we ARE home—"
+"Whisk slow," said Maru. "What are you afraid of, little bun?"
 
-"—every single one of us—"
+"If I paint it, the wish is over," whispered Dai. "Then what was it all FOR?"
 
-"—not a crumb left behind!"
+Tama Onigiri set down her backpack and pulled out, what else, a warm snack.
 
-It was true. Dai counted them. He counted Momo and Maru and Tama, Rin steaming happily, Kori under his sunglasses, the twins bonking foreheads, Pock leaving a trail of bubbles, and all the others puffing up the steps behind. Every friend. The whole sticker-book. Safe.
+"I packed extra," said Tama. "A promise isn't a cage. It's a gift you finish and give."
 
-"The wish wasn't about the eye," said Maru softly. "The eye is just the *thank-you note.* You already did the brave part. Every step. Every spill. Every time you fell down seven and bounced up eight, you were keeping your **yakusoku** without even painting a thing."
+"You did the brave part on the road," said Maru. "The eye just says: I did it."
 
-"The painting," added Tama, "is just where you get to say: I did it. With these guys. On purpose."
+Dai looked at the friends he had carried home. The wobble melted off him like frost.
 
-"And besides," said Momo, giving him the gentlest squish, "a finished wish doesn't leave you empty, silly bun. It leaves you *ready.* An empty ink bottle just means it's time to dream up the next brave thing. There's always another eye somewhere, waiting to be opened. That's the whole fun of being alive and round and full of pep."
-
-Dai Daruma looked down at his little brush. And then, very slowly, the scared wobbly feeling melted away, the way frost melts off a warm bun, and something steadier rose up in its place.
-
-"Then I won't do it alone," he decided.
-
-He held up the brush. "Momo — a steady squish to hold me still. Maru — count me slow. Everybody else—" his coach-voice came roaring back, full pep, "—when I finish, you CHEER like the COOLEST sky in the whole COOL world. That's an order. From your bossiest, roundest friend."
-
-"Stay cool, sweeties," sniffled Kori, already crying happy ice-water, "but not TOO cool."
-
-Momo wrapped a warm taffy arm around him. Maru lifted her whisk like a tiny conductor's wand.
-
-"Whisk slow," she breathed. "One..."
-
-Dai dipped the brush.
-
-"...two..."
-
-He raised it to the blank white eye. His arm did not freeze this time. His arm was sure.
-
-"...three."
+"Then I won't do it alone," he decided. "Momo, hold me. Maru, count. Everybody else, CHEER."
 
 ---
 
-The brush touched down. One smooth, brave, perfectly round stroke — and the second eye opened.
+Momo wrapped a taffy arm around him. Maru lifted her whisk like a wand.
 
-For one quiet heartbeat, Dai Daruma sat there with *both* eyes painted, both eyes open, looking out at the whole hill and the whole sky and every friend he had carried home, and he felt the way a firework must feel the very instant before it lights: full to bursting with the thing it was always for.
+"One," breathed Maru. Dai dipped the brush. "Two." He raised it. His arm was sure. "Three."
 
-Then the hill exploded with cheering.
+The brush touched down. One smooth, brave, perfectly round stroke. And the second eye opened.
 
-Pock Ramune popped his marble straight out of his neck. Rin Ramen steamed like a kettle of pure joy. The Dango Three did three pivots in a row and got dizzy. Kori hit his dramatic high note again, and this time everybody let him hold it. Tako and Yaki high-fived so hard they bounced into the flowerpot.
+"You finish a wish," said Dai softly, "by finishing the work."
 
-And Dai Daruma — both eyes shining, promise complete — tipped over backward into the soft pile of his friends, and for once did not bounce right back up. He didn't need to. He had arrived.
+The hill exploded with cheering and fizzing. Somebody's marble popped clean out.
+
+Dai tipped backward into a soft pile of friends and stayed there. He had arrived.
+
+---
 
 "I did it," he whispered, two eyes wide at the evening sky. "We did it."
 
-"Squish together," said Momo, gathering them all in, "stay together."
+"Squish together," said Momo, gathering everyone in, "stay together."
 
-The shrine bell went *ting,* very soft, as if to say: *promise kept.*
+The shrine bell went ting, very soft, as if to say: promise kept.
 
-And the maple leaves came down around them like the whole hill was clapping in slow, gold confetti, and a daruma with two open eyes watched every single one of them fall, and was not the least bit afraid of what came next — because what came next was friends, and snacks, and home.
+Maple leaves drifted down like gold confetti, and a daruma with two open eyes watched every one.
 
 ---
 
 ## Goodnight Blessing
-Little one, you have a promise tucked inside you too — something brave you started, with one eye open to the road. Keep going, step by wobbly step, and know that finishing a wish is not the end of the story but the warmest part: the part where you get to say "I did it," surrounded by the people who helped. Fall down seven, my darling, and bounce up eight, and let the rest wait sleepily for tomorrow. Tonight you are home, and you are held, and your second eye can rest. Goodnight.
+You have a promise tucked inside you too. Keep going, step by wobbly step. Tonight you are home, you are held, and your second eye can rest. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration: a tiny faded-red Japanese hilltop shrine at golden dusk, surrounded by drifting maple leaves like slow confetti. In the center, a round crimson dome-shaped daruma bun (Dai Daruma) with big determined eyebrows tips backward into a soft pile of cute food friends — a pillowy white mochi, a jade matcha-swirl friend with a tiny whisk, a steaming ramen bowl, a sunglasses-wearing shaved-ice mountain, twin golden takoyaki balls. Both of the daruma's eyes are freshly painted and shining. Soft amber lantern light, cozy reds and greens and gold, joyful celebratory mood, kawaii style.
-2. Character portrait: a glossy round crimson daruma manju bun (Dai Daruma) with big bold determined eyebrows, sitting upright and proud, holding a tiny noodle-thin brush in one stubby arm and a small bottle of black ink in the other. One eye boldly painted, the second eye mid-brushstroke. Rosy hopeful expression, soft fuzzy texture, warm storybook lighting, plain cream background, kawaii.
-3. Closing cozy scene: evening on the shrine hill, maple leaves falling gently in golden light. The little daruma rests on his back in a heap of snuggling dessert friends, both painted eyes calm and content, gazing up at a deepening twilight sky with the first stars. A small shrine bell glows softly nearby. Peaceful, sleepy, deeply warm and safe, muted gold and rose palette, storybook kawaii style.
+1. Key scene — warm whimsical storybook illustration: the long stone steps of a tiny hilltop shrine in golden afternoon light, maple leaves everywhere, a small bottle of black ink hopping down the steps ahead of Dai Daruma (a round crimson dome with huge determined eyebrows and one painted eye) bouncing after it wearing a maple-leaf hat, a stone lantern, a wooden offering box at the bottom, and far down the hill a snow-white mochi stretching one long taffy arm up toward the bottle. Cozy reds, golds and greens, joyful kawaii style.
+2. Character portrait — Dai Daruma: a glossy round crimson daruma manju bun with big bold determined eyebrows, sitting upright and proud, a noodle-thin brush in one stubby arm, both eyes freshly painted and shining for the first time, a soft pile of maple leaves around him. Rosy proud expression, warm storybook lighting, plain cream background.
+3. Closing scene — evening on the shrine hill, maple leaves falling gently in gold light: the little daruma resting on his back in a heap of snuggling friends, a mochi, a matcha friend with a tiny whisk and a plump rice ball with a nori sash, both painted eyes calm and content, a small shrine bell glowing softly, a deepening sky with the first stars. Peaceful, sleepy, deeply warm, muted gold and rose palette.
+
+## Animation Notes
+- **Cast:**
+  - `DAI` — Dai Daruma: a round crimson dome-shaped daruma bun, big determined black eyebrows, one big painted eye and one blank cheek until the climax, tiny stubby arms, an ink bottle and a thin brush; voice: peppy coach, bouncy.
+  - `MOMO` — Momo Mochi: a soft pillowy snow-white rice cake dusted with starch, rosy peach cheeks, arms that stretch like warm taffy; voice: warm, bouncy, affectionate.
+  - `MARU` — Maru Matcha: a small jade-green bowl-headed friend with a frothy matcha-cream swirl on top, calm half-moon eyes, a tiny bamboo whisk; voice: calm, deadpan, gentle.
+  - `TAMA` — Tama Onigiri: a plump triangle of white rice with a crisp black nori band like a sash, a pickled-plum blush on one cheek, a little backpack; voice: cozy, snacky, reliable.
+- **Scenes:**
+  1. Stone steps climbing a hill of red and gold maple trees to a tiny wooden shrine, golden afternoon light, a stone lantern on the steps.
+  2. The shrine yard at the top: a faded red gate, a small flowerpot, a shrine bell, a wooden painting ledge with an ink bottle and brush.
+  3. The shrine yard and the top of the steps: the gate shaking, the ink bottle rolling, drifts of maple leaves, a stone lantern.
+  4. The bottom of the steps: a wooden offering box with a high ledge, a bucket, the hill path below, the whole gang arriving as a colorful wave of little treat-friends.
+  5. The shrine yard in warm late light, the gang gathered, the brush and ink on the ledge, a backpack open with a snack.
+  6. The shrine yard close in: Dai held steady by a taffy arm, the brush touching his blank eye, both eyes painted, friends cheering and a pile of friends.
+  7. Evening on the shrine hill: deepening sky with first stars, the shrine bell, gold maple leaves drifting down over a sleepy pile of friends.
+- **Budget:** 666 narrated words · 44 beats · 7 scenes · est. 4:56

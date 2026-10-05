@@ -44,7 +44,7 @@ Now, if you have ever tried to make a shy creature like you, you already know th
 
 He waved.
 
-He waved his lucky paw as hard and as friendly as he possibly could. "HI YUKI! IT'S ME! I'M A CAT TOO! WAVE FOR LUCK!"
+He waved his lucky paw as hard and as friendly as he possibly could. "HI HANA! IT'S ME! I'M A CAT TOO! WAVE FOR LUCK!"
 
 Hana vanished behind the teapot so fast she knocked a saucer, which spun on the shelf — *wobble-wobble-wobble-CLINK* — and Neko-Pan winced. "Too loud," he realized. "Whoops."
 

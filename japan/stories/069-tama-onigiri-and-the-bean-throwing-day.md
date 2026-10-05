@@ -1,141 +1,126 @@
 # Story 69: Tama Onigiri and the Bean-Throwing Day
 
 **Main Character:** Tama Onigiri
-**Guest Characters:** None
+**Guest Characters:** Aoni, a tiny blueberry daifuku in a paper oni mask; Rin Ramen
 **Setting:** A cozy home celebrating Setsubun with friendly bean-throwing
 **Theme:** You can chase away worries with a giggle
-**Japanese Spotlight:** oni (oh-nee) — ogre (friendly!)
+**Japanese Spotlight:** **oni** (oh-nee) — ogre (friendly!)
 
 ---
 
-If you have never seen a triangle-shaped rice ball trying to wrap a wooden box of soybeans in a polka-dot napkin, then you have not visited Tama Onigiri on **Setsubun** (seh-tsoo-boon) — the bean-throwing day. There she was at sunrise, wobbling on her round little shoulders, her crisp black **nori** (noh-ree) — seaweed sash freshly straightened, the pickled-plum blush on her cheek glowing like a tiny pink lantern.
+Have you ever seen a rice ball wrap a bean box in a polka-dot napkin? Meet Tama Onigiri.
 
-"I packed a little extra, just in case!" Tama announced to the empty kitchen, because Tama always announced things to empty kitchens. He had packed extra beans. Extra mochi. Extra napkins. He had even packed an extra *spare* set of beans, in case the first extra beans got nervous and ran off — which, Tama reasoned sensibly, beans sometimes do.
+It was **Setsubun** (seh-tsoo-boon) — bean-throwing day. Tama had packed extra beans, extra napkins, extra everything.
 
-Today the friends would throw roasted soybeans out the door and shout, *"Out with the bad luck, in with the good!"* It was a very old custom, and Tama loved old customs the way some people love warm socks.
+"And a spare box," Tama told the empty kitchen, "in case these beans get nervous and run off."
 
-What Tama did *not* know was that someone was already hiding under her table.
+Today you fling soybeans out the door and shout the loud shout at the **oni** (oh-nee) — ogre.
 
-And that someone had the hiccups.
+"By lunch," said Tama, straightening her nori sash, "I want every friend inside, warm, and giggling."
 
-*Hic.*
+Hic. From under the table. Tama froze. Her sash slid slowly sideways. "Beans?" she whispered. "Nervous already?"
 
-Tama froze. Her nori sash slowly slid sideways. "Hello?" she whispered. "Is that the beans being nervous again?"
+---
 
-*Hic.* A soft, woolly little sound. Not bean-shaped at all.
+She lifted the tablecloth and found herself nose to nose with the smallest oni ever.
 
-Tama crouched down, lifted the edge of the table-cloth, and found himself nose-to-nose with the smallest, fuzziest, most worried-looking **oni** (oh-nee) — ogre she had ever seen.
-
-Now, an oni is *supposed* to be the scary fellow you throw beans at. Big horns. Big teeth. Big grumble. The kind of fellow who stomps around in the old stories making everyone's tea go cold. But this oni was the size of a teapot. His two little horns were soft and bendy, like uncooked noodles, and one of them had a curl at the end like a sleepy comma. His skin was a gentle blueberry blue, his tummy was as round as a dumpling, and he wore a tiny tiger-striped underpants that kept slipping down because he had clearly borrowed them from a much bigger, much braver oni and not bothered to ask. His eyes were enormous, wobbly, and brimming — the exact eyes of someone who very much wanted to cry but was being terribly brave about it.
+Well, a teapot-sized blueberry daifuku in a paper oni mask: bendy paper horns, enormous worried eyes.
 
 "AH!" said Tama.
 
-"AH!" said the oni, and ducked back under the table so fast he bonked his soft horn on the table leg. "Owie."
+"AH!" said the little oni, and bonked a paper horn on the table leg. "Owie."
 
-Tama pressed both rice-paddy hands to her cheeks. She had been told, all her life, that today was the day to chase oni *away*. But this oni did not need chasing. This oni needed a blanket and possibly a snack.
+"I'm Aoni," he sniffled. "Every year I wear the mask. Everyone throws beans and shuts the door."
 
-"I'm sorry," squeaked the little oni from under the table. "I — *hic* — I'll go. Everyone always throws beans at me. They shout the loud shout. And then they shut the door, and I sit outside in the cold and listen to all the *laughing* happening on the other side." He sniffled. "I just wanted to *hic* see what the fun was like. From the inside. Once. Just once."
+"I sit outside and hear the laughing," said Aoni, shorts slipping. "I just wanted the fun. From inside."
 
-Tama's heart did a small, soft flip, the way a rice ball's heart does when it meets someone who has been left out in the cold. He knew that feeling. Everybody, deep down, knows that feeling — the feeling of being on the wrong side of a happy door.
+Tama's plum blush went pink. She knew that feeling: the wrong side of a happy door.
 
-And then the littlest oni did the bravest, saddest, most teapot-sized thing. He started to tiptoe toward the door to leave the party he had never actually been invited to.
+---
 
-Tama Onigiri's plum-blush cheek went very pink indeed.
+Aoni tiptoed for the door. Tama plopped down in the doorway, round shoulders, spare beans and all.
 
-"Wait," said Tama. She plopped herself right down in the doorway — round shoulders, polka-dot napkin, spare beans and all — so the only way out was past her. "You can't leave. You just got here. And besides," she added, patting the floor beside her, "I packed a little extra."
+"You just got here," said Tama. "And besides, I packed a little extra. For you."
 
-The oni blinked. "Extra... what?"
+"Beans are for fun," said Tama, "not for scaring. Watch." She bonked a soybean off her own forehead.
 
-"Everything," said Tama warmly. "That's just how I am."
+Aoni snorted. Tama did it again and crossed her eyes. The snort became a giggle. The hiccups stopped.
 
-The oni crept closer. *Hic.* "But it's bean-throwing day. The beans are for — for getting rid of me."
+"A giggle is the best broom for sweeping out worries," said Tama. "Nobody's scared and giggly at once."
 
-Tama looked at the wooden box of roasted soybeans. She looked at the trembly, woolly, hiccuping little fellow with the bendy noodle-horns. Something in her cozy rice-ball heart simply would not allow it.
+Aoni wound up his whole tiny body and threw a bean straight into his own open mouth.
 
-"Tell you a secret?" Tama said, leaning in. "I think everyone's been doing this day all wrong."
+"It's DELICIOUS," gasped Aoni. "I always ran away before I tried one!"
 
-"You... do?"
+---
 
-"Beans are for *fun*," Tama declared, as if she had just decided it that very second (she had). "Not for scaring. Watch."
+The door burst open. "BEAN-THROWING TIIIIME!" hollered Rin Ramen, broth sloshing, a bean box under each arm.
 
-She scooped up a single soybean, took careful aim at her own forehead, and went *bonk.*
+Aoni dove behind Tama. A teapot behind a rice ball. Two paper horns poked out the top.
 
-There was a pause.
+"Oni horns!" cried Rin, winding up to throw. Aoni bolted for the rice cooker and dove in.
 
-The oni snorted. It was a tiny snort. But it was, undeniably, the beginning of a giggle.
+The lid rattled. The rice cooker began walking toward the back door. "The RICE is escaping!" wailed Rin.
 
-Tama did it again — *bonk* — and crossed her eyes. The oni's snort turned into a real laugh, a bubbly, woolly, hiccup-curing laugh, because here is a thing that not enough people know: **a giggle is the very best broom for sweeping out a worry.** You cannot feel scared and giggly at the same time. It is scientifically impossible. (Tama had not done the science. She just knew.)
+Aoni burst out, trailing rice, and dove into the spare bean box. The box scuttled across the floor.
 
-"Again! Again!" the oni cheered, his big eyes now shining for an entirely different reason. The hiccups were gone. Worry hates the sound of laughing and tends to sneak out the back door the moment it starts.
+"See?" said Tama, delighted. "I TOLD you beans get nervous and run off."
 
-"What's your name?" Tama asked between giggles, because Tama believed everyone deserved to be called by their name at least once before lunch.
+Rin chased the box. The box dodged. Rin slipped on spilled beans and SPLOSHED into a heap.
 
-The oni blinked, as though no one had ever asked him before. "Oh," he said softly. "Nobody's wondered that in a long while. I'm... Aoni. The little blue one." Ah-oh-nee. *Aoni.* An oni named Aoni — even his name was halfway to hiding. He wiggled a noodle-horn shyly. "Mostly people just shout 'OUT!' at me. I don't think that counts as a name."
+---
 
-"It does not," Tama agreed firmly. "Pleased to meet you, Aoni. I'm Tama. And I have decided we are friends now, so it's settled, and there's no use arguing with an onigiri once she's packed extra for you."
+The box tipped over. Out tumbled Aoni, mask crooked, beans balanced on both horns. Rin froze mid-fling.
 
-Aoni laughed — a real, round, happy laugh — and his slipping tiger-striped underpants slipped just a *little* bit more, which made them both laugh harder.
+Tama stood as tall as a triangle can stand and stepped in front of Aoni.
 
-"Your turn," said Tama, holding out the box. "But here's the new rule for our brand-new game. We don't throw beans to chase anybody *out*." She thought for a happy moment, tapping her round chin. "We throw them to invite the good stuff *in*. And the silliest throw wins. Bonus points for falling over."
+"New game," said Tama. "We don't throw beans to chase anyone out. We throw them to say hello."
 
-The oni picked up a bean in his soft blue fingers. He was so careful, so solemn, that Tama nearly burst. The little oni reared back his whole tiny body, wound up like a wobbly spring, and threw the bean —
+"H-hello," said Aoni, with a tiny wave. "I'm soft. My horns are paper. My shorts don't fit."
 
-— directly into his own open, laughing mouth.
+He tossed a bean up, wobbled in a circle, and caught it on his tummy. BOING.
 
-He chewed. His eyes went round. "It's *delicious*," he gasped, as though he had discovered a treasure. "I always ran away before I tried one!"
+Rin melted into a slurpy laugh. You simply cannot stay scared of that.
 
-That was when the rest of the morning tumbled in, because in a cozy home, mornings always do. Friends arrived to celebrate — and they arrived, as friends often do, with very loud good intentions.
+---
 
-"BEAN-THROWING TIIIIME!" hollered a voice from the porch. The door rattled. Box-lids rattled. There came the unmistakable sound of an entire party preparing to shout the loud shout and fling beans at anything ogre-shaped.
+"Out with the worries, in with the welcome!" shouted everyone, and beans flew up in happy showers.
 
-Aoni squeaked and dove behind Tama's round body, which, it must be said, was not a very large hiding place. A teapot behind a rice ball. Two soft horns poked out the top, and the slipping tiger-striped underpants poked out the bottom, so really the only thing properly hidden was Aoni's worried little nose.
+The Eyes-Closed Throw: a disaster. The Behind-the-Back Throw: worse. The Spin-and-Hope Throw: plip, into the teapot.
 
-Tama felt the small oni trembling against her back. And she felt something else, too — a warm, brave, plum-blush sort of certainty rising up from her rice-ball middle. She had spent the whole morning learning a beautiful lesson, and a good lesson is no good at all if you keep it in your pocket. It was time to share it.
+Aoni won with a bean on each horn and one on his nose, humming a wobbly victory hum.
 
-Tama Onigiri stood up as tall as a triangle can stand. She straightened her nori sash. And before a single friend could shout a single scary thing, she flung the door wide and announced, in her coziest, packs-extra-for-everyone voice:
+---
 
-"WELCOME, everyone, to the *brand-new* bean game! Today we are not throwing beans to chase anyone away." She stepped aside, gentle as a tucked-in blanket, and revealed the smallest, fuzziest, most hopeful oni in all the world. "Today we throw beans to say *hello.* This is my friend. He came all this way just to play."
+By lantern-time, Aoni was curled in the warmest corner under a napkin-blanket, horns drooping happily.
 
-There was a long, surprised silence on the porch. Beans hovered, mid-fling. Mouths hung open, mid-shout. One friend had a soybean balanced on the very tip of a thrown finger, frozen like a statue of someone about to do something they would have to apologize for.
+Rin poured warm tea. "Everything's better warm and bubbly," he hummed, steaming gently.
 
-Then Aoni, who had decided that being brave once today meant he could be brave again, gave a tiny wave and a tinier hiccup-y voice: "H-hello. I'm soft. My horns are noodles. My underpants don't fit. Would anyone like to see my silly throw?"
+"It's even cozier than I imagined," murmured Aoni. "Thank you for not throwing me out."
 
-And he tossed a bean straight up, spun in a wobbly circle, and caught it on his tummy with a *boing.*
-
-Well.
-
-You simply cannot stay scared of a teapot-sized ogre who catches beans on his tummy with a *boing.* The whole crowd melted like soft-serve on a summer afternoon. Someone laughed. Then everyone laughed. Beans began to fly — not at the oni, but *with* him, up into the air in great happy showers, while everybody shouted the *new* shout that Tama made up on the spot:
-
-*"Out with the worries — in with the welcome!"*
-
-They played the silliest-throw game until the floor was a polka-dot carpet of soybeans. There was the Behind-the-Back Throw (mostly a disaster). There was the Eyes-Closed Throw (entirely a disaster). There was the Spin-Around-Three-Times-and-Hope Throw, which sent one bean clear into the teapot with a tiny *plip*, and everyone agreed this was either the best throw or the worst throw, which is the very nicest kind of game.
-
-Aoni won, of course, with a throw so silly it ended with a bean balanced on each noodle-horn and one on the very tip of his nose, while he hummed a little victory hum and did a wobbly tummy-dance. He laughed so hard he hiccuped, and this time the hiccups were the *good* kind, the kind that come from a tummy that is finally, finally full of fun, and a heart that is full of friends.
-
-When the beans ran low, Tama — who had packed a little extra, just in case — produced her spare box with a flourish, and everyone cheered so loud the windows giggled in their frames.
-
-Somebody put on a pot of warm tea, and the friends who had come ready to chase an ogre away found themselves teaching that very ogre how to fold a napkin into a paper crane, laughing when his soft horns got in the way every single time.
-
-By the time the lanterns came on, Aoni was curled up in the warmest corner with a soybean snack and a borrowed napkin-blanket, his bendy horns drooping happily, his tiger-striped underpants finally, somehow, staying up, his worried eyes now soft and sleepy and home.
-
-"I came here," he murmured to Tama, "to see the fun from the inside."
-
-"And?" Tama whispered.
-
-The oni smiled the smile of a fellow who has finally been let in. "It's even cozier than I imagined. Thank you for not throwing me out."
-
-Tama tucked the napkin a little snugger around the little blue tummy. "We don't throw friends out," she said. "We pack extra room for them. Always."
-
-Outside, the last beans lay scattered like tiny good-luck stars across the floor. Inside, a roomful of friends — and one very happy ogre — drifted toward sleep, full of giggles and warm rice and welcome.
-
-And the worries? The worries had long since tiptoed out the back door, the way worries always do, the very moment somebody starts to laugh.
+"We don't throw friends out," whispered Tama, tucking the napkin snug. "We pack extra room for them. Always."
 
 ---
 
 ## Goodnight Blessing
-Little one, if a worry ever creeps under your table tonight, do not be afraid of it — just offer it a giggle and watch it tiptoe away. Remember that even the things we think are scary are often only small and soft and hoping to be welcomed in. Tuck your kindness around you like Tama's napkin-blanket, and make a little extra room in your heart, just in case. You are warm, you are wanted, and you are exactly the right amount of silly. Sleep soft and snug, brave and bright. Goodnight.
+Little one, if a worry creeps under your table tonight, offer it a giggle and watch it tiptoe away. Most scary things are small and soft and hoping to be let in. Leave a little extra room. Goodnight.
 
 ## AI Image Prompts
-1. A warm whimsical storybook scene in soft golden lantern light: a plump triangular white rice-ball character (Tama Onigiri) with a crisp black nori sash and a pink pickled-plum blush, sitting cross-legged in a cozy doorway beside a tiny, fuzzy blueberry-blue baby ogre with bendy noodle-soft horns and enormous shining eyes. Roasted soybeans scatter through the air like confetti. Cozy traditional home interior, paper screens, gentle shadows, palette of cream, plum-pink, soft blue, and honey-gold. Mood: tender, funny, and welcoming.
-2. Character portrait of Tama Onigiri: a round-shouldered triangle of warm white rice with a single crisp black nori sash, a tiny pink pickled-plum blush on one cheek, holding out a small wooden box of soybeans with a generous, motherly-cozy smile, a polka-dot napkin tied like a little bundle at her side. Soft storybook lighting, warm cream background.
-3. Cozy closing scene: the tiny blue ogre curled up asleep in a warm corner, wrapped in a polka-dot napkin-blanket, bendy horns drooping happily, a soybean snack beside him. Tama Onigiri tucks the blanket snug. Scattered soybeans glow like tiny stars across the floor, paper lanterns warm overhead. Palette of dim gold, soft blue, and gentle cream. Mood: sleepy, safe, and deeply content.
+1. Key scene — warm whimsical storybook illustration of a cozy Japanese home in morning light: a wooden bean box scuttling across the tatami floor on two tiny blue feet with paper oni horns poking out of the lid, Rin Ramen (a steaming ceramic bowl on stubby legs with noodle-curl hair) slipping on scattered roasted soybeans mid-chase, broth sloshing, Tama Onigiri (a plump triangle of white rice with a black nori sash and a pink plum blush) clapping with delight in the doorway, paper screens, palette of cream, plum-pink, soft blue and honey-gold.
+2. Character portrait — Tama Onigiri: a round-shouldered triangle of warm white rice with a single crisp black nori sash and a tiny pink pickled-plum blush on one cheek, bonking a single roasted soybean off her own forehead with crossed eyes and a huge cozy grin, a polka-dot napkin bundle at her side, soft storybook lighting, warm cream background.
+3. Closing scene — the cozy home at evening with paper lanterns glowing: a tiny blueberry-blue daifuku curled in a warm corner under a polka-dot napkin-blanket, cute paper oni mask pushed up on his head with bendy paper horns drooping, Tama Onigiri tucking the blanket snug, Rin Ramen steaming beside a teapot, roasted soybeans scattered across the floor like tiny good-luck stars, palette of dim gold, soft blue and cream, sleepy safe mood.
+
+## Animation Notes
+- **Cast:**
+  - `TAMA` — Tama Onigiri: a plump triangle of warm white rice with a single crisp black nori band like a sash, a tiny pickled-plum blush on one cheek, comfy round shoulders; voice: cozy, snacky, motherly.
+  - `AONI` — Aoni: a teapot-sized round blueberry-blue daifuku wearing a cute paper oni mask with two soft bendy paper horns (one curled at the tip), enormous wobbly eyes showing through, tiger-striped shorts that keep slipping; voice: tiny, hiccupy, hopeful.
+  - `RIN` — Rin Ramen: a steaming ceramic bowl on stubby legs, golden broth swirling, noodle-curl hair, a soft-boiled egg cheek, a corn freckle; voice: hearty, slurpy, dramatic.
+- **Scenes:**
+  1. Tama's cozy kitchen at sunrise: paper screens, a low table with a tablecloth, a wooden box of roasted soybeans, a polka-dot napkin, a teapot.
+  2. Under the low table, tablecloth lifted, warm morning light slanting in.
+  3. The front doorway, Tama sitting in it with the bean box, morning light through the paper door.
+  4. The kitchen and main room: front door flung open, a rice cooker on the counter, a back door, beans spilling across the tatami floor.
+  5. The main room floor with a tipped-over bean box and scattered soybeans, morning light.
+  6. The same room with beans flying up in showers, the teapot on the low table.
+  7. The room at evening, paper lanterns lit, a warm corner with a napkin-blanket, tea steaming on the table, beans scattered on the floor.
+- **Budget:** 679 narrated words · 40 beats · 7 scenes · est. 4:58

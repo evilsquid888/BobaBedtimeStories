@@ -1,139 +1,137 @@
 # Story 31: Honu Haupia and the Gentle Reef
 
 **Main Character:** Honu Haupia (coconut-pudding sea turtle)
-**Guest Characters:** Mac the Macadamia, Lilikoi Lani
+**Guest Characters:** Mac the Macadamia; Lilikoi Lani; Liko, a tiny yellow reef fish; a polka-dot pufferfish
 **Setting:** A bright, fishy coral reef in the warm shallows off Maui
 **Theme:** Caring for small creatures is caring for the whole sea.
-**Hawaiian Spotlight:** kai (KYE) = the sea / ocean
+**Hawaiian Spotlight:** **kai** (KYE) = the sea / ocean
 
 ---
 
-The morning the reef trip began, Lilikoi Lani put on her snorkel mask backward, looked through the strap, and announced, "Wow, the whole world has gone foggy and sideways! This is going to be the BEST day ever!"
+A warm Maui morning, the **kai** (KYE) = the sea sparkling turquoise and gold against the sand.
 
-"That's because your mask is on backward, little one," wobbled Honu Haupia, the snow-white coconut-pudding turtle, her jiggly haupia-square shell catching the sun. She gently spun the mask around with one slow flipper.
+Lilikoi Lani put her snorkel mask on backward and peered out through the strap.
 
-"AH! The world un-fogged itself!" Lani gasped, as if turtles performed miracles every Tuesday.
+"The whole world's gone foggy and sideways!" she announced. "BEST day ever!"
 
-Mac the Macadamia popped his glossy shell halfway open, peeked out at the glittering water, and popped it shut again. "Big water," he said quietly. "Very big."
+Honu Haupia, the snow-white pudding turtle, slowly turned the mask around with one flipper.
 
-The **kai** (KYE) = the sea sparkled before them, turquoise and gold, rolling in lazy little waves against the warm Maui sand. And down beneath those waves waited a coral reef so bright it looked like someone had spilled a whole rainbow and let the fish keep it.
+"AH! The world un-fogged itself!" gasped Lani, as if turtles did miracles every Tuesday.
 
-"Today," Honu Haupia said warmly, "we visit the gentle reef. Slow flippers, far journeys, keiki." She smiled her ancient turtle smile. "Hold my shell. The kai will show us wonders."
+Mac the Macadamia popped his shell open a crack, peeked at the water, and snapped it shut.
 
----
+"Big water," said Mac. "Very big. I'll hold your shell. I'm never letting go."
 
-They paddled out together, three unlikely swimmers bobbing on the bright water. Honu Haupia glided smooth as a cloud. Lilikoi Lani zipped in dizzy little loops, leaving a tangy-sweet scent trail that made the fish below sneeze in tiny bubbles. And Mac — well, Mac mostly floated, because a macadamia nut is built more for sinking than swimming, and he gripped Honu's shell with both little hands like it was the last cookie on the island.
-
-"Don't let go," Mac whispered.
-
-"I will not," Honu promised, slow and certain as the tide.
-
-When they dipped their faces beneath the surface, the whole world changed.
-
-The reef glowed. Coral fanned out in branchy purples and sunset oranges, like an underwater garden someone had been tending for a thousand years. Fish flickered everywhere — yellow tangs like floating lemon slices, parrotfish in blue party clothes, and a polka-dotted pufferfish who took one look at Lani's wild loops and puffed up in surprise like a startled water balloon.
-
-"WHOA," bubbled Lani. "He's a balloon! He's a grumpy little balloon! I love him!"
-
-"That is a humuhumu's cousin," Honu explained gently, naming the little fish. "He puffs when he is nervous. Be soft, and he will calm."
-
-Lani, who had exactly one speed (zoom) and one volume (loud), tried very hard to be soft. She slowed to a tiny zoom and whispered a tiny loud whisper. The pufferfish slowly deflated, eyeing her, and decided she was probably fine. Probably.
-
-Mac watched all of it from the safety of Honu's shell, his eyes wide as two little moons. "The reef is... not scary," he admitted. "It's pretty."
-
-"The kai takes care of the reef," Honu said, her voice rolling soft as a current. "And the reef takes care of the kai. Every fish, every coral, every grain of sand — all one **'ohana** (oh-HAH-nah) = family. Even the smallest neighbor matters most."
-
-"Even me?" Mac asked. "I'm the smallest neighbor I know."
-
-Honu turned her gentle, ancient eyes on him. "*Especially* you," she said.
-
-They glided on, past a cleaning station where tiny shrimp tidied up a sleepy grouper's teeth (the grouper looked deeply embarrassed about it), past a forest of swaying sea anemones, past a sea cucumber who, Lani insisted, "winked," though sea cucumbers do not have eyes and Honu chose not to ruin the moment.
-
-That was when they heard it.
-
-A small, sad, *fwip-fwip-fwip*. A frantic little flutter. The sound of something stuck.
+"Slow flippers, far journeys, keiki," said Honu. "Today the kai shows us wonders."
 
 ---
 
-Down in a shadowed nook of the coral, a tiny yellow fish was tangled in a stray scrap of net — an old bit of fishing line and plastic that had drifted in from who-knows-where and snagged on the reef. The little fish twisted and tugged, *fwip-fwip*, but the more he pulled, the tighter the net hugged him. His tiny fins flapped. His tiny mouth opened and closed.
+Out they paddled. Honu glided like a cloud. Lani zipped in dizzy loops. Mac mostly sank.
 
-"Oh no," Honu breathed.
+They dipped their faces under, and the whole world changed.
 
-"Oh no oh no oh NO," Lani echoed, her zoom forgotten entirely.
+The reef glowed: purple coral fans, orange branches, yellow tangs floating like lemon slices.
 
-The little fish was no bigger than a thumbnail. He was the smallest, plainest fish on the whole bright reef — not a fancy parrotfish, not a balloon-pufferfish, just a plain yellow speck. The kind of fish a person might swim right past without ever noticing.
+A polka-dot pufferfish took one look at Lani's loops and puffed up like a startled balloon.
 
-"He's so tiny," Lani said. "Does a fish that tiny even... matter?"
+"He's a grumpy little balloon!" bubbled Lani. "I LOVE him!"
 
-Honu Haupia stopped wobbling. She looked at Lani with eyes as old as the islands.
+"He puffs when nervous," said Honu. "Be soft, and he will calm."
 
-"Keiki," she said softly, "when one small creature hurts, the whole reef feels it. Pull one thread, and the net catches more. Save one small fish, and you keep the whole kai healthy. *That* is aloha — not just loving the big and beautiful, but protecting the smallest neighbor in the dark." She paused. "Caring for the little ones *is* caring for the sea."
-
-Lani went very quiet. For Lani, that was practically a miracle, too.
-
-But here was the trouble. Honu Haupia's flippers were soft and slow and made of pudding — perfect for gliding, terrible for untying knots. Lani's hands were tiny but too zippy and trembly to work a tangle. And the net was wedged into a crack in the coral so narrow that not one of them could reach inside.
-
-Not one of them... except a very small, very smooth, very round little nut.
-
-Everyone turned to look at Mac.
-
-Mac the Macadamia pulled his shell-helmet shut with a soft *click*.
+Lani tried a tiny zoom and a tiny loud whisper. The pufferfish deflated slowly, eyeing her.
 
 ---
 
-"Mac," Honu said gently. "You are small enough to fit. And your shell is hard enough to be safe. But only if you are willing."
+At a cleaning station, tiny shrimp tidied a grouper's teeth. The grouper looked deeply embarrassed.
 
-Inside his shell, Mac's heart went *pitter-pat*. The crack was dark. The net was scary. The water was big, oh, the water was so big. He was just a little nut. What could a little nut possibly do?
+"Every fish, every coral, one **ʻohana** (oh-HAH-nah) = family," said Honu. "The smallest neighbor matters most."
 
-And then he looked at the tiny yellow fish, who was looking back at him with two tiny frightened eyes — eyes that said, *please*.
+"Even me?" asked Mac from her shell. "I'm the smallest neighbor I know."
 
-Mac thought about what Honu had told him at the start of the swim. *Especially you.*
+"Especially you," said Honu.
 
-He took a deep bubbly breath. He popped his shell open just a crack — just enough to peek — and he said, in his quiet, brave little voice:
-
-"Small but mighty. Shell to heart."
-
-And he let go of Honu's back.
-
-Mac sank — *gloop* — down into the dark coral nook, rolling smooth as a marble. The net loomed. The little fish trembled. Mac reached out his tiny hands and began, very carefully, to work the tangle loose. One loop. He nudged it with his hard little shell. Two loops. A scary moment where the line snagged on his helmet and Mac nearly squeaked — but he held steady, slow and patient, just like a turtle had taught him. Three loops.
-
-"You can do it, Mac!" Lani cheered, and the whole reef seemed to hold its breath — the lemon tangs, the embarrassed grouper, even the pufferfish, who puffed up halfway and forgot to finish.
-
-Mac wedged his smooth round body under the last stubborn knot. He pushed. He pushed with everything a tiny nut had. And —
-
-*POP!*
-
-The net sprang loose. The little yellow fish shot free in a happy spiral, twirling and twirling, his tiny fins flapping in pure joy. He zipped a loop-the-loop around Mac's head, blew a stream of grateful bubbles right in his face, and darted off to tell every fish on the reef about the brave round hero who'd saved him.
-
-Mac floated there, stunned. "I... did it?"
-
-"You did it!" Honu wobbled with delight, her whole haupia shell jiggling like happy jelly. She scooped Mac gently onto her back and tucked the nasty net scrap safely against her shell to carry away, so it could never tangle another neighbor again.
-
-"YOU'RE A HERO!" Lani shrieked, doing eleven loops at once. "You're the smallest hero in the whole entire kai and that makes you the BIGGEST one!"
-
-Mac glowed pink inside his shell. "Sour first," he said shyly, borrowing Lani's catchphrase.
-
-"Sweet ALWAYS!" Lani finished, and hugged him so hard a few of his shell-flakes tinkled off.
+Then, from somewhere in the coral: fwip-fwip-fwip. The small sad sound of something stuck.
 
 ---
 
-They rode the warm waves back to shore as the sun melted gold across the kai. Honu Haupia moved slow and proud, her three friends bobbing along beside her, the rescued net tucked safe away.
+Lani zoomed into the anemone forest and came out giggling, stuck with tickly tentacles.
 
-On the warm sand, they flopped down in a happy, dripping, sandy pile.
+Honu peered under a sea cucumber. "He winked at me!" said Lani. Sea cucumbers have no eyes.
 
-"Honu," Mac said, gazing out at the glittering water. "I was scared. But I helped anyway."
+Mac pointed one tiny arm at a shadowed nook. "There," he whispered.
 
-"That," said Honu Haupia, with the softest smile in the sea, "is the bravest thing of all. The kai is enormous, little one. And today, one very small nut made all of it kinder." She wrapped a slow flipper around her friends. "Remember always: when you care for the tiniest neighbor, you care for the whole wide sea. That is aloha. That is 'ohana."
+A tiny yellow fish, no bigger than a thumbnail, twisted in a scrap of old net.
 
-Lilikoi Lani, all zoomed out for the very first time in her life, snuggled close, smelling of saltwater and tangy sweetness. "Best. Day. Ever," she yawned. "And my mask was even on the right way the whole time."
+"Oh no oh no oh NO," said Lani, her zoom forgotten entirely.
 
-And far out beneath the waves, on the gentle glowing reef, one tiny yellow fish swam free and safe and home — because three friends remembered that small things matter most.
+"He's so tiny," said Lani. "Does a fish that tiny even matter?"
+
+"When one small creature hurts," said Honu, "the whole reef feels it."
+
+---
+
+Honu reached in. Her pudding flipper wobbled, bent, and came back out with a snail on it.
+
+Lani zipped in, too zippy, and came out tangled in the net herself, upside down.
+
+"Sour first!" said Lani, dangling. "This is the sour part."
+
+Honu nudged her loose. The crack was too narrow for anyone... except a small round nut.
+
+Everyone looked at Mac. Click. His shell shut. The water was so big.
+
+Then two tiny frightened eyes looked up at him and said please without saying anything.
+
+"Small but mighty," whispered Mac. "Shell to heart." And he let go of Honu's shell.
+
+---
+
+Gloop. Down he sank into the dark nook, smooth as a pebble.
+
+One loop. Two loops. The line snagged his helmet. He held steady, slow as a turtle taught him.
+
+"You can do it, Mac!" cheered Lani. The pufferfish puffed halfway and forgot to finish.
+
+Mac wedged under the last knot and pushed with everything a tiny nut had. POP!
+
+Liko the little fish shot free in a happy spiral and blew grateful bubbles in Mac's face.
+
+"YOU'RE A HERO!" shrieked Lani, doing eleven loops at once. "Smallest in the kai, so the BIGGEST!"
+
+Honu tucked the net scrap under her shell to carry away, and scooped Mac onto her back.
+
+---
+
+On the warm sand they flopped in a dripping pile as the sun melted gold across the kai.
+
+"I was scared," said Mac. "But I helped anyway."
+
+"Care for the tiniest neighbor," said Honu, "and you care for the whole wide sea."
+
+Lani yawned, all zoomed out at last. "Best day. And my mask was on right."
 
 ---
 
 ## Goodnight Blessing
-May your dreams drift gentle as a turtle through warm and glowing water. May you remember, little one, that you are never too small to do something kind, and that the kindest things are often the quietest. The whole wide kai is held together by gentle hearts like yours. Sleep soft, sleep safe, wrapped up warm in 'ohana. Slow flippers, far journeys, sweet dreamer. Goodnight.
+May your dreams drift gentle as a turtle through warm glowing water. You are never too small to do something kind. Slow flippers, far journeys, sweet dreamer. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration: a snow-white coconut-pudding sea turtle (Honu Haupia) with a softly jiggling shell patterned in haupia squares, glowing gently underwater on a vibrant coral reef off Maui. Beside her, a tiny smooth cream-colored macadamia nut (Mac) with a half-open glossy shell-helmet, bravely reaching into a dark coral nook to free a tiny yellow fish tangled in a scrap of net. A small purple-wrinkly passion fruit (Lilikoi Lani) in a snorkel mask loops nearby trailing tangy-orange sparkles. Turquoise-and-gold light beams from the surface, rainbow coral, friendly fish. Palette: aqua, coral pink, lemon yellow, sunset orange, soft white. Mood: tender, hopeful, glowing.
-2. Character portrait: Honu Haupia the coconut-pudding sea turtle in a characteristic pose — gliding slowly and serenely through warm shallow water, flippers spread like she's floating on a cloud, ancient gentle eyes half-closed in a soft smile, snow-white wobbly haupia-square shell shimmering with a faint coconut sheen, tiny streams of light playing across her body. Calm, wise, motherly. Soft storybook style, dreamy blue-green underwater glow.
-3. Cozy closing scene: three friends flopped in a happy, dripping, sandy pile on a warm Maui beach at golden sunset — Honu Haupia the white pudding turtle in the middle with a slow flipper wrapped around her friends, tiny Mac the macadamia glowing proud, and Lilikoi Lani yawning and snuggled close. Behind them the kai sparkles gold and pink, with one tiny yellow fish leaping joyfully from a far wave. Warm, sleepy, safe. Soft golden light, gentle storybook style, deep feeling of 'ohana and rest.
+1. Key scene — warm whimsical storybook illustration, bright underwater daylight on a vibrant Maui coral reef: Mac the Macadamia (a tiny smooth cream-colored nut with a half-open glossy shell-helmet) wedged bravely into a dark coral nook, working loose a scrap of old net from a tiny yellow fish; above him Honu Haupia (a snow-white coconut-pudding sea turtle with a softly jiggling shell patterned in haupia squares) watches with gentle ancient eyes, and Lilikoi Lani (a small purple-wrinkly passion fruit in a snorkel mask) cheers mid-loop trailing tangy-orange sparkles. A polka-dot pufferfish puffed halfway, lemon-yellow tangs, purple coral fans, turquoise light beams. Palette: aqua, coral pink, lemon yellow, soft white. Tender, hopeful, glowing.
+2. Character portrait — Honu Haupia the coconut-pudding sea turtle gliding slowly through warm shallow water, flippers spread like she is floating on a cloud, ancient gentle eyes half-closed in a soft smile, snow-white wobbly haupia-square shell shimmering with a faint coconut sheen, soft light rippling across her. Calm, wise, grandmotherly. Dreamy blue-green underwater glow, soft storybook style.
+3. Closing scene — three friends flopped in a happy dripping pile on a warm Maui beach at golden sunset: Honu Haupia in the middle with one slow flipper wrapped around her friends, tiny Mac glowing proud on her shell, Lilikoi Lani yawning with her snorkel mask on the right way round. Behind them the sea sparkles gold and pink, one tiny yellow fish leaping from a far wave. Warm, sleepy, safe storybook mood.
+
+## Animation Notes
+- **Cast:**
+  - `HONU` — Honu Haupia: a snow-white coconut-pudding sea turtle with a softly jiggling shell patterned in haupia squares, gentle ancient eyes, slow flippers, a faint coconut shimmer; voice: calm, slow, ancient.
+  - `MAC` — Mac the Macadamia: a small smooth round cream-colored nut with a glossy brown shell he pops open and shut like a helmet, big shy eyes; voice: quiet, shy, brave.
+  - `LANI` — Lilikoi Lani: a small round purple-wrinkly passion fruit with bright tangy-orange seed sparkles, a snorkel mask, a mischievous grin; voice: zippy, cheeky, loud.
+  - `LIKO` — Liko: a tiny plain yellow reef fish no bigger than a thumbnail, big frightened eyes; no lines.
+- **Scenes:**
+  1. A warm Maui beach in bright morning light: turquoise and gold shallows, soft sand, a snorkel mask, the three friends at the water's edge.
+  2. Just beneath the surface of the shallows: a glowing coral reef, purple fans and orange branches, yellow tangs, a polka-dot pufferfish, sunbeams through clear water.
+  3. Deeper along the reef: a cleaning station with tiny shrimp and a big grouper, swaying coral, shafts of daylight.
+  4. A shadowy corner of the reef: an anemone forest, a sea cucumber, a narrow dark coral nook with a tiny yellow fish tangled in a scrap of net.
+  5. The same coral nook, close: Honu's flipper, Lani dangling upside down in the net, Mac on Honu's shell with his helmet shut.
+  6. Inside the dark nook: Mac working the net loose, the tiny fish, bubbles, the pufferfish and tangs watching from the bright reef beyond.
+  7. The Maui beach at golden sunset: warm sand, the sea sparkling gold and pink, the three friends in a sandy pile, a tiny fish leaping far out.
+- **Budget:** 661 narrated words · 45 beats · 7 scenes · est. 4:55

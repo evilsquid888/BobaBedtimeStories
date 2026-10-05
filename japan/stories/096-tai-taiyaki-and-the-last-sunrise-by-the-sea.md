@@ -1,119 +1,132 @@
 # Story 96: Tai Taiyaki and the Last Sunrise by the Sea
 
 **Main Character:** Tai Taiyaki
-**Guest Characters:** None
+**Guest Characters:** Kuma the Kuri, Maru Matcha, Dai Daruma; a fat scarf-stealing gull
 **Setting:** A quiet seaside cliff at dawn near the journey's end
 **Theme:** Endings are just sunrises in disguise
 **Japanese Spotlight:** **hinode** (hee-NO-deh) — sunrise
 
 ---
 
-Now, if you have ever tried to wake up a whole gang of sleepy desserts before dawn, you will know it is roughly as easy as folding fog into a neat little square. But Tai Taiyaki had a plan, a flashlight, and a fin that simply would not quit.
+Waking sleepy treats before dawn is like folding fog into a neat square.
 
-"PSST," he whispered, waddling between the snoring shapes of his friends. "Wake up, wake up, the BEST part of the whole adventure is about to happen!"
+But Tai Taiyaki had a flashlight, a plan, and a fin that would not quit.
 
-A grumble rolled out from under a blanket. "Tai," yawned Maru Matcha, "the moon is still wearing its pajamas."
+"PSST! Wake up! The BEST part of the adventure is about to happen!" he whispered.
 
-"Exactly!" Tai whispered, his crispy fin-tail wiggling with joy, his little red-bean heart glowing warm and sweet through his golden waffle smile. "We have to hurry, or we'll miss it. Swim toward the sweet stuff, everyone! Tonight the sweet stuff is the SKY."
+"Tai," yawned Maru Matcha from under a blanket, "the moon is still wearing its pajamas."
 
-And that, dear reader, is how six very sleepy snacks (and one extremely awake fish-cake) ended up climbing a cliff in the dark.
+"Exactly! Swim toward the sweet stuff! Today the sweet stuff is the SKY!" said Tai, red-bean heart glowing.
 
----
+He wanted every friend on the clifftop before the sun. The best seat in the world.
 
-It had been a very long journey. Across markets and mountains, through bubbling broth-springs and bouncing batter-festivals, the friends had wandered together for what felt like a hundred cozy days. And now they had reached the very edge of everything — a quiet seaside cliff where the land simply stopped and the ocean began, soft and gray and breathing in the dark.
-
-This was the end of the road. The journey home started after this. Everyone knew it, even if nobody had said it out loud.
-
-Tai led the way up the grassy path, his little waddle bouncing him along like a wind-up toy. Behind him came Momo Mochi, soft and snow-white, stretching her taffy arms to help the others up the steep bits. Then Maru Matcha with her tiny bamboo whisk, Rin Ramen sloshing gently and faintly steaming, Dai Daruma rolling and righting himself, rolling and righting himself, and Mero Melonpan, who was technically still asleep and being carried. Last of all came Kuma the Kuri, the small brave chestnut, sturdy and quiet in his autumn-leaf scarf, making sure nobody was left behind.
-
-"Are we there?" mumbled Mero, his crackly crust catching the starlight. "Crackle on the outside... dreams on the inside..."
-
-"Almost!" said Tai. "Up here. Right at the edge. The best seat in the whole wide world."
-
-They settled in a row on the cool grass at the cliff's brink. Below them, far down, the sea whispered against the rocks. Above them, the stars were beginning, very slowly, to dim.
-
-And that was when Kuma the Kuri started to cry.
-
-Now, Kuma was the quietest of the friends, the shy hero who only spoke up when it really mattered. So these were quiet tears too — tiny and round, slipping down his glossy mahogany cheeks and disappearing into his autumn-leaf scarf.
-
-"Kuma?" said Momo gently, scooting close. "What's wrong?"
-
-"It's just—" Kuma sniffled. "This is the LAST one. The last sunrise of the whole adventure. After this we all go home, to our own kitchens and our own corners, and... and maybe we won't all be together again." His fuzzy little cap trembled. "I'm not very good at change. I never have been. Endings feel like a campfire going out, and I'm small and roasty, and I don't want to be cold."
-
-A hush fell over the row of friends. Dai Daruma's brave eyebrows drooped. Mero woke up just enough to look sad. Even Maru's calm half-moon eyes went a little misty.
-
-Rin Ramen scooted over and wrapped one warm, stubby arm around the little chestnut, his steam settling over Kuma soft as a blanket. "Hey," Rin said gently. "Everything's better warm and bubbly — and any time you feel cold, little kuri, there's a seat for you right next to my broth. That's a promise."
-
-Tai Taiyaki looked at his friends, and his red-bean heart squeezed.
+Dai Daruma bounced up, bonked a lantern, and bounced up again. "Fall down seven! Let's climb!"
 
 ---
 
-But here is the thing about Tai. He was a fish-shaped cake who had spent his whole life "swimming" through the air on dry land, refusing to believe that not having water meant he couldn't have an ocean. Brave little Tai did not believe in cold endings. He believed in finding the sweet stuff, even in the middle of the salty.
+A daruma cannot walk, only tip and tumble. Climbing is like teaching a marble to march.
 
-"Friends," he said, standing up tall on his crispy tail. "Can I tell you a secret about the sea?"
+Dai bounced up three steps and tumbled down four. "Bounce up EIGHT!"
 
-Everyone sniffled and nodded.
+Kuma the Kuri came last, small and sturdy in his autumn-leaf scarf, minding the stragglers.
 
-"When I was very small," Tai said, "I thought the sun fell INTO the ocean every night. Plop! Gone. And I thought — how sad, that the day has to drown." He smiled his wide warm smile, and his red-bean heart glowed brighter. "But my grandmother — a very old, very crispy taiyaki — told me something. She said the sun does not drown. It swims. It swims all night, under the whole world, just to come up somewhere new the next morning."
+The sky over the sea went from black to the faintest gray. "Faster!" called Tai.
 
-"That's not strictly how the sun works," murmured Maru Matcha, because somebody had to say it, "...but go on."
+Then a fat gull swooped out of the dark and snatched Kuma's scarf clean off.
 
-"It's how FEELINGS work," said Tai. "Watch. Watch the **hinode** (hee-NO-deh) — the sunrise. And tell me if it looks like an ending."
+Kuma stood very still. Two tiny tears slid down his glossy cheeks.
 
----
+"It's not the scarf," he whispered. "It's the LAST sunrise. After this we all go home."
 
-They watched.
-
-The gray edge of the sea turned the softest, sleepiest shade of lavender. Then peach. Then a blushing, glowing rose — the exact pink of Momo Mochi's cheeks, in fact, which made Momo go *oooh* and squish her own face happily.
-
-"It's the color of ME," she breathed.
-
-"It's warm," whispered Kuma the Kuri, and his tears had stopped, because the sky was suddenly, impossibly warm, warmer than any campfire. The clouds caught fire in the gentlest way — golden, then amber, then a bright laughing yellow that spilled all the way across the water in a shimmering road of light, a glittering path that looked, Tai thought, almost like you could swim along it.
-
-And then — there. The very top edge of the sun lifted itself out of the sea.
-
-It did not look like an ending at all.
-
-It looked like a beginning waking up.
-
-Dai Daruma leapt to his round little feet, wobbled wildly, and righted himself with a triumphant bounce. "I GET IT!" he hollered, his painted eye gleaming. "Fall down seven, bounce up eight! The day fell DOWN last night — and now look! It bounced UP! The sun doesn't END, it just keeps getting up again!" He pumped a tiny fist. "Endings are just sunrises in disguise!"
-
-"Whisk slow," murmured Maru Matcha, her deadpan voice soft with wonder as she watched the light pour over her jade-green head. "Feel calm. The night was not goodbye to the day. It was just... the day going around to say hello on the other side."
-
-Mero Melonpan, fully awake now, sparkled all his sugar crumbs at once. "It's the most beautiful thing I've ever dreamed," he whispered, "and my eyes are open."
+"Endings feel like a campfire going out," said Kuma. "And I'm small. I'll be cold."
 
 ---
 
-The sun climbed higher, fat and golden and friendly, painting all seven friends in warm light. And one by one, they understood.
+Tai's heart squeezed. Then his fin twitched. "Nobody steals a sunrise from MY friend."
 
-"So when we go home," said Kuma the Kuri slowly, his cozy roasted glow coming back, "it isn't the sun going OUT."
+He launched off the path and swam through the air after the gull, waddling furiously.
 
-"It's the sun going AROUND," said Momo, stretching one taffy arm all the way down the row to gather everyone in close. "To shine somewhere new. And then it comes back. It always comes back. Squish together, stay together!"
+The gull dipped. Tai dipped. The gull looped. Tai looped, with a little less grace.
 
-They squished. They could not help it. Even Dai got squished, and he was very round and bouncy and made a delightful *boing* sound.
+The gull dropped the scarf on a ledge halfway down the cliff and flew off, smug.
 
-"Besides," said Tai Taiyaki, his fin-tail wiggling with mischief now, "who said the adventure is over? The road home is a brand-new adventure! We've never seen the way back. There's a whole RETURN trip full of sweet stuff we haven't even tasted yet!"
+Tai dove for it, caught the scarf in his mouth, and landed on the ledge. Stuck.
 
-"Putt-putt," said a small, fond voice — for somewhere down the hill, faithful little Kei the kei-truck had bumped her way up to wait for them, headlight eyes shining like two more tiny suns. "Let's GO!"
+"FALL DOWN SEVEN!" hollered Dai, and bounced straight off the edge to help.
 
-Everyone laughed, big and bubbly and warm, the kind of laugh that fills a whole sky.
+Now two of them were stuck.
 
-And as the hinode finished climbing into the morning, brave Tai Taiyaki stood at the very edge of the world with his red-bean heart glowing, looking not back at the ending, but forward at the bright, beginning road.
+"That's two," said Maru, peering over. "Nobody else jump."
 
-"Swim toward the sweet stuff," he whispered to the sun, to the sea, to his friends, to you.
+---
 
-And the sun, being a very good listener, swam right along with him.
+The sea turned lavender. The sun was coming, and half the gang was stuck.
+
+Kuma looked down. Kuma looked at the crumbly rock. Kuma took a breath.
+
+"Small and roasty," he said quietly. "Ready and toasty." And he climbed down.
+
+He wedged his sturdy chestnut body into a crack, round and firm, like a step.
+
+Tai climbed over him. Dai bounced over him. Kuma came up last, scarf snug again.
+
+"The shy one saved the brave ones," said Maru. "That is how it usually goes."
+
+They flopped in a row on the grass at the edge of everything. Just in time.
+
+---
+
+"Watch the **hinode** (hee-NO-deh) — sunrise," said Tai. "Tell me if it looks like an ending."
+
+The gray sea went peach, then rose, then a bright laughing gold.
+
+A shimmering road of light spilled across the water, straight to their cliff.
+
+Then the very top of the sun lifted itself out of the sea.
+
+It did not look like an ending. It looked like a beginning waking up.
+
+"I GET IT!" hollered Dai. "The day fell DOWN last night, and it bounced UP!"
+
+"That's not strictly how the sun works," murmured Maru. "But go on."
+
+---
+
+"My granny taiyaki said the sun never drowns," said Tai. "It swims around to somewhere new."
+
+Kuma's roasted glow came back. "So going home isn't the sun going out."
+
+"It's the sun going AROUND," said Tai. "Endings are just sunrises in disguise."
+
+They squished together in the warm light. Dai got squished too and went boing.
+
+"Besides," said Tai, fin wiggling, "the road home is a brand-new adventure!"
+
+The gull landed beside Kuma and dropped a shiny shell. Possibly an apology.
+
+"Swim toward the sweet stuff," Tai whispered to the sun. And the sun swam right along.
 
 ---
 
 ## Goodnight Blessing
-
-Little one, when the day folds up and the dark tucks you in, remember the secret Tai learned by the sea: the sun never drowns, it only swims around to wake somewhere new. Every goodbye is just a hello wearing its pajamas, and every ending is a sunrise getting dressed in the dark. So close your sleepy eyes without a single worry, because the morning is already on its way around the world to find you. You are warm, you are loved, and you are exactly where you belong. Squish in close to your blankets, brave little adventurer, and let the night carry you gently toward tomorrow. Goodnight.
+The sun never drowns, little one. It only swims around to wake somewhere new. Every ending is a sunrise getting dressed in the dark. Morning is already on its way to find you. Goodnight.
 
 ## AI Image Prompts
+1. Key scene — warm whimsical storybook illustration at gray-lavender dawn: a tall grassy seaside cliff with a narrow rock ledge halfway down, a golden fish-shaped taiyaki cake clutching an autumn-leaf scarf in his mouth beside a round crimson daruma with one painted eye, both stuck on the ledge, while a small glossy chestnut with a fuzzy cap wedges himself bravely into a crack below like a step, a jade-green matcha friend peering over the top with a tiny whisk, a fat grey gull wheeling away, the sea beginning to glow. Painterly storybook texture, tender hopeful mood.
+2. Character portrait — Tai Taiyaki: a cheerful golden fish-shaped waffle-cake with a crispy fin-tail and a warm visible red-bean heart, mid-swim through the air with a little waddle, fins spread wide, big bright optimistic eyes, a small flashlight tucked under one fin. Soft golden-hour backlighting, whimsical kawaii storybook style, softly blurred dawn sky.
+3. Closing scene — a full golden sunrise over a calm sea with a shimmering road of light across the water: four little friends squished together on the cliff edge, a taiyaki, a daruma, a matcha friend and a small chestnut in an autumn-leaf scarf holding a shiny shell, a fat gull sitting politely beside them. Warm amber light, peaceful, a quiet sense of a new beginning.
 
-1. Key scene — warm whimsical storybook illustration: seven adorable kawaii Japanese-dessert characters sitting in a cozy row on a grassy seaside cliff edge at dawn, watching an enormous glowing sunrise lift out of a calm shimmering ocean. The sky blooms lavender to peach to rose to brilliant gold, with a glittering golden path of light stretching across the water. Front and center, a cheerful golden fish-shaped taiyaki cake (Tai) stands proudly on his crispy fin-tail, his visible red-bean heart glowing warm. Soft dewy grass, gentle morning mist, painterly storybook texture, tender hopeful mood, dawn light spilling over everyone's faces.
-
-2. Character portrait — Tai Taiyaki, a cheerful golden fish-shaped waffle-cake with a crispy fin-tail and a warm visible red-bean heart, captured mid-"swim" through the air with a little waddle, fins spread wide and joyful, big bright optimistic eyes, his red-bean heart glowing through his wide smile. Soft golden-hour backlighting, sparkles of warm steam, whimsical kawaii storybook style, against a softly blurred dawn-sky background.
-
-3. Closing scene — the cozy ending moment: Tai Taiyaki standing alone at the very edge of the cliff, small and brave, silhouetted against a huge gentle golden sunrise, gazing forward toward a glowing road of light over the sea. Behind him, his friends squished together in a happy warm hug pile, and a tiny round butter-yellow kei-truck with glowing headlight eyes waiting at the bottom of the grassy hill. Peaceful, hopeful, warm amber lighting, soft painterly storybook style, a quiet sense of a new beginning.
+## Animation Notes
+- **Cast:**
+  - `TAI` — Tai Taiyaki: a cheerful golden fish-shaped waffle-cake with a crispy fin-tail and a glowing red-bean heart visible when he smiles, a small flashlight; voice: splashy, brave, bubbly.
+  - `KUMA` — Kuma the Kuri: a glossy mahogany chestnut with a fuzzy little cap and an autumn-leaf scarf, round and sturdy, soft shy eyes; voice: soft, quiet, brave.
+  - `MARU` — Maru Matcha: a small jade-green bowl-headed friend with a frothy matcha-cream swirl on top, calm half-moon eyes, a tiny bamboo whisk; voice: calm, deadpan, gentle.
+  - `DAI` — Dai Daruma: a round crimson dome-shaped daruma bun, big determined black eyebrows, one big painted eye and one blank cheek, tiny stubby arms; voice: peppy coach, bouncy.
+- **Scenes:**
+  1. Night, pre-dawn: a little campsite of blankets and a dim lantern at the foot of a grassy seaside cliff, a fading moon, a flashlight beam.
+  2. The dark grassy cliff path with rough stone steps, the sea below turning faintest gray, a fat grey gull swooping.
+  3. The cliff edge at gray dawn: a narrow rock ledge halfway down the cliff face, waves on the rocks far below, the gull wheeling.
+  4. The cliff face in lavender light: a crumbly crack in the rock, the ledge, the grassy clifftop just above.
+  5. The clifftop at sunrise: the sea going peach, rose and gold, a shimmering road of light on the water, the sun's rim lifting from the sea.
+  6. The clifftop in full golden morning light, four friends in a row on dewy grass, a gull with a shiny shell.
+- **Budget:** 654 narrated words · 44 beats · 6 scenes · est. 4:52

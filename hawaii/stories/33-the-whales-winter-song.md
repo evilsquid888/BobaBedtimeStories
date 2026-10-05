@@ -1,171 +1,139 @@
 # Story 33: The Whale's Winter Song
 
 **Main Character:** Poi Popo
-**Guest Characters:** Honu Haupia
+**Guest Characters:** Honu Haupia; Manapua Mano; Niu the Coconut; a mother kohola and her calf; a crab who stays
 **Setting:** A whale-watching cove off Maui in winter
 **Theme:** Some friends travel far and always come home.
-**Hawaiian Spotlight:** kohola (koh-HOH-lah) = humpback whale
+**Hawaiian Spotlight:** **kohola** (koh-HOH-lah) = humpback whale
 
 ---
 
-On the coldest, coziest morning of winter, a soft lavender-grey mound of pounded taro went rolling down to the sea wearing a flower lei and a very serious hat.
+On the coldest, coziest winter morning, a soft lavender cloud of taro drifted downhill wearing a flower lei.
 
-"Faster, Popo, faster!" squealed three little keiki desserts bouncing behind her. "We'll miss them!"
+"Faster, Popo, faster!" squeaked Manapua Mano, bouncing past her. "We'll miss the whales!"
 
-Poi Popo did not go faster. Poi Popo had never gone faster in her entire life, which was about four hundred years. She moved like a slow purple cloud that had decided, after careful thought, to drift toward a cove on Maui where the water was bluest and the morning smelled of salt and sleepy waves.
+Poi Popo went as fast as ever, which was slow, and had been for four hundred years.
 
-"Auwe, keiki," she chuckled, her whole soft body wobbling. "**Keiki** (KAY-kee) = children, the kohola have been swimming for two thousand miles. They will wait the extra minute it takes an old taro to get down a hill."
+"The **kohola** (koh-HOH-lah) = humpback whale swam two thousand miles," said Popo. "They can wait one more minute."
 
-A bouncy steamed bun named Manapua Mano tumbled past her, rolled into a tide pool, and popped back up wearing a tiny crab as a hat.
+Manapua bounced into a tide pool and popped back up wearing a tiny crab as a hat.
 
 "I'm okay!" he announced. "The crab disagrees!"
 
----
-
-The cove was a perfect blue bowl tucked between two cliffs, and the water was so still it looked like spilled sky. Poi Popo settled herself on a warm flat rock the way grandparents settle into a favorite chair — slowly, happily, and with a great contented sigh.
-
-The keiki gathered close: a wobbly little haupia turtle named Honu Haupia, two giggling mochi twins, and Manapua Mano, who was already wondering aloud whether whales liked steamed buns.
-
-"They eat krill," said Honu Haupia in her calm, ancient voice. She glided forward on slow flippers, her snow-white pudding-shell jiggling with each gentle step. "Tiny shrimp. Smaller than your swirl-knot, Manapua."
-
-"Whew," said Manapua, patting his swirl-knot protectively. "Safe."
-
-Poi Popo smiled and looked out at the water. "Watch now, little ones. Watch the place where the sea meets the sky. Soon you will see why winter is the most wonderful season in all the islands."
-
-The keiki watched. And watched. And watched.
-
-A wave rolled in. A seagull burped. Far away, a fish jumped and landed with a *plip* that was very unimpressive.
-
-"Is that it?" whispered one mochi twin.
-
-"That was a fish," said Honu Haupia kindly.
-
-The other mochi twin squinted hopefully at the horizon. "Maybe THAT'S a whale," she said, pointing.
-
-"That's a coconut," said Honu Haupia.
-
-"Maybe it's a whale dressed as a coconut."
-
-"It is Niu the Coconut," sighed Honu Haupia, "and he is floating out to wave hello, and now he is stuck, and he is very embarrassed about it."
-
-Far out in the cove, a small brown shaggy coconut bobbed past, spinning slowly, his tiny woven hat askew. "Tough shell, sweet heart!" Niu called bravely as the current carried him in a circle. "I MEANT to do this!"
-
-The keiki slumped. Manapua flopped over backward like a deflated dumpling. "I waited a WHOLE minute," he groaned, "and all I got was a rude fish."
-
-Poi Popo laughed her deep, earthy laugh, the one that smelled of taro fields and old island rain. "Patience, keiki. The greatest travelers in the world are coming home, and they do not hurry. Neither do I. Let me tell you a story while we wait — the story of the **kohola** (koh-HOH-lah) = humpback whale, and the song they sing across the whole wide ocean."
+Honu Haupia glided behind, pudding shell jiggling. "Slow flippers, far journeys," she said.
 
 ---
 
-"Long ago," Poi Popo began, settling deeper into her warm rock, "when these islands were young and Pele's Glow still painted new land beneath the stars, the kohola made a promise to the sea.
+The cove was a blue bowl between two cliffs, the water so still it looked like spilled sky.
 
-"In the summer, they swim far, far north — all the way to Alaska, where the water is icy and grey and full of food. They grow big. They grow strong. They eat enough krill to fill ten thousand poke bowls."
+"Watch where sea meets sky, **keiki** (KAY-kee) = little ones," said Popo. "Winter's wonder is coming."
 
-"That's a lot of bowls," Manapua said reverently. He thought about it. "Could I fit in a poke bowl?"
+They watched. A wave rolled in. A seagull burped. A fish jumped with an unimpressive plip.
 
-"You are a steamed bun," said Honu Haupia.
+"Is THAT a whale?" said Manapua, pointing far out.
 
-"A *hopeful* steamed bun," said Manapua.
+"That is a coconut," said Honu.
 
-"It is. And while they are up north, they think of home. They think of the warm blue waters of Hawaii — the very cove where you are sitting now. And do you know what they do?"
+"Maybe it's a whale dressed as a coconut," said Manapua.
 
-The keiki shook their heads.
-
-"They sing." Poi Popo closed her gentle ancient eyes. "Every winter, the kohola swim two thousand miles back to these islands to have their babies in the warm shallows. And the whole way, the fathers and uncles sing the longest, most beautiful song in the world. It can last for hours. And here is the magic, keiki — every kohola in the ocean sings the *same* song. They learn it from each other across thousands of miles of dark water. When one whale changes a note, soon all the whales are singing the new note too."
-
-Honu Haupia nodded slowly, her gentle eyes shining. "**Mele** (MEH-leh) = song," she murmured. "The oldest mele in the sea."
-
-"Just so," said Poi Popo. "And no matter how far they swim, no matter how cold and grey the north becomes, the kohola always, always come home. Because home is where the song is. Home is where the ohana waits."
-
-For a moment the cove was very quiet. Even the rude fish seemed to be listening.
-
-Then Manapua sniffled. "That's the nicest thing I ever heard. Can I hug the whale?"
-
-"The whale is forty tons, keiki."
-
-"I'll hug it gently."
-
-"Manapua," said Honu Haupia patiently, "a single one of its flippers is bigger than your whole family reunion."
-
-Manapua's eyes went enormous. "Then it'll need TWO of me," he declared, and immediately began rehearsing his hug on the nearest rock, which did not seem to mind.
-
-Poi Popo chuckled so deeply that a little shower of taro dust drifted off her shoulders and made the mochi twins sneeze in unison. "Aloha is like that, keiki," she said. "It does not measure who is biggest. The smallest hug and the biggest whale carry exactly the same amount of love."
+It was Niu the Coconut, bobbing in a slow circle, woven hat askew, stuck in the current.
 
 ---
 
-Just then a strange thing happened.
+"Tough shell, sweet heart!" called Niu, going round again. "I MEANT to do this!"
 
-The water in the middle of the cove went smooth and dark, the way water does when something very, very large is moving beneath it. The keiki felt it before they saw it — a deep, low hum that wobbled right up through the warm rock and into their squishy little bodies.
+Manapua flung Popo's lei like a lasso. It landed on the crab, who wore it beautifully.
 
-"Do you feel that?" whispered Honu Haupia. Her whole pudding-shell trembled with the sound. "That is the **mele**. That is the song."
+Manapua flung himself next. Splash. Now a bun and a coconut circled together, two bobbing dumplings.
 
-The hum grew. It was the coziest, deepest sound any of them had ever heard — like a lullaby sung by the whole ocean at once, like Kalua the Pig's belly-laugh if it lasted a hundred years. It was so low it tickled. The mochi twins started giggling and couldn't stop.
+Honu slid off the rock. "Slow flippers," she said, and glided out, calm as a cloud.
 
-And then —
+She reached them. The current caught her too. Three friends, one slow circle, round and round.
 
-WHOOOSH.
-
-A spout of misty rainbow water shot up into the morning sun. And rising out of the blue, slow and enormous and impossibly graceful, came a kohola — a mountain of barnacled grey and white, with long white flippers like wings and an eye the size of a dinner plate, gentle and ancient and warm.
-
-The keiki shrieked with joy. Manapua fell off the rock. The crab applauded.
-
-"She's HUGE!" cried a mochi twin.
-
-"She's BEAUTIFUL!" cried the other.
-
-"She's looking RIGHT AT ME," whispered Honu Haupia, frozen in wonder.
-
-And she was. The great kohola turned her enormous dinner-plate eye toward the little haupia turtle on the rock, and something passed between them — turtle and whale, both ancient, both of the sea, both travelers who always find their way home. The whale gave a slow, gentle blink.
-
-Then she lifted one giant white flipper and waved it. Just waved it, slow and friendly, the way Poi Popo waves goodnight.
-
-"She waved!" Honu Haupia could barely speak. "Poi Popo, the kohola WAVED at me!"
-
-"Of course she did, keiki," said Poi Popo softly. "She has come a very long way to see you."
+"Auwe," chuckled Popo from her rock. "Now I have a whole carousel."
 
 ---
 
-For the rest of that golden morning the cove was full of magic. A whole pod of kohola filled the warm water — big mothers, brand-new calves no bigger than a canoe, and the singing uncles whose deep mele wobbled through everyone's bodies until even Poi Popo was humming along.
+Then the cove's middle went smooth and dark, something very large moving beneath.
 
-A baby whale, curious and clumsy, poked its little knobbly head out near the rocks and blew a tiny spout that splashed Manapua right in the face.
+A deep low hum wobbled up through the rock and everyone's squishy bodies.
 
-"PFFFT!" Manapua sputtered, soggy and delighted. "It baptized me! I'm a whale now! Soft on the outside, full of *whale* inside!"
+"That is the **mele** (MEH-leh) = song," whispered Honu, her shell trembling. "The oldest song in the sea."
 
-The mochi twins laughed so hard they rolled into each other and stuck together for a full minute. Niu the Coconut, who had finally bobbed his way back to the rocks, used the moment to climb out of the water with as much dignity as a wet shaggy coconut can manage, which is not very much.
+WHOOOSH. A rainbow spout shot into the sun.
 
-"I have returned," Niu announced grandly, dripping. "Like the kohola. From a great and noble journey."
+And rising beneath the three circling friends came a kohola, a gentle grey mountain with wings for flippers.
 
-"You floated in a circle for an hour," said Honu Haupia.
-
-"A great and noble *circle*," said Niu.
-
-Honu Haupia slid carefully off the rock and floated out into the shallows, and the baby kohola floated alongside her — the smallest turtle and the youngest whale, drifting together in the warm winter sea. Honu Haupia's eyes were wet, and not from the ocean.
-
-"I never want this to end," she said.
-
-Poi Popo drifted up beside her, slow as a purple cloud on the gentle waves. "It does not end, keiki. That is the whole secret of the kohola. In the spring they will swim away north again, two thousand miles into the cold. But every single winter, they will come back. To this cove. To these warm waters. To you." She wrapped a soft taro arm around the little turtle. "Some friends travel very far, my dear. But the ones who love you always, always come home."
-
-The baby whale sang one small note, just for them.
-
-And Honu Haupia, ancient and gentle and very, very happy, sang it right back.
+Up they went on her broad barnacled back, dripping. Manapua fell off. The crab applauded.
 
 ---
 
-That evening, when the sun melted into the sea like haupia into warm coconut milk, the keiki rolled sleepily home up the hill — except much slower now, matching their pace to Poi Popo's, which is the kindest thing keiki can do.
+The kohola glided to the rock, slow as Popo, and set them down like three wet gifts.
 
-Manapua had finally stopped trying to hug a whale and was instead hugging the crab, who had decided to stay.
+"She's HUGE!" cried Manapua. "Can I hug her?"
 
-"Poi Popo?" yawned Honu Haupia, drifting along beside the slow purple cloud. "Will you tell us the whale story again next winter?"
+"One flipper is bigger than your whole family reunion," said Honu.
 
-"Every winter, keiki," Poi Popo promised, her flower lei glowing in the sunset. "As long as the kohola sing their way home, I will be right here to tell it. From the land, with aloha."
+"Then she'll need TWO of me," said Manapua, and began rehearsing on the rock.
 
-And far out in the darkening cove, the great whales sang on — the oldest song in the sea, carried two thousand miles, just to come home.
+The whale turned her dinner-plate eye to the little pudding turtle. She blinked, slow and warm.
+
+Then she lifted one long white flipper and waved it, the way Popo waves goodnight.
+
+"Popo," breathed Honu, "the kohola WAVED at me."
+
+"Of course, keiki," said Popo. "She has come a very long way to see you."
+
+---
+
+A whole pod filled the cove: mothers, singing uncles, calves no bigger than a canoe.
+
+A baby whale poked its knobbly head up and blew a tiny spout right in Manapua's face.
+
+"PFFFT! It baptized me!" sputtered Manapua. "I'm a whale now!"
+
+Niu climbed onto the rocks with all the dignity a wet shaggy coconut can manage.
+
+"I have returned," announced Niu, dripping. "From a great and noble journey."
+
+"You floated in a circle," said Honu.
+
+"A great and noble circle," said Niu.
+
+---
+
+The sun melted into the sea like haupia into warm coconut milk.
+
+Honu floated beside the baby whale. "I never want this to end," she said.
+
+"Every spring they go," said Popo, a soft taro arm around her. "Every winter, home. Loved ones do."
+
+The baby whale sang one small note, just for them. Honu sang it right back.
+
+Manapua hugged the crab instead. The crab had decided to stay.
 
 ---
 
 ## Goodnight Blessing
-Little one, the sea is singing its winter mele, and somewhere out in the warm dark water a great gentle kohola is swimming home to the ones she loves. No matter how far anyone you love may travel, they carry a song that always points back to you. So close your eyes and feel the cozy deep hum of the ocean rocking you, slow and safe, like a flipper waving goodnight. You are loved, you are home, and you are never, ever alone. Slow flippers, far journeys, sweet dreams. Goodnight.
+Little one, the sea is singing its winter mele, and a gentle kohola is swimming home to the ones she loves. Feel the deep hum of the ocean rock you slow and safe, like a flipper waving goodnight. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration: a giant gentle humpback whale rising from a still turquoise cove off Maui at golden morning, one long white flipper waving, an enormous kind dinner-plate eye glinting. On a sun-warmed rock sit adorable food characters — a wobbly snow-white coconut-pudding sea turtle (Honu Haupia), a soft lavender-grey taro elder wearing a flower lei (Poi Popo), giggling mochi twins, and a round pillowy steamed bun splashed with seawater. Misty rainbow whale-spout, soft cliffs, sparkling water, palette of warm gold, ocean blue, and lavender. Awe and joy, never scary.
-2. Character portrait: Poi Popo, a smooth lavender-grey mound of pounded taro shaped like a gentle grandparent, wearing a fragrant flower lei and a small serious sun hat, with kind ancient half-closed eyes and a soft contented smile, sitting on a warm flat rock by the sea. Faint earthy glow, aloha warmth, cozy storybook style, sunset light.
-3. Cozy closing scene: at sunset the food keiki roll slowly up a grassy Maui hillside behind the slow purple taro elder, the sky melting orange and pink into the sea. The little haupia turtle drifts close beside Poi Popo, eyes happy and sleepy. Far below in the darkening cove, the silhouettes of whales spout against the last light. Soft, warm, peaceful bedtime palette, gentle storybook glow.
+1. Key scene — warm whimsical storybook illustration, golden winter morning in a still turquoise cove off Maui: a giant gentle humpback whale rising from the water with a rainbow spout, lifting three dripping friends on her broad barnacled back: Honu Haupia (a snow-white coconut-pudding sea turtle with a jiggly haupia-square shell), Manapua Mano (a round pillowy white steamed bun with a rosy blush and a swirl-knot, mid-tumble) and Niu the Coconut (a shaggy brown coconut with a green sprout and a tiny woven hat askew). On a warm flat rock, Poi Popo (a soft lavender-grey mound of taro in a flower lei) chuckles, a tiny crab beside her wearing a lei. Soft cliffs, sparkling water, palette of gold, ocean blue and lavender. Awe and joy, never scary.
+2. Character portrait — Poi Popo: a smooth lavender-grey mound of pounded taro shaped like a gentle grandparent, wearing a fragrant flower lei and a small serious sun hat, kind ancient half-closed eyes and a soft contented smile, settled on a warm flat rock by the sea. Faint earthy glow, aloha warmth, cozy storybook style, soft morning light.
+3. Closing scene — sunset over the cove, the sky melting orange and pink into the sea: Honu Haupia floating in the warm shallows beside a small curious baby humpback whale, nose to nose, Poi Popo drifting close with one soft arm around the little turtle, Manapua Mano on the rocks hugging a tiny crab, Niu the Coconut drying off with dignity, far-off whale spouts against the last light. Soft, warm, peaceful bedtime palette, gentle storybook glow.
+
+## Animation Notes
+- **Cast:**
+  - `POPO` — Poi Popo: a soft smooth lavender-grey mound of pounded taro, a flower lei, a small serious sun hat, kind ancient half-closed eyes; voice: slow, warm, grandmotherly.
+  - `HONU` — Honu Haupia: a snow-white coconut-pudding sea turtle with a softly jiggling shell patterned in haupia squares, gentle ancient eyes, slow flippers; voice: calm, slow, ancient.
+  - `MANO` — Manapua Mano: a round pillowy white steamed bun with a rosy steam-blush, a swirl-knot on top, wisps of steam, always bouncing; voice: bouncy, hungry, silly.
+  - `NIU` — Niu the Coconut: a round shaggy brown coconut with a green drinking-straw sprout, three little face-dots and a tiny woven hat; voice: steady, proud, earnest.
+- **Scenes:**
+  1. A grassy Maui hillside path down to the sea on a bright, crisp winter morning: a tide pool, a tiny crab, the friends heading downhill.
+  2. The cove, a still blue bowl between two cliffs, morning light: a warm flat rock, glassy water like spilled sky, a seagull, a coconut bobbing far out.
+  3. The middle of the cove: Niu, Manapua and Honu circling in a slow current, Popo on her rock, the crab wearing a flower lei.
+  4. The cove as the water goes smooth and dark beneath the circling friends: a rainbow spout, a giant gentle humpback rising with the three on her back.
+  5. The flat rock at the water's edge: the great whale alongside, her huge gentle eye, one long white flipper lifted in a wave, the friends set down dripping.
+  6. The whole cove full of humpbacks in bright daylight: mothers, calves, spouts, a baby whale near the rocks, Niu climbing out dripping.
+  7. The cove at sunset: orange and pink sky melting into the sea, Honu floating beside the baby whale in the shallows, Popo close, distant spouts against the last light.
+- **Budget:** 663 narrated words · 46 beats · 7 scenes · est. 4:57

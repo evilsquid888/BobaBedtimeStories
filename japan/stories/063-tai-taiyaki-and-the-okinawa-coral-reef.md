@@ -1,135 +1,130 @@
 # Story 63: Tai Taiyaki and the Okinawa Coral Reef
 
 **Main Character:** Tai Taiyaki
-**Guest Characters:** None
+**Guest Characters:** Bumpu, a lumpy grinning stonefish; Fugu, a startled pufferfish
 **Setting:** A glittering coral reef aquarium in Okinawa
 **Theme:** There's a whole bright world for the brave to explore
-**Japanese Spotlight:** sakana (sah-kah-nah) — fish
+**Japanese Spotlight:** **sakana** (sah-kah-nah) — fish
 
 ---
 
-Tai Taiyaki had been swimming all his life — through the air.
+Tai Taiyaki had been swimming all his life. Through the air.
 
-You see, Tai was a golden fish-shaped waffle-cake with a crispy fin-tail and a warm red-bean heart you could see when he smiled wide, which was often. He could not swim in water, exactly (he'd get soggy, and a soggy taiyaki is a sad sandwich indeed). But he could waddle-flap through the breeze, doing little loop-the-loops over the rooftops while shouting his favorite words.
+A golden fish-shaped waffle-cake, crispy fin-tail, and a warm red-bean heart you could see when he grinned.
 
-"Swim toward the sweet stuff!" he called, zooming low over a fish market in Okinawa one bright morning. "Wheeee — splash, splash, but make it AIR!"
+"Swim toward the sweet stuff!" he sang, looping over Okinawa harbor. "Splash, splash, but make it AIR!"
 
-And then he saw the sign. A big blue glittering sign with bubbles painted all over it.
+Water was off-limits. A soggy taiyaki is a sad sandwich. He looped around every splash.
 
-**OKINAWA CORAL REEF AQUARIUM — Meet 10,000 sakana (sah-kah-nah) — FISH!**
+Then he saw the doorway: painted blue, bubbles everywhere, and ten thousand tiny painted fish.
 
-Tai stopped mid-loop. He stopped so suddenly his crispy tail squeaked.
+"Real **sakana** (sah-kah-nah) — fish," whispered Tai, stopping so fast his tail squeaked. "I'm making fish friends today."
 
-*Real fish,* he thought, his red-bean heart going thump-thump. *I am a fish. Sort of. I have always WANTED to meet other fish.*
+---
 
-He had no idea this would be the bravest, splashiest, most surprising day of his whole crispy life.
+Inside, the hall was cool and blue, light rippling across the floor in wobbly waves.
 
-Tai waddle-flapped through the front doors and into a hall so cool and blue it felt like swimming inside the sky's reflection. Light rippled across the floor in wobbly waves. Everything smelled of salt and clean water and just the tiniest bit of seaweed, which, to a fish-cake, smells like a nice afternoon.
+Then, the Great Tank: glass taller than three houses, the whole **umi** (oo-mee) — sea folded up indoors.
 
-And then he reached the Great Tank.
+Silver fish flashed like tossed coins. A lazy ray flapped past like a flying pancake. Tai felt kinship.
 
-Tai's jaw dropped so far you could see his entire red-bean heart.
+Coral bloomed pink, orange, electric purple, swaying like a meadow. Tai's jaw dropped to his heart.
 
-It was enormous. It was a wall of glass taller than three buildings, and behind it swam a whole shimmering world. The **umi** (oo-mee) — the sea, but folded up small and brought indoors. Silver fish flashed like tossed coins. Striped fish puttered along like tiny taxis. A lazy ray flapped past like a flying pancake (Tai felt a little kinship there). And the coral — oh, the coral! It bloomed in pinks and oranges and electric purples, swaying like a meadow underwater.
+"Hello, fish friends!" shouted Tai, squashing his crispy cheek against the glass. "I'm a fish too!"
 
-"Hello!" Tai shouted, pressing his crispy cheek against the glass. "Hello, fish friends! I'm a fish too!"
+---
 
-The fish did not answer. They just swam.
+A sleek silver fish glided up, looked Tai up and down with one eye, and zipped away.
 
-A sleek silver fish glided right up to the glass, looked Tai up and down with one round eye, and made a look that Tai *read* as a frown — though it is famously hard to tell, with fish.
+"Was that a frown?" said Tai. "Hard to tell, with fish."
 
-Then it swished its tail and zipped away.
+Three stripey fish hovered, whispering in bubbles. "I have a stripe too!" said Tai. "Stripey club?"
 
-"Oh," said Tai. His tail drooped just a little. "Did I... say something wrong?"
+The stripey fish blinked, then shot off, bubbles trailing behind like tiny giggles.
 
-He floated to the next part of the glass. Three yellow-and-black striped fish hovered together in a neat little group, whispering in bubbles. *Blub blub blub.* When they noticed Tai watching, they all turned at once to stare.
+Tai tried his best fish impression. Blub. Blub. A passing crab clicked its claws and looked away.
 
-"Hi!" said Tai, waving a fin. "I love your stripes. I have a stripe too — see? It's golden batter. We could be a stripey club!"
+He smiled at Fugu the pufferfish. Fugu puffed up like a startled balloon and bobbed off at speed.
 
-The three fish blinked. Then they swam off in a hurry, bubbles trailing behind them like tiny giggles.
+Tai's tail sagged to the floor. "Maybe I'm just a cake shaped like a fish. Full of beans."
 
-Tai's warm glow dimmed a watt or two.
+---
 
-He drifted along the great glass wall, trying again and again. He smiled at a pufferfish, who puffed up like a startled balloon and went bobbing off in a tremendous puffy hurry. He did a little loop-the-loop for a school of blue tangs, who scattered like spilled marbles. He even tried his very best fish impression — gulping his mouth open and shut, going *blub blub* — but a passing crab only clicked its claws and looked the other way.
+"Pssst. Crunchy fellow. Up here."
 
-By the time Tai reached the far corner of the tank, his crispy tail was sagging clean to the floor.
+Behind a curl of orange coral sat the lumpiest, wartiest, most wonderful fish Tai ever saw.
 
-"Maybe," he whispered, "I'm not really a fish at all. I'm just a cake that's *shaped* like one. Everyone in there is sleek and silvery and swimmy. And I'm... crunchy. And full of beans." He sniffled, the way you do when your heart is warm but your feelings are bruised. "Maybe there's no room in the bright world for a fish made of breakfast."
+"Name's Bumpu," said the lumpy fish. "Stonefish. Mostly I look like a rock that learned to smile."
 
-And that is exactly when he heard the voice.
+"Funniest-looking sakana in the reef," said Bumpu. "Best job there is. Scared little fish hide behind me."
 
-"Pssst. Hey. Crunchy fellow. Up here."
+"But everyone swims AWAY from me," said Tai, drooping. "I'm going to try something bigger."
 
-Tai looked up.
+---
 
-There, in the very top corner of the tank, behind a curl of glowing orange coral, was the strangest, lumpiest, most wonderful-looking creature Tai had ever seen. He was knobbly and warty and a shade of brownish-gold not unlike, well, a waffle. His face was all bumps and his fins looked like crumpled leaves and he was grinning the biggest grin in the entire sea.
+Up the stairs to the tank's open top he flapped, where the water lay dark and glossy.
 
-"Are you talking to me?" Tai asked.
+"Fish friends!" he announced. "Behold! The loop-the-loop!" One loop. The fish drifted off.
 
-"Sure am!" The lumpy fish wriggled out from the coral. "Name's Bumpu. I'm a stonefish. Well — I'm SUPPOSED to be a stonefish. Mostly I just look like a rock that learned to smile. The other fish think I'm the funniest-looking sakana in the whole reef."
+"The DOUBLE loop! The TRIPLE, which nobody has ever done!" Loop, loop, loop. The hall went spinny.
 
-"Oh no," said Tai softly. "That's awful. I'm so sorry they're mean to —"
+Dizzy as a dropped doughnut, Tai wobbled, flipped, and plunged straight toward the open water.
 
-"Mean? MEAN?" Bumpu laughed so hard a bubble shot out his nose. "Friend, they LOVE me! Funniest-looking fish in the reef is the BEST job in the reef! When the little fish get scared, they come hide near me, because nothing scary ever bothers a goofy rock. When the babies need a giggle, they swim by and I make my best lumpy face. I've got more friends than I can count, and I can count pretty high — watch. One. Two. ...That's about it, actually. But the POINT is, I'm loved!"
+"SOGGY!" he wailed. "I'm going to be a SAD SANDWICH!"
 
-Tai stared. "But you're so... different from the others."
+Then up rose Fugu, puffing bigger and bigger, until she bobbed on top like a beach ball.
 
-"Exactly!" Bumpu beamed. "That's the whole trick of it. Being different is what makes you worth swimming up to."
+BOING. Tai bounced off Fugu's belly and landed on the walkway, dry and crispy. Fugu winked.
 
-Tai looked down at his own golden batter body, his crispy fin-tail, his red-bean heart glowing through his see-through smile. "But all the other fish swam away from me. The silver one frowned. The stripey ones giggled. The pufferfish puffed."
+---
 
-"Did they swim away?" Bumpu tilted his lumpy head. "Or did they swim to go GET somebody?"
+"Look down, crunchy friend," called Bumpu from his coral. "Look DOWN."
 
-"What?"
+At the bottom waited every fish Tai had greeted. Silver, stripey, crab, ray. All of them.
 
-"Look down, crunchy friend. Look DOWN."
+Waiting, eyes round and shining up at him. Hundreds of them.
 
-Tai looked.
+"They never saw a fish like you," said Bumpu. "Golden. Warm. They swam off to fetch EVERYBODY."
 
-And there, gathered at the bottom of the great tank, was every single fish he'd tried to greet. The silver fish. The three stripey ones. The pufferfish, the blue tangs, the lazy ray, the click-clack crab. They were all crowded together, looking up at him with big round shining eyes. And they were not frowning at all.
+Tai's heart went whoomp. He pressed both fins to the glass and gave his biggest, beaniest smile.
 
-They were *waiting*.
+The whole tank lit up. Stripey fish circled. The crab waved both claws like a tiny cheer.
 
-"They've never seen a fish like you," Bumpu explained gently. "Golden. Warm. With a sweet little heart you can see right through. They didn't swim away because they didn't like you. They swam off to tell EVERYONE. 'Come quick! There's the most amazing sakana at the glass! He glows! He's the color of sunshine! Come SEE!'"
+"SWIM TOWARD THE SWEET STUFF!" Tai zoomed along the glass, a river of sakana chasing his glow.
 
-Tai's red-bean heart went *whoomp* — so warm it nearly steamed.
+"See?" hollered Bumpu. "There's a whole bright world. Plenty of room for the brave and the different."
 
-"They... they think I'm amazing?"
+---
 
-"Friend," said Bumpu, "you're a fish made of breakfast with a heart you wear on the OUTSIDE. Of course you're amazing. Now stop drooping and give 'em a show. A whole reef came out to meet you. That's not a sad thing. That's a celebration."
+The aquarium lights dimmed to a sleepy blue. The fish blew slow goodnight bubbles at the glass.
 
-So Tai Taiyaki took a deep crispy breath, pressed both fins against the cool glass, and gave the fish his absolute biggest, warmest, beaniest smile.
+"Come back tomorrow, crunchy friend," yawned Bumpu, settling into his coral.
 
-And the whole tank *lit up*.
+Tai flap-floated out into the warm Okinawa night, looping slowly under the stars.
 
-The silver fish twirled. The three stripey fish spun in a happy circle, their earlier giggle now turning out to have been pure excitement. The pufferfish puffed up — not in a hurry this time, but like a little round cheer. The blue tangs swooped into a swirl. Even the click-clack crab waved both claws over its head like a tiny crowd doing the wave.
-
-"SWIM TOWARD THE SWEET STUFF!" Tai shouted, and he did his most spectacular loop-the-loop ever, right up the front of the glass, his golden tail sparkling and his red-bean heart glowing like a little lantern. The fish followed him on the inside, a whole rainbow river of sakana chasing his light from one end of the tank to the other.
-
-"See?" Bumpu hollered from his coral perch, laughing. "There's a whole bright world out here. And the bright world's got PLENTY of room — especially for the brave ones who are a little bit different!"
-
-They played until the aquarium lights began to dim to a soft, sleepy nighttime blue. The fish gathered close to the glass to say goodnight, blowing slow bubbles that drifted up like little goodbye kisses. Bumpu settled back into his coral with a yawn.
-
-"Come back tomorrow, crunchy friend," he murmured. "The reef'll be looking for you."
-
-Tai waddle-flapped slowly toward the doors, his glow soft and full. He paused at the big bubble-painted sign and read it once more — *Meet 10,000 sakana* — and this time, he smiled the whole way through.
-
-"Ten thousand fish," he whispered to himself, "and not a single one exactly like me."
-
-He looked back at the great blue tank shimmering in the dark, full of friends who'd come running just to see a fish made of sunshine and beans.
-
-"And that," he said happily, "turns out to be the very best part."
-
-Then Tai Taiyaki flap-floated out into the warm Okinawa night, doing gentle loop-the-loops under the stars — swimming, as he always had, through the air. But for the first time, he wasn't swimming away from anything.
-
-He was swimming home, to dream of the bright world, and all the room it had saved just for him.
+"Ten thousand fish," he whispered, "and not one like me. That's the best part."
 
 ---
 
 ## Goodnight Blessing
-Little dreamer, you are like Tai — wonderfully, perfectly different, and the whole bright world is waiting to swim up and say hello. The things that make you *you* are exactly the things that other hearts come running to see. So tuck in soft and let your own little light glow warm through the dark, the way a red-bean heart glows through a golden smile. There is so much room out there for the brave, and so much room in here, where it's cozy and safe. Drift now, like a slow happy bubble rising up through the deep blue calm. Goodnight.
+You are wonderfully, perfectly different, and the whole bright world is waiting to say hello. Let your own little light glow warm through the dark. Drift now, like a slow happy bubble. Goodnight.
 
 ## AI Image Prompts
-1. Key scene — warm whimsical storybook style: Tai Taiyaki, a glowing golden fish-shaped waffle-cake with a crispy fin-tail and a visible warm red-bean heart, presses his fins against an enormous glass aquarium wall. Inside, a dazzling coral reef glows in pinks, oranges, and electric purples, and a whole rainbow river of cute fish — silver, striped, pufferfish, blue tangs, a flat ray — swirls excitedly to greet him. Soft rippling underwater light dances across the cool blue hall. Palette of seafoam, gold, and jewel tones. Mood: joyful wonder and belonging.
-2. Character portrait — Tai Taiyaki in mid loop-the-loop "swimming" through the air, golden batter body sparkling, crispy fin-tail trailing, mouth open in a delighted grin with his red-bean heart shining warmly through. Tiny twinkles around him. Cheerful, brave, bubbly expression. Soft storybook lighting, warm gold against gentle aqua background.
-3. Closing scene — nighttime: the great aquarium tank glows soft sleepy blue, cute fish gathered at the glass blowing slow drifting goodnight bubbles. In the foreground, Tai Taiyaki flap-floats out a doorway into a warm starry Okinawa night, glowing gently, smiling, doing a slow happy loop under the stars. Cozy, dreamy, peaceful mood; deep blues and soft golden glow.
+1. Key scene — warm whimsical storybook style: Tai Taiyaki, a glowing golden fish-shaped waffle-cake with a crispy fin-tail and a visible warm red-bean heart, mid-bounce off the belly of a huge puffed-up pufferfish floating like a beach ball at the open top of an enormous coral reef tank, droplets flying, coral glowing pink, orange and electric purple below, a lumpy grinning stonefish watching from a curl of coral, rippling aqua light across the walkway; palette of seafoam, gold and jewel tones, joyful and funny.
+2. Character portrait — Tai Taiyaki in mid loop-the-loop swimming through the air, golden batter body sparkling, crispy fin-tail trailing, mouth open in a delighted grin with his red-bean heart shining warmly through, tiny twinkles around him, cheerful brave bubbly expression. Soft storybook lighting, warm gold against a gentle aqua background.
+3. Closing scene — nighttime: the great aquarium tank glowing soft sleepy blue, cute fish gathered at the glass blowing slow goodnight bubbles, a lumpy stonefish dozing in orange coral; in the foreground Tai Taiyaki flap-floats out a doorway into a warm starry Okinawa night, glowing gently, doing one slow happy loop. Cozy, dreamy, peaceful; deep blues and soft golden glow.
+
+## Animation Notes
+- **Cast:**
+  - `TAI` — Tai Taiyaki: a cheerful golden fish-shaped waffle-cake with a crispy ridged fin-tail, a warm red-bean heart glowing through his wide grin, swims through the air with a little waddle; voice: splashy, bubbly, brave.
+  - `BUMPU` — Bumpu: a knobbly, warty brownish-gold stonefish with crumpled-leaf fins, bumpy face, the biggest grin in the sea, tucked in orange coral; voice: gravelly, warm, laughing.
+  - `FUGU` — Fugu: a small round spotted pufferfish with big startled eyes, puffs into a huge spiky beach ball; no lines.
+- **Scenes:**
+  1. Okinawa harbor on a bright morning, turquoise water, fishing boats, a blue doorway painted with bubbles and tiny fish.
+  2. The cool blue aquarium hall and the Great Tank: a towering glass wall, coral in pink, orange and purple, silver fish, a ray, rippling light on the floor.
+  3. Along the glass wall of the Great Tank, close on the coral and the fish: a silver fish, three stripey fish, a crab, a pufferfish.
+  4. The far top corner of the tank, a curl of glowing orange coral with a lumpy stonefish inside, soft blue light.
+  5. The open upper deck of the tank: a walkway and railing above dark glossy water, aqua light from below.
+  6. The front of the Great Tank seen from the hall, every fish gathered at the bottom looking up, then swirling with light.
+  7. The aquarium at night, tank lights dimmed to sleepy blue, the doorway opening onto a warm starry Okinawa night.
+- **Budget:** 670 narrated words · 42 beats · 7 scenes · est. 4:56

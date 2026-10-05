@@ -1,129 +1,132 @@
 # Story 53: Niko Nigiri and the Kyoto Kimono Day
 
 **Main Character:** Niko Nigiri
-**Guest Characters:** None
+**Guest Characters:** Ojii-san, an old wooden tea-whisk who keeps the kimono shop; Granny Kinako, a plump powdered old mochi
 **Setting:** The historic Gion district of Kyoto, with its traditional wooden streets
 **Theme:** Dressing with care honors where you are
-**Japanese Spotlight:** kimono (kee-moh-noh) — traditional robe
+**Japanese Spotlight:** **kimono** (kee-moh-noh) — traditional robe
 
 ---
 
-Niko Nigiri had a list. Of course Niko had a list. Niko had a list for almost everything, written in his tidiest handwriting on a tiny notepad he kept tucked behind his crisp little **nori** (noh-ree) — seaweed — belt.
+Gion's old lane looked like a storybook picture somebody had folded up and kept a hundred years.
 
-This morning, the list had exactly one thing on it, and Niko had underlined it three times:
+Wooden houses leaned together like old friends sharing a secret. Lanterns swayed. A tiny bell went tink.
 
-*Wear a kimono in Kyoto. The RIGHT way.*
+In the middle stood Niko Nigiri, pearly rice, coral salmon cape, standing so straight he squeaked.
 
-He stood very straight in the cool morning shadow of an old wooden teahouse, his pearly white rice gleaming, his glossy coral-orange salmon cape draped just so, his bright eyes blinking up at a row of lanterns swaying in the breeze. The street under his little rice feet was made of smooth dark stones, polished by a thousand years of slow footsteps.
+"Today," Niko announced to absolutely no one, "I wear a **kimono** (kee-moh-noh) — traditional robe. The RIGHT way."
 
-"Today," Niko announced to absolutely no one, since he had come alone, "I am going to do this neatly."
+"In four minutes," he added, tapping a tiny pocket watch. A pigeon cooed: good luck with that.
 
-A pigeon cooed, as if to say, *Good luck with that.*
+"Let's do this neatly," said Niko, and marched under a deep-blue curtain into the kimono shop.
 
-Niko did not hear the pigeon's doubt. Niko had a plan.
+---
 
-The narrow lane he stood on was called **Gion** (ghee-ohn), the most famous old quarter in all of Kyoto, and it looked exactly like a picture from a storybook somebody had folded up and tucked into their pocket for a hundred years. Wooden houses leaned together like old friends sharing a secret. Paper screens glowed amber. Somewhere, a tiny bell went *tink*, and the smell of roasting tea drifted by like a soft hand on the shoulder.
+Inside, silk lay folded on every shelf like sleeping rainbows: plum pink, barley gold, deep indigo.
 
-Niko had read about Gion in seventeen different books. He had taken nine pages of notes. He felt extremely prepared.
+The keeper was Ojii-san, an old wooden tea-whisk with bristles like a silver mustache.
 
-He was not prepared.
+"One kimono, please," said Niko. "I plan to be ready in approximately four minutes."
 
-The shop he had chosen was called **kimono-ya-san** (kee-moh-noh-yah-sahn) — the kimono shop — and it had a deep-blue curtain over the door and a sign that smelled faintly of cedar. Niko marched inside, cleared his throat, and said, in his most organized voice, "Good morning! I would like to rent one **kimono** (kee-moh-noh) — traditional robe — please, and I would like to be ready in approximately four minutes."
+Ojii-san chuckled like leaves. "Little rice-friend, a kimono is not a coat. A kimono is a conversation."
 
-The shopkeeper was a kind old wooden tea-whisk named Ojii-san, with bristles like a silver mustache and the slow blink of someone who had watched a great many sunrises. He looked at Niko. He looked at the clock. He looked at Niko again.
+Niko grabbed an indigo silk dotted with silver cranes. "It matches my belt. Let us proceed."
 
-"Four minutes," said Ojii-san, and he chuckled so softly it sounded like leaves. "Little rice-friend, you cannot rush a kimono. A kimono is not a coat. A kimono is a conversation."
+"A fine eye," said Ojii-san. "Left side over right, always. Like wrapping a present you love."
 
-Niko did not understand this at all, but he wrote it down anyway. *Kimono = conversation,* his notepad now said, which was not very helpful.
+---
 
-The shop was full of folded silk, stacked in shelves like sleeping rainbows. There were robes the deep blue of evening, robes the pink of plum blossoms, robes the warm gold of toasted barley tea. Some were embroidered with bamboo, some with little carp, some with maple leaves so real-looking Niko half expected them to drift down off the cloth and settle on the floor. Each one smelled faintly of cedar and old sunlight, and each one, Ojii-san said, had been folded and unfolded by hundreds of careful hands across the years.
+Niko dove in. The silk slipped. The silk slid. The silk billowed up like a friendly ghost.
 
-"They are not in a hurry," said Ojii-san, running one bristle gently along a sleeve. "They have all the time in the world, these robes. They have already met many tomorrows."
+Niko vanished entirely. "I have this completely under control," said the puff of indigo.
 
-Niko, who had personally scheduled his entire afternoon down to the half-minute, found this idea both strange and a little wonderful. He reached for the very first one, a beautiful indigo silk dotted with tiny silver cranes.
-
-"This one," he said. "It matches my belt. Let us proceed."
-
-"A fine eye," said Ojii-san. "But which way does the front fold?"
-
-Niko froze. "There is a... correct way?"
-
-"There is always a correct way," said Ojii-san, his bristles twinkling. "Left over right, always — that's the way a kimono likes to be worn, like wrapping a present you love." He winked, the kind of wink that gentle grown-ups give when they are sharing a small, important secret. "We shall do left over right, hm? The kimono will thank you."
-
-Niko, who was very fond of doing things correctly, immediately wanted to do *everything* correctly now. He stood up extra straight.
-
-But oh, it was harder than his books had said.
-
-The silk slipped. The silk slid. The silk billowed up around Niko's little rice shoulders like a friendly ghost made of laundry, and for one wobbly moment Niko vanished entirely inside it, just a muffled voice going, "I have this completely under control," from somewhere within a puff of indigo.
-
-"You have a sleeve on your head," Ojii-san observed.
+"You have a sleeve on your head," observed Ojii-san.
 
 "I am aware," said the sleeve.
 
-When at last Niko's bright eyes popped back out of the collar, his salmon cape was twisted backward, the silk was bunched up like a napkin after a very good dinner, and a single silver crane on the fabric appeared to be flying directly into his ear.
+Niko tried again, faster. He wrapped. He wound. He tied himself up tight as a maki roll.
 
-Niko looked at his reflection in the shop's tall mirror. He had wanted to look elegant. He looked like a present that had been wrapped by an excited puppy.
+"Still under control," said the maki roll, and hopped. And wobbled. And bumped the big shelf.
 
-His shoulders drooped. "I rushed," he said quietly. "I made a list and I tried to do the list, and I went too fast, and now the crane is in my ear."
+Down came the sleeping rainbows, plum pink, barley gold, indigo, a silk avalanche swallowing the shop.
 
-Ojii-san set down his tea and came over, slow as honey. "Ah," he said. "Now you understand the conversation. A kimono asks you to *slow down*. That is its whole secret. It does not care about your four minutes. It cares about your care."
+Two silver bristles poked up out of the pile. "Four minutes," said Ojii-san, muffled. "Hm."
 
-And so they began again — properly this time.
+---
 
-Ojii-san showed Niko how to slip his arms through, smooth as a calm river. How to fold the left side over the right, neat as a closing book. How to wrap the wide **obi** (oh-bee) — the sash — around his middle and tie it into a soft puff of a bow at the back, like a little pillow he could carry his good manners in. With each step, Niko breathed slower. With each step, the silk lay flatter, kinder, truer.
+Niko surfaced, salmon cape backward, one silver crane flying straight into his ear.
 
-It took twenty-six minutes, not four.
+In the tall mirror he looked like a present wrapped by an excited puppy.
 
-It was the best twenty-six minutes of Niko's whole morning.
+"I rushed," said Niko, drooping. "And now the crane is in my ear."
 
-When he turned to the mirror at last, he gasped. The indigo silk fell from his shoulders in clean, soft lines, and the silver cranes — now flying the right way, away from his ears — looked as if they were lifting gently into a twilight sky. His salmon cape peeked out at the collar like a tiny secret. He looked, Niko thought, the way the old wooden streets *felt*. Like he belonged to them. Like he was part of the picture, instead of a tourist standing in front of it.
+Ojii-san waded over, slow as honey. "Now you understand. A kimono asks you to slow down."
 
-"Oh," he whispered. "Oh, I see."
+Niko breathed. In, slow. Out, slow. His arms slid through the sleeves like a calm river.
 
-"You see," agreed Ojii-san, very pleased.
+Left over right, neat as a closing book. The wide **obi** (oh-bee) — sash puffed into a soft bow.
 
-Niko stepped out into Gion, and the whole world had changed — not because the street was different, but because *he* was. He walked slowly now. He had to; the kimono asked him to take little steps, gentle steps, and the strange thing was that walking slowly let him *notice* everything.
+Twenty-six minutes, not four. He turned to the mirror and gasped.
 
-He noticed the way the afternoon light pooled gold on the dark stones. He noticed an old plum tree dropping petals one at a time, as if it were thinking carefully about each one. He noticed a tiny shrine no bigger than a birdhouse, with a single fresh flower set before it by some kind unknown someone. He noticed a paper lantern with a smudge of soot on its bottom, and a cat the color of toasted mochi dozing on a doorstep with one ear flicking at dreams. He noticed the soft *clip, clip* of his own little wooden sandals — **geta** (geh-tah), wooden clogs — and how the sound seemed to belong here, an old sound on an old street.
+The silk fell in clean lines, the cranes flew the right way, and Niko looked like he belonged.
 
-In his old life — meaning, this very morning — Niko would have walked past every single one of these things without seeing them. He would have been too busy checking his list and counting his minutes. But the kimono made his steps small, and his small steps made his eyes wide, and his wide eyes made the whole ordinary street turn out to be absolutely *crammed* with quiet, beautiful, secret things. It was as if Kyoto had been waiting all this time, patient as a folded robe, to be properly noticed.
+---
 
-A group of takoyaki balls bounced past, giggling, taking pictures of everything and stopping at nothing. They were having a wonderful time. But Niko noticed they did not *see* the plum tree, or the tiny shrine, or the gold light. They were going too fast.
+Out into Gion he stepped in little wooden **geta** (geh-tah) — clogs, clip, clip, small careful steps.
 
-He didn't feel like rushing to catch up. For the first time he could remember, Niko Nigiri was not in a hurry to get to the next thing on the list. The kimono had folded his hurry up and tucked it away with the silver cranes.
+Small steps made wide eyes. He noticed gold light on the stones, a tiny shrine, one fresh flower.
 
-He stopped on a little arched bridge over a clear stream. A heron stood in the water, perfectly still, dressed in nothing but its own soft gray feathers — and Niko thought the heron, too, knew the secret. *Slow down. Belong to the place you are in.*
+A cat the color of toasted mochi opened one eye, looked Niko up and down, and approved.
 
-"You wear your kimono very well," said a voice.
+Then a gust whooshed down the lane, and the plum tree let go of every petal at once.
 
-Niko turned. An elderly mochi grandmother sat on a bench by the bridge, plump and powdered and smiling. She wore a kimono the color of weak green tea, and beside her sat a teapot wrapped in a cozy.
+Pink snow, everywhere. Niko stood still in it, and let it settle on his sleeves.
 
-"Thank you," said Niko, and he bowed the careful bow Ojii-san had shown him. "It took me twenty-six minutes."
+---
 
-The mochi grandmother laughed, a sound like a soft cushion being fluffed. "Twenty-six minutes! When I was young, I thought that was far too long. Now I think it is exactly right. The clothes ask us to honor the day. And the day, little one — the day always says thank you." She patted the bench. "Sit. The tea is warm. There is no list for sitting."
+On a little arched bridge sat Granny Kinako, a plump powdered old mochi, teapot in a cozy.
 
-So Niko sat. He, who always had somewhere to be, sat on a wooden bench in old Kyoto, in a borrowed kimono, drinking warm tea with a grandmother he had only just met, watching petals fall one at a time into a slow clear stream.
+"You wear your kimono very well," said Granny Kinako.
 
-And do you know — he never once reached for his notepad.
+Niko bowed the careful bow. "Thank you. It took twenty-six minutes."
 
-When the sun began to slip behind the wooden rooftops, painting them all the warm pink of plum-blossom silk, Niko walked back to Ojii-san's shop, his geta going *clip, clip* on the old stones. He helped fold the kimono himself, slowly, left over right, smoothing every crane gently to sleep.
+Granny Kinako laughed like a fluffed cushion. "Exactly right. Dressing with care says thank you to the day."
 
-"Well?" said Ojii-san. "Was it worth more than four minutes?"
+"Sit," she said. "The tea is warm. There is no hurry for sitting." So Niko sat.
 
-Niko thought about the gold light, and the tiny shrine, and the petals, and the warm tea, and the heron, and the grandmother, and the soft puff of the obi bow at his back.
+---
 
-"It was worth the whole day," said Niko Nigiri. He picked up his notepad, and under his old underlined line, he wrote one more, in his very tidiest hand:
+The sun slipped behind the rooftops, painting them plum-pink, and Niko clip-clipped back to the shop.
 
-*Slow is its own kind of neat. — N.N.*
+He folded the kimono himself, slowly, left over right, smoothing every crane down gently.
 
-And then he tucked the notepad away, said goodnight to the silver cranes, and walked home through Gion at exactly the pace of a falling petal.
+"Worth more than four minutes?" asked Ojii-san.
+
+"Worth the whole day," said Niko, and tucked his pocket watch away for good.
+
+"Slow," he yawned, "is its own kind of neat."
 
 ---
 
 ## Goodnight Blessing
-May you take your time tonight, little one, the way the silk takes its time to fall. May you notice the small soft things — the warm tea, the gentle light, the petal drifting down — and may you wear this cozy evening like a kimono made just for you, wrapped left over right, snug and true. There is no list for sleeping; there is only the slow, kind quiet, folding the day gently away. Breathe slow. Feel calm. You belong right here, exactly where you are. Goodnight.
+Take your time tonight, the way silk takes its time to fall. Wear this cozy quiet like a kimono made just for you, left over right, snug and true. You belong right here. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration of Niko Nigiri — a tidy oval of pearly white rice wearing a coral-orange salmon cape and a small nori belt — standing in front of a tall mirror in an old Kyoto kimono shop, half-wrapped in flowing indigo silk dotted with tiny silver cranes, one sleeve flopped comically over his head, with a kindly silver-bristled tea-whisk shopkeeper looking on. Soft amber lantern light, cedar-wood shelves stacked with rainbow-folded silk, cozy and gently funny mood, dusty-gold and indigo palette.
-2. Character portrait of Niko Nigiri standing very straight and proud in a perfectly fitted indigo kimono with silver cranes, a soft obi bow at the back, his salmon cape peeking at the collar, tiny wooden geta clogs on his rice feet, bright attentive eyes, gentle confident smile. Warm storybook style, soft twilight glow, plum-blossom pink and deep indigo palette.
-3. Cozy closing scene: Niko Nigiri sitting on a worn wooden bench on a little arched bridge in old Gion at sunset, sipping warm tea beside a plump powdered mochi grandmother in pale-green silk, plum petals drifting one by one into a clear slow stream, a still gray heron in the water, wooden rooftops glowing warm pink behind them. Peaceful, tender, golden-hour storybook lighting.
+1. Key scene — warm whimsical storybook illustration inside an old Kyoto kimono shop: Niko Nigiri, a tidy oval of pearly white rice with a coral-orange salmon cape and a small nori belt, buried in an avalanche of folded silk in plum pink, barley gold and deep indigo, one indigo sleeve flopped over his head, two silver bristles of an old wooden tea-whisk poking up out of the pile, cedar shelves, soft amber lantern light, gently funny, dusty-gold and indigo palette.
+2. Character portrait — Niko Nigiri standing very straight and proud in a perfectly fitted indigo kimono dotted with silver cranes, a soft obi bow at the back, his salmon cape peeking at the collar, tiny wooden geta clogs, bright attentive eyes, a gentle confident smile, a few pink plum petals on his sleeves. Warm storybook style, soft afternoon glow, plum-pink and deep-indigo palette.
+3. Closing scene — Niko Nigiri in his indigo kimono sitting on a worn wooden bench on a little arched bridge in old Gion at sunset, sipping warm tea beside a plump powdered mochi granny in pale-green silk, plum petals drifting one by one into a clear slow stream, a still gray heron in the water, wooden rooftops glowing warm pink. Peaceful, tender, golden-hour storybook light.
+
+## Animation Notes
+- **Cast:**
+  - `NIKO` — Niko Nigiri: a tidy oval pillow of pearly white rice in a glossy coral-orange salmon cape with a neat black nori belt, stands very straight, bright attentive eyes; later in an indigo kimono with silver cranes; voice: polite, brisk, earnest.
+  - `OJIISAN` — Ojii-san: an old pale wooden tea-whisk with fine silver bristles like a mustache, slow blinking eyes, a soft indigo apron; voice: slow, creaky, kind.
+  - `KINAKO` — Granny Kinako: a plump round old mochi dusted with pale kinako powder, soft wrinkly smile, a pale-green kimono, a teapot in a knitted cozy; voice: warm, chuckling, grandmotherly.
+- **Scenes:**
+  1. A narrow lane in Gion, Kyoto, early morning: dark wooden houses, paper lanterns, smooth dark stones, a deep-blue shop curtain.
+  2. Inside the kimono shop: cedar shelves stacked with folded silk in plum pink, barley gold and indigo, a tall mirror, amber lantern light.
+  3. The same shop floor as silk billows and the big shelf tips, a silk avalanche across the room.
+  4. The tall mirror in the shop, silk heaped around it, calm warm light.
+  5. The Gion lane in the afternoon, gold light on the stones, a tiny birdhouse-sized shrine, a toasted-mochi-colored cat on a doorstep, an old plum tree shedding petals.
+  6. A little arched wooden bridge over a clear stream, a bench, a gray heron in the water, petals drifting, late afternoon.
+  7. The kimono shop doorway and lane at sunset, rooftops glowing plum-pink, warm lantern light inside.
+- **Budget:** 671 narrated words · 43 beats · 7 scenes · est. 4:57

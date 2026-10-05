@@ -82,13 +82,13 @@ Tai laughed — a splashy, bubbly, full-fin laugh that sent happy ripples skitte
 
 Now there was one letter left — and a problem.
 
-Dora squinted at the last envelope. The address was smudged. All it said was a single, soggy word: *"...lonely."*
+Dora squinted at the last letter. The address was smudged. All it said was a single, soggy word: *"...lonely."*
 
 "Oh dear," Dora murmured. "Postcat, who is this one *for*?"
 
 But Postcat was all the way back at the shop. There was no name, no street, no helpful little arrow. Just a letter, and the whole sleepy neighborhood, and a dorayaki with tired pancake-feet and absolutely no idea where to go.
 
-A lesser snack might have given up. A lesser snack might have grumbled, "Well, no address, no delivery," and waddled home to bed. But Dora was a collector of facts, and he remembered an important one: *a letter without a name still belongs to* somebody. He sat on a curb under a humming streetlamp and thought, and thought, turning the little envelope this way and that. He checked it for hidden arrows. He held it up to the lamplight. He even asked a passing moth, very politely, if it knew anybody who was lonely — but the moth only bonked the lamp and flew off, which was no help at all. Dora's beret slowly slid over one eye, the way it always did when his brain was working hardest.
+A lesser snack might have given up. A lesser snack might have grumbled, "Well, no address, no delivery," and waddled home to bed. But Dora was a collector of facts, and he remembered an important one: *a letter without a name still belongs to* somebody. He sat on a curb under a humming streetlamp and thought, and thought, turning the little letter this way and that. He checked it for hidden arrows. He held it up to the lamplight. He even asked a passing moth, very politely, if it knew anybody who was lonely — but the moth only bonked the lamp and flew off, which was no help at all. Dora's beret slowly slid over one eye, the way it always did when his brain was working hardest.
 
 Then he did the only sensible thing. He opened the letter — just to peek for a clue.
 
@@ -126,4 +126,4 @@ May your dreams arrive like a warm little letter, folded into the shape of someo
 ## AI Image Prompts
 1. Warm whimsical storybook style, soft golden lamplight: a cozy stationery-and-gadget shop interior crammed with curious gizmos — strawberry-scented pens, a duck-shaped stapler, a teapot with arms, a backward clock. On a dusty back shelf sits Postcat, a chubby tin-blue toy robot shaped like a cat with antenna-whiskers, a collar bell, and an open mailbox-slot belly. Dora the Dorayaki (two fluffy honey-brown pancakes hugging a sweet red-bean smile, wearing a cozy beret) leans in delighted. Palette of honey-gold, dusty teal, and warm cream; mood enchanted and snug.
 2. Character portrait of Dora the Dorayaki: a round, soft, golden-brown pancake sandwich with a happy red-bean smile and a comfy little beret tilted just so, holding up a paper crane folded from a letter, eyes sparkling with wonder. Warm storybook lighting, soft focus, cozy and curious.
-3. Closing scene, tender night palette of moon-silver and warm amber: on the snuggliest dusty shelf of the shop, Dora the Dorayaki and the little tin-blue robot-cat Postcat are curled up asleep together, Dora's beret draped over them both like a tiny blanket, three delivered letters glowing faintly nearby, a single backward clock ticking softly. Peaceful, dreamy, deeply cozy.
+3. Closing scene, tender night palette of moon-silver and warm amber: on the snuggliest dusty shelf of the shop, Dora the Dorayaki and the little tin-blue robot-cat Postcat are curled up asleep together, Dora's beret draped over them both like a tiny blanket, the 'Dear You' letter glowing faintly nearby, a single backward clock ticking softly. Peaceful, dreamy, deeply cozy.

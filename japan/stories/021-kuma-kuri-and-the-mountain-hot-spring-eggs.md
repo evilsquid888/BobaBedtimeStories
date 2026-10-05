@@ -20,7 +20,7 @@ Then his foot bumped something round and smooth and white in the rocks.
 
 It was not a pebble. It was an egg.
 
-It was, in fact, a whole big basketful of them, set between two warm stones beside the steamiest, bubbliest pool in the whole valley — a pool so toasty that the water hummed like a kettle that had forgotten to stop. The old onsen keeper from the inn down the slope carried a fresh basket of eggs up the mountain every single morning, for any traveler who wanted to cook one — though the travelers were always in too much of a hurry, and the eggs mostly sat there going cold.
+It was, in fact, a whole big basketful of them, set between two warm stones beside the steamiest, bubbliest pool in the whole valley — a pool so toasty that the water hummed like a kettle that had forgotten to stop. The old keeper from the **onsen** (ohn-sen) — hot spring — inn down the slope carried a fresh basket of eggs up the mountain every single morning, for any traveler who wanted to cook one — though the travelers were always in too much of a hurry, and the eggs mostly sat there going cold.
 
 "A **tamago** (tah-mah-goh) — egg," Kuma breathed, because he had read the word once in a cozy book and had been saving it for a special occasion. "A basket of tamago, all cold and lonely. That won't do. That won't do at all."
 
@@ -52,7 +52,7 @@ That was when the first traveler came.
 
 It was a weary little snow-monkey-manju named Yuki, hiking down from the high ridge with rosy onsen-warmed cheeks and very, very tired feet. She didn't see Kuma at all — he had tucked himself behind a steam-cloud out of pure bashfulness — but she did see something marvelous waiting on a clean flat stone right in the middle of the path:
 
-One warm egg. Peeled. Gleaming. Steaming gently. And beside it, written in pebbles, the wobbly little word: *for you*.
+One warm egg. Peeled. Gleaming. Steaming gently. And beside it, written in pebbles, the wobbly little words: *for you*.
 
 "For... me?" Yuki blinked. She looked left. She looked right. She saw nobody (because Kuma had ducked completely behind his own scarf). "Warm cheeks, warm heart, warm friends," she sighed happily, and ate the egg in two delighted bites. "Mmmm. Whoever you are, you are *the kindest*. Thank you, mystery friend!"
 

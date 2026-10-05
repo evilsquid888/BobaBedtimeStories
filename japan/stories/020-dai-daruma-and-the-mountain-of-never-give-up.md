@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A misty mountain trail with a little shrine at the top
 **Theme:** Falling down is just practice for getting up
-**Japanese Spotlight:** **ganbatte** (gahn-baht-teh) — do your best / keep going
+**Japanese Spotlight:** **Ganbatte** (gahn-baht-teh) — do your best / keep going
 
 ---
 
@@ -18,7 +18,7 @@ He popped right back up, geranium petals stuck to his head like a silly hat.
 
 "AHA!" he announced to the entire mountain. "Fall down seven, BOUNCE UP eight!"
 
-A pebble rolled past. It did not answer. Daruma decided this counted as encouragement anyway, and he set off up the misty trail, eyebrows pointed bravely at the clouds.
+A pebble rolled past. It did not answer. Dai decided this counted as encouragement anyway, and he set off up the misty trail, eyebrows pointed bravely at the clouds.
 
 ---
 

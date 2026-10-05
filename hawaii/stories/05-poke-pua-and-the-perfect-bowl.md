@@ -1,215 +1,138 @@
 # Story 5: Poke Pua and the Perfect Bowl
 
 **Main Character:** Poke Pua
-**Guest Characters:** None
+**Guest Characters:** Honu Haupia; Mr. Wiggleworth, a sea bass judge; Gus the gull
 **Setting:** A fish market and poke counter near Honolulu harbor
 **Theme:** Done with love beats perfect every time.
-**Hawaiian Spotlight:** ono (OH-noh) = delicious
+**Hawaiian Spotlight:** **ono** (OH-noh) = delicious
 
 ---
 
 The morning the harbor woke up, Poke Pua was already lining up her sesame seeds.
 
-Not pouring them. Not sprinkling them. *Lining them up.* One. By. One.
+Not pouring. Not sprinkling. Lining them up. One. By. One.
 
-"A little more to the left, sweet star," she whispered to a sesame seed, nudging it with a kelp-ribbon of her hair. "There. Perfect."
+"A little left, sweet star," she whispered, nudging a seed with a kelp-ribbon of hair. "Perfect."
 
-Poke Pua was a wide rice-bowl of a girl, brimming with glistening ruby ahi cubes, green seaweed ribbons, edamame freckles, and a confident ocean grin. Down at the poke counter near Honolulu harbor, she was famous for one thing: the prettiest bowls on the whole island. Tourists took photos of her. Seagulls applauded. A crab once cried happy tears.
+Poke Pua was a wide bowl brimming with ruby ahi, green seaweed ribbons, and edamame freckles.
 
-But this morning — the morning of the Harbor Tasting Contest — Poke Pua wanted more than pretty.
-
-She wanted *perfect.*
-
-"Today," she announced to the sleepy market, "I will build the most flawless poke bowl ever arranged by fin or flipper. And I will win!"
-
-A nearby fish blinked at her.
-
-"You're invited too," she said graciously.
+Today was the Harbor Tasting Contest. "I will build the most flawless bowl ever arranged. And WIN!"
 
 ---
 
-The fish market by the harbor was a wonderful, salty, slappy-floppy kind of place. Crates of ice sparkled like crushed diamonds. Fishermen called out prices in big foghorn voices. The whole pier smelled of sea and lime and something fried.
+The fish market was a salty, slappy-floppy place. Ice crates sparkled. Fish-folk hollered prices.
 
-Poke Pua wheeled herself between the stalls, eyeing everything with an artist's squint.
-
-"Tuna cubes," she muttered. "They must be exactly the same size. Squared corners. No wobblers." She pointed a kelp-ribbon at a tray. "You. You're a wobbler. Out."
+"Tuna cubes must be the same size," Pua muttered. "Squared corners. No wobblers. You. Out."
 
 The tuna cube sniffled and rolled away.
 
-"And the seaweed," she went on, "must drape like a tiny green waterfall — not a tiny green *avalanche.* Anyone can make an avalanche."
+---
 
-She picked her tuna with tweezers made of bamboo splinters. She measured her seaweed against a tiny ruler she kept tucked behind one ear. She held each edamame up to the light like a jeweler inspecting a gem.
+On the warm dock dozed Honu Haupia, a wobbly coconut-pudding sea turtle, shell jiggling gently.
 
-"Too pale," she said, rejecting one. "Too lumpy," she said, rejecting another. "You. You have a personality. Bowls do not need personality. Out."
+"Little wave," she said slowly, "you have been arranging that one cube a very long time."
 
-The edamame rolled away looking, frankly, a little relieved.
+"And does it taste right?" asked Honu.
 
-By the time the sun was fully up, Poke Pua had a plan as tidy as a folded napkin. She would arrange her contest bowl with mathematical magnificence. Each ahi cube placed at a careful angle. Each edamame freckle dotted like a star map. Each sesame seed (oh, the sesame seeds) standing at attention like a row of itty-bitty soldiers.
+Pua paused. "Taste? I haven't had TIME to taste. I've been making it LOOK like it tastes good."
 
-It would take all day.
+Honu smiled her slow turtle smile. "Slow flippers, far journeys," she said, and dozed off again.
 
-It would be worth it.
-
-"Stay fresh, stay flawless," she told herself, which wasn't her real catchphrase, but contest-day Poke Pua was feeling fancy.
-
-A passing crab tried to compliment her. "Wow, that's gonna be the prettiest—"
-
-"*Shh,*" said Poke Pua, not unkindly. "I'm aligning."
-
-The crab tiptoed away on all eight toes.
+Pua frowned at her bowl. Was it **ono** (OH-noh) = delicious? "Of course. Look how pretty it is."
 
 ---
 
-Now, near the poke counter lived a wise old coconut-pudding sea turtle named Honu Haupia, who liked to nap in the warm patch where the morning sun hit the dock.
+Then a breeze came off the water and blew one sesame seed crooked.
 
-She watched Poke Pua fussing for a while, her wobbly haupia shell jiggling gently.
+Pua fixed it. A gull named Gus swooped past. His wing-wind blew seven seeds crooked.
 
-"Little wave," Honu said in her slow, ocean-deep voice, "you have been arranging that one tuna cube for a very long time."
+Pua fixed them all, then built a wall of lime wedges around the bowl.
 
-"Because it has to be *right,*" said Poke Pua, not looking up.
+Gus landed on the wall and ate a lime wedge. "GUS," said Pua.
 
-"Mm." Honu blinked her ancient eyes. "And does it taste right?"
+So Pua lifted the whole bowl onto her head and tiptoed toward the contest tent.
 
-Poke Pua paused. "Taste?"
-
-"Have you tasted it?"
-
-"I haven't had *time* to taste it," said Poke Pua. "I've been busy making it look like it tastes good." She tilted her head. "That's basically the same thing. Right?"
-
-Honu only smiled her slow turtle smile. "Slow flippers, far journeys," she said, and tucked back into her sunny nap.
-
-Poke Pua frowned at the half-built bowl in front of her. It *was* beautiful. The cubes gleamed. The seaweed draped like a tiny green waterfall, exactly as planned.
-
-But she suddenly couldn't remember the last time she'd thought about whether it was **ono** (OH-noh) = delicious.
-
-"Of course it's ono," she said quickly. "Look how pretty it is."
-
-And she went right back to her sesame seeds.
+Slow step. Slow step. The bowl wobbled. Gus circled hopefully overhead.
 
 ---
 
-The contest tent went up at noon, striped red and white like a candy. A long table waited for all the bowls. At the front sat the judge — a round, sunburned, very serious sea bass named Mr. Wiggleworth, who wore tiny glasses on the end of his nose and tasted everything with a frown so deep you could lose a coin in it.
+The tent was striped like candy. The judge, a round sea bass named Mr. Wiggleworth, wore tiny glasses.
 
-"Order!" he barked, even though nobody was being disorderly. "Today we find the most ono bowl on the harbor! No bribing the judge! That means *you,* gull."
+"Order!" he barked, though nobody was disorderly. "No bribing the judge! That means YOU, gull."
 
-Gus the gull, who had been edging toward the snack table, edged back.
+The other bowls were honest, messy, and smelled amazing: soy, ginger, a squeeze of bright lime.
 
-The other cooks brought their bowls. They were good bowls. Honest, friendly, slightly messy bowls that smelled *amazing* — soy and ginger and toasted sesame oil and a squeeze of bright lime. One cook had drizzled hers so happily that the soy made little splatters on the table, like the bowl had sneezed with joy.
+Then Pua set down her masterpiece. The whole tent went ooooh.
 
-Then Poke Pua wheeled in her masterpiece.
+Ahi spiraled like a sunset. Edamame formed a constellation. Sesame stood in rows like tiny soldiers.
 
-The whole tent went *ooooh.*
-
-It really was the most beautiful bowl anyone had ever seen. The ahi cubes spiraled like a sunset. The edamame freckles formed a perfect little constellation. The sesame seeds stood in rows so neat you could've marched them in a parade.
-
-"It's a painting," whispered a clam.
-
-"It's a *miracle,*" whispered a shrimp.
-
-"It's almost dinner," whispered Manapua Mano's cousin, who had wandered in for snacks, but never mind him.
-
-Poke Pua glowed. *This is it,* she thought. *Perfect wins.*
-
-Mr. Wiggleworth adjusted his tiny glasses. He picked up his tasting spoon. He leaned toward the gorgeous, flawless, picture-pretty bowl —
-
-— and that is exactly when everything went sideways.
+Mr. Wiggleworth lifted his spoon. He leaned toward the flawless bowl...
 
 ---
 
-Because right at that moment, a gull named Gus swooped low to get a better photo (gulls love a good photo), and his wingtip clipped the tent pole, and the tent pole bonked the table, and the table did a little *hop.*
+Gus swooped low for a closer look. His wingtip clipped the tent pole.
 
-And Poke Pua's perfect bowl went *fwoomp.*
+The pole bonked the table. The table hopped. And Pua's perfect bowl went FWOOMP.
 
-Tuna cubes flew. Seaweed ribbons sailed. Sesame seeds rained down like the world's tiniest, most organized snowstorm — except now they were *very* disorganized.
+Tuna flew. Seaweed sailed. Sesame rained down like the world's tiniest, most disorganized snowstorm.
 
-Poke Pua gasped so hard she nearly inhaled an edamame.
+Everything landed in one splashy heap, mixed with spilled lime and soy. "It's RUINED!" cried Pua.
 
-Her masterpiece — her hours and hours of work — landed in a great splashy heap, all mixed together with the lime and the soy that had spilled from the bowl beside it. Tuna tumbled into seaweed. Sesame seeds tangled into the edamame. Everything that was supposed to be apart was now gloriously, hopelessly *together.*
+Mr. Wiggleworth, who had skipped lunch, scooped up a big spoonful and ate it.
 
-"NO!" she cried. "It's ruined! It's all mixed up! It's — it's —"
+The tent went silent. The judge chewed. His eyebrows climbed clear off his forehead.
 
-Mr. Wiggleworth, who had not eaten lunch and was extremely hungry, looked at the splashy, messy, wonderful-smelling heap.
-
-And before anyone could stop him, he scooped up a big spoonful and ate it.
-
-The tent went silent.
-
-The judge chewed.
-
-The judge's eyebrows climbed all the way up his forehead and nearly fell off the back of his head.
-
-"This," said Mr. Wiggleworth slowly, "is the most **ono** thing I have ever tasted in my entire life."
+"This," said Mr. Wiggleworth slowly, "is the most ono thing I have ever tasted."
 
 ---
 
-"Wha—" said Poke Pua.
+"The lime is LAUGHING!" he cried, taking another bite. "The soy is hugging the tuna! Everything's TALKING!"
 
-"The flavors!" cried the judge, taking another huge bite. "They're all *talking* to each other! The lime is laughing! The soy is hugging the tuna! The sesame got into *everything* and I love it! Whoever made this understands that food is supposed to be eaten, not framed!"
+"Did you taste it before, when it was all lined up?" asked the judge. Pua's grin wobbled. "No."
 
-"But it's a *mess,*" Poke Pua whispered.
+Then, for the first time all day, she took a bite of her own poke.
 
-"It's a *masterpiece,*" said Mr. Wiggleworth, licking his spoon. He pointed it at her like a wand. "Did you taste your bowl before? When it was all lined up so neat?"
+Her eyes went huge. "Oh. OH." Bright, salty-sweet, like the sea and the whole noisy market at once.
 
-Poke Pua's ocean grin wobbled. "...No," she admitted. "I never tasted it. I only looked at it."
+"I tried all morning to make it perfect," she laughed. "The best thing was getting jumbled up."
 
-"Mm-hm," said the judge. "I could tell. A bowl made only for the eyes forgets to make friends with the tongue. But *this*" — he gestured grandly at the splashy heap — "this was made with *abandon.* With *joy.* With everything jumping in together. *That's* where ono lives, little chef. Not in the spacing of your sesame seeds."
+Pua tossed her bamboo tweezers into the sea. "New rule. Tasting first, lining up never. Who wants poke?"
 
-From her sunny nap spot, Honu Haupia opened one ancient eye and smiled.
-
----
-
-Poke Pua looked down at the joyful, jumbled mess. All her careful lines were gone. All her perfect angles had collapsed into one happy, sloshy pile. The sesame soldiers had broken ranks entirely and were rolling around having the time of their lives.
-
-Then, very slowly, for the first time all day, she took a bite of her own poke.
-
-Her sparkly eyes went huge.
-
-"Oh," she said softly. "*Oh.*"
-
-It was bright. It was salty-sweet. The lime *was* laughing. The sesame *had* gotten into everything, and it was wonderful. It tasted like the sea and the sun and the whole noisy, happy market all at once.
-
-It tasted like it was made with love instead of a ruler.
-
-"I spent all morning trying to make it perfect," she said, half-laughing, half-amazed. "And the best thing that ever happened to it was getting completely jumbled up."
-
-"Funny how that works," rumbled Honu, hauling herself over. "The ocean does not arrange its waves, little wave. It simply lets them roll. And every single one is ono."
-
-Poke Pua hugged the wobbly turtle as best a rice bowl can hug.
-
-Then she turned to the whole tent and grinned her biggest, freshest, most un-fussy grin yet.
-
-"New rule," she announced. "From now on — tasting first, lining up never. Who wants poke?"
-
-And everyone, even Gus the guilty gull, raised a flipper.
+Everyone, even guilty Gus, raised a flipper.
 
 ---
 
-She tossed her bamboo tweezers into the sea. (A surprised fish caught them and used them as fancy chopsticks for years afterward, but that is a different story.)
+At sunset, Pua sat on the warm dock beside Honu, sharing the last bowl of the day.
 
-That afternoon Poke Pua made bowls like she'd never made them before. She tossed the tuna instead of placing it. She let the seaweed land where it wanted. She splashed the lime and laughed when the sesame seeds went absolutely everywhere — onto the counter, onto her cheeks, onto a passing tourist who decided he liked it.
+It was messy. It was perfect. It was both.
 
-Her bowls weren't tidy anymore.
+"Fresh from the sea, that's me," sighed Pua. "And a little messy from the heart."
 
-They were *alive.*
-
-The line at her counter wrapped clear around the harbor. People didn't take as many photos — they were too busy eating. And every single one of them said the same beautiful word.
-
-"*Ono.*"
-
-When the sun finally melted gold into the water, Poke Pua sat on the warm dock beside Honu, sharing the very last bowl of the day. It was messy. It was perfect. It was both.
-
-"Fresh from the sea, that's me," Poke Pua sighed happily. "And maybe a little messy from the heart, too."
-
-"The best ones always are," said Honu Haupia.
-
-And the harbor, full and content, hummed its goodnight to the tide.
+"The best ones always are," said Honu.
 
 ---
 
 ## Goodnight Blessing
-Little one, you don't have to be perfect to be wonderful — you only have to be *you,* made with love and a happy heart. The messy moments are often the most delicious of all, so let your sesame seeds land wherever they land. Tomorrow can be tidy; tonight, just be warm. May your dreams be bright and salty-sweet, full of laughing limes and friends who jump in together. Snuggle down, sweet wave, and let the tide rock you slow. Goodnight.
+You don't have to be perfect to be wonderful, just you, made with love. The messy moments are the most delicious. Let your sesame seeds land where they land. Snuggle down and let the tide rock you slow. Goodnight.
 
 ## AI Image Prompts
-1. A warm, whimsical storybook illustration of Poke Pua, a friendly wide rice-bowl character brimming with glistening ruby ahi tuna cubes, green seaweed ribbons, edamame freckles, and sesame stars, with kelp-strand hair and huge sparkly eyes. She stands at a sunlit poke counter by Honolulu harbor, a striped red-and-white contest tent behind her, fishing crates glittering with ice. Her gorgeous spiraled bowl is mid-spill — tuna cubes and sesame seeds flying joyfully through golden afternoon light — while a sunburned sea bass judge in tiny glasses looks delighted. Soft, cozy palette of ocean teal, sunset coral, lime green, and warm gold; playful, lighthearted mood, gentle island warmth.
-2. A character portrait of Poke Pua, a wide ocean-blue rice-bowl girl with a confident grin, kelp-ribbon hair flowing like seaweed, filled with shining ruby ahi cubes, bright green edamame, and a sprinkle of sesame stars. She strikes an artsy pose, one kelp-ribbon raised as if presenting her creation, sparkly eyes full of joy. Warm storybook style, soft outlines, sun-bright island background, palette of teal, ruby, gold, and seafoam green.
-3. A cozy closing scene at golden hour: Poke Pua sits on a warm wooden harbor dock beside Honu Haupia, a wobbly snow-white coconut-pudding sea turtle with a gently jiggling haupia-square shell and ancient gentle eyes. They share one happily messy poke bowl between them as the sun melts into the rippling water. Sleepy, peaceful island mood, soft amber-and-rose light, calm sea, distant boats, a single seagull silhouette. Tender, dreamy storybook illustration radiating aloha and rest.
+1. Key scene — warm whimsical storybook illustration of Poke Pua, a wide rice-bowl character brimming with glistening ruby ahi cubes, green seaweed ribbons, edamame freckles and sesame stars, with kelp-strand hair and huge sparkly eyes, inside a red-and-white striped contest tent by Honolulu harbor. Her gorgeous spiraled bowl is mid-tumble, tuna cubes and sesame seeds flying through golden light, a gull tangled in the tent pole above, and a round sea bass judge in tiny glasses already reaching in with his spoon, delighted. Cozy palette of ocean teal, sunset coral, lime green and warm gold, playful lighthearted mood.
+2. Character portrait — Poke Pua: a wide ocean-blue rice-bowl girl with a confident grin, kelp-ribbon hair flowing like seaweed, filled with shining ruby ahi cubes, bright green edamame and a sprinkle of sesame stars, striking an artsy pose with one kelp-ribbon raised as if presenting her creation, sparkly eyes full of joy. Warm storybook style, soft outlines, sun-bright harbor background.
+3. Closing scene — golden hour on a warm wooden harbor dock: Poke Pua sits beside Honu Haupia, a wobbly snow-white coconut-pudding sea turtle with a gently jiggling haupia-square shell and ancient gentle eyes, sharing one happily messy poke bowl as the sun melts into the rippling water. Sleepy peaceful island mood, soft amber-and-rose light, calm sea, distant boats, a single gull silhouette.
+
+## Animation Notes
+- **Cast:**
+  - `POKE` — Poke Pua: a wide rice-bowl body brimming with ruby ahi cubes, green seaweed ribbons, edamame freckles and sesame stars, kelp-strand hair, a confident grin; voice: fresh, confident, artsy.
+  - `HONU` — Honu Haupia: a wobbly snow-white coconut-pudding sea turtle with a jiggling shell patterned in haupia squares, gentle ancient eyes, slow flippers; voice: calm, slow, ancient.
+  - `JUDGE` — Mr. Wiggleworth: a round, sunburned, very serious sea bass with tiny glasses on the end of his nose and a deep frown, holding a tasting spoon; voice: gruff, barking, hungry.
+  - `GUS` — Gus the gull: a scruffy white-and-grey seagull with a yellow beak and a guilty look; no lines.
+- **Scenes:**
+  1. A poke counter by Honolulu harbor at sunrise, a bowl of ruby ahi, a tray of sesame seeds in a perfect row, boats beyond.
+  2. The busy fish market: crates of sparkling ice, trays of tuna cubes and edamame, fish-folk at the stalls.
+  3. A warm wooden dock in morning sun, a coconut-pudding sea turtle dozing, the poke counter nearby.
+  4. The poke counter in a breeze, a wall of lime wedges around the bowl, a gull on the wall, the path to a striped tent.
+  5. Inside a red-and-white striped contest tent at noon: a long table of poke bowls, a sea bass judge in tiny glasses, a tent pole.
+  6. The same tent as the table hops: a bowl tumbling, tuna and sesame flying, a splashy heap on the table.
+  7. The tent after the spill, the judge licking his spoon, a happy jumbled heap, everyone leaning in.
+  8. The harbor dock at golden sunset, the turtle and the poke bowl side by side, calm water, distant boats.
+- **Budget:** 663 narrated words · 44 beats · 8 scenes · est. 4:55

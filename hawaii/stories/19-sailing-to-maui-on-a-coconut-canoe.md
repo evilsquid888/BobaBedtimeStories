@@ -8,128 +8,128 @@
 
 ---
 
-Niu the Coconut had a checklist, and the checklist had a checklist.
+On a bright Oahu beach bobbed the tiniest canoe you ever saw: orange, with a beach-towel sail.
 
-"Paddle?" he barked, his three little face-dots squinting in the morning sun. "Check. Snacks? Check. Backup snacks for the backup snacks? Triple check. Tiny woven hat firmly upon my noggin?" He patted his head with a satisfied *thock*. "Check, check, check."
+Its captain was a coconut. Niu patted his tiny woven hat with a satisfied thock.
 
-The canoe bobbed at the edge of the beach — a teeny outrigger no bigger than a bathtub, painted sunset-orange, with a sail made from a borrowed beach towel. It was, Niu had decided, the finest vessel ever to leave Oahu. Mostly because it was the *only* vessel leaving Oahu that would let a coconut be captain.
+"Paddle, check. Snacks, check. Backup snacks for the backup snacks, triple check," barked Niu.
 
-"All aboard for **holoholo** (HOH-loh-HOH-loh) = a little trip out just for fun!" sang Dole Whip Dani, swirling up the sand in a wobble of golden soft-serve. "We're going holoholo to MAUI! Oh, I can already feel the whole entire ocean being so jealous of us!"
+Dole Whip Dani swirled up the sand, golden curl bouncing. "MAUI, here we come!"
+
+"It's **holoholo** (HOH-loh-HOH-loh) = a trip out just for fun! The ocean will be SO jealous!" sang Dani.
 
 "Oceans don't have feelings, Dani," said Niu.
 
-"This one will when it sees my outfit," said Dani.
+"This one will when it sees my outfit," said Dani, striking a pose.
+
+Kai the Shave Ice shuffled down last, umbrella hat tilted. "Whoa. The water's doing the blue thing, brah."
 
 ---
 
-It really was a perfect morning for a trip. The water lay flat and shiny as a freshly licked spoon, and the channel between Oahu and Maui sparkled like someone had spilled a whole jar of glitter and decided not to clean it up.
+Honu Haupia slid in, jiggling into the stern. "The channel is old and wide. Listen to her."
 
-Kai the Shave Ice came shuffling down the sand last, his paper-umbrella hat tilted at a relaxed angle and his tiny spoon tucked snugly behind one ear. "Whoa," he breathed, gazing at the horizon. "Look at that water, brah. It's doing the thing where the blue meets the *bluer* blue and then there's a little stripe of, like, blue's cooler cousin? I could just float here all day."
+"I prefer to talk AT the ocean," said Niu. "We arrive by lunch. I calculated it."
 
-"We are not floating all day," said Niu. "We are arriving by lunch. I have calculated it."
+Niu shoved off. The canoe skimmed onto water flat and shiny as a freshly licked spoon.
 
-The last of them slid into the canoe with barely a ripple. Honu Haupia, the wobbly coconut-pudding sea turtle, settled her jiggling square-patterned shell into the back and gave a slow, gentle blink. "Aloha, little crew," she murmured, her voice as soft as a wave folding over sand. "The channel between islands is old and wide. She has carried many travelers. We must listen to her as we go."
+Dani perched at the bow greeting everything. "Hi, fish! Hi, wave! Hi, other wave! We're friends now!"
 
-"I prefer to talk *at* the ocean rather than listen to it," said Niu, "but noted. Crew! Take your stations!"
-
-Nobody had stations. They mostly just sat down. But Niu felt much better having said it, so he untied the rope, gave a mighty shove, and the little canoe slipped out onto the wide blue water.
+Niu gripped his paddle, eyes locked on the grey smudge of Maui. "Steady captain. Everything under control."
 
 ---
 
-For a while, holoholo was *glorious*.
+That was exactly when the **makani** (mah-KAH-nee) = wind woke up and sneezed across the channel.
 
-Dani perched at the front like a golden figurehead, narrating everything. "Oh! A flying fish! Hi, fish! Oh! A wave! Hi, wave! Oh! Another wave! You again! We're friends now!"
+The towel sail puffed. The canoe skidded sideways. Dani slid from bow to side with a squelch.
 
-Kai trailed one drippy hand in the water, leaving a faint pink-and-blue swirl behind them like the canoe was doodling on the sea. "If you taste the spray," he reported dreamily, licking his lips, "it's salty with a *finish* of more salty. Five stars. Would mist again."
+"Whoooa, the ocean's got the wobbles, brah," said Kai, clamping both arms on his umbrella hat.
 
-Honu drifted at the back, humming an old turtle song with no words, only the sound the tide makes. And Niu — Niu sat dead center, gripping his paddle, eyes locked on the gray smudge of Maui far, far ahead.
+Little marching hills of waves bonked the bottom of the boat. Bonk. Bonk. Bonk.
 
-"Stay on course," he muttered. "Tough shell, sweet heart, *steady captain*. I've got everything under control."
+"Nobody panic!" announced Niu, panicking. "The plan is, I paddle HARDER!"
 
-That was, of course, exactly the moment the wind decided to wake up.
+He paddled so hard his woven hat flew off and landed on Kai's umbrella.
 
----
+He paddled until his coconut water sloshed like a washing machine. The canoe swung in a wide circle.
 
-It started small. A breeze ruffled the beach-towel sail. Then a *bigger* breeze. Then a gust came swooping across the channel like an invisible puppy that had spotted a stick, and the canoe tipped and skidded and spun half around.
-
-"WAH!" cried Dani, sliding from the front to the side with a *squelch*.
-
-"Whoooa, the ocean's got the wobbles now, brah," said Kai, gripping his umbrella hat.
-
-The flat shiny water was gone. In its place rose little marching hills of waves, each one giving the canoe a friendly but very firm *bonk* on the bottom. The boat rocked. The boat rolled. The boat did a thing Niu's checklist had absolutely not approved.
-
-"Nobody panic!" announced Niu, panicking. "I will fix this! I have a plan! The plan is — I paddle harder!"
-
-He paddled harder. He paddled so hard his little woven hat flew off and landed on Kai's umbrella. He paddled until his shaggy shell was soaked and his coconut water sloshed around inside him like a washing machine. But the wind kept shoving them sideways, and the harder Niu fought, the more the canoe spun like a leaf in a gutter.
-
-"Niu," said Honu gently from the back.
-
-"Not now! Captaining!"
-
-"Niu," said Honu again, soft as ever. "You are turning the boat in circles. We have passed that same friendly wave three times. I believe it is starting to wonder about us."
-
-Niu stopped. He looked. They had, in fact, made a complete loop. Maui was now somehow *behind* them. His three face-dots crumpled.
-
-"I don't understand," he said, very quietly. "I made a checklist. I calculated. A good captain handles everything himself. That's the whole *point* of a hard shell — you don't need anybody to —" His voice wobbled like the waves. "I'm supposed to keep everybody safe."
+A flying fish flopped aboard, took one look at the captain, and flopped right back out.
 
 ---
 
-Honu glided one slow flipper through the rocking water. "Little coconut," she said, "a hard shell keeps the rain out. But it also keeps your good crew's help *out*. Slow flippers, far journeys — and far journeys are never paddled alone." She tilted her ancient head. "May we help?"
+"Niu," said Honu gently. "We have passed that same friendly wave three times."
 
-Niu hesitated. Helping was not on the checklist. Helping meant trusting that three goofballs — a melty soft-serve, a daydreaming snow-cone, and a pudding turtle — could do something he couldn't.
+Niu looked up. Maui was now somehow BEHIND them. His three face-dots crumpled.
 
-But the wind gusted again, and the canoe lurched, and Niu looked at his crew. Dani, holding tight but grinning. Kai, calm even sideways. Honu, patient as the tide. And something in his tough little shell went soft and sweet at the center.
+"I made a checklist," he whispered. "I calculated. A hard shell shouldn't need anybody."
 
-"...Okay," he whispered. "Crew. I need you. *Help.*"
+"A hard shell keeps the rain out," said Honu. "It also keeps your crew's help out."
 
-Three things happened at once, and they happened *beautifully*.
+"Far journeys are never paddled alone, little coconut," said Honu. "May we help?"
 
-Honu spread her wide jiggly shell up over the side facing the wind. "I am low and broad," she said. "I will be your keel. Lean on me, and the channel cannot tip you." And just like that, the rocking eased — the turtle anchored them steady as an island.
+The canoe lurched. Niu looked at his crew: grinning, calm, patient. Something inside him went soft.
 
-Kai squinted at the water with his cool surfer eyes, reading it the way only a creature made of the same chilly stuff could. "Brah, don't fight the waves — *ride* 'em," he said. "When I say go, paddle. When the hill comes, rest. Go... go... rest... go." He called it out like a song, and the rhythm slid into Niu's paddle.
-
-And Dani — sunny, swirly Dani — scampered to the front and flung her glossy curl into the breeze. "Use me as a wind-reader!" she cried. "Whichever way my curl flops, that's where the wind's pushing! It flops LEFT! Paddle right, Captain, paddle riiiiight!"
+"Okay," he whispered. "Crew. I need you. Help."
 
 ---
 
-It worked. Oh, it *worked*.
+Honu spread her wide jiggly shell against the wind. "I am your keel. Lean on me."
 
-With Honu steadying, Kai timing, and Dani's curl flopping this way and that like the world's most cheerful weathervane, the little canoe stopped spinning. It stopped fighting. It began to *dance* — up a wave, glide down, lean into the wind, skip across the next.
+The rocking eased at once, as if the turtle had anchored them to an island.
 
-"Go... go... rest..." chanted Kai.
+Kai read the waves with cool surfer eyes. "Don't fight 'em, ride 'em. Go, go, rest. Go!"
 
-"Curl says RIGHT!" sang Dani.
+Dani flung her glossy curl into the breeze. "I'm a wind-reader! Curl flops LEFT, paddle RIGHT!"
 
-"Steady as stone," rumbled Honu.
-
-And Niu paddled — not harder, but *together*, his stroke folding into theirs until the four of them moved like a single happy creature skimming the sea. The gray smudge of Maui grew bigger. And bigger. Until it was green hills and golden beaches and a little harbor waving hello.
-
-Niu laughed — a real, sloshy, water-sloshing laugh. "We're doing it! We're going holoholo for *real* now! Not because I'm doing it all — because *we* are!" He grinned at his crew with all three face-dots. "Tough shell, sweet heart... and the very best crew on the channel."
-
-"Aw, Captain's getting mushy!" cheered Dani. "I LOVE it!"
-
-"He went soft in the middle," said Kai approvingly. "Like good shave ice."
-
-The canoe slid into the calm of Maui's harbor as soft as Honu's flipper, and the sun was still high, and lunch was still warm in the snack bag — the backup snacks, and the backup-backup snacks too.
+Niu's woven hat, still perched on Kai's umbrella, flapped its agreement.
 
 ---
 
-That night, they pulled the little orange canoe up onto a Maui beach and lay back in the warm sand, four friends under a sky stuffed full of stars.
+The canoe stopped fighting. It danced: up a wave, glide down, lean, skip across the next.
 
-"You know," said Niu sleepily, his hat tipped over his face-dots, "I think I made the checklist wrong. I forgot the most important thing."
+"Curl says RIGHT!" sang Dani, flopping like the world's cheeriest weathervane.
+
+Niu paddled, not harder but together, and Maui grew from a smudge into green hills.
+
+"We're going holoholo for real now!" laughed Niu. "Not because I'm doing it. Because WE are!"
+
+"Captain's getting mushy!" cheered Dani.
+
+"He went soft in the middle," said Kai. "Like good shave ice."
+
+---
+
+The canoe slid into Maui's harbor soft as a flipper, lunch still warm in the snack bag.
+
+"I made the checklist wrong," said Niu, hat back on his noggin. "I forgot the most important thing."
 
 "What's that, brah?" yawned Kai.
 
-Niu smiled. "Crew. Check."
+"Crew," said Niu. "Check."
 
-And the channel between the islands, dark and wide and old, sloshed softly against the shore, as if to say: *holoholo, little ones. Rest now. You did it together.*
+Four friends leaned together in the warm sand while the wide old channel hushed against the shore.
 
 ---
 
 ## Goodnight Blessing
-May your sails fill with gentle wind, and your crew always be near. When the waves grow big, may you remember that the bravest thing of all is letting someone help you. You don't have to be strong all alone, little one — you have a whole 'ohana holding the boat steady, just for you. Close your eyes now, and let the tide rock you slow and warm and safe. Goodnight.
+May your sails fill with gentle wind and your crew stay close. When the waves grow big, let someone help you hold the boat. You are never paddling alone, little one. Let the tide rock you slow. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration: a tiny sunset-orange outrigger canoe with a beach-towel sail dancing across choppy turquoise channel waves at midday. Niu the Coconut (round shaggy brown coconut with a green straw-sprout, tiny woven hat, three dot-face) paddles center; Dole Whip Dani (golden soft-serve swirl with a glossy curl flopping in the wind) at the bow as a weathervane; Kai the Shave Ice (snow-white dome with rainbow syrup stripes, paper-umbrella hat) calling rhythm; Honu Haupia (wobbly white coconut-pudding sea turtle) bracing her broad shell against the wind. Bright, joyful, spray sparkling, soft painterly light, sense of teamwork and motion.
-2. Character portrait of Niu the Coconut: a round, shaggy brown coconut with a green drinking-straw sprout on top, three little dot-eyes, a tiny woven hat, standing proudly with a small wooden paddle, a hairline crack of warm light showing his soft sweet heart inside. Confident captain's grin, cozy storybook style, golden backlight.
-3. Cozy closing scene: four friends lying back in warm golden sand on a Maui beach at twilight, the little orange canoe pulled up beside them, a sky full of big soft stars, gentle waves glowing. Niu with his hat tipped over his eyes, Dani's swirl catching starlight, Kai relaxed, Honu's shell faintly shimmering. Peaceful, sleepy, warm palette of deep blue, gold, and lavender.
+1. Key scene — warm whimsical storybook illustration: a tiny sunset-orange outrigger canoe with a beach-towel sail dancing across choppy turquoise channel waves under a bright midday sky. Niu the Coconut (round shaggy brown coconut, green straw-sprout, three dot-face, no hat) paddles center; Dole Whip Dani (golden soft-serve swirl, glossy curl flopping sideways in the wind) at the bow like a weathervane; Kai the Shave Ice (snow-white dome with rainbow syrup stripes, paper-umbrella hat with a tiny woven hat perched on top) calling rhythm; Honu Haupia (wobbly white coconut-pudding sea turtle) bracing her broad shell against the wind. Spray sparkling, joyful teamwork, soft painterly light.
+2. Character portrait — Niu the Coconut: a round shaggy brown coconut with a green drinking-straw sprout on top, three little face-dots, a tiny woven hat, holding a small wooden paddle with a determined captain's grin, a hairline of warm light showing the sweet heart inside. Cozy storybook style, golden backlight, palette of brown, green and sea-blue.
+3. Closing scene — four friends leaning together on warm golden Maui sand in the late afternoon, the little orange canoe pulled up beside them, calm turquoise harbor water glowing behind. Niu with his woven hat tipped over his face-dots, Dani's swirl catching the light, Kai relaxed with his umbrella hat, Honu's shell faintly shimmering. Peaceful, sleepy, warm palette of gold, turquoise and soft coral.
+
+## Animation Notes
+- **Cast:**
+  - `NIU` — Niu the Coconut: a round shaggy brown coconut with a green straw-sprout on top, three little face-dots, a tiny woven hat, stubby arms; voice: steady, bossy, warm.
+  - `DANI` — Dole Whip Dani: a swirly golden-yellow soft-serve peak in a little cup-body, glossy curl on top, tiny pineapple-leaf tuft, huge sparkly eyes; voice: sunny, bubbly, fast.
+  - `KAI` — Kai the Shave Ice: a tall fluffy snow-white dome striped with gold, blue and strawberry syrup in a paper cone, paper-umbrella hat, tiny spoon behind one ear; voice: mellow, surfer, cool.
+  - `HONU` — Honu Haupia: a wobbly snow-white coconut-pudding sea turtle with a jiggly shell patterned in haupia squares, gentle ancient eyes, slow flippers; voice: calm, slow, ancient.
+- **Scenes:**
+  1. A bright Oahu beach in the morning: a tiny orange outrigger canoe with a beach-towel sail at the water's edge, a snack bag aboard, calm turquoise shallows.
+  2. The canoe leaving shore onto a flat, glittering channel, Oahu shrinking behind, a grey smudge of Maui far ahead.
+  3. The open channel as the wind rises: the towel sail puffed, small marching waves, spray, the canoe tipping sideways, a flying fish.
+  4. The canoe swung around on choppy water, Maui visible behind it, the crew leaning in close; bright but windy midday light.
+  5. The canoe steadied against the wind: Honu's broad shell braced on the windward side, Dani's curl flopping at the bow, the woven hat perched on Kai's umbrella.
+  6. The canoe skipping up and down the waves toward Maui, green hills and golden beaches growing closer, sunny afternoon.
+  7. Maui's calm harbor and a warm sandy beach in late-afternoon light, the orange canoe pulled up on the sand, the four friends leaning together.
+- **Budget:** 661 narrated words · 44 beats · 7 scenes · est. 4:54

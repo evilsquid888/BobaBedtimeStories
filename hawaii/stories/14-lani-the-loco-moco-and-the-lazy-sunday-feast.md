@@ -1,153 +1,134 @@
 # Story 14: Lani the Loco Moco and the Lazy Sunday Feast
 
 **Main Character:** Lani the Loco Moco
-**Guest Characters:** None
+**Guest Characters:** Dole Whip Dani; Musubi Manu; Uncle Smoky, the diner cook
 **Setting:** A cozy family diner on a rainy Sunday in Hilo
 **Theme:** Rest is part of love, too.
 **Hawaiian Spotlight:** **nanea** (nah-NEH-ah) = relaxed / at ease
 
 ---
 
-Rain in Hilo doesn't fall so much as it *flops* — big fat warm drops going *plip-plop-PLUNK* on the diner roof like the whole sky decided to take a nap and forgot to close its eyes. And underneath that drumming roof, in the coziest corner booth of the Aloha Spoon Diner, sat Lani the Loco Moco — a hearty rice mountain crowned with a sunny fried egg like a golden hat, a burger-patty belt snug around his middle, and shiny rivers of gravy running gently down his sides.
+Rain in Hilo doesn't fall. It flops. Plip-plop-PLUNK on the roof of the Aloha Spoon Diner.
 
-Lani had one eye open. Just one. The runny-yolk one.
+In the coziest corner booth sat Lani the Loco Moco, one eye open. The runny-yolk one.
 
-"Mmmrrph," he yawned, so wide that a little wobble of gravy slid down and went *bloop* on the table. "Now THAT," he rumbled happily, "is a good gravy bloop."
+"Mmmrrph," he yawned, and a wobble of gravy slid down and went bloop on the table.
 
-And then the door banged open, and the whole busy gang came charging in out of the rain — and Lani's lazy, lovely Sunday was about to get *gloriously* interrupted.
+"Now THAT," rumbled Lani, "is a good gravy bloop."
 
----
-
-In tumbled the soggiest, busiest, most out-of-breath bunch of friends you ever saw.
-
-Dole Whip Dani came first, swirling so fast her glossy golden curl whipped side to side. "We're LATE! We're late-late-LATE! I have nine plans and three of them are already behind!"
-
-Behind her bounced Manapua Mano, a pillowy steamed bun puffing little wisps of frantic steam. "Did somebody say plans? Are there snacks in the plans? Please say snacks!"
-
-Then came Musubi Manu, his nori seatbelt cinched extra tight, clutching a checklist longer than himself. "Beach cleanup at ten. Market run at eleven. Fix Niu's wobbly hat by noon. We are *behind schedule*, people!"
-
-Lilikoi Lani — the tiny purple passion fruit, not to be confused with our sleepy hero, though wouldn't *that* be a mix-up — zipped in last, leaving a tangy-sweet scent trail like a comet. "I dare us to do ALL of it before lunch! Sour first, sweet always!"
-
-They skidded to a stop in front of the corner booth, dripping, panting, and frazzled. Manu's checklist was so soggy the ink had begun to run, which meant item seven now just said "fix Niu's wobbly cat," and nobody could find a cat to fix.
-
-Lani opened his other eye. Slowly. Like a sunrise that wasn't in any particular hurry.
-
-"Aloha," he rumbled, warm as fresh gravy. "You all look like a rainstorm chewed you up and spat you out."
-
-"Because it DID!" wailed Dani. "Lani, you have to come help! We have errands! We have a list! We have a *schedule with little boxes to check!*"
-
-Lani looked at the soggy list. He looked at the rain flopping down outside. He looked at his friends — every one of them frazzled, fidgety, and so busy they'd forgotten to even shake the rain off their shoulders.
-
-And then Lani did the bravest, laziest, most loving thing of all.
-
-He patted the booth cushion beside him. "Sit down," he said. "Just for a minute."
+BANG went the door. In charged the soggiest, busiest gang in Hilo.
 
 ---
 
-"Sit DOWN?" squawked Manu, scandalized. "Lani, it's not even noon! Sitting down is a *six o'clock activity!*"
+Dole Whip Dani swirled in first, curl whipping. "We're LATE! I have nine plans and three are behind!"
 
-"There's a whole list!" Dani spun in an anxious little circle. "If I stop swirling, I'll *melt!*"
+Musubi Manu squelched in behind, clutching a checklist longer than himself. "Beach cleanup at ten. Market at eleven."
 
-"Then melt a little," Lani said gently, scooting over. "I make a very comfy pillow. Ask the egg."
+"And fix Niu's wobbly hat by noon," said Manu. The list was so soggy the ink was running.
 
-The egg on his head wobbled in cheerful agreement.
+Lani opened his other eye. Slowly. Like a sunrise with nowhere to be.
 
-Lilikoi Lani, who could never resist a dare even when nobody had made one, flopped onto the cushion with a *plop*. "Fine! I'll sit for exactly four seconds. One — two —" She stopped. The cushion was warm. The rain was soft. A pot of something delicious was bubbling somewhere in the back. "...okay maybe nine seconds."
+"You look like a rainstorm chewed you up," he rumbled, "and spat you out."
 
-One by one, like a row of dominoes deciding to take a break, the others sank into the booth.
+"Because it DID!" wailed Dani. "Come help! We have a schedule with little boxes!"
 
-"I am still *very* much against this," announced Manu, his pork heart already going soft and warm. "Strongly. Against." His tummy growled like a tiny thunderclap. "...Although. Is that pot of saimin I smell?"
-
-It was. The diner's old cook — a big jolly Kalua-pig-shaped fellow named Uncle Smoky — ambled over with a tray, smelling of fragrant woodsmoke and aloha.
-
-"Rainy Sunday special," Uncle Smoky said, in a rumble even deeper than Lani's. "On the house. Eat slow, keiki. The rain's not going anywhere, and neither should you."
-
-He set down steaming bowls of **saimin** (sigh-MIN) = Hawaiian noodle soup, golden and curling with little ribbons of egg and pink fish cake. The smell wrapped around the booth like a blanket coming out of the dryer.
-
-For one whole, holy, beautiful moment — the whole gang went quiet.
-
-Then Manu inhaled half a bowl in a single slurp and announced, "I take back EVERYTHING. Sitting down is the best idea anyone has ever had in the history of ideas."
+Lani wanted one thing: his friends in this booth, warm, for one minute. He patted the cushion.
 
 ---
 
-But Musubi Manu, bless his tidy square heart, couldn't quite let go. He kept peeking at his soggy list. "We really should get to the beach cleanup. And the market. And the wobbly... cat."
+"Sit DOWN?" squawked Manu. "It's not even noon! Sitting is a six o'clock activity!"
 
-"Manu," said Lani, slurping a noodle so long it took three slurps to finish, "look outside."
+He marched straight out the door into the rain. Brave. Square. Tidy.
 
-Manu looked. The rain was coming down in shimmering silver sheets now, fogging the windows, turning all of Hilo into a soft gray watercolor painting.
+A gutter waterfall dumped on his head. His nori belt slid to his ankles. He marched back.
 
-"The beach is *underwater*, brother," Lani chuckled, and his whole rice-mountain body jiggled. "The market's closed. Nobody's fixing any hats today. The whole island is doing the same thing we are." He winked his runny-yolk wink. "Resting."
-
-"But I'm not GOOD at resting," Manu admitted, very quietly, the way you confess your most secret secret. "If I'm not doing something useful, I feel like I'm... not being a good friend."
-
-Lani went still. And then he said the thing this whole story is really about — so lean in close, sweet one, because it's a true thing worth keeping under your pillow.
-
-"Manu," Lani said softly, "taking care of your **'ohana** (oh-HAH-nah) = family doesn't always mean *doing*. Sometimes the most loving thing in the whole wide world is just being *nanea* — relaxed, at ease — *together*. Resting beside the ones you love? That's a gift too. Maybe the warmest one."
-
-Manu's nori seatbelt loosened, just a little. His shoulders, which had been up around his ears all morning, drifted down. He set the soggy list on the table, ink and all.
-
-"Nanea," Manu said, trying the word out. "Nah-NEH-ah." He sighed the biggest, softest sigh. "...That feels nice in my mouth."
-
-"It feels nice *everywhere*," giggled Dani — and for the first time all day, she wasn't spinning. She'd gone gently, happily melty at the edges, slumped against Lani's warm side like a sunbeam taking a nap. "Lani, I think I forgot how to swirl and I've never been so comfy in my LIFE."
+"The rain," said Manu, dripping, "is very rude."
 
 ---
 
-And so the Lazy Sunday Feast began in earnest.
+"I'll go!" sang Dani, grabbing a big leaf for an umbrella. "Stay cool and swirl on!"
 
-Uncle Smoky kept the warm things coming. There were soft sweet rolls, and little plates of fruit, and a great big shared bowl of haupia pudding that wobbled when anyone laughed — which meant it wobbled a LOT, because Lilikoi kept telling jokes.
+The wind flipped the leaf inside out. Then it nearly flipped Dani inside out. Her curl went flat.
 
-"Why did the rice cross the ocean?" she demanded.
+Uncle Smoky, the diner's big pig-shaped cook, scooped her back inside with a frying pan.
 
-"Why?" everyone groaned.
+"Rainy Sunday rule," rumbled Smoky. "The rain's not going anywhere, and neither are you."
 
-"To get to the *other tide!*"
-
-The haupia jiggled. Manu laughed so hard a sugar crystal — wait, he didn't have those, that's Malia — well, he laughed so hard his swirl-knot bounced, and that set Manapua bouncing, and *that* set the whole booth wobbling, and somebody knocked a bloop of gravy onto the egg-hat, and Lani just laughed his big slow comfy laugh and let it stay there.
-
-"Okay, okay, one more," said Lilikoi, bouncing on the cushion. "What do you call a sleepy bowl of rice on a rainy day?"
-
-Manu, mouth full of noodle, mumbled, "I dunno, what?"
-
-"A loco-*slow*-co!" Lilikoi crowed, and pointed both little arms at Lani like she'd just won a prize.
-
-Lani didn't even mind being the joke. He gave a slow, pleased rumble. "Guilty," he said, and patted his gravy-rivered belly. "Slowest moco in all of Hilo, and proud of it."
-
-Then a wonderful, dozy thing started happening around the booth. Dani's frantic ninth plan slipped right out of her head, and she couldn't for the life of her remember what it had been. Manu's shoulders, which had been tight as his nori belt since sunrise, went soft as steamed rice. Manapua stopped asking what was next and simply sat with one cheek squished against the warm window, watching a single raindrop race another raindrop all the way down the glass. Lilikoi, the zippiest fruit on the island, the one who could never sit still for nine whole seconds — Lilikoi let out one long, slow, contented breath, and stayed.
-
-"Is this what nanea feels like?" she whispered, almost like she didn't believe such a soft thing could be real.
-
-"This is what nanea feels like," Lani rumbled. "Warm. Slow. Full. And not one bit alone."
-
-Outside, the rain played its soft *plip-plop-PLUNK* lullaby. Inside, the windows fogged up warm and gold. Somebody — probably Dani, half-melted and dreamy — drew a little heart in the foggy window with one fingertip. And underneath the heart, in wobbly letters, she wrote: *NANEA*.
-
-The afternoon stretched out long and golden and slow. Nobody checked a list. Nobody checked the time. They told stories and slurped noodles and leaned on each other and watched the rain paint Hilo silver. Uncle Smoky dimmed the lamps to a honey glow and hummed an old island tune from the kitchen, and the whole diner felt like the inside of a warm hug. Even the rain seemed to settle in for the long haul, drumming slower now, sleepier, *plip... plop... plunk...* like it, too, had decided there was nowhere better to be than right here.
-
-And here's the silly, wonderful truth that the busy little gang discovered that day: they got *more* done by doing nothing together than they ever could have rushing around alone. Because what they really needed — what their tired, frazzled, rained-on hearts had needed all along — wasn't a checked-off list.
-
-It was each other. Warm, close, and **nanea**.
+Dani dripped onto the booth, half-melted. "I forgot how to swirl. Is that bad?"
 
 ---
 
-As the gray afternoon softened toward evening, Manu picked up his soggy, ruined list one last time. He looked at it for a long moment.
+The door blew open, and Manu's checklist flew out of his arms like a startled bird.
 
-Then he turned it over, found a dry corner, and wrote a brand-new list. It had exactly one item on it:
+"MY LIST!" Manu dove. Dani slid. Lani did not move. Lani was busy being comfy.
 
-*1. Rest with my 'ohana. ✓ — done, and the best one yet.*
+The list sailed down the street, now a river, with Manu paddling after it in a bucket.
 
-Lani gave a great, gravy-jiggling, deeply contented rumble, the kind that comes all the way up from a happy belly. He pulled his egg-hat down like a sleepy cap, snuggled his warm rice-mountain self against all his friends, and let out the coziest sigh on the whole island.
+He caught it. It was mush. The only errand left said fix Niu's wobbly cat.
 
-"Pile it high, sleepy guys," he murmured. "Pile it high."
+"We don't have a cat," said Manu, very quietly, and he sat down in the booth.
 
-And so they did — one big, warm, noodle-full, rain-wrapped pile of friends, **nanea** at last, with the rain singing them softer and softer and softer into the cozy gray-gold evening.
+---
+
+Uncle Smoky set down steaming bowls of **saimin** (sigh-MIN) = Hawaiian noodle soup. "On the house. Eat slow, keiki."
+
+For one whole, holy moment, the gang went quiet.
+
+Manu inhaled half a bowl in one slurp. "I take back EVERYTHING. Sitting is the best idea ever."
+
+"If I'm not doing something useful," said Manu, peeking at the mush, "I'm not a good friend."
+
+Lani slurped a noodle so long it took three slurps. Then he slid the mush gently away.
+
+"Resting beside the ones you love is doing something," said Lani. "That's **nanea** (nah-NEH-ah) = relaxed, at ease."
+
+Manu's nori belt loosened one notch. His shoulders came down. "Nah-NEH-ah. That feels nice in my mouth."
+
+---
+
+"Why did the rice cross the ocean?" asked Dani, melty and happy. "To get to the other tide!"
+
+The haupia bowl wobbled. Manu laughed so hard his belt sprang off. Boing.
+
+"What do you call a sleepy loco moco on a rainy day?" said Dani. "A loco-SLOW-co!"
+
+"Guilty," rumbled Lani, patting his gravy belly. "Slowest moco in Hilo, and proud of it."
+
+---
+
+Dani drew a little heart in the foggy window with the tip of her curl.
+
+Smoky dimmed the lamps to honey and hummed from the kitchen.
+
+Nobody checked a list. Nobody checked the time. The rain drummed slower. Plip. Plunk.
+
+Lani pulled his egg-hat down like a cap and snuggled into the pile of friends.
+
+"Pile it high, sleepyheads," he murmured. "Pile it high."
 
 ---
 
 ## Goodnight Blessing
-May your busiest days always make room for a rainy, restful one. May you remember that resting beside the ones you love is its very own kind of doing — soft, warm, and wonderful. May the rain on your roof play you a lullaby, and may your heart feel as cozy as a corner booth full of friends. Rest now, sweet one, and be **nanea**. You have done enough today, and you are enough always. Goodnight.
+May your busiest days make room for a rainy, restful one. Resting beside the ones you love is its own kind of doing. Let the rain on your roof play you a lullaby. You have done enough today. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration: a cozy corner booth in an old Hilo diner on a rainy Sunday. Lani the Loco Moco — a plump rice-mountain character with a sunny fried-egg hat, a burger-patty belt, and shiny gravy rivers — sits in the center, smiling sleepily, surrounded by his snuggled friends: a half-melted golden Dole Whip, a pillowy steamed bun, a tidy spam-musubi block with a loosened nori belt, and a tiny purple passion fruit. Foggy gold windows with rain streaming down, a heart drawn in the fog with the word "NANEA." Steam rising from bowls of noodle soup. Palette: warm amber, soft gold, rainy silver-gray, cozy browns. Mood: snug, sleepy, loving, golden-hour glow against gray rain.
+1. Key scene — warm whimsical storybook illustration of a rainy Hilo street outside an old diner: a tidy square spam-musubi character with a black nori belt paddling furiously down a street turned to a silver river in a tin bucket, chasing a soggy flapping paper, a half-melted golden pineapple soft-serve swirl slipping on the diner steps, a big smoky pig-shaped cook in an apron holding a frying pan in the doorway, warm amber light inside the fogged windows, silver-grey rain, cozy and silly mood.
+2. Character portrait — Lani the Loco Moco: a hearty rice-mountain body crowned with a glossy sunny-side-up egg like a golden hat, a juicy burger-patty belt around the middle, glistening gravy rivers running down the sides, one eye giving a relaxed runny-yolk wink, the warmest sleepy smile, leaning back in a diner booth. Soft diner lighting, warm browns and golds, gentle steam, jolly storybook style.
+3. Closing scene — the diner corner booth in honey-dim lamplight: the loco moco in the middle with his egg-hat pulled down like a cap, the soft-serve swirl and the musubi dozing against him, empty noodle bowls and a wobbly white haupia pudding on the table, a little heart drawn in the fogged golden window, rain streaking silver outside. Peaceful, full-hearted, perfectly at ease.
 
-2. Character portrait of Lani the Loco Moco: a hearty rice-mountain body crowned with a glossy sunny-side-up egg like a golden hat, a juicy burger-patty belt around the middle, and glistening gravy rivers running gently down the sides. One eye giving a relaxed runny-yolk wink, the warmest sleepy smile, leaning back contentedly. Soft diner lighting, warm browns and golds, gentle steam. Cozy, comforting, jolly storybook style.
-
-3. Cozy closing scene: the whole gang piled together in one big warm heap in the diner booth, all asleep or nearly so, Lani in the middle with his egg-hat pulled down like a sleepy cap. Rain streaking silver down the fogged golden windows, a single hand-drawn heart and the word "NANEA" glowing faintly in the condensation. Soft lamplight, empty noodle bowls, a wobbly bowl of white coconut pudding. Palette: deep cozy amber and twilight gray-blue. Mood: peaceful, full-hearted, perfectly at ease — the warm hush at the end of a perfect rainy Sunday.
+## Animation Notes
+- **Cast:**
+  - `LANI` — Lani the Loco Moco: a hearty rice-mountain body with a sunny fried-egg hat, a burger-patty belt and shiny gravy rivers, a runny-yolk wink; voice: hearty, slow, comforting.
+  - `DANI` — Dole Whip Dani: a swirly golden-yellow soft-serve peak with a glossy curl on top in a little cup-body, a tiny pineapple-leaf tuft, huge sparkly eyes, melty at the edges; voice: sunny, fast, bubbly.
+  - `MANU` — Musubi Manu: a neat square rice-block body with a pink spam blanket on top and a crisp black nori belt round the middle, a tiny bento backpack; voice: earnest, tidy, loyal.
+  - `SMOKY` — Uncle Smoky: a big round smoky-golden pig-shaped cook in a white apron, a wisp of woodsmoke, kind sleepy eyes; voice: deep, slow, kindly.
+- **Scenes:**
+  1. The corner booth of a cozy old Hilo diner on a rainy day: fogged windows, warm amber lamps, a wooden table, rain streaming outside.
+  2. The diner doorway and booth, puddles on the floor, dripping newcomers, grey rain beyond the door.
+  3. The diner front door and the sidewalk outside, a gutter waterfall pouring off the roof edge, heavy rain.
+  4. The diner steps in a gusty downpour, a big leaf umbrella, the kitchen doorway with a frying pan.
+  5. The rainy street outside turned to a shallow silver river, a tin bucket, a soggy paper, the diner window glowing.
+  6. The corner booth with steaming bowls of noodle soup, chopsticks, warm lamplight, rain on the fogged window.
+  7. The corner booth, lamplight, jokes over empty bowls, a wobbly white haupia pudding, rain on the window.
+  8. The booth later, lamps dimmed to honey, empty bowls, a white haupia pudding, a heart drawn in the foggy window, rain slowing.
+- **Budget:** 666 narrated words · 42 beats · 8 scenes · est. 4:55

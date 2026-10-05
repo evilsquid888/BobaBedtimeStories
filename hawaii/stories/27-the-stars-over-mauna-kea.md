@@ -4,166 +4,126 @@
 **Guest Characters:** Dole Whip Dani, Mac the Macadamia
 **Setting:** The snowy, star-filled summit of Mauna Kea on the Big Island
 **Theme:** The same stars guided our ancestors home.
-**Hawaiian Spotlight:** hoku (HOH-koo) = star
+**Hawaiian Spotlight:** **hoku** (HOH-koo) = star
 
 ---
 
-Now here is something you do not see every day: a wobbly white sea turtle made entirely of coconut pudding, riding up the side of a mountain in a little red wagon, holding a thermos of cocoa with one slow flipper.
+A thing you don't see every day: Honu Haupia riding up a mountain in a red wagon.
 
-"Are we THERE yet?" squeaked Mac the Macadamia, who was hiding inside his own shiny shell because the wagon kept hitting bumps. Each bump went *clack-clack-clack* against his little helmet, which made him sound like a tiny drummer rolling uphill.
+"Are we THERE yet?" squeaked Mac the Macadamia from his shell, clack-clacking like a tiny uphill drummer.
 
-"Almost, sweet keiki," jiggled Honu Haupia, swaying gently as the wagon climbed. "We are nearly to the roof of the island."
+Then, brrrr, a snowflake landed right on Dole Whip Dani's golden swirl.
 
-And then — *brrrr* — a snowflake landed right on Dole Whip Dani's golden swirl.
+"SNOW!" shrieked Dani. "On a Hawaiian island! I have so many questions and zero of them can wait!"
 
-"SNOW!" shrieked Dani, the pineapple soft-serve, nearly leaping out of her cup-body. "On a Hawaiian island! With actual SNOW! I have so many questions and zero of them can wait!"
-
-"Welcome," wobbled Honu warmly, "to Mauna Kea."
+"Welcome to Mauna Kea, the roof of the island," wobbled Honu. "We came for the **hoku** (HOH-koo) = stars."
 
 ---
 
-Mauna Kea is the tallest mountain on the whole Big Island — so tall that its top wears a hat of snow even when the beaches below are sweaty and hot. Up here the air was thin and cold and so clean it almost squeaked. The three friends had come for one reason: to see the **hoku** (HOH-koo) = stars.
+At the top, Honu set down her thermos of cocoa. The air was so clean it almost squeaked.
 
-And not just any stars. The brightest, clearest, most polka-dotted sky anywhere on Earth.
+Honu tipped back her head. Mac popped open. Dani held her breath, which is hard for soft-serve.
 
-"Why here?" asked Mac, peeking one shy eye out of his shell. "Why so far up?"
+The sky came out. It did not appear. It POURED.
 
-"Because down below," Honu explained, gliding her flippers slowly through the cold, "the town lights twinkle and the clouds drift by. But up here, above all of it, the sky shows you EVERYTHING. Long ago, this is where the wise ones came to learn the stars by heart."
+Stars upon stars, thick as sprinkles, splashed across the dark like a spilled sugar jar.
 
-Dani's huge sparkly eyes got even sparklier. "Learn them by HEART? You can't memorize the whole sky! There are like... a billion-jillion of them!"
-
-"Watch," said Honu. "And I will tell you a secret older than the island itself."
-
-She tipped back her wobbly haupia head. Mac popped his shell open with a soft *click*. Dani held her breath, which is hard for soft-serve to do.
-
-The sky came out.
-
-Oh, the sky. It did not just *appear* — it POURED. Stars upon stars upon stars, thick as sprinkles, splashed clear across the dark like someone had spilled the whole sugar jar of the universe. There were so many that the friends couldn't find the spaces between them.
-
-"Whoaaa," whispered all three at once.
-
-"That," said Dani in a tiny voice, "is the most sprinkles I have ever seen, and I have been to the toppings bar at the night market. I feel very small."
-
-"Small is okay," rumbled Honu gently. "Small and safe. Now — let me teach you the way our voyagers found their home."
+"That," said Dani, tiny-voiced, "is the most sprinkles I have ever seen. I feel small."
 
 ---
 
-Honu Haupia settled into the snow, glowing faintly with her coconut shimmer, and began the way elders begin: slowly, like the tide coming in.
-
-"Long, long ago, before maps and before motors, our ancestors sailed the open ocean in canoes. No land in sight. No road to follow. Just water in every direction, all the way to the edge of the world."
+"Long ago," said Honu, "our ancestors sailed the open ocean with no maps. Water in every direction."
 
 "That sounds TERRIFYING," squeaked Mac, ducking halfway back into his shell.
 
-"It was brave," Honu corrected kindly. "Because they were not lost, little one. They had the **hoku**. The stars were their map. Each star rises in the same place along the sky, night after night, year after year. The voyagers learned which star sat above which island — and they steered toward it."
+"It was brave," said Honu. "They had the hoku. Each star rises in the same place every night."
 
-Dani gasped so hard her swirl wobbled. "Wait wait WAIT. You're telling me they used the STARS like a GPS? A sky-GPS? A sk-PS?"
+"Wait wait WAIT," gasped Dani, swirl wobbling. "They used the STARS like a GPS? A sky-PS? A sk-PS?"
 
-"That," giggled Honu, "is exactly the idea, though I am not sure 'sk-PS' will catch on."
+"Exactly the idea," giggled Honu, "though I am not sure sk-PS will catch on."
 
-"It might," said Dani loyally.
+Honu pointed one flipper at a bright low star. "Hokule'a, the Star of Gladness. She led voyagers home."
 
-Honu raised one slow flipper and pointed it at a single bright star low in the sky. "See that one, glowing steady and true? That is **Hokule'a** — the Star of Gladness. When our voyagers saw her rise, their hearts grew calm, because she always pointed them the right way. They followed her home across an ocean wider than the whole sky you see."
-
-The three of them stared up at Hokule'a, the Star of Gladness, twinkling like it was happy to be looked at.
-
-"Now you try," said Honu. "Pick a star. Any star. Make it yours. Hold it in your eye and do not let it go."
-
-Dani squinted up at the spilled-sugar sky, her swirl tipping this way and that. "Okay, okay — that one! The bright one with the bluish wink, right next to the fuzzy little cloud of tiny ones. That's MY star. I name her Sparkle Marsha."
-
-"Sparkle Marsha?" said Mac.
-
-"She told me her name," Dani said firmly. "Stars can do that, you know."
-
-Honu chuckled, a sound like soft pudding settling. "Sparkle Marsha is a fine name. Now — keep your eye on her and walk three slow circles around me without looking down."
-
-So Dani did. She wibbled around the wobbly turtle, eyes glued upward, and every single time she came back around, there was Sparkle Marsha, waiting in the very same patch of sky.
-
-"She didn't MOVE!" Dani gasped. "I moved, the whole island spun, my swirl got dizzy — but Sparkle Marsha stayed put for me!"
-
-"That," said Honu warmly, "is the whole secret. You cannot hold the ocean. You cannot hold the wind. But a star will keep its place and wait for you. That is why the voyagers trusted them. The sea may toss you about — the **hoku** will not."
-
-Mac, who had been very quiet, suddenly pointed one tiny arm straight up. "Then... that one's mine. The little dim one, way off in the corner, that almost no one would notice."
-
-"Why that one, keiki?" asked Honu.
-
-"Because," said Mac shyly, ducking half into his shell, "small things matter too. Even a little star is still a star. It can still guide somebody home."
-
-Honu's ancient eyes went soft and shiny. "Oh, little Mac. You understand more than the whole sky put together."
-
-And Mac — quiet, shy Mac, who almost never spoke — said something else small and brave.
-
-"So the stars... they remembered the way... even when nobody else could?"
-
-"Yes," wobbled Honu, and her ancient eyes went soft. "The same stars that you see right now, tonight, are the very same stars that guided our ancestors home long ago. The sky does not forget. It has been holding the path the whole time, just waiting for someone to look up."
-
-Mac's whole shell glowed pink. "I like that," he whispered. "A lot."
+"Now you try," said Honu. "Pick a star. Make it yours. Hold it in your eye."
 
 ---
 
-But here is where the trouble bumped in.
+"That one! The bluish one by the fuzzy cloud," said Dani. "Her name's Sparkle Marsha. She told me."
 
-Because the air at the top of Mauna Kea is COLD — colder than a shave-ice headache — and while cold is no problem at all for a snowy haupia turtle, it is a VERY big deal for a swirl of pineapple soft-serve.
+"Keep your eye on her," said Honu, "and walk three slow circles around me without looking down."
 
-"Um," said Dani, in a slightly stiff voice. "Friends? I think I'm... freezing solid."
+Dani wibbled around the wobbly turtle, eyes glued upward, tripped over the thermos, and kept going.
 
-It was true! Her swirl, which usually wibbled and jibbled with sunny energy, had gone stiff as a frozen pop. Her glossy curl had turned into a hard little icicle. She could barely wobble.
+Every time she came around, there was Sparkle Marsha, waiting in the same patch of sky.
 
-"Oh no," squeaked Mac. "Dani, you can't move!"
+"She didn't MOVE!" gasped Dani. "I moved, my swirl got dizzy, but Sparkle Marsha stayed put for me!"
 
-"Cool and... *swirl* on?" Dani tried to say her catchphrase, but it came out as one frozen *swiiii—* and then she got stuck on the *i*.
+"The sea may toss you about," said Honu. "The hoku will not. That is the whole secret."
 
-"Hold steady, keiki," said Honu, calm as ever. "When the path gets cold and hard, what did the voyagers do? They did not panic. They looked up, and they used what they had."
+Mac pointed one tiny arm at a dim star in the corner. "Mine. Small things matter too."
 
-"What do WE have?" wailed Mac, hopping in little circles. "We have a wagon, a thermos, a shy nut, and a frozen ice cream!"
+---
+
+But the top of Mauna Kea is COLD, and cold is a big deal for soft-serve.
+
+"Um," said Dani stiffly. "Friends? I think I'm... freezing solid." Her curl had become an icicle.
+
+"Stay cool and swiiii—" She stuck on the i. Then she tipped over, stiff as a frozen pop.
+
+And slid. Cup first, down the snowy slope, gathering speed like a very sweet bobsled.
+
+---
+
+"DANI!" squeaked Mac, bouncing after her, clack-clack-clack.
+
+Honu tucked her flippers and whooshed down on her belly, a pudding sled under the stars.
+
+Dani bounced off a snowdrift and landed upright, perfectly posed, in a second one. Fwump.
+
+---
+
+"What do WE have?" wailed Mac, arriving last. "A thermos, a shy nut and a frozen ice cream!"
 
 Honu's eyes twinkled like Hokule'a herself. "We have cocoa."
 
-And — oh, that clever turtle — she unscrewed the thermos with her slow flipper, and warm chocolatey steam came curling out into the freezing night, smelling of cozy and home. She poured a little into the cup, and Mac, brave as a tiny voyager, rolled the warm cup right up against Dani's frozen cup-body.
+She unscrewed the thermos. Warm chocolate steam curled into the freezing night, smelling of home.
 
-"Hold on, Dani," he said. "Small but mighty, shell to heart. We've got you."
+Mac pushed the warm cup against Dani's frozen cup. "Small but mighty, shell to heart. We've got you."
 
-The warm cocoa hugged Dani's cup. Slowly — *driiip* — her icicle curl began to soften. Her swirl gave a little wibble. Then a bigger one.
+"S-s-stay cool," stammered Dani as her curl dripped soft, "AND SWIRL ON! Mac, you saved me, hero nut!"
 
-"S-s-stay cool," she stammered, thawing, "AND SWIRL ON!" And she swirled, fully un-frozen and back to her bubbly self, melty at the edges and grinning ear to ear. "Mac! You saved me with a cup of cocoa, you absolute hero nut!"
-
-Mac turned the brightest pink any macadamia has ever turned. "I... used what we had," he mumbled, but he was beaming inside his shell.
-
-"Just like the voyagers," wobbled Honu proudly. "When the way is cold and dark, you look up, you stay calm, and you take care of your **'ohana**. That is how you find your way home. Always."
+"When the way is cold and dark," said Honu, "look up, stay calm, and care for each other."
 
 ---
 
-So the three friends bundled close together in the snow — a turtle, a soft-serve, and a nut — sharing the warm thermos and the warmest sky in the world.
+Bundled close in the snow, they watched Hokule'a hold steady and Mac's dim star keep its corner.
 
-Dani tucked herself between Honu's wobbly shell and Mac's cozy little body, sipping cocoa, watching Hokule'a hold her steady light. Up there, too, glimmered Sparkle Marsha with her bluish wink, and Mac's tiny dim star in the corner, faithful as ever.
+"The same stars guided our ancestors home," wobbled Honu. "The sky does not forget. It just waits."
 
-"Honu," yawned Mac, "tell us one more thing. How did the voyagers know they were getting close to land? When everything still looked like just... ocean and stars?"
-
-Honu smiled her slow turtle smile. "Ah. They watched for little signs the sky and sea sent them. A certain bird that only flies near land. A cloud that sits still over an island it cannot see. A new star peeking up over the edge of the world, low and shy, the way an island peeks up before you can see its shore. They learned to read the tiniest hints — because home always sends you a little hello before you arrive."
-
-"A little hello," whispered Dani, melty and happy. "I love that."
-
-"So even far away," murmured Mac, "home is already saying hi."
-
-"Always," wobbled Honu. "The land remembers you. The stars remember the way. And your 'ohana is always waiting at the end of the path, with the porch light on, and the cocoa warm."
-
-"Honu?" Dani asked sleepily. "If we ever got lost... could WE find our way home with the stars?"
-
-"You already know how," wobbled Honu softly. "Look up. Find the steady light. Trust it. The same stars that brought our ancestors home are right there, every single night, waiting just for you. You are never lost while you can see the **hoku**."
-
-Mac yawned a tiny nut yawn. "The stars remembered the way," he whispered. "So we don't have to be scared."
-
-"Slow flippers," said Honu, pulling them both close, "far journeys."
-
-And high above the snowy roof of the island, a billion-jillion stars twinkled down on three small friends who suddenly did not feel small at all. They felt held. They felt safe. They felt home.
-
-The wagon rolled gently back down the mountain, and the stars went with them every wobble of the way.
+"Slow flippers," said Honu, pulling them close, "far journeys." The wagon rolled gently home under a billion-jillion stars.
 
 ---
 
 ## Goodnight Blessing
-Little one, the same stars that watched over the brave voyagers are watching over you tonight. You do not have to know the whole sky by heart — you only have to look up and find one steady, gentle light. It has been holding your path the whole time, just waiting for you. Snuggle in, slow flippers and soft heart, and let the hoku keep watch while you sail off to sleep. You are safe, you are loved, and you are always, always home. Goodnight.
+The same stars that watched over the brave voyagers are watching over you tonight. You only have to look up and find one steady light. Snuggle in, slow flippers and soft heart. You are always home. Goodnight.
 
 ## AI Image Prompts
-1. Key scene: warm whimsical storybook illustration, the snowy summit of Mauna Kea at night under an overwhelming sky of countless stars spilling across deep indigo and violet. A small wobbly snow-white coconut-pudding sea turtle (Honu Haupia) with a softly jiggling square-patterned shell points one flipper at a single bright golden star; beside her a glossy golden-yellow pineapple soft-serve (Dole Whip Dani) and a tiny cream-colored macadamia nut (Mac) gaze upward in wonder. Soft starlight glow, cozy steam rising from a thermos, gentle snow, a little red wagon nearby. Mood: awe, safety, magic.
-2. Character portrait: Honu Haupia, a gentle snow-white coconut-pudding sea turtle with a wobbly shell patterned in soft haupia squares, ancient kind eyes, slow flippers, and a faint coconut shimmer, glides as if underwater against a starry navy sky. Warm whimsical storybook style, soft lighting, serene and wise expression, a flower lei detail.
-3. Closing scene: three small friends bundled cozily together in fresh snow under a blanket of stars — the wobbly haupia turtle, the swirly pineapple soft-serve, and the tiny round macadamia nut nestled between them, sharing a steaming thermos of cocoa. One bright steady star glows gold above them. Warm golden-and-blue palette, sleepy contented faces, snug and safe, peaceful bedtime mood, soft glowing storybook lighting.
+1. Key scene — warm whimsical storybook illustration of the snowy summit slope of Mauna Kea at night under an overwhelming sky of countless stars spilling across deep indigo: Dole Whip Dani (a golden-yellow pineapple soft-serve swirl in a little cup-body, frozen stiff with an icicle curl) sliding down the snow cup-first like a bobsled, Honu Haupia (a wobbly snow-white coconut-pudding sea turtle with a square-patterned shell) whooshing after her on her belly like a sled, and Mac the Macadamia (a tiny cream nut in a glossy shell) bouncing behind, a small red wagon and a thermos left at the top. Soft starlight glow on the snow, playful and never scary, palette of indigo, silver and warm gold.
+2. Character portrait — Honu Haupia: a gentle snow-white coconut-pudding sea turtle with a wobbly shell patterned in soft haupia squares, ancient kind eyes, slow flippers, a faint coconut shimmer, one flipper raised to point at a single bright golden star against a starry navy sky. Warm whimsical storybook style, soft lighting, serene and wise.
+3. Closing scene — three small friends bundled cozily together in fresh snow under a blanket of stars: the wobbly haupia turtle, the thawed and happy pineapple soft-serve, and the tiny round macadamia nut nestled between them, sharing a steaming thermos of cocoa. One bright steady star glows gold above, a tiny dim star in the corner of the sky. Warm golden-and-blue palette, sleepy contented faces, snug and safe, peaceful bedtime mood.
+
+## Animation Notes
+- **Cast:**
+  - `HONU` — Honu Haupia: a wobbly snow-white coconut-pudding sea turtle with a jiggly shell patterned in haupia squares, gentle ancient eyes, slow flippers; voice: calm, slow, ancient.
+  - `DANI` — Dole Whip Dani: a swirly golden-yellow soft-serve peak in a little cup-body, glossy curl on top, tiny pineapple-leaf tuft, huge sparkly eyes; voice: sunny, bubbly, fast.
+  - `MAC` — Mac the Macadamia: a small smooth cream-colored nut in a glossy brown shell that opens and shuts like a helmet, shy eyes, often half-hidden; voice: tiny, shy, brave.
+- **Scenes:**
+  1. Dusk on a steep mountain road up Mauna Kea, a little red wagon bumping over rocks, first snowflakes falling, the cinder slopes going violet.
+  2. Night: the snowy summit of Mauna Kea, thin clean air, a thermos set in the snow, the sky pouring with countless stars.
+  3. Night: the summit snowfield under the star-thick sky, one bright low star shining steady, the turtle pointing a flipper.
+  4. Night: the same snowfield, a bluish winking star near a fuzzy cluster, a dim star in a corner of the sky, the thermos in the snow.
+  5. Night: the summit edge where the snow slopes away downhill, frost and ice glinting, the soft-serve stiff as a statue.
+  6. Night: the long snowy slope under the stars, sled tracks, two big snowdrifts at the bottom.
+  7. Night: the snowdrift at the bottom of the slope, warm cocoa steam curling up against the cold starlight.
+  8. Night: three friends bundled together in the snow with the thermos, the steady star and the dim corner star above, the red wagon rolling home down the mountain.
+- **Budget:** 676 narrated words · 40 beats · 8 scenes · est. 4:57

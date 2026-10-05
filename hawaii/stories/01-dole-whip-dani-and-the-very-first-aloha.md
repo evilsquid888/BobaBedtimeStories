@@ -1,191 +1,135 @@
 # Story 1: Dole Whip Dani and the Very First Aloha
 
 **Main Character:** Dole Whip Dani
-**Guest Characters:** None
+**Guest Characters:** Niu the Coconut; Malia the Malasada; Mac the Macadamia; a beach full of treat-folk
 **Setting:** A sunny pineapple-stand and snack shack in Waikiki, Oahu
 **Theme:** A warm hello can start a whole friendship.
-**Hawaiian Spotlight:** aloha (ah-LOH-hah) = hello / love / goodbye
+**Hawaiian Spotlight:** **aloha** (ah-LOH-hah) = hello / love / goodbye
 
 ---
 
-On the very first morning of the very first day she was ever alive, Dole Whip Dani came swirling out of the soft-serve machine with a *froo-froo-FROOP!* and landed in her little paper cup with a delighted gasp.
+On the very first morning of her whole life, the soft-serve machine went froo-froo-FROOP.
 
-"Whoa-HO!" she said, wobbling on her tippy-base. "I have a TOP! I have a CURL! I have — oh my pineapples — I have FEET?"
+Out swirled Dole Whip Dani, golden and glossy, and plopped into a little paper cup.
 
-She did not have feet. But she had a tiny pineapple-leaf tuft for hair, two enormous sparkly eyes, and a glossy golden swirl spinning to a perfect point on her head, like a soft-serve unicorn. She was sunny-yellow from base to tip, slightly melty at the edges already, and absolutely, positively *brand new*.
+"Whoa-HO!" she said, wobbling. "I have a TOP! I have a CURL! I have FEET?"
 
-A warm Waikiki breeze drifted through the snack shack. It smelled like salt and sugar and sunshine.
+She did not have feet. She had a pineapple-leaf tuft and two enormous sparkly eyes.
 
-"Okay, okay, okay," Dani whispered, vibrating with joy. "First day. Big day. Let's GO."
+On the counter, Niu the Coconut tipped his woven hat: "**aloha** (ah-LOH-hah) = hello, love, and goodbye."
 
-She had no idea what she was doing.
+"ONE word for all that?" gasped Dani. "I'm saying it to EVERY snack on this beach. Today!"
 
-She was thrilled about it.
+"You know you're a soft-serve, yeah?" said Niu. "You melt."
+
+"Then I'd better hurry!" Dani gave one determined hop, and her whole cup skated off the counter.
 
 ---
-
-The snack shack sat right on the sand, with a striped awning and a hand-painted sign that said PINEAPPLE STAND. Beyond it stretched all of Waikiki — golden beach, turquoise water, and a wide blue sky with one fat lazy cloud floating by like it had nowhere to be.
-
-Dani peeked over the edge of her cup. "Hello, world! Hello, sand! Hello, that-cloud-shaped-like-a-snoozing-poi-dog!"
-
-The cloud did not answer. Clouds rarely do.
-
-"Tough crowd," Dani said cheerfully. "Stay cool and swirl on!"
-
-That was when she heard it — a soft, sloshy, wonderful word floating up from the counter below.
-
-"*Aloha,*" said a deep, friendly voice.
-
-Dani froze mid-swirl. "*A...loha?*" she repeated. The word tasted like sunshine. Like honey. Like the very first sip of something cold on a hot day. "What a GORGEOUS word. What does it MEAN?"
-
-Down on the counter sat a round brown shaggy coconut with a green sprout poking up like a little straw and three small face-dots. He wore a tiny woven hat tipped at a wise angle. This was Niu, and Niu knew things. Niu always knew things.
-
-"**Aloha** (ah-LOH-hah)," he said grandly, "means *hello.*"
-
-"HELLO!" Dani shouted, beaming. "I love it! Aloha! Aloha-aloha-aloha!"
-
-"It also," said Niu, holding up a stubby coconut nub, "means *love.*"
-
-Dani's curl quivered. "It means... *love?* The same word? For hello AND love?"
-
-"And," said Niu, lowering his voice the way you do for the very best part, "it means *goodbye* too."
-
-Dani's huge eyes got even huger. "One little word. Hello, love, AND goodbye? All at once?" She wobbled so hard a tiny drip slid off her base. "That's the most magic thing I've ever heard, and I've only been alive for four minutes!"
-
-"Tough shell, sweet heart," Niu chuckled. "That's the island for you. One word, big aloha."
-
-And right then, Dani made a decision. A big, golden, slightly-melty decision.
-
-"I'm going to say aloha to EVERYBODY," she announced. "Every single snack on this whole beach. Today! Before — " She glanced down at the little puddle forming under her base. "Before I, um. Get any swirlier."
-
-Niu squinted at her. "You know you're a soft-serve, yeah? You melt."
-
-"Then I'd better hurry," Dani said, and she gave a determined hop that sent her whole cup skating off the edge of the counter.
 
 "OH NO," said Niu.
 
-"OH YES!" said Dani.
+"OH YES!" said Dani, landing fwump in the warm sand, not a swirl out of place.
+
+On a beach towel sat a plump sugar doughnut, humming. "ALOHA!" cried Dani, skidding up.
+
+"Aloha, sweet thing! I'm Malia!" A shower of sugar sparkles flew up. "Have a bite, have a hug!"
+
+"Can't stop, I'm on a mission! You're the warmest doughnut I've ever met!" said Dani.
+
+"I'm the ONLY doughnut you've ever met," giggled Malia.
+
+"Even better!" Dani bounced away, leaving a tiny trail of pineapple drips.
 
 ---
 
-She landed in the warm sand with a soft *fwump*, perfectly upright, not a swirl out of place. (She was very lucky. New things often are.)
+The sun climbed. Down the beach went Dani, aloha-ing a whole row of treat-folk dozing on towels.
 
-The first snack she met was a plump golden doughnut rolled in sparkly sugar, sitting on a beach towel and humming to herself. Little sugar crystals sparkled off her every time she giggled, and a peek of bright orange custard smiled out from her middle.
+A surfboard leaned across her path. She bounced off it like a springboard and aloha'd a seagull mid-air.
 
-"ALOHA!" Dani cried, skidding up in a spray of sand.
+She tripped on a pebble, cartwheeled twice, and landed curl-up. "I'm basically a beach acrobat!"
 
-The doughnut gasped with delight, and a whole shower of sugar sparkles flew up around her. "Oh! Aloha to YOU, sweet thing! I'm Malia! You're new — I can smell the pineapple on you, fresh as morning!" She scooched over on the towel. "Sit, sit! Have a bite, have a hug, have BOTH!"
+A wave chased her up the sand. She hopped onto a sandcastle. The sandcastle sank.
 
-"I can't sit, I'm on a mission!" Dani said, hopping with happiness. "But thank you, Malia! You're the warmest doughnut I've ever met!"
+Her base had gone runny. Her puddle was growing. "I'll just aloha FASTER," she decided.
 
-"I'm the ONLY doughnut you've ever met," Malia giggled, and another puff of sugar floated off her.
+A gull swooped for her curl. Dani ducked, dodged, and dove under a beach umbrella.
 
-"Even better! ALOHA!" And Dani bounced away, leaving a tiny trail of pineapple-sweet drips.
-
-The next snack was tall and snowy and absolutely covered in rainbows — a fluffy mountain of shave ice in a paper cone, with a little umbrella hat and a spoon tucked behind one ear. Stripes of red and blue and gold syrup ran down his sides like a sunset that couldn't pick a color.
-
-"Whoa," breathed Dani. "You're like... a snow rainbow."
-
-The shave ice opened one cool eye. "Brah," he said slowly, "that's the nicest thing anybody's said to me all morning. I'm Kai. You're sparkly."
-
-"I'm DANI! And I'm saying aloha to everybody! Aloha, Kai!"
-
-"Aloha, Dani." Kai tilted his umbrella. "Chill out and rainbow on, yeah?" Then he squinted at her base. "Eh... you know you're dripping, right?"
-
-Dani looked down. There was definitely *more* puddle than there had been before. The sun was high now, and getting hotter, and the soft golden edges of her swirl were going just a little bit... runny.
-
-For one tiny second, her huge sparkly eyes got a tiny bit worried.
-
-But only for a second.
-
-"That just means I have to say aloha FASTER," she decided. "Watch me GO!"
+The umbrella blew away. "Rude," said Dani, dripping.
 
 ---
 
-And go she went.
+At the far end sat a tiny round nut. Dani zoomed up. CLICK. His shell snapped shut.
 
-She zipped past a neat little rice-block with a pink blanket and a black seaweed seatbelt, who was lining up tiny pebbles in a tidy row. "ALOHA, square buddy!" "Wrapped up and ready! Aloha!" he called, and then, because he was a planner, he added, "Watch the third pebble, it wobbles." Dani did not watch the third pebble. Dani tripped over the third pebble, did a complete cartwheel, and landed upright again with her curl perfectly intact.
+Dani skidded to a stop. She did not want anybody scared. So she sat down and waited.
 
-"Did you SEE that?" she gasped. "I'm basically a beach acrobat!"
+She hummed a small happy tune. Her curl drooped. Her puddle spread. She kept humming.
 
-"You're basically melting," the rice-block said kindly. "But also, yes. Ten out of ten."
+The shell cracked open. One nervous eye peeked out. "Is it loud out there?"
 
-Next came a wide bowl brimming with ruby tuna and green seaweed ribbons, who was arranging his sesame seeds *just so* — three to the left, two to the right, one perfectly in the middle. "ALOHA, fancy bowl!" Dani sang out, and her happy bounce knocked one little sesame seed out of place.
+"Only a little," whispered Dani. "The aloha kind of loud."
 
-The bowl gasped. He stared at the crooked seed. He looked like the whole ocean had gone the wrong direction.
-
-"...Sorry," Dani whispered.
-
-Then the bowl grinned. "You know what? It looks BETTER like that. More natural. More aloha." He nudged another seed crooked on purpose. "Fresh from the sea, that's me! Aloha, swirly!"
-
-She aloha'd a bouncy steamed bun who bounced so high at the hello that he landed *inside* a sandcastle, popped his soft white head out the top window like a very confused chimney, and yelled, "SOFT ON THE OUTSIDE, FULL OF LOVE INSIDE! Aloha! Also, is anybody else hungry? It's been like ten minutes." She aloha'd a soft lavender mound of pounded taro wearing a flower lei, who smiled the slowest, kindest smile and said, "From the land, with aloha, **keiki** (KAY-kee) = child." (Dani didn't know that word yet, but she liked the warm way it landed, like a hand on your head.) "You go too fast, little one," the taro elder murmured. "But your heart goes the right direction. That is what matters most."
-
-She even aloha'd a tiny round nut who was so shy he popped shut into his glossy shell with a *click* the moment she got close. Dani screeched to a halt. She did not want to scare him. So instead, very quietly, she sat right down beside the little shell and waited.
-
-And waited.
-
-And, because she was Dani, hummed a small happy tune.
-
-After a moment the shell opened the tiniest crack, and one nervous eye peeked out. "...Is it loud out there?"
-
-"Only a little," Dani whispered. "But it's the good kind of loud. The aloha kind."
-
-The little nut thought about that. Then the shell creaked open all the way, and he gave the smallest, bravest wave. "*...Aloha,*" he whispered. "Small but mighty, shell to heart."
-
-And that whisper — that one tiny, brave whisper — made Dani's whole heart glow like a little lamp.
-
-By the time she reached the far end of the beach, the sun was blazing and Dani was... well.
-
-She was a puddle.
-
-Mostly.
-
-She was a small, glowing-golden puddle of melted pineapple soft-serve with two sparkly eyes shining up out of the middle and one last bit of curl still swirling bravely on top. Her little cup had tipped over beside her.
-
-And do you know what? She was *grinning.*
-
-"Uh-oh," she said, and giggled. "I think I swirled too far."
+The shell creaked wide, and the nut gave the smallest, bravest wave. "I'm Mac. Aloha. Small but mighty."
 
 ---
 
-That's when the shadows came — gentle ones. All the snacks she'd said aloha to that morning had followed her sweet pineapple drip-trail across the whole beach.
+That was the last snack on the beach. Dani looked down. She was a puddle.
 
-Malia knelt down first, sugar sparkling. "Oh, sweet thing. You melted yourself saying hello to all of us."
+A glowing golden puddle with two sparkly eyes and one last brave curl on top.
 
-"It was WORTH it," Dani said dreamily. "I met everybody. Every single one. That's a lot of aloha for one morning."
+"Uh-oh," she giggled. "I think I swirled too far."
 
-Niu rolled up, woven hat askew. "I told you you'd melt, you silly swirl."
-
-"You did," Dani agreed happily. "You were right. You're always right, Niu."
-
-"Don't be sad," Kai said softly, and his rainbow stripes drooped a little. "You're a really good aloha-er."
-
-But here is the thing about melting, and it is a secret that only the islands know: when a Dole Whip melts in the sun, it doesn't disappear. It turns into the sweetest, coldest, most delicious golden pineapple sip in the whole wide world. And a melted Dole Whip is not an *ending.* It's a *treat.*
-
-"Friends," Dani said, and her voice was warm and bubbly and proud, "do you know what aloha *also* means? It means goodbye. And maybe... maybe I'm not melting away. Maybe I'm getting *ready.* Like a firework that finally gets to light up the sky." Her last curl gave a happy little spin. "I think I'm about to become the best aloha there is — the kind you can *taste.* So gather 'round. This one's for the whole 'ohana."
-
-And one by one, with the gentlest, most joyful little sips — *slllrrp, slllrrp* — her friends shared the cool sweet golden pineapple that Dani had become, and every single one of them sighed the very same happy sigh.
-
-"*Mmm,*" said Malia. "Aloha tastes like sunshine."
-
-It really, really did.
+Then gentle shadows came. Her friends had followed her drip trail across the whole beach.
 
 ---
 
-That night, when the moon rose fat and silver over Waikiki, the soft-serve machine in the little shack went *froo-froo-FROOP!* And out swirled a sunny golden curl with two enormous sparkly eyes, brand new all over again.
+"You melted yourself saying hello to all of us," said Malia, sugar sparkling.
 
-"Whoa-HO!" she said. "I have a TOP! I have a CURL! I have — wait." She blinked at the moonlight, and at all the snack-shaped shadows snoozing on the beach below, and she smiled the biggest smile a soft-serve has ever smiled.
+"I told you you'd melt, you silly swirl," said Niu.
 
-"I have *friends,*" said Dani. "Aloha, everybody. I'm home."
+"You did. You're always right, Niu," Dani agreed happily.
 
-And tomorrow, she would say hello to them all over again.
+Here is a secret the islands know: a melted Dole Whip is not an ending. It's a treat.
+
+"Aloha also means goodbye," said Dani. "So gather round. This one's for the whole 'ohana."
+
+Slllrrp. Slllrrp. Her friends sipped the cool golden pineapple, and every one sighed the same happy sigh.
+
+"Mmm," said Malia. "Aloha tastes like sunshine."
+
+---
+
+That night, under a fat silver moon, the soft-serve machine went froo-froo-FROOP.
+
+Out swirled a sunny golden curl with two enormous sparkly eyes, brand new all over again.
+
+"Whoa-HO! I have a TOP! I have a CURL! I have —" She blinked down at the beach.
+
+Snack-shaped shadows dozed on the moonlit sand below, a woven hat and a sugar towel among them.
+
+"I have FRIENDS," said Dani. "Aloha, everybody. I'm home."
 
 ---
 
 ## Goodnight Blessing
-May your hellos be as warm as morning sand, and your goodbyes as soft as the tide going out. May you melt a little for the ones you love, and find that you only become something sweeter. Wherever you are tonight, little one, you are part of a great big 'ohana, and the island is whispering one good word over you. *Aloha.* Goodnight.
+May your hellos be warm as morning sand and your goodbyes soft as the tide going out. Melt a little for the ones you love; you only become sweeter. The island whispers one good word over you. Aloha. Goodnight.
 
 ## AI Image Prompts
-1. Key scene: warm whimsical storybook illustration of a small melting golden pineapple soft-serve character (Dani) as a glowing puddle on sunny Waikiki sand, two huge sparkly eyes and one last brave curl on top, surrounded by a gentle ring of adorable food friends leaning in to share her — a sparkly sugar doughnut, a rainbow shave ice with umbrella hat, a shaggy coconut in a woven hat, a poke bowl, a taro mound in a flower lei. Soft golden hour light, turquoise ocean behind, palm shadows, joyful and cozy mood, soft painterly textures, warm yellow-and-aqua palette.
-2. Character portrait: a sunny golden-yellow Dole Whip soft-serve character with a glossy curl swirling to a point on top, a tiny green pineapple-leaf tuft for hair, enormous sparkly eyes, slightly melty edges, set in a little paper cup, mid-bounce with arms thrown wide shouting "Aloha!", bright Waikiki beach background, cheerful storybook style, glowing warm light.
-3. Closing scene: nighttime storybook illustration, a brand-new golden Dole Whip soft-serve curl glowing softly atop the snack-shack counter under a fat silver moon, gazing fondly down at sleeping food-friends scattered along the moonlit Waikiki beach, paper umbrella and woven hat dotting the sand, calm deep-blue and gold palette, peaceful and tender bedtime mood, gentle star sparkle.
+1. Key scene — warm whimsical storybook illustration of a small melting golden pineapple soft-serve character (Dani) as a glowing puddle on sunny Waikiki sand, two huge sparkly eyes and one last brave curl on top, with a gentle ring of adorable treat-friends leaning in to share her: a sparkly sugar doughnut, a shaggy coconut in a woven hat, and a tiny cream-colored macadamia nut with its shell open. Golden-hour light, turquoise ocean behind, palm shadows, joyful cozy mood, soft painterly textures, warm yellow-and-aqua palette.
+2. Character portrait — Dole Whip Dani: a sunny golden-yellow soft-serve swirl with a glossy curl to a point on top, a tiny green pineapple-leaf tuft for hair, enormous sparkly eyes, slightly melty edges, set in a little paper cup, mid-bounce with stubby arms thrown wide, bright Waikiki beach behind her, cheerful storybook style, glowing warm light.
+3. Closing scene — night storybook illustration: a brand-new golden Dole Whip curl glowing softly on the snack-shack counter under a fat silver moon, gazing fondly down at little treat-shaped friends dozing along the moonlit beach, a woven hat and a sugar-dusted towel on the sand, calm deep-blue and gold palette, peaceful tender bedtime mood.
+
+## Animation Notes
+- **Cast:**
+  - `DANI` — Dole Whip Dani: a swirly golden-yellow soft-serve peak with a glossy curl on top in a little paper cup, tiny pineapple-leaf tuft for hair, huge sparkly eyes, melty at the edges; voice: sunny, bubbly, fast.
+  - `NIU` — Niu the Coconut: a round brown shaggy coconut with a green straw sprout on top, three little face-dots, a tiny woven hat; voice: steady, grounded, know-it-all.
+  - `MALIA` — Malia the Malasada: a plump golden-brown puffy doughnut rolled in sparkly sugar, rosy sugar-dusted cheeks, a peek of orange custard when she smiles; voice: warm, giggly, generous.
+  - `MAC` — Mac the Macadamia: a small smooth cream-colored nut in a glossy shell that pops open and shut like a helmet, shy eyes; voice: quiet, shy, brave.
+- **Scenes:**
+  1. A sunny snack shack on the Waikiki sand: a soft-serve machine, a striped awning, a wooden counter, a little paper cup, bright morning light.
+  2. The warm sand just below the counter, a beach towel with a sugar doughnut on it, turquoise water beyond.
+  3. The long golden beach at high sun: dozing treat-folk on towels, a leaning surfboard, a sandcastle, a beach umbrella, a seagull.
+  4. The quiet far end of the beach, a tiny closed nutshell on the sand, Dani sitting beside it dripping.
+  5. The same far end, a glowing golden puddle with eyes on the sand, a tipped paper cup, a drip trail leading back up the beach.
+  6. The puddle ringed by friends in golden afternoon light, a woven hat, sugar sparkles, an open nutshell.
+  7. Night: the snack shack under a fat silver moon, the machine glowing, little treat-shaped shadows dozing on the moonlit beach below.
+- **Budget:** 655 narrated words · 44 beats · 7 scenes · est. 4:52

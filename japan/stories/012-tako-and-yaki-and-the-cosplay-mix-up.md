@@ -16,7 +16,7 @@ If you have ever tried to tell two perfectly round, perfectly golden takoyaki ba
 
 And there it was: the **kosupure** (koh-soo-poo-reh) — cosplay — dress-up corner, a glittering tent stuffed with capes, wigs, sparkly hats, fox masks, paper swords, and a mirror so shiny you could comb your nori in it. Strings of paper lanterns swayed overhead like sleepy jellyfish. The whole place smelled of warm batter and fresh dreams.
 
-"It's SO kawaii," whispered Tako.
+"It's SO **kawaii** (kah-wah-ee) — cute!" whispered Tako.
 
 "Kawaii means cute," Yaki explained to a passing dumpling, who already knew, but smiled anyway.
 

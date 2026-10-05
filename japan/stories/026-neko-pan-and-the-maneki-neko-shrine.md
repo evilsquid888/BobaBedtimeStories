@@ -1,179 +1,133 @@
 # Story 26: Neko-Pan and the Maneki-Neko Shrine
 
 **Main Character:** Neko-Pan (Maneki Melon Cream)
-**Guest Characters:** None
+**Guest Characters:** Mimi, a small grey temple mouse; a big orange temple tabby
 **Setting:** Gotokuji Temple, famous for hundreds of beckoning cat statues
 **Theme:** A small kindness can fill a whole temple
 **Japanese Spotlight:** **omamori** (oh-mah-moh-ree) — lucky charm
 
 ---
 
-Neko-Pan rolled down the temple path with one paw raised so high you'd think he was trying to flag down the moon. He was a cream-filled bun shaped like a beckoning lucky cat, with a little gold-foil collar bell that went *tink-tink* when he bounced, and a custard heart so sweet you could practically smell it three steps away.
+Down the temple path bounced Neko-Pan, one paw raised so high he kept tipping over backward.
 
-"Wave hello, wave hello!" he sang to a passing breeze. The breeze, naturally, waved back — or at least the cherry petals did.
+He was a melon-cream bun shaped like a lucky cat, and his collar bell went tink-tink.
 
-Then he stopped. He gasped. His bell froze mid-*tink*.
+"Wave hello, wave hello!" he sang to a breeze. The breeze waved back with cherry petals.
 
-Because there, beyond the wooden gate of Gotokuji — the temple of a thousand lucky cats — was the most spectacular sight his little custard heart had ever seen.
+Then he reached the gate, gasped, and sat down hard on his own custard.
 
-Cats. Cats EVERYWHERE.
+Cats. Hundreds of little white beckoning cats on wooden shelves, every paw raised, all waving at nothing.
 
-Hundreds — no, *thousands* — of tiny white beckoning-cat statues, all stacked on wooden shelves, all with one paw raised, all waving at absolutely nothing.
+"Oh, my whiskers," whispered Neko-Pan. "I've found my cousins. Wave back, cousins! Just ONE wave!"
 
-"Oh," whispered Neko-Pan. "Oh, my whiskers. I've found my people."
-
----
-
-He waved at them. They did not wave back. But that, he decided, was only because they were being polite and shy, and not because they were, you know, statues.
-
-"Hello, hello!" he called, bouncing along the rows. "I'm Neko-Pan! I bring little bits of luck wherever I wave! What do *you* bring?"
-
-The cats stared, smiling their tiny painted smiles, paws frozen in the air.
-
-"Mysterious," Neko-Pan nodded. "I respect that."
-
-Now, you should know that **Gotokuji** is a real and very old temple, and the story goes that long, long ago, a beckoning cat once waved a kind lord in out of a thunderstorm, and ever since, people have come to leave a little cat statue when a wish comes true. So the cats kept multiplying — wish by wish by wish — until the shelves overflowed with the chubbiest, happiest crowd of waving felines you ever did see.
-
-Neko-Pan loved it instantly. He waved down a whole row, then back up the other side, then in a circle until he got dizzy and plopped onto his bottom with a soft *poof* of cream.
-
-That was when he heard it.
-
-A sniffle.
-
-A small, wobbly, trying-very-hard-not-to-cry sort of sniffle.
-
-Neko-Pan's ears (well, the bun-shaped lumps where ears would go) perked right up. He followed the sound past the incense smoke, past the wishing plaques clacking in the wind like a hundred wooden castanets, all the way to a little stone bench.
-
-And there sat a tiny mouse — a real, soft, gray temple-mouse — with the saddest face in all of Tokyo.
-
-"Oh dear," said Neko-Pan, sitting down gently beside her. "You're leaking. Are you a teapot? You look more like a mouse, but I've been wrong before."
-
-The mouse hiccuped a laugh, which is exactly what Neko-Pan was going for.
-
-"I'm Mimi," the mouse said. "And I've lost my **omamori** (oh-mah-moh-ree) — lucky charm. My grandmother sewed it for me. It's a tiny brocade pouch, gold thread, with a little bell inside that sounds just like — " she sniffed " — just like home."
-
-Neko-Pan's own collar bell gave a soft, sympathetic *tink*.
-
-"My grandmother said as long as I carried it, I'd never be truly lost," Mimi went on. "But now *it's* lost, which feels backwards, and now I don't know where home is, and there are a thousand cats here, and I'm a mouse, and — "
-
-She took a big shaky breath, the kind that's mostly air and a little bit hope.
-
-"And it's nearly nighttime, and Grandmother will be making warm soup, and I always set the table, and the bell in my charm always jingles right when the soup is ready, like it *knows*. And tonight there'll be soup and a table and no jingle. And I'll just be the empty chair."
-
-"Say no more," said Neko-Pan, raising his lucky paw with grand determination. "Finding little bits of luck is *literally* my whole job. I am, you might say, professionally lucky."
-
-"You are?"
-
-"I once found a missing button, two lost socks, and a man's good mood all in the same afternoon," said Neko-Pan proudly. "We shall find your omamori. Wave for luck, share the luck!"
-
-And with a *tink-tink* and a *poof*, he rolled off to begin.
+He waved at them. They did not wave back. Statues are shy like that.
 
 ---
 
-Now, finding one tiny pouch in a temple covered in a thousand identical cats is — and I want to be honest with you — a bit like finding one specific snowflake at the bottom of a very enthusiastic snowman. Neko-Pan checked under the first row of cats. Nothing but dust and an old acorn.
+Up and down the rows he bounced, waving at every cat, until he got dizzy and poofed over.
 
-"Excuse me," he said to the cats. "Have any of you seen a little gold pouch? You're all facing the right way to have noticed."
+That was when he heard it. A sniffle. A small, wobbly, trying-not-to-cry sniffle.
 
-The cats waved their unwavering wave.
+On a stone bench sat a tiny grey mouse with the saddest face in all of Tokyo.
 
-"You're a tough crowd," Neko-Pan admitted.
+"You're leaking," said Neko-Pan kindly. "Are you a teapot? I've been wrong before."
 
-He checked the wishing plaques. He checked the incense pot (and got a sneeze full of smoke for his trouble — *poofchoo!*). He checked the roots of the great old cherry tree, the gaps between the cobblestones, even inside a watering can, where he got stuck for a moment and had to be popped out by a kindly gust of wind.
+The mouse hiccuped a laugh. "I'm Mimi. I lost my **omamori** (oh-mah-moh-ree) — lucky charm."
 
-"Anything?" called Mimi, hopeful.
+"A gold pouch with a bell inside," sniffed Mimi. "It jingles twice. It sounds like home."
 
-"Lots of things!" Neko-Pan called back. "Just none of them your things!"
-
-He found a coin, a feather, three petals, and one very confused beetle who was *also* lost and whom he pointed politely toward the garden. But no gold pouch.
-
-He tried asking the temple cat — a real one, a big orange tabby snoozing in a sunbeam with the satisfied look of someone who owns everything he can see.
-
-"Excuse me, sir," said Neko-Pan, waving. "Have you seen a small gold charm with a bell inside?"
-
-The cat opened one eye. He looked at Neko-Pan. He looked at his custard heart. He licked his lips in a way that made Neko-Pan's bell go *tink* a little nervously.
-
-"On second thought," he said, rolling backward, "I'll just ask the statues. They're less... peckish." The orange cat yawned hugely and went back to sleep, which was, Neko-Pan decided, the kindest thing he could possibly have done for a bun in his position.
-
-He tried the row of cats by the bell tower. He tried the cats stacked like a wedding cake near the offering box. He even tried *lifting* a few cats to peek beneath them, which was very hard work, because a thousand cats is exactly nine hundred and ninety-nine more cats than two paws can handle. By the time he'd checked thirty of them he was dusted gold from head to bell and panting like a kettle.
-
-The afternoon stretched long and golden. Mimi's whiskers drooped lower and lower. And Neko-Pan, for the first time in his cheerful life, felt his raised paw begin to tremble with tiredness.
-
-"Maybe," Mimi said quietly, "it's just gone. Maybe some luck doesn't come back."
-
-Neko-Pan stopped. He looked at the rows and rows of cats — every one of them placed there because somebody's wish had come *true*. Every single one a tiny thank-you for a kindness or a hope that worked out.
-
-"No," said Neko-Pan softly. "This is a place where wishes pile up. A whole temple full of them. If luck lives anywhere, sweetie, it lives *here*." He straightened his little gold collar. "We just have to wave a little harder."
-
-He thought about his grandmother — well, the bun-baker who'd shaped him and tucked the custard in just so — and how that baker always said the best luck isn't found, it's *made*, one small kindness at a time. A kindness, the baker said, is like a single beckoning cat: looks tiny on its own, but stack up enough of them and you've got a whole temple glowing.
-
-"Mimi," said Neko-Pan slowly, "how does the bell sound? Could you pick it out of any other sound in the world?"
-
-"Anywhere," Mimi said. "It's a little high, and a little cracked, and it always does two jingles, never one. Grandmother dropped it once and it's been two-jingles ever since."
-
-"Two jingles," Neko-Pan repeated, and his sparkling eyes went sparklier still. "Oh, that's *useful*."
-
-And then he had an idea — a bright, custardy, marvelous idea.
-
-"Mimi," he said. "Your charm has a bell. A bell that sounds like home, you said?"
-
-Mimi nodded.
-
-"Then let's get the whole temple to listen. A bell can't find a mouse — but a mouse can find a bell, if only the whole world will hush long enough to let her hear it. Everybody — and I do mean *every* body — quiet now! Mimi, you stand right here in the middle. Close your eyes. And when I say *go*, you call your charm's name like it's suppertime."
-
-Neko-Pan rolled in a slow, important circle, raising his lucky paw to each row of cats in turn, the way a tiny conductor might hush a very large and very stone-faced orchestra. "Shhh," he told the bell tower. "Shhh," he told the wishing plaques. "And *you*," he whispered to the snoozing orange tabby, "no snoring during the listening part." The tabby flicked an ear, which Neko-Pan chose to take as a solemn promise.
-
-"Charms don't have names," said Mimi.
-
-"Then give it one this very second. That's how grandmothers do it. Nothing gets named *after* you lose it; that's just sad. Name it now."
-
-Mimi thought hard. "...Pip," she decided. "Its name is Pip."
-
-"PERFECT," beamed Neko-Pan. "Now. Three, two, one — *go!*"
-
-And Mimi, in the smallest, bravest voice, called out: "Pip? Pip, are you there?"
-
-The whole temple went still. The wishing plaques hushed. Even the breeze held its breath.
-
-And in that perfect hush, the old orange tabby — who had wandered over to see what all the not-noise was about — stretched one long lazy stretch along the tallest cat-shelf, and the very tip of his tail brushed something small tucked behind the statues. Something that, in any noisier moment, nobody would ever have heard.
-
-Faint, faraway, but *real*, came a tiny answering *ting*.
-
-A bell. Inside something. Underneath something.
-
-"PIP!" Mimi shrieked, and bolted toward the sound, with Neko-Pan rolling after her so fast his cream nearly came out the wrong end. They scrambled up the steps of the tallest cat-shelf of all, the one in the very back where the oldest, dustiest, most well-loved statues sat. And there — tucked behind a fat little cat with a chipped ear, exactly where a small mouse might have dropped it days ago while hiding from the rain — sat a tiny gold brocade pouch.
-
-Pip.
-
-The omamori.
-
-Mimi grabbed it and squeezed it to her chest, and the bell inside went *ting-ting-ting*, and it really did, Neko-Pan thought, sound exactly like a word for *home*.
+"Finding luck is literally my whole job," said Neko-Pan, paw up. "Wave for luck, share the luck!"
 
 ---
 
-She held it up. Two little jingles rang out, high and cracked and absolutely, perfectly *home*. And right on cue, somewhere far past the temple gate, a tiny window glowed warm, and the smell of grandmother-soup came drifting up the hill as if it had been waiting all along for the bell to call it.
+The hunt began at the incense pot. Neko-Pan stuck his whole head in.
 
-"You found it!" Mimi wept — happy tears this time, the good leaky kind. "You're the luckiest cat in the whole temple!"
+POOFCHOO! A sneeze of smoke shot him backward into a rack of wooden plaques. Clack-clack-clack.
 
-"Oh, I'm not the luckiest," said Neko-Pan, glowing pink right down to his custard heart. "I just helped you find the luck you already had. It was waiting for you the whole time. That's how luck mostly works, you know."
+"Lots of things!" he reported, holding up an acorn. "None of them YOUR things!"
 
-And here is the part I love best, and you must promise to believe me, because it's true the way the very best things are true.
+---
 
-As Mimi tucked her omamori safe against her heart, a great warm gust of evening wind swept through Gotokuji. It rolled down every shelf and around every row. And all at once — every cat, all thousand of them, all those frozen little paws — seemed to *wave*.
+Next, the watering can. He peered in, tipped in, and stuck fast, one paw waving from the spout.
 
-It was the wind, of course. Probably. Mostly.
+Mimi tugged. The can tipped. Out he popped, soaking wet, bell going glug.
 
-But Neko-Pan knew better.
+In a sunbeam dozed a big orange temple tabby, with the look of somebody who owns everything.
 
-"See?" he whispered, lifting his own paw to join them. "A thousand wishes, all saying thank you at once. One small kindness, and the whole temple waves back."
+"Excuse me, sir," said Neko-Pan. "Have you seen a small gold charm?"
 
-Mimi waved. Neko-Pan waved. And the cats — every single grateful, beckoning, brimming-with-wishes one of them — waved too, *tink-tink-tink*, all the way home.
+The tabby opened one eye, looked at Neko-Pan's custard heart, and licked his lips.
+
+"On second thought," said Neko-Pan, backing away briskly, "I'll ask the statues. They're less peckish."
+
+---
+
+He tried lifting statues to peek underneath. Thirty cats later he was panting like a kettle.
+
+Mimi's whiskers drooped. "Maybe some luck just doesn't come back."
+
+"Mimi," he said slowly, "a bell can't find a mouse. But a mouse can find a bell."
+
+"Everybody HUSH!" He bounced in a circle, shushing the plaques, the bell tower, the tabby.
+
+"No snoring during the listening part," he whispered. The tabby flicked one ear. A solemn promise.
+
+---
+
+"Now call it by name," said Neko-Pan. "No name? Name it NOW. Naming it after is just sad."
+
+Mimi shut her eyes. "Pip?" she called into the hush. "Pip, are you there?"
+
+The whole temple went still. The plaques hushed. Even the breeze held its breath.
+
+The tabby stretched one long lazy stretch along the tallest shelf. His tail brushed something.
+
+Ting-ting. Faint, far, a little cracked, and absolutely real. Two jingles.
+
+---
+
+"PIP!" shrieked Mimi, and bolted up the shelf. Neko-Pan bounced after her, cream sloshing.
+
+Behind a fat old cat with a chipped ear sat a tiny gold brocade pouch.
+
+Mimi squeezed it to her chest. Ting-ting. It sounded exactly like home.
+
+"You're the luckiest cat in the whole temple!" wept Mimi.
+
+"I just helped you find the luck you already had," said Neko-Pan, pink down to his custard.
+
+---
+
+Then a warm evening wind rolled down every shelf and around every row.
+
+And every cat, all of them, every frozen little paw, seemed to wave at once.
+
+"One small kindness," whispered Neko-Pan, lifting his own paw, "and the whole temple waves back."
+
+Mimi waved from the gate, pouch jingling. Neko-Pan waved back. So did a thousand cats.
 
 ---
 
 ## Goodnight Blessing
-May your paw always know which way to wave, little one, and may every kindness you give come rolling back to you like a thousand happy cats. Tuck your wishes close, the way Mimi tucked her bell, and trust that the luck you need is already curled up warm somewhere near your heart. The temple is quiet now, the incense smoke is sleepy, and even the busiest little cat must rest his paw at last. Wave goodnight to the moon, and let the moon wave back. You are safe, you are loved, and you are so very lucky to be exactly who you are. Goodnight.
+May your paw always know which way to wave, and may every kindness come rolling back like a thousand happy cats. The luck you need is already curled up warm near your heart. Wave goodnight to the moon. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration: a tiny cream-filled lucky-cat bun (Neko-Pan) with a raised paw and gold collar bell, standing in the middle of Gotokuji temple surrounded by hundreds of small white beckoning-cat statues on wooden shelves. Soft golden evening light, cherry petals drifting, incense smoke curling gently. A little gray mouse hugging a tiny gold brocade charm beside him. Cozy pastel palette of cream, jade-green, soft gold, and dusty pink, gentle painterly textures, magical and tender mood.
-2. Character portrait: Neko-Pan, a plump melon-cream bun shaped like a maneki-neko beckoning cat, glossy crackly pale-gold dome top, one paw raised high and cheerful, gold-foil collar with a little bell, a visible sweet custard heart, big sparkling kawaii eyes, rosy cheeks. Warm storybook lighting on a soft cream background, adorable and full of cozy luck.
-3. Closing scene: dusk at Gotokuji, a warm wind sweeping through the rows of tiny white cat statues so they all seem to wave at once. Neko-Pan in the center raising his paw to join them, the little mouse waving goodbye with her gold charm bell glowing. Lantern light, deep blue twilight sky, drifting petals, peaceful and magical, everything softly glowing with gratitude.
+1. Key scene — warm whimsical storybook illustration, golden afternoon at Gotokuji temple: Neko-Pan, a plump melon-cream bun shaped like a beckoning lucky cat with one paw raised and a gold collar bell, bouncing in a hushing circle before rows and rows of small white beckoning-cat statues on wooden shelves, a tiny grey mouse standing in the middle with her eyes squeezed shut, a big orange tabby stretching along the tallest shelf. Incense smoke curling, cherry petals drifting, palette of cream, jade, soft gold and dusty pink.
+2. Character portrait — Neko-Pan: a glossy pale-gold melon-cream bun shaped like a maneki-neko cat, crackly dome top, one paw raised high and cheerful, gold-foil collar with a little bell, a visible sweet custard heart, big sparkling eyes, rosy cheeks, a smudge of grey incense ash on his nose. Warm storybook lighting, soft cream background, adorable and full of luck.
+3. Closing scene — dusk at Gotokuji: a warm wind sweeping through the rows of tiny white cat statues so every paw seems to wave at once, Neko-Pan in the center raising his paw to join them, the little grey mouse waving goodbye at the gate with a tiny gold pouch glowing. Lantern light, deep violet twilight sky, drifting petals, peaceful and magical.
+
+## Animation Notes
+- **Cast:**
+  - `NEKO` — Neko-Pan: a plump pale-gold melon-cream bun shaped like a beckoning lucky cat, one paw raised, gold-foil collar bell, a visible custard heart; voice: cheerful, bright, lucky.
+  - `MIMI` — Mimi: a tiny soft grey temple mouse with round ears, long whiskers and big wet hopeful eyes; voice: small, squeaky, earnest.
+  - `TABBY` — the temple tabby: a big sleepy orange striped cat with a white chin and a satisfied owner-of-everything face; no lines.
+- **Scenes:**
+  1. The stone temple path and wooden gate of Gotokuji in golden afternoon light, cherry petals, shelves of small white beckoning-cat statues beyond the gate.
+  2. Along the cat shelves to a little stone bench, incense smoke, wooden wishing plaques clacking in the breeze.
+  3. The bronze incense pot and the rack of wooden plaques, afternoon light, a puff of grey smoke.
+  4. A tin watering can by the cherry tree roots and a sunbeam on the flagstones where the orange tabby dozes.
+  5. The rows of cat statues, dusted and tipped, the bell tower behind, late golden light.
+  6. The temple courtyard gone still: Mimi in the center with eyes shut, the tabby stretched along the tallest cat-shelf at the back.
+  7. The tallest, dustiest cat-shelf at the back of the temple, old statues with chipped ears, a tiny gold brocade pouch tucked behind one.
+  8. Gotokuji at dusk: violet sky, lanterns lit, a warm wind through the rows of cat statues, lanterns lit along the gate.
+- **Budget:** 658 narrated words · 42 beats · 8 scenes · est. 4:52

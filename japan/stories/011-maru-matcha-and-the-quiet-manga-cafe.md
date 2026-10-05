@@ -84,7 +84,7 @@ And Yomi, despite everything, laughed too. Then, together, on tip-toe, they gath
 
 ---
 
-Maru thought about this seriously, the way she thought about everything — slowly, and with great kindness. She led Yomi to the very back of the café, where the tallest shelf of all stood like a quiet wooden mountain. At its foot was a single soft lamp and two cushions, as if the shelf had been waiting for exactly two friends.
+Maru thought about Yomi's question seriously, the way she thought about everything — slowly, and with great kindness. She led Yomi to the very back of the café, where the tallest shelf of all stood like a quiet wooden mountain. At its foot was a single soft lamp and two cushions, as if the shelf had been waiting for exactly two friends.
 
 "Sit," she said. "And I'll tell you a tiny secret about story-shelves."
 

@@ -4,194 +4,131 @@
 **Guest Characters:** Neko-Pan, Kei the kei-truck
 **Setting:** A riverside hanabi fireworks festival on a warm summer night
 **Theme:** The best moments are even better doubled with someone you love
-**Japanese Spotlight:** hanabi (hah-NAH-bee) — fireworks
+**Japanese Spotlight:** **hanabi** (hah-NAH-bee) — fireworks
 
 ---
 
-On the warmest, sparkliest night of the whole entire summer, two round golden batter-balls came bouncing down the riverbank so fast they nearly rolled into the noodle stand.
+Two golden batter-balls came bouncing down the riverbank so fast they nearly hit the noodle stand.
 
 "Tonight's the night!" cried Tako.
 
 "The biggest night of the YEAR!" cried Yaki.
 
-They bounced up, they bounced down, and the wobbly little wave of bonito flakes on top of them flapped like a tiny flag in a windstorm. Tako and Yaki were takoyaki twins — two crispy octopus-batter balls connected by that jiggly bonito wave, drizzled with sauce zig-zags that wiggled when they giggled. And right now they were giggling so hard their sauce nearly slid off.
+They were takoyaki twins, joined on top by a wobbly bonito-flake wave that flapped like a flag.
 
-Because tonight was **hanabi** (hah-NAH-bee) — fireworks. The great riverside summer show. Booms of color! Showers of sparkle! Whole skies turning into gardens of light!
+Tonight was **hanabi** (hah-NAH-bee) — fireworks. Booms of color. Whole skies turning into gardens of light.
 
-"Roll us once," they shouted together, "we come as two!"
-
-Then they both stopped bouncing at the exact same moment, which is a thing twins do, and looked at each other with a worried little wobble.
+"Roll us once, we come as two!" they sang, and then stopped bouncing at the exact same moment.
 
 Because tonight, for the very first time ever, they did not agree.
 
 ---
 
-It had started at supper. (Most arguments do.)
+"The wooden bridge," said Tako. "The river copies every boom upside-down. Two fireworks for the price of one!"
 
-Tako had been munching a pickled plum and announced, very grandly, "I have found the PERFECT firework spot. The little wooden bridge. You can see the whole sky from there, and the river copies every boom upside-down in the water. Two fireworks for the price of one!"
+"The hill behind the **yatai** (yah-TIE) — food stalls," said Yaki. "Up there, fireworks pat you on the head."
 
-Yaki had crunched a corn kernel and announced, just as grandly, "I have found the PERFECTER spot. The grassy hill behind the **yatai** (yah-TIE) — food stalls. You're up so high the fireworks practically pat you on the head. Plus the hill smells like grilled corn. Best smell in the universe."
+"Bridge!" "HILL!" The bonito wave flapped back and forth, completely confused.
 
-"Bridge," said Tako.
+"FINE," said Tako. "Go to your smelly hill."
 
-"Hill," said Yaki.
+"FINE," said Yaki. "Go to your wobbly bridge."
 
-"Bridge!"
-
-"HILL!"
-
-And the bonito wave between them flapped back and forth, back and forth, completely confused, because it had never been pulled in two directions before.
-
-Now, here is the thing about Tako and Yaki that you should know. They had never, not once in their whole round golden lives, watched anything apart. They high-fived in unison. They finished each other's sentences. When one of them sneezed, the other one said "bless you" before the sneeze even finished. So this little spat felt, to both of them, like a very big deal indeed.
-
-"FINE," said Tako, lifting his crispy chin. "You go to your smelly hill."
-
-"FINE," said Yaki, lifting his. "You go to your wobbly bridge."
-
-And — with a sad little *peeeel* — they tried to bounce off in opposite directions.
-
-Which is, of course, completely impossible when you are joined at the top by a wobbly bonito wave.
-
-*BOING.* They snapped right back together, bonked foreheads, and sat down hard in the grass.
-
-"Ow," said Tako.
-
-"Ow," agreed Yaki, rubbing his head. "Okay. New plan."
+They bounced off in opposite directions. BOING. Snapped back together. Bonked foreheads. Sat down hard.
 
 ---
 
-The new plan was a rope. (Twins are clever, just not always wise.)
+New plan: a rope. They borrowed one long noodle from a very confused oden stall.
 
-They borrowed a long strand of noodle from a very confused **oden** (oh-DEN) — simmered-snacks — stall, tied one end to Tako and one end to Yaki, and stretched the noodle as far as it would go — one twin straining toward the bridge, one twin straining toward the hill.
+Tako strained toward the bridge. Yaki strained toward the hill. The noodle quivered like a guitar string.
 
-It stretched. And stretched. And stretched.
+Along trotted Neko-Pan, waving his lucky paw. "Wave for luck! Oooh. A noodle."
 
-"Almost... there..." groaned Tako, reaching for the bridge.
+Slurrrrp. He gobbled the whole middle of it like the luckiest spaghetti in Japan.
 
-"So... close..." wheezed Yaki, reaching for the hill.
+TWANG. The twins shot together, spun three golden loops, and landed splat in a basket of festival masks.
 
-The noodle quivered like a guitar string.
+Tako sat up in a fox mask. Yaki sat up in a fish mask.
 
-And then a passing cat-bun named Neko-Pan trotted by, saw a delicious-looking noodle stretched across the path, and — *slurrrrp* — gobbled the whole middle of it like the world's luckiest spaghetti.
-
-*TWANG.*
-
-Tako shot one way! Yaki shot the other! And because they were still connected at the top, they spun around each other in a wild golden cartwheel, three full loops, before landing — *splat-splat* — face-down in a basket of festival masks.
-
-When they sat up, Tako was wearing a fox mask and Yaki was wearing a fish mask, and a nearby grandma applesnack laughed so hard she had to sit down.
-
-"This," panted Tako through the fox mask, "is not working."
-
-"You think?" said Yaki through the fish mask.
+"Thanks for the noodle," said Neko-Pan, and waved himself off into the lanterns.
 
 ---
 
-That was when they heard the first whistle of the sky.
+Fffffft. BOOM. The first firework burst into a thousand golden threads. The whole river went OOOH.
 
-*Fffffffft —*
+Tako's heart flipped. He glanced sideways. Yaki's heart flipped. He glanced back. Both looked away, stubborn.
 
-A single firework climbed up, up, up over the dark river, paused at the very tippy-top like it was taking a breath...
+Putt-putting by came Kei, a teeny butter-yellow kei-truck. "Putt-putt, let's GO!" she beeped.
 
-*BOOM.*
+"Drive me to the bridge," said Tako, climbing onto the flatbed. "Then come back for him."
 
-It burst into a thousand falling golden threads, and the whole festival went *"OOOOOOH!"*
+Kei putt-putted off. The bonito wave stretched. And stretched.
 
-Tako felt his heart do a little flip. Up on the hill, that would look incredible. He glanced sideways.
+Yaki bounced along behind on his bottom, bumpity-bump, yelping, "THIS WASN'T THE PLAN!"
 
-Yaki felt his heart do the exact same flip. Down at the bridge, the water would catch every spark. He glanced sideways too.
-
-They caught each other looking, and both quickly looked away, because they were still being stubborn, and being stubborn is a slippery thing — once you start, it's hard to stop, even when your heart is tugging you the other direction.
-
-"I'm going to the bridge," said Tako, very firmly.
-
-"I'm going to the hill," said Yaki, very firmly.
-
-So this time they were smart about it. They asked little Kei the kei-truck — a teeny butter-yellow mini-truck humming nearby — for a ride. Kei could drive Tako to the bridge, then come back and drive Yaki to the hill. Two trips. Two spots. Two happy twins.
-
-"Putt-putt, let's GO!" beeped Kei.
-
-They loaded Tako onto the flatbed first. Kei putt-putted toward the bridge. The bonito wave stretched... and stretched... and Yaki, still tied to the other end of it, got dragged along bouncing behind the truck on his bottom the entire way — *bumpity-bump-bump* — yelping "THIS WASN'T THE PLAN!" the whole time.
-
-Kei stopped at the bridge. Tako hopped off. Yaki, dizzy and grass-stained, rolled up beside him.
-
-They looked at each other.
-
-They looked at the bonito wave that absolutely, positively, would-not-stretch-that-far connecting them.
-
-And Tako, the funny one, started to laugh. A big slurpy snorty laugh that shook all his sauce.
-
-"We've been trying to tear ourselves apart," he wheezed, "ALL NIGHT."
-
-Yaki started laughing too, helplessly, the way you do when your twin laughs. "We're literally STUCK together, Tako. We have been the WHOLE time. It says so right in our song!"
-
-And then together, both at once, snorting and wheezing, they sang it:
-
-*"Roll us once — we come as TWO!"*
+Kei stopped at the bridge. Tako hopped off. Yaki, dizzy and grass-stained, flopped up beside him.
 
 ---
 
-*Fffffffft — BOOM!*
+They looked at each other. They looked at the wave that would never, ever stretch that far.
 
-Another firework split the sky, big as a chrysanthemum, raining down red and gold. And this time the twins were not on a hill and not on a bridge. They were squished side by side on the grassy riverbank, exactly where they'd landed, with the masks still on top of their heads.
+Tako started to laugh, a big slurpy snort that shook all his sauce.
 
-But here is the funny, lovely, true thing they discovered.
+"We've been trying to tear ourselves apart ALL NIGHT," he wheezed.
 
-When Tako said *"OOOOH!"* — Yaki said *"AAAAH!"* — and the two sounds braided together into one giant happy noise that was twice as big as either of them alone.
+"We're literally STUCK together," laughed Yaki. "It says so in our song!"
 
-*Fffffffft — BOOM!* A blue one!
-
-"OOOH —" said Tako.
-
-"— AAAH!" said Yaki.
-
-*Fffffffft — BOOM-BOOM-BOOM!* Three pink ones in a row!
-
-"OHHH —"
-
-"— WOW!"
-
-"— LOOK AT THAT ONE!"
-
-"— NO, LOOK AT *THAT* ONE!"
-
-They bounced. They pointed. They grabbed each other's little batter-hands. The river caught the fireworks and tossed them back upside-down, *just like* Tako had promised. And from where they sat, the grilled-corn smell of the hill drifted right down to them, warm and buttery, *just like* Yaki had promised. The bridge gift AND the hill gift, both, together, in one cozy spot — because they were together to share them.
-
-The biggest firework of the night was a golden willow that drooped its sparkling branches all the way down to the water, and when it bloomed, the twins didn't even say anything. They just leaned their round heads together, bonito wave finally relaxed and floppy and content, and watched it fade with two soft little sighs.
-
-"I'm glad I'm not on the bridge alone," whispered Tako.
-
-"I'm glad I'm not on the hill alone," whispered Yaki. "An 'ooh' with nobody to 'aah' back is only half an 'ooh.'"
-
-"That's the most sensible thing you've ever said."
-
-"I know. It scared me a little."
-
-The very last firework was a double burst — *BOOM-BOOM* — two flowers of light opening at the exact same instant, side by side in the dark, twins in the sky.
-
-Tako and Yaki looked up at it.
-
-Then they looked at each other.
-
-And they didn't need to say a single word, because they were already saying the same thing inside.
+"Roll us once, we come as TWO!" they sang, snorting, masks sliding off.
 
 ---
 
-When the smoke cleared and the festival lanterns glowed gold along the river, the twins rolled home in Kei's flatbed, foxmask and fishmask pushed back, sticky and sleepy and grinning. They agreed, very solemnly, that next year they would watch the hanabi from the hill *and* the bridge — by taking turns, *together*, both spots, both twins, every single time.
+BOOM. A chrysanthemum of red and gold right over the bridge, and the river caught it upside-down.
 
-Because some things you can do alone just fine. But the very best things — the boomy, sparkly, breath-catching, ooh-and-aah things — those are always, always better doubled.
+"OOOH—" said Tako.
 
-"Roll us once," murmured Tako, eyes drooping.
+"—AAAH!" said Yaki.
 
-"...we come as two," finished Yaki, already half asleep.
+The two sounds braided together into one noise twice as big as either alone.
 
-And the bonito wave between them flapped, just once, very gently, like a tiny goodnight wave.
+Down from the hill drifted the smell of grilled corn. The bridge gift AND the hill gift.
+
+"An ooh with nobody to aah back," whispered Yaki, "is only half an ooh."
+
+"That's the most sensible thing you've ever said," said Tako. "It scares me a little."
+
+The last firework was a double burst, BOOM-BOOM, two flowers opening side by side. Twins in the sky.
+
+---
+
+Home they rode in Kei's flatbed, fox mask and fish mask pushed back, sticky and sleepy.
+
+"Next year," murmured Tako, "the hill AND the bridge. Taking turns. Together."
+
+"Roll us once," yawned Yaki, "...we come as two."
+
+And the bonito wave between them flapped once, very gently, like a tiny goodnight wave.
 
 ---
 
 ## Goodnight Blessing
-Little one, may your nights be full of warm grilled-corn smells and skies that bloom with light. When something wonderful happens, may there always be someone snuggled beside you to say "ooh" while you say "aah." Stay close to the ones who finish your sentences and laugh at your jokes even before you get to the funny part. The fireworks have faded now, the river is quiet, and it is time for your eyes to drift down like the last golden sparks settling softly on the water. Squish in close, breathe slow, and let the warm summer dark tuck you in. Goodnight.
+May your nights be full of grilled-corn smells and skies that bloom with light. When something wonderful happens, may someone be snuggled beside you to say ooh while you say aah. Squish in close. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration, soft summer-night palette of indigo, gold, and rosy pink: two round golden takoyaki batter-ball twins joined by a wobbly bonito-flake wave on top, sitting squished side by side on a grassy riverbank, mouths open in delighted "ooh" and "aah," tiny festival masks pushed up on their heads, an enormous golden willow firework blooming overhead and reflecting upside-down in the dark river, paper lanterns glowing along the bank, cozy and joyful mood.
-2. Character portrait, warm storybook style: the takoyaki twins Tako and Yaki, two crispy golden batter-balls drizzled with glossy brown sauce zig-zags, connected by a jiggly tan bonito-flake wave, bouncing in unison mid-air with little batter arms high-fiving, big happy eyes and grins, sparkles around them, soft creamy background.
-3. Cozy closing scene: the two takoyaki twins riding home asleep on the flatbed of a tiny round butter-yellow kei-truck with big headlight eyes, fox and fish festival masks pushed back, leaning their heads together with content little smiles, a single faint firework spark fading in the deep blue sky above a glowing lantern-lit riverside, peaceful and dreamy lighting.
+1. Key scene — warm whimsical storybook illustration, summer-night palette of indigo, gold and rosy pink: two round golden takoyaki batter-ball twins joined by a wobbly bonito-flake wave, one tied to a tiny butter-yellow kei-truck's flatbed and one bouncing along behind on his bottom with the wave stretched tight between them, along a lantern-lit riverbank with a wooden bridge ahead, the first golden firework bursting overhead and reflecting in the dark river, treat-folk stalls glowing. Joyful, cozy, funny.
+2. Character portrait — the takoyaki twins Tako and Yaki: two crispy golden batter-balls drizzled with glossy brown sauce zig-zags, connected by a jiggly tan bonito-flake wave, one wearing a white fox mask pushed up on his head and the other a fish mask, bouncing in unison mid-air with little batter arms high-fiving, big happy eyes, sparkles around them, soft creamy background.
+3. Closing scene — the two takoyaki twins riding home asleep on the flatbed of a tiny round butter-yellow kei-truck with big headlight eyes, fox and fish festival masks pushed back, heads leaning together with content little smiles, a single faint firework spark fading in the deep blue night sky above a lantern-lit riverside. Peaceful and dreamy.
+
+## Animation Notes
+- **Cast:**
+  - `TWINS` — Tako & Yaki: two round golden takoyaki batter-balls joined on top by a wobbly bonito-flake wave, glossy sauce zig-zags, stubby batter arms, a fox mask and a fish mask after the basket; voice: fast, giggly, overlapping.
+  - `NEKO` — Neko-Pan: a plump pale-gold melon-cream bun shaped like a beckoning lucky cat, one paw raised, gold collar bell; voice: cheerful, bright, lucky.
+  - `KEI` — Kei the kei-truck: a teeny round butter-yellow Japanese mini-truck with big headlight eyes, a stubby flatbed and a knitted seat-cover; voice: eager, beepy, cheerful.
+- **Scenes:**
+  1. A grassy riverbank at night, paper lanterns, a noodle stand, a wooden bridge downstream and a grassy hill above the food stalls.
+  2. The riverbank path between the bridge and the hill, lanterns glowing, dark river.
+  3. Beside an oden stall at night, a long noodle stretched across the path, a basket of festival masks nearby.
+  4. The lantern-lit riverbank toward the wooden bridge, the first golden firework over the river, a tiny yellow kei-truck.
+  5. The wooden bridge at night, lanterns on its rails, the river reflecting lights.
+  6. The bridge under a sky full of fireworks: red-gold chrysanthemum bursts, a golden willow, reflections upside-down in the water.
+  7. The riverside road home at night, lanterns, a tiny kei-truck's flatbed, one last spark fading in the sky.
+- **Budget:** 626 narrated words · 44 beats · 7 scenes · est. 4:41

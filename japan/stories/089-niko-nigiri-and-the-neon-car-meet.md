@@ -1,171 +1,138 @@
 # Story 89: Niko Nigiri and the Neon Car Meet
 
 **Main Character:** Niko Nigiri (nigiri sushi) & the Sushi-ya Express truck
-**Guest Characters:** Kei the kei-truck
+**Guest Characters:** Kei the kei-truck; Maru Matcha; a lot full of wonderfully different cars
 **Setting:** A neon-lit parking-lot car meet at night
 **Theme:** Show your own style and you'll find your crew
-**Japanese Spotlight:** nakama (nah-kah-mah) — crew / companions
+**Japanese Spotlight:** **nakama** (nah-kah-mah) — crew / companions
 
 ---
 
-Niko Nigiri had measured the parking lot twice, and he was about to measure it a third time when the Sushi-ya Express let out a happy little *ding!* and rolled to a perfectly straight stop.
+It was Import Night. The whole parking lot glowed like spilled jewels, pink neon humming, blue neon fizzing.
 
-"There," Niko said, smoothing his glossy salmon cape and straightening his neat nori belt. "Parked exactly between the lines. Not one wheel out of place." He stood very tall on top of his pearl-white rice, bright eyes sparkling under the buzzing lights. "Let's do this neatly... or deliciously!"
+The Sushi-ya Express rolled to a stop exactly between the lines. Ding.
 
-It was Import Night, and the whole lot glowed like a box of spilled jewels. Pink neon hummed. Blue neon fizzed. Somewhere a tiny engine went *blip-blip-vroom* just for the fun of it. Niko had never seen so many cars in one place — and not a single one, he noticed with a small polite gasp, looked like any of the others.
+"Not one wheel out of place," said Niko Nigiri, smoothing his cape. "Let's do this neatly... or deliciously!"
 
-He clipped his checklist to his nori belt. Tonight, he decided, would be tidy, organized, and absolutely under control.
+Around him: a van painted like a sleeping cat, a car floating on grape-soda light, a mirror-shiny speedster.
 
-He had no idea.
+"Everyone's so fancy," said Niko. "We're a food truck with a curtain. We simply must FIT IN."
 
----
-
-"PUTT-PUTT, here I AM!"
-
-A teeny butter-yellow truck came rolling in smooth as butter, springs singing their new quiet song, headlight-eyes huge, knitted seat-cover flapping like a scarf in the wind. It was Kei the kei-truck, and she was so excited she beeped three times in a row and nearly bounced her own mud-flaps off.
-
-"Niko! You came! You came to the car meet!" Kei skidded to a wobbly stop, sproinging up and down. "Isn't it the COOLEST? Look at everybody!"
-
-Niko looked. And his neat little eyes went wide.
-
-There were low cars and tall cars. A car with under-glow that made it look like it was floating on a puddle of grape soda. A van wrapped entirely in a painting of a sleepy cartoon cat, with whiskers stretching all the way down to the bumper. A boxy old thing covered in a hundred glittery stickers — every single one different, peeling at the corners, layered three deep — and a sleek silver speedster so polished you could fix your nori in its reflection.
-
-There was a tall round bus that played soft jazz to itself. There was a rusty little hatchback with a forest of tiny lucky-cat charms swinging from its mirror. There was even a delivery scooter wearing fuzzy dice the size of marshmallows.
-
-"They're all so... different," Niko said slowly. He tugged his cape. "Kei, do you think — well — do you think the Sushi-ya Express *fits* in here? We're a food truck. With a curtain. And a little fish-flag on the roof."
-
-"That's the BEST part!" Kei beeped.
-
-But Niko wasn't so sure. He looked at all the flashy, fancy cars, and then back at the Sushi-ya Express — gleaming white and indigo, noren curtain swaying, paper-lantern headlights glowing soft and warm, smelling gently of vinegared rice and sea breeze.
-
-It looked, Niko thought, a little plain.
-
-So he did what tidy, organized worriers sometimes do. He decided to *fix* it.
+"PUTT-PUTT, here I AM!" Kei bounced in so hard her mud-flaps flapped, and beeped three times.
 
 ---
 
-"If everyone here has a flashy style," Niko reasoned, pacing on the truck's fold-down counter, "then we simply need a flashy style too. We'll fit right in."
+The Sushi-ya Express rang her bell uncertainly. Ting?
 
-The Sushi-ya Express rang its little bell uncertainly. *Are you sure?*
+"Very sure!" said Niko, which he always said right before things got interesting.
 
-"Very sure!" Niko said, which was a thing he often said right before things got interesting.
+He borrowed under-glow from the grape-soda car. The truck lit up swampy green, like a forgotten salad.
 
-First he borrowed some leftover under-glow tubes from the grape-soda car. He clipped them under the Sushi-ya Express. They flickered on — and the truck now glowed a strange swampy green, like a salad that had stayed out too long.
+"Bold," said Niko. "Perhaps too bold."
 
-"Hmm," said Niko. "Bold. Maybe... too bold."
+He slapped a giant chrome flame over the noren curtain, to look **hayai** (hah-yah-ee) — fast.
 
-Next he wrapped a giant glittery sticker over the noren curtain. It said, in enormous chrome letters, **hayai** (hah-yah-ee) — fast.
+"But you don't go fast," said Kei. "You park very carefully and ring a bell."
 
-"But we don't go fast," Kei pointed out. "You park very carefully and ring a bell."
+"Details," said Niko, sweating under his cape.
 
-"Details," said Niko, sweating a little under his salmon cape.
-
-Then he added racing stripes (crooked), and a spoiler (it fell off, then he taped it back on, then it fell off again), and a tiny pretend exhaust pipe that didn't connect to anything. He balanced a pair of fuzzy dice on the rearview mirror, but they were so big they blocked the whole windshield, so the Sushi-ya Express could only see one square inch of the world.
-
-And finally he added a set of speakers so enormous that when he switched them on, the bass made the soft-boiled egg garnishes wobble right off the counter and roll away giggling, and a row of pickled ginger leaped clean off its plate and did a little terrified dance across the asphalt.
-
-"Turn it DOWN!" begged Kei, whose springs were rattling. "My mud-flaps are coming loose!"
-
-Niko turned it down. The pickled ginger crept sheepishly back.
-
-When Niko finished, he stepped back to admire his work.
-
-The Sushi-ya Express looked... awful.
-
-It looked like a sushi truck that had lost a fight with a fireworks store. The neon clashed. The stickers peeled. The spoiler lay sadly on the asphalt. The little rooftop fish-flag had been completely covered up, and the warm paper-lantern headlights were buried under a tangle of borrowed wires.
-
-Worst of all, the gentle smell of sea breeze and vinegared rice was gone — drowned under the burnt-rubber smell of trying-too-hard.
-
-Niko's straight little shoulders drooped. "Oh no," he whispered. "I made us look like everybody else. And we still don't fit. We just look... lost."
-
-The Sushi-ya Express gave the smallest, saddest *ding.*
+Crooked stripes. A spoiler that fell off, got taped on, and fell off again, this time onto Kei.
 
 ---
 
-That was when a very calm car rolled up.
+Fuzzy dice big as pillows went on the mirror. Now the truck could see one square inch.
 
-Actually, it wasn't a car at all — it was Maru Matcha, the little jade-green friend with the soft-serve swirl of matcha cream on her head, riding along on a skateboard she steered with her tiny bamboo whisk. She took one long look at the disaster on wheels and gave a slow, deadpan blink.
+She rolled forward one inch and gently bonked the jazz bus, which gave a surprised toot.
 
-"Whisk slow," she said. "Feel calm."
+Then the speakers. Enormous ones. Niko flipped the switch.
 
-"I can't feel calm!" Niko wailed, very un-Niko-ishly. "Everyone here has an amazing style and I tried to copy ALL of them at ONCE and now we look like a recycling bin in disguise!"
+BOOM. The pickled ginger leapt off its plate and did a terrified little dance across the asphalt.
 
-Maru sat down on her skateboard and patted the spot beside her. Niko slid down off the counter and plopped next to her, cape crumpled.
+Three soft-boiled eggs wobbled off the counter and rolled away giggling between the cars.
 
-"Niko," Maru said gently. "Why did all these cars come tonight?"
+Niko chased them, cape flapping, under the cat van, past the sticker car, around the speedster.
 
-"To... show off?"
+"Turn it DOWN!" begged Kei. "My mud-flaps are coming loose!"
 
-"To show *themselves,*" Maru said. "The cat van loves cats. So it became a cat. The sticker car loves every sticker it ever met, so it wears them all, even the wrinkly ones. The grape-soda car loves to glow. The jazz bus loves a slow tune at midnight." She took a calm, slow breath, the way she always did. "None of them are trying to be each other. Imagine if they were. Imagine a parking lot full of one hundred cars all pretending to be the exact same car." She gave the tiniest deadpan shudder. "How dreadfully boring."
-
-Niko had to admit it would be very boring indeed.
-
-"They came to find their **nakama** (nah-kah-mah) — their crew," Maru went on. "And you don't find your crew by hiding what you are. You find them by showing it. The truer your light, the easier you are to find."
-
-Niko was quiet for a long moment. Around them, the neon hummed its bright happy hum.
-
-"But what *are* we?" he asked softly. "We're not fast. We're not flashy. We're just... a little sushi truck that does things neatly."
-
-Maru smiled her half-moon smile. "Then *be* that. Beautifully."
+Niko came back with three eggs and somebody's hubcap. The ginger crept sheepishly home.
 
 ---
 
-Niko stood up. He looked at the borrowed neon, the crooked stripes, the peeling stickers, the giant pointless speakers.
+He stepped back. The Express looked like a sushi truck that lost a fight with a fireworks store.
 
-And then, very calmly, very *neatly,* he took it all off.
+It smelled of trying-too-hard.
 
-He unclipped the swampy under-glow and gave it back to the grape-soda car with a polite bow. He peeled away the chrome sticker, folded it into a tidy square, and returned it. He carried the spoiler over to the sticker car, which was delighted to add it to its collection. He coiled every borrowed wire into a perfect loop.
+"I made us look like everybody else," whispered Niko. "Now we look like a recycling bin in disguise."
 
-Then Niko wiped down the Sushi-ya Express until it gleamed white and indigo again. He straightened the noren curtain so it swayed just so. He un-tangled the paper-lantern headlights until they glowed soft and golden. He climbed up and set the little rooftop fish-flag fluttering free.
-
-And then — because this was what the Sushi-ya Express was *for* — Niko folded down the counter, set out clean little plates, and began to make sushi.
-
-Not flashy sushi. *Neat* sushi. Each grain of rice in its place. Each slice perfect. Each plate arranged like a tiny edible garden. The warm smell of vinegared rice and sea breeze drifted out across the parking lot, weaving between the neon lights.
-
-The Sushi-ya Express rang its little bell. *Fresh sushi, anywhere the road goes!*
+The Sushi-ya Express gave the smallest, saddest ding.
 
 ---
 
-What happened next surprised Niko very much.
+Then a skateboard glided up, steered by a tiny bamboo whisk. Maru Matcha blinked at the disaster, slowly.
 
-The grape-soda car rolled over first. "Whoa," it said. "That looks... really *you.* I love it."
+"Whisk slow," said Maru. "Feel calm."
 
-Then the cat van. Then the sticker car. Then the jazz bus, humming along to itself. Then the sleek silver speedster, who was secretly always hungry and a little shy about it. Even the rusty hatchback with its forest of lucky charms came putt-putting over, charms jingling like a tiny rainstorm. One by one, the wonderfully different rides of the whole car meet drifted toward the warm golden glow and the smell of the sea, until a friendly crowd had gathered around the tidy little truck that smelled like home.
+"I can't feel calm!" said Niko, very un-Niko-ishly. "I copied EVERYONE at ONCE!"
 
-"This is the best stop at the whole meet," somebody said.
+"Why did the cat van come tonight?" asked Maru. "Because it loves cats. So it became a cat."
 
-"You don't look like anybody else here," said the cat van, munching happily.
+"They came to find their **nakama** (nah-kah-mah) — crew," said Maru. "You find a crew by showing, not hiding."
 
-"That's *why* we like you," said the speedster.
+"But we're not fast or flashy," said Niko. "We're a little sushi truck that does things neatly."
 
-Kei the kei-truck bounced up and down so hard she beeped. "See, Niko? SEE? You didn't have to fit in. They came to YOU!"
-
-Niko looked around at all the different cars, all glowing in their own different ways, all gathered together — a hundred styles, one crew. His heart felt warm as fresh rice.
-
-"Nakama," he said softly, trying the word. "We found our nakama."
-
-Maru gave a slow proud blink. "You didn't find them," she said. "You let them find *you.*"
+"Then be that," said Maru. "Beautifully."
 
 ---
 
-For the rest of the night, the Sushi-ya Express was the cozy glowing heart of the whole neon meet. Niko made sushi for everyone, neatly and deliciously, and the cars told stories of all the roads they'd rolled, and Kei gave little bouncing rides around the lot, beeping with joy.
+Niko took it all off. Neatly. Under-glow unclipped and returned with a bow. Wires coiled in perfect loops.
 
-And when the neon finally dimmed and the lot grew sleepy, every wonderfully different car flicked its lights twice — a soft, glowing goodnight — to the tidy little truck that had taught them the warmest lesson of all:
+He wiped the truck white and indigo again, untangled the lanterns, and set the fish-flag free.
 
-You don't have to look like the crowd to belong to it.
+Then he folded down the counter and made sushi. Not flashy sushi. Neat sushi, each grain in place.
 
-You just have to be brave enough to glow your own way.
+Ting-ting-ting. "Fresh sushi, anywhere the road goes!" sang the Sushi-ya Express.
+
+---
+
+The silver speedster rolled over first, shyly. It was secretly always hungry.
+
+Then the cat van. Then the sticker car. Then the jazz bus, humming. Headlights blinking like happy eyes.
+
+"See? SEE?" beeped Kei, bouncing. "You didn't have to fit in. They came to YOU!"
+
+"Nakama," said Niko softly. "We found our nakama."
+
+"You let them find you," said Maru.
+
+---
+
+The neon dimmed. One by one, every wonderfully different car flicked its lights twice: goodnight.
+
+Niko sat on the warm counter beside Maru, cape straight, and yawned the neatest yawn in the lot.
 
 ---
 
 ## Goodnight Blessing
-
-Little one, you are not meant to be a copy of anyone else — not the flashiest, not the fastest, not the loudest in the lot. You are meant to be wonderfully, gently *you,* glowing your own soft color into the night. Somewhere out there, your nakama are waiting to find you, drawn to the warm and true light that only you can shine. So tuck in close, breathe slow like Maru, and let your worries roll quietly away into the dark. The right friends always find their way to the cozy glow. Goodnight.
+You are not meant to be a copy of anyone. Glow your own soft color into the dark, and the right friends will find their way to it. Tuck in close. Breathe slow. Goodnight.
 
 ## AI Image Prompts
+1. Key scene — warm whimsical storybook illustration of a neon-lit parking lot at night: the Sushi-ya Express, a white-and-indigo sushi food truck, buried under a swampy green under-glow, crooked racing stripes, a giant chrome flame over her noren curtain and pillow-sized fuzzy dice; a small proud nigiri-sushi character (pearl-white rice, glossy coral-salmon cape, black nori belt) chasing three giggling soft-boiled eggs between a cat-painted van, a sticker-covered car and a silver speedster; a teeny butter-yellow kei-truck with flapping mud-flaps; pink and blue neon, kawaii palette of warm gold against cool neon.
+2. Character portrait — Niko Nigiri: a tidy oval pillow of pearly white rice wearing a glossy coral-orange salmon cape and a neat little black nori belt, standing very straight and proud with bright attentive eyes and a tiny crumpled spot on the cape, a soft neon glow behind him; kawaii storybook style, clean and cozy.
+3. Closing scene — the parking lot late at night as the neon dims: the clean white-and-indigo Sushi-ya Express glowing softly at the center, fish-flag fluttering, paper-lantern headlights warm, while a circle of wonderfully different cute cars flick their headlights twice in a gentle goodnight; Niko Nigiri yawning on the warm counter beside calm jade-green Maru Matcha on her little skateboard, Kei dozing nearby; soft dreamy gold-and-twilight-blue palette, peaceful and heartfelt.
 
-1. **Key scene:** Warm whimsical storybook illustration of a gleaming white-and-indigo sushi food truck (the Sushi-ya Express) parked at a glowing nighttime car meet, its noren curtain swaying and paper-lantern headlights glowing golden. A small, proud nigiri-sushi character named Niko (pearl-white rice, glossy coral-salmon cape, tiny black nori belt, bright eyes) stands on the fold-down counter making neat little plates of sushi. A crowd of wonderfully different cute cartoon cars — a cat-painted van, a sticker-covered car, a grape-purple under-glow car, a sleek silver speedster — gather around the warm light. A teeny butter-yellow kei-truck (Kei) bounces nearby. Neon pink and blue glow softly; cozy, magical, kawaii palette of warm gold against cool neon.
-
-2. **Character portrait:** Kawaii storybook portrait of Niko Nigiri — a tidy oval pillow of pearly white rice wearing a glossy coral-orange salmon cape and a neat little black nori belt, standing very straight and proud with bright attentive eyes, a small checklist clipped at his side. Soft warm lighting, gentle smile, clean cozy background with a hint of neon glow.
-
-3. **Closing scene:** A sleepy nighttime parking lot as the neon dims. The cozy white-and-indigo Sushi-ya Express truck glows softly at the center, rooftop fish-flag fluttering, while a circle of wonderfully different cute cars flick their headlights twice in a gentle goodnight. Niko Nigiri sits contentedly on the warm counter beside calm jade-green Maru Matcha on her little skateboard. Soft, dreamy, warm-gold-and-twilight-blue palette, peaceful and heartfelt.
+## Animation Notes
+- **Cast:**
+  - `NIKO` — Niko Nigiri: a tidy oval of pearly white rice in a glossy coral-orange salmon cape with a neat black nori belt, stands very straight, bright attentive eyes; voice: polite, formal, fretful.
+  - `SUSHIYA` — the Sushi-ya Express: a gleaming white-and-indigo food truck with a noren curtain, a tiny rooftop fish-flag, glowing paper-lantern headlights and a fold-down counter; voice: warm, welcoming, motherly.
+  - `KEI` — Kei the kei-truck: a teeny round butter-yellow mini-truck with big headlight eyes, a stubby flatbed, tidy mud-flaps and a knitted seat-cover sweater; voice: eager, putt-putt, beepy.
+  - `MARU` — Maru Matcha: a small jade-green bowl-headed friend with a frothy matcha-cream swirl on top, calm half-moon eyes, a tiny bamboo whisk, riding a little skateboard; voice: calm, deadpan, gentle.
+- **Scenes:**
+  1. A neon-lit parking lot at night: pink and blue neon, a cat-painted van, a grape-soda under-glow car, a sticker-covered car, a silver speedster, a tall jazz bus, the Sushi-ya Express parked neatly.
+  2. Beside the Sushi-ya Express at night: borrowed green under-glow tubes, a giant chrome flame over the noren curtain, crooked stripes, a spoiler on the asphalt.
+  3. The lot at night, the truck piled with fuzzy dice and enormous speakers: pickled ginger dancing on the asphalt, three eggs rolling between the cars.
+  4. The over-decorated truck at night, wires tangled around the lantern headlights, fish-flag buried, Niko slumped on the counter.
+  5. The asphalt beside the truck at night, a little skateboard with a bamboo whisk, neon reflections.
+  6. The Sushi-ya Express at night being wiped clean: white and indigo again, lanterns untangled, fish-flag free, the fold-down counter with neat plates of sushi.
+  7. The lot at night, the wonderfully different cars gathered around the warm counter light, headlights blinking.
+  8. The lot late at night, neon dimming, a circle of cars with headlights flicking, the truck glowing soft gold.
+- **Budget:** 645 narrated words · 44 beats · 8 scenes · est. 4:48

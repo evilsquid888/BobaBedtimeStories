@@ -1,131 +1,135 @@
 # Story 60: Sora Soft-Cream and the Sapporo Snow Festival
 
 **Main Character:** Sora the Soft-Cream
-**Guest Characters:** Momo Mochi, Kori Kakigori, Niko Nigiri, Pock Ramune, Rin Ramen, Tama Onigiri, Maru Matcha
+**Guest Characters:** Momo Mochi, Kori Kakigori, Pock Ramune
 **Setting:** The Sapporo Snow Festival, full of giant snow sculptures
 **Theme:** Big dreams can be built one handful at a time
-**Japanese Spotlight:** yuki-matsuri (yoo-kee mah-tsoo-ree) — snow festival
+**Japanese Spotlight:** **yuki-matsuri** (yoo-kee mah-tsoo-ree) — snow festival
 
 ---
 
-Sora the Soft-Cream was a tall, sleepy swirl of pale-gold Hokkaido milk ice cream, balanced in a crisp golden cone, with gentle half-closed eyes and a little curl at the very top that flopped over whenever she tilted her head. She loved wide skies and slow days, and there was nothing wider or slower than a snowy morning in Sapporo.
+Sora the Soft-Cream drifted through the white, humming. "Soft swirls, slow smiles."
 
-"Soft swirls, slow smiles," she hummed, drifting through the white. Her breath made tiny clouds. Her cone made tiny *crunch-crunch* footprints. And then — *whump!* — a snowball the size of a beach ball rolled past her nose and knocked the curl right off the top of her head.
+Her cone made tiny crunch-crunch prints. Her breath made tiny clouds.
 
-"OH NO," Sora said, very softly, because Sora said everything softly. "My curl."
+WHUMP. A snowball the size of a beach ball bowled past and knocked the curl off her head.
 
-The snowball stopped. It blinked. It was not a snowball at all. It was a sign, freshly buried, that read in big frosty letters: **Yuki-Matsuri** (yoo-kee mah-tsoo-ree) — **Snow Festival**.
+"Oh no," said Sora, very softly, because Sora said everything softly. "My curl."
 
-"Today?" Sora gasped, in a melty whisper. "The festival is TODAY?"
+It lay buried somewhere in the drift. Sora was now a swirl with a flat top.
 
-The sign, being a sign, said nothing. But the whole snowy park behind it was already buzzing.
+Beyond the drift roared the **yuki-matsuri** (yoo-kee mah-tsoo-ree) — snow festival. Castles. Dragons. A giant cat.
 
-The Sapporo yuki-matsuri was the biggest, coldest, sparkliest party in all of Hokkaido. Every winter, the whole town came out to build enormous sculptures out of snow — castles taller than houses, dragons longer than buses, lucky cats so giant you could nap in one paw. And this year, all of Sora's friends had signed up to build the grandest sculpture of all.
+---
 
-The trouble was, nobody had told *Sora.* (She'd been napping. Sora napped a lot. It was, in her opinion, an underrated activity.)
+Her friends stood around a knee-high heap shaped, honestly, like a sad potato.
 
-She waddled into the great snow field, where a flurry of friends were already arguing happily over a wobbly heap of snow.
+"TALLER, darlings!" boomed Kori Kakigori, sunglasses on in winter. "We're building the COOLEST tower ever!"
 
-"It needs to be TALLER," boomed Kori Kakigori, a flamboyant mountain of shaved ice with sunglasses perched on top, even though it was the middle of winter. "Darlings, we are making ART. It must be the COOLEST thing anyone has ever — oh, that's a pun, *cool,* you're welcome."
+"First the FUN!" fizzed Pock Ramune, zipping past. "Pop the marble, let the fun fizz out!"
 
-"It needs a *plan*," said Niko Nigiri, standing very straight in his glossy salmon cape, holding a tiny clipboard made of nori. "Let's do this neatly. First the base, then the —"
+Momo Mochi squished Sora into a hug. "You're here! Squish together, stay together!"
 
-"First the FUN!" cried Pock Ramune, zipping past in a fizz of bubbles. "Pop the marble — let the fun fizz out! POP!"
+"What can I do?" asked Sora. She wanted, very much, to build something tall.
 
-"Everything's better warm and bubbly," sighed Rin Ramen, who was steaming gently and standing as far from the snow as a bowl of hot broth politely could. "Although I admit, the *warm* part is not going great for me right now."
+Everyone went quiet. Sora was one degree from melting on a good day.
 
-In the middle of all of it stood the heap. It was supposed to become the tallest snow sculpture in the entire festival: a magnificent swirling tower, the **aisu-tawaa** (eye-soo tah-wah) — the ice tower — with a star on top. Right now it was about knee-high and shaped, if Sora was honest, like a sad potato.
+"Maybe," said Kori gently, "you could hold my sunglasses?"
 
-"Sora!" said Momo Mochi, bounding over and squishing her into a hug with arms that stretched like warm taffy. "You're here! We need everyone! Squish together, stay together!"
+---
 
-"What can I do?" Sora asked.
+Sora drifted to a quiet corner, scooped one little scoop of snow, and patted it down.
 
-Everyone went quiet. Because here was the thing about Sora: she was the gentlest, softest, slowest friend in the whole gang. She was *one degree from melting* on a good day. And the festival sculpture was supposed to be *enormous.* Bigger than anything. The kind of dream you needed to be big and strong and fast to build.
+Scoop. Pat. Scoop. Pat. The slowest snow-building anyone had ever seen.
 
-"Maybe," said Niko kindly, "you could... supervise?"
+Across the field, Kori piled snow SO fast his tower leaned like a stack of pudding.
 
-"Or hold my sunglasses," offered Kori.
+Pock drilled fizzy tunnels all through the base. "Ventilation, pop!"
 
-Sora's little curl drooped. (Well, it would have, if she'd had it. It was still buried under the sign.)
+Momo stretched herself around the whole thing like a mochi belt. "I'll hold it!"
 
-She didn't say anything. She just drifted over to one quiet corner of the heap, away from the booming and the popping and the planning. She scooped up one small handful of snow. She patted it gently into place. Then she scooped another, and patted that one too.
+---
 
-*Scoop. Pat. Scoop. Pat.*
+The tower groaned. It leaned left. It leaned right. Then it chose down.
 
-It was very slow. It was very soft. It was, frankly, the slowest snow-building anyone had ever seen.
+FLUMPH. The whole heap came down on Kori, Pock and Momo in one great snowy avalanche.
 
-By lunchtime, the loud, fast, big-dream end of the sculpture had become a disaster.
+The heap wobbled, tipped over the edge of the slope, and began to roll.
 
-Kori had piled the snow up SO tall and SO fast that it leaned like a tower made of pudding, then went *flumph* and collapsed into a heap. Pock had fizzed around so excitedly that he'd drilled little tunnels all through the base — "Ventilation, pop!" — and now it was full of holes. Niko's careful plan had seventeen revisions and a footnote and absolutely no sculpture.
+A giant snowball, with three friends inside, bowling straight toward Sora's quiet corner.
 
-"It's HOPELESS," moaned Kori, flopping dramatically into the slush. "We dreamed too big! The dream is a total MELTDOWN! And I would know!"
+"MELTDOWN!" came Kori's voice from inside. "The dream is a total MELTDOWN, and I would KNOW!"
 
-Rin steamed sadly. Pock's bubbles came out in small, deflated *poffs.* Momo gathered everyone into a big group squish, but even a squish couldn't fix a sad potato.
+Sora set down her scoop. For once there was no time for slow.
 
-And that was when Tama Onigiri — a plump triangle of warm rice with a crisp nori sash — looked up from where he'd been quietly handing out snacks. "Hey," he said. "What's *that?*"
+The snowball hit her cone. It stopped. Sora's cone, it turned out, made an excellent doorstop.
 
-Everyone turned.
+Then she dug, one scoop at a time. Out came Pock. Out came Momo. Out came sunglasses.
 
-In the quiet corner, where nobody had been watching, something had grown. While the rest of them had been booming and popping and revising, Sora had been scooping. One small handful at a time. *Scoop, pat. Scoop, pat.* All morning long.
+---
 
-And now, rising softly out of the snow, was the most beautiful curling tower anyone had ever seen — smooth as soft-serve, swirling gently upward like a giant frozen ice-cream swirl, taller than Kori, taller than the lamppost, with little careful ridges spiraling all the way to the tippy-top.
+Then Kori, upside down. "I'm ALIVE," he announced. "And slightly slushy."
 
-It looked, in fact, exactly like Sora. Just enormous.
+Pock shook off the snow and stopped fizzing. "Hey," he said. "What's THAT?"
 
-"Sora," whispered Momo. "You built that?"
+Everyone turned. In the quiet corner, something had grown while nobody was watching.
 
-"I just..." Sora blinked her sleepy eyes. "I just did one scoop. And then I wasn't sure what to do next, so I did one more. And then it was sort of nice, so I did another." She looked up at the towering swirl, surprised to find it so tall. "I guess I forgot to stop."
+A tower. Smooth as soft-serve, swirling gently upward, taller than Kori, taller than the lamppost.
 
-"But it's HUGE," said Pock.
+It looked exactly like Sora. Just enormous.
 
-"It's *neat,*" gasped Niko, clutching his clipboard to his heart.
+"You built that?" whispered Momo.
+
+"I did one scoop," said Sora. "Then one more. Then it was nice, so I forgot to stop."
 
 "It's the COOLEST," whispered Kori, lowering his sunglasses, and for once he wasn't joking.
 
-Rin sniffled a warm, steamy sniffle. "Everything's better," he said, "when somebody just... keeps going."
+---
 
-Sora looked at the tower, and then at all her friends, and then she said the softest, truest thing.
+"**Ganbatte** (gahn-baht-teh) — keep going!" cried Momo. "Sora-style. One scoop at a time!"
 
-"I thought a big dream meant doing one big thing," he said. "But it's just lots of little things. One handful. And then the next one. You don't have to be big to make something big. You just can't stop scooping."
+Kori scooped with enormous flair and only fell over twice.
 
-There was a long, snowy, sniffly pause.
+Pock zipped from friend to friend delivering snow by the scoop. Pop, pop, pop.
 
-Then Momo clapped her squishy hands. "Right! EVERYONE! One handful at a time! Sora-style!"
+Momo squished the gaps, because squishing was the one thing Momo was simply the best at.
 
-And so they did. Niko stopped revising and started scooping, neatly, of course. Kori scooped with enormous dramatic flair and only knocked himself over twice. Pock zipped from friend to friend delivering snow by the handful — *pop, pop, pop!* Rin couldn't touch the snow (he'd have melted it), so he stood at the edge and cheered, which is a very important job. Tama handed out warm rice balls to keep everyone going. And Momo squished extra snow into the gaps, because squishing was the one thing Momo was simply the best at.
+Scoop by scoop the swirl climbed into the blue sky, and everyone patted a crown on top.
 
-Scoop by scoop, handful by handful, the aisu-tawaa grew. It curled and swirled and climbed into the blue Hokkaido sky, with Sora's careful ridges spiraling all the way up and a great snow-star, patted gently into place by everyone together, gleaming at the very top.
+Pock dug Sora's curl out of the drift and plopped it back on her head. Floppy. Perfect.
 
-When the festival judges came by that evening with their little lanterns, they stopped dead in front of it. They tilted their heads back, and back, and *back.*
+---
 
-"This one," said the head judge, "is the tallest, gentlest, softest, swirliest sculpture in the entire yuki-matsuri." She paused. "How on earth did you build something so enormous?"
+That night, lanterns glowed inside every sculpture, and Sora's tower shone the softest gold of all.
 
-Sora looked up at the tower glowing pink and gold in the sunset. Her little curl — which Tama had dug out from under the sign and patted lovingly back onto her head — flopped happily to one side.
+"The fastest builders built nothing," fizzed Pock sleepily. "The slowest built the whole thing. Pop."
 
-"One handful," Sora said softly, "at a time."
+Sora leaned against the giant swirl of herself and let the snow land on her nose.
 
-That night, the whole festival lit up. Lanterns glowed inside the snow sculptures, turning the dragons amber and the castles rose-pink, and Sora's great swirling tower shone the softest, warmest gold of all — like a scoop of sunlight standing in the snow.
-
-The friends gathered at its base, sipping warm drinks (Rin happily provided), watching their breath rise in little clouds.
-
-"You know what's funny?" said Pock, fizzing sleepily. "The fastest builders built nothing. And the slowest builder built the whole thing. *Pop.*"
-
-"It's not funny," said Maru Matcha, who had wandered in late, calm as ever, twirling her tiny bamboo whisk. She looked up at the tower with her gentle half-moon eyes. "Whisk slow," she said. "Feel calm. Big dreams don't come all at once. They come one small, careful scoop at a time — and then you look up, and there's a mountain." She smiled her quiet smile. "Sora knew that all along. She just calls it napping between scoops."
-
-Everyone laughed, soft and warm in the cold, cold night.
-
-And Sora, leaning sleepily against the giant swirl of herself, felt the snow falling gently on her nose, and thought that wide skies and slow days might just be the best way to build something tall.
+"Soft swirls," she murmured, "slow smiles."
 
 ---
 
 ## Goodnight Blessing
-
-May your dreams be as tall as a tower of snow, little one — and may you remember that you don't have to build them all at once. Just one soft handful, and then the next, and then a cozy rest in between. The slow way is a lovely way, and the gentle way gets there too. Soft swirls, slow smiles, and a warm curl of a dream waiting just for you. Goodnight.
+May your dreams be as tall as a tower of snow, and may you build them one soft handful at a time, with a cozy rest in between. The slow way gets there too. Goodnight.
 
 ## AI Image Prompts
+1. Key scene — warm whimsical storybook illustration of a snowy Sapporo festival field: a giant runaway snowball with three muffled friends inside (a pair of sunglasses, a fizzy blue bottle neck and a stretchy white mochi arm poking out) bowling down a slope straight at Sora the Soft-Cream, a tall pale-gold soft-serve swirl in a crisp cone with a flat top and sleepy eyes, who stands calmly in front of a smooth swirling snow tower shaped exactly like her; giant snow castles and a snow dragon in the background, bright blue winter sky, palette of snow white, pale gold and sky blue, comic and cozy.
+2. Character portrait — Sora the Soft-Cream: a tall gentle swirl of pale-gold Hokkaido milk soft-serve in a crisp golden cone, sleepy half-closed eyes, her little drip-curl flopping back on top, patting one small scoop of snow carefully into place; calm dreamy expression, soft falling snowflakes, warm whimsical storybook style.
+3. Closing scene — night at the snow festival: a great swirling soft-serve-shaped snow tower lit warm gold from within, surrounded by amber and rose-pink lantern-lit snow sculptures; at its base Sora the soft-serve leans sleepily against the swirl beside a squishy white mochi, a shaved-ice mountain with sunglasses and a fizzy pale-blue soda bottle, breath rising in little clouds, soft snowfall, deep peaceful blue sky, snug bedtime mood.
 
-1. Key scene — a warm, whimsical storybook illustration of a giant swirling soft-serve-shaped tower made of pure white snow rising into a pink-and-gold Hokkaido sunset sky; a crowd of adorable kawaii food characters (a pale-gold soft-serve in a cone, a squishy white mochi, a shaved-ice mountain with sunglasses, a steaming ramen bowl, a fizzy blue soda bottle) cheering at its base; snow falling softly; glowing paper lanterns; cozy, magical, joyful mood; soft painterly light.
-
-2. Character portrait — Sora the Soft-Cream: a tall gentle swirl of pale-gold Hokkaido milk soft-serve in a crisp golden cone, sleepy half-closed eyes, a little drip-curl flopping at the top, mid-scoop with a small handful of snow patted carefully into place; calm dreamy expression; soft snow-blue background with gentle falling snowflakes; warm whimsical storybook style.
-
-3. Closing scene — the cozy ending: the great glowing golden snow tower at night, lit warm from within like a scoop of sunlight, surrounded by amber and rose-pink lantern-lit snow sculptures; the little group of food friends gathered sleepily at its base sipping warm drinks, breath rising in tiny clouds; soft snowfall; deep peaceful twilight blue sky with one star; tender, snug, bedtime mood.
+## Animation Notes
+- **Cast:**
+  - `SORA` — Sora the Soft-Cream: a tall swirl of pale-gold soft-serve in a crisp cone, sleepy half-closed eyes, a little drip-curl on top (missing for most of the story); voice: dreamy, slow, melty.
+  - `MOMO` — Momo Mochi: a soft pillowy snow-white rice cake dusted with starch, rosy peach cheeks, arms that stretch like taffy; voice: warm, bouncy, affectionate.
+  - `KORI` — Kori Kakigori: a towering fluffy mountain of shaved ice drizzled with ruby strawberry syrup, a condensed-milk swirl, sunglasses perched on top; voice: dramatic, diva, big-hearted.
+  - `POCK` — Pock Ramune: a frosty pale-blue glass bottle with a marble in the neck, fizzy bubble freckles, a pop grin; voice: zippy, giggly, popping.
+- **Scenes:**
+  1. A snowy Sapporo park drift on a bright winter morning, a big snowball track, giant snow castles and a snow dragon beyond.
+  2. The building field: a knee-high lumpy heap of snow, scoops and buckets, snow sculptures in the distance, blue sky.
+  3. The field, a quiet corner with a small smooth swirl beginning, and across it a tall leaning snow tower with tunnels in its base.
+  4. The slope between the leaning tower and the quiet corner, a giant snowball rolling, snow flying, blue sky.
+  5. The quiet corner, a tall smooth swirling snow tower shaped like a soft-serve, friends dug out of the snow, bright day.
+  6. The swirl tower growing taller, everyone scooping, a crown patted on top, late afternoon light.
+  7. The festival at night: lanterns glowing inside the snow sculptures, the swirl tower lit soft gold, snow falling.
+- **Budget:** 633 narrated words · 44 beats · 7 scenes · est. 4:44

@@ -1,151 +1,133 @@
 # Story 48: Momo Mochi and the Shinkansen Departure
 
 **Main Character:** Momo Mochi
-**Guest Characters:** Tama Onigiri, Rin Ramen, the Dango Three (Pinku, Shiro, Cha), Kori Kakigori, Niko Nigiri, Tako & Yaki, Mero Melonpan, Coro the Korokke, Pock Ramune, Pepper-kun, Maru Matcha, Neko-Pan
+**Guest Characters:** Tama Onigiri, Niko Nigiri, the Dango Three (Pinku, Shiro, Cha)
 **Setting:** A spotless bullet-train platform as the shinkansen arrives
 **Theme:** Saying goodbye to one place means hello to another
 **Japanese Spotlight:** **shinkansen** (sheen-kahn-sen) — bullet train
 
 ---
 
-The platform was so clean you could have eaten your breakfast right off the floor — which is exactly what Tama Onigiri suggested doing, because Tama had packed three breakfasts "just in case."
+The platform was so clean you could eat your breakfast right off the floor.
 
-"Just in case of what?" asked Rin Ramen, steam puffing out of his bowl like a tiny excited kettle.
+Which is exactly what Tama Onigiri suggested, because Tama had packed three breakfasts, just in case.
 
-"In case of the case," said Tama, very wisely, and handed everyone a rice ball.
+"Just in case of what?" asked Niko Nigiri, straightening his nori belt.
 
-It was the morning of the Great Cross-Country Trip, and the whole gang stood in a wobbly, squishy, sauce-drizzled line along the edge of a shiny white platform. Above them, a sign blinked the most thrilling word any little dessert had ever read:
+"In case of the case," said Tama wisely, and gave everyone a rice ball.
 
-**shinkansen** (sheen-kahn-sen) — bullet train.
+Momo Mochi bounced so high with excitement she stuck briefly to a pillar. "Squish together, stay together!"
 
-Momo Mochi clapped her soft starch-dusted paws together. She was a snow-white pillow of a thing, plump as a cloud that had eaten a second cloud, with rosy peach cheeks and arms that could stretch like warm taffy for the biggest hugs in all of Japan.
+Momo wanted one thing: everyone squished into one window seat when the train reached the sea.
 
-"Oh, friends," she beamed. "Squish together, stay together!"
-
-That was when she noticed someone wasn't squishing at all.
-
-It was little Cha, the clever green dumpling of the Dango Three, frozen stiff on his skewer between bold pink Pinku and shy white Shiro.
-
-"Cha?" Momo asked gently, bouncing over. "You're as still as a setting pudding."
-
-Cha's tiny voice came out very small. "I've never been on a shinkansen before. What if it's too fast? What if I fall off the world?"
-
-"You can't fall off the world," said Pinku confidently. "I checked. The world is round and sticky, like us."
-
-"You did NOT check," whispered Shiro, who worried about everything, including whether worrying counted as a hobby.
-
-Momo Mochi knelt down to Cha's level, which was not very far down, because Cha was the size of a button and Momo was the size of a small comfy ottoman.
-
-"First trips have the wiggliest tummies," she said warmly. "But guess what? I have a cure for wiggly tummies. It's called a window-seat squish, and it is the coziest cure ever invented."
-
-Cha sniffed. "A... squish?"
-
-"The squishiest," Momo promised. "Now hold on to your friends. Listen."
-
-Far down the track, a sound was growing. It started as a hum, then a whoosh, then a great glorious *FWOOOOM* — and the shinkansen came sliding in, long and white and pointy-nosed like the world's politest dolphin wearing a racing stripe.
-
-It stopped so smoothly that not one drop of Rin's broth sloshed. Not one.
-
-"Now THAT," said Kori Kakigori, lowering his sunglasses, "is the coolest entrance I have ever seen, and I once entered a party riding a melting popsicle."
-
-The doors slid open with a tidy little *psssht*.
-
-"Everyone aboard!" announced Niko Nigiri, who had organized the entire seating chart on a small piece of nori. "Let's do this neatly... or deliciously! Mochi, you and the Dango Three are in car four, seats by the window, as requested."
-
-"As requested by who?" asked Momo.
-
-Niko gave a small proud bow. "By me. I had a feeling someone might need a window."
-
-Up they all bustled — Tako and Yaki bouncing in unison, Mero Melonpan already half-asleep on Coro the Korokke's shoulder, Pock Ramune fizzing little bubbles of pure excitement that floated down the aisle and popped on the ceiling. *Pop! Pop-pop!*
-
-But Cha would not climb aboard.
-
-He stood on the platform, all three dumplings tilting because he wouldn't move, while the boarding bell went *ding-ding-ding*.
-
-"I changed my mind," Cha squeaked. "The platform is nice. The platform doesn't go anywhere. I like things that don't go anywhere."
-
-Momo Mochi did not push him. Pushing a worried friend, she knew, only made them worry about being pushed. Instead, she stretched one warm taffy arm all the way back out the train door, slow and soft, and she said:
-
-"Cha, do you know why goodbyes feel so wobbly?"
-
-Cha shook his little head.
-
-"Because a goodbye is just a hello standing backwards," said Momo. "When you say goodbye to this platform, you're saying hello to a window full of mountains. When you say goodbye to standing still, you're saying hello to the whole zooming world. You don't lose the platform. It just becomes the place you waved at."
-
-Cha thought about this. Behind him, Pinku and Shiro held very still, which for the Dango Three was practically a miracle.
-
-"Will you do the squish?" Cha whispered. "The cozy one?"
-
-"The cozy one," Momo vowed. "Cross my soft squishy heart."
-
-And Cha hopped aboard one tiny second before the doors went *psssht* and sealed.
+Today they were riding the **shinkansen** (sheen-kahn-sen) — bullet train — west across Japan.
 
 ---
 
-The shinkansen glided forward so gently that for a moment nobody even felt it. Then the platform began to slide backward through the window — slow, then quick, then *gone* — and Cha gasped.
+But one small friend was not bouncing. Cha, the green dumpling of the Dango Three, stood frozen stiff.
 
-"It's moving! WE'RE moving! Goodbye, platform!" He waved frantically with all his nonexistent hands. "Goodbye! Hello, mountain! Goodbye, mountain! Hello, OTHER mountain!"
+"I've never ridden one," squeaked Cha. "What if it's so fast I fall off the world?"
 
-"He's saying goodbye to everything," Shiro observed nervously.
+"You can't fall off the world," said Pinku. "I checked. It's round and sticky, like us."
 
-"He's saying hello to everything," Momo corrected, snuggling the whole skewer into the soft squishy curve of her lap. "That's the trick. It's the same wave."
+"You did NOT check," whispered Shiro.
 
-The window-seat squish worked exactly as promised. Momo wrapped her pillowy self around the three little dumplings like the coziest blanket ever steamed, her peach cheeks warm against the glass, and Cha felt his wiggly tummy go all calm and round.
+Momo knelt down to Cha's level, which was not far, Cha being the size of a button.
 
-Outside, Japan whooshed by in ribbons of color. Green rice fields. Silver rivers. A faraway mountain wearing a snow-cap like Mero Melonpan's crackly crust.
+"First trips have wiggly tummies," she said. "I have a cure. It's called the window-seat squish."
 
-"Snacks!" announced Tama from across the aisle, because that is the sound Tama makes whenever there is a quiet moment that could be improved with snacks. "I packed a little extra, just in case!"
+---
 
-"In case of the case," everyone said together, and laughed.
+Far down the track, a hum grew into a whoosh, and then a great glorious FWOOOOM.
 
-Rin Ramen slurped happily. "Everything's better warm and bubbly!"
+The shinkansen slid in, long and white and pointy-nosed, like the world's politest dolphin.
 
-Pepper-kun, who had brought his little iron hot-plate, gave a dramatic *SIZZLE* in the snack car. "Stir it, sizzle it, share it! Hot beef bowls for the whole train, count it down — three, two, SIZZLE!"
+"Everyone aboard, neatly!" announced Niko, who had planned the seats. "Car four, by the window."
 
-The conductor, a kindly steamed bun in a smart little hat, did not even mind the sizzling, because it smelled wonderful and Pepper-kun shared a bowl with him.
+Up they bustled. All except Cha, who hopped into Tama's spare lunch box, stick and all.
 
-Then, just when everything was cozy and calm, the shinkansen dove into a long dark tunnel.
+"The platform doesn't go anywhere," came Cha's voice from inside. "I like things that don't go anywhere."
 
-*WHOOMP.* The whole world went black.
+"We're in a BOX," came Pinku's voice, muffled and furious.
 
-Cha squealed. "The mountain ate us! Goodbye, everyone! It was nice knowing you!"
+---
 
-"We are not eaten," Momo said, giving the gentlest squish. "Listen — count the dark with me. We always come out the other side. Ichi... ni... san..."
+The lunch box sat on a wobbly luggage cart. The cart's brake slipped. The cart rolled away.
 
-"**Ichi** (ee-chee) — one," Cha repeated in a shaky little voice. "**Ni** (nee) — two. **San** (sahn) — three..."
+"THE DANGO!" cried Momo, stretching one taffy arm after it. It stretched... and came up short.
 
-And on *yon* — four — the train burst out of the tunnel into a flood of golden afternoon sunlight, and the WHOLE OCEAN spread out below them, glittering and blue and endless.
+Niko sprinted neatly, cape flapping, tripped over his own cape, and slid along the shiny floor.
 
-The whole car gasped, even Maru Matcha, who almost never gasped at anything.
+Tama tossed rice balls under the cart's wheels. The cart bumped, wobbled, and rolled even faster.
 
-"Whisk slow," Maru murmured, her little bamboo whisk twirling. "Feel calm. See? The dark was just the door to all this."
+The doors began to close. Psssht. Niko wedged his whole rice self into the gap.
 
-Cha pressed his tiny green face to the window. The fear was gone. In its place was something much better and much bigger.
+"Not neatly," he gasped, salmon cape squashed flat. "Deliciously!"
 
-"Momo," he breathed. "The dark wasn't the mountain eating us. It was the mountain... saying goodbye, so the ocean could say hello."
+Momo bounced off a pillar, off a bench, higher each time, and sailed over the cart.
 
-Momo Mochi's rosy cheeks glowed. "Now you've got it."
+She hooked the lunch box with both taffy arms and landed inside the train with a FLOOMP.
 
-Tako and Yaki bounced over. "He gets it!" said Tako. "He totally gets it!" said Yaki. "Roll us once —" "— we come as two!" And they high-fived so hard they wobbled three seats backward.
+---
 
-For hours the friends watched the country unspool — fishing harbors and lantern towns, terraced hills and a castle with a roof curled like a cat's tail. Neko-Pan waved a lucky paw at every single station they zoomed past. "Wave for luck, share the luck!"
+The lid popped open. Three dumplings blinked up. "We're on the train," said Cha. "I'm... ON the train."
 
-And in his soft little corner of the world, in the warmest window-seat squish ever invented, Cha discovered the very best thing about a shinkansen: it lets you say a hundred hellos in a single afternoon.
+The platform slid backward through the window: slow, then quick, then gone. Cha gasped.
 
-By the time the sun went orange and sleepy, even Pinku had stopped pretending she wasn't tired, and Shiro had stopped worrying about whether sleeping on a train was allowed (it is, especially if you're a dumpling).
+"Goodbye, platform!" he cried, waving. "Hello, mountain! Goodbye, mountain! Hello, OTHER mountain!"
 
-The three little dango leaned together on their skewer, leaned against the warm pillow of Momo Mochi, who leaned against the cool glass, and outside the whole great country said *goodnight* and *hello* and *goodnight* again, station by glowing station.
+"He's saying goodbye to everything," worried Shiro.
 
-"Squish together," Momo whispered, very softly now, "stay together."
+"He's saying hello to everything," said Momo, tucking the whole skewer into her soft lap. "Same wave."
 
-And the bullet train hummed them gently on, into the velvet evening, carrying a carful of sleepy, happy treats toward a brand-new tomorrow.
+Momo wrapped her pillowy self around the three like a steamed blanket. The window-seat squish.
+
+---
+
+Then WHOOMP. The train dove into a tunnel and the whole world went black.
+
+"The mountain ate us!" squealed Cha. "Goodbye, everyone! It was nice knowing you!"
+
+"Count the dark with me," said Momo, squishing gently. "**Ichi** (ee-chee) — one. **Ni** (nee) — two. **San** (sahn) — three."
+
+On four, the train burst into golden sunlight, and the WHOLE OCEAN spread out below, glittering.
+
+Tama dropped a rice ball. Niko left it right where it fell. Everyone pressed to the glass.
+
+"The dark was the mountain saying goodbye," breathed Cha, "so the ocean could say hello."
+
+"A goodbye," said Momo, cheeks glowing, "is just a hello standing backwards."
+
+---
+
+"Snacks!" announced Tama. "I packed a little extra, just in case."
+
+Three dumplings leaned on one skewer, leaned on Momo, who leaned on the warm glass.
+
+"Squish together," Momo whispered, "stay together." The train hummed them west.
 
 ---
 
 ## Goodnight Blessing
-Little one, every goodbye in your day is just a hello wearing a backwards hat. When the lights go dark, count gently — one, two, three — and trust that morning is the bright ocean waiting on the other side of the tunnel. You are tucked in, you are warm, you are squished snug as a mochi in a window seat. Let the soft hum carry you onward, past silver rivers and sleepy mountains, all the way to your dreams. Goodnight.
+Every goodbye in your day is just a hello wearing a backwards hat. When the dark comes, count gently, one, two, three, and trust the bright ocean on the other side. You are tucked in, snug as a mochi. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration: a sleek white bullet train (shinkansen) with a pointed dolphin-like nose sliding into a spotless platform at golden morning light. A line of adorable kawaii Japanese-dessert characters waits to board — a plump snow-white mochi with rosy peach cheeks front and center, a steaming ramen bowl, a tidy nigiri, a shaved-ice mountain in sunglasses. Soft pastel palette, gentle sunbeams, cozy excited mood, sparkles of steam and floating soda bubbles.
-2. Character portrait: Momo Mochi, a soft pillowy snow-white rice cake dusted with potato starch, plump and squishable, rosy peach cheeks, a faint dimple, arms stretched out wide like warm taffy mid-hug, beaming warmly. Creamy cozy lighting, gentle storybook style, kawaii.
-3. Closing scene: inside a cozy bullet-train car at orange-velvet dusk, Momo Mochi cuddled against the cool window with the three tiny round dango dumplings (pink, white, green) on a skewer snuggled sleepy in her soft lap. Outside the glass, a glowing ocean and distant lantern-lit stations blur softly by. Warm amber interior glow, peaceful sleepy mood, tender storybook illustration.
+1. Key scene — warm whimsical storybook illustration on a spotless white bullet-train platform in bright morning light: Momo Mochi (a plump snow-white mochi with rosy peach cheeks) sailing through the air with both taffy arms stretched impossibly long toward a lunch box riding a runaway luggage cart, Niko Nigiri (a tidy rice oval in a coral salmon cape) wedged bravely in the closing train doors, Tama Onigiri (a rice triangle with a nori sash) tossing rice balls, the sleek white shinkansen with its pointed dolphin nose behind them. Soft pastel palette, sunbeams, joyful chaos.
+2. Character portrait — Momo Mochi: a soft pillowy snow-white rice cake dusted with potato starch, plump and squishable, rosy peach cheeks, a faint dimple, arms stretched wide like warm taffy mid-hug, beaming. Creamy cozy lighting, gentle storybook style, kawaii.
+3. Closing scene — inside a bright bullet-train car in warm afternoon light: Momo Mochi cuddled against the window with the three tiny round dango dumplings (pink, white, green) on one skewer snuggled drowsy in her soft lap, Tama and Niko across the aisle with a basket of rice balls, outside the glass a glittering blue ocean, a fishing harbor and a faraway castle sliding by. Warm amber interior glow, peaceful, tender.
+
+## Animation Notes
+- **Cast:**
+  - `MOMO` — Momo Mochi: a soft pillowy snow-white rice cake dusted with starch, rosy peach cheeks, a faint dimple, arms that stretch like warm taffy; voice: warm, bouncy, affectionate.
+  - `TAMA` — Tama Onigiri: a plump triangle of warm white rice with one crisp black nori sash and a pink pickled-plum blush on one cheek; voice: cozy, snacky, motherly.
+  - `NIKO` — Niko Nigiri: a tidy oval of pearly white rice in a glossy coral-orange salmon cape bound by a neat nori belt, standing very straight; voice: polite, organized, formal.
+  - `DANGO` — the Dango Three: three round dumplings on one stick, pink Pinku, white Shiro, green Cha, who tilt and lean as one; voice: bickering, quick, tiny.
+- **Scenes:**
+  1. A spotless white bullet-train platform in bright morning light, a tidy yellow safety line, pillars, benches, empty track.
+  2. The same platform, close on the Dango Three on their stick, Momo kneeling beside them.
+  3. The platform as the sleek white shinkansen slides in, doors open, a wobbly luggage cart with a lunch box on it.
+  4. The long platform: the luggage cart rolling away, the closing train doors, Niko wedged in the gap.
+  5. Inside the bright train car, a window seat, green rice fields and silver rivers whooshing past.
+  6. Inside the car in a pitch-black tunnel, then bursting into golden light with a wide blue ocean below.
+  7. Inside the car in warm afternoon light, the coast sliding by, harbors and a far-off castle.
+- **Budget:** 665 narrated words · 43 beats · 7 scenes · est. 4:55

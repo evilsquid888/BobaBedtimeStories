@@ -4,164 +4,133 @@
 **Guest Characters:** Dole Whip Dani, Manapua Mano, Pua the Pineapple
 **Setting:** A breezy Aloha Friday block party in a Honolulu neighborhood
 **Theme:** Joy multiplies when the whole community joins in.
-**Hawaiian Spotlight:** hau-oli (how-OH-lee) = happy / joyful
+**Hawaiian Spotlight:** **hau-oli** (how-OH-lee) = happy / joyful
 
 ---
 
-On the morning of Aloha Friday, the whole street smelled like sunshine, and Lilikoi Lani woke up giggling before she even opened her eyes.
+On Aloha Friday morning, the whole street smelled like sunshine, and Lilikoi Lani woke up giggling.
 
-She was a small, round, purple-wrinkly passion fruit, and when she rolled out of her hammock she bounced twice, sneezed once, and accidentally squirted a little burst of tangy-orange seeds across the lanai.
+She tumbled out of her hammock, bounced twice, sneezed, and squirted seeds across the **lanai** (lah-NYE) = porch.
 
-"Whoops!" she laughed. "Good morning to YOU too!"
+Today was the block party. Ukuleles! Lanterns! A treat table so tall it could see over the fence!
 
-Lani loved Aloha Fridays the way a wave loves the shore — completely, loudly, and all at once. And this Friday was extra special, because today the neighborhood was throwing a block party. There would be ukulele music. There would be paper lanterns. There would be a long table of treats so tall it could see over the fence.
+"Today," whispered Lani, rubbing her wrinkly purple arms together, "will be the most **hau-oli** (how-OH-lee) = happy party ever."
 
-But Lani didn't just want a *nice* party.
+"And I'll make every surprise myself. Solo mission. Top secret. Very zesty."
 
-She rubbed her little wrinkly hands together and grinned a grin so big it nearly cracked her open.
+---
 
-"Today," she whispered, "is going to be the silliest, most **hau-oli** (how-OH-lee) = happy party this street has ever seen!"
+Step one: the Great Sprinkler Surprise. Lani crept up to the garden hose, all sneaky-quiet.
 
-The trouble with Lani's plans was that they were usually *her* plans.
+She aimed at the empty street, got bored, and squeezed the handle. FWOOOSH. It soaked exactly one fruit.
 
-She zipped down the sidewalk, fast and zesty, leaving a tangy-sweet scent trail behind her like a comet's tail. By the time she skidded to a stop at the party table, she had already invented eleven pranks, two surprises, and one mystery she hadn't figured out yet.
+"Sour first," she sputtered, dripping, "sweet always!"
 
-"Step ONE," she announced to nobody, "the Great Sprinkler Surprise!"
+Dole Whip Dani swirled up, giggling. "Lani! You're wet and it's not even lunchtime! Can I help?"
 
-She crept up to the garden hose, all sneaky-quiet, and aimed the nozzle at the empty street where she *imagined* her friends would soon walk. Then she waited. And waited. And got a little bored. And accidentally squeezed the handle.
+"I'm not wet," said Lani. "I'm pre-rinsed. For the party."
 
-*FWOOOSH.*
+"Solo mission!" said Lani, and zipped away before Dani could even melt a little.
 
-The water arced up, came down, and soaked exactly one person: Lani herself.
+---
 
-"Sour first—" she sputtered, dripping, "—sweet always!"
+Step two: the Confetti Catapult, built from a spoon and a rubber slipper. Genius.
 
-That was her catchphrase, and she said it whenever a plan went sideways, which was often.
+"Three, two, one, HAU-OLI!" cried Lani, and stomped the slipper.
 
-A warm, swirly voice laughed behind her. "Lani! You're all wet and it's not even lunchtime!"
+The confetti flew high. The breeze carried every piece three houses down, onto a confused chicken.
 
-It was **Dole Whip Dani**, a peak of golden-yellow soft-serve with a glossy curl on top and a tiny pineapple-leaf tuft for hair. Her huge sparkly eyes were already crinkling with fun.
+"That was not the chicken's confetti," said Lani. "But you're welcome anyway."
 
-"I'm not wet," said Lani, "I'm *pre-rinsed*. For the party."
+Manapua Mano bounced up, trailing steam. "Did somebody say confetti? Can you eat confetti? Can I help?"
 
-"Stay cool and swirl on!" Dani sang, which is what she always said. "What's the plan? You always have a plan!"
+"No eating the decorations," said Lani. "Or the chicken. Solo mission!" And off she bounced.
 
-"Oh, I have a HUNDRED plans," said Lani, hopping. "Surprise water! Surprise confetti! Surprise music that plays when you sit down! Surprise — well, I haven't decided the last surprise yet, but it's going to be SO good everyone will laugh until their leaves fall off."
+"I would never eat the chicken," said Mano to nobody. "Probably. The chicken seems nice."
 
-Dani clapped her melty little hands. "Can I help?"
+---
 
-Lani paused. Help? She had never really thought about *help*. Her pranks were like her seeds — they were hers, and they came out fast, and they were a little bit messy.
+Step three: the ukulele chair, rigged to plink when somebody sat. She tested it. Plink!
 
-"Maybe later," she said. "First I have to do the Confetti Catapult. Solo mission. Top secret. Very zesty."
+She got so excited she danced, the chair tipped, and the lemonade jug glooped over her feet.
 
-So off she zipped.
+"Lemonade feet," said Lani. "Cool. Cool cool cool. Totally part of the plan."
 
-The Confetti Catapult was, frankly, a genius idea. Lani built it out of a spoon and a rubber slipper. She loaded it with torn-up bits of colorful paper. She aimed it at the party table, where her friends would soon gather.
+---
 
-"Three... two... one... HAU-OLI!" she cried, and stomped the slipper.
+Step four, the biggest: hang the lanterns from the top of the very tall treat table. Alone.
 
-The catapult flung the confetti high into the breezy air — and a gust of Aloha Friday wind caught every single piece and carried it three houses down, where it landed gently on a very confused chicken.
+Lani climbed the bowls like a staircase. Poke, then poi, then a wobbly tower of malasadas.
 
-The chicken looked up. "Bawk?"
+At the top she reached for the lantern string. The table creaked, leaned, and tipped toward the street.
 
-"That," said Lani, "was not the chicken's confetti. But you're welcome anyway."
+"SOUR FIRST!" she wailed, surfing a plate of pineapple down the slope.
 
-She heard a soft, pillowy *boing* behind her. It was **Manapua Mano**, the round, bouncy steamed pork bun, hopping up the street with little wisps of warm steam trailing off his swirl-knot.
+Dani caught one end. Mano shoved under the middle. Pua the Pineapple propped a leg with her crown.
 
-"Did somebody say confetti?" he asked hopefully. "Is there snack confetti? Can you eat confetti? Should we find out?"
+The table stood. Lani slid off it into the poi with a soft, purple plop.
 
-"No snacking on the decorations, Mano," Lani giggled. "And no eating the lanterns either. Or the chairs. Or the chicken."
+---
 
-"I would *never* eat the chicken," said Mano, deeply offended, and then he thought about it. "Well. Probably never. The chicken seems nice." He took a big bounce that left a little puff of steam hanging in the air like a thought-bubble. "But seriously — a party with no snacks for *me* is just a sad meeting with music."
+Lani sat on the curb, soggy and lemonade-footed, not feeling hau-oli at all.
 
-"Soft on the outside, full of love inside!" said Mano, patting his own round belly. "But also pretty hungry on the inside. What are you doing all alone over here?"
+"I made all the surprises," she sighed, "and the only one surprised was me."
 
-"I'm making the party EXTRA," said Lani. "All by myself. It's going to be the most hau-oli party ever, and it's going to be a big surprise."
+Pua sat down beside her, which is not easy for a pineapple, and managed it anyway.
 
-"Ooh," said Mano. "Can I—"
+"Crown up, sweetheart," said Pua. "A crown's no fun if there's nobody to wave it at."
 
-"Solo mission!" Lani sang, and bounced away before he could finish.
+Lani looked at the table three friends had caught. "A joke's only funny if somebody catches it."
 
-Now here is the thing about doing everything by yourself, dear reader. (Lean in close — this is the part Lani hadn't learned yet.) When you keep all the fun *just for you*, it gets smaller and smaller, like a balloon with a slow leak. Lani didn't notice it yet. But she would.
+She leaped up so fast she nearly squirted seeds. "DANI! MANO! EVERYBODY! I need HELP!"
 
-She tried the Whoopee-Cushion-Under-The-Picnic-Blanket surprise after that. She tucked it just so, then realized she had no idea who would sit there, so — being a very thorough prankster — she sat there herself, to test it.
+---
 
-*PBBBBBTHHH.*
+You have never seen a street move so fast. Treat-folk poured from every doorway.
 
-"PERFECT," she announced to the empty street. "It works! Nobody heard it, but it WORKS." Somewhere far away, the chicken bawked once, as if in polite applause.
+Lani passed out confetti. Dani took the hose. Mano took the lanterns. Pua took the sparkle.
 
-She tried the Music-When-You-Sit-Down surprise next. She tied a tiny ukulele to a chair so it would *plink* a happy note when someone sat. But she tested it herself — *of course she did* — and the ukulele plinked, and she got so excited she did a little dance, and the dance knocked over the chair, and the chair rolled into the lemonade, and the lemonade went *gloop* all over Lani's feet.
+"On three, we ALL do EVERYTHING at ONCE," cried Lani. "One, two, THREE, HAU-OLI!"
 
-"Lemonade feet," she said, looking down. "Cool. Cool cool cool. Totally part of the plan."
+The water arced up. Confetti filled the sky like a rainbow snowstorm. The chicken did a loop.
 
-By now the sun was climbing high, the breeze was warm, and the street was filling up with neighbors. There was music and laughter all around. But every one of Lani's surprises had gone *splat*, *whoosh*, or *gloop* — and they had all gone splat, whoosh, and gloop *on Lani*, because Lani was the only one in on them.
-
-She sat down on the curb, a little soggy, a little tangy, and not feeling very hau-oli at all.
-
-"My party's a flop," she sighed. "I tried so hard to make it the silliest, and the only one laughing is the chicken. And it's laughing at *me*."
-
-That was when a tall, regal shadow fell over her.
-
-It was **Pua the Pineapple**, golden and spiky, standing very straight under her proud green leaf-crown.
-
-"Crown up, sweetheart," said Pua, but gently. She sat down beside Lani, which is not an easy thing for a pineapple to do with dignity, and she managed it anyway. "Why does the silliest fruit on the street look like a rained-on raisin?"
-
-"Because I made ALL the surprises," said Lani, "and nobody got surprised but me."
-
-Pua tilted her crown thoughtfully. "Lani, I used to think the best things were the ones I kept for myself. My crown, my shine, my spotlight." She smiled. "But a crown's no fun if there's no one to wave it at. May I tell you a secret about parties?"
-
-"Is it a prank secret?" Lani perked up.
-
-"It's better," said Pua. "A surprise only makes one person laugh. But a surprise *everyone helps build* makes the whole street laugh — and it laughs *together*. That's where the real hau-oli lives. Not in one fruit. In all of us."
-
-Lani thought about that. She thought about the soaked hose, the runaway confetti, the lonely whoopee cushion. Every single trick had been *hers*. And every single one had landed on her, all alone, with nobody around to laugh.
-
-"So," she said slowly, "the joke isn't funny if there's nobody to share it with?"
-
-"Now you've got it," said Pua, and her crown caught the afternoon light. "Joy is like one of your bright little seeds, Lani. Keep it bottled up inside, and it's just one seed. But toss it out into the world where everyone can catch it — and suddenly the whole street is sweet."
-
-Lani blinked her zesty little eyes. And slowly, slowly, the most enormous grin spread across her wrinkly purple face.
-
-"Pua," she whispered, "I think I just figured out my last surprise."
-
-She leaped up so fast she nearly squirted seeds again.
-
-"DANI! MANO! Everybody! GATHER ROUND!" she hollered down the street. "I need help! I need EVERYBODY'S help! We're going to make the silliest surprise in the whole history of Aloha Friday — but only if we do it TOGETHER!"
-
-Well. You have never seen a street move so fast.
-
-Dole Whip Dani swirled over, beaming. Manapua Mano bounced up so hard he left a little steam-cloud behind. Pua rose grandly to her feet. And all the neighbors — the aunties, the uncles, the little keiki, even the confused chicken — gathered in close.
-
-"Here's the plan," said Lani, and for the very first time, it was a plan with *room* in it. "Dani, you bring the cool. Mano, you bring the bounce. Pua, you bring the sparkle. And EVERYONE grabs a handful of this!"
-
-She passed out the confetti. She passed out the paper lanterns. She handed the garden hose to the keiki, who squealed with joy. She tied little ukuleles to *every* chair.
-
-"On the count of three," she cried, "we ALL do EVERYTHING at ONCE! One... two... THREE — HAU-OLI!"
-
-And oh, what happened next.
-
-The water arced up sparkling in the sunlight. The confetti flew — and this time, with a hundred hands tossing it, it didn't blow away; it filled the sky like a rainbow snowstorm. Every chair went *plink-plink-PLINK*. Dani spun. Mano bounced. Pua twirled her crown. The chicken did a loop. And the whole street — the *whole entire street* — burst out laughing at the very same moment.
-
-It was the silliest, splashiest, most hau-oli thing the neighborhood had ever seen.
-
-And right in the middle of it stood Lilikoi Lani, soaked again, covered in confetti, laughing so hard she finally cracked right open — *pop!* — spilling a happy burst of tangy-orange seeds into the air like the brightest fireworks of all.
+Lani laughed so hard she cracked right open, pop, spraying bright orange seeds like fireworks.
 
 "There she goes!" cheered Mano. "The juiciest joy on the block!"
 
-The neighbors caught her bright seeds and tasted that perfect lilikoi tang — sour first, sweet always — and they all agreed it was the most wonderful flavor in the world, because it tasted like a whole street being happy together.
+---
 
-"You see?" said Pua softly, her crown glowing in the sunset. "Joy you keep is small. Joy you share fills the sky."
+Lanterns swayed in the warm late sun. The whole street sat shoulder to shoulder, sticky and confettied.
 
-Lani grinned her biggest grin yet. "Best. Prank. Ever," she said. "Because *everyone* got to be in on it."
+"Best prank ever," said Lani, squished between Dani and Pua. "Everyone was in on it."
 
-And as the lanterns glowed and the ukuleles hummed and the warm Aloha Friday breeze tucked itself in for the night, the whole neighborhood sat shoulder to shoulder, sticky and confettied and completely, perfectly hau-oli — together.
+Mano licked a piece of confetti thoughtfully. "Tastes like paper. Worth it."
+
+Somewhere down the street, the chicken bawked once, like polite applause.
 
 ---
 
 ## Goodnight Blessing
-May your laughter be the kind that's bigger when it's shared, little one. May you always find a friend to hand a handful of confetti to, and may your joy fly up like seeds catching the warm island wind. Rest easy now, wrapped in the glow of lanterns and the hum of someone you love. Tomorrow there will be more silliness, more sunshine, and a whole street of friends to share it with. Sleep sweet, dear heart — sour first, but sweet, sweet always. Goodnight.
+May your laughter be the kind that grows bigger when it's shared. May you always find a friend to toss confetti with. Rest easy now, sticky and happy, sour first and sweet, sweet always. Goodnight.
 
 ## AI Image Prompts
-1. A breezy Honolulu block party at golden sunset in warm whimsical storybook style. A small round purple passion fruit character (Lilikoi Lani) with a sparkly grin stands in the street, mid-laugh, bursting open into a joyful spray of glowing tangy-orange seeds like fireworks. Around her, a swirly golden Dole Whip soft-serve, a bouncing pillowy white steamed bun trailing steam, and a regal golden pineapple with a green leaf-crown all toss colorful confetti into the air. Paper lanterns string overhead, ukuleles rest on chairs, neighbors and a tiny chicken laugh together. Palette: sunset gold, passion-fruit purple, rainbow confetti. Mood: warm, splashy, joyful, glowing community light.
-2. Character portrait of Lilikoi Lani: a small, round, purple-wrinkly passion fruit with mischievous sparkly eyes and a huge cheeky grin, cracking slightly open to reveal a burst of bright tangy-orange seeds. She leaves a faint tangy-sweet scent trail. Posed mid-bounce, zippy and zesty, one tiny hand raised like she just pulled off the best surprise ever. Soft warm storybook lighting, golden island background.
-3. The cozy closing scene: the whole neighborhood sits shoulder to shoulder on the curb at twilight, sticky with confetti and lemonade, glowing paper lanterns above. Lilikoi Lani nestles happily between Dole Whip Dani, Manapua Mano, and Pua the Pineapple under her softly glowing crown. Everyone is sleepy-smiling and content. Warm lantern light, deep blue evening sky, gentle island breeze, a feeling of full-hearted togetherness and rest.
+1. Key scene — warm whimsical storybook illustration of a breezy Honolulu block party in bright afternoon sun: a very tall treat table tipping toward the street, Lilikoi Lani, a small round purple-wrinkly passion fruit, surfing a sliding plate of pineapple down it with arms flung wide, while a golden swirly Dole Whip soft-serve catches one end, a pillowy white steamed bun shoves under the middle, and a regal golden pineapple with a green leaf-crown props up a table leg; malasadas bouncing, paper lanterns strung overhead, palette of sunset gold, passion-fruit purple and rainbow confetti.
+2. Character portrait — Lilikoi Lani: a small round purple-wrinkly passion fruit with mischievous sparkly eyes and a huge cheeky grin, cracking slightly open to reveal a burst of bright tangy-orange seeds, a faint tangy scent trail behind her, posed mid-bounce with one tiny arm raised like she just pulled off the best surprise ever; soft warm storybook lighting, golden island street behind her.
+3. Closing scene — the whole street of little treat-folk sitting shoulder to shoulder on a curb in warm late-afternoon light, sticky with confetti and lemonade, paper lanterns swaying overhead, Lilikoi Lani nestled happily between Dole Whip Dani, Manapua Mano, and Pua the Pineapple, a small confused chicken at the edge; everyone sleepy-smiling, a feeling of full-hearted togetherness.
+
+## Animation Notes
+- **Cast:**
+  - `LANI` — Lilikoi Lani: a small round purple-wrinkly passion fruit with a cheeky grin, sparkly mischievous eyes, and a crack that bursts open into bright tangy-orange seeds; voice: zesty, fast, cheeky.
+  - `DANI` — Dole Whip Dani: a swirly golden-yellow soft-serve peak with a glossy curl on top, set in a little cup-body, a tiny pineapple-leaf tuft for hair, huge sparkly eyes; voice: sunny, bubbly, warm.
+  - `MANO` — Manapua Mano: a big round pillowy white steamed bun with a swirl-knot on top, rosy steam-blush cheeks, stubby arms, wisps of steam; voice: bouncy, hungry, silly.
+  - `PUA` — Pua the Pineapple: a tall golden spiky pineapple with diamond-pattern skin and a proud green leaf-crown worn like a royal headdress; voice: regal, dramatic, kind.
+- **Scenes:**
+  1. A sunny lanai with a hammock on a Honolulu street in the morning, orange seeds spattered on the boards.
+  2. The street in front of the houses, a garden hose, paper lanterns strung overhead, a long empty party table.
+  3. Farther down the street: a homemade catapult of a spoon and a rubber slipper, confetti blowing, a confused chicken three houses down.
+  4. A folding chair with a tiny ukulele tied to it beside a lemonade jug on the party table.
+  5. The very tall treat table stacked with bowls of poke, poi, pineapple and a tower of malasadas, tipping toward the street.
+  6. The curb beside the rescued table, afternoon sun, Lani soggy and sitting.
+  7. The whole street at once: treat-folk pouring out of doorways, hose spraying, confetti filling the sky, every chair plinking.
+  8. The curb in warm late-afternoon light, lanterns swaying, everyone sitting shoulder to shoulder covered in confetti.
+- **Budget:** 670 narrated words · 43 beats · 8 scenes · est. 4:57

@@ -1,193 +1,128 @@
 # Story 28: Poke Pua Learns to Surf
 
 **Main Character:** Poke Pua (poke bowl — ahi tuna over rice with seaweed, sesame, and edamame)
-**Guest Characters:** Kai the Shave Ice
+**Guest Characters:** Kai the Shave Ice; Kimo, a small applauding sand crab
 **Setting:** The gentle beginner waves of Waikiki Beach
 **Theme:** Falling is just part of learning to ride.
 **Hawaiian Spotlight:** **heʻe nalu** (HEH-eh-NAH-loo) = to surf / surfing
 
 ---
 
-The morning the trouble began, Poke Pua marched down Waikiki Beach with her kelp-strand hair flung over one shoulder like a movie star, her ruby ahi cubes glistening, and a surfboard tucked under her arm that was nearly as long as a canoe.
+Waikiki Beach, early morning. Small polite waves that wouldn't wake a dozing turtle.
 
-"Today," she announced to nobody and everybody, "I shall be the greatest surfer the island has ever seen."
+Down the sand marched Poke Pua, ruby ahi glistening, kelp hair flung back, surfboard long as a canoe.
 
-A passing crab applauded. Poke Pua took a bow so deep that a sesame seed tumbled off her shoulder. She picked it up, dusted it, and placed it back *exactly* where it belonged, because Poke Pua was the sort of bowl who arranged everything *just so.* Her sesame stars sparkled. Her edamame freckles practically glowed with confidence.
+"Today," she announced to the ocean, "I shall be the greatest surfer this island has ever seen."
 
-"I'm fresh from the sea, you know," she told the crab. "Riding waves is basically my whole personality. The ocean and I are *best friends.* We text. We share secrets. I bet the ocean's been waiting *years* for me to come surf it."
+Kimo the sand crab applauded. A sesame seed fell off; she set it back exactly, just so.
 
-The crab raised one claw, as if to say *are you sure about that?* — but crabs cannot talk, and Poke Pua was already striding toward the water, board held high, grin held higher, leaving a trail of little wet footprints and one extremely confident hum behind her.
-
-Behind her, melting just slightly in the sun, a tall fluffy mountain of rainbow ice came scooting along the sand.
-
-"Whooooa, slow down, sister!" called Kai the Shave Ice.
+"Fresh from the sea, that's me!" sang Pua. "The ocean and I are best friends. We text."
 
 ---
 
-Kai caught up, his paper-umbrella hat tilted at a breezy angle, the little spoon behind his ear bouncing with every step. Stripes of lilikoi-gold, blue-coconut, and strawberry-red ran down his snowy slopes and dripped happily into the sand, leaving a polka-dot rainbow trail that two very excited sand-fleas were already trying to lick.
+Behind her scooted Kai the Shave Ice, dripping a polka-dot syrup trail two sand-fleas were licking.
 
-"Hey, hey, *hey,*" Kai puffed, wobbling to a stop and reshaping his melty self into something vaguely upright. "Whew. Note to self: do not jog on a warm beach when you are made entirely of ice."
+"Whoa, slow down, sister," puffed Kai. "Note to self: never jog when you're made of ice."
 
-"You're really gonna go out there?" Kai asked, mellow as a tide pool. "First time and everything?"
+"Kai," said Pua, "I have ocean inside me. **heʻe nalu** (HEH-eh-NAH-loo) = surfing is in my soy sauce."
 
-"First time?" Poke Pua tossed her kelp hair. "Kai. Sweet, slushy Kai. I am a *bowl of the sea.* I have actual ocean *inside* me. **Heʻe nalu** is in my blood — well, in my soy sauce."
+"The ocean doesn't love anybody on the first try," said Kai. "You fall first. That's surfing."
 
-"That's, uh. That's not really how it works," said Kai, scratching his snowy head with his little spoon. "I love the ocean too, brah, but the ocean doesn't love anybody on the *first* try. The ocean's like a brand-new friend. It's gotta get to know you. You gotta fall a few times before it lets you ride. That's just heʻe nalu. Falling's part of it."
-
-Poke Pua laughed her confident, artsy little laugh and arranged her edamame *just so.*
-
-"I don't fall," she said, lifting her chin. "I *arrange.* And today I'm going to *arrange myself onto a wave.*"
-
-"That's not — " Kai started.
-
-"Stay slushy, sweet Kai," she sang over her shoulder. "Watch and learn."
-
-And with that, she paddled out.
+"I don't fall," said Pua. "I arrange. Today I arrange myself onto a wave." Out she paddled.
 
 ---
 
-The first wave came rolling in — a gentle, polite little Waikiki wave, the kind that wouldn't startle a sleeping turtle. Poke Pua popped to her feet with tremendous flair, struck a pose worthy of a postcard, pointed one seaweed ribbon dramatically at the horizon —
+The first wave rolled in. Pua popped up, struck a postcard pose, pointed grandly at the horizon.
 
-— and went *splooooosh.*
+SPLOOOSH. Sideways. Upside down. Her sesame stars scattered like a tiny constellation.
 
-Straight off the board. Sideways. Upside down. Her sesame stars scattered like a tiny constellation. One brave edamame floated off to start a new life at sea.
+One brave edamame floated away to start a new life at sea.
 
-She surfaced, sputtering, kelp hair plastered over her eyes.
+"That," said Pua, spitting saltwater, "was a practice fall. On purpose. Did you see the pose?"
 
-"That," she announced, spitting out a mouthful of saltwater, "was a *practice* fall. On purpose. Very stylish. Did you see the *pose?*"
+"Ten out of ten on the pose," called Kai. "Two out of ten on the staying-on."
 
-"I saw the pose," Kai called from the sand, trying very hard not to giggle. "Ten out of ten on the pose. Two out of ten on the staying-on-the-board."
+Second wave. Pua rose, wobbling, and for one shining moment she was standing. Gliding. A queen.
 
-Poke Pua climbed back on with great dignity.
+"I'M A NATURAL!" she shrieked. "I'M THE BEST! I'M—" The wave hiccuped.
 
----
-
-The second wave was even gentler than the first.
-
-Poke Pua paddled. Poke Pua balanced. Poke Pua rose — wobble, wobble, *wobble* — and for one shining, glorious moment, she was actually *standing,* gliding across the sparkly water like a queen on a throne of foam.
-
-"I'M DOING IT!" she shrieked. "I'M A NATURAL! I'M THE BEST! I'M — "
-
-The wave hiccuped.
-
-Poke Pua did a complete somersault, three twirls, and what surfers call a "spectacular yard sale," which is when everything you own flies in different directions. Her rice went one way. Her ahi went another. Her dramatic flair sank like a stone.
-
-This time when she came up, she was wearing a piece of seaweed on her head that was not *her* seaweed.
-
-"Okay," she said, slightly less grandly. "*That* one was the ocean's fault."
-
-"Suuuure," said Kai. "Chill out and rainbow on, sister. Try again."
+Somersault. Flip. A full yard sale: rice one way, ahi the other, flair sinking like a stone.
 
 ---
 
-She tried again.
+She surfaced wearing somebody else's seaweed. "That one," she said, "was the ocean's fault."
 
-*Splash.*
+She tried fancy. Splash. She tried slow. Sploosh. She tried closing her eyes and believing. Splosh.
 
-And again.
+She whispered "please" to the wave. She demanded "you WILL carry me." The wave rolled on, unbothered.
 
-*Sploosh.*
+A polite line of fish gathered to watch, like fireworks exploding into the water.
 
-And again, and again, and *again,* until she had fallen so many times that a small, polite line of fish had gathered to watch, the way people gather to watch fireworks, except the firework kept exploding *into the water.*
+By the twelfth wipeout, Pua flopped onto the sand, a soggy heap, kelp hair dripping like noodles.
 
-She tried fancy. She tried slow. She tried closing her eyes and *believing.* She tried whispering "please, please, please" to the wave, and she tried demanding "you WILL carry me" to the wave, and the wave, being a wave, simply did what waves do, which is roll along not caring one bit about anybody's whispers or demands.
-
-By the twelfth wipeout, Poke Pua dragged herself onto the sand and flopped down in a soggy, sandy, rumpled heap. Her ruby ahi cubes had lost their sparkle. Her edamame freckles drooped. Her kelp hair hung in sad, dripping noodles. A tiny hermit crab tried to move into the empty spot where her edamame had floated away, and she didn't even have the energy to shoo him.
-
-"I quit," she mumbled into the sand. "I'm not fresh from the sea. I'm *wet from the sea.* There's a difference."
-
-Kai scooted over and sat beside her, dripping rainbow into the sand in three cheerful colors.
-
-"Hey," he said softly. "Hey, Pua. Can I tell you a secret?"
-
-Poke Pua peeled one eye open. "Is it that I'm terrible?"
-
-"Nah." Kai grinned. "It's that *everybody's* terrible at first. Even the best surfers on the whole island? They started face-down in the foam, just like you. You know how I learned to slide down the big sandy hill back home?"
-
-"How?"
-
-"By rolling down it like a melting snowball a hundred times," said Kai. "I lost half my strawberry syrup. A seagull tried to eat my blue coconut. It was a *disaster.* But every fall taught my body something my brain couldn't say out loud. That's the magic of falling, brah. It's not the *opposite* of riding. It's how you *learn* to ride."
+"I quit," she mumbled. "I'm not fresh from the sea. I'm wet from the sea."
 
 ---
 
-Poke Pua sat up slowly. She thought about this. She arranged a stray sesame seed back onto her shoulder, *just so.*
+"Secret," said Kai, flopping beside her. "Everybody's terrible at first. The best riders started face-down in foam."
 
-"So when I fell off twelve times…"
+"I learned to slide down a sand hill," said Kai, "by tumbling a hundred times."
 
-"You learned twelve things," said Kai.
+"A seagull ate my blue coconut. Every fall taught me something."
 
-"And when my edamame floated away…"
+"So twelve falls," said Pua, setting a sesame seed back just so, "means twelve lessons."
 
-"You learned to hold on tighter."
+"Plus the somersault," said Kai. "That one was just funny. But funny counts too."
 
-"And when I did that somersault-twirl-yard-sale thingy…"
+Pua snorted a real laugh. A saltwater bubble popped out her nose. The fish giggled.
 
-"Okay, that one was just *funny,*" Kai admitted. "But also you learned not to point at the horizon while a wave is hiccuping. See? That's *three* lessons from *one* fall. You're practically a genius. A very wet, very sandy genius."
-
-Poke Pua almost smiled. "You really learned to slide down a whole hill by falling a hundred times?"
-
-"A hundred and *six,*" said Kai proudly. "I counted. The seagull counted too. We became friends, actually. His name is Gary."
-
-Poke Pua snorted a laugh — a real one, not her movie-star one. A bubble of saltwater popped out of her nose, which made her laugh harder, which made Kai laugh, which made the polite line of fish bubble with laughter too, until the whole stretch of Waikiki was giggling at the soggy bowl who wouldn't give up.
-
-"Okay," said Poke Pua, wiping her eyes with a seaweed ribbon. "*Okay.* One more. But this time I'm not gonna be the *best.* I'm just gonna be… learning."
-
-"Now *that,*" said Kai, "is the most ocean-proud thing you've said all day."
+"One more," said Pua. "This time I won't be the best. I'll just be learning."
 
 ---
 
-She paddled out a thirteenth time.
+The thirteenth time, Pua paddled out quietly and simply watched the water.
 
-But this time she didn't strike a pose. She didn't point at the horizon. She didn't announce anything to the crabs.
+She felt the wave coming the way you feel a friend walk up behind you. She waited.
 
-This time she watched the water the way Honu Haupia had once taught her — *slow flippers, far journeys.* She felt the wave coming the way you feel a friend walk up behind you. She waited. She breathed. And when the little wave gathered her up, she didn't *leap* to her feet like a showoff.
+She rose easy and low, knees soft, kelp hair streaming, eyes on the shore.
 
-She *rose,* easy and low, knees soft, kelp hair streaming, eyes on the shore instead of the sky.
+The wave carried her. Three whole seconds of real, true, hard-won heʻe nalu. Flying.
 
-The wave carried her.
+"KAI! I'M RIDING IT!" Splash. She surfaced beaming. "Three seconds! Maybe four! Call it five!"
 
-And she *rode it.*
+Kai threw both slushy arms in the air, scattering rainbow drops. "Fresh from the sea, that's YOU!"
 
-Not far. Maybe the length of a canoe. Maybe three whole seconds. But three seconds of real, true, hard-won **heʻe nalu** — gliding across the foam with the morning sun on her ahi and the salt wind in her seaweed, balanced and bright and *flying.*
-
-"KAI!" she shouted. "KAI, I'M RIDING IT! I'M ACTUALLY — "
-
-And then, of course, she fell off.
-
-*Splash.*
-
-But this time, when she surfaced, she was *beaming.*
-
-"Did you see?!" she gasped, paddling toward shore. "Kai! Did you SEE?! I RODE it! For like — for like three whole seconds! Maybe four! Let's call it five!"
-
-Kai threw both slushy arms in the air, scattering rainbow droplets everywhere. "I SAW IT! YOU RODE IT! Fresh from the sea, that's you!"
-
-"Fresh from the sea, that's ME!" Poke Pua cheered, and the polite line of fish did a little wave — the cheering kind *and* the watery kind, both at once.
+The polite line of fish did a wave: the cheering kind and the watery kind, at once.
 
 ---
 
-That evening, Poke Pua and Kai sat together on the warm sand, watching the sun melt into the sea like a scoop of golden Dole Whip sinking into the horizon. Poke Pua was sandy and salty and missing two whole edamame, but she had never looked prouder.
+That evening the sun melted into the sea like a scoop of pineapple soft-serve.
 
-"I figured something out today," she said softly.
+"Falling and rising," said Pua, leaning on Kai's cool side. "Like the tide. I keep coming back."
 
-"Yeah?"
-
-"Being fresh from the sea doesn't mean I'm *perfect* at the sea." She watched a tiny wave tickle the shore. "It just means I get to keep coming back. Falling and rising. Falling and rising. Like the tide."
-
-Kai smiled, his colors glowing soft in the sunset. "Slow flippers, far journeys, brah."
-
-"That's Honu's line," said Poke Pua.
-
-"Yeah," said Kai. "But you earned it today."
-
-And as the stars came out one by one over Waikiki, the two friends sat shoulder to shoulder — one a tall melting mountain of rainbow, one a sandy little bowl of the sea — listening to the waves roll in and out, in and out, falling and rising, falling and rising, all night long.
+Kimo applauded once more, then tipped over backward. "Practice fall," said Pua. "Very stylish."
 
 ---
 
 ## Goodnight Blessing
-Little one, the bravest thing in the whole wide ocean is not riding the wave perfectly — it is climbing back onto the board after you fall. Tonight, let the soft tide of your breath roll in and out, in and out, carrying away every wobble and every splash of your busy day. You do not have to be perfect to be wonderful; you only have to keep coming back, gentle and brave, like the sea. Rest now, my fresh-from-the-sea darling, and dream of warm sand and rainbow sunsets and three whole shining seconds of flying. Tomorrow there will be more waves, and you will be ready. Goodnight.
+Little one, the bravest thing in the whole ocean is climbing back on after you fall. Let your breath roll in and out like the tide, falling and rising, gentle and brave. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration: a cheerful poke-bowl character (wide ceramic bowl body brimming with glossy ruby ahi tuna cubes, green seaweed ribbons, edamame freckles, and sesame stars, with flowing kelp-strand hair) standing triumphantly low and balanced on a long wooden surfboard, gliding across a gentle sparkling Waikiki wave at golden morning light. Spray of sea foam, soft turquoise water, Diamond Head faint in the background. On the sandy shore, a tall fluffy rainbow shave-ice character with a paper-umbrella hat cheers with both arms raised. Soft warm palette of gold, turquoise, coral, and rainbow stripes. Joyful, sun-bright, cozy storybook mood.
-2. Character portrait of Poke Pua: a confident, artsy poke-bowl character — wide rice-and-ahi bowl body, glistening ruby tuna cubes arranged "just so," green seaweed ribbon hair flowing in the breeze, edamame freckles, sesame-star sparkles, big confident grin, one seaweed ribbon striking a dramatic pose. Ocean-cool colors, soft watercolor storybook style, gentle warm lighting, sparkly and fresh.
-3. Cozy closing scene: the poke-bowl character and the tall rainbow shave-ice character sitting shoulder to shoulder on warm sand at sunset, watching a golden sun melt into the calm sea. Soft glowing pinks, oranges, and purples in the sky, first stars appearing, gentle waves rolling in. Both characters content and sandy and happy. Tender, sleepy, warm storybook mood, soft watercolor textures.
+1. Key scene — warm whimsical storybook illustration, golden morning light at Waikiki: Poke Pua (a wide rice-bowl body brimming with glossy ruby ahi cubes, green seaweed ribbons, edamame freckles, sesame stars, flowing kelp-strand hair) mid-wipeout above a small sparkling wave, sesame seeds flying like a tiny constellation, one edamame floating off, a polite line of little fish watching from the water. On the sand, Kai the Shave Ice (a tall fluffy snow dome in a paper cone with rainbow syrup stripes and a paper-umbrella hat) winces and grins. Diamond Head faint behind. Palette of turquoise, gold, coral and rainbow stripes; joyful, silly, cozy.
+2. Character portrait — Poke Pua: a confident, artsy poke-bowl character, wide bowl body with ruby tuna cubes arranged just so, green seaweed-ribbon hair streaming, edamame freckles, sesame-star sparkles, a big proud grin, crouched low and balanced on a long wooden surfboard with soft knees and arms out. Ocean-cool colors, soft watercolor storybook style, gentle warm lighting, sparkly and fresh.
+3. Closing scene — Poke Pua and Kai the Shave Ice sitting shoulder to shoulder on warm sand at sunset, the sun melting gold into a calm sea, a small sand crab tipped over backward beside them with its claws up. Soft pinks, oranges and purples, gentle waves rolling in, both friends sandy and content. Tender, sleepy, warm storybook mood.
+
+## Animation Notes
+- **Cast:**
+  - `PUA` — Poke Pua: a wide rice-bowl body heaped with glossy ruby ahi cubes, green seaweed ribbons, edamame freckles, sesame-star sprinkles, long kelp-strand hair; voice: fresh, confident, artsy.
+  - `KAI` — Kai the Shave Ice: a tall fluffy snow-white dome in a paper cone with lilikoi-gold, blue-coconut and strawberry syrup stripes, a paper-umbrella hat, a tiny spoon behind one ear; voice: mellow, surfer-calm, warm.
+  - `KIMO` — Kimo: a small orange sand crab with big claws and round eyes; no lines.
+- **Scenes:**
+  1. Waikiki Beach at early morning: warm sand, small polite waves, Diamond Head in the distance, a long surfboard.
+  2. The same beach, Kai arriving along the sand with a polka-dot syrup trail, two sand-fleas, the water's edge.
+  3. The gentle shallows: Pua on her board in small sparkling waves, spray and foam, a line of little fish.
+  4. The shallows and the wet sand: wipeout after wipeout, the polite fish line, Pua flopped in a soggy heap.
+  5. The dry sand: Pua and Kai side by side, Kai's rainbow drips in the sand, calm sea behind.
+  6. The shallows again: a clean small wave, Pua riding low and balanced, bright morning sun, fish cheering.
+  7. The beach at sunset: golden sun melting into the sea, Pua and Kai leaning together, Kimo tipped over.
+- **Budget:** 661 narrated words · 41 beats · 7 scenes · est. 4:52

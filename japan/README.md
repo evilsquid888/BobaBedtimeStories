@@ -4,6 +4,11 @@
 
 See also: [Character Guide](CHARACTER_GUIDE.md)
 
+## Two formats
+
+- **Stories 1–24** are the original ~2,000-word tellings. The video pipeline abridged each one to a five-minute cut when it animated them (videos 101–127).
+- **Stories 25–100** are written directly in the **five-minute animation format**: 36–48 one-action beats of ≤ 18 words, scenes split by `---`, a ≤ 40-word blessing, and an *Animation Notes* section (cast tokens, scenes, measured budget) for the LTX-2.5 + MiniMax H3 pipeline. Rules and the budget are in [FIVE_MINUTE_STORY_GUIDE.md](../FIVE_MINUTE_STORY_GUIDE.md); check a story with `python3 check_five_minute.py --fix japan/stories/NNN-*.md`.
+
 ## Story Index
 
 | # | Story | Main Character | Setting | Theme |

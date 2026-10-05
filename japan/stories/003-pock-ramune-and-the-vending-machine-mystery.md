@@ -68,7 +68,7 @@ The last to join was Tama Onigiri, the plump little rice-ball triangle with the 
 
 ---
 
-They tiptoed back to the glowing machine. It was almost midnight. The street was hushed and blue, the way Tokyo gets late at night when even the traffic lights blink slow and dreamy. Their warm-window glows reflected in the puddles like little floating moons.
+They tiptoed back to the glowing machine. It was almost midnight. The street was hushed and blue, the way Tokyo gets late at night when even the traffic lights blink slow and dreamy. The machines' warm-window glows reflected in the puddles like little floating moons.
 
 "Okay," whispered Pock, vibrating. "Plan. We watch. We wait. We catch the mystery in the actual ACT."
 
@@ -141,5 +141,5 @@ May your wonderings be as bright as bubbles and your kindnesses always shared. M
 
 ## AI Image Prompts
 1. A warm, whimsical storybook scene at midnight on a quiet Tokyo side street: a glowing row of softly-lit vending machines casting gold and blue reflections in puddles. A tiny cinnamon-colored baby tanuki on tippy-toes places a steaming silver can with a gold-star lid into a machine, its fluffy tail dabbing the star like a paintbrush. Behind a stack of crates peek four glowing dessert friends — a frosty pale-blue Ramune bottle leaving fizzy bubble-trails, a soft snow-white mochi, a jade-green matcha friend with a bamboo whisk, and a plump rice-ball triangle. Cozy, magical, hushed nighttime palette of gold, navy, and pale blue; gentle steam curls and floating soda-bubbles. Cute kawaii art style.
-2. Character portrait of Pock Ramune: a frosty pale-blue glass Ramune soda bottle with a marble in its neck, fizzy bubble-freckles across its cheeks, a wide joyful "pop!" grin, big sparkling eyes, mid-zip through the air with a comet-trail of tiny shining bubbles behind it. Warm storybook lighting, soft glow, playful and giddy energy, kawaii style.
+2. Character portrait of Pock Ramune: a frosty pale-blue glass Ramune soda bottle with a marble in its neck, fizzy bubble-freckles across his cheeks, a wide joyful "pop!" grin, big sparkling eyes, mid-zip through the air with a comet-trail of tiny shining bubbles behind him. Warm storybook lighting, soft glow, playful and giddy energy, kawaii style.
 3. Cozy closing scene: deep midnight on the glowing Tokyo street. The little tanuki named Pon, wearing tiny mittens, rides on the squishy shoulders of a smiling snow-white mochi. The matcha friend paints a final gold star on a warm can while the fizzy Ramune bottle loops happily overhead, freckles glowing gold. In the distance, a tired traveler lifts a warm star-topped can from a machine tray and smiles softly. Tender, sleepy, golden-and-blue palette, full of warmth and quiet wonder, kawaii storybook style.

@@ -8,166 +8,119 @@
 
 ---
 
-High up in the green folds of Kauai, where the clouds come to sit down and rest their feet, a stream was telling jokes to itself.
+High in the green folds of Kauai, where clouds sit to rest, a stream was telling itself jokes.
 
-At least, that is what it sounded like to Honu Haupia. She wobbled to the edge of the cool mountain pool — her snow-white coconut-pudding shell jiggling its little haupia squares — and listened. *Glug-glug, plip, ploop, giggle-giggle.* The water bubbled and burbled like it knew a secret too funny to keep.
+Glug-glug, plip, giggle. Honu Haupia wobbled to the pool's edge. "Where are you rushing off to, little stream?"
 
-"Good morning, little stream," she said in her slow, gentle voice. "And where do you think you're rushing off to today?"
+A shaggy coconut bounced up so fast he nearly bounced into the pool. Hat crooked. Sprout bobbing.
 
-Behind her, a round brown shaggy coconut bounced up so fast he nearly rolled into the pool. It was Niu, his green sprout-straw bobbing on top, his tiny woven hat slightly crooked.
+"DOWN, obviously," said Niu, who liked to know things. "Water goes down. Tough shell, sweet heart, excellent brain."
 
-"It's going DOWN, obviously," said Niu, who liked to know things. "Water always goes down. Tough shell, sweet heart — and a very good brain, if I do say so myself."
+"Down where?" yawned Lani the Loco Moco, shuffling up the trail like a small comfortable mountain.
 
-"Down where?" rumbled a sleepy voice.
+"**Makai** (mah-KYE) = toward the sea," said Honu. "And I want to follow it all the way there. Today."
 
-"Down to wherever water dreams of going," said Honu, before anyone else could answer. "And believe me, little coconut, water has very big dreams."
+"The WHOLE way?" Lani groaned, gravy sliding. "My egg is tired. My patty is barely awake."
 
----
-
-Lani the Loco Moco came shuffling up the trail like a small, comfortable mountain. His sunny fried-egg hat wobbled. A river of warm gravy went *glug* down his rice slopes, and his runny-yolk eyes blinked slowly.
-
-"Down where?" Lani said again, yawning so wide a sesame seed nearly fell out. "I followed you two all the way up here, and now my egg is tired. Can't the stream just... stay still? Resting is the best thing a mountain can do."
-
-"Streams do not rest," said Niu importantly. "Streams *commute*."
-
-Honu Haupia smiled her ancient, patient smile, the kind that had watched a thousand tides come in and go out again.
-
-"This stream," she said, dipping one slow flipper into the water, "is going **makai** (mah-KYE) = toward the sea. From the **mauka** (MOW-kah) = toward the mountains side, all the way down to the salty blue. And I think," she said, her gentle eyes twinkling, "that we should follow it."
-
-"The whole way?" Lani groaned, gravy sliding off his shoulder. "But that's so far. My patty is barely awake."
-
-"Slow flippers," said Honu, already gliding into the stream, "far journeys."
+"Streams don't rest," said Niu importantly. "Streams COMMUTE."
 
 ---
 
-So down they went, makai, makai, makai.
+"Slow flippers, far journeys," said Honu, gliding in. "**Mauka** (MOW-kah) = toward the mountains is behind us now."
 
-The stream tumbled over smooth black stones, and Honu glided along it as if she were back in the ocean, her shell shimmering. Niu, who could not swim so much as *float and complain*, bobbed along behind her like a hairy brown boat.
+Niu floated-and-complained behind her like a hairy boat, and bonked a rock. "That was also planned."
 
-"I'm fine," Niu announced, spinning in a little circle. "Totally in control. This is exactly what I planned." He bonked gently into a rock. "That was also planned."
-
-Lani came last, sploshing along the bank, because a Loco Moco does not float — he mostly *sinks and naps*. "If anyone needs me," he mumbled, "I'll be right here being delicious and slow."
-
-They passed a grove where Lilikoi vines hung down, purple and giggling in the wind. They passed a fern as big as a green umbrella, where a tiny plump bird was singing the same three notes over and over, very pleased with himself.
-
-"He only knows three notes," Niu whispered.
-
-"He sings them with his whole heart," said Honu. "That is enough."
-
-They passed a place where the stream slid down a smooth rock face into a frothy little waterfall. Niu shot off the edge with a yelp — "I MEANT to do thaaaat!" — and landed in the foam below with a splash and a soggy hat. Honu glided down after him like a leaf, hardly making a ripple, while Lani sat at the top a very long time working up his courage.
-
-"I'm not afraid," Lani announced. "I'm just... savoring the moment."
-
-"You are savoring it upside down," Niu pointed out, "and now your egg is showing."
-
-"That," said Lani with great dignity, "is the bravest egg on the mountain." And down he came at last with a tremendous *SPLOOSH* that soaked them all and made even quiet Honu laugh her slow, warm laugh.
-
-The stream grew wider. It met another stream, and the two waters held hands and rushed on together, laughing louder now. Then a third joined, trickling shyly down from a mossy crack in the cliff.
-
-"See?" said Honu softly. "The little waters are joining the bigger water. The way you three joined me this morning. None of them is lost. They simply become something bigger together. That is how it works, little ones. Mountain to sea, one **'ohana** (oh-HAH-nah) = family."
-
-Niu floated thoughtfully for a moment. "So the rain that fell way up there... is the same water down here?"
-
-"The very same," said Honu. "Touch the stream, and you are touching the cloud. Touch the sea, and you are touching the mountain. They are not strangers. They never were."
-
-"Huh," said Niu, which from Niu, who always thought he knew everything already, was an enormous thing to say.
+Lani sploshed along the bank, because a loco moco does not float. He mostly sinks and naps.
 
 ---
 
-Halfway down the mountain, they reached a problem.
+The stream dropped into a frothy waterfall. Niu shot off the edge. "I MEANT to do thaaaat!" SPLASH.
 
-A tangle of fallen branches and big mossy stones had clogged the stream into a sad, still pond. The water did not giggle anymore. It just sat there, going *bloop... bloop...* in a worried sort of way. Mud was creeping in. A row of small flowers along the bank had begun to droop, thirsty and gray.
+Honu drifted down after him like a leaf. Lani sat at the top a very long time.
 
-"Oh no," said Lani, suddenly very awake. "The stream is stuck. It's taking a nap it didn't choose. That's the worst kind of nap."
+"I'm not afraid," said Lani. "I'm savoring the moment."
 
-"Then it's a good thing we are here," said Honu calmly. But when she pushed against the biggest stone with her flipper — *soft, slow, jiggly* — nothing moved. Coconut pudding, it turns out, is not the best thing to push rocks with.
+"You're savoring it upside down," said Niu, "and your egg is showing."
 
-"Stand back," declared Niu. "Tough shell, sweet heart!" He rolled backward, took a running start, and *BONK* — bounced clean off the rock and landed upside down in the mud with his sprout sticking up like a sad little flag.
+"Bravest egg on the mountain," said Lani, and came down with a SPLOOSH that soaked everybody.
+
+---
+
+Halfway down, the giggling stopped. A huge mossy stone had jammed the stream into a still pond.
+
+Bloop... bloop... went the worried water. Along the bank, a row of little flowers drooped, thirsty and gray.
+
+"The stream is stuck in a nap it didn't choose," said Lani, suddenly awake. "The worst kind."
+
+Honu pushed the stone with one slow flipper. Pudding, it turns out, is not for pushing rocks.
+
+"Stand back!" Niu took a running bounce. BONK. Upside down in the mud, sprout up like a flag.
 
 "Was that planned?" asked Lani.
 
 "...Mostly," said Niu, from inside the mud.
 
-"It needs more *muscle*," Niu declared, wriggling free. "We push together. On three. One, two —"
+---
 
-"Three!" they all shouted, and shoved.
+"All together! One, two, THREE!" They shoved. Lani's egg jiggled. Niu's hat fell over his face. Nothing moved.
 
-Nothing happened. Lani's egg jiggled. Niu's hat fell over his face. Honu's flippers slipped right off the slick stone with a sad little *squeak*.
+"The rock is winning," Lani reported. "It looks very comfortable. Honestly, I respect that."
 
-"The rock is winning," Lani reported. "I think the rock is very comfortable. I respect that, honestly. I would not want to be moved either."
+"Lani, don't push the rock," said Honu. "BE a rock. Lie down below the jam and be heavy."
+
+"Lie down and do nothing?" Lani brightened like a morning egg. "Kindest thing anyone's ever asked me."
+
+SPLORT. He settled into the streambed, a warm, comfortable dam. Niu bounced against the loose top branch.
+
+And Honu slid her smooth shell under the stone like a wet pebble under a door, and wiggled.
+
+CRACK-SPLOOSH! The rock rolled, the stream LEAPED, soaking all three, and the gray flowers turned pink.
+
+"IT'S GOING MAKAI!" cheered Niu, hat full of water. "We did it! Mostly me! But we did it!"
 
 ---
 
-They tried for a long while. They pushed and they pulled and they heaved. But the rock was big, and they were small, and the sun was getting low and golden.
-
-Honu Haupia did not get upset. Elders rarely do. She simply floated very still in the worried water and thought, the way the ocean thinks — slowly, and from very deep down.
-
-"Lani," she said at last. "You told me a Loco Moco mostly sinks and naps."
-
-"It's my best skill," Lani agreed proudly.
-
-"Then I do not need you to push the rock," said Honu. "I need you to *be* the rock. Lie down right *here*, below the jam. Be heavy. Be cozy. Make a little wall with your wonderful weight."
-
-Lani brightened like an egg in the morning. "You want me to lie down and do nothing? Honu, that is the kindest thing anyone has ever asked of me."
-
-He flopped into place with a happy *splort*. His sturdy rice body settled into the streambed and held firm — a warm, comfortable dam.
-
-"Niu," Honu went on, "you float. Bob up against the top branch — there, the loose one — and *push* with your bouncing."
-
-"Aha. A plan with science," said Niu, very satisfied. He wedged himself against the branch and pushed and bounced, pushed and bounced.
-
-"And I," said Honu, "will do what water does best." She slid her smooth round shell into the gap beneath the rock, like a wet pebble slipping under a door. She did not shove. She just *settled*, and let her slipperiness do the work, wiggling, wiggling — until the great stone gave a groan, a wobble, and —
-
-*CRACK-SPLOOSH!*
-
-The branch popped free. The rock rolled. And the stream — oh, the stream — leaped forward with a *whoosh* and a happy roaring **glug-glug-GLUG**, splashing all three of them head to toe.
-
-"IT'S GOING MAKAI!" Niu cheered, spinning. "We did it! Mostly I did it! But we did it!"
-
-The thirsty gray flowers along the bank lifted their heads and turned pink again, gulping the fresh cold water like keiki at a juice stand.
-
----
-
-Down they went the rest of the way, riding the freed and happy stream, makai, makai, all the way down.
-
-The land changed as they traveled. The cool green ferns gave way to swaying coconut palms. Taro patches lay flat and shining like green mirrors, and Honu told them how the stream watered the taro that fed the families that lived along its banks.
-
-"Even the kalo plants are part of the family," she said. "The water gives them a drink on its way to the sea. Nothing is wasted. Nothing is alone. Everything the stream passes, it gives a little gift, and everything gives a little gift back."
+Down they rode the happy stream, past flat shining taro patches and swaying palms, makai, makai.
 
 "What does the rock give?" asked Lani, still a touch grumpy about the rock.
 
-Honu thought. "The rock taught you that being heavy and lying down can be a kind of strength," she said gently. "That was a fine gift, I think."
+"It taught you that lying down can be a strength," said Honu. "A fine gift."
 
-Lani looked rather pleased. His yolk-eyes glistened.
+The trees opened. The air went salty. And there, wide and blue and forever, was the sea.
 
-The trees opened up. The air went from green and cool to bright and salty. Seabirds wheeled overhead, and the warm sand glowed gold. And there — wide and blue and forever — was the sea.
+The stream poured into the ocean the way a small voice joins a big song. Honu's shell shimmered.
 
-The little mountain stream poured itself joyfully into the great ocean, the way a small voice joins a big song. And Honu Haupia floated where the fresh water met the salt water, in the swirl of two waters becoming one, and she felt so deeply *home* that her whole shell shimmered.
+---
 
-"This," she said, "is the secret the old turtles know. The rain on the mountain becomes the stream. The stream becomes the sea. The sea becomes the cloud. The cloud climbs back up the **mauka** to become the rain again. Round and round, mauka to makai, forever holding hands."
+"Rain becomes stream, stream becomes sea, sea becomes cloud," said Honu. "Round and round. One **'ohana** (oh-HAH-nah) = family."
 
-Niu bobbed quietly. For once, he did not say he had planned it. He simply looked up at the far green mountains, then down at the wide salt sea, and back up again, his three little face-dots full of wonder.
+Niu bobbed, face-dots full of wonder. "The mountain and the sea are two ends of one long hello."
 
-"I always thought the mountain and the sea were two different things," he admitted softly. "Two different worlds. But they're not, are they? They're just two ends of the same long hello."
+Lani floated on his back, egg-side up. "Best nap of my life. I was a DAM."
 
-"Now you are thinking like an old turtle," said Honu, very pleased.
-
-Lani floated on his back, egg-side up, perfectly content, gravy long since rinsed sweet by the stream. "So the mountain," he said slowly, "and the sea... they're the same family?"
-
-"One 'ohana," said Honu. "The whole island, holding hands. The rain and the rock and the river and the reef. Just like us. And like all good families, every part takes care of every other part — even the sleepy ones who lie down and become dams."
-
-Lani gave a proud, drowsy little wink.
-
-High above them, a soft cloud was already gathering over the mauka peaks, fat and silver, ready to carry the sea back up the mountain to start the whole journey again. Honu pointed one slow flipper toward it, and the three friends watched in happy silence.
-
-And as the sun melted gold into the water, three little desserts and one wise pudding turtle bobbed together in the warm makai tide — connected, every one of them, all the way up to the clouds.
+Three friends bobbed in the gold tide, while over the peaks a silver cloud gathered to begin again.
 
 ---
 
 ## Goodnight Blessing
-Little one, tonight let the rain on the far mountains carry you down, gentle and slow, all the way makai to the sea. You are a small stream joining a great big song, and you are never, ever traveling alone. The mountains hold the clouds, the clouds hold the rain, the rain holds you — round and round, one big sleepy 'ohana. Wherever you go, the whole island is holding your hand. Slow flippers, far journeys, and the softest of tides to rock you. Goodnight.
+Little one, let the rain on the far mountains carry you down, makai to the sea. You are a small stream joining a big song, never traveling alone. Slow flippers, far journeys, and the softest tide to rock you. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration, golden-hour lighting: a wobbly snow-white coconut-pudding sea turtle (Honu Haupia, shell patterned in soft haupia squares) glides down a sparkling Kauai mountain stream. Behind her, a round shaggy brown coconut with a green straw-sprout (Niu) floats and bonks a rock, and a sturdy rice-mound loco moco with a sunny fried-egg hat and gravy rivers (Lani) lies cozily across the stream like a little dam. Lush green ferns, black river stones, mist on the mauka peaks, palette of emerald, cream, sunset gold, and stream-blue. Cozy, joyful, gentle mood.
-2. Character portrait of Honu Haupia: a gentle ancient-eyed sea turtle made of wobbly white coconut pudding, shell softly divided into glossy haupia squares with a faint coconut shimmer, slow flippers mid-glide as if always underwater, calm wise smile. Soft storybook lighting, cream-and-aqua palette, serene and grandmotherly.
-3. Closing scene, soft sunset glow: the little stream pours into the wide blue ocean where fresh water swirls into salt. Honu Haupia, Niu, and Lani bob together peacefully in the gentle makai tide, the mauka mountains and pink clouds rising behind them. Dreamy, warm, sleepy palette of melting gold, lavender, and ocean blue — the cozy feeling of an island family all holding hands.
+1. Key scene — warm whimsical storybook illustration in a lush Kauai valley: a mountain stream jammed by a huge mossy stone bursting free in a joyful splash, a sturdy rice-mound loco moco with a sunny fried-egg hat (Lani) lying contentedly across the streambed as a dam, a round shaggy brown coconut with a tiny woven hat (Niu) bouncing against a loose branch with his hat full of water, and a wobbly snow-white coconut-pudding sea turtle (Honu Haupia, shell in soft haupia squares) wriggling under the stone, a row of little bank flowers lifting their heads and turning pink. Emerald ferns, black river stones, bright daylight, palette of green, cream and stream-blue.
+2. Character portrait — Honu Haupia: a gentle ancient-eyed sea turtle made of wobbly white coconut pudding, shell softly divided into glossy haupia squares with a faint coconut shimmer, slow flippers mid-glide as if always underwater, a calm wise smile, a sparkling mountain stream behind her. Soft storybook lighting, cream-and-aqua palette, serene and grandmotherly.
+3. Closing scene — the stream pouring into a wide blue ocean at golden sunset, fresh water swirling into salt: the pudding turtle, the shaggy coconut and the loco moco floating egg-side up bobbing together in the warm gold tide, green mountains rising behind them with one fat silver cloud gathering over the peaks. Dreamy, sleepy palette of melting gold, lavender and ocean blue.
+
+## Animation Notes
+- **Cast:**
+  - `HONU` — Honu Haupia: a wobbly snow-white coconut-pudding sea turtle with a softly jiggling shell patterned in haupia squares, gentle ancient eyes, slow flippers, glides as if underwater; voice: slow, calm, grandmotherly.
+  - `NIU` — Niu the Coconut: a round brown shaggy coconut with a green drinking-straw sprout, three little face-dots and a tiny woven hat, water sloshing inside; voice: brisk, proud, flustered.
+  - `LANI` — Lani the Loco Moco: a hearty rice-mountain body crowned with a sunny fried egg like a golden hat, a burger-patty belt, shiny gravy rivers down his sides, sleepy eyes and a runny-yolk wink; voice: slow, hearty, drowsy.
+- **Scenes:**
+  1. A cool mountain pool high in the green folds of Kauai in soft morning light, clouds resting on the peaks, a bubbling stream leaving the pool.
+  2. The upper stream tumbling over smooth black stones between ferns, morning light, a mossy bank.
+  3. A smooth rock face where the stream slides into a small frothy waterfall and a foamy pool below, bright daylight.
+  4. Halfway down the valley: the stream jammed by fallen branches and a huge mossy stone into a still muddy pond, a row of drooping gray flowers on the bank.
+  5. The same jam, close in: a loco moco lying in the streambed below it, a loose top branch, then the stone bursting free and the stream leaping, flowers turning pink.
+  6. The lower valley in warm afternoon light: a happy wide stream past flat shining taro patches and swaying coconut palms, then opening to golden sand and the sea.
+  7. The river mouth at sunset where fresh water swirls into the blue ocean, three friends bobbing in gold light, green mountains behind with one fat silver cloud over the peaks.
+- **Budget:** 676 narrated words · 40 beats · 7 scenes · est. 4:57

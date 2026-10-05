@@ -8,116 +8,123 @@
 
 ---
 
-The very best smell in all of Honolulu floated up from a backyard on Pikake Lane, and it went something like this: *smoky-sweet, warm, and a little bit like a hug that had learned to cook.* That smell belonged to Kalua the Pig, who was, at that exact moment, stuck halfway inside the **imu** (ee-MOO) = underground oven, with one ti-leaf blanket flopped over his eyes and his roly-poly bottom waving in the air like a happy flag.
+The best smell in Honolulu came from one backyard: smoky, sweet, like a hug that learned to cook.
 
-"Almost ready, almost ready!" he rumbled, low and slow, smoke curling off his back in a cozy little ribbon. "Tonight is the night, everybody! The Grand Neighborhood Luau! Where *everybody* belongs!"
+It belonged to Kalua the Pig, stuck halfway in the **imu** (EE-moo) = underground oven, bottom waving.
 
-He wiggled free, sat up, and beamed. He had invited the whole street. Every snack, every flavor, every family. And Kalua, gentle giant that he was, had only one teeny-tiny problem.
+"Almost ready!" he rumbled, wiggling free. "Tonight is the Grand Neighborhood Luau, and the whole street is coming!"
 
-He had absolutely no idea how to throw a party for two hundred guests by himself.
+The yard looked like a luau-shaped tornado had sneezed. Tables leaned. String lights sat in a tangled nest.
 
----
+"Auwe," sighed Kalua. "I only have four trotters, and two of them are sleepy."
 
-"Low and slow, that's how love grows," Kalua hummed, trying to feel calm. But the backyard looked like a luau-shaped tornado had just sneezed through it. Tables leaned sideways. The string lights were a tangled nest. A pile of empty bowls sat where the food was supposed to go, looking very empty and very accusing.
-
-"Oh, **auwe** (ow-WEH) = oh dear," sighed Kalua, sitting down so hard a puff of fragrant smoke poofed out of his ears. "I wanted everyone to feel like family. But I cannot lift a table and untangle lights and cook a hundred dishes all at once. I only have four trotters, and two of them are sleepy."
-
-That was when the gate creaked open.
-
-In rolled Malia the Malasada, golden-brown and puffy, sugar crystals sparkling off her cheeks. Behind her bounced Manapua Mano, soft and pillowy, leaving little wisps of steam in the evening air. Then came Musubi Manu, neat as a freshly made bed, his crisp black nori seatbelt buckled and his tiny bento backpack stuffed full. And rolling in last, yawning like a cat in a sunbeam, came Lani the Loco Moco, his golden fried-egg hat tilted at a sleepy angle.
-
-"Kalua!" cried Malia, her sugar twinkling everywhere. "We came early to help! Why do you look like you've been eaten by your own imu?"
-
-Kalua's lip wobbled. "I wanted the most beautiful luau. One big table where every flavor in Hawaii sits together. But I've made a mess, and the food bowls are empty, and—" His voice dropped to the smallest rumble a big pig can make. "What if nobody feels like they belong?"
-
-For a moment, nobody said anything.
-
-Then Musubi Manu stepped forward, adjusted his nori belt, and said in his steady, dependable voice, "Then we do it the island way. We do it with **kokua** (koh-KOO-ah) = help, working together. One pig cannot lift a luau. But five friends? *Wrapped up and ready!*"
+He wanted one thing: everybody at one table, feeling like family. He had no idea how.
 
 ---
 
-And here, dear reader, is where the magic of the night truly began — though it started, as magic often does, with a lot of giggling and at least one minor disaster.
+The gate creaked. In bounced Malia the Malasada, sugar sparkling. "You look eaten by your own imu!"
 
-Manapua Mano was put in charge of the lights. This was, in hindsight, a questionable idea, because Manapua Mano got very excited and very bouncy. "Soft on the outside, full of love inside!" he sang, springing up to drape the string lights over the mango tree. *Boing!* Up he went. *Boing!* The lights tangled tighter. *Boing-boing-BOING!* He bounced so high he got stuck in the tree like a fluffy white ornament, blinking down at everyone.
+Behind her came Musubi Manu, neat as a made bed, and Manapua Mano, puffing steam.
 
-"Manapua," Musubi said patiently, "you are decorating yourself."
+"What if nobody feels like they belong?" said Kalua, in the smallest rumble a big pig can make.
 
-"I make a *great* decoration," Manapua said, glowing with steam and pride.
+"Then we do it the island way," said Manu. "With **kokua** (koh-KOO-ah) = help, working together."
 
-So Musubi, who was practical, made a plan. He had Malia stand on Lani's sturdy rice-mountain shoulders, while Kalua gently nudged the tree, until — *plop!* — Manapua tumbled into Malia's soft sugary arms, and the lights came loose, and *click,* all at once the whole yard lit up gold and warm like a hundred little sunsets. Everyone cheered. Even the sleepy Loco Moco managed an excited "Pile it high!" before yawning again.
-
-"See?" said Musubi. "Kokua. Nobody could do that alone."
-
-"Do it again!" begged Manapua, still glowing with delight. "I want to be a decoration *one more time!*"
-
-"Absolutely not," said Musubi, but he was smiling, and so was everyone, because that is what kokua feels like — it feels like laughing while you work, until the work doesn't feel like work at all. Kalua looked around at his glowing yard and felt the worried knot in his belly loosen, just a little, like a ti leaf unrolling in the sun.
+"One pig can't lift a luau," said Manu. "But four friends? Wrapped up and ready!"
 
 ---
 
-But the biggest worry was still the empty bowls. Two hundred guests, and almost nothing to fill them.
+"Soft on the outside, full of love inside!" sang Manapua, grabbing the lights. Boing. Up the mango tree.
 
-"Don't fret," said Malia warmly, brushing sugar off her cheeks. "Because here's the secret of Hawaii, Kalua. Nobody comes to a luau empty-handed. Everybody brings a piece of home."
+Boing. Tighter tangle. Boing-boing-BOING. He bounced so high he got stuck like a fluffy white ornament.
 
-And right on cue, the gate swung wide.
+"Manapua," said Manu patiently, "you are decorating yourself."
 
-In came the whole wonderful neighborhood, and oh, what they carried! A family of dumplings from the Chinese bakery floated in on a cloud of steam, balancing baskets of bao. A troupe of Portuguese sweet-bread loaves arrived arm-in-arm with bottles of guava jam. A bright bunch of Filipino **lumpia** (LOOM-pee-ah) = crispy spring rolls came marching in formation, golden and crunchy, followed by a giant pot of saucy adobo that smelled like somebody's beloved grandmother. Japanese mochi bounced in pastel rows. Teriyaki skewers, kimchi, poi, poke, pickled plum, sweet *haupia* — every flavor on the island, all squeezing through one little backyard gate.
+"I make a GREAT decoration," said Manapua, glowing with steam and pride.
 
-Kalua's sleepy eyes went wide as moons. "But—but there are so many of you! And you're all so… different!"
+Manu made a plan. Malia climbed onto his shoulders. Kalua nudged the tree. Wobble.
 
-A tiny dumpling tugged his ti-leaf blanket and said, in a squeaky little voice, "That's why it's a *feast,* silly pig. One flavor is just a snack. *Everybody's* flavors is a luau."
+Plop. Manapua tumbled into Malia's sugary arms, the lights came loose, and the whole yard lit up gold.
 
-Kalua laughed his warmest belly-laugh, the one that made the whole yard rumble pleasantly and shook three sugar crystals right off Malia's cheeks. "Low and slow," he chuckled, "that's how love grows!"
-
-"That's the spirit!" cried Malia, catching her falling sugar mid-air. "Every family on these islands sailed here from somewhere — over the ocean, across the sea, all the way from the other side of the world. The Hawaiians, the Japanese, the Portuguese, the Chinese, the Filipinos, and so many more. They each brought their grandmother's favorite recipe in their pockets. And do you know what happened when all those recipes landed on the same warm island?"
-
-"What happened?" whispered Kalua, leaning in close.
-
-"They learned to share a table," Malia said, and her lilikoi-custard heart peeked out in the happiest little smile. "Fresh, warm, and never alone. *That's* Hawaii."
+"Do it again!" begged Manapua. "I want to be a decoration one more time!"
 
 ---
 
-Still, with so many dishes and so many helping hands, things got a little… chaotic. The lumpia kept trying to organize everyone into straight lines. The mochi wouldn't stop bouncing into the poi. And poor Lani the Loco Moco had been asked to guard the dessert table, which was a terrible job for the sleepiest snack on the island, because he kept dozing off and waking with a snort and a guilty "I wasn't sleeping, I was *resting my yolk!*"
+"Absolutely not," said Manu, smiling. Then he saw the empty bowls. A hundred guests. No food.
 
-"We need a system," declared Musubi Manu, climbing onto a coconut so everyone could see him. "If everyone just dumps their dish anywhere, it'll be a muddle. But if we work together — kokua — we can build one *great big* table that holds every single flavor."
+Kalua heaved the tables into one long line. They teeter-tottered. One flipped Manapua into a bush.
 
-And so they did. Malia and the Portuguese loaves arranged the sweets in a sparkly sugar river. The dumplings and bao steamed up the savory end. The lumpia stood guard like crispy golden soldiers. Kalua, who was big and strong and gentle, lifted the heavy tables into one long, long line — longer than the longest table anyone on Pikake Lane had ever seen.
-
-When the last dish was set down, the whole neighborhood went quiet.
-
-Because there it was. One table. Stretching from gate to mango tree. Loaded with the food of a dozen different homes, all touching edges, all sharing one tablecloth, all lit up gold beneath Manapua's wonky string lights.
-
-"Oh," whispered Kalua, and a happy little tear sizzled gently on his smoky cheek. "*Oh.* It's beautiful. It's all of you. Together."
+"Don't fret," said Malia. "Nobody comes to a luau with empty arms. Everybody brings a piece of home."
 
 ---
 
-Then a hush fell, and a small worried voice piped up from the very back. It was a single, lonely-looking spring roll, hanging shyly near the gate, too nervous to come in. "But… I'm new here," she said softly. "My family just moved to the island. I don't know if I *belong* at your table."
+The gate swung wide. In poured the whole gang: little treat-friends of every color, carrying bowls and pots.
 
-Everyone turned. And Kalua, slow and warm as the setting sun, walked all the way down that enormous table to the gate. He bent his big gentle head and smiled his sleepiest, kindest smile.
+Steaming bao, crispy lumpia, pastel mochi, sticky adobo, every flavor on the island.
 
-"Little one," he rumbled, "do you know the most important rule of a Hawaiian luau?"
+Kalua's sleepy eyes went wide as moons. "But you're all so DIFFERENT!"
 
-The spring roll shook her head.
-
-"There is no edge to this table where you stop belonging," said Kalua. "The whole point of **'ohana** (oh-HAH-nah) = family is that we make room. Every flavor that comes to the islands becomes part of the islands. That's the magic. That's *Hawaii.* So come — there is always one more seat. We saved it just for you."
-
-And he gave her the very best seat, right in the warm golden middle, between the malasadas and the mochi.
-
-The little spring roll's eyes filled up, and then she laughed, and then *everyone* laughed, and the luau truly began.
+"That's why it's a feast, silly pig," laughed Malia. "One flavor is a snack. Everybody's is a luau."
 
 ---
 
-What a feast it was! Manapua bounced from dish to dish, declaring each one "the best thing I've ever eaten" (he said this eleven times, and meant it all eleven). Malia handed out sugar-dusted hugs that left everyone twinkly and sticky and grinning. Musubi told a practical joke involving a fake rubber poi that wobbled and squeaked when you poked it, and it fooled even the wisest, oldest elders, who laughed so hard they had to hold onto their flower leis. Lani the Loco Moco finally gave up guarding the dessert table and simply lay across the end of it like a cozy, snoring blanket, his egg-hat rising and falling with each sleepy breath, which everyone agreed was the most comfortable centerpiece a luau had ever had. And Kalua — dear, gentle Kalua — sat at the head of his long table, glowing with pride, surrounded by every flavor and family he loved.
+"We need a system," declared Manu, climbing onto a coconut. "One big table that holds every flavor."
 
-When at last the guests began to nibble at *him* — for a luau pig is meant to be shared, you know — Kalua didn't mind one bit. In fact, he beamed brighter than ever, because being shared was the proudest, happiest thing a kalua pig could ever do. "Take a little! Take a little!" he laughed, like a firework finally getting to light the sky. "That's what I'm *for!* A pig is love you can pass around the whole table!"
+Malia arranged the sweets into a sparkly sugar river. Manapua steamed up the savory end. Kalua lifted.
 
-And as the moon rose silver over Honolulu, the neighborhood ate and sang and leaned against each other, sleepy and full and warm. Every flavor at one table. Every family, one 'ohana. And every single soul, at last, belonging.
+The last dish went down, and the whole yard went quiet. One table, gate to mango tree.
+
+The food of a dozen homes, all touching edges, under wonky golden lights.
+
+"Oh," whispered Kalua, and a happy tear sizzled on his smoky cheek. "It's all of you. Together."
+
+---
+
+Then Kalua noticed one tiny spring roll hanging back by the gate, too new to come in.
+
+Slow and warm, he wobbled all the way down the long table and bent his head.
+
+She whispered something only a pig ear could catch. Kalua smiled his sleepiest, kindest smile.
+
+"There's no edge to this table where you stop belonging," he rumbled. "There's always one more seat."
+
+He gave her the best seat, right in the golden middle, between malasadas and mochi.
+
+---
+
+Manapua declared eleven dishes "the best thing I've ever eaten" and meant every one.
+
+Manu's rubber poi squeaked when poked and fooled the wisest elders. Kalua's belly-laugh shook the table.
+
+"Take a little!" beamed Kalua, as the guests nibbled him. "A pig is love you pass around!"
+
+The string lights glowed. Everyone leaned, sleepy and full, against everyone. Every family, one **ʻohana** (oh-HAH-nah) = family.
+
+And everyone, at last, belonged.
 
 ---
 
 ## Goodnight Blessing
-Little one, may your table always be long enough for one more friend. May the people who come from far away find a warm seat right beside you, and may you remember that the sweetest feasts are the ones we make *together*. Tonight, snuggle down soft and full of love, the way a luau yard feels when the lanterns glow and everybody belongs. There is always room for you, exactly as you are. Sleep cozy, dream of golden lights and shared plates and kind, gentle pigs. Goodnight.
+Little one, may your table always be long enough for one more friend. The sweetest feasts are the ones we make together. There is always room for you, exactly as you are. Sleep cozy, dream of shared plates. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration: a long luau table stretching across a glowing Honolulu backyard at golden dusk, draped in tangled string lights over a mango tree. The table overflows with foods from many cultures — bao, lumpia, mochi, malasadas, poke, adobo — all touching edges. Kalua the Pig, a big soft smoky-golden roly-poly pig wrapped in ti-leaf blanket with a gentle smile and a curl of fragrant smoke on his back, sits at the head beaming. Palette of warm gold, cozy amber, soft green ti leaves, lantern-orange glow. Mood: joyful, abundant, deeply welcoming.
-2. Character portrait of Kalua the Pig: a plump, tender, smoky-golden pulled-pork pig wrapped in a cozy ti-leaf blanket like a robe, sleepy kind eyes, a tiny curl of fragrant smoke rising from his back, warmest belly-laugh frozen mid-chuckle, arms open wide in a welcoming hug. Soft storybook lighting, warm earthy palette, gentle and grandfatherly.
-3. Closing cozy scene: nighttime, a silver moon over the Honolulu neighborhood, the luau winding down. Snacks of every culture lean sleepily against one another along the long lantern-lit table — a malasada, a steamed bun, a spam musubi, a loco moco with a tilted egg-hat, and a shy little spring roll tucked happily in the warm middle. Soft golden lights, dreamy blue-and-amber twilight, full bellies and contented smiles. Mood: peaceful, full of love, bedtime-warm.
+1. Key scene — warm whimsical storybook illustration of a Honolulu backyard in golden late afternoon: a pillowy white steamed bun stuck high in a mango tree wrapped in tangled string lights like a fluffy ornament, a sugar-dusted golden malasada balanced on the shoulders of a tidy square spam-musubi reaching up for him, and a big smoky-golden pig wrapped in ti leaves nudging the trunk, leaning tables and empty bowls around them, palette of warm gold, green ti leaves and lantern-orange, joyful and silly.
+2. Character portrait — Kalua the Pig: a plump, tender, smoky-golden pulled-pork pig wrapped in a cozy ti-leaf blanket like a robe, sleepy kind eyes, a tiny curl of fragrant smoke rising from his back, warmest belly-laugh frozen mid-chuckle, arms open wide in a welcoming hug. Soft storybook lighting, warm earthy palette, gentle and grandfatherly.
+3. Closing scene — early evening in the backyard, string lights glowing gold over one enormously long table stretching from gate to mango tree, a colorful crowd of little treat-friends of every shape leaning sleepily against one another, a malasada, a spam musubi and a steamed bun dozing near the big ti-leaf pig at the head, a shy little spring roll tucked happily in the warm middle. Soft golden lights, full bellies, bedtime-warm.
+
+## Animation Notes
+- **Cast:**
+  - `KALUA` — Kalua the Pig: a big soft smoky-golden roly-poly pig of pulled pork wrapped in green ti leaves, sleepy eyes, a curl of smoke rising from his back; voice: deep, slow, jolly.
+  - `MALIA` — Malia the Malasada: a plump golden-brown puffy doughnut rolled in sparkly sugar crystals, rosy cheeks, a lilikoi-custard heart that peeks out when she smiles; voice: warm, giggly, generous.
+  - `MANU` — Musubi Manu: a neat square rice-block body with a pink spam blanket on top and a crisp black nori belt round the middle, a tiny bento backpack; voice: earnest, tidy, loyal.
+  - `MANO` — Manapua Mano: a round pillowy white steamed bun with a rosy steam-blush and a swirl-knot on top, puffs of steam; voice: bouncy, hungry, silly.
+- **Scenes:**
+  1. A Honolulu backyard in golden late afternoon: a smoking sand pit with ti leaves, leaning folding tables, a nest of tangled string lights, a mango tree, a wooden gate.
+  2. The backyard gate and messy yard, golden light, empty bowls stacked by the tables.
+  3. The mango tree with string lights tangled in its branches, the friends stacked beneath it, the lights coming on gold at the end.
+  4. The yard with tables being dragged into a long line under the lit string lights, a bush, the gate.
+  5. The open gate with a colorful stream of little treat-friends pouring in carrying bowls, baskets and pots, lights glowing, sunset sky.
+  6. One enormously long table from gate to mango tree loaded with dishes of every kind, string lights glowing gold, sunset fading.
+  7. The far end of the long table by the gate, early evening, string lights, one small spring roll hanging back.
+  8. The whole backyard at early evening under glowing string lights, the long table full of sleepy leaning treat-friends.
+- **Budget:** 660 narrated words · 40 beats · 8 scenes · est. 4:51

@@ -1,143 +1,133 @@
 # Story 61: Yuki and the Hokkaido Snow Lanterns
 
 **Main Character:** Yuki the Snow Monkey-Manju
-**Guest Characters:** None
+**Guest Characters:** Kinkan, a plump kumquat who keeps the hot-spring lodge; Chibi, the smallest ice lantern
 **Setting:** A snowy Otaru canal lined with glowing ice lanterns
 **Theme:** A little light shared chases away the cold
-**Japanese Spotlight:** rantan (rahn-tahn) — lantern
+**Japanese Spotlight:** **rantan** (rahn-tahn) — lantern
 
 ---
 
-Yuki the Snow Monkey-Manju woke up the way she always did on the very coldest nights — by burrowing deeper into her snowdrift and going "*mmmmf, five more minutes.*" She was a fluffy white steamed bun shaped like a baby snow monkey, with rosy little onsen-warmed cheeks that glowed even in the dark. Tonight, though, something tickled her nose. *Cold. Real cold. The kind of cold that pinches your ears and tries to steal your toes.*
+On the coldest night of winter, Yuki the Snow Monkey-Manju burrowed deeper into her snowdrift.
 
-She popped one eye open.
+"Mmmf," she said. "Five more minutes."
 
-The snowy town of Otaru sat hushed and silver beside its frozen canal, and the snow was falling in big, lazy, marshmallow flakes. It was beautiful. It was also, Yuki noticed with a tiny shiver, *completely dark.* The little lamps along the water had all blinked out, one by one, like candles after a birthday wish.
+Then the cold pinched her ears and tried to steal her toes. She popped one eye open.
 
-"Uh-oh," said Yuki, sitting up so fast that snow puffed off her head. "That's not cozy. That's just cold."
+Otaru sat hushed and silver beside its frozen canal, and every little lamp had blinked out.
 
-And nothing — *nothing* — annoyed a snow monkey more than cold without cozy.
+"That's not cozy," said Yuki, sitting up so fast snow puffed off her head. "That's just cold."
 
----
-
-Yuki rolled down the snowbank and landed with a soft *fwump* beside the canal. Up close, the dark was even darker. The water had frozen into smooth black glass, and the little stone bridges arched over it like sleeping cats. Somewhere far off, a wind was practicing its spookiest *wooooo*, but Yuki was not impressed.
-
-"You sound like a kettle that forgot the words," she told the wind, and her warm cheeks went a little warmer with pride at her own joke.
-
-Then she saw them.
-
-All along the edge of the canal stood a long, long row of tiny lanterns — not paper ones, but lanterns made of *ice.* Someone had packed snow into little buckets, let them freeze hollow, and lined them up like a parade of frosty teacups, each one waiting for a candle. There were dozens. There were *hundreds.* They stretched away into the dark until Yuki couldn't count them anymore.
-
-But every single one was empty and unlit.
-
-A small, shivery voice came from the nearest one. "Oh, hello," it said. "Are you here to light us? We've been *so* dark. We're **rantan** (rahn-tahn) — lanterns, you know. Lighting up is sort of our whole job."
-
-Yuki blinked. The ice lanterns could talk! Of course they could — everything could talk on a night cold enough to need a friend.
-
-"I'd *love* to light you," said Yuki. "But, um. I don't actually have a match. Or a candle. Or a flame of any size whatsoever." She patted her own fluffy sides. "I'm mostly just bun."
-
-"Oh," said the little lantern, and its frosty voice wobbled. "Then I suppose we'll stay dark. And cold. And rather lonely. The lantern festival is *tomorrow,* and the whole town walks the canal to see us glow, but a town can't very well admire a row of dark buckets, can it?"
-
-Yuki's warm heart squeezed. There is nothing a snow monkey hates more than a lonely cold thing — and here were *hundreds* of them.
-
-"Warm cheeks, warm heart, warm friends," she said firmly, which was her favorite thing to say. "We are NOT staying dark. Stay here. Don't go anywhere."
-
-"We're buckets," the lantern reminded her gently. "We don't really go anywhere."
-
-"Right. Good point. Excellent plan, then."
+Nothing annoys a snow monkey more than cold without cozy. She hopped down to fix it.
 
 ---
 
-Yuki waddled off through the snow to think, which she did best while moving, the way some people think best in the shower or while eating a snack. (Yuki also thought well while eating a snack, but that was a different list.)
+The wind practiced its spookiest wooooo over the black ice.
 
-The problem was simple and enormous: *hundreds of cold lanterns, and no fire to fill them.*
+"You sound like a kettle that forgot the words," Yuki told it.
 
-She tried huffing on the first lantern with her warm breath. It fogged up nicely, glowed for half a second — and went dark again the moment she stopped. She tried hugging it with her toasty cheeks pressed to the ice. That warmed *her* up beautifully, and she nearly fell asleep, but the lantern stayed as dark as ever.
+All along the canal stood hundreds of lanterns made of ice, like frosty teacups. All dark.
 
-"Hmph," said Yuki, who did not give up easily, being made of sturdier stuff than most buns.
+"Light us?" squeaked the smallest, Chibi. "We're **rantan** (rahn-tahn) — lanterns. Glowing is our whole job."
 
-Next she tried piling extra snow around the lanterns, "to keep them snug," she explained — but snow on top of snow only made the dark deeper, and the little lantern said, very politely, "I do appreciate the cozy thought, but I think you've tucked me in for a *very* long nap." So Yuki un-piled the snow, blushing all the way up to her ears.
+"I'd love to," said Yuki, patting her fluffy sides. "But I have no flame. I'm mostly bun."
 
-She even tried *singing* to them, a warm wobbly little hot-spring song her grandma used to hum, the kind that made steam rise and toes uncurl. The lanterns swayed, and one or two sniffled happily, but a song — however lovely — is not a flame. When the last note faded, the canal was just as dark as before, only now everyone felt a bit more tender about it.
+"Stay right there," she added. "Don't go anywhere."
 
-"Singing warms the *inside,*" Yuki said thoughtfully, tapping her chin with one soft paw. "But the lanterns need something to warm their *outside.* And that means—" Her sleepy eyes went round. "—*real fire.*"
-
-Then she remembered the **onsen** (ohn-sen) — hot spring up on the hill behind the town — the one she loved to soak in until her cheeks turned the color of plum blossoms. The onsen was *warm.* Steamy-warm. Bubble-up-from-the-deep-warm. And where there was a hot spring, there was usually—
-
-"A caretaker," Yuki gasped. "And caretakers have *fire!*"
-
-She bounced up the snowy path, leaving a trail of round little monkey-bun prints, and found the old onsen lodge glowing softly through its frosted windows. Sitting on the porch, beside a kettle and a small steady candle, was the caretaker — a sleepy fellow who turned out to be a very plump, very orange **kinkan** (keen-kahn) — kumquat in a knitted hat, no bigger than Yuki herself.
-
-"Evening," said the kumquat, blinking. "You're up late for a bun."
-
-"I need fire," Yuki announced, then heard how that sounded. "For a *good* reason! The canal lanterns are all dark, and the festival's tomorrow, and they're cold and lonely and it's breaking my whole heart, which is a steamed-bun heart and very soft to begin with."
-
-The kumquat scratched his hat. "I've only got the one candle," he said. "And a town full of empty lanterns. One little flame can't fill hundreds of them. The cold's too big."
-
-Yuki looked at the candle. It was *tiny.* A single trembling thread of gold against all that dark.
-
-But Yuki had soaked in enough hot springs to know a secret about warmth that big cold things never figured out.
+"We're buckets," said Chibi. "We don't really go anywhere."
 
 ---
 
-"Can I borrow it?" she asked. "Just the one. I'll bring it right back, I promise on my plum-blossom cheeks."
+Yuki huffed warm breath on Chibi. Fog. A half-second glow. Dark again.
 
-The kumquat, who was kind and also extremely sleepy, handed it over. Then he rummaged in his knitted hat, fished out a stubby second candle — unlit, no longer than a thumb — and tucked it gently into Yuki's paw. "Just in case," he said. "A caretaker never sends anyone out with only one of anything. Mind the wind," he yawned. "She's been practicing her *wooooo.*"
+She piled snow around the lanterns, to keep them snug. The dark got darker.
 
-"I noticed. She needs lessons."
+"Lovely thought," said Chibi politely, "but you've tucked me in for a very long nap."
 
-Yuki carried the little candle down the hill, cupping it in her soft paws so the wind couldn't steal it. When she reached the first lantern, she set the candle gently inside, where the ice walls hugged the flame and held it safe.
+Yuki unpiled the snow, blushing to her ears. "Fine. I need REAL fire."
 
-The lantern lit up.
-
-A warm, buttery, golden glow bloomed through the ice, turning the frosty bucket into a tiny floating moon. The little lantern made a sound Yuki had never heard a lantern make before — a soft, delighted *"oooooh"* — and its glow trembled with pure joy.
-
-"I'm GLOWING," it whispered. "I'm a *real lantern now!*"
-
-"You always were," said Yuki. "You just needed a little light to remember."
-
-But there were still hundreds left in the dark. And only one candle.
-
-So Yuki did the thing the big cold had never expected. She took a second, unlit candle stub the kumquat had tucked into her paw "just in case" — and she lit it *from the first lantern's flame.*
-
-The new candle caught at once. And the first lantern? It didn't dim even a little. Its light hadn't been *used up.* It had been *shared.*
-
-Yuki gasped so hard she hiccuped. "That's the secret!" she cried, bouncing on the snow. "Light doesn't run out when you share it — it just makes MORE light! Take THAT, cold!"
-
-She lit the second lantern. Then she lit a candle from *that* one, and lit a third. And a fourth. Lantern to lantern, flame to flame, glow to glow, Yuki danced down the frozen canal leaving a ribbon of golden light blooming behind her. Each little ice rantan caught the warmth from its neighbor and passed it on, the way friends pass a warm bun down a row so everyone gets a bite.
-
-The lanterns began to chatter and giggle as they woke up one by one, like a long sleepy family stretching after a nap. "I'm next! I'm next!" squealed a little round one. "Ooh, ooh, do me — I want to be the brightest!" cried another, and the first lantern said, with all the wisdom of a lantern that had been glowing a full two minutes longer, "There's no *brightest,* silly. We're all the same warm. That's the lovely part." Yuki laughed so hard she nearly dropped her candle into a snowbank, and had to do a wobbly little monkey-spin to catch it.
-
-The wind tried her spookiest *wooooo.* The lanterns just glowed brighter, all snuggled in a row, completely unbothered.
-
-"Is that the best you've got?" Yuki called to the wind, lighting another lantern. "My grandma's kettle whistled scarier than that, and she was *nice.*"
+Up on the hill glowed the **onsen** (ohn-sen) — hot spring — lodge. And lodges have keepers.
 
 ---
 
-By the time Yuki reached the last lantern at the far end of the canal, the whole frozen waterway had transformed. Hundreds of ice lanterns glowed gold against the blue-black night, their light bouncing off the canal's black mirror so it looked like there were *twice* as many — one warm world above the ice and one below. The snow falling through all that glow turned to drifting sparks of honey.
+On the porch, beside one small candle, sat Kinkan, a plump kumquat in a knitted hat.
 
-Otaru wasn't dark and cold anymore.
+"I need fire," Yuki announced, then heard how that sounded. "For a GOOD reason!"
 
-It was the coziest place in the whole wide winter world.
+"One candle," yawned Kinkan. "Hundreds of lanterns. The cold's too big, little bun."
 
-Yuki sat down right in the middle of it all, her cheeks the warmest plum-pink they'd ever been, surrounded by the soft happy murmur of hundreds of glowing friends. "We did it," she sighed. "We chased the cold clean away."
+He lent it anyway, and tucked a stubby spare into her paw. "Just in case. Mind the wind."
 
-"*You* did it," said the first little lantern, glowing proudly down the long golden row.
+---
 
-"Nope," said Yuki, snuggling into the snow with a sleepy yawn. "*One* light did it — and then it shared. That's the trick, you know. A little warmth, passed along, can fill a whole entire night."
+Yuki cupped the flame in both paws and started down the hill.
 
-And up on the hill, the sleepy kumquat smiled, set his kettle to whistle, and let the brave little snow monkey nap right there among her lanterns, glowing and warm and not one tiny bit cold.
+Wooooo went the wind. The flame bent flat. Yuki turned her back and hunched like a snowball.
+
+WOOOOO went the wind, bigger. Yuki dove behind a bridge post. The flame shivered, and held.
+
+WOOOOOOO. The gust hit the bottom of the hill. The candle went out.
+
+Yuki stood in the dark, holding a thread of smoke. "Oh," she said. "Oh, no."
+
+Then she looked at Chibi. Hollow and round, with thick ice walls. A cup. A tiny house.
+
+---
+
+She hopped back up, borrowed the flame again, and set the candle INSIDE an ice lantern to carry.
+
+The ice walls hugged the flame. The wind huffed and puffed at them and gave up.
+
+Down the hill it came, a tiny floating moon in a monkey's paws.
+
+Yuki set it beside Chibi and lit Chibi from it. Chibi bloomed buttery gold. "I'm GLOWING!"
+
+Then Yuki took the stubby spare and lit it from Chibi's flame.
+
+Chibi glowed exactly as bright as before. The light wasn't used up. It was shared.
+
+"THAT'S the secret!" cried Yuki, bouncing. "Light makes MORE light! Take THAT, cold!"
+
+---
+
+Lantern to lantern, flame to flame, Yuki danced down the canal leaving a ribbon of gold.
+
+"Nobody's brightest," said Chibi, two minutes wiser, as the others squealed awake. "We're all the same warm."
+
+The wind tried one last wooooo. The lanterns just glowed brighter, snuggled in a row, unbothered.
+
+---
+
+The whole frozen canal glowed gold, doubled in the black ice mirror, snow drifting through like honey sparks.
+
+Yuki sat down in the middle of it, cheeks the warmest plum-pink they'd ever been.
+
+"One light did it," she yawned. "And then it shared."
+
+Up the hill, Kinkan set his kettle whistling, and let the brave bun nap among her lanterns.
 
 ---
 
 ## Goodnight Blessing
-
-Little one, may your night be like Otaru's canal — full of small, soft lights all glowing in a row. When you feel cold or lonely, remember Yuki's secret: warmth doesn't run out when you share it; it only makes more. So pass along your light — a kind word, a cozy hug, a single candle — and watch the whole dark grow gentle and golden. Snuggle down now, with your cheeks warm as plum blossoms and your heart full of glow. Goodnight.
+May your night be like Otaru's canal, full of small soft lights glowing in a row. Warmth never runs out when you share it; it only makes more. Snuggle down with warm cheeks and a heart full of glow. Goodnight.
 
 ## AI Image Prompts
+1. Key scene — warm whimsical storybook illustration of a snowy Otaru canal at night: Yuki, a fluffy white steamed bun shaped like a baby snow monkey with rosy plum-pink cheeks, dancing along a long row of hollow ice lanterns, lighting each from the last so a ribbon of buttery gold blooms behind her, the first tiny lantern glowing brightest with a delighted little face, the black-glass frozen canal mirroring every light, marshmallow snowflakes drifting like honey sparks, an arched stone bridge behind; palette of midnight blue, snow white and candle gold, cozy and magical.
+2. Character portrait — Yuki the Snow Monkey-Manju: a plump pillowy white steamed manju bun shaped like a baby snow monkey, big gentle sleepy eyes, round rosy onsen-warmed cheeks glowing plum-pink, cupping one small candle flame in both soft paws and looking down at it with delight, a dusting of snow on her head; warm whimsical kawaii storybook style, soft golden candlelight on snowy blue.
+3. Closing scene — Yuki curled up napping in the snow in the middle of the canal path, surrounded by a glowing parade of hundreds of golden ice lanterns reflected in the black ice, a tiny contented smile, cheeks the warmest pink; on the hill a small wooden hot-spring lodge with a glowing window and a steaming kettle on the porch where a plump orange kumquat in a knitted hat smiles down; palette of midnight blue and honey gold, deeply peaceful snug bedtime mood.
 
-1. A warm whimsical storybook scene of a snowy Otaru canal at night, lined with hundreds of glowing golden ice lanterns whose light reflects in the black-glass frozen water; soft marshmallow snowflakes drift like honey sparks through the warm glow; arched stone bridges in the background; palette of deep midnight blue, snowy white, and buttery candle-gold; Yuki, a fluffy white steamed snow-monkey-shaped bun with rosy plum-pink cheeks, dances mid-stride along the row carefully cupping a tiny candle in her soft paws; cozy, magical, peaceful mood with soft golden rim-lighting.
-
-2. A character portrait of Yuki the Snow Monkey-Manju: a plump, pillowy white steamed manju bun shaped like a baby snow monkey, with big gentle sleepy eyes and round rosy onsen-warmed cheeks glowing plum-pink; she holds one tiny glowing candle in her soft little paws, looking down at it with delight; soft snow on her head; warm whimsical kawaii storybook style, gentle golden candlelight against a soft snowy blue background.
-
-3. A cozy closing scene: Yuki curled up napping in the snow in the very middle of the canal path, completely surrounded by a glowing parade of golden ice lanterns; her cheeks are the warmest pink, a tiny contented smile on her face; snow drifts down softly; on a distant hill a little lodge window glows warm; palette of midnight blue and honey-gold; deeply peaceful, sleepy, snug bedtime mood with soft glowing light wrapping around her like a blanket.
+## Animation Notes
+- **Cast:**
+  - `YUKI` — Yuki the Snow Monkey-Manju: a fluffy white steamed bun shaped like a baby snow monkey, rosy onsen-warmed plum-pink cheeks, soft little paws; voice: snuggly, sleepy, cheeky.
+  - `KINKAN` — Kinkan: a very plump, very orange kumquat in a knitted hat, no bigger than Yuki, heavy-lidded and kind; voice: slow, yawning, gentle.
+  - `CHIBI` — Chibi: the smallest ice lantern, a hollow round frosted-ice cup with a tiny shivery face that later glows buttery gold; voice: tiny, chilly, delighted.
+- **Scenes:**
+  1. A snowdrift above the town of Otaru at night, the dark frozen canal below, snow falling in big slow flakes, every lamp out.
+  2. The canal edge at night: smooth black ice, arched stone bridges, a long row of hollow unlit ice lanterns like frosty teacups.
+  3. Beside the first ice lanterns at night, snow piled and unpiled, the hill behind with a small glowing lodge window.
+  4. The porch of the hot-spring lodge at night, steam drifting, a kettle, one small candle in a dish, frosted windows.
+  5. The snowy hill path and a stone bridge post at night, wind blowing snow sideways, one small candle flame.
+  6. The bottom of the hill by the first lanterns at night, a candle carried inside an ice lantern, the first lantern blooming gold.
+  7. The long canal at night, lanterns lighting one after another in a ribbon of gold, wind-blown snow.
+  8. The whole canal glowing gold at night, doubled in the black ice, snow drifting, the lodge on the hill with a whistling kettle.
+- **Budget:** 646 narrated words · 42 beats · 8 scenes · est. 4:47

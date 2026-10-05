@@ -4,6 +4,10 @@
 
 See also: [Character Guide](CHARACTER_GUIDE.md)
 
+## Format
+
+Every Hawaii story is written in the **five-minute animation format**: 36–48 one-action beats of ≤ 18 words, scenes split by `---`, a ≤ 40-word blessing, and an *Animation Notes* section (cast tokens, scenes, measured budget) for the LTX-2.5 + MiniMax H3 pipeline. Rules and the budget are in [FIVE_MINUTE_STORY_GUIDE.md](../FIVE_MINUTE_STORY_GUIDE.md); check a story with `python3 check_five_minute.py --fix hawaii/stories/NN-*.md`.
+
 ## Story Index
 
 | # | Story | Main Character | Setting | Theme |

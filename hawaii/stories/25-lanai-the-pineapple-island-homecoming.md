@@ -4,132 +4,125 @@
 **Guest Characters:** Niu the Coconut, Poi Popo
 **Setting:** The old pineapple fields of Lanai island
 **Theme:** Knowing where you come from helps you stand tall.
-**Hawaiian Spotlight:** makua (MAH-koo-ah) = parent / source
+**Hawaiian Spotlight:** **makua** (MAH-koo-ah) = parent / source
 
 ---
 
-Pua the Pineapple had been polishing her crown for exactly forty-seven minutes, and she was *not* finished.
+Pua the Pineapple had been polishing her crown for forty-seven minutes. "More shine on the left leaf."
 
-"A little more shine on the left leaf," she announced to nobody, tilting so the sunlight caught her green spikes just so. "There. Now I look like a queen who happens to also be a pineapple, instead of a pineapple who is *only sort of* a queen."
+The ferry hit a wave. Pua's crown flopped over one eye like a hat that had given up.
 
-The little ferry boat bounced over a wave, and Pua's whole golden body wobbled. Her crown flopped sideways over one eye like a hat that had given up.
+"PUA!" laughed Niu the Coconut, sloshing under his hat. "You spent the whole trip combing your head."
 
-"PUA!" laughed a round brown voice beside her. It was Niu the Coconut, sloshing happily under his tiny woven hat. "We're going to a whole *island* and you spent the trip combing your own head."
+"It is not a head, Niu. It is a CROWN," sniffed Pua. "We are going somewhere important."
 
-"It is not a head, Niu. It is a *crown*," Pua sniffed, fixing it. "And we are going somewhere very important." She lowered her voice, because saying it out loud made her tummy do a fizzy flip. "We're going to **Lānaʻi**. The old Pineapple Island. Where my **makua** (MAH-koo-ah) = parent came from."
-
-The word *makua* tasted like sunshine and a little bit of nervous.
+"Lānaʻi. The old Pineapple Island. Where my **makua** (MAH-koo-ah) = parent came from." Her tummy did a fizzy flip.
 
 ---
 
-The ferry slid up to a quiet dock, and there waiting — moving like a slow lavender cloud — was Poi Popo, the eldest of them all, with a flower lei around her soft taro shoulders.
+At the quiet dock waited Poi Popo, drifting like a slow lavender cloud.
 
-"Aloha, keiki," Poi Popo said warmly. "Welcome **home**."
+"Aloha, **keiki** (KAY-kee) = little one," said Poi Popo. "Welcome HOME."
 
-"It's not *my* home," Pua corrected, very politely, the way you correct an elder when you are nine and certain. "I have never even *been* here. I grew up three islands away, in a lovely sunny patch with an *excellent* view."
+"It's not MY home," said Pua, politely. "I grew up three islands away. Lovely patch. EXCELLENT view."
 
-Poi Popo only smiled, the way grandparents smile when they know something you don't yet. "Slow flippers, far journeys," she said — which was actually Honu Haupia's saying, but the wise ones share. "Come. Let me show you the fields."
-
-They walked. Niu rolled. And the road wound up and up into the heart of Lānaʻi.
+"Come," smiled Poi Popo. "See the fields."
 
 ---
 
-Now, Pua had imagined the great Pineapple Island would be *grand*. Marble! Banners! A statue of a pineapple, ideally wearing a crown not unlike her own!
+Pua imagined marble and banners. They crested the hill and found... a field.
 
-Instead, they crested the hill and found... a field.
+Wide and quiet, red dirt to the sky, rows of low spiky plants squatting in the dust.
 
-A wide, quiet, red-dirt field, stretching gold and green to the edge of the sky. Rows and rows of low pineapple plants, sturdy and spiky, sat right down in the dirt with their leaves wide open to the sun. No marble. No banners. No statues.
+"This is it?" Pua's crown drooped a centimeter. "It's so... DUSTY."
 
-"This is it?" Pua's crown drooped a centimeter. "It's so... *dusty*."
+"It's humble," rumbled Niu approvingly. "Tough shell, sweet heart, this place."
 
-"It's *humble*," rumbled Niu, sloshing approvingly. He liked humble. Humble was steady. "Tough shell, sweet heart, this place."
+A breeze rolled through, and every plant nodded together, shhhh-shhhh, like the whole field whispering hello.
 
-A breeze rolled through, and every pineapple plant nodded together, *shhhh-shhhh-shhhh*, like the whole field was whispering hello. Pua felt the fizzy flip in her tummy again. These low, dusty, un-crowned plants were... she swallowed. They were her makua. Her source. The ones she came from.
+"They don't even have nice crowns," whispered Pua. "They're all crooked and chewed and SHORT."
 
-"They don't even have crowns up," Pua whispered. "Not nice ones. They're all crooked and chewed and *short*."
-
-"Mm," said Poi Popo. "And yet they grew you, tall and proud and shining. Funny, isn't it? How the humblest **makua** makes the grandest keiki."
-
-Pua didn't have an answer for that. For possibly the first time in her regal life, Pua the Pineapple was quiet.
+"And yet they grew you," said Poi Popo. "Funny. The humblest makua makes the grandest keiki."
 
 ---
 
-That's when the trouble bounced in. (There's always trouble. That's how you know it's an adventure.)
+Then a big, playful, RUDE Lānaʻi wind came whooping down the mountain and snatched her crown.
 
-A whole gust of wind came whooping down the mountain — a big, playful, *rude* Lānaʻi wind — and snatched Pua's beautiful polished crown right off her head.
+"MY CROWN!" shrieked Pua, which is not a queenly sound, but you would shriek too.
 
-"MY CROWN!" Pua shrieked, which is not a very queenly sound, but you'd shriek too.
+The crown cartwheeled across the field. Pua chased it, tripped on a plant, and somersaulted into a row.
 
-The green leafy crown tumbled cartwheeling across the field — over a row of plants, *bonk* off a fence post, and straight down into the deep, dark, dusty old irrigation ditch at the field's edge.
+Niu bounced after it, and the crown bonked off a fence post right over his hat.
 
-Pua scrambled to the lip of the ditch and peered down. Her crown lay at the very bottom, dusty and sad, far far below.
+Pua leapt. Niu leapt. They collided mid-air, sloshy THUNK, and sat down hard in the dust.
 
-"It's ruined," she wailed. "It's down there in the *dirt*. I can't be seen without my crown, I simply *can't*, I won't even look like a *pineapple*, I'll just look like a sad spiky lump—"
+The crown tumbled on and dropped into the deep, dark, dusty ditch at the field's edge.
 
-"Pua," said Niu gently, rolling up beside her. "You'll always look like a pineapple. You *are* one. The crown doesn't make you the fruit."
-
-But Pua wasn't listening. She felt very small and very far from her lovely sunny patch with the excellent view. She didn't feel like a queen at all.
+Far below lay her crown, dusty and sad. "Without it," wailed Pua, "I'm just a sad spiky LUMP!"
 
 ---
 
-"Hush now, keiki," said Poi Popo, settling beside the ditch like a warm purple cloud. "Watch the field. It will tell you what to do."
+"Hush, keiki," said Poi Popo, settling by the ditch. "Watch the field. It will tell you."
 
-So Pua watched. And as the wind kept gusting, she noticed something. The tall plants — the ones who'd grown big leaves and gotten proud and stretched up high — those plants *bent* and *whipped* and looked one strong gust from snapping.
+The wind gusted again. The tall proud plants whipped and bent, nearly snapping.
 
-But the low ones, the humble dusty ones rooted deep down in the red dirt — they barely moved. They just nodded, *shhhh-shhhh*, and held on. Steady as Niu.
+The low dusty ones, rooted deep in the red dirt, barely moved. They nodded, shhhh, and held on.
 
-"They don't bend," Pua breathed, "because they're holding onto where they come from. Down in the dirt. Down in the... the makua."
+"They hold on," breathed Pua, "because they're holding onto where they come from. The makua."
 
-"Now she's getting it," murmured Poi Popo, pleased as warm pudding.
+Pua did a thing she had never done. She bent down low, right into the red dirt.
 
-Pua looked down at the ditch. Then at her own bare top, where her crown used to be. She felt the wind push at her — and instead of fighting to look grand and straight and *queenly*, Pua did something she had never done in her whole life.
+She dug her base in deep, like the humble plants, and stretched one long leaf-arm into the ditch.
 
-She bent down low. Right down into the red dirt. She dug her base in deep, just like the humble plants, and she reached one long leaf-arm *all the way* down into the dark ditch.
-
-"I can't reach!" she grunted. "It's too far! If I lean any more I'll fall in!"
-
-"Then anchor yourself," rumbled Niu, "to something that won't let go." And the round brown coconut planted himself behind her, hard shell braced in the dirt, and Pua hooked her back leaves around him. "Tough shell," he said. "Pull."
-
-Pua pulled. She stretched. She reached past *grand* and past *dignified* and got *dusty* — gloriously, completely dusty — red dirt all up her diamond skin — and her leaf-tip brushed the crown...
-
-...and caught it...
-
-...and *up* it came, swinging into the sunlight in a shower of red dust.
-
-"I GOT IT!" Pua shouted, tumbling backward into Niu, who caught her with a sloshy *oof*. "I got my crown! I'm *filthy* and I got my crown!"
+"I can't reach!" grunted Pua. "If I lean any more I'll fall in!"
 
 ---
 
-But here's the funny thing, and Pua noticed it right away.
+"Then anchor to something that won't let go," rumbled Niu, bracing behind her. "Tough shell. PULL."
 
-She looked at the crown in her leaves. It was scratched. It was dented. It was dusty. It would never be perfectly polished again.
+Pua hooked her back leaves around him and stretched past grand, past dignified, into glorious dusty.
 
-And she didn't mind one little bit.
+Her leaf-tip brushed the crown, caught it, and UP it swung into sunlight in a shower of dust.
 
-"Poi Popo," Pua said slowly, "I think I had it backward. I thought my crown made me grand. But the crown's just... the *top*. The grand part was always down here." She patted the red dirt, the field, the deep place where the humble plants held on. "The roots. The makua. Where I come from."
+"I GOT IT!" shouted Pua, tumbling onto Niu with a sloshy oof. "I'm FILTHY and I got it!"
 
-"From the land," said Poi Popo softly, "with aloha. You found it, keiki. A pineapple stands tall not because of the crown on top — but because of the roots down below."
+The crown came up scratched, dented, dusty. Pua didn't mind one bit.
 
-Pua set her dusty, dented crown gently back on her head. It sat a little crooked now. She decided she liked it crooked. It looked like a crown that had *been somewhere* and *done something* and *gotten home*.
+"I had it backward," said Pua. "The crown's just the top. The grand part was always down here."
 
-She turned to the field of low, humble, un-crowned plants nodding in the wind. And Pua the Pineapple, who used to demand banners and marble, did the most regal thing she had ever done.
+"A pineapple stands tall," said Poi Popo, "not from the crown on top, but the roots below."
 
-She bowed. Low, and dusty, and proud.
+---
 
-"Mahalo," she whispered to her makua. "Thank you for growing me."
+Pua set the dented crown back on, crooked. A crown that had gone somewhere and come home.
 
-And all across Lānaʻi, the field whispered back — *shhhh-shhhh-shhhh* — like a thousand grandparents saying *we're so proud of you, keiki, now hold your crown up.*
+Then Pua did the most regal thing she had ever done. She bowed, low and dusty.
 
-"Crown up, sweetheart," Pua told herself, grinning. But she said it gently this time. Like it meant something warmer than just looking good.
+"Mahalo," she whispered to her makua. "Thank you for growing me." The whole field whispered back, shhhh-shhhh.
 
-The three of them watched the sun go down gold over the old Pineapple Island — Niu sloshing, Poi Popo glowing soft as a lei, and Pua standing tall in the red dirt, rooted, crooked-crowned, and finally, truly home.
+"Crown up, sweetheart," Pua told herself, gently this time, as the sun went gold over Lānaʻi.
 
 ---
 
 ## Goodnight Blessing
-Little one, you come from somewhere, just like Pua — from people who held on through every wind so that you could grow tall and golden and bright. You don't have to be perfectly polished to be perfectly loved; a crown looks best a little crooked, after a good adventure. Wherever you wander, your roots go with you, steady in the warm dark, holding you up. So rest now, keiki, deep and safe and home. Tomorrow you'll stand tall again — because of all the love down below that grew you. Goodnight.
+You come from roots that held on through every wind so you could grow tall and bright. A crown looks best a little crooked after a good adventure. Rest now, deep and safe and home. Goodnight.
 
 ## AI Image Prompts
-1. Key scene: warm whimsical storybook illustration, golden-hour light over a wide red-dirt pineapple field on Lānaʻi. Pua, a cheerful golden pineapple with a green leaf-crown, bends low and dusty into a dark irrigation ditch, one long leaf-arm reaching down to grab her tumbled crown, while round brown Niu the Coconut braces behind her as an anchor. Soft lavender Poi Popo (a taro-paste elder in a flower lei) watches kindly. Palette: warm gold, dusty red earth, sage green, soft lavender. Mood: triumphant, tender, glowing.
-2. Character portrait: Pua the Pineapple, regal golden pineapple with diamond-pattern skin and a proud green leaf-crown worn slightly crooked and dusted with red dirt, big sparkly eyes, a gentle humbled smile, standing tall and rooted in red field soil. Warm storybook style, soft backlight.
-3. Closing scene: the three friends silhouetted against a gold-and-rose sunset over the quiet old pineapple fields — Pua standing tall with her crooked crown, Niu the round coconut beside her, Poi Popo glowing soft as a lei, the humble pineapple plants nodding in the breeze. Cozy, peaceful, dreamy bedtime palette of amber, rose, and dusk purple.
+1. Key scene — warm whimsical storybook illustration in golden afternoon light over a wide red-dirt pineapple field on Lānaʻi: a green leaf-crown cartwheeling through the air in a puff of red dust as Pua the Pineapple (a golden pineapple with diamond-pattern skin, bare-topped) somersaults over a row of low spiky plants and Niu the Coconut (a round shaggy brown coconut in a tiny woven hat) bounces after it, the two about to collide mid-air. Rows of humble pineapple plants nodding in the wind, a wooden fence post, a dark ditch at the field's edge, Poi Popo (a soft lavender-grey taro elder in a flower lei) watching kindly. Palette of warm gold, rust red and sage green.
+2. Character portrait — Pua the Pineapple: a regal golden pineapple with diamond-pattern skin and a proud green leaf-crown worn slightly crooked and dusted with red dirt, big sparkly eyes, a gentle humbled smile, standing tall and rooted in red field soil. Warm storybook style, soft backlight.
+3. Closing scene — the three friends against a gold-and-rose sunset over the quiet old pineapple fields: Pua standing tall with her crooked dented crown, Niu the round coconut beside her, Poi Popo glowing soft as a lei, the humble pineapple plants nodding in the breeze. Cozy, peaceful bedtime palette of amber, rose and dusk purple.
+
+## Animation Notes
+- **Cast:**
+  - `PUA` — Pua the Pineapple: a golden spiky pineapple with diamond-pattern skin and a proud green leaf-crown worn like a royal headdress; voice: proud, dramatic, warm.
+  - `NIU` — Niu the Coconut: a round shaggy brown coconut with a green straw-sprout on top, three little face-dots, a tiny woven hat; voice: steady, gruff, kind.
+  - `POPO` — Poi Popo: a soft smooth lavender-grey mound of pounded taro, round as a little cloud, a flower lei, gentle ancient eyes; voice: slow, honeyed, grandmotherly.
+- **Scenes:**
+  1. A small ferry on a bright blue channel in morning light, the dry red-and-gold hills of Lānaʻi ahead.
+  2. A quiet wooden dock and a red dirt road winding uphill between dry grass, midday light.
+  3. The crest of a hill overlooking a wide red-dirt pineapple field: rows of low spiky plants, a wooden fence, big sky, warm afternoon light.
+  4. The field in a gust of wind: plants nodding in waves, red dust blowing, a fence post, a deep dark irrigation ditch at the field's edge.
+  5. The lip of the ditch, wind still gusting, tall plants whipping and low plants holding, the crown lying far below in the dust.
+  6. The ditch edge in late golden light, red dust in the air, a coconut braced in the dirt.
+  7. Sunset over the pineapple field, gold and rose sky, the plants nodding, long soft shadows.
+- **Budget:** 675 narrated words · 41 beats · 7 scenes · est. 4:57

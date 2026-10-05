@@ -1,157 +1,129 @@
 # Story 13: Pua the Pineapple and the Crooked Crown
 
 **Main Character:** Pua the Pineapple
-**Guest Characters:** None
+**Guest Characters:** Kalua the Pig; Mac the Macadamia; Manapua Mano
 **Setting:** A pineapple plantation and luau stage on Oahu
 **Theme:** True royalty is measured in kindness, not crowns.
 **Hawaiian Spotlight:** **haʻaheo** (HAH-ah-HEH-oh) = proud
 
 ---
 
-On the sunniest hill on all of Oahu, where the pineapple rows marched in tidy golden lines down to the sea, there lived a pineapple who was absolutely, positively, one-hundred-percent certain she was royalty.
+On the sunniest hill on Oahu, pineapple rows marched in golden lines down to the sea.
 
-Her name was Pua, and oh, did she have a crown.
+At the top of the first row stood a pineapple absolutely certain she was royalty.
 
-It was a magnificent burst of green leaves that fanned up from the top of her head like a fountain of emeralds, and every single morning Pua polished each leaf with a dewdrop until it gleamed. She would stand at the very top of her row, lift her spiky chin, and announce to the whole sun-warmed field, "Make way, make way! Royalty rising!"
+"Make way!" called Pua the Pineapple. "Royalty rising!" She polished every leaf with a dewdrop.
 
-The other pineapples mostly rolled their eyes. The geckos giggled. And a passing dragonfly once flew straight into a leaf because Pua refused to lean even one inch out of the way.
+A dragonfly flew straight into her crown, because Pua refused to lean. "A queen does not lean."
 
-"A queen," Pua sniffed, "does not lean."
+She practiced her royal wave: one leaf, one twitch. It bonked a sparrow off a fence post.
 
-She had a special royal wave, too — a tiny twitch of one leaf, just enough for the peasants (everyone) to notice but not so much that she might *muss the crown*. She practiced it in the morning dew. She practiced it at noon. She even practiced it in her sleep, which is how a sparrow once got bonked right off a fence post by a sleep-waving pineapple.
+She was **haʻaheo** (HAH-ah-HEH-oh) = proud. Ridiculously, leaf-flippingly proud.
 
-She was, in a word, **haʻaheo** (HAH-ah-HEH-oh) = proud. Wonderfully, ridiculously, leaf-flippingly proud.
+---
 
-And tonight — tonight! — was the biggest night of the whole year.
+Tonight was the luau. Pua was guest of honor, having nominated herself four hundred times.
 
-Tonight was the luau.
+"I want the spotlight ALL to myself," she declared, planting herself center stage. "A queen shines alone."
 
-Now, you should know that on Oahu, the luau is the most marvelous party there is. There is music that makes your toes wiggle, and torches that dance like orange flowers, and so much food laid out on long ti-leaf tables that the very air smells like a hug. And every year, one special guest of honor gets to stand center stage on the great wooden platform, glowing under the warm torchlight, while everyone sings.
+Up the ramp came Kalua the Pig, smoke curling, carrying flowers. "We always stand together, yeah?"
 
-This year, the guest of honor was Pua.
+"Not tonight," said Pua. "Watch from the grass." Kalua blinked, a little hurt, and wobbled back down.
 
-She had been chosen because, well, she had nominated herself approximately four hundred times, and eventually everyone got tired of arguing.
+"No nuts on my platform!" she told Mac the Macadamia, who clacked sadly shut.
 
-"Of course it's me," Pua said, swishing her leaves so hard a gecko had to duck. "Who else has a crown like mine? A luau needs a queen, and a queen needs a stage all to herself."
+"And absolutely no bouncing!" she told Manapua Mano, mid-hop. He landed with a sad puff.
 
-That last part was the trouble.
+"But who's gonna stand by you?" asked Manapua. "Stages are big. You're a small pineapple."
 
-You see, the luau was meant to be shared. Mango slices and macadamia nuts, sweet poi and warm pork buns, all the friends of the island gathered close on the platform together, shoulder to shoulder, glowing in the light. That was the whole point. **ʻOhana** (oh-HAH-nah) = family means nobody stands alone.
+"I," said Pua, "am a LARGE personality." Manapua thought hard. It made no sense.
 
-But Pua had other ideas.
+---
 
-"This is *my* night," she declared, planting herself dead center on the wooden stage that afternoon. "And I want the spotlight *all* to myself. No crowding. No sharing. A queen shines alone."
+By sunset, Pua stood alone on the stage. Just her, her crown, and the empty boards.
 
-A soft, smoky-golden shape came rolling up the ramp. It was Kalua, the big roly-poly pig wrapped in his ti-leaf blanket, a curl of fragrant smoke rising gently off his back. He was the warmest, kindest soul on the whole island, and he had come early to help set up.
+"Perfect," she breathed. The torches were lit. The music began. The whole island looked up.
 
-"Eh, Pua," Kalua rumbled in his cozy low voice. "We always all stand together for the singing. Low and slow, that's how love grows, yeah? Plenty room for everybody."
+Pua lifted her chin to its proudest, most haʻaheo height.
 
-"Not tonight," said Pua, lifting her crown so high it nearly tipped over backward. "Tonight I stand *alone*, thank you very much. You may watch from the grass."
+WHOOSH. A warm salty wind rushed across the empty stage, with nothing to slow it.
 
-Kalua's sleepy eyes blinked, a little hurt. But he was too kind to fuss. "Okay, sweet Pua," he sighed, and rolled gently back down the ramp. "We be cheering for you anyway."
+The crown tipped. It slid. It flopped sideways over one eye like a dropped umbrella.
 
-And one by one, the others came to help — and one by one, Pua shooed them off her stage.
+The music stopped. From the grass, Manapua whispered, "Is it supposed to look like that?"
 
-It became a bit of a parade, honestly. Each friend would huff up the ramp carrying flowers or fruit or lanterns to decorate, all eager and beaming, and each one would get politely *un-invited* before they reached the top.
+---
 
-"No nuts on my platform!" she told Mac the Macadamia, who tucked himself shyly back into his glossy shell.
+"A queen never panics," whispered Pua. She shook her head. The crown flopped to the other side.
 
-"No wobbling near my crown!" she told Honu Haupia, the gentle coconut-pudding sea turtle, who only smiled her ancient smile and glided slowly away.
+She tried the royal wave. Crown over one eye, it looked like waving goodbye to a wall.
 
-"And *absolutely* no bouncing," she warned Manapua Mano, the pillowy steamed bun, who had been doing happy little hops all the way up the hill. He drooped. His steam came out in a sad little puff.
+The wind blew harder. Her big leafy crown caught it like a sail.
 
-"But Pua," Manapua said, "who's gonna stand by you? Stages are big. You're a small pineapple."
+Pua slid backward across the boards, spiky bottom squeaking, straight toward the edge of the stage.
 
-"I," said Pua grandly, "am a *large personality.* That's quite enough company for one stage."
+"Not royal, not royal, NOT ROYAL," she squeaked, leaves flapping, nothing at all to lean on.
 
-Manapua scratched his swirl-knot, thought about that very hard, and decided it did not make sense. (It did not.) He bounced sadly away.
+One shiny tear slid down her diamond cheek. A small pineapple, alone, in a very big light.
 
-By sunset, Pua stood entirely alone on the great wooden stage. Just her, and her crown, and the empty boards.
+---
 
-"Perfect," she breathed, gazing out at the gathering crowd below. "Finally. A stage fit for a queen."
+"Eh. Make room up there," rumbled a warm voice from the grass. "Queen needs her friends."
 
-The torches were lit. The music began. The whole island turned its eyes to the platform.
+Kalua wobbled up behind her, big and smoky. "Lean on me, sweet Pua. Plenty pig."
 
-Pua lifted her chin to its proudest, most royal, most **haʻaheo** height —
+Pua leaned. The wind pushed her gently into his soft side instead of off the stage.
 
-And that was exactly when it happened.
+Clik-clak. Mac popped up and braced her other side like a tiny stone. "Small but mighty."
 
-*Wobble.*
+BOING. Manapua landed in front, steam puffing. "I catch you if you fall, Pua!"
 
-A warm evening wind, soft and salty, came whooshing up off the sea. It rushed across the empty stage — with nobody beside her to break it, nothing to shelter her — and caught Pua's magnificent crown full in the leaves.
+Hugged on every side, her crown stopped wobbling. It flopped over one eye like a pirate hat.
 
-*WHOOSH.*
+The island laughed, the warm kind. The kind that says we love you, you ridiculous pineapple.
 
-The crown tipped. It slid. It flopped over sideways and hung there, crooked as a dropped umbrella, drooping straight down over one of Pua's eyes.
+---
 
-The crowd went silent.
+And Pua laughed too. "I had it upside down. I thought a crown made me a queen."
 
-Pua froze. "Don't panic," she whispered to herself. "A queen *never* panics." She tried to shake it back up. The crown only flopped to the *other* side. She tried to lean against the wind. There was nothing to lean on but air, and air, as you know, makes a very poor pillow.
+"Standing alone wasn't royal," said Pua. "It was just lonely. THIS is royal. All of you."
 
-She tried her royal wave to distract everyone, hoping nobody would notice. But waving with a crown over your eye only makes you look like you are saying goodbye to a wall, which is exactly what Pua looked like.
+"That's haʻaheo worth having," rumbled Kalua. "Proud of your **ʻohana** (oh-HAH-nah) = family, not your leaves."
 
-A gecko in the front row whispered, "Is that... is that supposed to look like that?"
+The singing began, crowded and warm, with crooked-crowned Pua in the snuggly middle.
 
-And Pua — proud, polished, royal Pua — felt her sparkle go all wobbly inside. Her bottom lip trembled. Standing alone, all alone, in the great bright spotlight, with her crown gone sideways and the whole island watching... she suddenly didn't feel like a queen at all.
+She tugged Mac to the very front. "Small but mighty gets the spotlight too." Mac turned sunrise pink.
 
-She felt like a very small pineapple who had nobody beside her.
+---
 
-"I—" she started. But her voice cracked. A single shiny tear rolled down her diamond-patterned cheek.
+Manapua bounced so hard he knocked a flower off Kalua's platter. Nobody minded.
 
-And then, from the dark grass below, came a soft, warm rumble.
+Later, torches low, Pua sat between Kalua and Mac, crown still crooked. She left it that way.
 
-"Eh. Make room up there. Queen needs her ʻohana."
-
-It was Kalua.
-
-He rolled up the ramp, slow and steady, and settled himself right beside her — big and smoky and warm. "Lean on me, sweet Pua," he murmured. "Plenty pig to lean on."
-
-Pua, too startled to argue, leaned. The wind pushed — and this time it pushed her gently into Kalua's soft, warm side instead of toppling her over.
-
-Then came a *pop!* Mac the Macadamia rolled up and braced himself against her other side. "Small but mighty, shell to heart," he said quietly, and though he was tiny, he held firm as a stone.
-
-Honu Haupia glided up next, her jiggly shell shimmering, and pressed close behind. "Slow flippers, far journeys," she said. "And no journey alone, keiki."
-
-And then — *boing, boing, BOING* — Manapua Mano bounced up the ramp in three enormous happy hops and squished himself in front of Pua, steam puffing with joy. "Soft on the outside, full of love inside!" he cried. "I catch you if you fall, Pua!"
-
-Pua looked around. She was no longer alone in the spotlight.
-
-She was *surrounded*. Hugged on every side by warm, soft, smoky, jiggly, pillowy, shell-hard friends — the very same friends she had shooed away all afternoon. And tucked safe in the middle of them, her crooked crown didn't wobble at all anymore. They held her steady.
-
-And here is the funny thing.
-
-With all her friends crowded close, glowing together in the torchlight, Pua's silly crooked crown suddenly looked... wonderful. It flopped jauntily over one eye like the hat of a pirate queen who'd had a marvelous adventure. The whole crowd burst out laughing — not a mean laugh, but the warm, delighted kind, the kind that says *we love you, you ridiculous wonderful pineapple.*
-
-And the strangest, sweetest thing happened in Pua's chest. The lonely, wobbly feeling melted clean away, and a different feeling bubbled up to take its place — a warm, glowing, fizzy feeling that started somewhere near her juicy heart and spread all the way out to the tips of her flopped-over leaves.
-
-For the very first time, Pua felt proud of something that wasn't her crown.
-
-And Pua, for the first time all evening, laughed too.
-
-"I think," she said slowly, looking at the friends pressed warm against her, "I had it all upside down. I thought a crown made me a queen." She gave a wobbly, watery, very un-royal smile. "But standing all alone wasn't royal. It was just... lonely."
-
-She tilted her crooked crown toward Kalua. "*This* is royal. All of you. Right here."
-
-"Now *that's* haʻaheo worth having," rumbled Kalua, and his belly-laugh shook the whole stage. "Proud of your ʻohana, not just your leaves."
-
-So the singing began at last — and this time the whole platform sang together, crowded and warm and glowing, with crooked-crowned Pua right in the snuggly middle of everyone. The torches danced. The macadamias clinked. Manapua bounced so hard he knocked sugar off three malasadas in the front row, and nobody minded one bit.
-
-Pua sang the loudest of all, even though she did not know all the words, and even though her crown bobbled along half a beat behind. She made the others scoot closer. She insisted that little Mac, who was always half-hidden in his shell, come right up front where the torchlight could find him. "Small but mighty deserves the spotlight too," she told him, and Mac turned the pleased pink of a sunrise. And when shy Honu Haupia tried to drift to the very back, Pua reached out a leaf and tugged her gently into the warm middle. "No queen stands without her elder," Pua said, and Honu's ancient eyes crinkled like the sea.
-
-And when the song was done, the island roared and clapped — not for the crown, but for the queen who had finally learned what crowns are really for.
-
-(They're for sharing the shade. Obviously.)
-
-Later that night, when the torches burned low and soft, Pua sat between Kalua and little Mac under a sky full of stars. Her crown was still crooked. She decided to leave it that way.
-
-"Crown up, sweetheart," she whispered to herself — but gently now, kindly now — and she closed her sleepy eyes, leaning warm against her friends, the proudest, happiest, *least* lonely pineapple on all of Oahu.
+"Crown up, sweetheart," she whispered, gently now, and leaned warm against her friends.
 
 ---
 
 ## Goodnight Blessing
-Little one, the moon is up and the torches are low, so it's time to let your sleepy eyes flutter closed. May your crown sit crooked and silly, and may you never, ever wear it alone. Remember that the truest royalty isn't shiny leaves or center stage — it's the warm ʻohana who lean in close and hold you steady when the wind blows. You are loved, you are surrounded, and you are never standing in the spotlight by yourself. So snuggle down, sweet keiki, and dream of golden hills and starry seas. Goodnight.
+The torches are low, let your sleepy eyes flutter closed. May your crown sit crooked and silly, and may you never wear it alone. You are loved, you are surrounded, you are never standing in the light by yourself. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration of a wooden luau stage at sunset on a Hawaiian hillside, golden torchlight glowing orange. Pua, a cheerful golden pineapple with a magnificent leafy green crown now flopped comically sideways over one eye, stands in the center being lovingly surrounded and held steady by her friends: a big smoky-golden roly-poly pig wrapped in ti leaves, a tiny smooth macadamia nut in a glossy shell, a wobbly snow-white coconut-pudding sea turtle, and a pillowy white steamed bun puffing happy steam. Everyone laughing warmly. Soft tropical palette of gold, green, coral, and dusky purple sky. Cozy, joyful, full of ʻohana warmth.
-2. Character portrait of Pua the Pineapple: a tall, regal golden pineapple with diamond-pattern skin and a sweet juicy sparkle, standing proudly with chin lifted and a fountain of glossy emerald-green crown leaves fanning up from her head. Big sparkly eyes, a dramatic flair, one leaf catching dewdrop sparkle. Warm storybook style, sunny plantation-row background, golden-hour light.
-3. Cozy closing scene under a deep starry night sky, torches burned low to soft embers. Pua the pineapple, crown still adorably crooked, sits snuggled between the big warm ti-leaf-wrapped pig and the tiny macadamia nut on the quiet wooden stage, eyes sleepy and content. Gentle moonlight, glowing warm tones, peaceful and tender bedtime mood.
+1. Key scene — warm whimsical storybook illustration of a wooden luau stage on a Hawaiian hillside at sunset, torches glowing orange: Pua, a golden pineapple with her leafy green crown flopped comically over one eye, sliding backward across the boards with leaves flapping like a sail in a gust of wind, a big smoky-golden pig wrapped in ti leaves wobbling up the ramp toward her, a tiny macadamia nut and a pillowy steamed bun bounding behind him, palette of gold, green, coral and dusky purple sky, silly and tender mood.
+2. Character portrait — Pua the Pineapple: a tall regal golden pineapple with diamond-pattern skin and a sweet juicy sparkle, chin lifted, a fountain of glossy emerald crown leaves fanning up from her head, big sparkly eyes, dramatic flair, one leaf catching a dewdrop sparkle. Warm storybook style, sunny pineapple-row background, golden light.
+3. Closing scene — the wooden stage at night with torches burned low to soft embers: Pua the pineapple, crown adorably crooked, snuggled between the big warm ti-leaf-wrapped pig and the tiny macadamia nut, a steamed bun dozing nearby, eyes sleepy and content. Gentle glow, warm tones, peaceful tender bedtime mood.
+
+## Animation Notes
+- **Cast:**
+  - `PUA` — Pua the Pineapple: a golden spiky pineapple with diamond-pattern skin and a tall green leaf-crown she treats like a royal headdress; voice: proud, regal, dramatic.
+  - `KALUA` — Kalua the Pig: a big soft smoky-golden roly-poly pig of pulled pork wrapped in green ti leaves, sleepy eyes, a curl of smoke rising from his back; voice: deep, slow, jolly.
+  - `MAC` — Mac the Macadamia: a tiny smooth round cream-colored nut in a glossy brown shell that snaps open and shut like a helmet, big shy eyes; voice: quiet, shy, brave.
+  - `MANO` — Manapua Mano: a round pillowy white steamed bun with a rosy steam-blush and a swirl-knot on top, puffs of steam; voice: bouncy, hungry, silly.
+- **Scenes:**
+  1. A sunny pineapple plantation hill on Oahu, tidy golden rows running down to a blue sea, bright morning light, a fence post, a dragonfly.
+  2. A wooden luau stage with a ramp at the edge of the plantation, afternoon light, unlit torches, flowers and lanterns being carried up.
+  3. The empty wooden stage at sunset, torches lit, a pink-and-orange sky, a gust of wind rippling the grass.
+  4. The same stage at sunset in a strong wind, the crown sideways, the edge of the boards close, torch flames leaning.
+  5. The stage at sunset with the friends braced around Pua in the torchlight, the island lawn below.
+  6. The stage at dusk, everyone crowded together singing, torches glowing warm.
+  7. The quiet stage at night, torches burned low to embers, friends leaning together.
+- **Budget:** 665 narrated words · 41 beats · 7 scenes · est. 4:54

@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A jingling Tokyo crane-game (UFO catcher) arcade
 **Theme:** Teamwork lifts what one alone cannot
-**Japanese Spotlight:** **issho ni** (ee-shoh nee) — together
+**Japanese Spotlight:** **Issho ni** (ee-shoh nee) — together
 
 ---
 
@@ -152,7 +152,7 @@ Momo squished the whole gang — and the bunny, and the still-confused mailbox �
 
 And from somewhere deep in the warm, giggly middle of the pile, a tiny floppy-eared voice said, "Best. Claw machine. EVER."
 
-By and by, the arcade lights dimmed one row at a time, and the machines blinked their last sleepy *bloop-bloops* like fireflies settling down for the night. Mochi-Usagi rode home tucked snug under Momo's taffy arm, both floppy ears already drooping with sleep. The friends wandered out into the quiet, lantern-lit street, yawning in a happy little chain — Rin first, then Dai, then everyone — their footsteps and rolls and wobbles growing slower and softer all the way home.
+By and by, the arcade lights dimmed one row at a time, and the machines blinked their last sleepy *bloop-bloops* like fireflies settling down for the night. Mochi-Usagi rode home tucked snug under Momo's taffy arm, both ears already drooping with sleep. The friends wandered out into the quiet, lantern-lit street, yawning in a happy little chain — Rin first, then Dai, then everyone — their footsteps and rolls and wobbles growing slower and softer all the way home.
 
 ---
 
@@ -162,4 +162,4 @@ Little dreamer, the biggest things in the world are never lifted by one pair of 
 ## AI Image Prompts
 1. Key scene — warm whimsical storybook style, soft glowing arcade lighting in pink and gold: a glossy two-tone gachapon capsule with a cheerful grin spins beside a tall claw machine, while a round crimson daruma leans on the joystick, a proud salmon-caped nigiri presses a big red button, a steaming ramen bowl spots through the glass, and a pillowy peach-cheeked mochi cheers; the metal claw lifts a tiny floppy-eared gray plush bunny up through a glittering pile of plushies; cozy, triumphant, sparkly mood.
 2. Character portrait — Gacha the Gachapon, a glossy two-tone capsule (top half clear-pastel, bottom half bright) with a wide surprise-filled grin and bright curious eyes, mid-roll with a little motion trail of sparkles, tiny mochi treasures peeking from the seam; playful, mysterious, kawaii lighting against a soft bokeh arcade background.
-3. Closing scene — soft warm nightlight glow: a giant cozy group hug of dessert friends (snow-white mochi with taffy arms wrapping everyone, ramen bowl, nigiri, daruma, matcha bowl-friend, and the round gachapon capsule) all squishing around a tiny rescued plush bunny with floppy ears and a stitched smile; gentle, sleepy, heart-full mood with little floating sparkles.
+3. Closing scene — soft warm nightlight glow: a giant cozy group hug of dessert friends (snow-white mochi with taffy arms wrapping everyone, ramen bowl, nigiri, daruma, matcha bowl-friend, and the round gachapon capsule) all squishing around a tiny rescued plush bunny with one floppy ear and a stitched smile; gentle, sleepy, heart-full mood with little floating sparkles.

@@ -20,13 +20,13 @@ Then she heard the shivering.
 
 It was a whole crowd of shivering, actually. Yuki paddled to the wooden edge of the bath and peeked over the rim, and there — bunched up in the snow like a sad little snowball convention — stood her friends.
 
-There was Momo Mochi, pillowy and white, hugging herself so hard she'd squished into the shape of a dumpling. There was Tama Onigiri, his nori sash gone droopy, clutching a thermos he'd already drunk empty. There was Maru Matcha, calm even while frosty, her matcha-cream swirl wearing a tiny snow-hat. And there was Mero Melonpan, the sleepy melon-bread, who had simply lain down in a drift and begun to dream.
+There was Momo Mochi, pillowy and white, hugging herself so hard she'd squished into the shape of a dumpling. There was Tama Onigiri, her nori sash gone droopy, clutching a thermos she'd already drunk empty. There was Maru Matcha, calm even while frosty, her matcha-cream swirl wearing a tiny snow-hat. And there was Mero Melonpan, the sleepy melon-bread, who had simply lain down in a drift and begun to dream.
 
 "Y-Yuki," chattered Momo, "h-how are you so WARM? You look like a marshmallow on vacation!"
 
 "Because I am IN the bath, silly!" Yuki laughed. "Come in! Come in, come in!"
 
-"We *would*," said Tama, "but we don't know the rules. There are rules at an onsen, aren't there? Niko always says there are rules. I don't want to do it wrong."
+"We *would*," said Tama, "but we don't know the rules. There are rules at an **onsen** (ohn-sen) — hot spring — aren't there? Niko always says there are rules. I don't want to do it wrong."
 
 Maru nodded slowly, breathing out a little cloud. "Whisk slow. Feel calm. But also — what do we do with our feet?"
 
@@ -62,7 +62,7 @@ Then she handed each of them a folded little taoru, and one by one, very serious
 
 And reader, I will tell you the truth: they looked ridiculous.
 
-Momo's towel kept sliding off her squishy head because she was too squishy — it would balance for a moment, then go *slooop* down one side of her face like a tiny waterfall, and she'd squeak and put it back, and it would *slooop* again. Tama balanced his perfectly, which made his round face look like a tiny rice ball wearing a tiny mattress. Maru's towel sat on top of her cream swirl like a hat on a hat, which she declared "structurally interesting." And Mero simply fell asleep with his towel over his eyes, snoring the gentlest *crackle-snore* in all of Japan, a happy little crumb-sparkle drifting off him into the steam.
+Momo's towel kept sliding off her squishy head because she was too squishy — it would balance for a moment, then go *slooop* down one side of her face like a tiny waterfall, and she'd squeak and put it back, and it would *slooop* again. Tama balanced hers perfectly, which made her round face look like a tiny rice ball wearing a tiny mattress. Maru's towel sat on top of her cream swirl like a hat on a hat, which she declared "structurally interesting." And Mero simply fell asleep with his towel over his eyes, snoring the gentlest *crackle-snore* in all of Japan, a happy little crumb-sparkle drifting off him into the steam.
 
 "I feel," said Tama solemnly, "very, very wise."
 
@@ -84,7 +84,7 @@ Yuki's eyes went wide. "Is that... a CHALLENGE?"
 
 "It's a challenge," said Maru, who had not been challenged but wanted to be included.
 
-"It's a taoru contest!" cried Tama, sitting up so fast his towel slid down over one eye, which made him look like a tiny pirate of comfort. "Last towel on a head WINS!"
+"It's a taoru contest!" cried Tama, sitting up so fast her towel slid down over one eye, which made her look like a tiny pirate of comfort. "Last towel on a head WINS!"
 
 "Wins WHAT?" asked Momo.
 
@@ -106,7 +106,7 @@ Then Yuki, who was a tiny bit cheeky like a real snow monkey, blew a little stre
 
 Momo giggled. Momo's giggle wobbled her squishy body. Momo's wobble wobbled her towel. "No fair!" she squealed, scrunching up her face to keep it on — which only made her wobblier — and at last her little towel went *flump* into the water and she dissolved into laughter. "I'm OUT! I'm out, I'm out, I can't, you're too funny!"
 
-"One down!" said Tama. But Tama was laughing too now, and laughing is *terrible* for towel balance. His slid one way, then the other, then off entirely, and he flopped backward into the warm water with a delighted *splash*. "I packed extra towels just in case," he announced from underwater, blowing bubbles, "but I think I lost on purpose because this is the best."
+"One down!" said Tama. But Tama was laughing too now, and laughing is *terrible* for towel balance. Hers slid one way, then the other, then off entirely, and she flopped backward into the warm water with a delighted *splash*. "I packed extra towels just in case," she announced from underwater, blowing bubbles, "but I think I lost on purpose because this is the best."
 
 That left Maru and Yuki.
 

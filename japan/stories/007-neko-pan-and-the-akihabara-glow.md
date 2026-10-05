@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** The bright electric streets of Akihabara, Tokyo
 **Theme:** Sharing your luck multiplies it
-**Japanese Spotlight:** **Maneki-neko** (mah-neh-kee neh-koh) — beckoning lucky cat
+**Japanese Spotlight:** **maneki-neko** (mah-neh-kee neh-koh) — beckoning lucky cat
 
 ---
 
@@ -54,7 +54,7 @@ Neko-Pan only bounced higher. Because Neko-Pan had a secret, and the secret was 
 
 Down the next alley, Neko-Pan found a claw machine.
 
-Now, you and I both know claw machines are the trickiest, slipperiest, most ticklish contraptions ever invented. This one was packed with tiny stuffed mochi-toys, all squished up against the glass with hopeful little faces. And in front of it stood a small girl — well, a small *gyoza* dumpling-girl, with crimped pleats around her edges like a fancy collar — who had spent her very last coin and won absolutely nothing.
+Now, you and I both know claw machines are the trickiest, slipperiest, most ticklish contraptions ever invented. This one was packed with tiny stuffed mochi-toys, all squished up against the glass with hopeful little faces. And in front of it stood a small girl — well, a small **gyoza** (gyoh-zah) dumpling-girl, with crimped pleats around her edges like a fancy collar — who had spent her very last coin and won absolutely nothing.
 
 "Nine tries," the gyoza-girl sniffled, her crimped pleats drooping. "Nine! The claw always lets go at the last second. It scoops up the prize, it lifts it up high, my heart goes *whee* — and then *ploop*, it drops it. Every single time. I think it *hates* me. I think this claw was built specifically to break dumpling hearts."
 

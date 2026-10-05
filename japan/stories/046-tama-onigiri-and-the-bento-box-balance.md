@@ -1,119 +1,137 @@
 # Story 46: Tama Onigiri and the Bento-Box Balance
 
 **Main Character:** Tama Onigiri
-**Guest Characters:** Kori Kakigori, Coro the Korokke, Maru Matcha, the Dango Three (Pinku, Shiro, Cha)
+**Guest Characters:** Kori Kakigori, Coro the Korokke, the Dango Three (Pinku, Shiro, Cha)
 **Setting:** A schoolyard picnic with colorful packed bento lunches
 **Theme:** A little of everything makes the happiest lunch
 **Japanese Spotlight:** **bentou** (behn-toh) — packed lunch box
 
 ---
 
-The morning bell hadn't even finished bonging when Tama Onigiri waddled into the schoolyard with not one, not two, but FIVE little lunch boxes stacked on her round-shouldered back like a wobbling tower of presents. She was a plump triangle of warm white rice, snug under her crisp black nori sash, with a tiny pickled-plum blush glowing on one cheek. The tower swayed left. It swayed right. Tama hummed a happy little tune and swayed with it, because if you can't beat the wobble, you might as well dance with it.
+The morning bell was still bonging when Tama Onigiri wobbled into the sunny schoolyard.
 
-"I packed a little extra, just in case!" she announced, which was the truest thing anyone had ever said, because Tama always packed extra. Extra rice. Extra smiles. Extra napkins shaped like tiny rabbits.
+On her round rice shoulders rode FIVE little lunch boxes, stacked like a tower of presents.
 
-Today was Picnic Day. Every friend in the whole schoolyard was supposed to bring a **bentou** (behn-toh) — a packed lunch box — and lay it out on the big checkered blanket, and share. Tama had been looking forward to it for a whole week.
+The tower swayed left. It swayed right. Tama hummed a tune and swayed along with it.
 
-There was just one teeny problem. Nobody else's lunch box looked quite right yet.
+"I packed a little extra," she announced to a passing sparrow, "just in case!"
 
----
+The sparrow had not asked. The sparrow flew off anyway, looking slightly worried.
 
-When Tama set her tower down on the picnic blanket, she could already hear the grumbling drifting across the schoolyard like little storm clouds. And grumbling, on Picnic Day, simply would not do.
+Today was Picnic Day. Tama wanted one thing: a checkered blanket full of happy, munching friends.
 
-She waddled over to the first storm cloud. It was Kori Kakigori, the towering mountain of fluffy shaved ice, sunglasses perched on top, slumped beside a lunch box so red it practically glowed.
-
-"Kori? What's in your bento?" Tama asked.
-
-Kori flung open the lid with a dramatic gasp. Inside was strawberry syrup. Just... strawberry syrup. A whole box of it, sloshing sadly. "It's the COOLEST lunch, sweetie," Kori sniffed, though one drip was already melting down his side. "Strawberry, strawberry, and — for variety — MORE strawberry."
-
-"That does sound very pink," Tama said kindly. "But after three bites, won't your tongue get a little... bored?"
-
-Kori's sunglasses slid down in horror. "Bored? A diva is NEVER bored." A pause. A drip. "...Okay, maybe a little bored."
-
-Tama plopped down beside him and opened her own bento. "Here's a secret my grandmother taught me. A good lunch is like a good day. You want a little sweet, a little salty, a little crunchy, a little soft. A little of everything!" She tucked a single salty umeboshi plum into Kori's box of syrup, right in the middle, like a tiny ruby button.
-
-Kori eyed it suspiciously. He took a nibble. His whole frosty mountain shivered with delight. "OH. The salty makes the sweet taste EVEN sweeter! Tama, you GENIUS. I could just MELT." And he did, a little, but happily.
-
-"One down," Tama whispered to herself, doing a tiny triangular victory wiggle. "Four storm clouds to go."
+Every friend was bringing a **bentou** (behn-toh) — a packed lunch box — to share.
 
 ---
 
-The next grumble belonged to Coro the Korokke, the crispy golden croquette, who was puffing little nervous steam-clouds over a bento absolutely crammed with fried things. Fried potato. Fried corn. A fried thing that may once have been another, smaller fried thing.
+But the first friend on the blanket sat slumped beside a box so red it glowed.
 
-"It's all crunchy," Coro fretted, releasing a worried *poof* of steam. "Crispy outside, soft heart inside — that's my whole motto! So I made it ALL crispy. But now my mouth feels like a gravel road."
+Kori Kakigori, a mountain of shaved ice in sunglasses, flung open the lid with a gasp.
 
-Tama patted his crunchy shoulder. "Crunchy is wonderful, Coro. But every crunch needs something cool and soft to land on, the way a jumping frog needs a soft lily pad." She nestled a cool slice of cucumber and a little mound of fluffy white rice beside his fried mountain.
+Inside sloshed strawberry syrup. Only strawberry syrup. A whole box of it, sloshing sadly.
 
-Coro took a careful bite — *crunch*, then *soft*. His steam puffed out in the shape of a happy heart. "It's like... a trampoline for my teeth!"
+"Strawberry, strawberry, and, for variety, MORE strawberry," sniffed Kori. "It's the COOLEST lunch, sweetie."
 
-"Exactly!" laughed Tama. "Now your bento has somewhere to BOUNCE."
+"After three bites," said Tama kindly, "won't your tongue get a little bored?"
 
----
-
-By now a small crowd had gathered, because nothing draws a hungry crowd like the sound of someone enjoying their lunch. Maru Matcha drifted over, calm as ever, her frothy green-cream swirl jiggling gently and her tiny bamboo whisk tucked under one arm.
-
-"Whisk slow. Feel calm," Maru said in her deadpan, cozy way. Then she opened her bento and even *she* sighed. It was entirely green. Green tea jelly, green edamame, green melon, green pickles, and one very green leaf that Tama was fairly sure was just decoration.
-
-"I find green soothing," Maru explained. "But my friends say my lunch looks like a very tidy garden that fell into a pond."
-
-A few giggles rippled through the crowd. Maru gave the smallest, calmest smile.
-
-"It's a beautiful garden," Tama agreed warmly. "But you know what a garden needs? A little sunshine, and a little sunset." She tucked a bright golden square of tamagoyaki — sweet rolled egg — on one side, and a cheerful orange cherry tomato on the other.
-
-Maru regarded the new colors with her half-moon eyes. "Yellow like morning. Red like evening. Green like everything in between." She took a slow, thoughtful bite, and her cream-swirl gave a satisfied little wobble. "...My garden has a sky now. Thank you, Tama."
+Kori's sunglasses slid down in horror. "A diva is NEVER bored." A drip. "Okay. Slightly."
 
 ---
 
-But just as Tama was feeling rather proud of herself, the biggest grumble of all rolled up. It was the Dango Three — Pinku, Shiro, and Cha — three round dumplings stuck on one stick, pivoting in furious little circles like a tiny carousel that couldn't agree which way to spin.
+Beside him, Coro the Korokke puffed nervous steam over a box crammed with fried things.
 
-"We can't AGREE!" announced Pinku, the bold pink one. "I want a SWEET bento!"
+Fried potato. Fried corn. A fried thing that had once been a smaller fried thing.
 
-"I want a small bento," whispered Shiro, the shy white one. "Sweet is too much. What if it's too much?"
+"It's ALL crunchy," fretted Coro. "My mouth feels like a gravel road."
 
-"You're both wrong," said clever green Cha. "We should pack the *efficient* bento. One food. Maximum nutrition. No nonsense."
+Then the Dango Three arrived, three dumplings on one stick, tugging three different ways.
 
-And because they were stuck on one stick, none of them could pack a thing. They just spun and spun and spun until they nearly drilled themselves into the picnic blanket.
+"SWEET bento!" said Pinku, the bold pink one.
 
-The whole schoolyard went quiet. Even Kori stopped melting to watch.
+"Small bento," whispered Shiro. "What if sweet is too much?"
 
-Tama took a deep, calm breath, the way Maru had taught everyone, and waddled right up to the spinning trio. "Friends," she said gently, "you can't make one bento that's ONLY sweet, or ONLY small, or ONLY efficient. But you CAN make one bento with a little bit of all three."
+"Efficient bento," said Cha. "One food. No nonsense."
 
-The Dango Three slowed to a confused stop.
+Stuck on one stick, none of them could pack a thing. Tama sighed a rice-scented sigh.
 
-Tama held up her own bento — the one she'd been carefully building all morning — and tilted it so everyone could see inside. And oh, what a bento it was! There was a fluffy white rice ball, of course (Tama always brought herself a cousin or two for company). There was Kori's ruby plum. Coro's cool cucumber. Maru's golden egg and sunset tomato. A few of Pinku's sweet candied beans, one of Shiro's perfectly small bites, and a tidy, efficient row of Cha's edamame lined up like little green soldiers.
+---
 
-"Look," said Tama softly. "I didn't pick just ONE friend's favorite. I picked a little bit of EVERYONE'S. And THAT is the most wonderful lunch I've ever seen."
+That was when the big schoolyard wind came galloping across the grass. WHOOSH.
 
-The Dango Three leaned in close on their stick. Pinku saw her sweet beans. Shiro saw his small, gentle bite. Cha saw his efficient little soldiers. All three, in one box, side by side.
+Tama's tower of five lunch boxes leaned, leaned, and leaped right off her shoulders.
+
+The boxes bounced down the grassy slope toward the sandbox, lids flapping like wings.
+
+"My extras!" cried Tama, and wobbled after them, the fastest a triangle has ever gone.
+
+Kori slid after them on his own syrup puddle. "COOLEST exit EVER!"
+
+The Dango Three tried to chase, pulled three ways, and fell over sideways. Plop.
+
+---
+
+At the bottom, the boxes crashed into one another and burst open. Fried things flew.
+
+Syrup splashed. Rice tumbled. A pickled plum landed in the syrup like a tiny ruby button.
+
+A cool cucumber slice flopped onto Coro's fried potato. Everything landed in ONE box.
+
+Tama arrived, panting. Kori nibbled the plum from the syrup. His whole mountain shivered.
+
+"OH," said Kori. "The salty makes the sweet taste SWEETER. I could just MELT." He did, slightly.
+
+Coro bit a potato with cucumber on top. Crunch, then soft. His steam puffed a heart.
+
+"It's like a trampoline for my teeth!" said Coro.
+
+---
+
+The Dango Three wobbled over, still arguing, and peered into the one tumbled box.
+
+Sweet beans by the syrup. One small bite of rice. A tidy row of edamame.
 
 "It's... sweet," said Pinku.
 
-"And small enough," said Shiro.
+"And small enough," whispered Shiro.
 
-"And really quite efficient," admitted Cha. "Each bite does several jobs at once. I respect that."
+"And efficient," admitted Cha. "Each bite does several jobs at once. I respect that."
 
-And for the very first time all morning, the three of them stopped spinning and pointed the same direction — straight at lunch.
+For the first time all morning, all three dumplings pointed the same way: straight at lunch.
+
+"A little of everything," said Tama. "The happiest bentou I ever packed. Well. The wind packed it."
 
 ---
 
-So that became the rule of the Picnic Day blanket, then and forever after. Everyone brought their bento and tipped a little something into the great big shared box in the middle. Kori added salty-sweet plums. Coro added crunchy-soft croquette bites. Maru added a slice of sunshine and a slice of sunset. The Dango Three added one sweet, one small, and one tidy treasure.
+So they feasted on the warm grass, passing the great tumbled box around and around.
 
-And Tama? Tama added the rice — soft, warm, white, and plain, the cozy blanket that held every flavor together. "Plain isn't boring," she told the crowd, her plum cheek glowing. "Plain is what lets everybody ELSE shine. Every bento needs a place to rest."
+Kori sighed the happiest sigh a melting mountain ever sighed. "COOLEST lunch. Whole frosty heart."
 
-They feasted until the sun was warm and high, passing the great shared box around the checkered blanket, and not a single friend got bored of their lunch, because every single bite was a tiny surprise. Salty. Sweet. Crunchy. Soft. Green like a garden. Gold like the morning. A little bit of everyone, all stuck together for good.
+Tama leaned back on her round shoulders and watched the crumbs sparkle in the sunshine.
 
-Kori sighed the happiest sigh a melting mountain has ever sighed. "This," he declared, sunglasses sparkling, "is the COOLEST lunch I have ever eaten. And I mean that with my whole frosty heart."
-
-Tama leaned back on her round shoulders, pleasantly full and pleasantly proud, and watched the crumbs sparkle in the sunshine. Five storm clouds gone, and one perfect, balanced, wonderfully wobbly bento for everybody to share.
-
-"I knew I packed extra," she said with a sleepy, satisfied smile, "just in case."
+"I knew I packed extra," she yawned, "just in case."
 
 ---
 
 ## Goodnight Blessing
-Little one, may your days be like the very best bento — a little sweet, a little salty, a soft place to land and a fun surprise in every corner. May you remember that you don't have to be just one thing, because the happiest lunches, and the happiest hearts, hold a little of everything they love. Snuggle down now, warm as fresh rice, cozy as a sash of nori, safe as a lunch box packed by someone who loves you. There is room in tomorrow for all your favorite flavors, and a friend to share each one. Close your eyes, sweet dumpling, and drift toward the sunrise. Goodnight.
+May your days be like the best bentou: a little sweet, a little salty, a soft place to land. You never have to be just one thing. Snuggle down, warm as rice, and dream of every flavor you love. Goodnight.
 
 ## AI Image Prompts
-1. A warm, whimsical storybook scene on a big red-and-white checkered picnic blanket in a sunny schoolyard, soft golden-hour light, gentle painterly textures. In the center, a great big open bento box brimming with colorful food — a fluffy white rice ball, a ruby pickled plum, cool green cucumber, a bright golden rolled-egg square, an orange cherry tomato, and a tidy row of edamame. Adorable food characters gathered around in delight: a towering strawberry shaved-ice friend with sunglasses, a crispy golden croquette puffing a tiny heart of steam, a jade-green matcha friend with a cream swirl, and three little dumplings on a stick. Cozy, joyful, kawaii. Palette of warm reds, soft greens, buttery golds, and creamy whites.
-2. Character portrait of Tama Onigiri: a plump, cozy triangle of warm white rice with a single crisp black nori band like a sash, a tiny pickled-plum pink blush on one round cheek, gentle smiling eyes, round little shoulders. She balances a tall wobbling tower of five tiny colorful lunch boxes on her back, swaying happily mid-step, mid-hum. Soft storybook lighting, warm cream background, kawaii and huggable.
-3. Cozy closing scene: late-afternoon sun spilling gold across the picnic blanket, the great shared bento box now happily half-empty, sparkling crumbs catching the light. Tama Onigiri leans back contentedly on her round shoulders with a sleepy, satisfied smile, plum cheek glowing, surrounded by full and dozing friends. Peaceful, warm, drowsy storybook mood — soft amber and rose tones, the gentle hush of a perfect picnic ending.
+1. Key scene — warm whimsical storybook illustration in bright morning light: five little lunch boxes bouncing down a grassy schoolyard slope with their lids flapping, Tama Onigiri (a plump triangle of white rice with a black nori sash and a pink plum blush) wobbling after them, Kori Kakigori (a tall strawberry shaved-ice mountain in sunglasses) sliding on a puddle of pink syrup, Coro the Korokke (a crispy golden croquette) puffing steam behind, three dumplings on a stick toppled sideways in the grass. Palette of cherry red, buttery gold, cream and spring green; joyful, kinetic, kawaii.
+2. Character portrait — Tama Onigiri: a plump cozy triangle of warm white rice with a single crisp black nori band like a sash, a tiny pickled-plum pink blush on one cheek, gentle smiling eyes, round little shoulders, balancing a tall swaying tower of five colorful lunch boxes on her back, mid-hum, one arm up for balance. Soft storybook lighting, warm cream background, huggable.
+3. Closing scene — bright noon sun on a schoolyard lawn beside a sandbox: one big tumbled bento box, half-empty, brimming with rice, a ruby plum, cucumber, golden fried bites and a row of edamame, crumbs sparkling in the grass. Tama leans back contentedly, plum cheek glowing, Kori melting happily beside her, Coro dozing with a tiny heart of steam, the Dango Three leaning together on their stick. Drowsy, warm, amber-and-rose picnic afterglow.
+
+## Animation Notes
+- **Cast:**
+  - `TAMA` — Tama Onigiri: a plump triangle of warm white rice with one crisp black nori sash and a pink pickled-plum blush on one cheek, round little shoulders; voice: cozy, snacky, motherly.
+  - `KORI` — Kori Kakigori: a tall fluffy mountain of shaved ice drizzled with ruby strawberry syrup and a condensed-milk swirl, sunglasses perched on top, always one drip from melting; voice: dramatic, flamboyant, diva.
+  - `CORO` — Coro the Korokke: a crispy golden-breaded oval with fluffy mashed potato inside, a little steam puff when nervous; voice: humble, flustered, warm.
+  - `DANGO` — the Dango Three: three round dumplings on one stick, pink Pinku, white Shiro, green Cha, who tug and tilt as one; voice: bickering, quick, sweet.
+- **Scenes:**
+  1. A sunny schoolyard in morning light: a big red-and-white checkered blanket on green grass, a grassy slope running down to a sandbox.
+  2. The checkered blanket, close: a glowing red lunch box of strawberry syrup, Kori slumped beside it in his sunglasses.
+  3. The blanket: a box crammed with golden fried things and Coro puffing steam, the Dango Three on their stick beside it.
+  4. The schoolyard as the wind hits: five lunch boxes leaping off Tama's shoulders and bouncing down the grassy slope.
+  5. The bottom of the slope by the sandbox: burst boxes, pink syrup, rice and fried things all tumbled into one big box.
+  6. The same spot, the one tumbled box held up and tilted, the Dango Three peering in.
+  7. The warm schoolyard lawn in bright noon sun, the shared box half-empty, crumbs sparkling.
+- **Budget:** 651 narrated words · 45 beats · 7 scenes · est. 4:51

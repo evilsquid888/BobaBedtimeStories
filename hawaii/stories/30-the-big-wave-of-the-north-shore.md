@@ -1,135 +1,135 @@
 # Story 30: The Big Wave of the North Shore
 
 **Main Character:** Musubi Manu
-**Guest Characters:** Poke Pua, Finnegan Flipsworth
+**Guest Characters:** Poke Pua; Finnegan Flipsworth, a round penguin in surf shorts; Kimo, a sand crab who keeps things
 **Setting:** The famous giant winter waves of Oahu's North Shore
 **Theme:** Bravery is being scared and helping anyway.
-**Hawaiian Spotlight:** makaukau (mah-kow-KOW) = ready
+**Hawaiian Spotlight:** **makaukau** (mah-kow-KOW) = ready
 
 ---
 
-Musubi Manu had a checklist, and the checklist had a checklist.
+The North Shore in winter, where the ocean likes to show off.
 
-"Sunscreen?" he asked himself, patting his crisp black **nori** (NO-ree) = seaweed seatbelt. "Check. Snack? Check. Backup snack for the snack? Check, check." He tightened his tiny bento backpack and looked out at the North Shore, where the winter ocean was doing something Musubi did not approve of.
+Waves rose like green glass houses and folded over with a WHOOMP you felt in your rice.
 
-It was showing off.
+On the sand stood Musubi Manu, square and tidy, checking a checklist that had its own checklist.
 
-The waves out here weren't ordinary waves. They were **nalu** (NAH-loo) = waves the size of houses — green glass walls that curled up, up, UP, then folded over with a *WHOOMP* that you could feel in your rice. Surfers called these waves "giants." Musubi called them "a very firm no, thank you."
+"Sunscreen, check. Snack, check. Backup snack for the snack," said Manu. "Check, check."
 
-"I will watch from the sand," he announced to nobody. "Watching is also a sport. Probably."
+"Those are **nalu** (NAH-loo) = waves the size of houses," said Manu. "A very firm no, thank you."
 
-That was the plan. Musubi loved a plan.
+"I will watch from the sand," he announced. "Watching is also a sport. Probably."
 
-The ocean, sadly, did not.
+---
 
-The main narrative began, as most adventures do, with a friend who hadn't read the checklist. Poke Pua came zipping down the beach, her wide rice-bowl body sloshing with glistening ruby ahi cubes, kelp-strand hair flying behind her like ribbons. She had a brand-new surfboard tucked under one arm, painted with sesame stars.
+Down the beach zipped Poke Pua, ahi cubes sloshing, kelp hair flying, surfboard painted with sesame seeds.
 
-"Manu! MANU!" she called, arranging her edamame freckles into her most confident grin. "Today's the day. I'm going to surf the big nalu. Fresh from the sea, that's me!"
+"Manu! Today I surf the BIG nalu," she sang. "Fresh from the sea, that's me!"
 
-"Today you are going to surf the *small* nalu," Musubi corrected, holding up a laminated card. "I made you a chart. See? Green waves: yes. House-sized waves: extremely no."
+Manu held up a laminated card: a small wave with a smile, a huge wave with a frown.
 
-"You laminated a *fear chart*?"
+"You laminated a FEAR chart?" said Pua.
 
-"It's a *safety* chart," Musubi said, a little wounded. "Fear charts are at the gift shop."
+"It's a SAFETY chart," said Manu, wounded. "Fear charts are at the gift shop."
 
-Poke Pua laughed, hugged him so hard a sesame seed popped off, and paddled out before he could read her the fine print. And for a while — a lovely, gravy-smooth while — everything was fine. She caught a few mid-sized waves, arranging her seaweed ribbons *just so* on every ride, hollering "Did you SEE that?" each time she kicked out.
+Pua paddled out before the fine print. "Very tidy surfing!" Manu called. "Excellent posture!"
 
-Musubi clapped from the sand with his neat little rice hands. "Very tidy surfing," he called. "Excellent posture!"
+---
 
-Then the ocean took a deep breath.
+Then the ocean took a deep breath. The water slid back like a yanked blanket.
 
-You could feel it happen. The water pulled *back*, sliding away from the sand like a blanket yanked off a bed, and far, far out, a wave began to rise that made all the other waves look like puddles. It was a giant of giants. It was the kind of wave that gets its own name and its own legend. The surfers on the beach went quiet and pointed.
+Far out, a wave began to rise that made every other wave look like a puddle.
 
-And Poke Pua — brave, bold, *just-a-little-too-confident* Poke Pua — was paddling straight toward it.
+And it was towing Pua's board straight toward it, like a leaf down a river.
 
-"No no no no," Musubi whispered. "That's not on the chart. THAT IS NOT ON THE CHART."
+"Manu!" came her thin voice. "It's pulling me! I'm in trouble!"
 
-She didn't mean to. The pull of the water had grabbed her board and was towing her out toward the monster like a leaf in a river. She paddled backward as hard as she could, ahi cubes bouncing, but the ocean was bigger than her arms.
+"That is NOT on the chart," whispered Manu. "THAT IS NOT ON THE CHART."
 
-"MANU!" Her voice came thin across the water. "Manu, I can't — it's pulling me — I think I'm in trouble!"
+He tried lassoing her with his backpack strap. It landed on Kimo the crab, who kept it.
 
-Musubi's whole rice-block body went cold.
+His rice knees shook. "I'm scared," said Manu. "Extremely, totally, completely scared."
 
-Here is the thing you need to know about Musubi Manu. He was sturdy. He was square. He was the friend who carried the band-aids and the map and the emergency mochi. He was *not*, he was very sure, the friend who charged into a wall of water taller than a coconut tree.
+Then he picked up the spare board anyway.
 
-His knees — if rice can be said to have knees — were shaking.
+---
 
-"I'm scared," he said out loud, surprised to hear it. "I am extremely, totally, completely scared."
+"Are you **makaukau** (mah-kow-KOW) = ready?" he asked himself. "No. But I'm going."
 
-And then he picked up the spare board anyway.
+He flopped belly-first onto the board, not graceful, just determined. His backpack filled with sea.
 
-Because somewhere under the nori seatbelt and the laminated charts and the backup-snack-for-the-snack, Musubi Manu had a heart. And his heart had already decided. It had decided the moment Poke Pua said *I think I'm in trouble*, and his feet were just catching up.
+"I know it's too big! I read the chart!" shouted Manu, paddling harder. "I MADE the chart!"
 
-"Okay," he breathed, dragging the board to the water's edge. The cold foam rushed over him. "Okay, Manu. Are you **makaukau** (mah-kow-KOW) = ready?"
+SPLOOSH. A black-and-white shape rocketed up out of the deep, flippers spread wide.
 
-He looked at the giant wave. The giant wave looked back.
+"Cannonball check-in!" hollered Finnegan Flipsworth, a round penguin in surf shorts. "I heard yelling. I LOVE yelling."
 
-"No," he admitted. "But I'm going."
+Finnegan looked up at the nalu. His beak squeaked. "Oh. Big one. Are we doing it anyway?"
 
-He flopped onto the board belly-first — not graceful, not tidy, just *determined* — and paddled. Salt stung his spam blanket. His backpack filled with seawater. He paddled past the point where his chart said *extremely no*, past the point where his heart hammered like a drum, paddling and paddling toward his friend, who was now a tiny speck against the rising green wall.
+---
 
-"MANU!" Poke Pua cried, half relieved, half horrified. "Go back! It's too big!"
+"We ride it WITH her," said Manu. "Steer out the side before it breaks."
 
-"I know!" Musubi shouted, paddling harder. "I read the chart! *I made the chart!*"
+"I'm scared!" announced Finnegan proudly, like a prize he'd won. "Let's GO!"
 
-That was when a sleek black-and-white shape rocketed up out of the deep beside them, spraying foam in every direction.
+The giant lifted them up its smooth green face like an elevator made of ocean.
 
-"Cannonball check-in!" hollered a cheerful voice. It was **Finnegan Flipsworth**, a round little penguin in surf shorts, his flippers spread wide and his eyes sparkling with the joy of someone who has *never once* read a safety chart in his life. "I heard yelling and I LOVE yelling. What are we yelling about?"
+From the top they saw the whole North Shore: sand, palms, a rainbow hanging in the spray.
 
-"The wave!" said Musubi and Poke Pua together.
+"NOW!" shouted Manu. They dropped.
 
-Finnegan turned, took one look at the towering nalu, and his beak made a tiny squeak. "Oh," he said. "Oh, that's a *big* one. That's the kind of wave my Auntie warned me about. She said never to surf a wave bigger than a — well, bigger than *that*, basically." He gulped. Then he grinned a wobbly grin. "Are we doing it anyway?"
+The wave curled over their heads into a glittering blue-green tunnel of moving water.
 
-"I think we *have* to," said Musubi, his voice shaking but his eyes steady. "Poke Pua's stuck in the pull. If we ride the wave *with* her, all three of us together, we can steer her out the side before it breaks. But we have to be fast. And we have to be — " he swallowed " — brave."
+"WE'RE IN THE BARREL!" screamed Pua. "Fresh from the sea, that's US!"
 
-Finnegan's little chest puffed up. "I'm scared," he announced proudly, as if it were a prize he'd won. "Let's GO!"
+"Lean LEFT! Wrapped up and READY!" yelled Manu. They shot out the open end onto soft sand.
 
-And here is the part the surfers on the beach still talk about.
+---
 
-The giant wave rose beneath them, lifting all three friends up its smooth green face like an elevator made of ocean. Up and up — until they could see the whole North Shore spread out behind them, the sand, the swaying palms, the rainbow misting in the spray. It was, Musubi realized, breathtakingly beautiful. Terrifying *and* beautiful, both at once, which is a feeling grown-ups have a hundred times a day and almost never mention.
+Finnegan wore a strand of kelp like a little green wig. Pua's freckles had relocated.
 
-"NOW!" Musubi shouted.
+Finnegan stood, slipped on seaweed, sat back down. "I meant to do that," he said.
 
-They dropped.
+They laughed until Pua got the hiccups, and every hiccup popped another sesame seed loose.
 
-Down the face of the giant they flew — Poke Pua in the middle, Musubi on one side gripping her bowl with his sturdy rice arms, Finnegan on the other steering with his flippers and whooping at the absolute top of his lungs. The wave roared and curled over their heads into a glittering blue-green tunnel, a swirling room made entirely of moving water, and for three whole heartbeats they were *inside* it.
+"You HATE big waves," said Pua. "But you came anyway."
 
-"WE'RE IN THE BARREL!" Poke Pua screamed, delighted, terrified, alive. "FRESH FROM THE SEA, THAT'S US!"
+"Brave isn't un-scared," said Manu. "Brave is helping anyway, even with your knees shaking."
 
-"Lean LEFT!" Musubi yelled. "Out the side! Wrapped up and READY!"
+"Again immediately," said Finnegan. "And also never. Both."
 
-They leaned. The board carved a line of white foam. And just as the giant wave folded shut behind them with a *WHOOMP* that shook the whole beach, the three friends shot out the open end of the tunnel and skidded — wet, breathless, and entirely in one piece — onto the soft safe sand.
+---
 
-For a moment nobody moved. Poke Pua's edamame freckles had relocated. Finnegan had a strand of kelp on his head like a little green wig. Musubi's laminated chart floated up beside him, completely ruined.
+The sun melted low and gold. Kimo scuttled past, still wearing the backpack strap like a sash.
 
-Then they started to laugh. The big, gulping, can't-stop kind of laugh that only comes after something scary turns out okay. They laughed until Poke Pua got the hiccups, and every hiccup popped another sesame seed loose, which only made them laugh harder. Finnegan tried to stand up, slipped on a patch of seaweed, sat back down, and announced from the sand, "I meant to do that," which finished all three of them off completely.
+Manu's soggy chart floated up beside him. He gave it a fond pat and let it drift away.
 
-"You came after me," Poke Pua said, wiping her eyes. "Manu, you HATE big waves."
+"New plan," said Manu, leaning between his friends. "No chart. Just **ʻohana** (oh-HAH-nah) = family."
 
-"I do," Musubi agreed solemnly. "I hate them so much. I have never been more scared in my entire life."
-
-"But you came anyway."
-
-"That's the whole trick, I think," he said slowly, surprising himself again. "Being brave isn't *not* being scared. I was plenty scared. Being brave is helping anyway, even with your knees shaking, even when it's not on the chart."
-
-Finnegan flopped onto his back in the sand. "I would like to do that again immediately," he said. "And also possibly never again. Both. At the same time."
-
-The surfers on the beach cheered and crowded around. Someone gave them shave ice in three colors. Somebody else asked Musubi to sign their board, and somebody's little tutu patted his head and said he was the politest hero she'd ever met, which Musubi decided was the very nicest thing anyone had said all day. And Musubi — sturdy, square, list-making Musubi, who had planned to spend the whole day *watching* — sat dripping and salty and grinning between his friends, prouder than he'd ever been of anything on any checklist.
-
-He pulled out his ruined chart, gave it a fond little pat, and let it go in the breeze.
-
-"New plan," he said. "No chart. Just 'ohana."
-
-That night, tucked safe in a beach hale with sand still in his nori and a warm bowl of soup steaming under his chin, Musubi Manu decided that the bravest thing in the whole wide ocean wasn't the giant wave at all.
-
-It was a small square friend who said *I'm scared* — and paddled out anyway.
+Three salty friends dozed in a warm heap, and the big ocean hummed low.
 
 ---
 
 ## Goodnight Blessing
-Little one, you do not have to be unafraid to be brave. The bravest hearts are the ones that shake a little and help anyway, the way Musubi paddled out when the wave was bigger than the whole sky. So when something feels too big tonight, remember: you can be scared and ready, both at once. Tuck in close, let the soft tide of your breathing carry you, and know your 'ohana is always paddling right beside you. May your dreams roll in gentle and warm, with not a single giant wave in sight. Goodnight.
+Little one, you do not have to be unafraid to be brave. The bravest hearts shake a little and help anyway. Let the soft tide of your breathing carry you; your ʻohana is paddling right beside you. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration: three friends riding inside the glassy blue-green barrel of a giant North Shore wave at golden hour — Musubi Manu (a square rice block with a pink spam top and black nori band, tiny bento backpack) gripping the side of Poke Pua (a wide rice bowl brimming with ruby ahi cubes, green seaweed ribbons, sesame stars, kelp-strand hair) in the middle, and Finnegan Flipsworth (a round penguin in surf shorts) steering on the other side with flippers spread wide. Glittering spray, a faint rainbow in the mist, soft cinematic light, joyful and awe-struck mood, swirling water tunnel arching overhead.
-2. Character portrait: Musubi Manu standing at the water's edge on wet sand, sturdy and square with his pink spam blanket and crisp black nori seatbelt, tiny bento backpack on his back, knees shaking just slightly but his face set with quiet determination, holding a small surfboard painted with sesame stars. Warm storybook style, soft sunrise palette of peach and gold, gentle whimsical lighting, a giant wave looming softly out of focus behind him.
-3. Cozy closing scene: nighttime inside a snug beach hale, Musubi Manu tucked under a soft blanket with sand still dusting his nori, a warm bowl of soup steaming beneath his chin, a small lantern glowing amber. Poke Pua and Finnegan dozing nearby in a pile of cushions, gentle moonlight and warm firelight, peaceful sleepy mood, palette of deep blues and cozy gold, a tiny ruined laminated chart resting fondly on the nightstand.
+1. Key scene — warm whimsical storybook illustration: three friends riding inside the glassy blue-green barrel of a giant North Shore wave in bright golden daylight: Musubi Manu (a square rice block with a pink spam top, a black nori band and a tiny bento backpack) gripping the side of Poke Pua (a wide rice bowl brimming with ruby ahi cubes, green seaweed ribbons and sesame sprinkles, kelp-strand hair streaming) in the middle, and Finnegan Flipsworth (a round black-and-white penguin in surf shorts) steering on the other side with flippers spread wide. Glittering spray, a faint rainbow in the mist, a swirling water tunnel arching overhead, joyful and awe-struck mood.
+2. Character portrait — Musubi Manu at the water's edge on wet sand, sturdy and square with his pink spam blanket and crisp black nori seatbelt, tiny bento backpack on his back, knees shaking just slightly, face set with quiet determination, hugging a small surfboard painted with sesame seeds. Soft storybook style, peach and gold morning palette, a giant green wave looming softly out of focus behind him.
+3. Closing scene — golden sunset on the North Shore, the sea gone calm and gentle, Musubi Manu, Poke Pua and Finnegan Flipsworth dozing in a salty heap on warm sand, a small orange sand crab scuttling past wearing a backpack strap like a sash, a soggy laminated card drifting away on the breeze. Soft pinks, oranges and deep blues, sleepy peaceful bedtime mood.
+
+## Animation Notes
+- **Cast:**
+  - `MANU` — Musubi Manu: a neat square rice-block body with a pink spam blanket on top and a crisp black nori band around the middle, a tiny bento backpack, a surfer's tan line; voice: loyal, tidy, earnest.
+  - `PUA` — Poke Pua: a wide rice-bowl body heaped with glossy ruby ahi cubes, green seaweed ribbons, edamame freckles, sesame sprinkles, long kelp-strand hair; voice: fresh, confident, artsy.
+  - `FINN` — Finnegan Flipsworth: a round black-and-white penguin in bright surf shorts, flippers wide, sparkly fearless eyes; voice: loud, cheerful, reckless.
+  - `KIMO` — Kimo: a small orange sand crab with big claws and round eyes; no lines.
+- **Scenes:**
+  1. The North Shore in winter, bright morning: huge green glass waves curling and crashing far out, warm sand, a checklist, Manu alone at the water's edge.
+  2. The same beach, Pua arriving with a surfboard painted with sesame seeds, a laminated card with two little wave drawings, mid-sized waves beyond.
+  3. The shoreline as the water slides back: wet shining sand, a giant wave rising far out, Pua's board being towed toward it, a sand crab wearing a backpack strap.
+  4. The open water between shore and the giant wave: Manu paddling belly-down on a spare board, foam and spray, Finnegan bursting up from the deep.
+  5. The face and barrel of the giant wave: smooth green wall, the whole North Shore seen from the top, a rainbow in the spray, a glittering blue-green tunnel.
+  6. Soft safe sand just past the shore break, daylight: the three friends sprawled and laughing, kelp wig, sesame seeds scattered.
+  7. The beach at golden sunset: calm gentle sea, the friends dozing in a heap, the crab with its strap, a soggy card drifting on the breeze.
+- **Budget:** 658 narrated words · 44 beats · 7 scenes · est. 4:53

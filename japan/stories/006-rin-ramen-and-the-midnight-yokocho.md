@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** A cozy lantern-lit Tokyo alleyway (yokocho) of tiny food stalls
 **Theme:** A warm bowl shared makes any night feel like home
-**Japanese Spotlight:** **Oishii** (oh-ee-shee) — delicious
+**Japanese Spotlight:** **oishii** (oh-ee-shee) — delicious
 
 ---
 
@@ -76,7 +76,7 @@ A cool breeze wandered down the alley and ruffled his noodle-curls. The lanterns
 
 It wasn't a stall, exactly. It was just a low wooden counter, three wobbly stools, and one small lantern — the dimmest in the whole alley. There was no sign. There was no cook hollering. There was barely anyone there at all.
 
-Just three customers, sitting in a row, slurping quietly. A sleepy dumpling. A frosty soda bottle. A little chestnut in an autumn scarf. Strangers, by the look of them. And in front of each one steamed a single bowl of plain, simple ramen.
+Just three customers, sitting in a row, slurping quietly. A sleepy bun. A frosty soda bottle. A little chestnut in an autumn scarf. Strangers, by the look of them. And in front of each one steamed a single bowl of plain, simple ramen.
 
 Rin almost waddled right past. It looked like the least exciting stall of all.
 
@@ -92,13 +92,13 @@ And then the strangest thing happened.
 
 The frosty soda bottle beside him went *pop!* and giggled, "Oh, that smells amazing — I LOVE coming here when I can't sleep."
 
-The sleepy dumpling yawned, "Mmm, me too. Crackle on the outside, dreams on the inside, that's what I always say after a good bowl."
+The sleepy bun yawned, "Mmm, me too. Crackle on the outside, dreams on the inside, that's what I always say after a good bowl."
 
 The little chestnut tugged his scarf and added shyly, "I come here every cold night. It always feels like... like somebody saved a seat for me."
 
 "We don't even know each other," the soda bottle said cheerfully, popping again. "Not really! But it never feels that way here, does it? *Pop!* The seats are too close. You can't sit this close to somebody and stay a stranger."
 
-"It's the rule of the bowl," yawned the dumpling. "Strangers go in, friends come out. Like magic. Slurpy magic."
+"It's the rule of the bowl," yawned the bun. "Strangers go in, friends come out. Like magic. Slurpy magic."
 
 And the tanuki cook winked at Rin, and ladled a little extra broth into his bowl, like a small warm secret.
 
@@ -106,7 +106,7 @@ Rin looked down. The exact same broth. The exact same noodles. But somehow — s
 
 "...the best," Rin whispered. His broth glowed so warmly it nearly bubbled over. "This is the best one. This is *really* the best one."
 
-"What makes it best?" yawned the dumpling, not really expecting an answer.
+"What makes it best?" yawned the bun, not really expecting an answer.
 
 And Rin, who had spent all night looking for a secret ingredient at eleven different stalls, finally understood where it had been hiding the whole time.
 
@@ -116,7 +116,7 @@ The tanuki smiled and shrugged a *none-taken* shrug.
 
 "It's *this*." Rin spread his stubby arms at the four of them, slurping in the dark, warm and side by side. "A bowl tastes best when you share it. The secret ingredient was sitting down. The secret ingredient is — well — it's *us*."
 
-The soda bottle popped happily. The chestnut's cheeks went toasty pink. The dumpling smiled in his half-sleep.
+The soda bottle popped happily. The chestnut's cheeks went toasty pink. The bun smiled in his half-sleep.
 
 So Rin scrunched up his soggy, scribbled-on Plan-noodle and slurped it down (it was still delicious), because he didn't need it anymore. He'd found what he came for. It just wasn't a stall. It was a feeling.
 
@@ -134,6 +134,6 @@ It's a bowl you share.
 May your blanket be as warm as good broth, and your dreams as soft as fresh noodles. May you always find a friendly stool waiting, and a hand that ladles you a little extra. Whatever made today feel big and loud, let it grow small and quiet now, like lanterns winking off one by one down a sleepy alley. You are warm. You are full. You are loved. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook style, soft glowing palette of lantern-red, amber, and deep midnight-blue. A narrow Tokyo yokocho alleyway crowded with tiny food stalls, a wobbly chain of round red paper lanterns glowing overhead, gentle steam curling everywhere. At the very end, a small dim wooden counter with three wobbly stools where an adorable bowl-of-ramen character (golden swirling broth, soft-boiled-egg cheek, single corn freckle, bouncy noodle-curl hair, tiny nori name-tag, on two stubby legs) sits beside a frosty blue soda bottle, a sleepy melon-bread dumpling, and a little chestnut in an autumn scarf, all slurping together. Cozy, joyful, intimate nighttime mood, warm rim-lighting from the lantern.
+1. Warm whimsical storybook style, soft glowing palette of lantern-red, amber, and deep midnight-blue. A narrow Tokyo yokocho alleyway crowded with tiny food stalls, a wobbly chain of round red paper lanterns glowing overhead, gentle steam curling everywhere. At the very end, a small dim wooden counter with three wobbly stools where an adorable bowl-of-ramen character (golden swirling broth, soft-boiled-egg cheek, single corn freckle, bouncy noodle-curl hair, tiny nori name-tag, on two stubby legs) sits beside a frosty blue soda bottle, a sleepy melon-bread bun, and a little chestnut in an autumn scarf, all slurping together. Cozy, joyful, intimate nighttime mood, warm rim-lighting from the lantern.
 2. Character portrait of Rin Ramen: a cheerful steaming ceramic bowl of tonkotsu ramen with stubby legs, golden broth swirling, noodle-curl hair bouncing, a soft-boiled egg as a rosy cheek, one bright corn freckle, a little nori name-tag, mid-waddle with chopsticks raised triumphantly, faint happy steam puffing from the top. Kawaii, warm, expressive eyes, soft storybook shading, glowing amber background.
 3. Closing cozy scene: the same little dim-lantern ramen counter late at night, now nearly empty, four happy friends leaning together over steaming bowls, the kind tanuki cook ladling a little extra broth, lanterns winking softly above, the city sleeping dark and gentle beyond. Tender, golden, peaceful glow; the warm feeling of belonging; soft watercolor storybook texture.

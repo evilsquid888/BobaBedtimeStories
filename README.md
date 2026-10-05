@@ -19,6 +19,7 @@ A growing family of cozy, funny, food-themed **bedtime stories for ages 9–12**
 ## Features
 - Main adventure collections: ~1,800–2,000 words per story; fun starts in the first 150 words
 - Life Lessons: 500–580 words plus a short blessing, with storyboards for approximately five-minute videos
+- Five-minute animation format (Japan 25–100, all of Hawaii): 36–48 one-action beats, ~600–680 narrated words, Animation Notes per story; see [FIVE_MINUTE_STORY_GUIDE.md](FIVE_MINUTE_STORY_GUIDE.md) and `check_five_minute.py`
 - Vivid food characters with catchphrases and consistent voices
 - Local-language vocabulary woven in naturally (term + pronunciation + English on first use)
 - Joyful, never-scary "becoming a treat" moments; gentle cute folklore only

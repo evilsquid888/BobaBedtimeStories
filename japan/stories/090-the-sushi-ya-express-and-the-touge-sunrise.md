@@ -1,161 +1,135 @@
 # Story 90: The Sushi-ya Express and the Touge Sunrise
 
 **Main Character:** The Sushi-ya Express (sushi food truck)
-**Guest Characters:** Niko Nigiri, Rin Ramen
+**Guest Characters:** Niko Nigiri, Rin Ramen, Kei the kei-truck
 **Setting:** A winding mountain pass (touge) at dawn
 **Theme:** The joy is the journey you share
-**Japanese Spotlight:** toge (toh-geh) — mountain pass
+**Japanese Spotlight:** **toge** (toh-geh) — mountain pass
 
 ---
 
-Long before the sun had even thought about getting up, the Sushi-ya Express was already wide awake and humming a little tune to herself in the dark.
+Long before the sun had even thought about getting up, the Sushi-ya Express was humming in the dark.
 
-She was a gleaming white-and-indigo food truck with a swishy noren curtain over her counter, a tiny fish-flag on her rooftop, and two paper-lantern headlights that glowed like soft full moons. And tonight — well, this morning — she had a Very Important Plan.
+Ting-ting-ting! "Wake up, sleepy sushi! We have a sunrise to catch!"
 
-"Friends!" she called, ringing her little bell. *Ting-ting-ting!* "Wake up, sleepy sushi! We have a sunrise to catch!"
+"This is technically still yesterday," mumbled Niko Nigiri, straightening his salmon cape.
 
-From inside her warm cabin came two enormous yawns and one extremely dramatic groan.
+"Is anything better warm and bubbly at four in the morning?" sighed Rin Ramen, steam curling sleepily.
 
-"It is the middle of the night," mumbled Niko Nigiri, blinking his bright eyes and straightening his glossy salmon cape. "The proper time for breakfast is *after* the sun. This is, technically, the night before breakfast."
+"The view is!" said the Sushi-ya Express. "We're climbing the **toge** (toh-geh) — mountain pass!"
 
-"Everything's better warm and bubbly," sighed Rin Ramen, steam curling sleepily off his broth, "but is anything better at *four in the morning?*"
+"Fresh sushi at sunrise, on the very top, for the little tea house. Nobody has ever done it."
 
-"The view is!" beamed the Sushi-ya Express. "Climb aboard. We're driving up the **toge** (toh-geh) — mountain pass — to deliver the freshest sunrise breakfast in all of Japan!"
-
-That woke them up.
+"Putt-putt, let's GO!" Kei bounced up in front, headlights shining. "I know every wiggle of this road!"
 
 ---
 
-You see, high above the valley sat a tiny tea house, perched on the misty shoulder of the mountain like a cat on a fence. Every spring, the tea-house grandmother served sunrise breakfast to the early-bird hikers. And every spring she wished — just *once* — that someone could bring her guests fresh sushi, made that very morning, to eat as the sun came up over the peaks.
+The road climbed. And climbed. Then it wiggled, left-right-left, like a noodle around a bowl.
 
-"Nobody's ever done it," the Sushi-ya Express explained as her engine warmed. "The road up the toge is too windy. Too misty. Too *wiggly.* But I think we can do it — if we go slow, and go together."
+"Ooh," said Rin, sloshing. "I feel like soup being stirred."
 
-Niko Nigiri loved a good plan. He pulled out a tiny checklist. "Right. Rice, prepared. Salmon, sliced. Nori, crisp. Wasabi, *politely* spicy. Let's do this neatly... or deliciously!"
+Niko gripped his nori belt and his tidy plan-paper, all boxes and ticks. "Hold the corners neatly."
 
-Rin Ramen wobbled into his cozy corner and buckled in, his soft-boiled-egg cheek squishing against the window. "And I'll keep the broth warm for anybody who needs warming."
+Then a blanket of **kiri** (kee-ree) — fog — poured over the road like spilled matcha cream.
 
-"Putt-putt — let's GO!" honked a teeny butter-yellow voice from outside.
+Kei's taillights faded to milky white. The whole world went soft and gray and quiet.
 
-It was Kei the kei-truck, bouncing on her little springs, headlight-eyes shining. "I'll lead the way! I know every wiggle of this road!"
+"Kei, sweetie, I can't see you!" called the Sushi-ya Express.
 
-And so, with a gentle *vroom* and a happy bubble of steam, the little caravan rolled into the dark — Kei in front, the Sushi-ya Express close behind, and two breakfast friends inside watching the trees go by.
+"Follow my beeps!" came a muffled voice. Beep. Beep. Beeeep.
 
----
-
-The road climbed.
-
-And climbed.
-
-And then it did something the road back home never did: it began to *wiggle.* Left, then right, then left again, curling around the mountain like a noodle in a bowl.
-
-"Ooh," said Rin Ramen, sloshing gently. "I feel like soup being stirred."
-
-"Hold the corners *neatly,*" said Niko, gripping his nori belt. "Sushi-ya, are you all right up there?"
-
-"Never better!" she sang, though her headlights wobbled just a little. "Whisk slow, take the curve, breathe out. Just like Maru taught me."
-
-Up ahead, a thick blanket of **kiri** (kee-ree) — fog rolled across the road like spilled matcha-cream. Suddenly Kei's taillights faded into milky white, and the whole world turned soft and gray and quiet.
-
-"Kei?" called the Sushi-ya Express. "Kei, I can't see you, sweetie!"
-
-"I'm here! Putt-putt! Just follow my beeps!" came her muffled little voice. *Beep! Beep!*
-
-So she did. She slowed to a crawl and followed the cheerful beeping through the fog, one careful wiggle at a time, her lantern-lights glowing like two friendly fireflies.
-
-Inside, Niko's checklist was trembling. "We're behind schedule," he fretted. "The sun rises at exactly five-forty-one. If the fog slows us down, we'll miss it. We'll miss the whole *point.*"
-
-"Niko," said Rin gently, ladling a tiny cup of warm broth into his friend's worried hands. "Sip this. Look out the window."
-
-Niko sipped. Niko looked.
-
-And — oh!
-
-The fog wasn't scary at all. It was *beautiful.* Little droplets clung to the truck's windows like tiny pearls. The headlights painted soft golden halos in the mist. And every now and then a sleepy mountain bird would call out *hoo-hoo*, just to say good morning.
-
-"Huh," said Niko softly. "I was so busy worrying about the *end* of the trip that I forgot to enjoy the *middle* of it."
-
-"That," said Rin with a slurpy, happy laugh, "is the wisest thing anyone has ever said before breakfast."
+"We're behind schedule," fretted Niko. "The sun will not wait for fog. We'll miss the whole POINT."
 
 ---
 
-But just then — *clunk-a-clunk-CLUNK!*
+Clunk-a-clunk-CLUNK. Up ahead, the beeps went putt... putt... pffft.
 
-Up ahead, Kei's cheerful putt-putt turned into a sad little *putt... putt... pffft.* Her springs sagged. Her headlight-eyes drooped. But even with a flat tire, Kei knew every wiggle of this pass — and she limped carefully off the foggy toge onto the widest, prettiest bend she knew before rolling to a stop.
+Kei limped onto a wide bend and sagged. "A rock bonked me. I've got a flat. I'm sorry."
 
-"Oh no," she sniffled. "I've gone and got a flat tire. A rock bonked me. I'm sorry, everyone — I was supposed to lead the way, and now I've broken down and we'll never make the sunrise and it's all my—"
+"Fall down seven, bounce up eight!" boomed Niko in his best coach-voice, which worked surprisingly well.
 
-Niko cleared his throat and did his best Dai Daruma impression: "Fall down seven, bounce up eight!" he boomed — and honestly, it worked surprisingly well at cheering everyone up.
+The spare tire was strapped under the Sushi-ya Express. Rin unbuckled it with a steamy grunt.
 
-The Sushi-ya Express pulled up beside her little friend and lowered her warm fold-down counter so its light spilled over him like a cozy blanket. "Now, now," she said. "Nobody's missing anything. A bump in the road is just part of the road, sweetie."
-
-"But the *sunrise,*" Kei whimpered.
-
-Niko Nigiri looked at his checklist. Then — and this was a very big moment for a sushi who loved plans — he folded it up and put it away.
-
-"New plan," he announced. "We fix Kei. *Together.* Neatly. And if we miss the sunrise from the tea house, we'll just watch it from right here."
-
-"YES," steamed Rin, rolling up his nonexistent sleeves. "Teamwork tastes *delicious.*"
-
-So they got to work in the misty dark. Rin Ramen warmed Kei's stiff little bolts with a puff of broth-steam so they'd turn easily. Niko Nigiri lined up every tool in tidy rows and handed them over one by one — *"wrench... please... and the spare... thank you."* And the Sushi-ya Express shone her counter-light steady and bright so they could see what they were doing.
-
-It took some grunting. It took some giggling. (Rin got a tire smudge on his nori name-tag and looked *very* important about it.) But at last —
-
-*Sproing!* Kei bounced back up on four good tires.
-
-"Putt-putt!" she cheered, headlights blazing. "Good as new! Better than new!"
+It dropped, bounced once, and rolled away downhill into the fog.
 
 ---
 
-And that's when they noticed something.
+"After it!" The Sushi-ya Express swung around, lanterns blazing, and the chase was on.
 
-The fog was... *thinning.* And turning pink.
+The tire took the first hairpin like a champion. Rin's broth sloshed up his left side.
 
-"Oh!" gasped the Sushi-ya Express. "Look! Look at the sky!"
+Niko leaned out the window and lassoed with his nori belt. He caught a pine cone.
 
-They were higher up than they'd ever realized — right near the very top of the toge, on a wide bend where the trees fell away and the whole valley spread out below them like a giant green bowl. And there, far across the misty peaks, the sky was blushing the softest rose-gold, getting ready to pour the sun over the mountains.
+The tire bounced off a stone marker and hopped a ditch. Far above, Kei beeped encouragement.
 
-They hadn't missed it at all.
+Rin swung a steaming ladle out the window. The tire rolled straight through the steam, unbothered.
 
-And it was no accident, either — Kei, who knew every wiggle of this pass, had picked *exactly* the right place to stop.
+Then the road curled back uphill, and the tire slowed... slowed... and wobbled to a stop.
 
-"Putt-putt," she beeped, suddenly bashful. "I told you I knew this road."
-
-"Quick!" laughed Niko. "Counter down! Lanterns up! We may not have made it to the tea house — but breakfast is *served!*"
-
-The Sushi-ya Express flung open her noren curtain. Niko's little hands flew, pressing pearly rice and draping coral salmon, neat as anything. Rin ladled warm broth into tiny cups. And just as the very first golden sliver of sun peeked over the highest peak —
-
-*"Itadakimasu!"* they all cheered together — that's **itadakimasu** (ee-tah-dah-kee-mahs) — let's eat / thank you for this food — and the whole mountainside lit up gold.
+Right against Kei's front bumper. "Told you I know this road," said Kei.
 
 ---
 
-Now, here's the lovely surprise.
+They got to work in the mist. Rin warmed the stiff bolts with puffs of broth-steam.
 
-Because the road had wiggled so high, the little tea house was *just* up around the next bend. And the tea-house grandmother — drawn by the glow of paper lanterns and the smell of vinegared rice on the morning breeze — came shuffling down the path in her slippers with all her sleepy hiker-guests behind her.
+Niko lined up the tools in tidy rows. "Wrench... please... spare... thank you."
 
-"Sushi," she whispered, her eyes shining. "Fresh sushi, at sunrise, on my mountain. After all these years."
+The Sushi-ya Express held her counter-light steady and warm over all three of them.
 
-"Fresh sushi, anywhere the road goes!" said the Sushi-ya Express proudly, ringing her bell. *Ting-ting-ting!*
+Rin got a tire smudge on his nori tag and looked extremely important about it.
 
-So everyone gathered there on the misty bend — the grandmother, the hikers, two breakfast friends, one fixed-up little truck, and one very happy food truck — and they watched the sun rise over the toge together, warm rice in their hands and warm broth on their tongues.
+Sproing! Kei bounced up on four good tires. "Better than new!"
 
-And do you know what Niko Nigiri said, the sushi who used to love nothing more than a perfect plan?
+Niko looked at his plan-paper. Then he folded it up and tucked it away under his cape.
 
-He looked at the wiggly road behind them, all the fog and the flat tire and the giggling in the dark, and he smiled.
+---
 
-"You know," he said, "I thought the sunrise was the point. But it wasn't, was it?"
+The fog was thinning. And turning pink.
 
-"Nope," slurped Rin happily. "The *getting there* was the point."
+The trees fell away. The valley opened below like a giant green bowl. They were at the top.
 
-"The joy," said the Sushi-ya Express softly, watching the gold spill down the mountain, "is the journey you share."
+"Counter down! Lanterns up!" laughed Niko. "Breakfast is served right HERE."
 
-And every single one of them — even the grandmother, even Kei — agreed that it was the best breakfast they had ever, *ever* had.
+Rice pressed, salmon draped, broth ladled, just as the first gold sliver peeked over the peaks.
+
+"**Itadakimasu** (ee-tah-dah-kee-mahs) — let's eat!" sang the Sushi-ya Express, and the mountainside lit up gold.
+
+---
+
+Around the next bend, a tiny tea house blinked its round window on, like a yawn.
+
+Its door slid open, the smell of fresh rice went in, and a delighted little kettle-whistle came out.
+
+"I thought the sunrise was the point," said Niko. "It wasn't, was it?"
+
+"The getting there was the point," slurped Rin.
+
+"The joy," said the Sushi-ya Express softly, "is the journey you share."
+
+Kei dozed on the bend, four good tires, headlights half-closed, a warm rice ball on her hood.
 
 ---
 
 ## Goodnight Blessing
-Little one, the road of your day may wiggle and twist, and sometimes the fog rolls in — but every careful curve is taking you somewhere lovely. Don't rush so fast toward tomorrow that you miss the cozy middle of today. Tonight, snuggle down warm as fresh rice, and let the gentle hum of friends carry you up your own soft mountain. The sunrise will keep; the journey is the gift. Sleep well, sweet traveler, and dream of golden light spilling slow over misty peaks. Goodnight.
+The road of your day may wiggle, and sometimes the fog rolls in, but every careful curve is taking you somewhere lovely. Snuggle down warm as fresh rice. The sunrise will keep. The journey is the gift. Goodnight.
 
 ## AI Image Prompts
-1. Warm whimsical storybook illustration: a gleaming white-and-indigo sushi food truck with a swishy noren curtain and glowing paper-lantern headlights, parked on a wide misty bend of a winding mountain pass at dawn; a tiny butter-yellow kei-truck beside her, a proud nigiri-sushi character and a steaming ramen-bowl character at the fold-down counter; rose-gold sunrise spilling over distant peaks, soft pink fog, dewy pines. Palette of cream, indigo, soft rose, and warm gold. Cozy, magical, hopeful mood.
-2. Character portrait: the Sushi-ya Express food truck in three-quarter view, fish-flag fluttering on her rooftop, noren curtain swishing, lantern headlights glowing like full moons, little bell mid-jingle, headlights crinkled into a warm welcoming smile. Soft morning light, gentle storybook shading, indigo and cream colors.
-3. Closing scene: a misty mountain bend at sunrise, a grandmother in slippers and sleepy hikers gathered around the glowing sushi truck, holding tiny cups of warm broth and pieces of fresh salmon nigiri; the kei-truck bouncing happily, golden sun cresting the peaks behind them. Tender, glowing, everyone-together-and-cozy mood; warm honey light and soft lavender shadows.
+1. Key scene — warm whimsical storybook illustration: a spare tire bouncing downhill through thick pink-gray fog on a hairpin mountain pass, chased by a gleaming white-and-indigo sushi food truck with glowing paper-lantern headlights; a proud nigiri-sushi character leaning out the window lassoing with his nori belt and catching a pine cone, a steaming ramen-bowl character swinging a ladle out the other window; dewy pines, a stone marker, a tiny butter-yellow kei-truck sagging on the bend above; palette of cream, indigo, soft rose and misty gray; cozy, silly, hopeful.
+2. Character portrait — the Sushi-ya Express food truck in three-quarter view: white-and-indigo body, fish-flag fluttering on her rooftop, noren curtain swishing, paper-lantern headlights glowing like warm buns, little bell mid-jingle, headlights crinkled into a welcoming smile; soft dawn mist, gentle storybook shading.
+3. Closing scene — the top of the mountain pass at sunrise, the whole valley spread below like a green bowl, rose-gold light pouring over the peaks: the Sushi-ya Express with her counter down and lanterns up, neat plates of salmon nigiri and tiny cups of broth, a tiny tea house around the bend with its round window glowing, and the kei-truck dozing with a rice ball on her hood; tender, glowing, everyone-together mood.
+
+## Animation Notes
+- **Cast:**
+  - `SUSHIYA` — the Sushi-ya Express: a gleaming white-and-indigo food truck with a noren curtain, a tiny rooftop fish-flag, glowing paper-lantern headlights and a fold-down counter; voice: warm, welcoming, motherly.
+  - `NIKO` — Niko Nigiri: a tidy oval of pearly white rice in a glossy coral-orange salmon cape with a neat black nori belt, stands very straight, bright attentive eyes; voice: polite, formal, fretful.
+  - `RIN` — Rin Ramen: a steaming ceramic bowl on stubby legs, golden broth, noodle-curl hair, a soft-boiled-egg cheek, a corn freckle and a nori tag; voice: hearty, slurpy, dramatic.
+  - `KEI` — Kei the kei-truck: a teeny round butter-yellow mini-truck with big headlight eyes, a stubby flatbed, tidy mud-flaps and a knitted seat-cover sweater; voice: eager, putt-putt, beepy.
+- **Scenes:**
+  1. A valley road in the pre-dawn dark: the Sushi-ya Express with lantern headlights glowing, a tiny yellow kei-truck in front, dark pines.
+  2. The winding mountain pass in the dark, hairpin after hairpin, thick fog pouring across the road, taillights fading to milky white.
+  3. A wide foggy bend high on the pass, the kei-truck sagging with a flat tire, a spare tire strapped under the food truck.
+  4. The pass below the bend in thick fog: hairpins, a stone marker, a ditch, a bouncing spare tire, the food truck's lanterns blazing through the mist.
+  5. The wide bend in gray mist, tools in tidy rows, the counter-light glowing over the kei-truck.
+  6. The very top of the pass as the fog turns pink and thins: the valley opening below like a green bowl, the first gold sliver of sun over the peaks.
+  7. The top of the pass in full sunrise gold: a tiny tea house around the bend with a round glowing window, plates of sushi and cups of broth on the counter.
+- **Budget:** 667 narrated words · 44 beats · 7 scenes · est. 4:57

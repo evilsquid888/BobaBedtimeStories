@@ -1,155 +1,134 @@
 # Story 88: Pepper-kun and the Midnight Garage
 
 **Main Character:** Pepper-kun (Pepper Lunch sizzle plate)
-**Guest Characters:** Kei the kei-truck
+**Guest Characters:** Kei the kei-truck; a tiny moth
 **Setting:** A glowing late-night garage in Tokyo
 **Theme:** Care and craftsmanship make anything shine
-**Japanese Spotlight:** kaizo (kye-zoh) — to customize / soup-up
+**Japanese Spotlight:** **kaizo** (kye-zoh) — to customize / soup-up
 
 ---
 
-The little garage at the end of Pancake Alley hummed all night, and tonight it hummed extra loud — because Pepper-kun had arrived, and Pepper-kun never arrived quietly.
+At the end of Pancake Alley, a little garage glowed pink all night. Tonight, it glowed louder.
 
-*SIZZLE!* He rolled in on his round black iron base, beef strips bouncing, golden corn glinting, butter swirling across his hot little surface in a happy melty wave. He wore his chef's bandana tied tight, even though he was very much not in a kitchen.
+SIZZLE! In came Pepper-kun, a round iron hot-plate on stubby legs, beef bouncing, butter sliding, bandana tied tight.
 
-"Good EVENING, Tokyo!" he announced to the empty garage, sparks of steam popping off his edges. "Pepper-kun, reporting for duty! Where is my patient?"
+"Good EVENING, Tokyo!" he announced to nobody. "Pepper-kun, reporting for duty! Where is my patient?"
 
-A small, sleepy voice answered from the corner.
+"...Putt?" Under the buzzing neon sat the roundest, butter-yellowest truck, headlights half-closed, sweater drooping off one mirror.
 
-"...Putt. ...putt?"
+"Oh, you poor sweet potato," whispered Pepper-kun.
 
-Pepper-kun spun around. There, parked under a buzzing pink neon sign, sat the tiniest, roundest, butter-yellowest little truck he had ever seen — headlight eyes half-closed, springs sagging, knitted seat-cover sweater drooping off one mirror like a blanket falling off a sleeping baby.
+"I used to bounce," said Kei. "Now I sag. Nobody wants to be the truck everybody waits for."
 
-"Oh," whispered Pepper-kun. "Oh, you poor sweet potato."
-
-The truck gave a tired little wheeze. *Putt.*
+"Then tonight," said Pepper-kun, "we do a **kaizo** (kye-zoh) — a soup-up! With the BIGGEST finish ever!"
 
 ---
 
-Her name was Kei, and she was the gentlest, most loyal little kei-truck in all of Tokyo. She'd spent years carrying dessert friends to night markets, to festivals, to faraway hot springs and back. She had ferried Momo Mochi to a thousand group squishes. She had hauled an entire tower of Kori Kakigori's shaved ice without melting a single flake. She had once, on a very brave night, driven all the way up a snowy mountain so Yuki the Snow Monkey-Manju could have a proper soak.
+He flung open his toolbox: teeny wrenches, a fish-shaped oil can, and one corn kernel kept for emergencies.
 
-But lately Kei had been feeling... flat. Her engine coughed. Her springs squeaked. Her headlights had gone dim as two sleepy moons. She still showed up for every job, putt-putting bravely along — but it took her a little longer each time, and the hills felt a little steeper, and the nights felt a little longer.
+"Engine first! Three, two, ONE, SIZZLE!" He squirted oil everywhere and twirled a wrench like a baton.
 
-"I just feel rather old," Kei admitted, her voice a soft beep. "I used to bounce. Now I mostly... sag. The others are too polite to say anything, which somehow makes it worse." She gave a small, wobbly wheeze. "I don't want to be the truck everybody has to *wait* for."
+A puff of steam so big it fogged the whole window. "TA-DAAA! Behold, a brand-new truck!"
 
-Pepper-kun sizzled thoughtfully. Steam curled up from his corn.
+The steam cleared. Kei looked exactly as droopy as before, only shinier. Putt. Koff.
 
-"Kei," he said, "do you know what we are going to do? We are going to do a **kaizo** (kye-zoh) — a soup-up! A loving little tune-up! We will make you bounce like the day you rolled off the line. STIR IT, SIZZLE IT, SHARE IT! That's the Pepper-kun way!"
+"Was that supposed to do something?" asked Kei politely.
 
-Kei's headlights flickered, the tiniest bit brighter. "You'd do that? For me?"
-
-"Do it? Sweet pickle, I was BORN to do it." Pepper-kun threw open his little iron toolbox with a flourish. Inside were teeny wrenches, a polishing cloth, a tiny oil can shaped like a soy-sauce fish, and — for reasons no one questioned — a single corn kernel he kept "for emergencies."
-
-But the moment Pepper-kun looked at all the work to be done, his SIZZLE got just a touch nervous. A little extra puff of steam went *pfft* off his shoulder.
-
-Because the truth was, Pepper-kun loved a big dramatic show. He loved the countdown, the sparks, the *TA-DAAA!* And a real kaizo, a proper loving one, was slow. It was quiet. It was a hundred tiny things done gently in the dark.
-
-That was not nearly as dramatic as Pepper-kun preferred to be.
+"That," said Pepper-kun, "was a lot of flair for very little bounce."
 
 ---
 
-"Right!" he boomed, rolling up his (imaginary) sleeves. "Let us begin with the engine! Big finish, here we GO! Three — two — ONE — SIZZLE!"
+"BIGGER finish!" He cranked the radio, hopped onto the workbench, and leapt.
 
-He squirted oil everywhere. He tightened a bolt with a grand twirl. He honked an invisible horn, did a little spin on his iron base, and blew a triumphant puff of steam so big it fogged up the garage window.
+He landed on his own oil puddle. Whoosh. A hot-plate skating across a garage goes very, very fast.
 
-"TA-DAAA!" he cried, striking a pose. "Behold! A brand-new truck! Surely now you will—"
+He crashed into the tire tower. Five tires came down and rolled off, one straight at Kei.
 
-Kei coughed. *Putt. Cough. Putt-putt-koff.*
+"Catch!" wheezed Pepper-kun, sliding backwards, beef strips flying like confetti.
 
-Nothing bounced. Nothing shined. The neon buzzed. Somewhere a cricket chirped, unimpressed. The puff of steam slowly cleared to reveal Kei looking exactly as droopy as before, except now also slightly oily.
+Kei tipped her flatbed up like a catcher's mitt, with a groan. Thump. One tire, caught.
 
-"Was that supposed to do something?" Kei asked politely.
+The last tire landed neatly around Pepper-kun, like a rubber doughnut. He sat inside it, dripping butter.
 
-"It was supposed to be *spectacular*," Pepper-kun mumbled, wiping a stray bolt with his bandana, his corn freckle wilting. "That was... that was a lot of flair for very little bounce."
-
-"It's all right," Kei beeped kindly. "You tried. That was a very nice TA-DAAA."
-
-But Pepper-kun did not want a *nice try*. He wanted Kei to bounce. So he sat very still on his hot iron base — which for Pepper-kun was extremely hard — and he *thought*.
-
-And as he thought, he noticed something.
-
-He noticed that Kei's left headlight was dimmer than the right because a tiny moth had built a cozy little home over the bulb. He noticed that one spring squeaked not because it was old, but because a single pebble had been stuck in it for three whole years. He noticed that Kei's knitted sweater wasn't drooping because Kei was sad — it was drooping because one little loop had come unraveled, way down at the bottom, where nobody ever looked.
-
-Tiny things. Quiet things. Things you could only see if you stopped showing off and started *paying attention*.
-
-"Oh," said Pepper-kun softly, his sizzle going gentle and low, like a pan settling down to a simmer. "Oh, I've been doing it all wrong. A real kaizo isn't a big bang, sweet bun. It's a hundred small kindnesses."
+"Right," he said, very quietly, from inside the tire. "Perhaps not bigger."
 
 ---
 
-So Pepper-kun did something he had truly never done before.
+So Pepper-kun sat still, which for Pepper-kun is harder than lifting a tire. And he looked.
 
-He went *slowly*.
+A tiny moth had built a cozy house over Kei's left headlight. That was why it was dim.
 
-He fetched the moth a new home in a flowerpot by the window, with a whispered "Pardon me, friend, she needs her light." Out popped a clean, glowing beam — and Kei's left eye lit up bright as the moon.
+One spring squeaked because of a single pebble, stuck there for three whole years.
 
-He reached one careful tool into the squeaky spring and — *tink!* — out rolled the little pebble. Pepper-kun set it on the shelf like a tiny trophy. He gave the spring a single drop of fish-shaped oil. *Boing.* It bounced, perfect and happy.
+The sweater drooped because one loop had unravelled, way down at the bottom where nobody looks.
 
-He found the unraveled loop at the bottom of the sweater and, very gently, with the patience of warm butter melting, he hooked it back into place so the whole cozy thing sat snug again.
-
-He polished the headlights until they gleamed. He buffed the mud-flaps until they were tidy as new shoes. He found a long-lost corn kernel of his own wedged under Kei's flatbed (from a delivery seven months ago) and gasped, "So *that's* where you went!" before popping it proudly onto the shelf next to the pebble. He hummed while he worked, a low sizzly little tune, and the garage hummed back, all pink and gold and warm.
-
-He went over Kei inch by gentle inch. He checked the little mirror that had been pointing at the ceiling instead of the road. He smoothed a dent in the bumper that Kei had earned bravely backing away from a very enthusiastic Pock Ramune. He tightened the wobbly knob on the radio so Kei could hum her favorite night-drive songs again. None of it was flashy. All of it mattered.
-
-"You're being so quiet," Kei beeped, amazed. "I didn't know you could be quiet."
-
-"Neither did I," Pepper-kun admitted, polishing a headlight to a shine. "Turns out the SIZZLE is even better when you save it for the very end. **Ganbatte** (gahn-bah-teh) — do your best — but slowly, this time."
-
-Kei felt warm all over, and not just from the heat coming off her new friend. She felt *seen*. Every little thing about her that she'd thought was broken or old or sad — Pepper-kun had looked at each one, gently, and made it well again.
+"Oh," said Pepper-kun, his sizzle dropping to a simmer. "A real kaizo is a hundred small kindnesses."
 
 ---
 
-When at last every bolt was snug and every bulb was bright, Pepper-kun stepped back. He set down his tiny wrench. He took a breath of warm neon air.
+He moved the moth to a flowerpot by the window. "Pardon me, friend. She needs her light."
 
-"Kei," he said, "are you ready for your **pika-pika** (pee-kah pee-kah) — sparkly-shiny moment?"
+Kei's left eye lit up like the moon.
 
-"I think so," Kei beeped, springs trembling with excitement. "I really think so!"
+Tink. Out came the pebble. One drop of fish-oil. Boing. The spring bounced like a happy cricket.
 
-"THEN," cried Pepper-kun, his whole iron base flaring up with happy sparks of steam, beef bouncing, corn glinting, butter swirling into a swooping golden ribbon — "here is the SIZZLE I've been saving! Three! Two! ONE!"
+He hooked the sweater loop back into place, slow as butter melting. Snug.
 
-*VROOM-PUTT-PUTT-PUTT!*
+The radio knob was missing. He pressed the emergency corn kernel on. It fit perfectly.
 
-Kei's engine caught — and *purred*. Smooth as soft-serve. Her headlights blazed like two warm little suns. Her springs went *boing-boing-boing*, bouncing her up and down with pure joy, and her freshly-mended sweater hugged her snug as a goodnight blanket.
+"You're being so quiet," said Kei. "I didn't know you could be quiet."
 
-"I'm BOUNCING!" Kei cried, beeping her horn — *beep-beep!* — for the first time in months. "I'M BOUNCING, PEPPER-KUN! PUTT-PUTT, LET'S GO!"
-
-The garage filled with the squeak-bounce of springs and the happy *beep!* of a horn and the warm crackle of Pepper-kun's delighted sizzle. They did a tiny lap of the garage together, the little truck and the little hot-plate, laughing under the pink neon glow. Kei's radio crackled to life with a sleepy late-night tune, and she hummed along, her headlights swaying like two tiny lanterns at a festival.
-
-"Faster!" Kei beeped, taking the corner by the toolbox on what was very nearly two wheels. "I'd forgotten what fast even *felt* like!"
-
-"Careful, careful, sweet pickle!" Pepper-kun laughed, holding onto his bandana, beef strips bouncing wildly. "Save *some* sizzle for the road!"
+"Neither did I," said Pepper-kun, polishing a headlight. "I'm saving the sizzle for the end."
 
 ---
 
-When they finally settled, both of them happily tired, Kei nudged Pepper-kun very gently with her bumper.
+"Kei. Ready for your **pika-pika** (pee-kah pee-kah) — your sparkly-shiny moment?"
 
-"You didn't just fix me," Kei said softly. "You *noticed* me. Even the parts nobody ever looks at. Even the little dropped loop at the very bottom of my sweater."
+"I really think so," said Kei, springs trembling.
 
-Pepper-kun's corn freckle turned the warmest shade of gold. A small, shy puff of steam rose up.
+"Three! Two! ONE!" Sparks of steam, beef bouncing, butter swooping in a golden ribbon.
 
-"That's the secret, isn't it?" he said. "I always thought the magic was in the big finish. The TA-DAAA. But the magic was in all the quiet little cares along the way. The big finish only sparkles because of everything gentle that came before it."
+VROOM-putt-putt-putt. Kei's engine purred. Her headlights blazed. Her springs went boing-boing-boing.
 
-"Care and craftsmanship," Kei beeped, like she was tucking the words somewhere safe. "That's what makes anything shine."
+"I'm BOUNCING!" cried Kei. "Putt-putt, let's GO!"
 
-"Even a sleepy little truck," said Pepper-kun.
+She took a lap of the garage on very nearly two wheels, radio humming, corn kernel glowing.
 
-"*Especially* a sleepy little truck," said Kei, and her headlights smiled.
+"Save some sizzle for the road, sweet pickle!" laughed Pepper-kun, clutching his bandana.
 
-Outside, Tokyo was finally going quiet, the last trains humming home. The neon sign buzzed soft and pink. And in the warm little garage at the end of Pancake Alley, a tiny butter-yellow truck and a sizzly iron hot-plate sat side by side, polished and proud and perfectly, cozily content.
+---
 
-"Same time next week?" Kei asked sleepily. "I'll bring snacks."
+They parked side by side under the pink glow, polished and proud and happily tired.
 
-Pepper-kun's sizzle dropped to the gentlest, warmest little simmer he had ever made.
+"You didn't just fix me," said Kei. "You noticed me. Even the loop at the very bottom."
 
-"Putt-putt," he whispered back, doing his very best Kei impression. "Let's go."
+"Care and craftsmanship," said Pepper-kun, "make anything shine. Even a sleepy little truck."
 
-And the moth in the flowerpot, snug in his new home, dimmed his tiny light, and everyone in the warm pink garage drifted softly off to sleep.
+"ESPECIALLY a sleepy little truck," said Kei, and her headlights smiled.
+
+In the flowerpot, the moth dimmed his tiny light, and the whole garage drifted off to sleep.
 
 ---
 
 ## Goodnight Blessing
-Little one, the world is full of small, quiet kindnesses that no one sees — the loop mended at the bottom of the sweater, the pebble shaken gently free. May you always have a friend who notices the parts of you that others miss, and may you be that friend to someone else. Tonight, let your engine rest and your springs go soft. You don't have to bounce until morning. Sleep snug as a knitted seat-cover, warm as a simmering pan, bright as a freshly-polished headlight. Goodnight.
+The world is full of small kindnesses nobody sees: the loop mended, the pebble shaken free. May a friend always notice the parts of you that others miss. Let your engine rest. Your springs can go soft now. Goodnight.
 
 ## AI Image Prompts
-1. A warm whimsical storybook scene inside a cozy late-night Tokyo garage glowing with soft pink and gold neon: Pepper-kun, a round black cast-iron hot-plate friend with a chef's bandana, sizzling beef strips, golden corn, and a butter swirl, leans in carefully with a tiny wrench to tune up Kei, a teeny round butter-yellow Japanese kei-truck with big sleepy headlight eyes and a drooping knitted seat-cover sweater. Steam puffs, a tiny fish-shaped oil can, warm rim-lighting, soft focus background of tools and a flowerpot. Tender, gentle, magical mood.
-2. Character portrait of Pepper-kun: a small round cast-iron hot-plate with stubby legs, piled with sizzling beef strips, golden corn kernels, a melting butter swirl, and a ring of white rice, wearing a tied chef's bandana, mid-SIZZLE with tiny happy sparks of steam, one little wrench held proudly aloft, beaming with warm confidence. Kawaii storybook style, cozy palette of black iron, gold, butter-yellow, and ember-orange.
-3. The cozy closing scene: the little butter-yellow kei-truck Kei, now polished and bright with two glowing headlights and a snug mended sweater, parked side by side with the gently simmering Pepper-kun under a soft pink neon sign in the quiet garage. A tiny moth glows dimly in a flowerpot by the window. Both friends are sleepy and content, warm golden light, peaceful nighttime stillness, storybook softness.
+1. Key scene — warm whimsical storybook illustration inside a cozy late-night Tokyo garage lit by pink and gold neon: Pepper-kun, a round black cast-iron hot-plate on stubby legs with a chef's bandana, sizzling beef strips and golden corn, skidding backwards across the oily floor as a tower of tires topples, five tires rolling in five directions; Kei, a teeny round butter-yellow kei-truck with big headlight eyes and a drooping knitted seat-cover sweater, tipping her flatbed up to catch one; beef strips flying like confetti; warm rim-light, soft focus tools and a flowerpot by the window; silly, tender, magical.
+2. Character portrait — Pepper-kun: a small round cast-iron hot-plate with stubby legs, piled with sizzling beef strips, golden corn kernels, a melting butter swirl and a ring of white rice, a tied chef's bandana, sitting inside a tire like a rubber doughnut with one tiny wrench held up and a sheepish grin, little sparks of steam; kawaii storybook style, palette of black iron, gold, butter-yellow and ember-orange.
+3. Closing scene — the quiet garage at night under a soft pink neon glow: Kei the butter-yellow kei-truck, polished and bright with two glowing headlights and a snug mended sweater, parked side by side with the gently simmering Pepper-kun; a corn kernel radio knob; a tiny moth glowing dimly in a flowerpot by the window; both friends sleepy and content, warm golden light, peaceful nighttime stillness.
+
+## Animation Notes
+- **Cast:**
+  - `PEPPER` — Pepper-kun: a round black cast-iron hot-plate on stubby legs, piled with sizzling beef strips, golden corn, a butter swirl and a ring of rice, red chef's bandana, tiny steam sparks; voice: showman, warm, theatrical.
+  - `KEI` — Kei the kei-truck: a teeny round butter-yellow mini-truck with big headlight eyes, a stubby flatbed, tidy mud-flaps and a knitted seat-cover worn like a sweater; voice: eager, putt-putt, beepy.
+  - `MOTH` — a tiny pale moth with fuzzy antennae and a faint glow, round and unbothered; no lines.
+- **Scenes:**
+  1. A small garage at the end of Pancake Alley at night: pink neon glow, a buzzing neon tube, a droopy yellow kei-truck in the corner, tools on the walls.
+  2. The workbench side of the garage at night: an open iron toolbox, a fish-shaped oil can, a radio, the window fogging with steam.
+  3. The garage floor at night: an oil puddle shining pink, a tall stack of tires toppling, the kei-truck with her flatbed tipped up.
+  4. Close on the kei-truck at night: one dim headlight with a tiny moth house over it, a squeaky spring, the unravelled bottom loop of the knitted sweater.
+  5. The garage at night, quiet work: a flowerpot by the window, a pebble on the shelf, a radio with a corn-kernel knob, headlights being polished.
+  6. The garage at night, the big finish: steam sparks, both headlights blazing, the kei-truck bouncing and taking a lap on two wheels under the neon.
+  7. The garage at night, lights low: truck and hot-plate parked side by side under the pink glow, the moth dimming in the flowerpot.
+- **Budget:** 667 narrated words · 44 beats · 7 scenes · est. 4:57

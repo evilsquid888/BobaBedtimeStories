@@ -1,163 +1,130 @@
 # Story 45: Tomi Tamago and the Conveyor-Belt Parade
 
 **Main Character:** Tomi Tamago — a sweet, golden, pillowy egg (tamago) nigiri with a little seaweed belt, gentle and easily overlooked
-**Guest Characters:** Toro — a cool, slouchy salmon nigiri
+**Guest Characters:** Toro, a cool slouchy salmon nigiri; Ume, a small tired plum dumpling
 **Setting:** A spinning conveyor-belt sushi restaurant
 **Theme:** Simple and kind never goes out of style
 **Japanese Spotlight:** **yasashii** (yah-sah-shee) — kind / gentle
 
 ---
 
-If you have never seen a sushi restaurant from the *inside of a sushi plate*, then you have missed one of the silliest views in all the world. Round and round goes the **kaiten-zushi** (kye-ten-zoo-shee) — conveyor-belt sushi — a long shiny river that loops past every hungry table, carrying little plates like tiny parade floats. And riding on one of those plates, holding on for dear life every time the belt went *clackety-clack* around a corner, was a soft golden fellow named Tomi Tamago.
+Round and round went the **kaiten-zushi** (kye-ten-zoo-shee) — conveyor-belt sushi — a shiny river of plates.
 
-Tomi was a square of sweet, fluffy egg — pillowy as a pancake that had been to spa school — perched on a pat of warm rice, with one neat little belt of seaweed buckled snugly around his middle. He looked, frankly, like a tiny golden mattress wearing a tidy black belt. And he wobbled when he was nervous, which was *often*, because Tomi Tamago had a big problem.
+On one plate, holding on at every clackety corner, rode a soft golden fellow named Tomi Tamago.
 
-Nobody ever picked him up.
+Tomi was a pillowy square of sweet egg on rice in a neat seaweed belt: a tiny mattress.
 
----
+He had one big problem. Nobody ever picked him up.
 
-"Make way! MAKE WAY for the deluxe platter!" bellowed a voice from the plate ahead.
+"MAKE WAY for the deluxe platter!" bellowed a tower of gold-flaked tuna, flexing as it rolled by.
 
-It was a tower of glittering tuna draped in gold flakes, doing little flexes as it rolled past the customers. Behind it came a salmon roll wearing sunglasses, then a fancy roll so tall it needed three toothpicks just to stand up, then a plate of jewel-bright fish eggs that popped and sparkled like fireworks.
+Whoosh. A busy briefcase-bun grabbed the tuna. Whoosh. A tall roll with three toothpicks. Gone.
 
-And then, last of all, puttering along quietly at the very back, came Tomi.
-
-"Excuse me," Tomi said softly to a hungry-looking businessman. "I'm warm and sweet, if you'd—"
-
-But the man had already grabbed the gold-flaked tuna. *Whoosh.* Gone.
-
-"Oh," said Tomi. "That's all right. Maybe next loop."
-
-Round and round he went. Past the chattering families. Past the giggling kids. Past the old man slurping noodles who waved at *everything* but reached for nothing. And every single time, the dazzling plates got snatched up first — and plain little Tomi just kept rolling, going *clackety-clack*, a small golden mattress on a long lonely river.
-
-By his fortieth loop, Tomi had counted the same ceiling fan one hundred and twelve times. He had memorized the exact spot on the wall where someone had once flicked a grain of rice and never cleaned it up. He had named that grain of rice "Steve," because when you spend enough time on a conveyor belt, you start making friends with the décor.
-
-"Good morning, Steve," Tomi sighed as he rolled past. "Still up there, I see."
-
-Steve, being a single dried grain of rice glued to a wall, did not answer. But Tomi liked to imagine he was the supportive type.
+"That's all right," said Tomi, wobbling. "Maybe next loop." He just wanted to be chosen once.
 
 ---
 
-"Psst. *Psst.* New guy. You look like you've been around the block."
+By his fortieth loop, Tomi had named a grain of rice stuck to the wall "Steve."
 
-The voice came from the plate beside him. It belonged to Toro, a sleek slice of orange salmon over rice who had clearly done this a thousand times. Toro had the relaxed slouch of someone who knew exactly how cool he was, and a single grain of rice stuck jauntily to his cheek like a beauty mark.
+"Morning, Steve," he sighed. "Still up there, I see."
 
-"Around the block?" Tomi sighed. "Toro, I've been around the block forty-one times. I think the block knows me by name now."
+"Psst. Newbie," drawled the plate beside him. "You look like you've been around the block."
 
-Toro laughed. "First rule of the belt, my soft little friend: you gotta *sparkle*. Look at the tuna! Gold flakes! Look at the roe — they *pop*! That's showbiz, baby. You? No offense, but you're beige."
+It was Toro, a slouchy salmon nigiri in sunglasses, one rice grain stuck to his cheek.
 
-"I'm *golden*," Tomi said, a little hurt.
+"Forty-one times," sighed Tomi. "The block knows me by name."
 
-"You're a polite shade of beige," Toro said kindly, "wearing a tiny belt."
+"First rule of the belt," said Toro. "You gotta SPARKLE. No offense, but you're beige."
 
-Tomi looked down at his neat little seaweed belt and his soft pale self. It was true. Next to the parade of glitter and sparkle, he was about as exciting as a nap.
+"I'm GOLDEN," said Tomi.
 
-"Watch and learn," said Toro. As they trundled past a little boy, Toro struck a pose so dramatic that one of his rice grains nearly flew off. "Behold!" he announced. "Wild-caught! Premium! *Sleek!*"
-
-The little boy stared at Toro for a long moment.
-
-Then he reached past him entirely and grabbed a plate of fried chicken karaage, because the little boy was six and six-year-olds have *no respect for showbiz whatsoever*.
-
-"Bah," grumbled Toro, deflating. "Tough crowd. Toddlers, am I right? Anyway — the *point* is, you've gotta give them something to look at."
-
-"Maybe I should learn a trick," Tomi said. "Do you think I could do a flip?"
-
-"A *flip*?" Toro's eyes went wide with delight. "Yes! Show 'em some pizzazz!"
-
-So as they rolled past the noodle-slurping grandpa, Tomi Tamago took a deep breath, scrunched up his fluffy golden self, and *jumped*.
-
-It was not a flip.
-
-It was barely a hop. Tomi wobbled half an inch into the air, his little seaweed belt slipped down to his ankles (he did not technically have ankles, but it slipped to where they would be), and he landed with a soft *floomp* — backward — facing the wrong way entirely.
-
-"Did I sparkle?" Tomi asked, dizzy.
-
-Toro was laughing so hard the rice grain fell off his cheek. "You sparkled like a marshmallow falling off a couch! Oh, buddy. Maybe acrobatics isn't your thing."
-
-"Then I'll be *loud*," Tomi declared, hitching his belt back up with great determination. As they rolled past a table of chatty aunties, he puffed out his fluffy golden chest and shouted in the biggest voice a soft little egg could manage: "STEP RIGHT UP! GET YOUR DELICIOUS — um — EGG!"
-
-It came out roughly as loud as a sneeze in a pillow factory.
-
-One auntie paused mid-sentence. "Did you hear something?" she asked.
-
-"Probably the air conditioner," said another, and they went right back to talking.
-
-Tomi slumped. "I'm not even louder than an air conditioner."
-
-"In fairness," said Toro gently, "air conditioners are pretty loud."
-
-Tomi spun slowly back around to face front, his belt drooping, feeling smaller than ever. "Maybe *nothing's* my thing," he said quietly. "Maybe sweet and soft and simple just isn't worth picking up anymore."
-
-And for once, even sleek, slouchy Toro didn't have a joke ready.
+"A polite shade of beige," said Toro kindly, "wearing a tiny belt."
 
 ---
 
-It was late now. The big bright dinner rush had thinned. The gold-flake tuna had long since been eaten, the sparkly roe were gone, and even the showoff roll with three toothpicks had been carried away in triumph. The restaurant was quiet and warm, the lights turned low and honey-colored.
+"Watch and learn." Toro struck a pose as they passed a six-year-old dumpling. "Wild-caught! Premium! SLEEK!"
 
-That was when *she* came in.
+The dumpling reached right past him for the fried chicken. Six-year-olds have no respect for showbiz.
 
-A girl, about nine years old, slid into the seat by the belt with a small, heavy sigh — the kind of sigh that has a whole long day folded up inside it. She wasn't bouncy the way kids usually were. Her shoulders were slumped. Her eyes were tired and a little watery. She had spent the whole long day at a brand-new school, in a brand-new city, where she knew exactly nobody, and where lunch had been loud and the hallways had been confusing and one boy had laughed at her shoes. She was the kind of tired that lives behind your eyes.
+"Then I'll flip," said Tomi. He scrunched up his fluffy self and JUMPED.
 
-She looked up at the conveyor belt.
+It was barely a hop. His belt slid to his ankles. He landed, floomp, facing backward.
 
-A few flashy plates were making one last circuit — a leftover fancy roll, a slice of something dressed up with a little flag. They twirled past her, doing their best to dazzle.
+"Like a marshmallow falling off a couch," laughed Toro, so hard his rice grain fell off.
 
-But the girl's tired eyes slid right over the sparkle.
+"Then I'll be LOUD," said Tomi. "STEP RIGHT UP! GET YOUR DELICIOUS... UM... EGG!"
 
-And then she saw Tomi.
-
-Soft. Golden. Pillowy and warm, with one neat little belt of seaweed buckled gently around his middle. He didn't pop or flex or flash. He just sat there, plain and patient, looking exactly like the most comforting thing a person could possibly want at the end of a very long, very hard day.
-
-Her tired eyes, which had been so heavy all day, went soft and round and just a little bit hopeful — the way your eyes go when you finally spot something that feels like a hug.
-
-The girl reached past all the dazzle — past the flags and the fancy and the flair — and lifted up Tomi Tamago.
-
-"There you are," she whispered, as if she'd been looking for him all her life. "You look so soft."
-
-Tomi, who had braced himself for nothing for forty-one loops, did not know what to do. So he did the only thing he knew how to do.
-
-He was simply, quietly **yasashii** (yah-sah-shee) — kind and gentle — the way he had always been.
-
-He didn't try to sparkle. He just let himself be warm, and sweet, and soft, the way he had always been — the way that suddenly seemed like exactly the right thing to be.
-
-"My grandma used to make tamago just like you," the girl said, and a little of the tired melted off her face. "She'd fold the egg over and over, slow and patient, and she said the sweet egg one is for when your heart needs something yasashii." She smiled, the first real smile of her whole hard day. "I think my heart needed something gentle. I think it needed *you*."
-
-Tomi felt his whole golden self go warm and wobbly — but for once, it wasn't a nervous wobble. It was the happy kind. The kind you get when, after waiting and waiting and waiting, somebody finally, finally sees you.
+It came out as loud as a sneeze in a pillow factory. A pickled plum blinked. "Air conditioner?"
 
 ---
 
-From the belt, Toro watched the whole thing with his mouth hanging open.
+"Go BIG," said Toro. "The tall roll got picked. Be tall." He slid two plates under Tomi.
 
-"She walked *right past* the gold tuna," he murmured. "She walked past *everything*. For you."
+Then three. Then five. Tomi teetered on a wobbling tower, the tallest thing on the belt.
 
-"For gentle," Tomi corrected softly, and he didn't even mind that his belt was still a little crooked from the flip that wasn't a flip.
+"Behold!" he squeaked. "DELUXE TAMAGO!" The belt went clackety-clack around the corner.
 
-The girl held Tomi up close, and for one perfect moment they looked at each other — the tired girl and the soft golden friend who had been overlooked one too many times and had just been, quietly, exactly enough.
+The tower leaned. The tower tipped. The tower went over like a slow, polite avalanche.
 
-"Thank you for waiting for me," the girl whispered.
+Plates skidded. The soy bottle toppled. A blob of wasabi flew and splatted onto Toro's sunglasses.
 
-"I'm a tamago," Tomi whispered back, with all the warmth in his fluffy little heart. "Waiting gently is the *one* thing I'm truly good at."
+Tomi landed upside down on the pile, belt around his ears, wearing one gold flake.
 
-And then — *munch* — she ate him up, and oh, it was the happiest, coziest, most golden ending a little egg could ever hope for. Tomi felt himself become warmth in a tired girl's tummy, the exact kind of warmth her heart had been hunting for all day long. If a soft golden mattress with a tiny belt could glow with pride, Tomi Tamago glowed like a sunrise.
+"Maybe nothing's my thing," said Tomi quietly. "Maybe soft and simple isn't worth picking up."
 
-"Showbiz, baby," he sighed happily, somewhere inside his very best day.
+---
 
-And from the belt, going *clackety-clack* into the warm honey light, Toro smiled and tipped his little rice grain like a hat.
+Late at night the restaurant went quiet, lights low and honey-colored. The belt rolled slow.
 
-"Sparkle fades," Toro said to no one in particular. "But yasashii? Gentle never goes out of style."
+Tomi hitched his belt back up, sat plain and patient on his plate, and simply rode.
 
-The belt rolled on, slow and sleepy now, carrying its last few plates around and around — and somewhere on it, you can bet, there was another soft and simple little bite, waiting patiently for the tired heart that would someday reach right past the dazzle, and pick it.
+Ume, a plum dumpling, slumped into a seat with the sigh of a hard first day at school.
+
+Fancy rolls twirled past, waving flags. Her tired eyes slid over them and found Tomi. Soft. Golden. Patient.
+
+She reached past the dazzle and lifted him up. "There you are," she whispered. "You look so soft."
+
+---
+
+Tomi did the only thing he knew. He was **yasashii** (yah-sah-shee) — kind and gentle. He stayed soft.
+
+"My granny folded egg like you," said Ume. "The sweet one is for when your heart needs gentle."
+
+A little tired melted off her face. Tomi went warm and wobbly, the happy kind.
+
+Toro's mouth hung open. "She walked past the gold tuna. For you."
+
+"For gentle," said Tomi softly. "Waiting gently is the one thing I'm truly good at."
+
+---
+
+Then, munch. The happiest, most golden ending a little egg could hope for. Showbiz, baby.
+
+Toro tipped his rice grain like a hat. "Sparkle fades. But yasashii? Gentle never goes out of style."
+
+The belt rolled on, slow and sleepy, carrying one more soft bite toward whoever needed it.
 
 ---
 
 ## Goodnight Blessing
-
-Little one, you do not have to sparkle to be special. You do not have to flip, or flash, or shout to be picked. Some of the most wanted things in all the world are simply *soft*, and *sweet*, and yasashii — gentle and kind. Be the warm thing at the end of someone's long day. Be the gentle bite a tired heart reaches for. And when *you* are tired, may something soft and golden be waiting just for you. Rest now, dear one. You are already exactly enough. Goodnight.
+You do not have to sparkle to be special, or flip, or shout to be picked. The most wanted things in the world are often simply soft and gentle. Rest now. You are exactly enough. Goodnight.
 
 ## AI Image Prompts
+1. Key scene — warm whimsical storybook illustration inside a conveyor-belt sushi restaurant: a wobbling tower of five stacked plates tipping over at the belt's corner, Tomi Tamago (a pillowy square of golden sweet egg on rice with a neat black seaweed belt, big gentle eyes) tumbling off the top with his belt around his ears and one gold flake stuck to him, plates skidding, a soy bottle toppling, a blob of wasabi flying toward Toro (a slouchy orange salmon nigiri in sunglasses with a rice grain on his cheek), tables of cute dumplings and buns looking on. Palette of honey, cream, salmon-orange and warm wood.
+2. Character portrait — Tomi Tamago: an adorable pillowy square of golden-yellow sweet egg sitting on a small pat of white rice, one tidy black seaweed belt buckled around his middle, big gentle eyes, a soft shy smile, looking like a tiny cozy golden mattress wearing a belt. Warm cheerful children's-book style, simple and endearing, soft lighting.
+3. Closing scene — the quiet sushi restaurant late at night, lights low and honey-colored, the mostly empty belt winding into warm light: Toro the slouchy salmon nigiri tipping the rice grain on his cheek like a hat, Ume, a small round plum dumpling with a tiny schoolbag, smiling softly at the counter, one last plain golden bite riding patiently away on the belt. Peaceful dreamy bedtime illustration in honey and amber tones.
 
-1. **Key scene:** A cozy, dimly lit conveyor-belt sushi restaurant in warm honey-colored light. A tired 9-year-old girl with slumped shoulders, sitting at the counter, reaches past several flashy sparkling sushi plates to lift up one plain, soft, golden tamago nigiri with a neat little seaweed belt. Her face is just beginning to smile. Storybook illustration, gentle and heartwarming, soft glowing tones.
-
-2. **Character portrait:** Tomi Tamago — an adorable, pillowy square of golden-yellow sweet egg sitting on a small pat of white rice, with one tidy black seaweed belt buckled around his middle. Big gentle eyes, a soft shy smile, looking like a tiny cozy golden mattress wearing a belt. Warm cheerful children's-book style, simple and endearing, soft lighting.
-
-3. **Closing scene:** A quiet, sleepy sushi conveyor belt winding into warm low light, mostly empty now. Toro, a cool slouchy salmon nigiri with a single rice grain on his cheek, tips the rice grain like a hat and smiles. One last soft golden bite rides patiently on the belt into the distance. Peaceful, dreamy, bedtime storybook illustration in honey and amber tones.
+## Animation Notes
+- **Cast:**
+  - `TOMI` — Tomi Tamago: a pillowy square of golden sweet egg on a pat of white rice, one neat black seaweed belt around his middle, big gentle eyes, shy smile; voice: soft, earnest, hopeful.
+  - `TORO` — Toro: a sleek slouchy slice of orange salmon over rice, little sunglasses, one grain of rice stuck to his cheek; voice: laid-back, drawling, amused.
+  - `UME` — Ume: a small round pale-pink plum dumpling with a tiny schoolbag, slumped shoulders and big tired watery eyes; voice: small, quiet, tired-then-warm.
+- **Scenes:**
+  1. A conveyor-belt sushi restaurant: a shiny looping belt carrying little plates past wooden counters, warm lamps, tables of treat-folk, a flashy gold-flake tuna platter.
+  2. The belt beside a wall with one dried grain of rice stuck to it, a ceiling fan above, Tomi and Toro side by side on their plates.
+  3. The belt passing tables of treat-folk: a small dumpling with a plate of fried chicken, a table of chatty pickled plums, a soy bottle on the counter.
+  4. The belt's corner: a wobbling tower of stacked plates, a toppling soy bottle, plates skidding, a flying blob of wasabi.
+  5. The restaurant late at night, nearly empty, lights low and honey-colored, the belt rolling slow, one seat at the counter with a small plum dumpling.
+  6. Close on the counter at night: Ume holding Tomi up to her face, Toro watching from the belt, warm low light.
+  7. The quiet belt winding away into warm honey light at night, one plain golden plate riding on it.
+- **Budget:** 666 narrated words · 42 beats · 7 scenes · est. 4:55

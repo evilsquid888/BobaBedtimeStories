@@ -78,7 +78,7 @@ And he kept blinking at Pock, slow and steady, as if to say: *like this. Try it 
 
 ---
 
-"Tell you what," said Yuki, stretching her warm taffy arms across the water. "We're going to teach you the cozy art of a good warm rest. It's the most important thing we snow-monkey-buns know. Ready? Step one: get in."
+"Tell you what," said Yuki, stretching her warm stretchy little arms across the water. "We're going to teach you the cozy art of a good warm rest. It's the most important thing we snow-monkey-buns know. Ready? Step one: get in."
 
 Pock got in. The water was so warm and so kind that he let out a tiny, surprised "...oh."
 

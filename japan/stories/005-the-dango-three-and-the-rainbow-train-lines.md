@@ -4,7 +4,7 @@
 **Guest Characters:** None
 **Setting:** The colorful Tokyo subway map and station platforms
 **Theme:** Three heads (and three colors) are better than one
-**Japanese Spotlight:** **Eki** (eh-kee) — train station
+**Japanese Spotlight:** **eki** (eh-kee) — train station
 
 ---
 

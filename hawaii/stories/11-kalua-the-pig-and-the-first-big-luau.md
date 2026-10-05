@@ -1,137 +1,134 @@
 # Story 11: Kalua the Pig and the First Big Luau
 
 **Main Character:** Kalua the Pig (Kalua roast pig — luau pit-roasted pork)
-**Guest Characters:** None
+**Guest Characters:** Lilikoi Lani; Honu Haupia; Manapua Mano
 **Setting:** A sandy beachside luau with tiki torches near Waikiki
 **Theme:** The best feasts are made of patience and love.
 **Hawaiian Spotlight:** **luau** (LOO-ow) = Hawaiian feast
 
 ---
 
-Deep under the warm Waikiki sand, wrapped in a cozy blanket of ti leaves, Kalua the Pig was waking up the slowest, snuggliest way a pig can wake up — which is to say, he wasn't really waking at all. He was simmering.
+Deep under the warm Waikiki sand, wrapped in a blanket of ti leaves, Kalua the Pig was simmering.
 
-"Mmmmmmmmm," rumbled Kalua, like a happy little earthquake. A curl of fragrant smoke drifted up through the sand and tickled a passing crab right on the nose. The crab sneezed, did a tiny backflip, and scuttled away muttering, "Smells like the best day of the year down there."
+"Mmmmmmm," he rumbled, like a happy little earthquake. A smoke curl tickled up through the sand.
 
-It was. Because today — for the very first time ever — the whole island was throwing a great big **luau** (LOO-ow) = Hawaiian feast, and Kalua, the softest, smokiest, roly-pollyest pig you ever did meet, was going to be the guest of honor right in the middle of the table.
+Manapua Mano sniffed it, sneezed, and did a backflip. "Smells like the best day of the year!"
 
-He could hardly wait. He'd been waiting since sunrise. And waiting, it turns out, was the one thing Kalua was extremely, marvelously good at.
+Today was the island's first **luau** (LOO-ow) = Hawaiian feast. Kalua was the guest of honor.
 
----
+Kalua wanted one thing: every belly full, every smile sticky. "Low and slow, that's how love grows."
 
-Now, you might think a fellow buried under the sand all day would get bored. Not Kalua. Down in his warm and toasty pit, called an **imu** (EE-moo) = underground oven, Kalua kept himself busy doing what he loved best: thinking warm thoughts about everyone he loved.
-
-"Low and slow," he hummed to himself, "that's how love grows."
-
-He thought about little Mac the Macadamia, who was so shy he sometimes forgot to come out of his shell for breakfast. He thought about Lilikoi Lani, who was so fast she once introduced herself, said goodbye, and circled the island all in a single afternoon. He thought about every belly that would soon be full and every smile that would soon be sticky. And the more he thought, the warmer and more wonderful he grew, until he was practically glowing in the dark like a sleepy golden moon.
-
-Above the sand, though, things were not low and slow at all. Things were a flappity, flustery mess.
-
-"It's too SLOW!" squawked a little voice. It was Lilikoi Lani, the zippy purple passion fruit, bouncing across the beach so fast she left a tangy-sweet scent trail behind her like a comet. "The sun's going down! The torches aren't lit! And Kalua's STILL underground! At this rate the luau will start next Tuesday!"
-
-"Easy, easy," said Honu Haupia, the gentle coconut-pudding sea turtle, gliding by with her shell jiggling softly. "Slow flippers, far journeys, little one."
-
-"We don't HAVE far!" Lani zipped in a circle so fast that Honu had to blink three times just to keep up. "We have HUNGRY!"
-
-"You are always hungry," said Honu serenely.
-
-"That's because I'm always RIGHT about dinner," said Lani, and she zipped off to worry somewhere else.
-
-And she wasn't wrong about the hungry part. Over by the table, Manapua Mano the steamed pork bun was bouncing up and down, leaving little puffs of steam in the air. "Is it time yet? Is it time yet? My tummy says it's time. My tummy is VERY honest."
-
-"Your tummy is always honest," giggled Malia the Malasada, the puffy golden doughnut, and a little shower of sugar crystals sparkled off her cheeks as she laughed. "That's why we love it."
-
-"What if," whispered Mac the Macadamia, peeking shyly out of his glossy shell, "what if we dig Kalua up early? Just a little early. To hurry things along."
-
-The whole beach gasped.
-
-"Dig him up EARLY?" boomed a slow, jolly voice from underground, and the sand rumbled with a belly-laugh so warm it made the tiki torches lean in to listen. "Oh, keiki, you can't hurry a hug. And a luau, my dears, is just one great big hug you can eat."
+Above him, things were not low, not slow, and not calm.
 
 ---
 
-It was Kalua, of course, talking right up through the sand. The friends gathered close around the imu, sitting cross-legged in the cooling evening, and Kalua's warm rumble drifted up like a bedtime story told from a cozy cave.
+"It's too SLOW!" squawked Lilikoi Lani, zipping across the sand with a tangy comet trail.
 
-"When I first lay down this morning," Kalua said, "I was just plain pork. Tough and plain and not very interesting, if I'm honest. But all day long, the warm imu has been holding me close, soft and slow, the way Poi Popo holds her old stories. And slowly, slowly, all that warmth has been turning me into something tender. Something worth sharing."
+"Kalua's STILL underground!" said Lani. "At this rate the luau starts next Tuesday!"
 
-"But doesn't it take SO LONG?" sighed Lani, flopping dramatically onto the sand like a tiny purple pancake.
+"Slow flippers, far journeys, little one," said Honu Haupia, gliding by, shell jiggling softly.
 
-"It takes exactly as long as love takes," said Kalua kindly. "Which is to say — longer than you want, and just right when it comes."
+"We don't HAVE far," said Lani. "We have HUNGRY."
 
-Lani opened her mouth to argue. Then she closed it. Then she scooched a little closer to the warm sand, because, honestly, it felt rather nice down there.
+"My tummy says it's time," said Manapua, bouncing. "My tummy is VERY honest."
 
-"Tell us a thinking, Kalua," said Malia, settling in with a soft sugary plop. "What do you think about, all day down in the dark?"
+"Then we hurry him up," said Lani, with the look of a fruit with a plan.
 
-"Oh, everything sweet and slow," rumbled Kalua. "I think about how the sun takes all morning to climb the sky and never once gets in a hurry. I think about how the waves have been polishing these same little stones for a thousand years and aren't done yet. And I think," he added, with a chuckle that shook three crabs loose from a nearby log, "about second helpings. A pig must always think about second helpings."
+---
+
+Attempt one. Lani fanned the **imu** (EE-moo) = underground oven with a palm frond like a hurricane.
+
+Sand flew everywhere. Sandy bun. Sandy turtle. The pig stayed underground.
+
+"Faster fire, faster pig," coughed Lani, fanning harder, until the frond snapped in half.
+
+Attempt two. Manapua dug. He dug so hard he vanished head-first, feet wiggling in the air.
+
+"I found a WARM thing!" came his muffled voice. "It's a yam. Hello, yam."
+
+Honu tugged him out by the feet with one slow, patient flipper. Pop.
+
+---
+
+Attempt three. Lani looped a vine round a leafy bump in the sand. "Everybody PULL!"
+
+They pulled. The vine stretched. The vine twanged. Manapua shot backward into the sea. Splash.
+
+The bump was one ti leaf. Just one. It waved politely in the wind.
+
+"Oh, keiki," boomed a slow jolly voice from under the sand. The beach rumbled with laughter.
+
+"You can't hurry a hug," said Kalua. "And a luau is just one big hug you can eat."
+
+---
+
+Dripping, sandy, and sheepish, the friends sat round the warm sand.
+
+"This morning I was plain tough pork," rumbled Kalua. "The imu held me close. Now I'm worth sharing."
+
+"But it takes SO LONG," said Lani, flopping onto the sand like a tiny purple pancake.
+
+"It takes as long as love takes," said Kalua. "Longer than you want. Just right when it comes."
+
+"Down there, I think about second helpings," said Kalua. "A pig must always think about second helpings."
 
 "NOW you're talking," said Manapua, with deep respect.
 
-Poi Popo, the soft lavender-grey elder of pounded taro, settled beside the imu with her flower lei swaying. "When I was young as a fresh taro root," she said in her gentle, ancient voice, "the old ones taught me: **'Ohana** (oh-HAH-nah) = family is like the imu. You give it your warmth, you give it your time, and you do not, do not, do NOT keep peeking to see if it's done." She winked one wise old eye. "Manapua peeked at his breakfast bun once. Burned his nose."
+---
 
-"I did NOT burn my nose," said Manapua. Then, very quietly: "...It was a little toasty."
+If waiting was the secret ingredient, they would wait together, and make it wonderful.
 
-Everyone laughed, even the crab, who had come back to watch.
+Honu gathered shells for the table. It took a very long time. That was the point.
+
+Manapua set out all the bowls, and only ate out of two of them.
+
+And Lani found she was the perfect size to zip from torch to torch with a tiny ember.
+
+One by one the torches bloomed gold, until the whole beach glowed like a campfire.
+
+"Whoa," breathed Lani, going still. For Lani, that was a miracle.
+
+"Sour first," said Honu, smiling her ancient smile, "sweet always."
 
 ---
 
-As the sky turned the color of guava and gold, the friends decided that if waiting was the secret ingredient, then they would wait together — and they'd make the waiting wonderful.
+The last torch flickered to life. A hush fell, the soft happy kind.
 
-So they got to work, **pono** (POH-noh) = with goodness and care, the way you do things right.
+Gently, the friends brushed away the warm sand and unwrapped the ti-leaf blanket.
 
-Poke Pua arranged little dishes of bright food along the long table, fussing over each one. "A little seaweed here... a sesame star there... no, no, THERE... perfect. Fresh from the sea, that's me!"
+Up rose Kalua, golden and glistening, smoke curling sweetly, like a sunset that decided to become dinner.
 
-Malia the Malasada rolled herself in extra sugar and set out a whole basket of warm treats. "Fresh, warm, and never alone!" she sang, hugging anyone who came near, which made the sugar fall off her cheeks like a happy little blizzard.
+"Family," he rumbled, "I wasn't waiting to be eaten. I was waiting to be ENOUGH. Look at you."
 
-Mac the Macadamia, small but mighty, found the heaviest tiki torch of all and pushed it upright, all by himself, with a grunt and a heave. "Small but mighty," he puffed, "shell to heart."
-
-Niu the Coconut sloshed cool water into cups for everyone. "Tough shell, sweet heart," he reminded them, "and a luau is no place to be thirsty." He paused. "Did you know a single coconut can hold an entire afternoon's worth of water?"
-
-"We know, Niu," said everyone.
-
-"And did you know the word for —"
-
-"We know, Niu!" they laughed, and Niu beamed, because being a know-it-all is much nicer when your friends love you anyway.
-
-Even Honu Haupia helped, gliding ever so slowly along the shoreline gathering the prettiest shells to line the table's edge. It took her a very long time. But of course, that was rather the point.
-
-And Lilikoi Lani — well, Lani discovered that she was the perfect size to scurry from torch to torch with a little ember, lighting each one. One by one, the tiki torches bloomed into golden flames, until the whole beach glowed warm as a campfire, and the sea sparkled with a hundred dancing lights.
-
-"Whoa," breathed Lani, finally going still — which, for Lani, was nothing short of a miracle. "It's... it's worth waiting for."
-
-"Sour first," smiled Honu Haupia, "sweet always."
-
-And underneath them all, snug in his imu, Kalua felt the warmth of the torches reaching down to greet him, and he knew — the way you know a hug is coming before the arms even reach you — that the long, slow, wonderful day was nearly done.
+"Now dig in, darlings," laughed Kalua. "Low and slow, that's how love grows, and the love is ready."
 
 ---
 
-And then — the moment came.
-
-The last torch flickered to life. The first star peeked out over Diamond Head. A hush fell over the beach, the soft, happy kind of hush, the kind that means something wonderful is about to begin.
-
-Slowly, gently, the friends brushed away the warm sand and unwrapped Kalua's ti-leaf blanket.
-
-And there he was.
-
-Oh, you should have seen him! Kalua the Pig rose up golden and glistening and tender, fragrant smoke curling sweetly off his back, the warmest smile on his sleepy face. He looked, the crab declared, "like a sunset that decided to become dinner."
-
-The friends carried him to the very center of the long table and set him down on the biggest, prettiest platter, ringed with flowers.
-
-Now — if you've been worried, little one, let me whisper something to you. Kalua was not frightened. Not even a tiny bit. Because to a luau pig, being the center of the feast is the most marvelous, most magnificent honor there is. It's the thing he'd dreamed of all day long in the warm dark of the imu.
-
-Kalua beamed so wide his whole golden self seemed to glow brighter than the torches. "Family," he rumbled, voice trembling with happy tears, "all day I waited, low and slow. And I wasn't waiting to be eaten. I was waiting to be ENOUGH. Enough to fill every belly. Enough to make every smile. And now look — look at all of you, all together, all glowing." A curl of smoke rose like a little firework. "This is the proudest moment of my whole life. A pig couldn't ask for a finer one."
-
-The whole beach cheered. Lani burst into happy, tangy tears. Manapua's tummy roared like applause. And as the friends gathered round, plates in hand, hearts full, Kalua laughed his big warm belly-laugh one last delicious time.
-
-"Now then, my darlings," he said, eyes twinkling. "Don't be shy. Dig in. Low and slow, that's how love grows — and tonight, my loves, the love is finally ready to share."
-
-And share they did. Every belly was filled. Every face was sticky and smiling. And the warmth of Kalua the Pig went round and round the whole 'ohana, into each one of them, so that no one was cold or hungry or alone — not on the night of the island's very first luau.
-
-The torches burned low. The waves whispered. And somewhere deep down, in the warm sand and the warm bellies and the warm hearts, Kalua was glowing still.
+Every belly was full. The torches burned low. Deep in warm sand and warm hearts, Kalua glowed still.
 
 ---
 
 ## Goodnight Blessing
-May your day be slow and gentle, little one, like a warm pig in a cozy pit. May the people who love you take their time with you, the way good things always take their time. And may you remember that the very best feasts — and the very best naps, and the very best hugs — are simply made of patience and love, served up warm. Snuggle down now, slow and easy, low and slow. The torches are dim, the waves are soft, and the whole island is full and happy. Goodnight.
+May your day be slow and gentle, like a warm pig in a cozy pit. The best feasts, naps, and hugs are made of patience and love. The torches are dim, the waves are soft, the island is full. Goodnight.
 
 ## AI Image Prompts
-1. A warm whimsical storybook scene of a sandy Waikiki beach at golden sunset, glowing tiki torches lining a long flower-ringed feast table. In the center sits Kalua, a big soft roly-poly golden pig made of tender pulled pork wrapped in green ti leaves like a cozy blanket, sleepy happy eyes and a gentle smile, a little curl of fragrant smoke rising from his back. Around the table cheer a cast of adorable food friends — a purple passion fruit, a steamed bun, a sugar doughnut, a coconut. Palette of guava-pink, gold, and torchlight orange. Soft, cozy, celebratory mood, painterly children's-book lighting.
-2. Character portrait of Kalua the Pig: a big, soft, smoky-golden roly-poly pig made of tender pulled pork, wrapped snugly in green ti leaves like a blanket, gentle sleepy half-closed eyes, the warmest belly-laugh smile, a single curl of sweet smoke rising from his back. Warm, jolly, gentle-giant feeling. Storybook illustration, soft golden lighting, rounded friendly shapes.
-3. A cozy closing scene at night: the luau winding down, tiki torches burned low and flickering, gentle waves whispering on dark sand, a few stars over Diamond Head. The little food friends are snuggled together near the warm glow, sleepy and content with full happy tummies, a faint golden warmth still shimmering where Kalua's platter sat. Peaceful, dreamy, bedtime palette of deep blue, ember-orange, and soft gold.
+1. Key scene — warm whimsical storybook illustration of a sandy Waikiki beach in late golden afternoon: a tiny purple passion fruit fanning a smoking sand pit with a palm frond in a blizzard of flying sand, a pillowy white steamed bun buried head-first with his feet wiggling in the air, a snow-white coconut-pudding sea turtle patiently tugging his foot with one flipper, unlit tiki torches and a long ti-leaf table behind them, palette of gold sand, turquoise sea and lilac, silly and loving mood.
+2. Character portrait — Kalua the Pig: a big, soft, smoky-golden roly-poly pig made of tender pulled pork, wrapped snugly in green ti leaves like a blanket, gentle sleepy half-closed eyes, the warmest belly-laugh smile, a single curl of sweet smoke rising from his back, torchlight glow. Storybook illustration, rounded friendly shapes, jolly gentle-giant feeling.
+3. Closing scene — evening on the beach, tiki torches burned low and flickering, gentle waves on dark gold sand, a long table ringed with shells and flowers, the passion fruit, the steamed bun and the pudding turtle snuggled together sleepy and full, a faint golden warmth shimmering where the great platter sat. Peaceful dreamy palette of deep blue, ember-orange and soft gold.
+
+## Animation Notes
+- **Cast:**
+  - `KALUA` — Kalua the Pig: a big soft smoky-golden roly-poly pig of pulled pork wrapped in green ti leaves, sleepy eyes, a curl of smoke rising from his back; voice: deep, slow, jolly.
+  - `LANI` — Lilikoi Lani: a small round purple-wrinkly passion fruit with a bright orange-seed grin, zippy, with a tangy scent trail; voice: fast, cheeky, zesty.
+  - `HONU` — Honu Haupia: a wobbly snow-white coconut-pudding sea turtle with a shell patterned in haupia squares, slow flippers, gentle ancient eyes; voice: calm, slow, wise.
+  - `MANO` — Manapua Mano: a round pillowy white steamed bun with a rosy steam-blush and a swirl-knot on top, wisps of steam; voice: bouncy, hungry, silly.
+- **Scenes:**
+  1. A sandy Waikiki beach in late golden afternoon: a mound of sand with ti leaves and a smoke curl (the imu), unlit tiki torches, a long empty ti-leaf table.
+  2. The same beach by the imu, golden light, torches unlit, a tangy scent trail across the sand.
+  3. The imu close up: a palm frond, flying sand, a hole in the sand with feet sticking out, a yam.
+  4. The imu with a vine looped round one ti leaf, the shoreline and sea behind, a splash.
+  5. The three friends sitting in a circle around the warm sand mound, a hint of ti leaf and smoke, golden light fading.
+  6. The beach at evening: the table lined with shells and bowls, tiki torches lighting one by one, golden glow spreading.
+  7. The imu uncovered at evening, all torches lit, the golden glistening pig rising from ti leaves on a flower-ringed platter.
+  8. The beach late at evening, torches burned low, calm dark waves, the full happy table.
+- **Budget:** 659 narrated words · 42 beats · 8 scenes · est. 4:52

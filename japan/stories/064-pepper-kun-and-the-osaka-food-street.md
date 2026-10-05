@@ -1,161 +1,133 @@
 # Story 64: Pepper-kun and the Osaka Food Street
 
 **Main Character:** Pepper-kun (Pepper Lunch sizzle)
-**Guest Characters:** Pika the Kushikatsu (a dazzling new fried-skewer star)
+**Guest Characters:** Pika the Kushikatsu (a dazzling new fried-skewer star); a sleepy street pigeon
 **Setting:** Osaka's neon Dotonbori food street, the "nation's kitchen"
 **Theme:** Someone else's shine doesn't dim yours
 **Japanese Spotlight:** **kushikatsu** (koo-shee-kah-tsoo) — crispy golden fried skewers on sticks
 
 ---
 
-Pepper-kun had a favorite moment of the whole day, and it happened every evening at exactly lantern-time.
+At lantern-time, the sky over **Dotonbori** (doh-tohn-boh-ree) — Osaka's canal-side food street turned plum purple.
 
-The sky over **Dotonbori** (doh-tohn-boh-ree) — Osaka's famous canal-side food street, the kitchen of the whole nation — would turn a deep plum purple. The neon signs would flicker awake, pink and orange and electric blue. The giant mechanical crab above the street would wave one creaky leg like it was conducting an orchestra. And Pepper-kun — a little round black iron hot-plate friend piled with sizzling beef, golden corn, and one perfect butter swirl — would hop onto his counter, tighten his chef's bandana, and count down.
+Neon flickered awake, pink, orange, electric blue. The giant mechanical crab waved one creaky leg.
 
-"Five! Four! Three! Two! ONE — SIZZLE!"
+Pepper-kun, a round little iron hot-plate piled with beef, corn and butter, hopped onto his counter.
 
-*Tssssss-POP!*
+He tightened his chef's bandana. "Five! Four! Three! Two! ONE. SIZZLE!" Tssss-POP!
 
-Cheers. Steam. Happy tummies. Pepper-kun didn't just feed the loud friends at the front, either — everyone on Dotonbori knew that. He fed the shy ones half-hidden behind lantern posts. He fed the sleepy ones who forgot to ask. He could read a hungry crowd the way other folks read a menu, and the street loved him for it, and the street told him so nearly every night.
+Cheers. Steam. Happy tummies. "Best moment of the whole day," said Pepper-kun. "And all mine."
 
-Which is why what happened on Tuesday came as such a shock.
-
-On Tuesday, halfway through his countdown — right between "three" and "two," the very best part — a sound rolled down the street that Pepper-kun had never heard before.
-
-*FWOOOOOOMP.*
-
-It was bigger than a sizzle. It was a sizzle's giant golden cousin. Every head on Dotonbori turned at once, and Pepper-kun finished his countdown for nobody but a pigeon, and the pigeon was asleep.
-
-Three stalls down, beneath a brand-new sign that spelled out a name in six colors at the same time, stood the newest star in Osaka.
-
-She was tall and glittering — a proud fan of golden fried skewers arranged like a peacock's tail, crispy panko crumbs sparkling all over her like frost on a window. Beside her, a bubbling fryer roared *FWOOMP* like a friendly dragon clearing its throat, and every time it roared, little lights chased each other around her sign.
-
-"**Konbanwa** (kohn-bahn-wah) — good evening, Osaka!" she sang. "I'm Pika the **kushikatsu**! One stick! One dip! And NO double-dipping, sweethearts — that's the rule!"
-
-The crowd roared with laughter and surged toward her. Within minutes her line stretched past the crab sign, over the bridge, around a souvenir shop, and straight through the middle of a tour group that had only stopped to take a photo and was now, somehow, ordering skewers.
-
-Pepper-kun stood on his counter with a full plate of beautiful sizzling beef, and for the first time in his whole toasty life, nobody was looking at him.
-
-He waved his spatula. "Premium sizzle? Buttery beef spectacular? Anyone?"
-
-A small voice answered. It was the pigeon. It had woken up, and it wanted corn.
+He fed the loud ones up front, and found the shy ones behind lantern posts.
 
 ---
 
-Pepper-kun told himself he was not jealous.
+Then, on Tuesday, right between "three" and "two," a new sound rolled down the street. FWOOOOMP.
 
-He told himself this while polishing his iron plate hard enough to make it squeak. He told himself again while glaring at Pika's sign as it spelled her name in six colors, then — and this part felt like showing off — in *cursive*.
+Every head turned. Pepper-kun finished his countdown for a pigeon, and the pigeon was asleep.
 
-"Fine," he muttered. "FINE. She has a fwoomp. I have a sizzle. The people of Osaka will simply have to choose." But deep in his middle, under the corn, he felt something cold and hissy, like rain falling on a griddle. He was definitely not going to call it by its name.
+Three stalls down stood Pika the **kushikatsu** (koo-shee-kah-tsoo) — crispy golden fried skewers, fanned like a peacock's tail.
 
-Instead, the next night, he put on the biggest show of his entire career.
+Panko sparkled on her like frost. Her fryer roared like a friendly dragon. Lights chased around her stall.
 
-He counted down from TEN, which took so long that the crowd wandered off somewhere around "six." He juggled three beef strips, caught two, and wore the third as a small meaty hat. He unveiled his brand-new corn-confetti cannon, which worked perfectly, except backwards — it fired a glorious golden fountain of corn directly into his own bandana, where it stayed, jingling gently whenever he moved. For his grand finale he produced a steam cloud so enormous that he completely vanished inside it.
+"Good evening, Osaka!" sang Pika. "One stick! One dip! NO double-dipping, sweethearts!"
 
-"TA-DAAA!" he cried, from somewhere within the fog.
+Her line stretched past the crab, over the bridge, and around a corner.
 
-When the steam finally cleared, his entire audience was the pigeon, applauding with one wing, mostly out of politeness.
-
-Down the street, the fryer went *FWOOMP*. Pika's crowd went *oooooh*. Somebody shouted "**Sugoi!** (soo-goy) — amazing!" and somebody else shouted it louder.
-
-Pepper-kun's butter swirl went completely flat. He climbed down, scooted behind a lantern post on his stubby little legs — a hot plate cannot stomp, but he did his very best — and sulked so hard the lantern flickered.
-
-"Her shine," he grumbled to his knees, "is using up all the shine. There's only so much shine on one street, and she's hogging it."
-
-He sat. He sulked. He jingled faintly. And because he was sitting still — truly still, for the first time in two whole nights — he began, completely by accident, to do the thing he was best at in all the world.
-
-He watched the crowd.
+Pepper-kun waved his spatula. "Buttery beef spectacular? Anyone?" The pigeon woke up. It wanted corn.
 
 ---
 
-And the crowd, he noticed, had a problem.
+"Not jealous," muttered Pepper-kun, polishing his plate until it squeaked. "She has a fwoomp. I have a sizzle."
 
-Pika's line was a magnificent line, the longest Dotonbori had ever grown. But it was a *loud* line. The big friends and the bold friends whooped and waved and got their skewers — while at the very back, the same old quiet story was happening, the one Pepper-kun knew by heart.
+Next night: the biggest show of his career. Countdown from TEN. The line wandered off at six.
 
-A teeny mochi got bumped out of line three times and finally drifted over to the canal railing, pretending to admire the water. A wobbly old dumpling couldn't hear his order being called. A sleepy little bun slid to the back of the line, then to the back of the back, then quietly gave up and sat down on a step, hungry and far too polite to say so.
+He juggled three beef strips, caught two, and wore the third as a meaty hat.
 
-And Pika — dazzling, six-color Pika — couldn't see any of it. She was frying as fast as her fryer could fwoomp, panko flying, sauce splashing, calling "NEXT! Who's next, sweethearts?" — but "next" was always whoever hollered loudest, and her own glittering sign was so bright she couldn't see past the front row. Her peacock fan of skewers had started to droop. There was sauce on her sign. There was panko in places panko should never, ever be.
+He unveiled his brand-new corn-confetti cannon. It worked perfectly. Backwards.
 
-She was flailing. The brightest star on Dotonbori was flailing.
+A golden fountain of corn fired straight into his own bandana, where it stayed, jingling softly.
 
-And here is the truth, because bedtime is for truth: for one small, prickly second, a sneaky little spark inside Pepper-kun whispered, *good.*
+His finale: a steam cloud so enormous he vanished inside it. "TA-DAAA!" said the fog.
 
-But then the teeny mochi by the canal let out the smallest sigh in all of Osaka — a sigh only a true crowd-reader could have heard — and the sneaky spark never stood a chance. Pepper-kun was off the curb and scooting before he had even decided to go. His legs decided for him. His legs, frankly, had been raised better than the rest of him.
-
-He made no announcement. He did no countdown. He warmed a strip of beef, a spoonful of corn, and one curl of butter, and carried it to the mochi at the railing, quiet as a secret.
-
-"Saw you waiting," he said. "So dinner came to you instead."
-
-The mochi lit up like a paper lantern. "**Itadakimasu!** (ee-tah-dah-kee-mahs) — thanks for this food!" it whispered, which is what you say before you eat. And it ate, and it glowed.
-
-Then the wobbly dumpling. Then the sleepy bun on the step. Then Pepper-kun worked his way along the whole wriggling length of Pika's line, reading it like a storybook — *that one's been waiting ages... that one's too small to see the menu... that one is about to cry and claiming it's the onions, and there are no onions* —
-
-And then he did the strangest thing of all. He scooted right up beside his rival.
-
-"Third lantern post," he said briskly. "Small chestnut, too shy to wave. Two sticks, extra sauce. Behind the bridge rail, a melon-bread kid, half asleep — one stick, no sauce, he'll spill it. I deliver. You fry."
-
-Pika blinked down at him through a dusting of panko. "You're... Pepper-kun. The famous one. Why are you helping me?"
-
-Pepper-kun opened his mouth to say something grand. Nothing grand came out. What came out instead was the truth.
-
-"Because I can see the back of your line," he said. "And you can't."
+When it cleared, his entire audience was the pigeon, applauding with one wing, out of politeness.
 
 ---
 
-What happened next, Dotonbori still talks about.
+Pepper-kun scooted behind a lantern post on stubby legs and sulked so hard the lantern flickered.
 
-The fryer fwoomped. The hot plate sizzled. Pika fried golden skewers, and Pepper-kun ferried them into the quiet corners of the street, balanced on his own warm iron plate so they arrived hot and crackling — sometimes with a strip of buttery beef tucked alongside, because some inventions simply invent themselves. A crispy skewer on a sizzling plate. The crowd had no name for it, so they called it the obvious thing: dinner, twice.
+"There's only so much shine on one street," he grumbled, "and she's hogging it."
 
-"**Oishii!** (oh-ee-shee) — delicious!" squeaked the shy chestnut at the third lantern post, with both cheeks full.
+Sitting still at last, he did what he was best at. He watched. The line had a problem.
 
-"One dip ONLY!" Pika hollered happily across the street, and the whole line hollered it back like a festival chant — even the wobbly old dumpling, who had no idea what it meant but loved a good chant.
+The loud ones whooped and got skewers. At the back, a teeny mochi got bumped out three times.
 
-The strangest part was the line itself. It stopped shoving. It simply stopped, all on its own — because nobody shoves once they know they'll be seen. The loud ones got fed, the quiet ones got found, and even the pigeon received an extremely polite pile of corn, which it accepted as long overdue.
+A wobbly old dumpling couldn't hear his order. A sleepy bun gave up and sat down, hungry.
 
-Somewhere past midnight, in a gap between customers, Pika leaned down low.
-
-"Can I tell you something embarrassing?" she said. "When I picked this street, I almost didn't come. Everyone said, *that's Pepper-kun's street — he's amazing — how will anyone ever notice you?* So I turned everything up. The sign. The colors. The fwoomp. I was so busy trying to out-shine you that I forgot to look at anybody at all."
-
-Pepper-kun nearly dropped his spatula. "Out-shine *me*? I spent two days building a corn cannon because of *you*. I wore a beef hat."
-
-They looked at each other — the tall fan of golden skewers and the little black hot plate — and they laughed so hard that the crab sign waved both legs at once, which it had never done before in its life.
-
-And right in the middle of laughing, Pepper-kun noticed a funny, quiet thing: the cold, hissy, rain-on-a-griddle feeling was gone. Nobody had argued it away. Nobody had made a speech at it. It had simply melted, somewhere between the third lantern post and the bridge rail — the way butter melts when a plate is finally doing its proper work.
+And Pika, dazzling Pika, couldn't see past her own lights. Panko flying. Sauce everywhere. "NEXT!"
 
 ---
 
-The lanterns burned low. The last skewer found the last tummy. The tour group finished ordering at last, and wandered off to find their tour.
+A sneaky spark whispered: good. Then the mochi sighed, and his legs moved before he had decided.
 
-One by one, the neon signs of Dotonbori blinked out — pink, then blue, then six colors at once — until the street was nothing but warm darkness, the soft slap of canal water, and two grills cooling side by side beneath the sleepy crab.
+No countdown. One beef strip, one spoon of corn, one butter curl, carried quietly to the railing.
 
-"Same time tomorrow?" murmured Pika, her lights dimmed to a single gentle gold, her skewer-fan folded like wings.
+"Saw you waiting," said Pepper-kun. "So dinner came to you."
 
-"Same time tomorrow," said Pepper-kun. "You bring the fwoomp. I'll bring the back of the line."
+"**Itadakimasu** (ee-tah-dah-kee-mahs) — thanks for this food," whispered the mochi, and lit up like a paper lantern.
 
-He looked at her soft glow, and then down at his own faint toasty one, and he understood something he wanted to keep forever — so he said it out loud to the empty street, the way you do with the important things.
+"Third lantern post, shy chestnut, two sticks, extra sauce," Pepper-kun told Pika briskly. "I deliver. You fry."
 
-"Her shine never took mine," he said. "Light doesn't work like that. Another lamp doesn't make your lamp darker. It just makes the street brighter."
+Pika blinked through the panko. "You're the famous one. Why help me?"
 
-Up on the crab sign, the pigeon cooed in its sleep, which Pepper-kun chose to take as agreement.
+"Because I can see the back of your line," said Pepper-kun. "And you can't."
 
-He pulled his bandana down over his eyes like a cozy little blanket, let his iron edges tick softly as they cooled, and counted down one last time, gentle as a lullaby.
+---
 
-"Three... two... one..."
+Fryer fwoomped, plate sizzled, and golden skewers rode out hot on iron with beef alongside.
 
-*Tsss.*
+"One dip ONLY!" hollered Pika, and the whole line hollered it back like a festival chant.
 
-"Goodnight, Dotonbori."
+The shoving stopped. Nobody shoves once they know they'll be seen. The pigeon got corn.
+
+---
+
+Past midnight, Pika leaned down. "Embarrassing thing. I turned everything up to out-shine YOU."
+
+Pepper-kun nearly dropped his spatula. "Out-shine ME? I built a corn cannon. I wore a beef hat."
+
+They laughed so hard the crab waved both legs at once, which it had never done.
+
+---
+
+One by one the neon blinked out, leaving warm dark and two grills cooling side by side.
+
+"Another lamp doesn't make your lamp darker," said Pepper-kun. "It just makes the street brighter."
+
+He pulled his bandana down over his eyes like a blanket. "Three. Two. One." Tsss. "Goodnight, Dotonbori."
 
 ---
 
 ## Goodnight Blessing
-
-Little one, may you shine your own warm shine — and may you never be afraid of anybody else's. If a bright new light comes glowing down your street someday, remember Pepper-kun: another lamp never dims your lamp. Light doesn't run out; it only adds. So be the friend who sees the back of the line, and trust that the world has room enough for every glow, including yours — especially yours. Snuggle down now, warm as a plate cooling slow, soft as the last lantern on the canal. The street is quiet, the crab is dreaming, and so should you be. Goodnight.
+Shine your own warm shine, and never fear anybody else's. Another lamp never dims your lamp. Be the friend who sees the back of the line. Snuggle down, warm as a plate cooling slow. Goodnight.
 
 ## AI Image Prompts
+1. Key scene — warm whimsical storybook illustration, neon palette of pink, orange and electric blue reflected in a dark canal: Pepper-kun, a small round black cast-iron hot-plate friend with stubby legs, bright eyes and a chef's bandana, standing on his counter inside a huge billowing cloud of steam with a golden fountain of corn kernels spraying backwards into his own bandana and a beef strip perched on his head like a hat, while a single fat pigeon claps one wing; three stalls down a tall glamorous fan of golden fried skewers sparkles beside a roaring fryer and a long happy line of treat-folk; giant mechanical crab overhead, paper lanterns like fat orange moons.
+2. Character portrait — Pepper-kun: a teeny round black sizzling iron hot-plate friend on stubby legs, piled with glossy beef strips, golden corn, a swirl of melting butter and a neat ring of white rice, wearing a little white chef's bandana with a few stray corn kernels jingling inside it, big bright happy eyes, tiny sparks of steam, a small spatula raised mid-countdown. Warm kawaii storybook style, glowing griddle-orange backdrop.
+3. Closing scene — late night on Dotonbori, the neon switched off, the canal mirroring one last amber lantern: two grills cooling side by side, Pepper-kun with his bandana pulled down over his eyes like a tiny blanket and faint wisps of steam curling up, Pika the Kushikatsu beside him with her lights dimmed to a single soft gold and her fan of skewers folded like resting wings, the giant crab asleep above with a pigeon dozing on one claw. Deep indigo, gentle amber and rose; full-bellied, peaceful, cozy.
 
-1. Key scene — warm whimsical storybook illustration, neon palette of pink, orange, and electric blue reflected in a dark canal: Pepper-kun, a small round black cast-iron hot-plate friend with stubby little legs, cheerful bright eyes, a tied chef's bandana, and a plate piled with sizzling beef strips, golden corn, a butter-melt swirl and a ring of rice, gently delivering a golden panko-crusted fried skewer balanced on his warm plate to a teeny shy snow-white mochi by the canal railing. Behind them, Pika the Kushikatsu — a tall, glamorous fan of golden fried skewers arranged like a peacock's tail, sparkling with panko, beside a friendly bubbling fryer and a glowing six-color sign — fries for a long happy line of cute food friends. Giant mechanical crab sign overhead, paper lanterns like fat orange moons. Mood: bustling-but-tender nighttime warmth.
-
-2. Character portrait — Pepper-kun: a teeny round black sizzling iron hot-plate friend standing on stubby little legs, piled with glossy beef strips, golden corn kernels, a swirl of melting butter, and a neat ring of white rice, wearing a little white chef's bandana, big bright happy eyes, tiny theatrical sparks of steam rising as he poses mid-countdown with a tiny spatula raised high — a few stray corn kernels comically jingling inside his bandana. Warm kawaii storybook style, glowing griddle-orange backdrop.
-
-3. Closing scene — late night on Dotonbori, all the neon signs switched off, the canal mirroring one last amber lantern: two grills cooling side by side — Pepper-kun with his bandana pulled down over his eyes like a tiny blanket, faint wisps of steam curling up, and Pika the Kushikatsu beside him, her lights dimmed to a single soft gold, her fan of skewers folded like resting wings. Above them the giant crab sign sleeps, a pigeon dozing on one claw. Palette of deep indigo, gentle amber, and rose. Mood: full-bellied, peaceful, deeply cozy goodnight.
+## Animation Notes
+- **Cast:**
+  - `PEPPER` — Pepper-kun: a small round black iron hot-plate on stubby legs, piled with sizzling beef strips, golden corn, a butter-melt swirl and a ring of rice, white chef's bandana, big bright eyes, tiny sparks of steam; voice: showman, energetic, sizzling.
+  - `PIKA` — Pika the Kushikatsu: a tall glamorous fan of golden panko-crusted fried skewers spread like a peacock's tail, sparkly crumbs, big lashes, a bubbling fryer beside her; voice: bright, brassy, warm.
+  - `PIGEON` — a fat grey street pigeon with a shiny green neck, sleepy-eyed, unimpressed; no lines.
+- **Scenes:**
+  1. Dotonbori food street at lantern-time, night: plum-purple sky, neon in pink, orange and blue, the giant mechanical crab, a small hot-plate counter with lanterns, the canal reflecting lights.
+  2. The same street, night, a new glittering fried-skewer stall three doors down with six-color chasing lights and a roaring fryer, a long line snaking over the bridge.
+  3. Pepper-kun's counter at night, steam, corn kernels in the air, a lone pigeon on a stool.
+  4. Behind a lantern post at the canal railing, night, looking down the long line of treat-folk to its quiet back end.
+  5. The canal railing, bridge rail and lantern posts along the line, night, warm pools of lantern light on small shy treat-folk.
+  6. Pika's stall and the line, night, skewers riding on a sizzling plate, the line chanting happily.
+  7. The two stalls side by side past midnight, lanterns low, the crab waving both legs.
+  8. Dotonbori with every neon switched off, deep night, the canal mirroring one last amber lantern, two grills cooling.
+- **Budget:** 678 narrated words · 42 beats · 8 scenes · est. 4:59
