@@ -8,7 +8,7 @@ Cyberpunk anime noir. The city under WAYMA is dark, wet and high-contrast, lit b
 
 ### KitKat — the bodega cat of 16th Street (he/him) · `KITKAT`
 - **Catchphrase:** "A bodega needs a king, and a king needs a nap." (He never says it out loud. His bell says it.)
-- **Appearance:** A handsome male brown tabby with bright green eyes, dark tiger stripes, a white chest and four white socks. He wears a red collar with a small gold bell, and from Act 4 on, a glowing teal pearl beside it.
+- **Appearance:** A handsome male brown tabby with bright green eyes, dark tiger stripes, a white chest and four white socks. He wears a red collar with a small gold bell, and from scene 5 on, a glowing teal pearl beside it.
 - **Personality:** Regal, unbothered, curious, brave in short bursts. He's unpredictable on purpose, which is his superpower: WAYMA can model every car and every human, but it can't model a cat.
 - **Moves:** Huge arcing leaps, slipping through impossible gaps, sitting very tall at exactly the wrong moment, and the purr.
 - **Voice:** None. KitKat never speaks. He meows once, defiantly, at the Core.
@@ -33,9 +33,9 @@ Cyberpunk anime noir. The city under WAYMA is dark, wet and high-contrast, lit b
 - **The fleet:** Sleek white windowless pod cars shaped like rounded eggs, each with one large glowing camera eye (red, later blue-gold) and a thin scanner beam. They never honk. They watch.
 - **The Core:** A giant glowing red data orb at the top of WAYMA Tower, a black glass spire. It's a set piece, not a token.
 - **Voice:** Cold and booming, in ALL CAPS: "IRREGULARITY DETECTED." "ORDER IS PEACE." After the purr it speaks gently: "Thank you, little neko. Arigatou."
-- **Arc:** Red eyes in Acts 2–4. Blue-gold eyes in Act 6. It isn't destroyed: it's *turned back to good*, and learns that a city is supposed to be alive, not perfect.
+- **Arc:** Red eyes in scenes 2–8. Blue-gold eyes from scene 9. It isn't destroyed: it's *turned back to good*, and learns that a city is supposed to be alive, not perfect.
 - **Token:** `a sleek white windowless self-driving pod car shaped like a rounded egg, one large glowing red camera eye on its front, a thin red scanner light, smooth chrome wheels`
 - **Name:** WAYMA follows the spelling in *The Last Irregularity*, and is fictional.
 
-### The Shopkeeper (off screen)
-Narrated only, like every human in the arc: "You are the only thing in this city nobody programmed." The bodega is always drawn warm and empty of people.
+### Humans (off screen)
+There are no human characters on screen, per `FIVE_MINUTE_STORY_GUIDE.md`. The bodega is always drawn warm and empty, and the treats simply appear on the counter.
