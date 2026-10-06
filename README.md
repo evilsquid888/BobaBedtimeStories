@@ -13,8 +13,9 @@ A growing family of cozy, funny, food-themed **bedtime stories for ages 9–12**
 | 🍳 **How-To** | 30 | mixed | [how-to/](how-to/README.md) |
 | 🌹 **Life Lessons** | 50 | light Mandarin | [lifelessons/](lifelessons/README.md) |
 | 🛡️ **Stay Safe** (Boba × Frostpeak × Costa Rica) | 30 | Mandarin + Spanish sprinkles | [stay-safe/](stay-safe/README.md) |
+| 🐈‍⬛ **KitKat** (cyberpunk anime short) | 1 | light Japanese | [kitkat/](kitkat/README.md) |
 
-**410 indexed stories total.** Each collection has its own README and Character Guide.
+**411 indexed stories total.** Each collection has its own README and Character Guide.
 
 ## Features
 - Main adventure collections: ~1,800–2,000 words per story; fun starts in the first 150 words
