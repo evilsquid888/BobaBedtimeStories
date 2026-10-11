@@ -360,6 +360,8 @@ Displaced and free to reuse later: Kiki and Jiji (53), Catbus (55), the Laputa r
 - `MAZINGER` — Mazinger Z: a huge black-and-grey robot with a red chest plate and a horned helmet; voice: a blast of "Rocket Punch!"
 - `GURREN` — Gurren Lagann: a red robot with a face for a chest, flaming sunglasses and a giant drill; voice: a shout of "Who the heck do you think I am!"
 - `KURIBOH` — Kuriboh (Yu-Gi-Oh): a round brown fuzzball with green claws and big eyes; voice: a squeak.
+- `MEW` — Mew (Pokémon): a small pink floating cat-like Pokémon with big blue eyes and a long thin tail, peeking in; voice: a soft "mew".
+- `DEDENNE` — Dedenne (Pokémon): a tiny orange mouse Pokémon with whisker antennae and a round belly; voice: a squeak.
 - `BLUESHELL` — a blue shell (Mario Kart): a spiky blue turtle shell with two small white wings, flying on its own toward whoever is in front; voice: a whistle.
 - `INKLING` — an Inkling (Splatoon), squid form: a small bright-orange cartoon squid with big white eyes, hopping in an orange ink puddle; voice: "Woomy!"
 
