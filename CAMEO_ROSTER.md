@@ -243,6 +243,17 @@ then in the story.
 - `TANJIRO` / `NEZUKO` — as in the walk-on list; in Hawaii 12 they are the main cameo.
 - `MIKU` — as above; Hawaii 33 and Japan 56.
 
+### Gundam and Vivy additions (Japan 31–41)
+- `CHAR` — Char Aznable (Mobile Suit Gundam): an anime man with neat blond hair in a bright red high-collared uniform and a dark visor-mask over his eyes, arms folded; voice: smooth, haughty, amused. `REDZAKU` — his red Zaku: a crimson round-headed robot with a single glowing pink eye, a spiked right shoulder, a shield on the left, kneeling; voice: none.
+- `LACUS` — Lacus Clyne (Gundam SEED): an anime girl with very long pink hair and a gold hair clip in a flowing white-and-lavender dress, singing with eyes closed; voice: airy, sweet, oddly formal. `PINKHARO` — her pink Haro: a round pink ball robot with flapping ear panels; voice: "Haro! Haro!"
+- `WINGZERO` — Wing Zero (Gundam Wing): a white, blue and red angel-like robot with huge white feathered wings, a yellow V-fin and green eyes, holding a long twin-barreled buster rifle in both hands; its beam is a river of white light that blooms into stars; voice: none.
+- `UNICORN` — Unicorn Gundam: a sleek all-white robot with one long horn on its head; its armor splits along the seams and glows pink-red, the horn opening into a V; voice: none.
+- `KSHATRIYA` — NZ-666 Kshatriya (Gundam Unicorn): a huge hunched dark-green robot with four giant green wing-binders on its shoulders and one glowing eye slit; voice: none. `MARIDA` — Marida Cruz: an anime woman with short pale-violet hair and calm eyes in a dark-green pilot suit; voice: quiet, formal, gentle.
+- `VIVY` — Vivy (Vivy: Fluorite Eye's Song): an anime AI songstress with long blue hair, a flowing blue-and-white stage dress and calm turquoise eyes; voice: clear, soft, precise. `MATSUMOTO` — Matsumoto: a small white floating cube AI with glowing blue panel lines that unfolds into a teddy-bear shape to nag; voice: rapid, chirpy, bossy.
+- `ZECHS` — Zechs Merquise (Gundam Wing): an anime man with very long platinum hair in a red-and-white uniform and a silver bird-shaped helmet-mask; voice: theatrical. `RAU` — Rau Le Creuset (Gundam SEED): an anime man with wavy blond hair in a white uniform and a white half-mask; voice: silky. `FRONTAL` — Full Frontal (Gundam Unicorn): an anime man with blond hair in a red uniform and a dark visor-mask; voice: smooth. All three masks stay on.
+- `FREEDOM` — Freedom Gundam (Gundam SEED): a white, blue and red robot with ten blue-and-white wing blades fanned out behind it, a yellow V-fin and green eyes; voice: none.
+Displaced from these rows and free to reuse later: Anpanman, Kirby, Megumin, Korok, Snorlax, Pikachu, Laios, Luffy.
+
 ### Walk-ons (1–2 beats; design lines to copy)
 - `PSYDUCK` — Psyduck: a yellow duck Pokémon with a blank stare, holding its head with both paws; voice: "Psy..."
 - `MEOWTH` — Meowth: a cream cat Pokémon with a gold coin charm on its forehead, standing upright; voice: nasal, scheming.
@@ -329,6 +340,7 @@ then in the story.
 - `MAZINGER` — Mazinger Z: a huge black-and-grey robot with a red chest plate and a horned helmet; voice: a blast of "Rocket Punch!"
 - `GURREN` — Gurren Lagann: a red robot with a face for a chest, flaming sunglasses and a giant drill; voice: a shout of "Who the heck do you think I am!"
 - `KURIBOH` — Kuriboh (Yu-Gi-Oh): a round brown fuzzball with green claws and big eyes; voice: a squeak.
+- `INKLING` — an Inkling (Splatoon), squid form: a small bright-orange cartoon squid with big white eyes, hopping in an orange ink puddle; voice: "Woomy!"
 
 ## Assignments — Japan (stories 28–100)
 
@@ -337,17 +349,17 @@ then in the story.
 | 28 | Pock Ramune and the Festival Goldfish Scoop | Gundam | Kneels at the tank with a poi the size of a door, tears it with one careful finger, sulks. Grabby hands, giant edition. |
 | 29 | The Dango Three and the Portable-Shrine Parade | Totoro | Picks up the whole mikoshi alone, roars "wasshoi" as wind, everyone's load becomes zero, which is the wrong lesson, so they take it back. Walk-on: Soot Sprites carry one shrine bead. |
 | 30 | Rin Ramen and the Lucky Omikuji | Haro | Bounces in reading fortunes wrong: "Haro! Great luck! Haro! Bad luck! Haro! Snack luck!" Walk-on: Psyduck holds its head at the fortune box. |
-| 31 | Anko and the Sharing Bench | Anpanman | Lands beside Anko, salutes: "Cousin!" Offers to share, bun to bun. Anko has met his match. Walk-on: Pompompurin naps on the bench. |
-| 32 | Momo Mochi and the Pink Petal Snow | Kirby | Inhales a whole cloud of petals, turns pinker, sneezes a petal blizzard over everyone. Walk-on: Eevee chases petals. |
+| 31 | Anko and the Sharing Bench | Char Aznable and his red Zaku (Mobile Suit Gundam) | A masked man in red strolls up and claims the bench as his own; his crimson one-eyed Zaku kneels behind him, also wanting to sit. Anko has met a bigger bench grump. Walk-on: Pompompurin naps on the bench. |
+| 32 | Momo Mochi and the Pink Petal Snow | Lacus Clyne and her pink Haro (Gundam SEED) | Drifts through the petal storm singing, eyes closed, perfectly calm; the pink Haro bounces after petals shouting "Haro!" and starts a pink avalanche. Walk-on: Eevee chases petals. |
 | 33 | Kori Kakigori and the Summer Meltdown | Godzilla | Wades ashore wanting shaved ice; his breath is hot; fans Kori with his tail, blows the stall over. Walk-on: Squirtle in sunglasses on the sand. |
-| 34 | Tako and Yaki and the Summer Fireworks | Megumin | Adds one "EXPLOSION!" to the show: a giant sparkly harmless bloom, then collapses and naps. Walk-on: Luigi jumps at the bang. |
-| 35 | Kuma Kuri and the Autumn Leaf Trail | Korok | Pops out from under a leaf pile: "Yahaha!" Every pile Kuma steps on has another. Walk-on: Shikamaru naps in the leaves. |
-| 36 | Yuki and the First Snowfall | Snorlax | Asleep across the village square, snow piling into a mountain; the village decorates him. Walk-on: Pen Pen in the snow. |
+| 34 | Tako and Yaki and the Summer Fireworks | Wing Zero and its twin buster rifle (Gundam Wing) | Lands on the far riverbank, spreads enormous white wings and fires the buster rifle straight up: the biggest, sparkliest firework of the night, then takes a bow. Walk-on: Luigi jumps at the bang. |
+| 35 | Kuma Kuri and the Autumn Leaf Trail | Unicorn Gundam | A sleek white robot with one horn stands among the maples; its armor splits open and glows red to match the leaves, then it stays a tree-sized statue for the rest of the walk. Walk-on: Shikamaru naps in the leaves. |
+| 36 | Yuki and the First Snowfall | Marida Cruz and the NZ-666 Kshatriya (Gundam Unicorn) | A huge dark-green four-winged robot lands softly in the snowy square; its pilot steps out and lets Yuki warm her cold cheeks, very formally. Walk-on: Pen Pen in the snow. |
 | 37 | Maru Matcha and the Carp Streamers | Magikarp | Flops up trying to fly like the koinobori, splashes everyone, gets lifted by a gust at last. Walk-on: Dragonite flies with the carp. |
-| 38 | Sora Soft-Cream and the Winter Illuminations | Pikachu | Lights the whole park at once with one zap, far too bright, everyone squints; a soft second zap. Walk-on: Mimikyu under the lights. |
+| 38 | Sora Soft-Cream and the Winter Illuminations | Vivy and Matsumoto (Vivy: Fluorite Eye's Song) | A blue-haired AI songstress sings one note and every light in the park pulses in time; the little white cube AI nags her about the mission and gets lit up like a bauble. Walk-on: Mimikyu under the lights. |
 | 39 | Rin Ramen and the Secret Broth Recipe | Naruto + shadow clones | Bursts in for ramen, then ten more Narutos, all slurping, none of them the secret ingredient. Walk-on: Choji eating a bowl. |
-| 40 | Pepper-kun and the Sizzling Showdown | Laios | Thinks the sizzling plate is a monster and wants to taste it; takes notes on its "habitat". Walk-on: Sanji judging. |
-| 41 | Tako and Yaki and the Osaka Takoyaki Stand | Luffy | Rubber arm shoots across the street to catch the runaway batter ball, and the stall, and a lantern. Walk-on: an Inkling cheering. |
+| 40 | Pepper-kun and the Sizzling Showdown | The Mask Council: Zechs, Rau Le Creuset and Full Frontal (Gundam) | Three masked men in uniforms take the judges' table, score the sizzle with raised plates, and argue about whose mask is the most dramatic. Masks stay on. Walk-on: Sanji judging. |
+| 41 | Tako and Yaki and the Osaka Takoyaki Stand | Freedom Gundam (Gundam SEED) | Descends on ten fanned blue-white wings and blocks the whole street; the runaway batter ball bounces off its foot back into the chase. Walk-on: an Inkling cheering. |
 | 42 | Tai Taiyaki and the Riverside Stall | Ponyo | Pops out of the canal thinking Tai is a fish friend: "Ponyo loves taiyaki!" Rides a wave of fish down the canal. Walk-on: Mudkip in the canal. |
 | 43 | Coro Korokke and the Bakery Rush | Cinnamoroll | Flies in on his ears, bumps every shelf, flour cloud; Coro quietly catches each falling roll. Walk-on: Hamtaro steals a crumb. |
 | 44 | Mero Melonpan and the Sleepy Bakery Dream | Rilakkuma | Already asleep in the bread basket when the dream starts; competes at napping. Walk-on: Kon the plush snores. |
