@@ -34,6 +34,7 @@ Cut words, not events. A five-minute story has *more* happening than the old 2,0
 **Setting:** A shrine stall selling lucky daruma dolls, at dusk
 **Theme:** A wish is a promise you make to yourself
 **Japanese Spotlight:** **negai** (neh-gah-ee) — wish
+**Cameo:** Haro (Gundam) — bounces in and reads every fortune wrong
 
 ---
 
@@ -62,6 +63,7 @@ Three or four soft sleepy lines, ≤ 40 words, ending in Goodnight.
 - **Scenes:**
   1. Shrine steps and daruma stall at dusk, paper lanterns, rows of red daruma dolls.
   2. ...
+- **Cameo shot:** beats 18–22, scene 4; speaks: yes
 - **Budget:** (written by `check_five_minute.py --fix`)
 ```
 
@@ -116,6 +118,25 @@ The old 2,000-word versions were mostly talk. Each five-minute cut needs, in ord
 7. **A laugh line in every scene.** Silly, never mean.
 
 Keep the heart of the original: its lesson, its best joke, its guest. Everything else can change.
+
+## The cameo beat (Japan 28+, Hawaii 3+)
+
+Every story from Japan 28 and Hawaii 3 onward has **one silly cameo set-piece**: a popular anime, game or movie
+character (a Gundam, Godzilla, Totoro, Naruto, a Mario Kart race, a slime, a dungeon cook...) crashes into the story
+for **4–6 consecutive beats** and leaves. Who appears in which story, their copy-paste design lines and the rules are
+in [CAMEO_ROSTER.md](CAMEO_ROSTER.md). The short version:
+
+- The cameo is the surprise-guest "oh!" moment. It makes the hero's problem **bigger and funnier**; it never solves it
+  and never says the lesson. The cameo moment is usually the escalation of the middle set-piece.
+- **Enter big, one gag, one line a beat at most, exit as a held pose.** Present in the frame in every beat that names it;
+  nobody mentions it before it arrives or after it leaves (one reaction line is fine).
+- Header line `**Cameo:** Name (franchise) — what happens` after the Spotlight line. A cast token with the roster's full
+  design line and a three-word `voice:`. An Animation Notes line `- **Cameo shot:** beats N–M, scene K; speaks: yes/no`.
+- Non-humans first. A human cameo (Naruto, Kira, Suletta, Dom, Kiki) is one declared cast human, in the iconic outfit,
+  drawn anime. No readable text (no symbols on headbands, no question-mark boxes). Costumes stay on bodies. Giants are
+  gentle. Silly, never scary, never mean.
+- Written for **both modes**: a cameo line is one tagged speaker per beat (H3 voices it in animated mode; the narrator
+  reads it in narrated mode). A cameo with `voice: none` acts without lines.
 
 ## Voice and language
 

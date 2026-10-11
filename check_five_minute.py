@@ -5,7 +5,8 @@
     python3 check_five_minute.py --fix japan/stories/025-*.md     # rewrite the Budget line in Animation Notes
 
 Checks: header lines, beat count and words per beat, scene breaks vs the Scenes list, blessing length,
-three image prompts, Animation Notes cast/scenes/budget, and the runtime estimate from the measured
+three image prompts, Animation Notes cast/scenes/budget, the cameo (CAMEO_ROSTER.md: header line, cast token,
+Cameo shot line; required with --cameo), and the runtime estimate from the measured
 narration rate (lifelessons/SPEC.md: 940 words = 7:00 at Kokoro jf_alpha,af_heart speed 0.92, gap 0.8 s).
 Warns on words that cost re-renders in the pipeline (written text, humans, two speakers in one beat).
 """
@@ -51,10 +52,25 @@ def section(md, head, stop=r"\n## "):
     return rest[:e.start()] if e else rest
 
 
-def check(path, fix=False):
+def check(path, fix=False, cameo=False):
     md = open(path, encoding="utf-8").read()
     errs, warns = [], []
     name = path.split("/")[-1]
+
+    # ---- cameo (CAMEO_ROSTER.md): header line, a cast token for it, a Cameo shot line in the notes
+    cam = re.search(r"^\*\*Cameo:\*\* (\S.*)$", md, re.M)
+    if cameo and not cam:
+        errs.append("missing **Cameo:** line (CAMEO_ROSTER.md)")
+    if cam:
+        if not re.search(r"^- \*\*Cameo shot:\*\* beats \d+", md, re.M):
+            errs.append("Animation Notes: missing '- **Cameo shot:** beats N-M, scene K; speaks: yes/no'")
+        cast_block = section(md, r"- \*\*Cast:\*\*\n", stop=r"\n- \*\*") or ""
+        for part in cam.group(1).split(";"):
+            part = re.sub(r"^\s*walk-on:\s*", "", part, flags=re.I)
+            first = re.sub(r"[^A-Za-z ]", " ", part.split("(")[0].split("\u2014")[0]).split()
+            first = [w for w in first if w.lower() not in ("the", "a", "an", "and")]
+            if first and not any(w.lower() in cast_block.lower() for w in first):
+                errs.append(f"cameo '{part.strip()[:40]}' has no cast line in Animation Notes")
 
     # ---- header
     if not re.match(r"# Story \d+: \S", md):
@@ -175,7 +191,8 @@ def check(path, fix=False):
 if __name__ == "__main__":
     args = sys.argv[1:]
     fix = "--fix" in args
-    paths = [a for a in args if a != "--fix"]
-    ok = [check(p, fix) for p in paths]
+    cameo = "--cameo" in args
+    paths = [a for a in args if a not in ("--fix", "--cameo")]
+    ok = [check(p, fix, cameo) for p in paths]
     print(f"\n{sum(ok)}/{len(ok)} pass")
     sys.exit(0 if all(ok) else 1)
