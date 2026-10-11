@@ -12,7 +12,7 @@ See also: [Character Guide](CHARACTER_GUIDE.md)
 
 ## Story Index
 
-| # | Story | Main Character | Setting | Theme | Cameo | Cameo |
+| # | Story | Main Character | Setting | Theme | Cameo | Cameo
 |---|-------|----------------|---------|-------|---|
 | 1 | [Momo Mochi and the Tokyo Tower Lights](stories/001-momo-mochi-and-the-tokyo-tower-lights.md) | Momo Mochi | Tokyo, beneath the glowing orange Tokyo Tower at dusk | A new friend can light up a whole city for you |  |
 | 2 | [Niko Nigiri and the Shibuya Scramble](stories/002-niko-nigiri-and-the-shibuya-scramble.md) | Niko Nigiri | The famous Shibuya Crossing in Tokyo at night, neon everywhere | Even the most organized plan needs room to wiggle |  |
@@ -65,7 +65,7 @@ See also: [Character Guide](CHARACTER_GUIDE.md)
 | 49 | [Sora Soft-Cream and the Hokkaido Milk Farm](stories/049-sora-soft-cream-and-the-hokkaido-milk-farm.md) | Sora the Soft-Cream | A wide-open dairy farm in snowy Hokkaido | Home is wherever your gentle heart feels full | The KonoSuba party: Kazuma, Aqua, Megumin and Darkness (KonoSuba); walk-on: Slowpoke (Pokémon) |
 | 50 | [The Grand Half-Way Festival of Friends](stories/050-the-grand-half-way-festival-of-friends.md) | Momo Mochi | A giant summer matsuri where the whole cast reunites halfway through their journey across Japan | Friendship is the best kind of homecoming | Mario and Bowser in a Mario Kart race (Mario Kart); walk-on: Wobbuffet (Pokémon) |
 | 51 | [Tako and Yaki and the Osaka Castle Adventure](stories/051-tako-and-yaki-and-the-osaka-castle-adventure.md) | Tako & Yaki | The grand grounds of Osaka Castle with its golden details | Curiosity is twice as fun with a partner | The Knight Sabers and Priss (Bubblegum Crisis); walk-on: Panda (Jujutsu Kaisen) |
-| 52 | [Kuma Kuri and the Nara Deer Bows](stories/052-kuma-kuri-and-the-nara-deer-bows.md) | Kuma the Kuri | Nara Park, where polite wild deer bow for treats | Good manners are a language everyone understands |  |
+| 52 | [Kuma Kuri and the Nara Deer Bows](stories/052-kuma-kuri-and-the-nara-deer-bows.md) | Kuma the Kuri | Nara Park, where polite wild deer bow for treats | Good manners are a language everyone understands | Zero Two (Darling in the Franxx); walk-on: Yakul (Princess Mononoke) |
 | 53 | [Niko Nigiri and the Kyoto Kimono Day](stories/053-niko-nigiri-and-the-kyoto-kimono-day.md) | Niko Nigiri | The historic Gion district of Kyoto, with its traditional wooden streets | Dressing with care honors where you are |  |
 | 54 | [Maru Matcha and the Tea Ceremony](stories/054-maru-matcha-and-the-tea-ceremony.md) | Maru Matcha | A serene Kyoto tea house with tatami mats and a tiny garden | Doing one thing slowly and well is a gift |  |
 | 55 | [Momo Mochi and the Yukata Summer Stroll](stories/055-momo-mochi-and-the-yukata-summer-stroll.md) | Momo Mochi | A summer evening river festival in Kyoto | Comfort and beauty can go hand in hand |  |
