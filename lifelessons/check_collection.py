@@ -18,7 +18,7 @@ def shingles(prose, size=5):
     lines = [line for line in prose.splitlines()
              if not re.match(r"^\d+\. ", line)
              and not any(term in line for term in (
-                 "Rosie's Steps", "Smell the rose", "Blow out the candle",
+                 "Rosie's Steps", "Cat's Steps", "Smell the rose", "Blow out the candle",
                  "One step at a time", "練習", "加油"))]
     tokens = words(" ".join(lines))
     return {tuple(tokens[i:i + size]) for i in range(len(tokens) - size + 1)}
@@ -57,7 +57,7 @@ def audit(folder):
         story = section(md, r"## The Story\n")
         blessing = section(md, r"## 🌙 Goodnight Blessing\n")
         board = md.split("## 🎬 Video Storyboard", 1)[-1]
-        recap = section(md, r"## 🌹 Rosie's Steps \(Recap\)\n")
+        recap = section(md, r"## 🌹 (?:Rosie|Cat)'s Steps \(Recap\)\n")
         number = int(path.name.split("-", 1)[0])
         failures.extend(f"{path.name}: {issue}" for issue in cat_role_issues(md, number))
         for name in ("Cat the penguin", "Tori"):

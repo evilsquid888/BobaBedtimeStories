@@ -34,6 +34,31 @@
 - **Voice:** Friendly, gently funny, and clear when coaching. Her scarf and tiny feet often supply the laugh; no mandatory repeated catchphrase. "Five more minutes" belongs to the early nap stories, not every new outing.
 - **Prompts:** token `CAT`, ID phrase "the little blue penguin with the yellow scarf"; always write "CAT the little blue penguin" in stills. Show the story's actual pose, task, and prop in both still and motion prompts. Do not default to napping; reserve sleep descriptions for genuine bedtime scenes.
 
+## Cat's friends (story 51 onward)
+
+Story 51 is the first story where Cat the penguin takes the lead (Rosie and Tori cheer from the front row). These three are Cat's own friends from school and the drama club; reuse them whenever Cat's world needs classmates.
+
+### Parker — Shiba Inu, stage manager and General Washington
+- **Catchphrase:** "Right beside you. That is what a general is for."
+- **Personality:** Calm, steady, dry-funny. Runs the school play and has forgotten his lines in forty plays, which is exactly why he is the best coach for stage fright. Models the steps, then stands beside Cat so she can do them herself. Prefers "kung fu style" (a polite bow) to charging.
+- **Appearance / prompt:** token `PARKER` — `Parker, a sturdy red-and-cream Shiba Inu dog with a curled fluffy tail, a white chest, pointed ears, calm dark eyes, a small brass whistle on a cord, wearing a plain navy coat with gold buttons`. ID phrase: "the cream-and-red Shiba Inu in the navy general's coat". The navy coat is his play costume; without the play he wears a plain navy vest.
+- **Voice:** Low, unhurried, kind. One big bark when it counts.
+
+### Miles — Monkey, Cat's classmate
+- **Catchphrase:** "I waited for it! Four seconds!"
+- **Personality:** Cannot wait for anything, hangs from everything, lands in drums. Loyal and fearless; his idea of helping is swinging in on a rope. Cast as Burr, the character whose whole job is waiting, which is the joke.
+- **Appearance / prompt:** token `MILES` — `Miles, a small lanky brown monkey with a long curling tail, big round ears, a cream face, wide eager eyes, and a tiny green bandana around his neck`. ID phrase: "the small brown monkey with the green bandana".
+- **Voice:** Fast, breathless, delighted.
+
+### Cleo — Tiger cub, Cat's classmate
+- **Catchphrase:** "That was my whisper."
+- **Personality:** Gentle heart, enormous voice. Her whisper rattles stage lights and her lullaby is a weather event. Kind to anyone nervous; sits close and purrs. Cast as Eliza because nobody else can be heard in the back row.
+- **Appearance / prompt:** token `CLEO` — `Cleo, a round young orange tiger cub with bold black stripes, a white muzzle, fluffy cheeks, bright gold eyes, and a tiny purple hair bow`. ID phrase: "the orange tiger cub with the purple bow". (Not to be confused with Cleo Coldwater, the macaroni penguin from the Stay Safe arc.)
+- **Voice:** Booming, warm, surprised by her own volume.
+
+### The Jitters and the Demon King of Stage Fright (story 51)
+Stage fright made visible, and always silly, soft and goofy, never scary. The **Jitters** (token `JITTERS`) are fist-sized fuzzy plum-purple fluffballs with huge white googly eyes, chattering buck teeth and skinny knocking knees; they tumble out of the wings whenever a spotlight comes on. Their **Demon King** (token `DEMONKING`) is a big puffy plum-purple shadow shaped like a stage curtain with tassels, a crumpled gold paper crown, enormous googly eyes, stubby arms and knees that knock loudest of all. He shrinks every time someone names him, breathes, or bows to him politely, and ends up plum-sized, clapping in the front row. He may return whenever a story needs a worry with a face.
+
 ## Rosie's friends and family (recurring)
 
 ### Mom — Rose Milk Tea (Rosie's mom)

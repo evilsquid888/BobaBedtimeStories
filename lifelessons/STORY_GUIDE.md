@@ -108,6 +108,7 @@ This is the rule that keeps 16+ videos from looking like one video. **No two sto
 | 48 | the family's folding screen study nook: a picture timer, a practice worksheet, pencil pots, a desk mat, a folding screen | the school homework club's reading booth: book cubbies, task trays, reading cushions, desk lamps, picture timers |
 | 49 | the neighborhood club's folding wagon store: a folded wagon, paper role pictures, ribbon bundles, foam flowers, a little crate | the parade float preparation barn: a dragon-shaped float, flower crates, ribbon spools, soft drum props, padded wagon seats |
 | 50 | the family keepsake chest alcove: a keepsake chest, little picture cards, a velvet mat, a soft ribbon, a low stool | the neighborhood small-steps celebration gallery: picture displays, a ribbon arch, keepsake tables, cushion stools, blank picture frames |
+| 51 | the school auditorium's backstage prop corner: a rolling costume rack, a painted cardboard ship, a big prop drum, a laundry basket, a tall stage ladder, rope pulleys | the school auditorium stage on opening night: a red velvet curtain, a painted colonial-town backdrop, glowing footlights, the prop drum, the cardboard ship, rows of plush seats |
 
 Still free: a temple courtyard, a ferry deck, a swimming pool, a bakery, a train platform, a hospital garden, a farmers' market, a bike path, a hair salon. Check the full registry before choosing; stories 17–50 now use the treehouse, tent, stairwell, bowling alley, hotel lobby, railway concourse, and botanical garden.
 

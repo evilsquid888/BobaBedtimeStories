@@ -1,6 +1,6 @@
 # 🌹 Life Lessons — Rosie's Step-by-Step Stories
 
-50 cozy bedtime stories that teach everyday social skills, one clear step at a time. **Rosie the Rose Milk Tea** is a sweet, slightly nervous little drink who gets brave once she knows the steps. Friends from the Taiwan, Japan, and Costa Rica collections coach her. Her big sister **Tori** is always there to cheer, her little sister **Bud** tags along (usually with a sock), and **Cat the penguin**, a little blue penguin from Frostpeak staying with the family, joins every adventure. After the librarian story (07), Cat has varied active roles: hip-hop dancer, snowboarder, gentle kung fu practitioner, practical helper, quiet companion, and occasional coach for Rosie. The first seven stories retain their original sleepy Cat moments.
+51 cozy bedtime stories that teach everyday social skills, one clear step at a time. **Rosie the Rose Milk Tea** is a sweet, slightly nervous little drink who gets brave once she knows the steps. Friends from the Taiwan, Japan, and Costa Rica collections coach her. Her big sister **Tori** is always there to cheer, her little sister **Bud** tags along (usually with a sock), and **Cat the penguin**, a little blue penguin from Frostpeak staying with the family, joins every adventure. After the librarian story (07), Cat has varied active roles: hip-hop dancer, snowboarder, gentle kung fu practitioner, practical helper, quiet companion, and occasional coach for Rosie. The first seven stories retain their original sleepy Cat moments.
 
 Written as a gentle social-skills guide (in the style of social stories), and useful for kids who do best with clear, literal, repeatable steps.
 
@@ -70,10 +70,11 @@ See also: [Character Guide](CHARACTER_GUIDE.md) · [Writing Spec](SPEC.md) · [�
 | 48 | [Rosie Starts the Homework Mountain](stories/48-rosie-starts-the-homework-mountain.md) | Begin a large-feeling task by planning one small work period and a break | "I'll start with this part, then take a break." | Niko Nigiri 🇯🇵, Tama Onigiri 🇯🇵 |
 | 49 | [Rosie Helps the Parade Team Choose Jobs](stories/49-rosie-helps-the-parade-team-choose-jobs.md) | Allocate team roles fairly by hearing preferences and checking agreement | "Which job would each of us like?" | Gallo 🇨🇷, Pinto 🇨🇷 |
 | 50 | [Rosie Feels Proud of Her Small Steps](stories/50-rosie-feels-proud-of-her-small-steps.md) | Accept praise and recognize personal effort without comparing achievements | "Thank you. I practiced, and I'm proud." | Dai Daruma 🇯🇵, Lala 🇨🇷 |
+| 51 | [Cat Fights the Demon King of Stage Fright](stories/51-cat-fights-the-demon-king-of-stage-fright.md) | Stage fright before a performance: name it, breathe, find a friendly face, say the first line, keep going (Cat's story; Rosie and Tori in the front row) | "Hello, Jitters. I see you, and I'm going on anyway." | Parker the Shiba Inu 🐕, Bīng 🇹🇼, Boba 🇹🇼 |
 
 ## Collection quality checks
 
-The collection grew from 16 original stories to 50 with additions 17–50. Each new story has its own practice location and real outing, rotating coaches, a Cat gag, and a Tori moment. See [QA_REVIEW.md](QA_REVIEW.md) for the whole-collection review and distinctions between related lessons.
+The collection grew from 16 original stories to 50 with additions 17–50, then story 51 handed the lead to Cat the penguin for a school-play adventure with her new friends Miles the Monkey and Cleo the Tiger. Each new story has its own practice location and real outing, rotating coaches, a Cat gag, and a Tori moment. See [QA_REVIEW.md](QA_REVIEW.md) for the whole-collection review and distinctions between related lessons.
 
 ```bash
 python3 lifelessons/check_storyboard.py lifelessons/stories/*.md
