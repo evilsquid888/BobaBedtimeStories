@@ -66,6 +66,40 @@ Stage fright made visible, and always silly, soft and goofy, never scary. The **
 - **Appearance / prompt:** token `MOM` — `Mom, a larger elegant cup of rose milk tea with a soft pink lid and a deep-pink rose on top, kind warm eyes, rosy cheeks, tiny arms and legs`. ID phrase: "the tall rose-milk-tea mom cup with the pink lid".
 - **Dad** is narrated only (he calls "Five more minutes!") and is never drawn.
 
+### Uncle Brett — Hot Apple Cider Thermos (Rosie's uncle, story 52)
+- **Catchphrase:** "Of course." (followed by a slow, warm chuckle)
+- **Personality:** Kind, unhurried, says yes with a chuckle and then helps make the plan. Owner of Armin the Shiba Inu. Lets Rosie do all of the asking and all of the thanking.
+- **Appearance / prompt:** token `UNCLEBRETT` — `Uncle Brett, a tall sturdy steel thermos of hot apple cider in a red-and-black plaid sleeve, a curl of warm steam rising from his lid, kind crinkly eyes, big gentle arms, tiny legs, and a dog leash looped on his handle`. ID phrase: "the tall steel cider thermos in the plaid sleeve". Cup-style poses only: stands, bends down, holds a rake or bowl in front of himself.
+- **Voice:** Deep, slow, warm, chuckling.
+
+### Aunty Ethel — Pumpkin Pie (Rosie's aunt, story 52)
+- **Catchphrase:** "Plenty of pie, plenty of room!"
+- **Personality:** Bright, bustling, grandmotherly; arrives early with Miso and whoever Miso has invited. Never shows up without a basket.
+- **Appearance / prompt:** token `AUNTYETHEL` — `Aunty Ethel, a round golden pumpkin pie with a lattice crust, a swirl of whipped cream on top like a hairdo, little round glasses, rosy cinnamon cheeks, tiny legs, and tiny arms carrying a wicker pie basket`. ID phrase: "the round pumpkin pie with the whipped-cream hairdo". Cup-style poses: stands, hops, waves one tiny arm, holds the basket in front of herself.
+- **Voice:** Bright, bustling, grandmotherly.
+
+### Armin — Shiba Inu (Uncle Brett's dog, story 52)
+- **Personality:** Friendly, curious, makes everyone laugh; sniffs scarves; rests his chin on porch steps.
+- **Appearance / prompt:** token `ARMIN` — `Armin, a red Shiba Inu dog with cream cheeks and a cream chest, pointed ears, a curled fluffy tail, bright dark eyes, and a blue collar`. ID phrase: "the red Shiba Inu with the blue collar".
+- **Voice:** One happy bark; otherwise tail and ears.
+
+### Miso — Shiba Inu (Aunty Ethel's dog, story 52)
+- **Personality:** Bouncy and sociable; brings his friends Zeke and Cole everywhere.
+- **Appearance / prompt:** token `MISO` — `Miso, a cream-white Shiba Inu dog with pointed ears, a curled fluffy tail, soft dark eyes, and a red collar`. ID phrase: "the cream-white Shiba Inu with the red collar".
+- **Voice:** Quick happy yips.
+
+### Zeke — Sea Lion from Pier 39 (Miso's friend, story 52)
+- **Catchphrase:** "Ark!"
+- **Personality:** Loud, goofy, friendly; claps his flippers at anything good; flops rather than walks.
+- **Appearance / prompt:** token `ZEKE` — `Zeke, a sleek grey-brown sea lion with big dark eyes, long whiskers, smooth flippers, a goofy friendly grin, and a tiny orange-and-black knit beanie`. ID phrase: "the sleek grey-brown sea lion in the knit beanie".
+- **Voice:** Loud, goofy, friendly.
+
+### Cole — Living San Francisco Cable Car (Miso's friend, story 52)
+- **Catchphrase:** "All aboard!" (with a cheerful clang)
+- **Personality:** Chirpy and eager; rings his bell when excited; needs a wide spot at any party.
+- **Appearance / prompt:** token `COLE` — `Cole, a small living San Francisco cable car, red and cream with gold trim, a brass bell on top, round headlight eyes, a friendly grille smile, and little wheels`. ID phrase: "the little red-and-cream cable car with the brass bell". He has wheels, so he may trundle; the "rock, never roll" rule is for round characters.
+- **Voice:** A cheerful clang and a chirpy "All aboard!"
+
 ### Lulu — Almond Jelly (Rosie's friend, stories 06 and 11)
 - **Personality:** Shy, sweet, builds sandcastles alone until Rosie asks to play; turns eight in story 11.
 - **Appearance / prompt:** token `LULU` — `Lulu, a small wobbly glossy cube of white almond jelly with a sweet shy smile, rosy cheeks, tiny arms` (add "holding a tiny red bucket" or "wearing a tiny striped paper party hat" as the story needs).

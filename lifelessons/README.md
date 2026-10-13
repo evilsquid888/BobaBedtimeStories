@@ -1,6 +1,6 @@
 # 🌹 Life Lessons — Rosie's Step-by-Step Stories
 
-51 cozy bedtime stories that teach everyday social skills, one clear step at a time. **Rosie the Rose Milk Tea** is a sweet, slightly nervous little drink who gets brave once she knows the steps. Friends from the Taiwan, Japan, and Costa Rica collections coach her. Her big sister **Tori** is always there to cheer, her little sister **Bud** tags along (usually with a sock), and **Cat the penguin**, a little blue penguin from Frostpeak staying with the family, joins every adventure. After the librarian story (07), Cat has varied active roles: hip-hop dancer, snowboarder, gentle kung fu practitioner, practical helper, quiet companion, and occasional coach for Rosie. The first seven stories retain their original sleepy Cat moments.
+52 cozy bedtime stories that teach everyday social skills, one clear step at a time. **Rosie the Rose Milk Tea** is a sweet, slightly nervous little drink who gets brave once she knows the steps. Friends from the Taiwan, Japan, and Costa Rica collections coach her. Her big sister **Tori** is always there to cheer, her little sister **Bud** tags along (usually with a sock), and **Cat the penguin**, a little blue penguin from Frostpeak staying with the family, joins every adventure. After the librarian story (07), Cat has varied active roles: hip-hop dancer, snowboarder, gentle kung fu practitioner, practical helper, quiet companion, and occasional coach for Rosie. The first seven stories retain their original sleepy Cat moments.
 
 Written as a gentle social-skills guide (in the style of social stories), and useful for kids who do best with clear, literal, repeatable steps.
 
@@ -71,6 +71,7 @@ See also: [Character Guide](CHARACTER_GUIDE.md) · [Writing Spec](SPEC.md) · [�
 | 49 | [Rosie Helps the Parade Team Choose Jobs](stories/49-rosie-helps-the-parade-team-choose-jobs.md) | Allocate team roles fairly by hearing preferences and checking agreement | "Which job would each of us like?" | Gallo 🇨🇷, Pinto 🇨🇷 |
 | 50 | [Rosie Feels Proud of Her Small Steps](stories/50-rosie-feels-proud-of-her-small-steps.md) | Accept praise and recognize personal effort without comparing achievements | "Thank you. I practiced, and I'm proud." | Dai Daruma 🇯🇵, Lala 🇨🇷 |
 | 51 | [Cat Fights the Demon King of Stage Fright](stories/51-cat-fights-the-demon-king-of-stage-fright.md) | Stage fright before a performance: name it, breathe, find a friendly face, say the first line, keep going (Cat's story; Rosie and Tori in the front row) | "Hello, Jitters. I see you, and I'm going on anyway." | Parker the Shiba Inu 🐕, Bīng 🇹🇼, Boba 🇹🇼 |
+| 52 | [Rosie Asks Uncle Brett About Thanksgiving](stories/52-rosie-asks-uncle-brett-about-thanksgiving.md) | Asking a grown-up for a favor, then asking for help to make it happen (Uncle Brett the cider thermos, Aunty Ethel the pumpkin pie, two Shiba Inus, a sea lion and a cable car) | "Uncle Brett, I have a favor to ask. Could Armin come to Thanksgiving?" | Dai Daruma 🇯🇵, Hóng Dòu 🇹🇼 |
 
 ## Collection quality checks
 
