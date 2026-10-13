@@ -5,10 +5,11 @@
 **Setting:** Rolling golden potato fields under a wide Hokkaido sky
 **Theme:** Knowing where you come from helps you grow
 **Japanese Spotlight:** **jagaimo** (jah-gah-ee-moh) — potato
+**Cameo:** a Walking Mushroom and a Mandrake (Delicious in Dungeon) — the mushroom hides in the potato row and waddles off when Coro pulls it, then Spud yanks up a Mandrake whose shriek knocks the biggest harvest basket downhill; walk-on: Bulbasaur (Pokémon)
 
 ---
 
-At the night market, a cupcake floated by on sugar wings, and a fancy éclair cleared his throat.
+At the night market, a cupcake floated by on sugar wings, and an éclair cleared his throat.
 
 "Lord Crackleworth the Third," said the éclair, "of the Pastry Crackleworths. And what are YOU?"
 
@@ -16,35 +17,29 @@ Coro the Korokke, crispy gold outside, soft potato inside, let out a nervous puf
 
 "Just a korokke," said Coro. "Crispy outside, soft heart inside. Mostly potato."
 
-"JUST potato?" sniffed Lord Crackleworth. "How charmingly humble." That little word bounced around inside Coro all night.
+"JUST potato?" sniffed Lord Crackleworth. His monocle fogged with pity. "How charmingly humble."
 
-"I'll find where potatoes come from," Coro decided, packing a scarf and a snack. "Where I come from."
+That word rattled inside Coro all night. "I'll find where potatoes come from," he decided. "Where I'm from."
 
 ---
 
-The train north took forever, which was wonderful. Forever is plenty of time to nibble a snack.
+The train north took forever, which was wonderful. Forever leaves plenty of time for snacks.
 
-Then, Hokkaido. Fields rolled over the hills in gold-green stripes, under a sky so wide Coro tipped over.
-
-Flat on his crumbs, he let out a happy puff. Pfft.
+Then, Hokkaido. Gold-green fields rolled over the hills under a sky so wide Coro tipped over. Pfft.
 
 "Bless you," said a voice from the dirt.
 
 Between two leafy plants poked a round, lumpy, earthy face with a smudge of soil on its cheek.
 
-"I'm a **jagaimo** (jah-gah-ee-moh) — potato. Call me Spud. And you, crispy friend, look a lot like family."
+"I'm a **jagaimo** (jah-gah-ee-moh) — potato. Call me Spud. You, crispy friend, look a lot like family."
 
 Spud wriggled out of the soil, fwump. "Every korokke starts as a jagaimo. Welcome home!"
 
 ---
 
-Down the rows they went, and jagaimo were everywhere, peeking from the earth, waving leafy arms.
+Down the rows, jagaimo peeked from the earth, waving leafy arms. "Welcome home, cousin!" they called.
 
-"Welcome home, cousin!" they called. Coro had never been waved at by so many vegetables.
-
-"We're not fancy," said Spud. "We don't sparkle or wear capes. But simple is strong."
-
-At the field's edge, cold wind whistled off the mountains. The plants held on, roots deep, steady.
+A teal Bulbasaur dozed between two plants, bulb up, hoping to pass as a cabbage. "Bulba."
 
 Granny Imo, a plump old potato with three soil smudges, nodded so hard she nearly tipped over.
 
@@ -52,35 +47,45 @@ Granny Imo, a plump old potato with three soil smudges, nodded so hard she nearl
 
 "And we never complain," she added. "Well. Once a worm tickled my left side. That's different."
 
-Coro giggled. "I met an éclair who would not last five seconds out here."
+---
+
+Then the wind picked up. A great gray cloud tumbled over the mountains. Plip. Plop. PLIP.
+
+"Pull the row before the rain!" cried Spud. "Into the baskets! Quick!"
+
+Coro gripped a brown lump and heaved. It stood up on two stubby legs and WADDLED.
+
+A knee-high brown-capped mushroom, no face at all, waddled off down the row like a shy teapot.
+
+"That's no jagaimo," said Spud, yanking the next lump. "That's a FUNGUS—" Out came a scrunched baby face.
+
+The Mandrake, root-bodied and leafy-haired, opened its tiny mouth. "WAAAAAAAH!" The shriek ran the length of the field.
+
+Leaves flattened. Granny Imo tipped over backwards. The biggest basket tipped too, and bounced away downhill.
+
+Spud tucked the Mandrake back in the dirt, still shrieking, muffled, like a very angry kettle.
 
 ---
 
-Then the wind picked up. A great gray cloud came tumbling over the mountains. Plip. Plop. PLIP.
+"The **shukaku** (shoo-kah-koo) — harvest — is escaping!" cried Spud. "Potatoes in that basket! COUSINS!"
 
-"The **shukaku** (shoo-kah-koo) — harvest baskets!" cried Spud. "They're out in the open! They'll be soaked!"
+The basket bounded downhill toward the creek, potatoes squealing inside. Coro bounced after it, crumbs flying.
 
-Three round baskets sat at the field's edge, too heavy for any little potato to budge.
+He overtook it, planted himself in its path, and shut his eyes. BONK. Crispy stops baskets.
 
-Coro got behind the first and shoved. Nothing. He puffed, pfft-pfft-PFFT, and shoved again. It moved.
+Two more baskets sat in the open. Coro shoved. Nothing. He puffed, pfft-pfft-PFFT, shoved again. It moved.
 
-The second got away on the slope and rolled downhill toward the creek, potatoes squealing inside.
-
-Coro bounced after it, overtook it, and planted himself in its path. BONK. Crispy stops baskets.
-
-The biggest basket: Coro pushed. Spud pushed. Granny Imo pushed. The whole field pushed. A potato conga.
+The biggest: Coro pushed. Spud pushed. Granny Imo pushed. The whole field pushed. A potato conga.
 
 ---
 
-Into the warm dry barn they tumbled, just as the sky let go of everything it had.
+Into the warm dry barn they tumbled, just as the sky let go of everything.
 
 Coro stood dripping in the doorway, breadcrumbs glistening, a little damp and a lot proud.
 
 "CO-RO! CO-RO!" chanted every jagaimo in Hokkaido.
 
-"A fancy pastry would've melted," said Spud, bumping him. "A korokke shows up and gets it done."
-
-"That's who you come from," said Spud. "Knowing it helps you stand a little taller."
+"A fancy pastry would've melted," said Spud. "A korokke gets it done. That's who you come from."
 
 Coro stood taller. He felt it right down to his fluffy middle. Rooted.
 
@@ -88,13 +93,11 @@ Coro stood taller. He felt it right down to his fluffy middle. Rooted.
 
 Back at the night market, Lord Crackleworth peered down his nose. "And what are YOU?"
 
-Coro stood up straight, crispy and warm and proud as a harvest moon.
-
-"I'm Coro the Korokke. I come from Hokkaido's gold fields, from the **daichi** (dah-ee-chee) — great earth."
+"I'm Coro the Korokke," said Coro, proud as a harvest moon. "I come from Hokkaido's gold fields."
 
 "I'm a jagaimo," said Coro. "And nothing in the world is more wonderful than that."
 
-Lord Crackleworth's chocolate top slid slightly sideways. Nobody had ever out-humbled him before.
+Lord Crackleworth's monocle fogged clean over. He had been out-humbled, and he knew it.
 
 ---
 
@@ -107,12 +110,12 @@ Spud and Granny Imo snuggled deeper into the dark earth, smiling.
 ---
 
 ## Goodnight Blessing
-The simplest things are the strongest. Your roots run deep and good. You are not just anything; you are the whole world, tucked into one small, steady heart. Sleep deep, like a jagaimo in the cool dark earth. Goodnight.
+The simplest things are the strongest. Your roots run deep and good. You are the whole world, tucked into one small, steady heart. Sleep deep, like a jagaimo in the cool dark earth. Goodnight.
 
 ## AI Image Prompts
-1. Key scene — warm whimsical storybook illustration: a tiny golden-breaded korokke character with a small knitted scarf and a puff of steam, braced crumbs-first against a big round woven harvest basket on a grassy slope, stopping it with a BONK as fat raindrops fall from a tumbling gray cloud over blue mountains, round lumpy potato faces peeking from the basket, a long conga line of cheerful dirt-smudged potatoes pushing a bigger basket behind him toward a red wooden barn; palette of gold, green, slate-gray sky and warm barn red; funny and heroic.
+1. Key scene — warm whimsical storybook illustration of a Hokkaido potato field under a tumbling gray storm cloud: a round dirt-smudged young potato has just yanked a root-vegetable with a scrunched red baby face and leafy hair out of the soil, and it is mid-shriek with its tiny mouth wide open, every leaf in the field blown flat by the sound; a tiny golden-breaded korokke character with a small knitted scarf clutches his crumbs in alarm, a plump old potato tips over backwards, a big round woven harvest basket bounces away down a grassy slope, and a knee-high brown-capped faceless mushroom on two stubby legs waddles off down the row pretending nothing happened; blue mountains behind, palette of gold, green, slate gray and warm earth, funny and lively.
 2. Character portrait — Coro the Korokke: a crispy golden-breaded oval croquette with fluffy mashed-potato texture, gentle flustered-but-happy eyes, a tiny puff of steam rising from his middle, a small knitted scarf, a dab of soil on his cheek, standing proud and round; soft storybook shading, warm earthy tones, kawaii and cozy.
-3. Closing scene — nighttime in the Hokkaido fields: Spud the round dirt-smudged young potato and plump Granny Imo snuggled into dark soil among rows of sleeping leafy potato plants under a vast starry sky, silver mist drifting low, a soft round moon over the hills, a red barn in the distance; peaceful, dreamy, deep-blue-and-gold palette, the coziest goodnight feeling.
+3. Closing scene — nighttime in the Hokkaido fields: Spud the round dirt-smudged young potato and plump Granny Imo snuggled into dark soil among rows of leafy potato plants under a vast starry sky, silver mist drifting low, a soft round moon over the hills, a red barn in the distance; peaceful, dreamy, deep-blue-and-gold palette, the coziest goodnight feeling.
 
 ## Animation Notes
 - **Cast:**
@@ -120,12 +123,17 @@ The simplest things are the strongest. Your roots run deep and good. You are not
   - `SPUD` — Spud: a round lumpy earthy-brown young potato with two dark eyes, a smudge of soil on one cheek, a leafy sprout on top; voice: cheerful, folksy, hiccup-laughing.
   - `GRANNYIMO` — Granny Imo: a plump old russet potato with three soil smudges and a leaf tucked behind one ear, kind wrinkly eyes; voice: creaky, warm, matter-of-fact.
   - `CRACKLEWORTH` — Lord Crackleworth the Third: a tall glossy éclair with a shiny chocolate top, a cream-filled smirk, a tiny monocle; voice: snooty, drawling, posh.
+  - `MUSHROOM` — a Walking Mushroom (Delicious in Dungeon): a knee-high brown-capped mushroom with two stubby legs and no face, waddling; voice: none.
+  - `MANDRAKE` — a Mandrake (Delicious in Dungeon): a root-vegetable with a scrunched baby face and leafy hair, pulled from the ground mid-shriek; voice: one long shriek.
+  - `BULBASAUR` — Bulbasaur: a teal frog-like Pokémon with a green bulb on its back; voice: "Bulba!"
 - **Scenes:**
-  1. A lantern-lit night market, night, fancy sweets floating and bragging, a small croquette stall at the edge.
+  1. A lantern-lit night market, night, fancy sweets floating and bragging, a small croquette stall at the edge, a tall monocled éclair.
   2. The edge of rolling Hokkaido potato fields on a bright morning, gold-green stripes over the hills, blue mountains, a huge sky, a train stop behind.
-  3. Between the leafy rows of the potato field in warm daylight, lumpy potato faces peeking from the soil, the windy field edge with mountains beyond.
-  4. The far edge of the field under a tumbling gray storm cloud, three big round woven harvest baskets, a grassy slope down to a creek, rain beginning.
-  5. Inside a warm dry red wooden barn, rain pouring outside the open doorway, baskets safe, lantern light.
-  6. The lantern-lit night market again, night, the croquette stall, the tall éclair.
-  7. The Hokkaido fields at night, stars, low silver mist, potatoes tucked into dark soil, a soft moon.
-- **Budget:** 674 narrated words · 42 beats · 7 scenes · est. 4:58
+  3. Between the leafy rows of the potato field in warm daylight, lumpy potato faces peeking from the soil, a teal frog-like creature with a bulb on its back dozing between plants, the windy field edge with mountains beyond.
+  4. The potato rows under a tumbling gray storm cloud, three big round woven harvest baskets at the field's edge, a knee-high brown-capped faceless mushroom on two stubby legs waddling down the row, a root-vegetable with a scrunched baby face and leafy hair pulled from the soil mid-shriek, leaves blown flat, rain beginning.
+  5. The grassy slope down to a creek under the storm cloud, a runaway basket bouncing, two more baskets at the field's edge, rain falling harder.
+  6. Inside a warm dry red wooden barn, rain pouring outside the open doorway, baskets safe, lantern light.
+  7. The lantern-lit night market again, night, the croquette stall, the tall éclair.
+  8. The Hokkaido fields at night, stars, low silver mist, potatoes tucked into dark soil, a soft moon.
+- **Cameo shot:** beats 20–25, scene 4 (walk-on: beat 14, scene 3); speaks: yes
+- **Budget:** 670 narrated words · 42 beats · 8 scenes · est. 4:56
