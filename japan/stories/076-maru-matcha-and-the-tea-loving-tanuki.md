@@ -5,24 +5,19 @@
 **Setting:** A countryside teahouse tucked among misty hills and rustling bamboo
 **Theme:** Sharing turns a sneaky guest into a true friend
 **Japanese Spotlight:** **tanuki** (tah-noo-kee) — raccoon dog
+**Cameo:** Ojisan and the Elf (Uncle from Another World) — a scruffy uncle in a grey tracksuit steps out of a portal and casts a disguise spell that seals Pon inside a flawless teapot, while the Elf insists she only followed to say the spell was wrong; walk-on: a Pom Poko tanuki (Pom Poko)
 
 ---
 
-On a misty hill where the bamboo whispered, sat the coziest little teahouse you ever did imagine.
+On a misty hill where the bamboo whispered sat the coziest little teahouse you ever imagined.
 
-Inside, Maru Matcha whisked her finest cup, steam curling up in lazy green ribbons.
+Inside, Maru Matcha whisked her finest cup. "Whisk slow," she murmured. "Feel calm." She lifted it. SLURRRP. Empty.
 
-"Whisk slow," she murmured, settling onto her cushion. "Feel calm."
-
-She lifted her cup. She lowered it to admire it. SLURRRP. Empty.
-
-The steam was still rising from the rim, looking just as confused as she was.
-
-"How curious," said Maru, very calmly. "Tea does not usually drink itself."
+"How curious," said Maru calmly. "Tea does not drink itself. I want ONE quiet cup."
 
 ---
 
-She whisked a second cup and watched it the whole way, whisk raised like a sword.
+She whisked a second cup and guarded it, whisk raised like a tiny bamboo sword.
 
 A leaf drifted past the window. Maru glanced at it for one heartbeat. SLURP-GULP.
 
@@ -30,69 +25,73 @@ Empty again, and one fuzzy brown hair floated in the bottom of the cup.
 
 "A thief with fluff," said Maru, lifting the hair on her whisk. "The plot thickens."
 
-Beside the tea shelf stood a teapot she had never owned. It was lumpy. It had a tail.
+By the shelf stood a teapot she had never owned. Lumpy. With a tail.
 
 "Ta-daaa," said the teapot, slightly muffled.
 
 "That," said Maru gently, "is the least convincing teapot I have ever met."
 
-POOF. Out tumbled a **tanuki** (tah-noo-kee) — raccoon dog, pot-bellied, stripey-faced, with matcha foam on his whiskers.
+POOF. Out tumbled a **tanuki** (tah-noo-kee) — raccoon dog, with matcha foam on his whiskers.
 
 ---
 
-"Lovely weather for tea," he said. "Not that I'd know. I haven't had any. Definitely not three cups."
+"I'm Pon," said the tanuki. "Finest belly-drummer in the hills. Also the thirstiest."
 
-"You said three," noted Maru.
-
-"Two cups," said the tanuki. "I'm Pon. Finest belly-drummer in the hills. Also the thirstiest."
-
-"I would like one quiet cup of tea," said Maru. "Just one. Then we talk."
-
-Pon's eyes went wide. "Talk? Nobody talks to a tanuki. They chase us with brooms!"
+Pon's eyes went wide. "Nobody talks to a tanuki! They chase us with brooms!"
 
 He snapped his paws. POOF. Now a garden rock sat by the shelf. With whiskers.
 
-Maru walked around the rock. A snail crawled onto its nose. The rock sneezed.
+Maru walked around the rock. A snail crawled onto its nose. The rock sneezed. "Bless you," said Maru.
 
-"Bless you," said Maru.
+"Real tanuki have MAGNIFICENT disguises," wailed the rock, turning back into Pon. "I'm just round."
 
 ---
 
-The rock panicked. It bounced sideways into the tea shelf, which tipped like a sleepy giraffe.
+The paper wall glowed. A portal yawned open, and out stepped a scruffy uncle in a grey tracksuit.
 
-Tea tins rained down. Pon caught one on his belly, one on his head, one in his teeth.
+"Disguise trouble? I know a spell," said Ojisan flatly, one arm sparkling. "From another world. Hold still."
 
-Then the kettle slid off the fire. Pon dove. He caught it, bom, on his belly.
+FWISH. Where Pon stood sat a flawless teapot, glossy and round, rattling in a muffled panic.
 
-"Ta-daaa!" said Pon. Then, "Hot. Hot hot HOT."
+A blond elf stepped out, blushing. "I only followed to say that spell was WRONG," she huffed.
+
+The teapot hopped, panicked, and bonked the shelf. Tins rained down. "Huh," said Ojisan, and snapped. POOF.
+
+Pon tumbled free, dizzy. Ojisan backed into the portal, waving flatly, the Elf blushing beside him.
+
+---
+
+"Three guests," said Maru calmly, "and zero tea." Then the kettle slid off the fire.
+
+Pon dove and caught it, bom, on his belly. "Ta-daaa!" said Pon. Then, "Hot. HOT."
 
 He shot out the door, kettle and all, and bounced down the hill into the bamboo. SPROING.
 
 Maru found him in the cold spring, belly up, a frog sitting on his nose.
 
-"Tanuki are supposed to be magnificent shape-shifters," sighed Pon. "I'm just round."
+On the bank, a second tanuki juggled five leaves, cackling, half raccoon-dog and half leaf-pile.
+
+"See?" sighed Pon, pointing a soggy paw. "THAT is magnificent. I'm just round."
+
+"Round," said Maru, "is exactly the shape I need." She held out the bucket.
 
 ---
 
-Maru looked at the soggy tanuki for a long calm moment. Then she held out the bucket.
+"My legs are short," she said. "Help me carry water, and we drink together."
 
-"My legs are short," she said. "The bucket is heavy. Help me carry water, and we drink together."
+"I do not own a broom," said Maru, as Pon flinched. "A broom is a poor host."
 
-"Together?" whispered Pon. "Not chased? Not broomed?"
+Pon balanced the bucket on his belly and bounced uphill, bom-bom-bom, frog riding on top.
 
-"I do not own a broom," said Maru. "A broom is a poor host."
-
-Pon balanced the full bucket on his belly and bounced up the hill, bom-bom-bom, frog riding on top.
-
-He bonked into the front step, BOOMF, and sat down dizzy. Every drop was still in the bucket.
+He bonked the front step, BOOMF, and sat down dizzy. Every drop stayed in the bucket.
 
 "You are a terrible teapot," said Maru, "but a magnificent water-bucket."
 
 ---
 
-Inside, Maru set out a second cushion and whisked, swish-swish-swish, until the froth stood up proud.
+Inside, Maru set out a second cushion and whisked until the froth stood up proud.
 
-She turned the cup three times, the polite way. "**Dōzo** (doh-zo) — please. Made on purpose, for a guest."
+She turned the cup three times, politely. "**Dōzo** (doh-zo) — please. Made on purpose, for a guest."
 
 Pon took the tiniest sip in tanuki history. His ears wiggled. His tail fluffed.
 
@@ -104,33 +103,38 @@ Pon drummed his belly, bom-bom-bom, so hard the teacups rattled. "**Oishii** (oh
 
 ---
 
-The mist settled soft on the hill. Maru whisked, swish-swish. Pon drummed, bom-bom, softly.
+The mist settled soft on the hill. Maru set a third cushion by the door, just in case.
 
-Maru set a third cushion by the door, just in case the hill sent anyone else.
+Pon drummed, bom-bom, softly, and the frog kept time on the windowsill.
 
-"There's always enough tea to share," yawned Pon. "I learned that from the best."
+"There's always enough tea to share," said Pon, patting his belly. "I learned that from the best."
 
 ---
 
 ## Goodnight Blessing
-May your rest be warm as fresh-whisked tea and your heart as round as a tanuki's drum. May a cushion always wait for you, and a friend save you the first sip. Breathe slow. Feel calm. Goodnight.
+May your rest be warm as fresh-whisked tea and your heart as round as a tanuki's drum. May a friend always save you the first sip. Breathe slow. Feel calm. Goodnight.
 
 ## AI Image Prompts
-1. Key scene — warm whimsical storybook illustration, watercolor palette of jade green, honey-gold and misty blue: inside a cozy countryside Japanese teahouse the tea shelf tips over and tins of tea rain down, while a roly-poly tanuki (round pot belly, stripey raccoon-mask face, bushy tail) catches one tin on his belly, one on his head and one in his teeth; tiny Maru Matcha, a small jade-green bowl-headed friend with a frothy matcha-cream swirl and a bamboo whisk, watches calmly with half-moon eyes; bamboo sways outside the paper windows, gentle slapstick, cozy mood.
+1. Key scene — warm whimsical storybook illustration, watercolor palette of jade green, honey-gold and misty blue: inside a cozy countryside Japanese teahouse a round glowing portal hangs open in the paper wall; a scruffy anime uncle with messy dark hair and a thin beard in a grey tracksuit holds one sparkling arm toward a flawless glossy round teapot that rattles and hops on the floor, while a blond anime elf woman with long pointed ears in a white-and-green tunic stands behind him, arms crossed and blushing; the tea shelf tips and tins of tea rain down; tiny Maru Matcha, a small jade-green bowl-headed friend with a frothy matcha-cream swirl and a bamboo whisk, watches calmly with half-moon eyes; bamboo sways outside, gentle slapstick, cozy mood.
 2. Character portrait — Maru Matcha: a small jade-green bowl-headed character with a frothy matcha-cream swirl on top like soft-serve hair, calm half-moon eyes, rosy cheeks, holding a tiny bamboo whisk up like a wand with a single fuzzy brown tanuki hair balanced on its tip, a deadpan little smile; soft storybook lighting, simple cream background.
-3. Closing scene — the little hilltop teahouse glowing honey-gold in soft afternoon mist, bamboo drifting; on the veranda Maru Matcha whisks a cup while Pon the tanuki sits on his cushion patting his round belly like a drum, eyes closed and content, a small green frog on the windowsill, and a third empty cushion waiting by the door; peaceful, sleepy, warm watercolor palette.
+3. Closing scene — the little hilltop teahouse glowing honey-gold in soft afternoon mist, bamboo drifting; on the veranda Maru Matcha whisks a cup while Pon the tanuki sits on his cushion patting his round belly like a drum, eyes closed and content, a small green frog on the windowsill, and a third empty cushion waiting by the door; peaceful, warm watercolor palette.
 
 ## Animation Notes
 - **Cast:**
   - `MARU` — Maru Matcha: a small jade-green bowl-headed friend with a frothy matcha-cream swirl on top, calm half-moon eyes, a tiny bamboo whisk tucked behind one ear; voice: calm, deadpan, gentle.
   - `PON` — Pon: a roly-poly tanuki with a big round pot belly, stripey raccoon-mask face, bushy feather-duster tail, matcha foam on his whiskers; voice: eager, guilty, bouncy.
   - `FROG` — a small green frog with big calm eyes; no lines.
+  - `OJISAN` — Ojisan (Uncle from Another World): a scruffy anime man with a long tired face, messy dark hair and a thin beard in a grey tracksuit, one hand raised and glowing with a spell; voice: flat, earnest, slightly out of date.
+  - `ELF` — the Elf: an anime elf woman with very long blond hair, long pointed ears, green eyes, a white-and-green tunic and a bow on her back, arms crossed and blushing; voice: haughty, flustered, secretly fond.
+  - `POMPOKO` — a Pom Poko tanuki: a plump raccoon-dog juggling leaves, mid-transformation; voice: a cackle.
 - **Scenes:**
   1. Inside a cozy countryside teahouse in soft daytime mist: a cushion, a low table, a steaming green cup, paper windows, bamboo outside.
   2. The same teahouse room by the tea shelf: tins of tea, a kettle on a small fire, a lumpy teapot with a tail in the corner.
   3. The teahouse floor by the shelf: a whiskered garden rock, a snail, Maru circling calmly.
-  4. The teahouse as the shelf tips, tins falling, the kettle flying; then the bamboo slope outside and a clear cold spring at the bottom, misty green light.
-  5. The spring and the bamboo path up to the teahouse: a wooden bucket, a frog, the front step.
-  6. Inside the teahouse again: two cushions, the whisk, a frothy green cup turned the polite way, warm gold light.
-  7. The teahouse veranda in soft settling mist: two friends side by side, a third cushion by the door, bamboo leaves drifting.
-- **Budget:** 668 narrated words · 45 beats · 7 scenes · est. 4:58
+  4. The teahouse with a round glowing portal open in the paper wall: a scruffy anime uncle in a grey tracksuit with one sparkling arm, a blond anime elf woman in a white-and-green tunic blushing with arms crossed, a flawless glossy teapot rattling where the tanuki stood, the tea shelf tipping and tins falling.
+  5. The teahouse doorway as the kettle flies; then the bamboo slope outside and a clear cold spring at the bottom, misty green light, a plump tanuki juggling leaves on the bank.
+  6. The spring and the bamboo path up to the teahouse: a wooden bucket, a frog, the front step.
+  7. Inside the teahouse again: two cushions, the whisk, a frothy green cup turned the polite way, warm gold light.
+  8. The teahouse veranda in soft settling mist: two friends side by side, a frog on the windowsill, a third cushion by the door, bamboo leaves drifting.
+- **Cameo shot:** beats 17–22, scene 4 (walk-on: beat 27, scene 5); speaks: yes
+- **Budget:** 671 narrated words · 43 beats · 8 scenes · est. 4:57
