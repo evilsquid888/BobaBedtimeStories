@@ -100,6 +100,12 @@ Stage fright made visible, and always silly, soft and goofy, never scary. The **
 - **Appearance / prompt:** token `COLE` — `Cole, a small living San Francisco cable car, red and cream with gold trim, a brass bell on top, round headlight eyes, a friendly grille smile, and little wheels`. ID phrase: "the little red-and-cream cable car with the brass bell". He has wheels, so he may trundle; the "rock, never roll" rule is for round characters.
 - **Voice:** A cheerful clang and a chirpy "All aboard!"
 
+### The Van — Living Delivery Van (the driver in story 53)
+- **Catchphrase:** a soft horn toot (it has no words)
+- **Personality:** A kind grown-up at the wheel, drawn as a friendly living van so the eye-contact step has a face to look at. Gets distracted for a moment, then stops fully, looks right at Rosie, blinks its windshield and dips its bumper in a nod before the group crosses.
+- **Appearance / prompt:** token `VAN` — `the Van, a small boxy mint-green living delivery van with round headlight eyes, a wide friendly grille smile, a windshield that blinks like eyelids, little black wheels, and plain blank side panels`. ID phrase: "the boxy mint-green delivery van with the round headlight eyes". Its face is the windshield and headlights; eye contact is with its headlight eyes. It has wheels, so it may roll to a stop; any other traffic is "a car", narrated and never drawn.
+- **Voice:** a soft horn toot.
+
 ### Lulu — Almond Jelly (Rosie's friend, stories 06 and 11)
 - **Personality:** Shy, sweet, builds sandcastles alone until Rosie asks to play; turns eight in story 11.
 - **Appearance / prompt:** token `LULU` — `Lulu, a small wobbly glossy cube of white almond jelly with a sweet shy smile, rosy cheeks, tiny arms` (add "holding a tiny red bucket" or "wearing a tiny striped paper party hat" as the story needs).
@@ -113,7 +119,7 @@ Stage fright made visible, and always silly, soft and goofy, never scary. The **
 - **Appearance / prompt:** token `TANG` — `Tang the Tanghulu, a tall thin bamboo skewer of five glossy candied strawberries shining like red glass, a sweet friendly face on the top berry, tiny arms`.
 
 ### Kind grown-ups (one story each)
-Each gets a token and a short design in that story's Cast list: the librarian (07), the tea-stall cashier (08), Pat the store worker (09), June the gift-shop cashier (10), Lulu's mom and dad (11), the bus driver (13), the dentist (14), the stall auntie (15), the art teacher (16), the play attendant (23), the diner server (24), the visiting auntie (25), the model-workshop helper (29), the craft-shop worker (32), and the observatory receptionist (38), the dance-studio host (42), the book-swap organizer (44), the station worker (46), and the homework-club tutor (48). Narrated people who remain off screen do not need reference images.
+Each gets a token and a short design in that story's Cast list: the librarian (07), the tea-stall cashier (08), Pat the store worker (09), June the gift-shop cashier (10), Lulu's mom and dad (11), the bus driver (13), the dentist (14), the stall auntie (15), the art teacher (16), the play attendant (23), the diner server (24), the visiting auntie (25), the model-workshop helper (29), the craft-shop worker (32), and the observatory receptionist (38), the dance-studio host (42), the book-swap organizer (44), the station worker (46), and the homework-club tutor (48), and the Van, the friendly living delivery van who is the driver (53). Narrated people who remain off screen do not need reference images.
 
 Stories 17–50 reuse Lulu, Guagua, and Tang rather than introducing a new child for every outing. Mom supports the real outings; Tori offers encouragement without doing Rosie's task; Cat appears in at least two stills and gets a place-specific laugh. The coaches rotate across the three established crews, with no coach repeated in consecutive new stories. Momo Mochi returns for story 44; Gallo and Pinto coach the parade team in story 49.
 
