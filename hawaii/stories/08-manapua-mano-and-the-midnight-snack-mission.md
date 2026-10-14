@@ -5,104 +5,107 @@
 **Setting:** A late-night Chinatown food stall in Honolulu
 **Theme:** Listen to your tummy AND your friends.
 **Hawaiian Spotlight:** **pau hana** (POW HAH-nah) = done with work / quitting time
+**Cameo:** Pac-Man (Pac-Man) — chomps down the dark alley gobbling every round snack in a row, then decides the round white bun looks like a pellet too; walk-on: Shikamaru (Naruto)
 
 ---
 
-In Honolulu's Chinatown, the lanterns were yawning, flickering low one by one along the street.
+In Honolulu's Chinatown, the lanterns yawned and flickered low, one by one.
 
 A soft chorus drifted down the lane: "**Pau hana** (POW HAH-nah) = done with work! Time for bed!"
 
-Everyone stretched. Everyone shuffled. Everyone except one round, pillowy steamed bun with a swirl-knot.
+Everyone stretched. Everyone shuffled. Everyone except one round, pillowy steamed bun.
 
-"Wait, wait, WAIT," said Manapua Mano, bouncing so hard steam puffed off his head.
+"Wait, wait, WAIT!" Manapua Mano bounced so hard steam puffed off his head like a kettle.
 
-His tummy went grrrrooowl. "See? That's not a sleepy noise. That's a SNACK noise!"
+His tummy went grrrrooowl. "Hear that? That's not a sleepy noise. That's a SNACK noise!"
 
-Lani the Loco Moco yawned, egg-hat sliding sideways. "It's pau hana, Mano. Pile it high tomorrow, sleepy bun."
+Lani the Loco Moco yawned, egg-hat sliding sideways. "It's pau hana, Mano. Pile it high tomorrow."
 
-But Manapua had gotten An Idea. His swirl-knot whirred like a tiny propeller.
+But Mano had An Idea. His swirl-knot whirred like a tiny propeller.
 
 ---
 
-"Hear me out," whispered Mano, huddling under the dark red awning. "A super-secret MIDNIGHT snack mission!"
+"A super-secret MIDNIGHT snack mission," whispered Mano under the dark awning. "One dumpling. Just one."
 
-"The woks are cold and the mission is over before it starts," said Lani. "Bed."
+"The woks are cold. Mission over," said Lani. "Bed."
 
 Honu Haupia blinked her ancient eyes. "Your tummy is loud, little bun. Friends are wise. Listen to both."
 
-"I heard 'far journeys'!" said Mano, already tiptoeing toward the dumpling cart. "That means YES!"
-
-It absolutely did not mean yes.
+"I heard 'far journeys'!" said Mano, tiptoeing toward the dumpling cart. "That means YES!"
 
 ---
 
-The dumpling cart hid in shadow, its bamboo steamers stacked like little round hats.
+Mano lifted the dumpling cart's top lid, slow as a sloth. "One quiet, polite, well-behaved dumpling."
 
-"Just one dumpling," whispered Mano, lifting the top lid. "One quiet, polite, well-behaved dumpling."
-
-FWOOMP. Steam burst out, and inside, a whole pile of dozing pork dumplings woke up at once.
+FWOOMP. Steam burst out, and a pile of dozing pork dumplings woke at once.
 
 "OH HELLO!" yelled the smallest dumpling, Pip. "ARE WE PLAYING?"
 
-"No," whispered Mano. "We are being sneaky."
+"Shh. We are being sneaky," whispered Mano.
 
-"SNEAKY PLAYING!" shrieked Pip, and leapt out. The whole dumpling family bounced after it like popcorn.
+"SNEAKY PLAYING!" shrieked Pip, and the whole dumpling family bounced out like popcorn.
 
-"Come back! With your inside voices!" hissed Mano. Dumplings do not have inside voices.
-
----
-
-Mano dove for Pip. Pip hopped left. Mano landed face-first in a flour sack.
-
-He grabbed a steamer basket for a net and swooped. He caught Lani's egg-hat.
-
-"Hey!" said Lani, suddenly bare on top. "That's my sunny side!"
-
-The dumplings bonked the lychee cart. The lychee cart wobbled into the tofu cart.
-
-A tower of white **doufu** (DOH-foo) = tofu squares toppled and bounced down the road like wobbly dominoes.
-
-A runaway scallion pancake unrolled itself into a long crispy red carpet.
-
-Lani slid down it on his own gravy, hollering, "PILE IT HIIIIGH!"
-
-"Your one teeny snack," panted Lani from the bottom, "is turning into a PARADE!"
+Mano dove. Pip hopped left. Mano landed face-first in a flour sack. Poof.
 
 ---
 
-Mano stood floury in the middle of it, swirl-knot undone, huge eyes brimming.
+Mano swooped a steamer basket like a net and caught Lani. All of Lani.
 
-"I just wanted a snack," he wailed softly. "Now there's a SNACK PARADE and I haven't eaten anything!"
+"Hey," said Lani from inside the basket, egg-hat squashed flat. "Mind the sunny side!"
 
-Honu glided in, calm as the deep sea. "Manapua. Look around. What does your tummy want?"
+The dumplings bonked the lychee cart, which wobbled into the tofu cart.
 
-"A snack!" sniffled Mano.
+A tower of white **doufu** (DOH-foo) = tofu toppled and bounced down the road like wobbly dominoes.
 
-"And what do your friends want?" asked Honu.
+A scallion pancake unrolled into a crispy carpet, and Lani slid down it on his own gravy.
+
+"PILE IT HIIIIGH!" hollered Lani, then from the bottom, "Your one teeny snack is a PARADE!"
 
 ---
 
-Mano looked. Lani had gravy in places gravy should never be. The dumplings had bounced into a flowerpot.
+The dumplings hopped into a long neat line down the dark alley, pale and round as pellets.
 
-Pip yawned in the flowerpot, pleats drooping, tuckered out from sneaky playing.
+WAKA WAKA WAKA. A flat round yellow chomper with a wedge mouth zoomed in, gobbling the line.
 
-Mano scooped it up, soft as a slipper, and tucked it gently back into the bamboo basket.
+Pac-Man chomped a dumpling. Chomp. A tofu square. Chomp. Then he stopped and eyed Mano.
+
+"I'M NOT A PELLET!" squeaked Mano, and bounced off so fast his swirl-knot flapped.
+
+Pip hopped onto the chomper's head and rode after Mano. "WAKA PLAYING!"
+
+The chomper gobbled the last tofu, hiccuped flour, and sat at the alley's end, grinning wide.
+
+---
+
+Mano wobbled back, floury, swirl-knot undone, huge eyes brimming.
+
+"I wanted ONE snack," he wailed. "Now there's a snack parade, and I nearly got snacked!"
+
+Honu glided in, calm as the deep sea. "Look around, Manapua. What does your tummy want? Your friends?"
+
+"A snack," sniffled Mano. Then he looked. Lani had gravy in places gravy should never be.
+
+Mano found Pip yawning in a flowerpot and tucked it, soft as a slipper, into its basket.
 
 "My friends wanted bed," said Mano, pink with shame. "My tummy isn't the only boss of me."
 
-"A snack shared at the right time with the ones you love," said Honu, "is a feast."
+---
 
 "New mission!" whispered Mano. "We made the mess, we fix the mess. That's **'ohana** (oh-HAH-nah) = family."
 
-Dumplings tucked in. Tofu stacked. The pancake carpet rolled neat. Lani found his egg-hat on a lantern.
+Dumplings tucked in. Tofu stacked. Pancake rolled neat. Lani patted his egg-hat back into place.
+
+On the lychee stall lay a ninja with a spiky ponytail, asleep through all of it.
+
+"What a drag," mumbled Shikamaru in his sleep, and snored on.
 
 ---
 
-Then Mano reached deep into his own pillowy middle. "Here. I've got plenty to share."
+Mano reached deep into his own pillowy middle. "Here. I've got plenty to share."
 
-He broke off warm steamy pieces for Lani, for Honu, a tiny one for Pip. Exactly enough.
+He broke off warm pieces for Lani, for Honu, a tiny one for Pip. Exactly enough.
 
-"To pau hana," said Mano, mouth full. "Together." It was the most delicious bite of his life.
+"To pau hana," said Mano, mouth full. "Together." His most delicious bite ever.
 
 "Best sneaky playing ever," mumbled Pip, half-asleep, and began the tiniest snore.
 
@@ -114,9 +117,9 @@ Four friends leaned together under one dozing lantern while Chinatown hushed. Pa
 Your day is done, little one. The sweetest snack is the one you share, warm and on time, with your whole 'ohana close. Snuggle down soft as a steamed bun. Pau hana, dear heart. Goodnight.
 
 ## AI Image Prompts
-1. Key scene — warm whimsical storybook illustration of a late-night Honolulu Chinatown street under dimmed red and gold lanterns: Manapua Mano, a round pillowy white steamed bun with a swirl-knot and rosy steam-blush cheeks, dusted in flour and swinging a bamboo steamer basket like a net, while tiny giggling pleated pork dumplings bounce everywhere, fluffy white tofu squares topple down the road like dominoes, and Lani the Loco Moco (a rice mountain with a burger-patty belt and shiny gravy rivers, no egg-hat) slides down a long unrolled scallion-pancake carpet on his gravy, laughing. Soft moonlight, cozy lantern glow, playful never scary, palette of warm reds, golds and steamy whites.
+1. Key scene — warm whimsical storybook illustration of a dark alley off a late-night Honolulu Chinatown lane under dimmed red and gold lanterns: a flat round yellow chomper with a wedge mouth and one eye zooms along a neat row of pale pleated pork dumplings, gobbling them up, while Manapua Mano, a round pillowy white steamed bun with a swirl-knot and rosy steam-blush cheeks, dusted in flour, bounces away in a panic with a tiny dumpling clinging to the chomper's head like a rider. Fluffy white tofu squares bounce down the road like dominoes behind them. Soft moonlight, cozy lantern glow, playful never scary, warm reds, golds and steamy whites.
 2. Character portrait — Manapua Mano: a soft pillowy white steamed bun with a sweet swirl-knot on top, rosy steam-blush on round cheeks, big bright joyful eyes, little wisps of steam curling off his head, bouncing mid-air with both soft arms clasped and a mischievous "I have an idea!" grin, a dusting of flour on one cheek. Warm storybook lighting, dim Chinatown lanterns soft-focus behind, cozy and adorable.
-3. Closing scene — Manapua Mano, Lani the Loco Moco (egg-hat back on, a little gravy-dappled) and Honu Haupia (a wobbly snow-white coconut-pudding sea turtle) gathered in a soft circle under one warm dozing lantern on a quiet Chinatown street at night, sharing steamy pieces of bun. Mano cradles Pip, the tiniest snoozing dumpling. Everyone full, floury and crinkly-eyed with happiness, palette of warm amber, soft white and twilight blue, tender bedtime mood.
+3. Closing scene — Manapua Mano, Lani the Loco Moco (egg-hat patted back into shape, a little gravy-dappled) and Honu Haupia (a wobbly snow-white coconut-pudding sea turtle) gathered in a soft circle under one warm dozing lantern on a quiet tidy Chinatown street at night, sharing steamy pieces of bun. Mano cradles Pip, the tiniest snoozing dumpling. Everyone full, floury and crinkly-eyed with happiness, palette of warm amber, soft white and twilight blue, tender bedtime mood.
 
 ## Animation Notes
 - **Cast:**
@@ -124,12 +127,16 @@ Your day is done, little one. The sweetest snack is the one you share, warm and 
   - `LANI` — Lani the Loco Moco: a hearty rice mountain crowned with a sunny fried-egg hat, a burger-patty belt, shiny gravy rivers running down; voice: hearty, sleepy, warm.
   - `HONU` — Honu Haupia: a wobbly snow-white coconut-pudding sea turtle with a jiggly shell patterned in haupia squares, gentle ancient eyes, slow flippers; voice: calm, slow, ancient.
   - `PIP` — Pip the smallest dumpling: a tiny pale pleated pork dumpling with a round tummy, big delighted eyes and a crimped top-knot; voice: tiny, loud, gleeful.
+  - `PACMAN` — Pac-Man: a flat round yellow chomper with a wedge mouth and one eye, chomping "waka waka" along a line of glowing pellets; voice: "waka waka".
+  - `SHIKAMARU` — Shikamaru (Naruto): an anime ninja with a spiky ponytail lying on his back watching clouds; voice: a bored "what a drag".
 - **Scenes:**
   1. Night: a Honolulu Chinatown lane, red and gold paper lanterns dimming one by one, food stalls pulling down their awnings, a sliver of moon above.
   2. Night: under the dark red awning of a shuttered noodle stall, one lantern's glow, cold woks.
-  3. Night: a dumpling cart tucked in shadow, bamboo steamer baskets stacked in a tower, a burst of steam from the top one.
-  4. Night: the lane in motion, a lychee cart and a tofu cart tipping, white tofu squares bouncing down the road, a long scallion pancake unrolled like a red carpet, a flour sack.
-  5. Night: the middle of the messy lane, lantern light, flour in the air, gravy puddles, dumplings everywhere.
-  6. Night: a clay flowerpot beside the dumpling cart with dumplings piled in it, the carts righted, tofu stacked, the pancake rolled neat, an egg-hat hanging on a lantern.
-  7. Night: one warm lantern over the quiet lane, four friends in a close circle, the street hushed and tidy.
-- **Budget:** 659 narrated words · 44 beats · 7 scenes · est. 4:54
+  3. Night: a dumpling cart tucked in shadow, bamboo steamer baskets stacked in a tower, a burst of steam from the top one, a flour sack.
+  4. Night: the lane in motion, a lychee cart and a tofu cart tipping, white tofu squares bouncing down the road, a long scallion pancake unrolled like a carpet.
+  5. Night: a dark alley off the lane, a long row of pale dumplings on the ground, a flat round yellow chomper with a wedge mouth zooming through them, then seated grinning at the alley's end.
+  6. Night: the middle of the messy lane, lantern light, flour in the air, gravy puddles, a clay flowerpot with a yawning dumpling in it.
+  7. Night: the carts righted, tofu stacked, the pancake rolled neat; a lychee stall with a spiky-ponytailed ninja asleep flat on his back on top of it.
+  8. Night: one warm lantern over the quiet lane, four friends in a close circle, the street hushed and tidy.
+- **Cameo shot:** beats 25–29, scene 5 (walk-on: beats 38–39, scene 7); speaks: yes
+- **Budget:** 664 narrated words · 44 beats · 8 scenes · est. 4:56

@@ -11,18 +11,18 @@ Every Hawaii story is written in the **five-minute animation format**: 36–48 o
 
 ## Story Index
 
-| # | Story | Main Character | Setting | Theme | Cameo |
+| # | Story | Main Character | Setting | Theme | Cameo | Cameo
 |---|-------|----------------|---------|-------|---|
 | 1 | [Dole Whip Dani and the Very First Aloha](stories/01-dole-whip-dani-and-the-very-first-aloha.md) | Dole Whip Dani | A sunny pineapple-stand and snack shack in Waikiki, Oahu | A warm hello can start a whole friendship. |  |
 | 2 | [Kai the Shave Ice and the Rainbow That Ran Away](stories/02-kai-the-shave-ice-and-the-rainbow-that-ran-away.md) | Kai the Shave Ice | A shave-ice cart on Waikiki Beach after a rain shower | Your colors are yours, even when you can't see them. |  |
 | 3 | [Malia the Malasada and the Warm Morning Batch](stories/03-malia-the-malasada-and-the-warm-morning-batch.md) | Malia the Malasada | A bustling Portuguese bakery in Honolulu at dawn | Sharing what you have makes more, not less. | Totoro (Studio Ghibli); walk-on: Hamtaro (Hamtaro) |
-| 4 | [Musubi Manu and the Bento Backpack Mix-Up](stories/04-musubi-manu-and-the-bento-backpack-mix-up.md) | Musubi Manu | A neighborhood plate-lunch shop and the streets of Kaimuki, Oahu | Being dependable is its own kind of brave. |  |
-| 5 | [Poke Pua and the Perfect Bowl](stories/05-poke-pua-and-the-perfect-bowl.md) | Poke Pua | A fish market and poke counter near Honolulu harbor | Done with love beats perfect every time. |  |
-| 6 | [Saimin Sam and the Great Noodle Knot](stories/06-saimin-sam-and-the-great-noodle-knot.md) | Saimin Sam | A steamy little saimin stand near a Honolulu plantation town, on the night of a noodle slurp-off | Owning a mistake makes you bigger, not smaller. |  |
-| 7 | [The Whole Gang Meets Honu Haupia](stories/07-the-whole-gang-meets-honu-haupia.md) | Honu Haupia | A quiet tide pool and reef just off Waikiki at sunset | Elders carry the stories that guide us home. |  |
-| 8 | [Manapua Mano and the Midnight Snack Mission](stories/08-manapua-mano-and-the-midnight-snack-mission.md) | Manapua Mano | A late-night Chinatown food stall in Honolulu | Listen to your tummy AND your friends. |  |
-| 9 | [Lilikoi Lani and the Sour Surprise](stories/09-lilikoi-lani-and-the-sour-surprise.md) | Lilikoi Lani | A backyard fruit garden in Manoa Valley, Oahu | A good joke lifts people up, never puts them down. |  |
-| 10 | [Mac the Macadamia and the Little Big Rescue](stories/10-mac-the-macadamia-and-the-little-big-rescue.md) | Mac the Macadamia | A macadamia farm and rocky cliff trail above Waikiki | The smallest one can make the biggest difference. |  |
+| 4 | [Musubi Manu and the Bento Backpack Mix-Up](stories/04-musubi-manu-and-the-bento-backpack-mix-up.md) | Musubi Manu | A neighborhood plate-lunch shop and the streets of Kaimuki, Oahu | Being dependable is its own kind of brave. | Stitch (Lilo & Stitch); walk-on: Meowth (Pokémon) |
+| 5 | [Poke Pua and the Perfect Bowl](stories/05-poke-pua-and-the-perfect-bowl.md) | Poke Pua | A fish market and poke counter near Honolulu harbor | Done with love beats perfect every time. | Maomao (The Apothecary Diaries); walk-on: Sanji (One Piece) |
+| 6 | [Saimin Sam and the Great Noodle Knot](stories/06-saimin-sam-and-the-great-noodle-knot.md) | Saimin Sam | A steamy little saimin stand near a Honolulu plantation town, on the night of a noodle slurp-off | Owning a mistake makes you bigger, not smaller. | Kirito (Sword Art Online); walk-on: Choji (Naruto) |
+| 7 | [The Whole Gang Meets Honu Haupia](stories/07-the-whole-gang-meets-honu-haupia.md) | Honu Haupia | A quiet tide pool and reef just off Waikiki at sunset | Elders carry the stories that guide us home. | Lapras (Pokémon); walk-on: Wooper (Pokémon) |
+| 8 | [Manapua Mano and the Midnight Snack Mission](stories/08-manapua-mano-and-the-midnight-snack-mission.md) | Manapua Mano | A late-night Chinatown food stall in Honolulu | Listen to your tummy AND your friends. | Pac-Man (Pac-Man); walk-on: Shikamaru (Naruto) |
+| 9 | [Lilikoi Lani and the Sour Surprise](stories/09-lilikoi-lani-and-the-sour-surprise.md) | Lilikoi Lani | A backyard fruit garden in Manoa Valley, Oahu | A good joke lifts people up, never puts them down. | Team Rocket: Jessie, James and Meowth (Pokémon); walk-on: Psyduck (Pokémon) |
+| 10 | [Mac the Macadamia and the Little Big Rescue](stories/10-mac-the-macadamia-and-the-little-big-rescue.md) | Mac the Macadamia | A macadamia farm and rocky cliff trail above Waikiki | The smallest one can make the biggest difference. | Edward Elric (Fullmetal Alchemist); walk-on: Waddle Dee (Kirby) |
 | 11 | [Kalua the Pig and the First Big Luau](stories/11-kalua-the-pig-and-the-first-big-luau.md) | Kalua the Pig | A sandy beachside luau with tiki torches near Waikiki | The best feasts are made of patience and love. |  |
 | 12 | [Poi Popo and the Old Island Stories](stories/12-poi-popo-and-the-old-island-stories.md) | Poi Popo | Under a banyan tree at the family luau, evening | Where we come from is part of who we are. |  |
 | 13 | [Pua the Pineapple and the Crooked Crown](stories/13-pua-the-pineapple-and-the-crooked-crown.md) | Pua the Pineapple | A pineapple plantation and luau stage on Oahu | True royalty is measured in kindness, not crowns. |  |
