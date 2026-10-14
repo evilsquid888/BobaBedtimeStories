@@ -5,30 +5,25 @@
 **Setting:** A steamy little saimin stand near a Honolulu plantation town, on the night of a noodle slurp-off
 **Theme:** Owning a mistake makes you bigger, not smaller.
 **Hawaiian Spotlight:** **kala mai** (KAH-lah MY) = excuse me / I'm sorry
+**Cameo:** Kirito (Sword Art Online) — steps out of the steam, dual-wields his swords through the noodle knot, buries everyone in bite-size noodle confetti, and apologizes for being dramatic; walk-on: Choji (Naruto)
 
 ---
 
-Between a banyan tree and a wobbly bus stop sat the happiest saimin stand on the whole island.
+Between a banyan tree and a bus stop sat the happiest saimin stand on the island.
 
-Warm steam curled into the night like sleepy little ghosts.
+In the biggest bowl lived Saimin Sam, showing off so hard he nearly slurped himself.
 
-In the biggest bowl on the counter lived Saimin Sam, showing off so hard he nearly slurped himself.
-
-Golden broth, curly noodles, a fish-cake smile, two green-onion eyebrows, and a soft-boiled egg cheek that blushed.
-
-Tonight that egg cheek was the pinkest pink you ever saw.
+Golden broth, curly noodles, a fish-cake smile, green-onion eyebrows, and an egg cheek blushing pinkest pink.
 
 "Slurp-Off champion," Sam hummed, swirling his noodles into a fancy loop. "That's gonna be ME."
 
 ---
 
-It was the night of the Great Slurp-Off. The big bamboo chopsticks hung ready above the counter.
+It was the Great Slurp-Off. The loopiest noodles would win a kiss of extra green onion.
 
-The loopiest, most slurpable noodles would win the crown: a kiss of extra green onion on top.
+"You're gonna win, Sam!" cheered Pip, a tiny udon bowl bouncing so hard her broth hopped.
 
-"You're gonna win, Sam!" cheered Pip, a tiny udon bowl bouncing so hard broth hopped over her rim.
-
-"I know," said Sam, his eyebrows doing the I-am-magnificent wiggle. "But they have to be PERFECT."
+"I know," said Sam, eyebrows doing the I-am-magnificent wiggle. "But they have to be PERFECT."
 
 "They look perfect already," said Wonton Winnie, her dumplings wiggling.
 
@@ -36,7 +31,7 @@ The loopiest, most slurpable noodles would win the crown: a kiss of extra green 
 
 ---
 
-The trouble started, as trouble so often does, with just one more swish.
+The trouble started, as trouble so often does, with one more swish.
 
 Swish. Swirl. Loop. Gloop. Two noodles crossed.
 
@@ -44,83 +39,89 @@ Sam stirred faster to fix it. Four noodles crossed. Then forty.
 
 This was like putting out a campfire with a bucket of extra campfire.
 
-Round and round and round, until every noodle had knotted into one enormous golden ball.
+Round and round, until every noodle knotted into one enormous golden ball, big as a beach hat.
 
-Big as a beach hat. Fish-cake smile in the middle. A green onion poking out like a flag.
+Fish-cake smile stuck in the middle. A green onion poking out like a flag.
 
-"Whoa," whispered Winnie. "That's the biggest knot I ever saw."
-
-Sam's egg cheek went pale instead of pink.
+"Whoa," whispered Winnie. "Biggest knot I ever saw." Sam's egg cheek went pale instead of pink.
 
 ---
 
-CLANG went the brass bell. "Ten minutes!" rumbled Pops, the old ramen bowl who had lost forty Slurp-Offs.
+CLANG went the bell. "Ten minutes!" rumbled Pops, the old ramen bowl who had lost forty Slurp-Offs.
 
-Ten minutes. And Sam had noodles you couldn't slurp with a fishing net.
+Ten minutes, and noodles you couldn't slurp with a fishing net.
 
-The trade wind jingled the doorbell. A slippery thought tiptoed in: you could say the wind did it.
+The steam split in two. Through it stepped Kirito, black coat swirling, two swords on his back.
 
-Everyone would believe him. He'd still be champion. His cheek could go right back to pink.
+"A knot," said Kirito calmly, drawing both swords. "I can handle this." His coat swirled dramatically.
 
-Sam opened his fish-cake mouth. "The wind..."
+SHING. SHING-SHING. The swords flashed too fast to see, and noodle bits rained down like confetti.
 
-The words tasted like cold broth and yesterday's noodles. He looked at his lonely green-onion flag.
+Pip vanished under a snowdrift of bite-size noodles. "I'm a NOODLE SNOWMAN!" she squeaked, delighted.
+
+The knot's heart bounced off the counter, BOING, tighter than ever, and landed on Sam's head.
+
+"Sorry," said Kirito, sheathing both swords. "That was dramatic." He sat on the bench, coat over his face.
 
 ---
+
+"Nine minutes," said Sam faintly, under his knot hat, "and now my noodles are confetti."
+
+The trade wind jingled the doorbell. A slippery thought tiptoed in: blame the wind.
+
+Sam opened his fish-cake mouth. "The wind..." The words tasted like cold broth and yesterday's noodles.
 
 "...didn't do it," Sam finished quietly.
 
-"**kala mai** (KAH-lah MY) = excuse me, I'm sorry. The wind didn't tangle my noodles. I did."
+"**kala mai** (KAH-lah MY) = excuse me, I'm sorry. The wind didn't do it. I did," said Sam.
 
-"I swirled and swirled because I wanted to win. I made the worst knot in soup history."
+"I swirled because I wanted to win. I made the worst knot in soup history."
 
 Sam squeezed his eyes shut and waited to feel small.
+
+---
 
 "Brah," said Winnie warmly. "My cousin once blamed a knot on a dog. There wasn't even a dog."
 
 "I once blamed soggy noodles on the moon," admitted Pops.
 
-"I blamed mine on Tuesday!" piped Pip.
+"I blamed mine on Tuesday!" piped Pip from inside her noodle snowdrift.
 
-The whole stand laughed, and Sam's cheek went pink again. The good kind. The honest kind.
+The whole stand laughed, and Sam's cheek went pink again. The honest kind.
 
 ---
 
-"I still have the world's biggest noodle knot," said Sam. "And eight minutes."
+"I still have the world's tightest noodle knot," said Sam. "And six minutes."
 
-Nobody went back to their own noodles. Every bowl leaned in to untangle Sam's.
+Every bowl leaned in. "Pull there!" cried Winnie, tugging a loop with a dumpling.
 
-"Pull there!" cried Winnie, tugging a loop with a dumpling.
+Pip climbed inside the knot. "A noodle maze! I see the exit! Or my face!"
 
-Pip climbed inside the knot. "It's a noodle maze in here! I see the exit! Or my face!"
+Pops pulled one wrong strand. BOING. Everybody groaned, then laughed harder.
 
-The fish cake popped free and bonked Pip on the head.
+Loop by loop, the knot came undone, and Sam felt BIGGER with every loop.
 
-Pops pulled one wrong strand. The knot tightened with a BOING. Everybody groaned, then laughed harder.
-
-Loop by loop, the knot came undone, and Sam felt BIGGER with every loop. Not smaller. Bigger.
-
-His freed noodles draped back into the broth, long and gleaming and loopier than ever.
+His freed noodles draped back into the broth, shorter, gleaming, and loopier than ever.
 
 ---
 
 The Slurp-Off was a glorious mess of broth, giggles, and flying green onions. Who won? Nobody cared.
 
-"I thought owning up would make me a smaller bowl," Sam told Pip as the steam went soft.
+Choji, a round ninja with swirl cheeks, slurped every noodle bit off the counter. "Crunchy," he munched.
 
-"And?" yawned Pip.
+"I thought owning up would make me a smaller bowl," Sam told Pip, who yawned.
 
 "I think," said Sam, cheek glowing pink and proud, "I'm the biggest one on the counter now."
 
 ---
 
 ## Goodnight Blessing
-Everybody makes a tangle sometimes. A slippery little voice will whisper, blame the wind, but you are braver than that voice. Say kala mai and you grow bigger, warmer, truer. Steam gently. Dream softly. Goodnight.
+Everybody makes a tangle sometimes. A slippery voice will whisper, blame the wind, but you are braver than that voice. Say kala mai and you grow bigger, warmer, truer. Steam gently. Dream softly. Goodnight.
 
 ## AI Image Prompts
-1. Key scene — warm whimsical storybook illustration in a cozy steamy palette of golden broth, pink fish-cake and green onion: inside a tiny old-fashioned Hawaiian saimin stand at night, a wide cheerful blue noodle-soup bowl (Saimin Sam) with green-onion eyebrows and a soft-boiled-egg cheek looks sheepish beside an enormous tangled noodle-knot the size of a beach hat, one lonely green onion sticking out the top; a plump wonton bowl, an old ramen bowl and a teacup-sized udon bowl leaning in to untangle it, all laughing; soft lantern glow, curling steam shaped like sleepy ghosts, a banyan tree outside the window.
+1. Key scene — warm whimsical storybook illustration in a cozy steamy palette of golden broth, pink fish-cake and green onion: inside a tiny old-fashioned Hawaiian saimin stand at night, a slim anime teen with black hair in a long black coat stands on the counter mid-swing with two swords flashing, a blizzard of bite-size noodle confetti raining down over a wide cheerful blue noodle-soup bowl (Saimin Sam) with green-onion eyebrows and a soft-boiled-egg cheek, an enormous tight noodle-knot bouncing toward his head, a teacup-sized udon bowl buried to the eyes in noodle bits, a plump wonton bowl and an old ramen bowl gasping; soft lantern glow, curling steam shaped like sleepy ghosts, a banyan tree outside the window.
 2. Character portrait — Saimin Sam: a wide blue bowl brimming with curly golden saimin noodles in steaming broth, a pink-and-white fish-cake slice forming a smile, two wiggly green-onion eyebrows mid-expression, a blushing soft-boiled-egg cheek, gentle wisps of steam rising; soft storybook lighting, cozy plantation-town saimin stand in the background, a kind and slightly vain expression.
-3. Closing scene — twilight palette of deep blue and warm lantern-gold: the saimin stand closing for the night, Saimin Sam sitting tall and content with his noodles long and gleaming again, a tiny sleepy udon bowl yawning beside him, soft steam curling up toward the first stars, the little doorway bell still and quiet, peaceful contented mood.
+3. Closing scene — twilight palette of deep blue and warm lantern-gold: the saimin stand closing for the night, Saimin Sam sitting tall and content with his noodles gleaming and loopy again, a tiny sleepy udon bowl yawning beside him, a round anime ninja with swirl cheeks happily licking the last noodle bits off the counter, soft steam curling up toward the first stars, peaceful contented mood.
 
 ## Animation Notes
 - **Cast:**
@@ -128,12 +129,16 @@ Everybody makes a tangle sometimes. A slippery little voice will whisper, blame 
   - `WINNIE` — Wonton Winnie: a plump round soup bowl with wiggly wontons bobbing on top and rosy cheeks; voice: giggly, warm, kind.
   - `POPS` — Pops: an old chipped ramen bowl, slow and steamy, with a soft-boiled egg half and a nori sheet like a hat; voice: slow, rumbly, gentle.
   - `PIP` — Pip: a teacup-sized udon bowl with one thick noodle curl and broth that hops when she bounces; voice: tiny, squeaky, excited.
+  - `KIRITO` — Kirito (Sword Art Online): an anime teen with black hair in a long black coat with two swords on his back; voice: calm, modest.
+  - `CHOJI` — Choji (Naruto): a round anime ninja with spiky brown hair, swirl cheek marks and a bag of chips; voice: munching, cheerful.
 - **Scenes:**
   1. Night: a tiny saimin stand between a banyan tree and a wobbly bus stop, warm lantern light, steam curling, one big blue bowl on the counter.
   2. The stand's counter at night, a row of soup bowls, big bamboo chopsticks hanging above, a brass bell.
   3. The counter close up, noodles swirling into an enormous golden knot, one green onion poking out the top.
-  4. The stand at night with the open window, a doorbell jingling in the trade wind, the brass bell, the knot on the counter.
-  5. The counter, the row of bowls leaning in toward Sam, warm lantern light.
-  6. The counter mid-untangling: loops of noodle everywhere, a tiny udon bowl inside the knot, a fish cake popping loose.
-  7. The stand late at night, steam going soft, green onions scattered, lanterns dimming, the first stars outside.
-- **Budget:** 661 narrated words · 46 beats · 7 scenes · est. 4:56
+  4. The stand at night, the brass bell, thick steam parting around a black-coated anime teen with two swords on the counter, noodle confetti raining down, a tiny udon bowl buried in noodle bits, the knot landing on Sam like a hat; then the teen seated on the bus-stop bench with his coat over his face.
+  5. The counter at night, Sam wearing the knot, noodle bits everywhere, the doorbell jingling in the trade wind.
+  6. The counter, the row of bowls leaning in toward Sam, warm lantern light, noodle bits on everything.
+  7. The counter mid-untangling: loops of noodle everywhere, a tiny udon bowl inside the knot, a knot going BOING.
+  8. The stand late at night, steam going soft, green onions scattered, a round swirl-cheeked anime ninja slurping noodle bits off the counter, lanterns dimming, the first stars outside.
+- **Cameo shot:** beats 19–24, scene 4 (walk-on: beat 43, scene 8); speaks: yes
+- **Budget:** 669 narrated words · 45 beats · 8 scenes · est. 4:58
