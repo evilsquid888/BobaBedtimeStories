@@ -61,7 +61,7 @@ Parker stood there in his plain navy vest, brass whistle on its cord, curly tail
 > **CHOMP-chomp, GULP! Another one down!**
 > **It's the Little Shop of Horrors in the night-market town!**
 > **Count 'em on your fingers, count 'em on your toes —**
-> **One more friend, and down the hatch it goes!**
+> **One more bite, and down the hatch it goes!**
 
 ---
 
@@ -77,7 +77,7 @@ One vine. One flick. One glossy little POP.
 Audrey slurped her up like a noodle off a spoon —
 "Sticky. Five stars. I'll be flossin' till June." *(Thirteen.)*
 
-**Taro** raised his glasses: "Now, young sprout, be wise.
+**Taro** pushed up his glasses: "Now, young sprout, be wise.
 Good things take time to st—" SURPRISE.
 A burp. A purple puff. A very polite sigh.
 "Tastes like a library. Dusty. Dry." *(Twelve.)*
@@ -91,15 +91,15 @@ GULP. Then a shiver. Then Audrey's eyes went wide:
 > **CHOMP-chomp, GULP! Another one down!**
 > **It's the Little Shop of Horrors in the night-market town!**
 
-**Mango** in her sweatband ran laps around the pot:
+**Mango** in his sweatband ran laps around the pot:
 "Catch me if you can — I'm in season, you're not!"
 He could. He did. One vine like a lasso thrown.
-"Juicy," said the plant, and spat the sweatband out alone. *(Ten.)*
+"Juicy," said the plant, and spat the sweatband out, alone. *(Ten.)*
 
 **Caǎo** didn't run. Pulled his beanie down low.
 "Chill. I've got this." (He did not, though.)
 Went down so calm he didn't even scream.
-From deep inside: "Honestly? Roomy. Nice steam." *(Nine.)*
+From deep inside: "Honestly? Roomy. Like a dream." *(Nine.)*
 
 **Aiyu** stepped up, shaking, see-through and small:
 "You can see right through me, so I can't lie at all:
@@ -115,6 +115,10 @@ Grandma **Hóng Dòu** shook her ladle: "Shame on you, dear!
 Everyone needs a little sweetness. Come here!"
 She bonked him on the lip. He swallowed her — *glug.*
 From inside, muffled: "This plant needs a HUG." *(Six.)*
+
+> ***"FEED ME!"***
+> **CHOMP-chomp, GULP! Another one down...**
+> *(Quieter this time. There are only six voices left to sing it, and one of them is a dog who does not sing.)*
 
 ---
 
@@ -175,10 +179,10 @@ Audrey leaned down until his green lips filled the whole frame. "*Feed me,*" he 
 
 Parker didn't run. Parker didn't bite.
 He set four paws square in the last of the light.
-"They all stood beside me. Every single one.
-That is what a general is for. So I'm not done."
+"They all stood up for me. Every single one.
+Right beside them is where a general goes. So I'm not done."
 
-But he had no plan. Parker had forgotten his lines in forty plays, and this was the forty-first. So he did what you do when you have nothing left at all.
+But he had no plan. Parker had forgotten his lines in forty plays, and this was the forty-first. Every **朋友** (péngyou) = friend he had was gone. So he did what you do when you have nothing left at all.
 
 He looked up.
 
@@ -217,7 +221,7 @@ The Spirit heard a bark from a dog in a jam,
 So He set a table, Audrey — and here I am.
 
 You gobbled up the sweetness, you gobbled up the tea,
-You gobbled up the kid who reads the warranty.
+You gobbled up the dumpling with the warranty.
 You wanted a hot dog? Here's what we'll do:
 The table's getting set... and the vegetable is YOU."
 
@@ -227,12 +231,14 @@ Parker blew the whistle. "**加油** (jiāyóu) = go for it!"
 
 And here is the important part, so lean in close: Audrey was a *plant*. Chopping up a plant isn't scary. It's called *cooking.*
 
+So Parker blew his whistle on every beat, and on every beat the great chopsticks came down.
+
 **CHOP!** went a vine — out popped Rosie, straw held high!
 **CHOP!** — there's Kelly. ("Glasses?" "Vest pocket." "Good guy.")
 **CHOP!** — Cat the penguin, moonwalking, scarf a-sweep!
 **CHOP!** — Marcus and Tori in a tangle, in a heap!
 **CHOP!** — Grandma Hóng Dòu, who'd been tucking them to sleep!
-**CHOP-CHOP!** — Feng (still wrapped), Aiyu (glowing), Caǎo ("Is it noon?"),
+**CHOP-CHOP!** — Feng (re-wrapping), Aiyu (glowing), Caǎo ("Is it noon?"),
 Mango, Bīng and Taro, Mochi stuck to a spoon —
 And last, with a bounce and a glossy little POP:
 **Boba!** "LET'S BOUNCE!" ...Fifteen. Full stop.
@@ -288,6 +294,26 @@ Parker slid over a single fish ball.
 
 ## Goodnight Blessing
 Little one, some nights feel like the last verse of the song, when the beat has stopped and you are the only one left in the room. You are not. Fifteen friends would stand in front of you, and when even they run out, you can still look up and call, and help is already on its way down through the rain. So count your friends on your fingers, count them on your toes, and let the warm steam carry you off to sleep. There is a place set for you at the table. Goodnight.
+
+## Bonus: The Rescue as a Bible Verse Short
+*Vibe: dark late-80s / early-90s cel anime · Score: synth bass, boom-bap drums, angelic choir · ~20s*
+
+Create a 20–22 second cinematic vertical video, 9:16, in a dark, richly painted late-1980s cel-anime style with heavy black shadows, neon magenta and toxic-green rim light, and soft film grain. Inside a vine-choked night-market shop at midnight, a colossal carnivorous plant with green lips and purple spots leans over one small red-and-cream Shiba Inu in a navy vest, who stands alone with four paws square. The dog lifts his head and gives one bark. The roof peels open, the storm clouds split, and a column of gold-white light drops through the rain with every drop hanging still inside it. Down the beam rides a great copper yin-yang hot pot on a ring of blue flame, steam streaming off him like a cape, a ladle in one hand and spear-length chopsticks in the other. The plant shrinks back, and a long table with fifteen glowing bowls unrolls across the floor between them.
+
+Use a palette of midnight indigo, neon magenta, vine green, copper and gold-white. The mood moves from lonely dread to huge, funny, table-setting joy. Start low behind the dog looking up at the plant, push in on his face as he barks, tilt straight up the beam, and end on a wide shot of the hot pot landing behind the table. Keep the dog, the plant and the hot pot consistent throughout, with no gore.
+
+Audio: A warm, steady male narrator reads the verse with calm confidence, then says "Psalm twenty-three, verse five." Behind the narration, hold a single low synth note in the dark, cut to silence on the bark, then bring in a boom-bap beat with a towering angelic choir as the light descends. Keep the music beneath the voice so every word is clear.
+
+Display this exact verse in clean ivory lettering with a soft gold glow over a dark lower-third panel, revealing each phrase in sync with the narration:
+
+"Thou preparest a table before me
+in the presence of mine enemies:
+thou anointest my head with oil;
+my cup runneth over.
+
+Psalm 23:5 (KJV)"
+
+Finish with the full verse and reference held steady over the hot pot steaming behind the long table. For the cleanest result, generate the visuals without lettering and add the verse as a separate text overlay during editing.
 
 ## AI Image Prompts
 1. Key scene — late-1980s / early-1990s hand-painted cel anime, dark rich OVA look with heavy black shadows, saturated neon magenta and toxic green rim light, visible film grain and soft VHS glow, dramatic low angle: inside a vine-choked night-market shop at midnight, a colossal carnivorous plant with green lips, purple spots and a long curling tongue looms out of a cracked clay pot over one small sturdy red-and-cream Shiba Inu in a plain navy vest with a brass whistle on a cord, who stands four paws square and unafraid; a pair of round glasses peeks from his vest pocket; rain streaks past a purple neon sign outside; spooky but goofy, the plant's eyes comically greedy, no gore.
