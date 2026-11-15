@@ -6,7 +6,7 @@ A growing family of cozy, funny, food-themed **bedtime stories for ages 9–12**
 
 | Collection | Stories | Language | Index |
 |-----------|--------:|----------|-------|
-| 🧋 **Taiwan** | 100 | Mandarin Chinese | below |
+| 🧋 **Taiwan** | 101 | Mandarin Chinese | below |
 | 🌺 **Hawaii** | 50 | Hawaiian | [hawaii/](hawaii/README.md) |
 | 🇨🇷 **Costa Rica** | 50 | Spanish (Tico) | [costa-rica/](costa-rica/README.md) |
 | ⛩️ **Japan** | 100 | Japanese | [japan/](japan/README.md) |
@@ -15,7 +15,7 @@ A growing family of cozy, funny, food-themed **bedtime stories for ages 9–12**
 | 🛡️ **Stay Safe** (Boba × Frostpeak × Costa Rica) | 30 | Mandarin + Spanish sprinkles | [stay-safe/](stay-safe/README.md) |
 | 🐈‍⬛ **KitKat** (cyberpunk anime short) | 1 | light Japanese | [kitkat/](kitkat/README.md) |
 
-**411 indexed stories total.** Each collection has its own README and Character Guide.
+**412 indexed stories total.** Each collection has its own README and Character Guide.
 
 ## Features
 - Main adventure collections: ~1,800–2,000 words per story; fun starts in the first 150 words
@@ -132,6 +132,7 @@ A growing family of cozy, funny, food-themed **bedtime stories for ages 9–12**
 | 98 | [The Night Before the Reunion](stories/98-the-night-before-the-reunion.md) | Douhua | A hushed, cozy guesthouse the night before the grand gathering | Calm before the joy is a gift too. |
 | 99 | [Sunrise Over the Whole Island](stories/99-sunrise-over-the-whole-island.md) | Dòu Jiāng | Dawn breaking over all of Taiwan as everyone travels to the reunion | A new day, gently begun, holds everything. |
 | 100 | [The Grand Island Reunion](stories/100-the-grand-island-reunion.md) | Boba | An island-wide festival joining every night market in Taiwan into one glowing chain of light | A hundred stories, one big delicious family. |
+| 101 | [Parker & the Little Shop of Horrors Hot Pot](stories/101-parker-and-the-little-shop-of-horrors-hot-pot.md) | Parker the Shiba Inu | A vine-covered new shop at the darkest end of the night market, at midnight, in the rain (a dark-but-silly rap musical in a late-80s anime look) | Friends who stand in front of you are worth standing up for, and there is always room at the table. |
 
 ## Mandarin Quick Reference
 

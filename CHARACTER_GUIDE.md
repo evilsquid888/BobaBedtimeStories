@@ -153,6 +153,28 @@ In Story 20, all 19 characters come together at the Grand Hotel Taipei for the u
 
 The full Frostpeak cast (Piper, Barnaby, Willa, Finnegan, Cleo Coldwater, Bjorn Bigpaws, Nora Snowmane, Teddy & Tilda Powderpuff, Magnus Meltsworth, Aurora Frostholm, Herschel the Walrus) shares one winter season with the Taiwan crew, plus six new characters: **Auntie Hù** (tea-egg self-defense mentor), **Coach Rosa the Flamingo** (Krav Maga instructor), **Sergeant Solveig Snowmane** (police), **Counselor Kumquat** (public defender), **the Smiling Stranger**, and **Sludge** (slush-puppy bully). The Costa Rica crew guests in the even-numbered Krav Maga stories. See [stay-safe/CHARACTER_GUIDE.md](stay-safe/CHARACTER_GUIDE.md).
 
+### Story 101: The Little Shop of Horrors Hot Pot
+
+Parker, Rosie, Tori, Marcus and Cat the penguin cross over from Life Lessons (see [lifelessons/CHARACTER_GUIDE.md](lifelessons/CHARACTER_GUIDE.md)). Three characters are new:
+
+**Kelly** (小籠包 xiǎolóngbāo) — Soup Dumpling, Marcus's best friend
+- Appears in: Story #101
+- Appearance: A plump little soup dumpling with eighteen neat pleats on top like a hair bun, a thin soft wrapper, rosy cheeks, tiny arms and legs, and round glasses forever fogged by her own steam. Full of very hot soup.
+- Catchphrase: "I read the fine print."
+- Personality: Sharp, dry, unflappable. Reads the back of every cereal box and the tiny words under every star. Brave in a practical way.
+
+**Guō Guō** (火鍋 huǒguō) — Hot Pot, the savior sent from above
+- Appears in: Story #101
+- Appearance: A great round copper yin-yang hot pot, one half bubbling spicy red and one half gentle gold, steam pouring off his shoulders like a cape, a ladle in one hand, spear-length chopsticks in the other, a ring of blue flame under him like rocket boots. Arrives down a column of gold-white light.
+- Catchphrase: "Half of me is spicy, and half of me is love!"
+- Personality: Booming, joyful, generous. Comes when someone calls for help and always sets a table with room for everyone.
+
+**Audrey** — giant carnivorous plant (a "he")
+- Appears in: Story #101
+- Appearance: Big as a parking lot in a cracked clay pot, green lips, purple spots, a tongue like a slide, a voice like a tuba with a bullfrog inside. Afterward: one tiny sprout in a chipped teacup.
+- Catchphrase: "FEED ME!" (also: "I ordered a HOT DOG.")
+- Personality: Greedy, grumpy, secretly lonely from growing in the dark. Much happier as hot pot greens. The sprout is on small snacks only.
+
 ### From Uncle Piggle Wiggle Universe
 
 **Uncle Piggle Wiggle**
