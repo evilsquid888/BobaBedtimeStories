@@ -56,6 +56,13 @@ Story 51 is the first story where Cat the penguin takes the lead (Rosie and Tori
 - **Appearance / prompt:** token `CLEO` — `Cleo, a round young orange tiger cub with bold black stripes, a white muzzle, fluffy cheeks, bright gold eyes, and a tiny purple hair bow`. ID phrase: "the orange tiger cub with the purple bow". (Not to be confused with Cleo Coldwater, the macaroni penguin from the Stay Safe arc.)
 - **Voice:** Booming, warm, surprised by her own volume.
 
+### Loren — Axolotl, Cat's best friend (story 54)
+- **Catchphrase:** "Ooh, refreshing!" (whenever she gets splashed, which is often)
+- **Personality:** Bubbly, game for anything, and the first to laugh at a soggy disaster. Loves water more than anyone, so a runaway hose is the best day ever. Spots the answer once she stops wiggling: in story 54 she points at the tap. Cat's partner in every chore that turns into an adventure.
+- **Appearance / prompt:** token `LOREN` — `Loren, a small cheerful pink axolotl with a soft rounded body, a wide happy smile, tiny shiny black eyes, three feathery magenta gills fanning out on each side of her head like party streamers, a frilly see-through tail fin, and four tiny stubby legs with little fingers`. ID phrase: "the pink axolotl with the feathery gills".
+- **Voice:** Bright, giggly, a little splashy.
+- **Origin:** Adapted from Loren in "The Wiggly Worm," a story by Cat Chen.
+
 ### The Jitters and the Demon King of Stage Fright (story 51)
 Stage fright made visible, and always silly, soft and goofy, never scary. The **Jitters** (token `JITTERS`) are fist-sized fuzzy plum-purple fluffballs with huge white googly eyes, chattering buck teeth and skinny knocking knees; they tumble out of the wings whenever a spotlight comes on. Their **Demon King** (token `DEMONKING`) is a big puffy plum-purple shadow shaped like a stage curtain with tassels, a crumpled gold paper crown, enormous googly eyes, stubby arms and knees that knock loudest of all. He shrinks every time someone names him, breathes, or bows to him politely, and ends up plum-sized, clapping in the front row. He may return whenever a story needs a worry with a face.
 
