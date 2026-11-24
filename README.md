@@ -14,12 +14,14 @@ A growing family of cozy, funny, food-themed **bedtime stories for ages 9–12**
 | 🌹 **Life Lessons** | 54 | light Mandarin | [lifelessons/](lifelessons/README.md) |
 | 🛡️ **Stay Safe** (Boba × Frostpeak × Costa Rica) | 30 | Mandarin + Spanish sprinkles | [stay-safe/](stay-safe/README.md) |
 | 🐈‍⬛ **KitKat** (cyberpunk anime short) | 1 | light Japanese | [kitkat/](kitkat/README.md) |
+| 🎄 **24 Days of Xmas** (Rosie's family × Frostpeak × Montreal and Quebec City) | 25 | light Mandarin, a little French | [xmas/](xmas/README.md) |
 
-**416 indexed stories total.** Each collection has its own README and Character Guide.
+**441 indexed stories total.** Each collection has its own README and Character Guide.
 
 ## Features
 - Main adventure collections: ~1,800–2,000 words per story; fun starts in the first 150 words
 - Life Lessons: 500–580 words plus a short blessing, with storyboards for approximately five-minute videos
+- 24 Days of Xmas: a Thanksgiving prologue and one five-minute holiday video story for each day of December 1–24, in the Life Lessons video format but written for fun and warmth, not lessons
 - Five-minute animation format (Japan 25–100, all of Hawaii): 36–48 one-action beats, ~600–680 narrated words, Animation Notes per story; see [FIVE_MINUTE_STORY_GUIDE.md](FIVE_MINUTE_STORY_GUIDE.md) and `check_five_minute.py`
 - Vivid food characters with catchphrases and consistent voices
 - Local-language vocabulary woven in naturally (term + pronunciation + English on first use)
